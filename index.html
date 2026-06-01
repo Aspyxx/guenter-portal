@@ -2,64 +2,150 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Günters Informationsportal</title>
 
 <style>
+
 body{
-    font-family: Arial, sans-serif;
-    background:#f4f4f4;
     margin:0;
-    padding:40px;
+    font-family:Arial, sans-serif;
+    background:#f2f4f7;
+}
+
+header{
+    background:#0d3b66;
+    color:white;
     text-align:center;
+    padding:30px;
+}
+
+header h1{
+    margin:0;
+    font-size:40px;
+}
+
+header p{
+    margin-top:10px;
+    font-size:18px;
 }
 
 .container{
-    max-width:900px;
+    max-width:1200px;
     margin:auto;
-    background:white;
     padding:30px;
-    border-radius:12px;
-    box-shadow:0 0 20px rgba(0,0,0,0.1);
 }
 
-h1{
-    color:#003366;
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
 }
 
-.button{
-    display:inline-block;
-    margin:10px;
-    padding:15px 25px;
-    background:#003366;
-    color:white;
-    text-decoration:none;
-    border-radius:8px;
+.card{
+    background:white;
+    border-radius:15px;
+    padding:25px;
+    text-align:center;
+    box-shadow:0 3px 12px rgba(0,0,0,0.12);
+    transition:0.2s;
 }
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.icon{
+    font-size:50px;
+    margin-bottom:15px;
+}
+
+.card h2{
+    margin-top:0;
+    color:#0d3b66;
+}
+
+.card p{
+    color:#555;
+}
+
+footer{
+    margin-top:40px;
+    text-align:center;
+    color:#666;
+    padding:20px;
+}
+
 </style>
-
 </head>
+
 <body>
+
+<header>
+    <h1>Günters Informationsportal</h1>
+    <p>Willkommen auf Deinem persönlichen Startportal</p>
+</header>
 
 <div class="container">
 
-<h1>Willkommen bei Günters Informationsportal</h1>
+<div class="grid">
 
-<p>Version 1.0 über GitHub Pages</p>
+<div class="card">
+<div class="icon">🌤️</div>
+<h2>Wetter</h2>
+<p>Lengerich und Umgebung</p>
+</div>
 
-<p>Die Seite wird zukünftig erweitert um:</p>
+<div class="card">
+<div class="icon">⚽</div>
+<h2>Bundesliga</h2>
+<p>1., 2. und 3. Liga</p>
+</div>
 
-<p>
-🌤 Wetter<br>
-⚽ Bundesliga<br>
-🏛 Lengerich aktuell<br>
-🚀 Weltall<br>
-⚡ Energie<br>
-🤖 KI
-</p>
+<div class="card">
+<div class="icon">🏛️</div>
+<h2>Lengerich aktuell</h2>
+<p>Nachrichten und Stadtinfos</p>
+</div>
 
-<a class="button" href="https://keuter.xyz">Zur Hauptseite</a>
+<div class="card">
+<div class="icon">🚀</div>
+<h2>Weltall</h2>
+<p>NASA, ISS und Astronomie</p>
+</div>
+
+<div class="card">
+<div class="icon">⚡</div>
+<h2>Energie</h2>
+<p>Strommix und Energiedaten</p>
+</div>
+
+<div class="card">
+<div class="icon">🤖</div>
+<h2>KI & Technik</h2>
+<p>Neue Entwicklungen entdecken</p>
+</div>
+
+<div class="card">
+<div class="icon">🌍</div>
+<h2>Karten & Daten</h2>
+<p>Geodaten und Live-Karten</p>
+</div>
+
+<div class="card">
+<div class="icon">⭐</div>
+<h2>Lieblingslinks</h2>
+<p>Direktzugriff auf wichtige Seiten</p>
+</div>
 
 </div>
+
+</div>
+
+<footer>
+Version 2.0 • Erstellt mit GitHub Pages
+</footer>
 
 </body>
 </html>
