@@ -248,7 +248,7 @@ footer{
     <div class="hero-left">
         <img src="guenter.jpg" alt="Günter" class="portrait">
         <div>
-            <h1>Guten Morgen, Günter! <span class="sun">☀️</span></h1>
+          <h1><span id="grussText">Guten Morgen, Günter!</span> <span id="grussIcon" class="sun">☀️</span></h1>
             <p>Schön, dass Du da bist.<br>Hier findest Du alles Wichtige auf einen Blick.</p>
         </div>
     </div>
@@ -407,8 +407,37 @@ function updateDateTime(){
     document.getElementById('datum').textContent = datum;
     document.getElementById('uhrzeit').textContent = zeit + ' Uhr';
 }
+function updateGreeting(){
+    const hour = new Date().getHours();
+
+    let text = "";
+    let icon = "";
+
+    if(hour >= 5 && hour < 12){
+        text = "Guten Morgen, Günter!";
+        icon = "☀️";
+    }
+    else if(hour >= 12 && hour < 15){
+        text = "Mahlzeit, Günter!";
+        icon = "🍽️";
+    }
+    else if(hour >= 15 && hour < 21){
+        text = "Guten Abend, Günter!";
+        icon = "🌇";
+    }
+    else{
+        text = "Gute Nacht, Günter!";
+        icon = "🌙";
+    }
+
+    document.getElementById("grussText").textContent = text;
+    document.getElementById("grussIcon").textContent = icon;
+}
 updateDateTime();
+updateGreeting();
+
 setInterval(updateDateTime, 30000);
+setInterval(updateGreeting, 30000);
 </script>
 
 </body>
