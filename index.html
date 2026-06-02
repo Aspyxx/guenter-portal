@@ -248,7 +248,7 @@ footer{
     <div class="hero-left">
         <img src="guenter.jpg" alt="Günter" class="portrait">
         <div>
-          <h1><span id="grussText">Guten Morgen, Günter!</span> <span id="grussIcon" class="sun">☀️</span></h1>
+            <h1><span id="grussText">Guten Morgen, Günter!</span> <span id="grussIcon" class="sun">☀️</span></h1>
             <p id="grussUntertext">Schön, dass Du da bist.<br>Hier findest Du alles Wichtige auf einen Blick.</p>
         </div>
     </div>
@@ -394,19 +394,23 @@ Neugierig bleiben. Entdecken. Verstehen. – Jeden Tag ein Stück schlauer.
 <script>
 function updateDateTime(){
     const now = new Date();
+
     const datum = now.toLocaleDateString('de-DE', {
         weekday:'long',
         year:'numeric',
         month:'long',
         day:'numeric'
     });
+
     const zeit = now.toLocaleTimeString('de-DE', {
         hour:'2-digit',
         minute:'2-digit'
     });
+
     document.getElementById('datum').textContent = datum;
     document.getElementById('uhrzeit').textContent = zeit + ' Uhr';
 }
+
 function updateGreeting(){
     const hour = new Date().getHours();
 
@@ -414,35 +418,32 @@ function updateGreeting(){
     let icon = "";
     let untertext = "";
 
- if(hour >= 5 && hour < 12){
-    text = "Guten Morgen, Günter!";
-    icon = "☀️";
-    untertext = "Starte entspannt in den Tag.<br>Hier findest Du alle wichtigen Informationen.";
-}
+    if(hour >= 5 && hour < 12){
+        text = "Guten Morgen, Günter!";
+        icon = "☀️";
+        untertext = "Starte entspannt in den Tag.<br>Hier findest Du alle wichtigen Informationen.";
     }
-else if(hour >= 12 && hour < 15){
-    text = "Mahlzeit, Günter!";
-    icon = "🍽️";
-    untertext = "Zeit für eine kleine Pause.<br>Hier wartet Dein persönlicher Überblick.";
-}
+    else if(hour >= 12 && hour < 15){
+        text = "Mahlzeit, Günter!";
+        icon = "🍽️";
+        untertext = "Zeit für eine kleine Pause.<br>Hier wartet Dein persönlicher Überblick.";
     }
-else if(hour >= 15 && hour < 21){
-    text = "Guten Abend, Günter!";
-    icon = "🌇";
-    untertext = "Lehn Dich zurück.<br>Nachrichten, Wetter und Wissenswertes warten auf Dich.";
-}
+    else if(hour >= 15 && hour < 21){
+        text = "Guten Abend, Günter!";
+        icon = "🌇";
+        untertext = "Lehn Dich zurück.<br>Nachrichten, Wetter und Wissenswertes warten auf Dich.";
     }
-else{
-    text = "Gute Nacht, Günter!";
-    icon = "🌙";
-    untertext = "Noch unterwegs?<br>Hier kannst Du in Ruhe stöbern und entdecken.";
-}
+    else{
+        text = "Gute Nacht, Günter!";
+        icon = "🌙";
+        untertext = "Noch unterwegs?<br>Hier kannst Du in Ruhe stöbern und entdecken.";
     }
 
     document.getElementById("grussText").textContent = text;
     document.getElementById("grussIcon").textContent = icon;
     document.getElementById("grussUntertext").innerHTML = untertext;
 }
+
 updateDateTime();
 updateGreeting();
 
