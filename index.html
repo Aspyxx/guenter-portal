@@ -3,176 +3,413 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>Günters Informationsportal</title>
 
 <style>
+*{box-sizing:border-box}
 
 body{
     margin:0;
     font-family:Arial, sans-serif;
-    background:#f2f4f7;
+    background:#eef2f7;
+    color:#10233f;
 }
 
-header{
-    background:#0d3b66;
+.hero{
+    background:linear-gradient(135deg,#062b55,#0d3b66);
     color:white;
-    text-align:center;
-    padding:30px;
+    padding:35px 7%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:30px;
+    flex-wrap:wrap;
 }
 
-header h1{
+.hero-left{
+    display:flex;
+    align-items:center;
+    gap:30px;
+}
+
+.portrait{
+    width:145px;
+    height:145px;
+    object-fit:cover;
+    border-radius:50%;
+    border:5px solid white;
+    box-shadow:0 0 25px rgba(120,200,255,.7);
+    animation:pulsePortrait 4s infinite;
+}
+
+@keyframes pulsePortrait{
+    0%{box-shadow:0 0 15px rgba(120,200,255,.4)}
+    50%{box-shadow:0 0 35px rgba(120,200,255,.9)}
+    100%{box-shadow:0 0 15px rgba(120,200,255,.4)}
+}
+
+.hero h1{
+    font-size:42px;
+    margin:0 0 10px;
+}
+
+.hero p{
+    font-size:20px;
     margin:0;
-    font-size:40px;
 }
 
-header p{
-    margin-top:10px;
-    font-size:18px;
+.sun{
+    font-size:60px;
+    display:inline-block;
+    animation:spinSun 12s linear infinite;
+}
+
+@keyframes spinSun{
+    from{transform:rotate(0deg)}
+    to{transform:rotate(360deg)}
+}
+
+.info-box{
+    background:rgba(255,255,255,.12);
+    padding:18px 25px;
+    border-radius:14px;
+    font-size:17px;
+    min-width:230px;
+}
+
+.newspaper-title{
+    background:white;
+    text-align:center;
+    padding:30px 15px 22px;
+    border-bottom:1px solid #ddd;
+}
+
+.newspaper-title h2{
+    font-family:Georgia, serif;
+    font-size:42px;
+    margin:0;
+    letter-spacing:2px;
+}
+
+.newspaper-title p{
+    margin:8px 0 0;
+    letter-spacing:3px;
+    font-size:13px;
 }
 
 .container{
-    max-width:1200px;
+    max-width:1400px;
     margin:auto;
-    padding:30px;
+    padding:25px;
 }
 
-.grid{
+.dashboard{
     display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    grid-template-columns:1fr 1fr;
+    gap:22px;
+}
+
+.panel{
+    background:white;
+    border-radius:14px;
+    padding:22px;
+    box-shadow:0 3px 14px rgba(0,0,0,.09);
+}
+
+.panel h3{
+    margin:0 0 18px;
+    color:#0d3b66;
+    font-size:24px;
+}
+
+.news-main{
+    display:flex;
+    gap:18px;
+    align-items:center;
+    margin-bottom:18px;
+}
+
+.news-image{
+    width:210px;
+    height:130px;
+    border-radius:10px;
+    object-fit:cover;
+    background:linear-gradient(135deg,#001b3d,#1976d2);
+}
+
+.news-list div,
+.local-list div{
+    padding:12px 0;
+    border-top:1px solid #e4e7eb;
+}
+
+.weather-big{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
     gap:20px;
+}
+
+.temp{
+    font-size:58px;
+    font-weight:bold;
+}
+
+.forecast{
+    display:flex;
+    gap:10px;
+}
+
+.day{
+    background:#f3f7fb;
+    padding:12px;
+    border-radius:10px;
+    text-align:center;
+    min-width:70px;
+}
+
+.match{
+    display:flex;
+    justify-content:space-between;
+    padding:10px 0;
+    border-bottom:1px solid #e4e7eb;
+}
+
+.small-grid{
+    margin-top:22px;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
+    gap:15px;
 }
 
 .card{
     background:white;
-    border-radius:15px;
-    padding:25px;
+    border-radius:14px;
     text-align:center;
-    box-shadow:0 3px 12px rgba(0,0,0,0.12);
-    transition:0.2s;
-text-decoration:none;
-color:inherit;
+    padding:20px;
+    box-shadow:0 3px 12px rgba(0,0,0,.09);
+    text-decoration:none;
+    color:inherit;
+    transition:.2s;
 }
 
 .card:hover{
-    transform:translateY(-5px);
+    transform:translateY(-4px);
 }
 
 .icon{
-    font-size:50px;
-    margin-bottom:15px;
+    font-size:42px;
+    margin-bottom:10px;
 }
 
-.card h2{
-    margin-top:0;
+.card h3{
+    margin:5px 0;
     color:#0d3b66;
 }
 
-.card p{
-    color:#555;
+.favorites{
+    margin-top:22px;
+}
+
+.fav-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(120px,1fr));
+    gap:15px;
+}
+
+.fav{
+    text-align:center;
+    background:#f7f9fc;
+    border-radius:12px;
+    padding:16px;
+    text-decoration:none;
+    color:#10233f;
 }
 
 footer{
-    margin-top:40px;
     text-align:center;
+    padding:25px;
     color:#666;
-    padding:20px;
+    font-style:italic;
 }
 
+@media(max-width:900px){
+    .dashboard{grid-template-columns:1fr}
+    .hero-left{flex-direction:column;text-align:center}
+    .hero{justify-content:center;text-align:center}
+    .news-main{flex-direction:column}
+}
 </style>
 </head>
 
 <body>
 
-<header>
+<section class="hero">
+    <div class="hero-left">
+        <img src="guenter.jpg" alt="Günter" class="portrait">
+        <div>
+            <h1>Guten Morgen, Günter! <span class="sun">☀️</span></h1>
+            <p>Schön, dass Du da bist.<br>Hier findest Du alles Wichtige auf einen Blick.</p>
+        </div>
+    </div>
 
-<div style="display:flex;align-items:center;justify-content:center;gap:30px;flex-wrap:wrap;">
+    <div class="info-box">
+        <strong>Heute</strong><br>
+        <span id="datum">Datum wird geladen...</span><br><br>
+        🕘 <span id="uhrzeit">Uhrzeit</span>
+    </div>
+</section>
 
-<img src="guenter.jpg"
-     alt="Günter"
-     style="
-     width:140px;
-     height:140px;
-     object-fit:cover;
-     border-radius:50%;
-     border:4px solid white;
-     box-shadow:0 0 20px rgba(0,0,0,0.3);
-     ">
+<section class="newspaper-title">
+    <h2>GÜNTERS INFORMATIONSPORTAL</h2>
+    <p>NOTIZEN UND NICHT GANZ ALLTÄGLICHES WISSEN</p>
+</section>
 
-<div>
+<main class="container">
 
-<h1>Guten Morgen, Günter! ☀️</h1>
+<section class="dashboard">
 
-<p>
-Schön, dass Du da bist.<br>
-Hier findest Du alles Wichtige auf einen Blick.
-</p>
+    <div class="panel">
+        <h3>📰 Aktuelles & Nachrichten</h3>
+        <div class="news-main">
+            <div class="news-image"></div>
+            <div>
+                <strong>Top Thema</strong>
+                <h3>Wissen. Entdecken. Informiert bleiben.</h3>
+                <p>Hier entsteht später ein aktueller Nachrichtenbereich.</p>
+            </div>
+        </div>
+        <div class="news-list">
+            <div>🌍 Weltweite Blogeinträge und Nachrichten</div>
+            <div>⚡ Internetverkehr und Cyberangriffe</div>
+            <div>🚀 Neues aus Weltall, Technik und Forschung</div>
+        </div>
+    </div>
 
-</div>
+    <div>
+        <div class="panel">
+            <h3>🌤️ Wetter – Lengerich</h3>
+            <div class="weather-big">
+                <div>
+                    <div class="temp">18°C</div>
+                    <p>Teilweise sonnig<br>Details später live</p>
+                </div>
+                <div class="forecast">
+                    <div class="day">Do<br>☀️<br>20°</div>
+                    <div class="day">Fr<br>🌤️<br>21°</div>
+                    <div class="day">Sa<br>🌧️<br>18°</div>
+                </div>
+            </div>
+        </div>
 
-</div>
+        <div class="panel" style="margin-top:22px;">
+            <h3>⚽ Bundesliga</h3>
+            <div class="match"><span>1. Bundesliga</span><strong>Spieltag</strong></div>
+            <div class="match"><span>2. Bundesliga</span><strong>Ergebnisse</strong></div>
+            <div class="match"><span>3. Liga</span><strong>Tabelle</strong></div>
+        </div>
 
-</header>
+        <div class="panel" style="margin-top:22px;">
+            <h3>🏡 Lengerich aktuell</h3>
+            <div class="local-list">
+                <div>Stadt Lengerich – aktuelle Meldungen</div>
+                <div>Veranstaltungen und Hinweise</div>
+                <div>Blaulichtmeldungen aus der Region</div>
+            </div>
+        </div>
+    </div>
 
-<div class="container">
+</section>
 
-<div class="grid">
+<section class="small-grid">
 
 <a class="card" href="https://www.wetteronline.de/wetter/lengerich" target="_blank">
 <div class="icon">🌤️</div>
-<h2>Wetter</h2>
+<h3>Wetter</h3>
 <p>Lengerich und Umgebung</p>
 </a>
 
 <a class="card" href="https://www.kicker.de/bundesliga/spieltag" target="_blank">
 <div class="icon">⚽</div>
-<h2>Bundesliga</h2>
+<h3>Bundesliga</h3>
 <p>1., 2. und 3. Liga</p>
 </a>
 
-<div class="card">
+<a class="card" href="https://www.lengerich.de/" target="_blank">
 <div class="icon">🏛️</div>
-<h2>Lengerich aktuell</h2>
-<p>Nachrichten und Stadtinfos</p>
-</div>
+<h3>Lengerich</h3>
+<p>Stadtinfos und Region</p>
+</a>
 
-<div class="card">
+<a class="card" href="https://www.nasa.gov/" target="_blank">
 <div class="icon">🚀</div>
-<h2>Weltall</h2>
+<h3>Weltall</h3>
 <p>NASA, ISS und Astronomie</p>
-</div>
+</a>
 
-<div class="card">
+<a class="card" href="https://www.energy-charts.info/index.html?l=de&c=DE" target="_blank">
 <div class="icon">⚡</div>
-<h2>Energie</h2>
+<h3>Energie</h3>
 <p>Strommix und Energiedaten</p>
-</div>
+</a>
 
-<div class="card">
+<a class="card" href="https://you.com/" target="_blank">
 <div class="icon">🤖</div>
-<h2>KI & Technik</h2>
-<p>Neue Entwicklungen entdecken</p>
-</div>
+<h3>KI & Technik</h3>
+<p>Neue Entwicklungen</p>
+</a>
 
-<div class="card">
+<a class="card" href="https://www.dynamicworld.app/explore/" target="_blank">
 <div class="icon">🌍</div>
-<h2>Karten & Daten</h2>
+<h3>Karten & Daten</h3>
 <p>Geodaten und Live-Karten</p>
-</div>
+</a>
 
-<div class="card">
+<a class="card" href="#lieblingslinks">
 <div class="icon">⭐</div>
-<h2>Lieblingslinks</h2>
-<p>Direktzugriff auf wichtige Seiten</p>
-</div>
+<h3>Lieblingslinks</h3>
+<p>Direktzugriff</p>
+</a>
 
-</div>
+</section>
 
+<section class="panel favorites" id="lieblingslinks">
+<h3>⭐ Lieblingslinks</h3>
+<div class="fav-grid">
+<a class="fav" href="https://www.youtube.com/" target="_blank">▶️<br>YouTube</a>
+<a class="fav" href="https://www.tagesschau.de/" target="_blank">📺<br>Tagesschau</a>
+<a class="fav" href="https://www.amazon.de/" target="_blank">🛒<br>Amazon</a>
+<a class="fav" href="https://de.wikipedia.org/" target="_blank">📚<br>Wikipedia</a>
+<a class="fav" href="https://www.hasepost.de/" target="_blank">📰<br>Hasepost</a>
+<a class="fav" href="https://www.gmx.net/" target="_blank">✉️<br>GMX</a>
 </div>
+</section>
+
+</main>
 
 <footer>
-Version 2.0 • Erstellt mit GitHub Pages
+Neugierig bleiben. Entdecken. Verstehen. – Jeden Tag ein Stück schlauer.
 </footer>
+
+<script>
+function updateDateTime(){
+    const now = new Date();
+    const datum = now.toLocaleDateString('de-DE', {
+        weekday:'long',
+        year:'numeric',
+        month:'long',
+        day:'numeric'
+    });
+    const zeit = now.toLocaleTimeString('de-DE', {
+        hour:'2-digit',
+        minute:'2-digit'
+    });
+    document.getElementById('datum').textContent = datum;
+    document.getElementById('uhrzeit').textContent = zeit + ' Uhr';
+}
+updateDateTime();
+setInterval(updateDateTime, 30000);
+</script>
 
 </body>
 </html>
