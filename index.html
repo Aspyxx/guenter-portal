@@ -645,8 +645,19 @@ async function ladeSchlagzeilen(){
     const box = document.getElementById("schlagzeilenBox");
 
     try{
-        const antwort = await fetch("https://www.tagesschau.de/api2u/news/");
+        box.innerHTML = "<div>📰 Schlagzeilen werden geladen...</div>";
+
+        const antwort = await fetch("https://www.tagesschau.de/api2u/news/?ressort=inland");
+
+        if(!antwort.ok){
+            throw new Error("Antwort der Tagesschau war nicht OK");
+        }
+
         const daten = await antwort.json();
+
+        if(!daten.news || daten.news.length === 0){
+            throw new Error("Keine Nachrichten gefunden");
+        }
 
         const meldungen = daten.news
             .filter(meldung => meldung.title && meldung.shareURL)
@@ -668,12 +679,15 @@ async function ladeSchlagzeilen(){
         box.innerHTML = `
             <div>
                 <a href="https://www.tagesschau.de/" target="_blank">
-                    📰 Tagesschau öffnen
+                    📰 Aktuelle Tagesschau-Schlagzeilen öffnen
                 </a>
+            </div>
+            <div style="font-size:13px;color:#777;">
+                Live-Schlagzeilen konnten im Browser nicht geladen werden.
             </div>
         `;
     }
-}    
+}   
 async function ladeBundesliga(){
     const box = document.getElementById("bundesligaBox");
 
