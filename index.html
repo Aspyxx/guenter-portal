@@ -505,45 +505,58 @@ async function ladeWetter(){
 async function ladeBundesliga(){
     const box = document.getElementById("bundesligaBox");
 
+    const ligen = [
+        { code: "bl1", name: "1. Bundesliga" },
+        { code: "bl2", name: "2. Bundesliga" },
+        { code: "bl3", name: "3. Liga" }
+    ];
+
+    const saison = "2025";
+
+    box.innerHTML = "";
+
     try{
-        const saison = "2025";
-        const url = `https://api.openligadb.de/getmatchdata/bl1/${saison}`;
+        for(const liga of ligen){
+            const url = `https://api.openligadb.de/getmatchdata/${liga.code}/${saison}`;
+            const antwort = await fetch(url);
+            const spiele = await antwort.json();
 
-        const antwort = await fetch(url);
-        const spiele = await antwort.json();
+            const letzteSpiele = spiele
+                .filter(spiel => spiel.matchResults && spiel.matchResults.length > 0)
+                .slice(-2)
+                .reverse();
 
-        const aktuelleSpiele = spiele
-            .filter(spiel => spiel.matchResults && spiel.matchResults.length > 0)
-            .slice(-4)
-            .reverse();
+            box.innerHTML += `<h4 style="margin:18px 0 8px;color:#0d3b66;">${liga.name}</h4>`;
 
-        box.innerHTML = "";
+            if(letzteSpiele.length === 0){
+                box.innerHTML += '<div class="match"><span>Keine Ergebnisse gefunden.</span><strong>-</strong></div>';
+                continue;
+            }
 
-        if(aktuelleSpiele.length === 0){
-            box.innerHTML = '<div class="match"><span>Keine Ergebnisse gefunden.</span><strong>-</strong></div>';
-            return;
+            letzteSpiele.forEach(spiel => {
+                const heim = spiel.team1.teamName;
+                const gast = spiel.team2.teamName;
+
+                const endergebnis =
+                    spiel.matchResults.find(r => r.resultTypeID === 2)
+                    || spiel.matchResults[spiel.matchResults.length - 1];
+
+                const toreHeim = endergebnis.pointsTeam1;
+                const toreGast = endergebnis.pointsTeam2;
+
+                box.innerHTML += `
+                    <div class="match">
+                        <span>${heim}<br><small>${gast}</small></span>
+                        <strong>${toreHeim}:${toreGast}</strong>
+                    </div>
+                `;
+            });
         }
-
-        aktuelleSpiele.forEach(spiel => {
-            const heim = spiel.team1.teamName;
-            const gast = spiel.team2.teamName;
-
-            const endergebnis = spiel.matchResults.find(r => r.resultTypeID === 2) || spiel.matchResults[spiel.matchResults.length - 1];
-
-            const toreHeim = endergebnis.pointsTeam1;
-            const toreGast = endergebnis.pointsTeam2;
-
-            box.innerHTML += `
-                <div class="match">
-                    <span>${heim}<br><small>${gast}</small></span>
-                    <strong>${toreHeim}:${toreGast}</strong>
-                </div>
-            `;
-        });
     }
     catch(error){
         box.innerHTML = '<div class="match"><span>Bundesliga-Daten konnten nicht geladen werden.</span><strong>!</strong></div>';
     }
+}
 }
 updateDateTime();
 updateGreeting();
