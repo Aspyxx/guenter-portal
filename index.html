@@ -300,12 +300,17 @@ footer{
             </div>
         </div>
 
-        <div class="panel" style="margin-top:22px;">
-            <h3>⚽ Bundesliga</h3>
-            <div class="match"><span>1. Bundesliga</span><strong>Spieltag</strong></div>
-            <div class="match"><span>2. Bundesliga</span><strong>Ergebnisse</strong></div>
-            <div class="match"><span>3. Liga</span><strong>Tabelle</strong></div>
-        </div>
+      <div class="panel" style="margin-top:22px;">
+    <h3>⚽ Bundesliga</h3>
+    <div id="bundesligaBox">
+        <div class="match"><span>Daten werden geladen...</span><strong>⚽</strong></div>
+    </div>
+    <p style="margin-top:15px;">
+        <a href="https://www.kicker.de/bundesliga/spieltag" target="_blank" style="color:#0d3b66;font-weight:bold;text-decoration:none;">
+            Tabelle & Spielplan öffnen →
+        </a>
+    </p>
+</div>
 
         <div class="panel" style="margin-top:22px;">
             <h3>🏡 Lengerich aktuell</h3>
@@ -497,13 +502,58 @@ async function ladeWetter(){
         document.getElementById("wetterText").innerHTML = "Wetter konnte nicht geladen werden.<br>Bitte später erneut versuchen.";
     }
 }
+async function ladeBundesliga(){
+    const box = document.getElementById("bundesligaBox");
+
+    try{
+        const saison = "2025";
+        const url = `https://api.openligadb.de/getmatchdata/bl1/${saison}`;
+
+        const antwort = await fetch(url);
+        const spiele = await antwort.json();
+
+        const aktuelleSpiele = spiele
+            .filter(spiel => spiel.matchResults && spiel.matchResults.length > 0)
+            .slice(-4)
+            .reverse();
+
+        box.innerHTML = "";
+
+        if(aktuelleSpiele.length === 0){
+            box.innerHTML = '<div class="match"><span>Keine Ergebnisse gefunden.</span><strong>-</strong></div>';
+            return;
+        }
+
+        aktuelleSpiele.forEach(spiel => {
+            const heim = spiel.team1.teamName;
+            const gast = spiel.team2.teamName;
+
+            const endergebnis = spiel.matchResults.find(r => r.resultTypeID === 2) || spiel.matchResults[spiel.matchResults.length - 1];
+
+            const toreHeim = endergebnis.pointsTeam1;
+            const toreGast = endergebnis.pointsTeam2;
+
+            box.innerHTML += `
+                <div class="match">
+                    <span>${heim}<br><small>${gast}</small></span>
+                    <strong>${toreHeim}:${toreGast}</strong>
+                </div>
+            `;
+        });
+    }
+    catch(error){
+        box.innerHTML = '<div class="match"><span>Bundesliga-Daten konnten nicht geladen werden.</span><strong>!</strong></div>';
+    }
+}
 updateDateTime();
 updateGreeting();
 ladeWetter();
+ladeBundesliga();
 
 setInterval(updateDateTime, 30000);
 setInterval(updateGreeting, 30000);
     setInterval(ladeWetter, 30 * 60 * 1000);
+    setInterval(ladeBundesliga, 30 * 60 * 1000);
 </script>
 
 </body>
