@@ -271,12 +271,12 @@ footer{
 
     <div class="panel">
         <h3>📰 Aktuelles & Nachrichten</h3>
-       <a class="news-main" href="https://apod.nasa.gov/apod/astropix.html" target="_blank" style="text-decoration:none;color:inherit;">
-    <div class="news-image"></div>
+<a id="wechselInfoLink" class="news-main" href="https://www.tagesschau.de/" target="_blank" style="text-decoration:none;color:inherit;">
+    <div class="news-image" id="wechselInfoBild"></div>
     <div>
-        <strong>NASA-Bild des Tages</strong>
-        <h3>Täglich ein neues Bild aus dem Weltall.</h3>
-        <p>Ein Klick öffnet das aktuelle Astronomy Picture of the Day der NASA.</p>
+        <strong id="wechselInfoKategorie">Aktuelle Nachrichten</strong>
+        <h3 id="wechselInfoTitel">Was gibt es Neues?</h3>
+        <p id="wechselInfoText">Nachrichten, Fußball, Garten, Südtirol und Wetterwarnungen im Wechsel.</p>
     </div>
 </a>
         <div class="news-list">
@@ -557,15 +557,68 @@ async function ladeBundesliga(){
         box.innerHTML = '<div class="match"><span>Bundesliga-Daten konnten nicht geladen werden.</span><strong>!</strong></div>';
     }
 }
-updateDateTime();
+const wechselInfos = [
+    {
+        kategorie: "Aktuelle Nachrichten",
+        titel: "Nachrichten aus Deutschland und der Welt",
+        text: "Ein Klick öffnet die aktuelle Übersicht der Tagesschau.",
+        link: "https://www.tagesschau.de/",
+        farbe: "linear-gradient(135deg,#0d3b66,#1976d2)"
+    },
+    {
+        kategorie: "Fußball",
+        titel: "Aktuelles zum Fußballwochenende",
+        text: "Ergebnisse, Tabellen und Spielpläne bei Kicker.",
+        link: "https://www.kicker.de/",
+        farbe: "linear-gradient(135deg,#0b6b3a,#39a96b)"
+    },
+    {
+        kategorie: "Garten-Tipp",
+        titel: "Gartenarbeit und Tipps für Hannelore",
+        text: "Saisonale Tipps rund um Pflanzen, Beete und Gartenpflege.",
+        link: "https://www.mein-schoener-garten.de/",
+        farbe: "linear-gradient(135deg,#3a7d44,#90be6d)"
+    },
+    {
+        kategorie: "Südtirol",
+        titel: "Südtirol, Berge und Reiseideen",
+        text: "Aktuelles, Wetter und Inspiration aus Südtirol.",
+        link: "https://www.suedtirol.info/de",
+        farbe: "linear-gradient(135deg,#5c3d2e,#d08c60)"
+    },
+    {
+        kategorie: "Wetterwarnungen",
+        titel: "Wetterwarnungen und Unwetterlage",
+        text: "Aktuelle Warnlage beim Deutschen Wetterdienst.",
+        link: "https://www.dwd.de/DE/wetter/warnungen_gemeinden/warnWetter_node.html",
+        farbe: "linear-gradient(135deg,#f77f00,#d62828)"
+    }
+];
+
+let wechselIndex = 0;
+
+function updateWechselInfo(){
+    const info = wechselInfos[wechselIndex];
+
+    document.getElementById("wechselInfoKategorie").textContent = info.kategorie;
+    document.getElementById("wechselInfoTitel").textContent = info.titel;
+    document.getElementById("wechselInfoText").textContent = info.text;
+    document.getElementById("wechselInfoLink").href = info.link;
+    document.getElementById("wechselInfoBild").style.background = info.farbe;
+
+    wechselIndex = (wechselIndex + 1) % wechselInfos.length;
+}
+    updateDateTime();
 updateGreeting();
 ladeWetter();
 ladeBundesliga();
+    updateWechselInfo();
 
 setInterval(updateDateTime, 30000);
 setInterval(updateGreeting, 30000);
     setInterval(ladeWetter, 30 * 60 * 1000);
     setInterval(ladeBundesliga, 30 * 60 * 1000);
+    setInterval(updateWechselInfo, 15 * 60 * 1000);
 </script>
 
 </body>
