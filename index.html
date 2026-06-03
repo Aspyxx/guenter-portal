@@ -134,7 +134,10 @@ body{
     height:130px;
     border-radius:10px;
     object-fit:cover;
-    background:linear-gradient(135deg,#001b3d,#1976d2);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-color:#0d3b66;
 }
 
 .news-list div,
@@ -564,6 +567,7 @@ const wechselInfos = [
         text: "Ein Klick öffnet die aktuelle Übersicht der Tagesschau.",
         link: "https://www.tagesschau.de/",
         farbe: "linear-gradient(135deg,#0d3b66,#1976d2)"
+        bild: "news.jpg"
     },
     {
         kategorie: "Fußball",
@@ -571,6 +575,7 @@ const wechselInfos = [
         text: "Ergebnisse, Tabellen und Spielpläne bei Kicker.",
         link: "https://www.kicker.de/",
         farbe: "linear-gradient(135deg,#0b6b3a,#39a96b)"
+        bild: "fussball.jpg"
     },
     {
         kategorie: "Garten-Tipp",
@@ -578,6 +583,7 @@ const wechselInfos = [
         text: "Saisonale Tipps rund um Pflanzen, Beete und Gartenpflege.",
         link: "https://www.mein-schoener-garten.de/",
         farbe: "linear-gradient(135deg,#3a7d44,#90be6d)"
+        bild: "garten.jpg"
     },
     {
         kategorie: "Südtirol",
@@ -585,6 +591,7 @@ const wechselInfos = [
         text: "Aktuelles, Wetter und Inspiration aus Südtirol.",
         link: "https://www.suedtirol.info/de",
         farbe: "linear-gradient(135deg,#5c3d2e,#d08c60)"
+        bild: "suedtirol.jpg"
     },
     {
         kategorie: "Wetterwarnungen",
@@ -592,6 +599,7 @@ const wechselInfos = [
         text: "Aktuelle Warnlage beim Deutschen Wetterdienst.",
         link: "https://www.dwd.de/DE/wetter/warnungen_gemeinden/warnWetter_node.html",
         farbe: "linear-gradient(135deg,#f77f00,#d62828)"
+        bild: "wetterwarnung.jpg"
     }
 ];
 
@@ -604,7 +612,7 @@ function updateWechselInfo(){
     document.getElementById("wechselInfoTitel").textContent = info.titel;
     document.getElementById("wechselInfoText").textContent = info.text;
     document.getElementById("wechselInfoLink").href = info.link;
-    document.getElementById("wechselInfoBild").style.background = info.farbe;
+   document.getElementById("wechselInfoBild").style.backgroundImage = `url('${info.bild}')`;
 
     wechselIndex = (wechselIndex + 1) % wechselInfos.length;
 }
