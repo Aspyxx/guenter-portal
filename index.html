@@ -317,11 +317,9 @@ footer{
         <p id="wechselInfoText">Nachrichten, Fußball, Garten, Südtirol und Wetterwarnungen im Wechsel.</p>
     </div>
 </a>
-        <div class="news-list">
-            <div>🌍 Weltweite Blogeinträge und Nachrichten</div>
-            <div>⚡ Internetverkehr und Cyberangriffe</div>
-           <div><a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">🚀 NASA-Bild des Tages und Neues aus dem Weltall</a></div>
-        </div>
+       <div class="news-list" id="schlagzeilenBox">
+    <div>📰 Schlagzeilen werden geladen...</div>
+</div>
     </div>
 
     <div>
@@ -643,6 +641,39 @@ async function ladeWetter(){
         document.getElementById("wetterText").innerHTML = "Wetter konnte nicht geladen werden.<br>Bitte später erneut versuchen.";
     }
 }
+async function ladeSchlagzeilen(){
+    const box = document.getElementById("schlagzeilenBox");
+
+    try{
+        const antwort = await fetch("https://www.tagesschau.de/api2u/news/");
+        const daten = await antwort.json();
+
+        const meldungen = daten.news
+            .filter(meldung => meldung.title && meldung.shareURL)
+            .slice(0, 4);
+
+        box.innerHTML = "";
+
+        meldungen.forEach(meldung => {
+            box.innerHTML += `
+                <div>
+                    <a href="${meldung.shareURL}" target="_blank">
+                        📰 ${meldung.title}
+                    </a>
+                </div>
+            `;
+        });
+    }
+    catch(error){
+        box.innerHTML = `
+            <div>
+                <a href="https://www.tagesschau.de/" target="_blank">
+                    📰 Tagesschau öffnen
+                </a>
+            </div>
+        `;
+    }
+}    
 async function ladeBundesliga(){
     const box = document.getElementById("bundesligaBox");
 
@@ -758,12 +789,14 @@ function updateWechselInfo(){
 updateGreeting();
 ladeWetter();
 ladeBundesliga();
+    ladeSchlagzeilen();
     updateWechselInfo();
 
 setInterval(updateDateTime, 30000);
 setInterval(updateGreeting, 30000);
     setInterval(ladeWetter, 30 * 60 * 1000);
     setInterval(ladeBundesliga, 30 * 60 * 1000);
+    setInterval(ladeSchlagzeilen, 30 * 60 * 1000);
     setInterval(updateWechselInfo, 15 * 60 * 1000);
 </script>
 
