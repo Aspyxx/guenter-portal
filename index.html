@@ -158,8 +158,9 @@ body{
 
 .news-list div,
 .local-list div{
-    padding:12px 0;
+    padding:9px 0;
     border-top:1px solid rgba(16,35,63,.18);
+    line-height:1.25;
 }
 
 .news-list a,
@@ -661,7 +662,7 @@ async function ladeSchlagzeilen(){
 
         const meldungen = daten.news
             .filter(meldung => meldung.title && meldung.shareURL)
-            .slice(0, 4);
+          .slice(0, 12);
 
         box.innerHTML = "";
 
