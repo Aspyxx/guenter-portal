@@ -291,14 +291,12 @@ footer{
             <h3>🌤️ Wetter – Lengerich</h3>
             <div class="weather-big">
                 <div>
-                    <div class="temp">18°C</div>
-                    <p>Teilweise sonnig<br>Details später live</p>
+                   <div class="temp" id="wetterTemp">--°C</div>
+<p id="wetterText">Wetter wird geladen...</p>
                 </div>
-                <div class="forecast">
-                    <div class="day">Do<br>☀️<br>20°</div>
-                    <div class="day">Fr<br>🌤️<br>21°</div>
-                    <div class="day">Sa<br>🌧️<br>18°</div>
-                </div>
+               <div class="forecast" id="wetterForecast">
+    <div class="day">Lade...</div>
+</div>
             </div>
         </div>
 
@@ -443,12 +441,69 @@ function updateGreeting(){
     document.getElementById("grussIcon").textContent = icon;
     document.getElementById("grussUntertext").innerHTML = untertext;
 }
+function wetterCodeZuText(code){
+    const texte = {
+        0: ["☀️", "Klarer Himmel"],
+        1: ["🌤️", "Überwiegend sonnig"],
+        2: ["⛅", "Teilweise bewölkt"],
+        3: ["☁️", "Bewölkt"],
+        45: ["🌫️", "Nebel"],
+        48: ["🌫️", "Reifnebel"],
+        51: ["🌦️", "Leichter Nieselregen"],
+        53: ["🌦️", "Nieselregen"],
+        55: ["🌧️", "Starker Nieselregen"],
+        61: ["🌧️", "Leichter Regen"],
+        63: ["🌧️", "Regen"],
+        65: ["🌧️", "Starker Regen"],
+        71: ["🌨️", "Leichter Schnee"],
+        73: ["🌨️", "Schnee"],
+        75: ["❄️", "Starker Schnee"],
+        80: ["🌦️", "Regenschauer"],
+        81: ["🌧️", "Starke Schauer"],
+        82: ["⛈️", "Heftige Schauer"],
+        95: ["⛈️", "Gewitter"]
+    };
+    return texte[code] || ["🌡️", "Wetterdaten"];
+}
 
+async function ladeWetter(){
+    try{
+        const url = "https://api.open-meteo.com/v1/forecast?latitude=52.1866&longitude=7.8604&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBerlin";
+
+        const antwort = await fetch(url);
+        const daten = await antwort.json();
+
+        const temp = Math.round(daten.current.temperature_2m);
+        const wetterCode = daten.current.weather_code;
+        const [icon, text] = wetterCodeZuText(wetterCode);
+
+        document.getElementById("wetterTemp").textContent = temp + "°C";
+        document.getElementById("wetterText").innerHTML = icon + " " + text + "<br>Live-Wetter für Lengerich";
+
+        const forecast = document.getElementById("wetterForecast");
+        forecast.innerHTML = "";
+
+        for(let i = 0; i < 3; i++){
+            const datum = new Date(daten.daily.time[i]);
+            const tag = datum.toLocaleDateString("de-DE", { weekday:"short" });
+            const max = Math.round(daten.daily.temperature_2m_max[i]);
+            const min = Math.round(daten.daily.temperature_2m_min[i]);
+            const [dayIcon] = wetterCodeZuText(daten.daily.weather_code[i]);
+
+            forecast.innerHTML += `<div class="day">${tag}<br>${dayIcon}<br>${max}° / ${min}°</div>`;
+        }
+    }
+    catch(error){
+        document.getElementById("wetterText").innerHTML = "Wetter konnte nicht geladen werden.<br>Bitte später erneut versuchen.";
+    }
+}
 updateDateTime();
 updateGreeting();
+ladeWetter();
 
 setInterval(updateDateTime, 30000);
 setInterval(updateGreeting, 30000);
+    setInterval(ladeWetter, 30 * 60 * 1000);
 </script>
 
 </body>
