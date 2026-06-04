@@ -349,16 +349,7 @@ footer{
         <div id="heuteFussball">⚽ Fußballhinweis wird geprüft...</div>
         <div id="heuteTV">📺 TV-Hinweis wird geladen...</div>
         <div id="heuteGarten">🌷 Garten-Tipp wird geladen...</div>
-  const lengerichTipps = [
-    "🏡 Lengerich: Blick auf Stadt, Region und Veranstaltungen",
-    "🏡 Lengerich: Neuigkeiten aus Stadt und Osnabrücker Land",
-    "🏡 Lengerich: Heute lohnt ein Blick auf lokale Meldungen",
-    "🏡 Lengerich: Regionale Hinweise und Blaulicht im Blick",
-    "🏡 Lengerich: Stadtinfos und Veranstaltungen beachten"
-];
-
-document.getElementById("heuteLengerich").textContent =
-    lengerichTipps[now.getDate() % lengerichTipps.length];
+        <div id="heuteLengerich">🏡 Lengerich-Hinweis wird geladen...</div>
     </div>
 
 </div>
@@ -679,6 +670,16 @@ document.getElementById("heuteTV").textContent = tvText;
         gartenText = "❄️ Garten-Tipp: Frostschutz und Winterruhe beachten";
     }
     document.getElementById("heuteGarten").textContent = gartenText;
+    const lengerichTipps = [
+    "🏡 Lengerich: Blick auf Stadt, Region und Veranstaltungen",
+    "🏡 Lengerich: Neuigkeiten aus Stadt und Osnabrücker Land",
+    "🏡 Lengerich: Heute lohnt ein Blick auf lokale Meldungen",
+    "🏡 Lengerich: Regionale Hinweise und Blaulicht im Blick",
+    "🏡 Lengerich: Stadtinfos und Veranstaltungen beachten"
+];
+
+document.getElementById("heuteLengerich").textContent =
+    lengerichTipps[now.getDate() % lengerichTipps.length];
 }
     async function ladeSchlagzeilen(){
     const box = document.getElementById("schlagzeilenBox");
