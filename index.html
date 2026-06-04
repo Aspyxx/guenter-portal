@@ -340,16 +340,19 @@ footer{
             </div>
         </div>
 
-        <div class="panel" style="margin-top:22px;">
-            <h3>📌 Heute wichtig</h3>
-            <div class="news-list">
-                <div>🌦️ Wetter: Heute leichter Regen möglich</div>
-                <div>⚽ Bundesliga-Saison beendet</div>
-                <div>📺 TV-Tipp: Heute Abend im Ersten</div>
-                <div>🌷 Garten-Tipp: Rosen und Sommerblumen kontrollieren</div>
-                <div>🏡 Lengerich: Aktuelle Hinweise über Stadtseite prüfen</div>
-            </div>
-        </div>
+<div class="panel" style="margin-top:22px;">
+
+    <h3>📌 Heute wichtig</h3>
+
+    <div class="news-list">
+        <div id="heuteWetter">🌦️ Wetter wird geprüft...</div>
+        <div id="heuteFussball">⚽ Fußballhinweis wird geprüft...</div>
+        <div id="heuteTV">📺 TV-Hinweis wird geladen...</div>
+        <div id="heuteGarten">🌷 Garten-Tipp wird geladen...</div>
+        <div id="heuteLengerich">🏡 Lengerich: Aktuelle Hinweise über Stadtseite prüfen</div>
+    </div>
+
+</div>
 
         <div class="panel" style="margin-top:22px;">
             <h3>⚽ Bundesliga</h3>
@@ -613,7 +616,51 @@ async function ladeWetter(){
         document.getElementById("wetterText").innerHTML = "Wetter konnte nicht geladen werden.<br>Bitte später erneut versuchen.";
     }
 }
-async function ladeSchlagzeilen(){
+function updateHeuteWichtig(){
+    const now = new Date();
+    const tag = now.getDay();
+    const monat = now.getMonth() + 1;
+
+    const temp = document.getElementById("wetterTemp")?.textContent || "--°C";
+    const wetterText = document.getElementById("wetterText")?.innerText.split("\n")[0] || "Wetterdaten werden geladen";
+
+    document.getElementById("heuteWetter").textContent =
+        "🌦️ Wetter: " + temp + " – " + wetterText;
+
+    let fussballText = "⚽ Bundesliga: Ergebnisse und Spieltage im Sportbereich prüfen";
+    if(tag === 5){
+        fussballText = "⚽ Fußball: Wochenende steht bevor – Spielplan prüfen";
+    }
+    if(tag === 6 || tag === 0){
+        fussballText = "⚽ Fußballwochenende: Ergebnisse und Spiele im Blick behalten";
+    }
+    document.getElementById("heuteFussball").textContent = fussballText;
+
+    let tvText = "📺 TV-Tipp: Heute Abend Programmübersicht öffnen";
+    if(tag === 0){
+        tvText = "📺 TV-Tipp: Sonntagabend – Tatort oder Spielfilm prüfen";
+    }
+    if(tag === 5 || tag === 6){
+        tvText = "📺 TV-Tipp: Wochenende – Abendprogramm ansehen";
+    }
+    document.getElementById("heuteTV").textContent = tvText;
+
+    let gartenText = "🌷 Garten-Tipp: Pflanzen regelmäßig kontrollieren";
+    if(monat >= 3 && monat <= 5){
+        gartenText = "🌱 Garten-Tipp: Jetzt ist Pflanz- und Aussaatzeit";
+    }
+    if(monat >= 6 && monat <= 8){
+        gartenText = "🌷 Garten-Tipp: Gießen, Verblühtes entfernen und Sommerblumen pflegen";
+    }
+    if(monat >= 9 && monat <= 11){
+        gartenText = "🍂 Garten-Tipp: Herbstpflege, Laub und Rückschnitt im Blick behalten";
+    }
+    if(monat === 12 || monat <= 2){
+        gartenText = "❄️ Garten-Tipp: Frostschutz und Winterruhe beachten";
+    }
+    document.getElementById("heuteGarten").textContent = gartenText;
+}
+    async function ladeSchlagzeilen(){
     const box = document.getElementById("schlagzeilenBox");
 
     try{
@@ -775,11 +822,13 @@ function updateWechselInfo(){
 updateGreeting();
 ladeWetter();
 ladeBundesliga();
-    ladeSchlagzeilen();
-    updateWechselInfo();
+ladeSchlagzeilen();
+updateWechselInfo();
+updateHeuteWichtig();
 
 setInterval(updateDateTime, 30000);
 setInterval(updateGreeting, 30000);
+    setInterval(updateHeuteWichtig, 30000);
     setInterval(ladeWetter, 30 * 60 * 1000);
     setInterval(ladeBundesliga, 30 * 60 * 1000);
     setInterval(ladeSchlagzeilen, 30 * 60 * 1000);
