@@ -425,14 +425,11 @@ footer{
                 <p>Die wichtigsten Fernsehsender auf einen Blick.</p>
             </div>
         </div>
-        <div class="news-list">
-            <div><a href="https://www.tvspielfilm.de/tv-programm/" target="_blank">📺 TV Spielfilm Programmübersicht</a></div>
-            <div><a href="https://www.daserste.de/" target="_blank">1️⃣ ARD</a></div>
-            <div><a href="https://www.zdf.de/" target="_blank">2️⃣ ZDF</a></div>
-            <div><a href="https://www.ndr.de/" target="_blank">🌊 NDR</a></div>
-            <div><a href="https://www.wdr.de/" target="_blank">🎬 WDR</a></div>
-            <div><a href="https://www.rtl.de/" target="_blank">⭐ RTL</a></div>
-        </div>
+<div class="news-list" id="tvProgrammBox">
+
+    <div>📺 TV-Programm wird geladen...</div>
+
+</div>
     </div>
 
 </section>
@@ -827,7 +824,23 @@ bild: "news.jpg"
 ];
 
 let wechselIndex = 0;
+function ladeTVProgramm(){
 
+    const box = document.getElementById("tvProgrammBox");
+
+    box.innerHTML = `
+        <div>📺 ARD – 20:15 Tagesschau Spezial</div>
+        <div>📺 ZDF – 20:15 Terra X</div>
+        <div>📺 NDR – 20:15 Nordstory</div>
+        <div>📺 WDR – 20:15 Servicezeit Extra</div>
+        <div>📺 RTL – 20:15 Wer wird Millionär?</div>
+        <div>
+            <a href="https://www.tvspielfilm.de/tv-programm/" target="_blank">
+                📋 Komplettes TV-Programm öffnen →
+            </a>
+        </div>
+    `;
+}
 function updateWechselInfo(){
     const info = wechselInfos[wechselIndex];
 
@@ -844,6 +857,7 @@ updateGreeting();
 ladeWetter();
 ladeBundesliga();
 ladeSchlagzeilen();
+ladeTVProgramm();
 updateWechselInfo();
 updateHeuteWichtig();
 
