@@ -349,7 +349,16 @@ footer{
         <div id="heuteFussball">⚽ Fußballhinweis wird geprüft...</div>
         <div id="heuteTV">📺 TV-Hinweis wird geladen...</div>
         <div id="heuteGarten">🌷 Garten-Tipp wird geladen...</div>
-        <div id="heuteLengerich">🏡 Lengerich: Aktuelle Hinweise über Stadtseite prüfen</div>
+  const lengerichTipps = [
+    "🏡 Lengerich: Blick auf Stadt, Region und Veranstaltungen",
+    "🏡 Lengerich: Neuigkeiten aus Stadt und Osnabrücker Land",
+    "🏡 Lengerich: Heute lohnt ein Blick auf lokale Meldungen",
+    "🏡 Lengerich: Regionale Hinweise und Blaulicht im Blick",
+    "🏡 Lengerich: Stadtinfos und Veranstaltungen beachten"
+];
+
+document.getElementById("heuteLengerich").textContent =
+    lengerichTipps[now.getDate() % lengerichTipps.length];
     </div>
 
 </div>
@@ -636,14 +645,25 @@ function updateHeuteWichtig(){
     }
     document.getElementById("heuteFussball").textContent = fussballText;
 
-    let tvText = "📺 TV-Tipp: Heute Abend Programmübersicht öffnen";
-    if(tag === 0){
-        tvText = "📺 TV-Tipp: Sonntagabend – Tatort oder Spielfilm prüfen";
-    }
-    if(tag === 5 || tag === 6){
-        tvText = "📺 TV-Tipp: Wochenende – Abendprogramm ansehen";
-    }
-    document.getElementById("heuteTV").textContent = tvText;
+const tvTipps = [
+    "📺 TV-Tipp: Heute Abend gemütlich Programm auswählen",
+    "📺 TV-Tipp: 20:15 Uhr ist klassische Fernsehzeit",
+    "📺 TV-Tipp: ARD, ZDF, NDR und WDR im Blick behalten",
+    "📺 TV-Tipp: Heute lohnt ein Blick in die Mediatheken",
+    "📺 TV-Tipp: Nachrichten, Doku oder Spielfilm für den Abend"
+];
+
+let tvText = tvTipps[now.getDate() % tvTipps.length];
+
+if(tag === 0){
+    tvText = "📺 TV-Tipp: Sonntagabend – Tatort oder Spielfilmabend";
+}
+
+if(tag === 5 || tag === 6){
+    tvText = "📺 TV-Tipp: Wochenende – Zeit für Film, Show oder Doku";
+}
+
+document.getElementById("heuteTV").textContent = tvText;
 
     let gartenText = "🌷 Garten-Tipp: Pflanzen regelmäßig kontrollieren";
     if(monat >= 3 && monat <= 5){
