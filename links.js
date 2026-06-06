@@ -288,5 +288,55 @@ const guenterLinks = [
     titel: "Stromnetzkarte",
     beschreibung: "Stromleitungen und Netzinfrastruktur auf einer Karte.",
     url: "https://www.flosm.org/de/Stromnetz.html"
+},
+    ,
+{
+    kategorie: "Wetter & Warnungen",
+    icon: "🌦️",
+    titel: "WetterOnline",
+    beschreibung: "Aktuelles Wetter und Vorhersagen.",
+    url: "https://www.wetteronline.de/"
+},
+{
+    kategorie: "Wetter & Warnungen",
+    icon: "⚠️",
+    titel: "DWD Warnlage Deutschland",
+    beschreibung: "Amtliche Wetterwarnungen des Deutschen Wetterdienstes.",
+    url: "https://www.dwd.de/DE/wetter/warnungen/warnWetter_node.html"
+},
+{
+    kategorie: "Wetter & Warnungen",
+    icon: "🌩️",
+    titel: "LightningMaps",
+    beschreibung: "Gewitter und Blitze live verfolgen.",
+    url: "https://www.lightningmaps.org/"
+},
+{
+    kategorie: "Wetter & Warnungen",
+    icon: "🌊",
+    titel: "Hochwasserportal Deutschland",
+    beschreibung: "Aktuelle Hochwasserinformationen.",
+    url: "https://www.hochwasserzentralen.de/"
+},
+{
+    kategorie: "Wetter & Warnungen",
+    icon: "🔥",
+    titel: "Waldbrandgefahrenindex",
+    beschreibung: "Aktuelle Waldbrandgefahr in Deutschland.",
+    url: "https://www.dwd.de/DE/leistungen/waldbrandgef/waldbrandgef.html"
+},
+{
+    kategorie: "Wetter & Warnungen",
+    icon: "🛰️",
+    titel: "Sat24 Wetter-Satellit",
+    beschreibung: "Live-Satellitenbilder Europas.",
+    url: "https://www.sat24.com/de"
+},
+{
+    kategorie: "Wetter & Warnungen",
+    icon: "🌪️",
+    titel: "Unwetterzentrale",
+    beschreibung: "Private Unwetterwarnungen und Wetterkarten.",
+    url: "https://www.unwetterzentrale.de/"
 }
 ];
