@@ -694,5 +694,69 @@ const guenterLinks = [
     titel: "Geniale Tricks",
     beschreibung: "Alltagstipps und praktische Ideen auf YouTube.",
     url: "https://www.youtube.com/c/GenialeTricks-de/videos"
+},
+    ,
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "🧪",
+    titel: "Terra X",
+    beschreibung: "Geschichte, Natur, Wissenschaft und Technik.",
+    url: "https://www.zdf.de/dokumentation/terra-x"
+},
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "🔬",
+    titel: "maiLab",
+    beschreibung: "Wissenschaft verständlich erklärt.",
+    url: "https://www.youtube.com/@maiLab"
+},
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "🚀",
+    titel: "Clixoom Science & Future",
+    beschreibung: "Wissenschaft, Raumfahrt und Zukunftstechnologien.",
+    url: "https://www.youtube.com/@Clixoom"
+},
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "📈",
+    titel: "Christian Rieck",
+    beschreibung: "Wirtschaft, Spieltheorie und aktuelle Entwicklungen.",
+    url: "https://www.youtube.com/@ProfRieck"
+},
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "🧐",
+    titel: "Mythen Metzger",
+    beschreibung: "Faktencheck und Analyse aktueller Themen.",
+    url: "https://www.youtube.com/@MythenMetzger"
+},
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "🌍",
+    titel: "Planet Wissen",
+    beschreibung: "Wissensportal von WDR und SWR.",
+    url: "https://www.planet-wissen.de/"
+},
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "📚",
+    titel: "Wikipedia",
+    beschreibung: "Freies Nachschlagewerk.",
+    url: "https://de.wikipedia.org/"
+},
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "🎓",
+    titel: "Khan Academy",
+    beschreibung: "Kostenlose Lernplattform.",
+    url: "https://de.khanacademy.org/"
+},
+{
+    kategorie: "Wissenschaft & Lernen",
+    icon: "🏛️",
+    titel: "Deutsches Museum",
+    beschreibung: "Technik und Wissenschaft.",
+    url: "https://www.deutsches-museum.de/"
 }
 ];
