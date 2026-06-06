@@ -622,11 +622,24 @@ function zeigeFavoriten(){
     const favoriten = getFavoriten();
     const links = guenterLinks.filter(link => favoriten.includes(link.url));
 
-    if(links.length === 0){
-        bereich.style.display = "none";
-        liste.innerHTML = "";
-        return;
-    }
+   if(links.length === 0){
+    bereich.style.display = "block";
+
+    liste.innerHTML = `
+        <div style="
+            padding:12px;
+            background:#f5f1e6;
+            border:1px solid rgba(16,35,63,.15);
+            border-radius:6px;
+            color:#555;
+            font-size:15px;
+        ">
+            ⭐ Klicke bei einem Link auf ☆, um ihn hier als Favoriten zu speichern.
+        </div>
+    `;
+
+    return;
+}
 
     bereich.style.display = "block";
     liste.innerHTML = "";
