@@ -252,5 +252,41 @@ const guenterLinks = [
     titel: "Weltweite Webcams",
     beschreibung: "Live-Webcams aus aller Welt.",
     url: "https://www.skylinewebcams.com/"
+},
+    ,
+{
+    kategorie: "Energie & Strom",
+    icon: "⚡",
+    titel: "Electricity Maps",
+    beschreibung: "Strommix und CO₂-Intensität in Deutschland und Europa.",
+    url: "https://app.electricitymaps.com/zone/DE?lang=de"
+},
+{
+    kategorie: "Energie & Strom",
+    icon: "⚡",
+    titel: "SMARD",
+    beschreibung: "Offizielle Strommarktdaten der Bundesnetzagentur.",
+    url: "https://www.smard.de/home"
+},
+{
+    kategorie: "Energie & Strom",
+    icon: "🔌",
+    titel: "ENTSO-E Stromnetzkarte",
+    beschreibung: "Europäische Stromnetzdaten und Netzkarte.",
+    url: "https://www.entsoe.eu/data/map/"
+},
+{
+    kategorie: "Energie & Strom",
+    icon: "📊",
+    titel: "Energy-Charts",
+    beschreibung: "Stromerzeugung, Verbrauch und Preise in Deutschland.",
+    url: "https://www.energy-charts.info/index.html?l=de&c=DE"
+},
+{
+    kategorie: "Energie & Strom",
+    icon: "🗼",
+    titel: "Stromnetzkarte",
+    beschreibung: "Stromleitungen und Netzinfrastruktur auf einer Karte.",
+    url: "https://www.flosm.org/de/Stromnetz.html"
 }
 ];
