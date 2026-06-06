@@ -890,7 +890,89 @@ bild: "news.jpg"
 ];
 
 let wechselIndex = 0;
-function ladeTVProgramm(){
+    function ladeTVProgramm(){
+
+    const box = document.getElementById("tvProgrammBox");
+    const tag = new Date().getDay();
+
+    const tvTage = {
+        0: [
+            "📺 ARD – Sonntagabend: Tatort oder Spielfilm",
+            "📺 ZDF – Herzkino, Doku oder Krimi",
+            "📺 NDR – Heimat, Doku oder Regionales",
+            "📺 WDR – Unterhaltung oder Doku",
+            "📺 RTL – Show oder Spielfilm"
+        ],
+        1: [
+            "📺 ARD – Montagabend: Doku, Film oder Reportage",
+            "📺 ZDF – Krimi, Doku oder Magazin",
+            "📺 NDR – Markt, Reportage oder Regionales",
+            "📺 WDR – Servicezeit oder Doku",
+            "📺 RTL – Unterhaltung oder Serie"
+        ],
+        2: [
+            "📺 ARD – Dienstagabend: Serie, Film oder Reportage",
+            "📺 ZDF – Doku, Magazin oder Krimi",
+            "📺 NDR – Nordstory oder Regionales",
+            "📺 WDR – Verbraucher oder Unterhaltung",
+            "📺 RTL – Show oder Magazin"
+        ],
+        3: [
+            "📺 ARD – Mittwochabend: Film oder Reportage",
+            "📺 ZDF – Aktenzeichen XY oder Doku",
+            "📺 NDR – Natur und Norden",
+            "📺 WDR – Doku oder Servicezeit",
+            "📺 RTL – Unterhaltung oder Quiz"
+        ],
+        4: [
+            "📺 ARD – Donnerstagabend: Krimi oder Reportage",
+            "📺 ZDF – Heute Journal oder Doku",
+            "📺 NDR – Länder und Leute",
+            "📺 WDR – Unterhaltung oder Doku",
+            "📺 RTL – Show oder Serie"
+        ],
+        5: [
+            "📺 ARD – Freitagabend: Film oder Show",
+            "📺 ZDF – Krimi oder Unterhaltung",
+            "📺 NDR – Regionales oder Doku",
+            "📺 WDR – Musik oder Unterhaltung",
+            "📺 RTL – Showabend"
+        ],
+        6: [
+            "📺 ARD – Samstagabendshow oder Spielfilm",
+            "📺 ZDF – Samstagabendshow",
+            "📺 NDR – Regionales oder Unterhaltung",
+            "📺 WDR – Musik oder Doku",
+            "📺 RTL – Große Samstagabendshow"
+        ]
+    };
+
+    const zeilen = tvTage[tag] || tvTage[1];
+
+    box.innerHTML = zeilen.map(eintrag => `<div>${eintrag}</div>`).join("");
+
+    box.innerHTML += `
+        <div>📺 20:15 Uhr bleibt die wichtigste TV-Zeit des Tages</div>
+        <div>
+            <a href="https://www.tvspielfilm.de/tv-programm/" target="_blank">
+                📋 Echtes TV-Programm öffnen →
+            </a>
+        </div>
+    `;
+}
+
+function updateWechselInfo(){
+    const info = wechselInfos[wechselIndex];
+
+    document.getElementById("wechselInfoKategorie").textContent = info.kategorie;
+    document.getElementById("wechselInfoTitel").textContent = info.titel;
+    document.getElementById("wechselInfoText").textContent = info.text;
+    document.getElementById("wechselInfoLink").href = info.link;
+    document.getElementById("wechselInfoBild").style.backgroundImage = `url('${info.bild}')`;
+
+    wechselIndex = (wechselIndex + 1) % wechselInfos.length;
+}
+updateDateTime();
 
     const box = document.getElementById("tvProgrammBox");
     const tag = new Date().getDay();
