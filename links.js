@@ -65,20 +65,8 @@ const guenterLinks = [
         url: "https://www.hsv.de/uebersicht"
     },
 
-    {
-        kategorie: "Karten & Welt",
-        icon: "✈️",
-        titel: "Flightradar24",
-        beschreibung: "Flugzeuge live verfolgen.",
-        url: "https://www.flightradar24.com/52.17,7.9/9"
-    },
-    {
-        kategorie: "Karten & Welt",
-        icon: "🚢",
-        titel: "MarineTraffic",
-        beschreibung: "Schiffe weltweit live verfolgen.",
-        url: "https://www.marinetraffic.com/"
-    },
+   
+   
     {
         kategorie: "Karten & Welt",
         icon: "🌳",
@@ -131,13 +119,7 @@ const guenterLinks = [
         url: "https://chat.openai.com/"
     },
 
-    {
-        kategorie: "Nachrichten & Meinungen",
-        icon: "📰",
-        titel: "Tagesschau",
-        beschreibung: "Aktuelle Nachrichten.",
-        url: "https://www.tagesschau.de/"
-    },
+  
     {
         kategorie: "Nachrichten & Meinungen",
         icon: "📰",
@@ -218,20 +200,8 @@ const guenterLinks = [
     beschreibung: "Interaktives 3D-Sonnensystem mit Planeten, Monden und Sternen.",
     url: "https://www.solarsystemscope.com/"
 },
-    {
-    kategorie: "Karten & Welt",
-    icon: "✈️",
-    titel: "Flightradar24",
-    beschreibung: "Flugzeuge weltweit live verfolgen.",
-    url: "https://www.flightradar24.com/"
-},
-{
-    kategorie: "Karten & Welt",
-    icon: "🚢",
-    titel: "MarineTraffic",
-    beschreibung: "Schiffe weltweit live verfolgen.",
-    url: "https://www.marinetraffic.com/"
-},
+    
+
 {
     kategorie: "Karten & Welt",
     icon: "🌳",
