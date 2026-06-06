@@ -502,5 +502,62 @@ const guenterLinks = [
     titel: "David Rumsey Historical Maps",
     beschreibung: "Historische Landkarten aus aller Welt.",
     url: "https://www.davidrumsey.com/"
+},
+    ,
+{
+    kategorie: "Live-Karten & Echtzeitdaten",
+    icon: "🌦️",
+    titel: "Windy",
+    beschreibung: "Interaktive Wetterkarte mit Wind, Regen und Wolken.",
+    url: "https://www.windy.com/"
+},
+{
+    kategorie: "Live-Karten & Echtzeitdaten",
+    icon: "🌍",
+    titel: "Ventusky",
+    beschreibung: "Wetter, Temperaturen und Niederschlag weltweit.",
+    url: "https://www.ventusky.com/"
+},
+{
+    kategorie: "Live-Karten & Echtzeitdaten",
+    icon: "🌀",
+    titel: "Earth Nullschool",
+    beschreibung: "Globale Wind-, Wetter- und Meeresströmungen live.",
+    url: "https://earth.nullschool.net/"
+},
+{
+    kategorie: "Live-Karten & Echtzeitdaten",
+    icon: "⚡",
+    titel: "Lightning Maps",
+    beschreibung: "Blitze und Gewitter live verfolgen.",
+    url: "https://www.lightningmaps.org/"
+},
+{
+    kategorie: "Live-Karten & Echtzeitdaten",
+    icon: "✈️",
+    titel: "Flightradar24",
+    beschreibung: "Flugzeuge weltweit live verfolgen.",
+    url: "https://www.flightradar24.com/"
+},
+{
+    kategorie: "Live-Karten & Echtzeitdaten",
+    icon: "🚢",
+    titel: "MarineTraffic",
+    beschreibung: "Schiffe weltweit live verfolgen.",
+    url: "https://www.marinetraffic.com/"
+},
+{
+    kategorie: "Live-Karten & Echtzeitdaten",
+    icon: "🛰️",
+    titel: "ISS Live Tracking",
+    beschreibung: "Aktuelle Position der ISS.",
+    url: "https://www.lizard-tail.com/isana/tracking/"
+},
+{
+    kategorie: "Live-Karten & Echtzeitdaten",
+    icon: "🪐",
+    titel: "Solar System Scope",
+    beschreibung: "Interaktives 3D-Sonnensystem.",
+    url: "https://www.solarsystemscope.com/"
 }
 ];
