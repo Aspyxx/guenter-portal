@@ -445,5 +445,62 @@ const guenterLinks = [
     titel: "Petitionen Bundestag",
     beschreibung: "Petitionen an den Deutschen Bundestag.",
     url: "https://epetitionen.bundestag.de/"
+},
+    ,
+{
+    kategorie: "Wissen, Geschichte & Entdecken",
+    icon: "📚",
+    titel: "Wikipedia",
+    beschreibung: "Freies Nachschlagewerk für fast alle Themen.",
+    url: "https://de.wikipedia.org/"
+},
+{
+    kategorie: "Wissen, Geschichte & Entdecken",
+    icon: "🌍",
+    titel: "Planet Wissen",
+    beschreibung: "Wissen zu Natur, Geschichte, Technik und Gesellschaft.",
+    url: "https://www.planet-wissen.de/"
+},
+{
+    kategorie: "Wissen, Geschichte & Entdecken",
+    icon: "🦕",
+    titel: "National Geographic",
+    beschreibung: "Natur, Wissenschaft und Entdeckungen.",
+    url: "https://www.nationalgeographic.de/"
+},
+{
+    kategorie: "Wissen, Geschichte & Entdecken",
+    icon: "🏛️",
+    titel: "Deutsches Historisches Museum",
+    beschreibung: "Geschichte Deutschlands und Europas.",
+    url: "https://www.dhm.de/"
+},
+{
+    kategorie: "Wissen, Geschichte & Entdecken",
+    icon: "⚙️",
+    titel: "Deutsches Museum",
+    beschreibung: "Technik, Wissenschaft und Innovation.",
+    url: "https://www.deutsches-museum.de/"
+},
+{
+    kategorie: "Wissen, Geschichte & Entdecken",
+    icon: "🗺️",
+    titel: "Google Arts & Culture",
+    beschreibung: "Museen, Kunstwerke und historische Sammlungen weltweit.",
+    url: "https://artsandculture.google.com/"
+},
+{
+    kategorie: "Wissen, Geschichte & Entdecken",
+    icon: "📜",
+    titel: "Bundesarchiv",
+    beschreibung: "Historische Dokumente und Bilder Deutschlands.",
+    url: "https://www.bundesarchiv.de/"
+},
+{
+    kategorie: "Wissen, Geschichte & Entdecken",
+    icon: "🛰️",
+    titel: "David Rumsey Historical Maps",
+    beschreibung: "Historische Landkarten aus aller Welt.",
+    url: "https://www.davidrumsey.com/"
 }
 ];
