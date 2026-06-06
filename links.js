@@ -758,5 +758,48 @@ const guenterLinks = [
     titel: "Deutsches Museum",
     beschreibung: "Technik und Wissenschaft.",
     url: "https://www.deutsches-museum.de/"
+},
+    ,
+{
+    kategorie: "Weltgeschehen & Echtzeit",
+    icon: "🌍",
+    titel: "Live-Karte militärischer Konflikte",
+    beschreibung: "Weltweite militärische Konflikte auf einer Karte.",
+    url: "https://militarysummary.com/map"
+},
+{
+    kategorie: "Weltgeschehen & Echtzeit",
+    icon: "📰",
+    titel: "Weltweite Blogeinträge",
+    beschreibung: "Blogeinträge aus aller Welt in Echtzeit.",
+    url: "https://world.twingly.com/"
+},
+{
+    kategorie: "Weltgeschehen & Echtzeit",
+    icon: "📡",
+    titel: "Cloudflare Radar",
+    beschreibung: "Internetverkehr, Ausfälle und Cyberangriffe beobachten.",
+    url: "https://radar.cloudflare.com/de?dateRange=1d"
+},
+{
+    kategorie: "Weltgeschehen & Echtzeit",
+    icon: "🛰️",
+    titel: "NASA Worldview",
+    beschreibung: "Satellitenbilder der Erde nahezu in Echtzeit.",
+    url: "https://worldview.earthdata.nasa.gov/"
+},
+{
+    kategorie: "Weltgeschehen & Echtzeit",
+    icon: "🌋",
+    titel: "Volcano Discovery",
+    beschreibung: "Vulkane, Erdbeben und Naturereignisse weltweit.",
+    url: "https://www.volcanodiscovery.com/"
+},
+{
+    kategorie: "Weltgeschehen & Echtzeit",
+    icon: "🌐",
+    titel: "Internet Outage Map",
+    beschreibung: "Störungen und Ausfälle im Internet weltweit.",
+    url: "https://www.thousandeyes.com/outages/"
 }
 ];
