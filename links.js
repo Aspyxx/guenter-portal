@@ -630,5 +630,69 @@ const guenterLinks = [
     titel: "Volt Deutschland",
     beschreibung: "Offizielle Webseite von Volt Deutschland.",
     url: "https://voltdeutschland.org/"
+},
+    ,
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "👴",
+    titel: "Enkelkind",
+    beschreibung: "Ideen und Informationen rund um Großeltern und Enkel.",
+    url: "https://www.enkelkind.de/"
+},
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "👵",
+    titel: "Hallo Oma",
+    beschreibung: "Informationen und Inspirationen für Großmütter.",
+    url: "https://hallo-oma.de/"
+},
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "👴",
+    titel: "Hallo Opa",
+    beschreibung: "Informationen und Inspirationen für Großväter.",
+    url: "https://hallo-opa.de/"
+},
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "👴",
+    titel: "Großvater.de",
+    beschreibung: "Themen und Ideen für Großväter.",
+    url: "https://grossvater.de/"
+},
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "🏫",
+    titel: "Bernhard-Overberg-Schule",
+    beschreibung: "Schulseite der Bernhard-Overberg-Schule.",
+    url: "http://gs-overbergschule.de/"
+},
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "🏡",
+    titel: "KiTa Lengerich",
+    beschreibung: "Kindertageseinrichtung Kindervilla in Lengerich.",
+    url: "https://www.awo-msl-re.de/awo-vor-ort/kreis-steinfurt/vo-lengerich/vo-kita-lengerich/vo-kita-fz-rahestrasse/kindertageseinrichtung-kindervilla.html"
+},
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "🏃",
+    titel: "Osnabrücker Sportclub",
+    beschreibung: "Sportverein in Osnabrück.",
+    url: "https://www.osnabruecker-sportclub.de/"
+},
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "🎵",
+    titel: "Musikschule Osnabrück",
+    beschreibung: "Musikschule der Stadt Osnabrück.",
+    url: "https://www.osnabrueck.de/musikschule/start/"
+},
+{
+    kategorie: "Familie, Oma & Opa",
+    icon: "💡",
+    titel: "Geniale Tricks",
+    beschreibung: "Alltagstipps und praktische Ideen auf YouTube.",
+    url: "https://www.youtube.com/c/GenialeTricks-de/videos"
 }
 ];
