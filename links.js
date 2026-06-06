@@ -210,5 +210,12 @@ const guenterLinks = [
         titel: "Prackfiedererhof",
         beschreibung: "Urlaub in Villanders.",
         url: "http://www.prackfiedererhof.it/"
-    }
+    },
+    {
+    kategorie: "Weltall & Technik",
+    icon: "🪐",
+    titel: "Solar System Scope",
+    beschreibung: "Interaktives 3D-Sonnensystem mit Planeten, Monden und Sternen.",
+    url: "https://www.solarsystemscope.com/"
+}
 ];
