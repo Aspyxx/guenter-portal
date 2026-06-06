@@ -499,7 +499,18 @@ footer{
 </div>
 
 </section>
+<section class="panel favorites" id="guenter-link-sammlung" style="margin-top:22px;">
+    <h3>⭐ Günters Link-Sammlung</h3>
 
+    <input 
+        id="linkSuche" 
+        type="text" 
+        placeholder="🔎 Link suchen..." 
+        style="width:100%;padding:14px;font-size:18px;border:1px solid #ccc;border-radius:8px;margin-bottom:18px;"
+    >
+
+    <div id="linkSammlung"></div>
+</section>
 <section class="small-grid">
 
 <a class="card" href="https://www.wetteronline.de/wetter/lengerich" target="_blank">
@@ -569,9 +580,48 @@ footer{
 <footer>
 Neugierig bleiben. Entdecken. Verstehen. – Jeden Tag ein Stück schlauer.
 </footer>
-
+<script src="links.js"></script>
 <script>
-function updateDateTime(){
+function zeigeLinks(filter = ""){
+    const container = document.getElementById("linkSammlung");
+    if(!container || typeof guenterLinks === "undefined") return;
+
+    const suchtext = filter.toLowerCase();
+
+    const gefiltert = guenterLinks.filter(link =>
+        link.titel.toLowerCase().includes(suchtext) ||
+        link.beschreibung.toLowerCase().includes(suchtext) ||
+        link.kategorie.toLowerCase().includes(suchtext)
+    );
+
+    const kategorien = [...new Set(gefiltert.map(link => link.kategorie))];
+
+    container.innerHTML = "";
+
+    kategorien.forEach(kategorie => {
+        const links = gefiltert.filter(link => link.kategorie === kategorie);
+
+        container.innerHTML += `
+            <h4 style="font-family:Georgia,serif;color:#0d3b66;margin-top:22px;border-bottom:1px solid rgba(16,35,63,.25);padding-bottom:6px;">
+                ${links[0].icon} ${kategorie}
+            </h4>
+        `;
+
+        links.forEach(link => {
+            container.innerHTML += `
+                <div style="padding:8px 0;border-bottom:1px solid rgba(16,35,63,.12);">
+                    <a href="${link.url}" target="_blank" style="color:#0d3b66;font-weight:bold;text-decoration:none;">
+                        ${link.icon} ${link.titel}
+                    </a>
+                    <div style="font-size:14px;color:#555;margin-top:3px;">
+                        ${link.beschreibung}
+                    </div>
+                </div>
+            `;
+        });
+    });
+}
+    function updateDateTime(){
     const now = new Date();
 
     const datum = now.toLocaleDateString('de-DE', {
@@ -981,6 +1031,7 @@ ladeSchlagzeilen();
 ladeTVProgramm();
 updateWechselInfo();
 updateHeuteWichtig();
+    zeigeLinks();
 
 setInterval(updateDateTime, 30000);
 setInterval(updateGreeting, 30000);
@@ -989,6 +1040,9 @@ setInterval(ladeWetter, 30 * 60 * 1000);
 setInterval(ladeBundesliga, 30 * 60 * 1000);
 setInterval(ladeSchlagzeilen, 30 * 60 * 1000);
 setInterval(updateWechselInfo, 15 * 60 * 1000);
+    document.getElementById("linkSuche")?.addEventListener("input", function(){
+    zeigeLinks(this.value);
+});
 </script>
 
 </body>
