@@ -499,7 +499,11 @@ footer{
 </div>
 
 </section>
-<section class="panel favorites" id="guenter-link-sammlung" style="margin-top:22px;">
+<section class="panel favorites" id="favoritenBereich" style="margin-top:22px; display:none;">
+    <h3>⭐ Günters Favoriten</h3>
+    <div id="favoritenListe"></div>
+</section>
+    <section class="panel favorites" id="guenter-link-sammlung" style="margin-top:22px;">
     <h3>⭐ Günters Link-Sammlung</h3>
 
     <input 
@@ -582,10 +586,66 @@ Neugierig bleiben. Entdecken. Verstehen. – Jeden Tag ein Stück schlauer.
 </footer>
 <script src="links.js"></script>
 <script>
+function getFavoriten(){
+    return JSON.parse(localStorage.getItem("guenterFavoriten") || "[]");
+}
+
+function setFavoriten(favoriten){
+    localStorage.setItem("guenterFavoriten", JSON.stringify(favoriten));
+}
+
+function toggleFavorit(url){
+    let favoriten = getFavoriten();
+
+    if(favoriten.includes(url)){
+        favoriten = favoriten.filter(eintrag => eintrag !== url);
+    } else {
+        favoriten.push(url);
+    }
+
+    setFavoriten(favoriten);
+    zeigeLinks(document.getElementById("linkSuche")?.value || "");
+    zeigeFavoriten();
+}
+
+function zeigeFavoriten(){
+    const bereich = document.getElementById("favoritenBereich");
+    const liste = document.getElementById("favoritenListe");
+
+    if(!bereich || !liste || typeof guenterLinks === "undefined") return;
+
+    const favoriten = getFavoriten();
+    const links = guenterLinks.filter(link => favoriten.includes(link.url));
+
+    if(links.length === 0){
+        bereich.style.display = "none";
+        liste.innerHTML = "";
+        return;
+    }
+
+    bereich.style.display = "block";
+    liste.innerHTML = "";
+
+    links.forEach(link => {
+        liste.innerHTML += `
+            <div style="padding:8px 0;border-bottom:1px solid rgba(16,35,63,.12);">
+                <a href="${link.url}" target="_blank" style="color:#0d3b66;font-weight:bold;text-decoration:none;">
+                    ${link.icon} ${link.titel}
+                </a>
+                <button onclick="toggleFavorit('${link.url}')" style="float:right;border:none;background:transparent;font-size:20px;cursor:pointer;">⭐</button>
+                <div style="font-size:14px;color:#555;margin-top:3px;">
+                    ${link.beschreibung}
+                </div>
+            </div>
+        `;
+    });
+}
+
 function zeigeLinks(filter = ""){
     const container = document.getElementById("linkSammlung");
     if(!container || typeof guenterLinks === "undefined") return;
 
+    const favoriten = getFavoriten();
     const suchtext = filter.toLowerCase();
 
     const gefiltert = guenterLinks.filter(link =>
@@ -608,11 +668,14 @@ function zeigeLinks(filter = ""){
         `;
 
         links.forEach(link => {
+            const stern = favoriten.includes(link.url) ? "⭐" : "☆";
+
             container.innerHTML += `
                 <div style="padding:8px 0;border-bottom:1px solid rgba(16,35,63,.12);">
                     <a href="${link.url}" target="_blank" style="color:#0d3b66;font-weight:bold;text-decoration:none;">
                         ${link.icon} ${link.titel}
                     </a>
+                    <button onclick="toggleFavorit('${link.url}')" style="float:right;border:none;background:transparent;font-size:20px;cursor:pointer;">${stern}</button>
                     <div style="font-size:14px;color:#555;margin-top:3px;">
                         ${link.beschreibung}
                     </div>
@@ -1032,6 +1095,7 @@ ladeTVProgramm();
 updateWechselInfo();
 updateHeuteWichtig();
     zeigeLinks();
+    zeigeFavoriten();
 
 setInterval(updateDateTime, 30000);
 setInterval(updateGreeting, 30000);
