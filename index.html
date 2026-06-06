@@ -606,6 +606,11 @@ function toggleFavorit(url){
     setFavoriten(favoriten);
     zeigeLinks(document.getElementById("linkSuche")?.value || "");
     zeigeFavoriten();
+
+    const bereich = document.getElementById("favoritenBereich");
+    if(bereich && favoriten.includes(url)){
+        bereich.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
 }
 
 function zeigeFavoriten(){
