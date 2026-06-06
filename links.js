@@ -217,5 +217,40 @@ const guenterLinks = [
     titel: "Solar System Scope",
     beschreibung: "Interaktives 3D-Sonnensystem mit Planeten, Monden und Sternen.",
     url: "https://www.solarsystemscope.com/"
+},
+    {
+    kategorie: "Karten & Welt",
+    icon: "✈️",
+    titel: "Flightradar24",
+    beschreibung: "Flugzeuge weltweit live verfolgen.",
+    url: "https://www.flightradar24.com/"
+},
+{
+    kategorie: "Karten & Welt",
+    icon: "🚢",
+    titel: "MarineTraffic",
+    beschreibung: "Schiffe weltweit live verfolgen.",
+    url: "https://www.marinetraffic.com/"
+},
+{
+    kategorie: "Karten & Welt",
+    icon: "🌳",
+    titel: "Waldkarte der Welt",
+    beschreibung: "Globale Waldflächen ansehen.",
+    url: "https://geoservice.dlr.de/web/maps/tdm:forest"
+},
+{
+    kategorie: "Karten & Welt",
+    icon: "🌍",
+    titel: "Dynamic World",
+    beschreibung: "Veränderungen der Erde und Landnutzung ansehen.",
+    url: "https://www.dynamicworld.app/explore/"
+},
+{
+    kategorie: "Karten & Welt",
+    icon: "📷",
+    titel: "Weltweite Webcams",
+    beschreibung: "Live-Webcams aus aller Welt.",
+    url: "https://www.skylinewebcams.com/"
 }
 ];
