@@ -395,5 +395,55 @@ const guenterLinks = [
     titel: "ADAC Verkehr",
     beschreibung: "Aktuelle Verkehrslage und Staus.",
     url: "https://www.adac.de/verkehr/"
+},
+    ,
+{
+    kategorie: "Politik & Demokratie",
+    icon: "🏛️",
+    titel: "Deutscher Bundestag",
+    beschreibung: "Gesetze, Debatten und Informationen aus dem Bundestag.",
+    url: "https://www.bundestag.de/"
+},
+{
+    kategorie: "Politik & Demokratie",
+    icon: "🏛️",
+    titel: "Bundesrat",
+    beschreibung: "Ländervertretung der Bundesrepublik Deutschland.",
+    url: "https://www.bundesrat.de/"
+},
+{
+    kategorie: "Politik & Demokratie",
+    icon: "🗳️",
+    titel: "Bundeswahlleiter",
+    beschreibung: "Wahlen und Wahlergebnisse in Deutschland.",
+    url: "https://www.bundeswahlleiterin.de/"
+},
+{
+    kategorie: "Politik & Demokratie",
+    icon: "⚖️",
+    titel: "Bundesverfassungsgericht",
+    beschreibung: "Urteile und Entscheidungen des höchsten Gerichts.",
+    url: "https://www.bundesverfassungsgericht.de/"
+},
+{
+    kategorie: "Politik & Demokratie",
+    icon: "📊",
+    titel: "Dashboard Deutschland",
+    beschreibung: "Aktuelle Kennzahlen zu Wirtschaft und Gesellschaft.",
+    url: "https://www.dashboard-deutschland.de/"
+},
+{
+    kategorie: "Politik & Demokratie",
+    icon: "📈",
+    titel: "Statistisches Bundesamt",
+    beschreibung: "Offizielle Statistiken für Deutschland.",
+    url: "https://www.destatis.de/"
+},
+{
+    kategorie: "Politik & Demokratie",
+    icon: "✍️",
+    titel: "Petitionen Bundestag",
+    beschreibung: "Petitionen an den Deutschen Bundestag.",
+    url: "https://epetitionen.bundestag.de/"
 }
 ];
