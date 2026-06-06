@@ -559,5 +559,76 @@ const guenterLinks = [
     titel: "Solar System Scope",
     beschreibung: "Interaktives 3D-Sonnensystem.",
     url: "https://www.solarsystemscope.com/"
+},
+    ,
+{
+    kategorie: "Politik & Parteien",
+    icon: "🏛️",
+    titel: "CDU",
+    beschreibung: "Offizielle Webseite der CDU.",
+    url: "https://www.cdu.de/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "🏛️",
+    titel: "CSU",
+    beschreibung: "Offizielle Webseite der CSU.",
+    url: "https://www.csu.de/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "🌹",
+    titel: "SPD",
+    beschreibung: "Offizielle Webseite der SPD.",
+    url: "https://www.spd.de/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "💛",
+    titel: "FDP",
+    beschreibung: "Offizielle Webseite der FDP.",
+    url: "https://www.fdp.de/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "🌻",
+    titel: "Bündnis 90/Die Grünen",
+    beschreibung: "Offizielle Webseite der Grünen.",
+    url: "https://www.gruene.de/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "🔴",
+    titel: "Die Linke",
+    beschreibung: "Offizielle Webseite der Partei Die Linke.",
+    url: "https://www.die-linke.de/start/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "🔵",
+    titel: "AfD",
+    beschreibung: "Offizielle Webseite der AfD.",
+    url: "https://www.afd.de/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "🟣",
+    titel: "BSW",
+    beschreibung: "Offizielle Webseite Bündnis Sahra Wagenknecht.",
+    url: "https://bsw-vg.de/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "🟠",
+    titel: "Freie Wähler",
+    beschreibung: "Offizielle Webseite der Freien Wähler.",
+    url: "https://www.freiewaehler.eu/"
+},
+{
+    kategorie: "Politik & Parteien",
+    icon: "🇪🇺",
+    titel: "Volt Deutschland",
+    beschreibung: "Offizielle Webseite von Volt Deutschland.",
+    url: "https://voltdeutschland.org/"
 }
 ];
