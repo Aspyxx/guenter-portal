@@ -338,5 +338,62 @@ const guenterLinks = [
     titel: "Unwetterzentrale",
     beschreibung: "Private Unwetterwarnungen und Wetterkarten.",
     url: "https://www.unwetterzentrale.de/"
+},
+    ,
+{
+    kategorie: "Nachrichten & Region",
+    icon: "📰",
+    titel: "Tagesschau",
+    beschreibung: "Aktuelle Nachrichten aus Deutschland und der Welt.",
+    url: "https://www.tagesschau.de/"
+},
+{
+    kategorie: "Nachrichten & Region",
+    icon: "📺",
+    titel: "NDR Niedersachsen",
+    beschreibung: "Nachrichten aus Niedersachsen.",
+    url: "https://www.ndr.de/nachrichten/niedersachsen/"
+},
+{
+    kategorie: "Nachrichten & Region",
+    icon: "🏙️",
+    titel: "Hasepost",
+    beschreibung: "Nachrichten aus Osnabrück.",
+    url: "https://www.hasepost.de/"
+},
+{
+    kategorie: "Nachrichten & Region",
+    icon: "🗞️",
+    titel: "NOZ",
+    beschreibung: "Neue Osnabrücker Zeitung.",
+    url: "https://www.noz.de/"
+},
+{
+    kategorie: "Nachrichten & Region",
+    icon: "🚓",
+    titel: "Presseportal Blaulicht",
+    beschreibung: "Polizei- und Blaulichtmeldungen.",
+    url: "https://www.presseportal.de/blaulicht/"
+},
+{
+    kategorie: "Nachrichten & Region",
+    icon: "🏡",
+    titel: "Stadt Lengerich",
+    beschreibung: "Offizielle Meldungen der Stadt.",
+    url: "https://www.lengerich.de/"
+},
+{
+    kategorie: "Nachrichten & Region",
+    icon: "📅",
+    titel: "Osnabrücker Land",
+    beschreibung: "Veranstaltungen und Region.",
+    url: "https://www.osnabruecker-land.de/"
+},
+{
+    kategorie: "Nachrichten & Region",
+    icon: "🚗",
+    titel: "ADAC Verkehr",
+    beschreibung: "Aktuelle Verkehrslage und Staus.",
+    url: "https://www.adac.de/verkehr/"
 }
 ];
