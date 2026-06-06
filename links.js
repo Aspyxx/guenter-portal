@@ -801,5 +801,62 @@ const guenterLinks = [
     titel: "Internet Outage Map",
     beschreibung: "Störungen und Ausfälle im Internet weltweit.",
     url: "https://www.thousandeyes.com/outages/"
+},
+    ,
+{
+    kategorie: "Nützliche Werkzeuge",
+    icon: "🖥️",
+    titel: "TeamViewer",
+    beschreibung: "Fernwartung und Hilfe am Computer.",
+    url: "https://www.teamviewer.com/de/"
+},
+{
+    kategorie: "Nützliche Werkzeuge",
+    icon: "📞",
+    titel: "Das Örtliche",
+    beschreibung: "Telefonbuch und Branchenverzeichnis.",
+    url: "https://www.dasoertliche.de/"
+},
+{
+    kategorie: "Nützliche Werkzeuge",
+    icon: "🗺️",
+    titel: "Google Maps",
+    beschreibung: "Karten, Navigation und Routenplanung.",
+    url: "https://maps.google.de/"
+},
+{
+    kategorie: "Nützliche Werkzeuge",
+    icon: "🌐",
+    titel: "DeepL Übersetzer",
+    beschreibung: "Texte schnell übersetzen.",
+    url: "https://www.deepl.com/de/translator"
+},
+{
+    kategorie: "Nützliche Werkzeuge",
+    icon: "📅",
+    titel: "Feiertage Deutschland",
+    beschreibung: "Feiertage und Kalenderübersicht.",
+    url: "https://www.schulferien.org/deutschland/feiertage/"
+},
+{
+    kategorie: "Nützliche Werkzeuge",
+    icon: "👨‍👩‍👧",
+    titel: "Familiennamen Deutschland",
+    beschreibung: "Herkunft und Verbreitung von Familiennamen.",
+    url: "https://nvk.genealogy.net/map"
+},
+{
+    kategorie: "Nützliche Werkzeuge",
+    icon: "🏰",
+    titel: "Bunkerwelten",
+    beschreibung: "Bunker, Schutzanlagen und Zeitgeschichte.",
+    url: "https://www.bunkerwelten.de/"
+},
+{
+    kategorie: "Nützliche Werkzeuge",
+    icon: "💪",
+    titel: "Liebscher & Bracht",
+    beschreibung: "Übungen und Tipps gegen Schmerzen.",
+    url: "https://www.liebscher-bracht.com/"
 }
 ];
