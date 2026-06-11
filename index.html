@@ -346,16 +346,23 @@ footer{
             </div>
         </div>
 
-<div class="panel" style="margin-top:22px;">
+<div class="panel" id="aktuellFokusBox" style="margin-top:22px;">
 
-    <h3>📌 Heute wichtig</h3>
+    <h3>🔥 Aktuell im Fokus</h3>
 
     <div class="news-list">
-        <div id="heuteWetter">🌦️ Wetter wird geprüft...</div>
-        <div id="heuteFussball">⚽ Fußballhinweis wird geprüft...</div>
-        <div id="heuteTV">📺 TV-Hinweis wird geladen...</div>
-        <div id="heuteGarten">🌷 Garten-Tipp wird geladen...</div>
-        <div id="heuteLengerich">🏡 Lengerich-Hinweis wird geladen...</div>
+        <div><strong>⚽ Fußball-WM 2026</strong></div>
+        <div>Spielplan, Ergebnisse, Gruppen und aktuelle Nachrichten.</div>
+        <div>
+            <a href="https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures" target="_blank">
+                🌍 FIFA Spielplan & Ergebnisse öffnen →
+            </a>
+        </div>
+        <div>
+            <a href="https://www.kicker.de/wm/startseite" target="_blank">
+                ⚽ Kicker WM 2026 öffnen →
+            </a>
+        </div>
     </div>
 
 </div>
@@ -1005,13 +1012,13 @@ ladeBundesliga();
 ladeSchlagzeilen();
 ladeTVProgramm();
 updateWechselInfo();
-updateHeuteWichtig();
+
     zeigeLinks();
     zeigeFavoriten();
 
 setInterval(updateDateTime, 30000);
 setInterval(updateGreeting, 30000);
-setInterval(updateHeuteWichtig, 30000);
+
 setInterval(ladeWetter, 30 * 60 * 1000);
 setInterval(ladeBundesliga, 30 * 60 * 1000);
 setInterval(ladeSchlagzeilen, 30 * 60 * 1000);
