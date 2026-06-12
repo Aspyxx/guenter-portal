@@ -42,6 +42,55 @@ const guenterLinks = [
         beschreibung: "Gezeiten und Wasserstände.",
         url: "https://gezeitenfisch.com/de/niedersachsen/wilhelmshaven-neuer-vorhafen#_gezeiten"
     },
+    {
+        kategorie: "Wetter & Warnungen",
+        icon: "🌦️",
+        titel: "WetterOnline",
+        beschreibung: "Aktuelles Wetter und Vorhersagen.",
+        url: "https://www.wetteronline.de/"
+    },
+    {
+        kategorie: "Wetter & Warnungen",
+        icon: "⚠️",
+        titel: "DWD Warnlage Deutschland",
+        beschreibung: "Amtliche Wetterwarnungen des Deutschen Wetterdienstes.",
+        url: "https://www.dwd.de/DE/wetter/warnungen/warnWetter_node.html"
+    },
+    {
+        kategorie: "Wetter & Warnungen",
+        icon: "🌩️",
+        titel: "LightningMaps",
+        beschreibung: "Gewitter und Blitze live verfolgen.",
+        url: "https://www.lightningmaps.org/"
+    },
+    {
+        kategorie: "Wetter & Warnungen",
+        icon: "🌊",
+        titel: "Hochwasserportal Deutschland",
+        beschreibung: "Aktuelle Hochwasserinformationen.",
+        url: "https://www.hochwasserzentralen.de/"
+    },
+    {
+        kategorie: "Wetter & Warnungen",
+        icon: "🔥",
+        titel: "Waldbrandgefahrenindex",
+        beschreibung: "Aktuelle Waldbrandgefahr in Deutschland.",
+        url: "https://www.dwd.de/DE/leistungen/waldbrandgef/waldbrandgef.html"
+    },
+    {
+        kategorie: "Wetter & Warnungen",
+        icon: "🛰️",
+        titel: "Sat24 Wetter-Satellit",
+        beschreibung: "Live-Satellitenbilder Europas.",
+        url: "https://www.sat24.com/de"
+    },
+    {
+        kategorie: "Wetter & Warnungen",
+        icon: "🌪️",
+        titel: "Unwetterzentrale",
+        beschreibung: "Private Unwetterwarnungen und Wetterkarten.",
+        url: "https://www.unwetterzentrale.de/"
+    },
 
     {
         kategorie: "Fußball & Sport",
@@ -65,8 +114,6 @@ const guenterLinks = [
         url: "https://www.hsv.de/uebersicht"
     },
 
-   
-   
     {
         kategorie: "Karten & Welt",
         icon: "🌳",
@@ -81,6 +128,56 @@ const guenterLinks = [
         beschreibung: "Veränderungen der Erde ansehen.",
         url: "https://www.dynamicworld.app/explore/"
     },
+    {
+        kategorie: "Karten & Welt",
+        icon: "📷",
+        titel: "Weltweite Webcams",
+        beschreibung: "Live-Webcams aus aller Welt.",
+        url: "https://www.skylinewebcams.com/"
+    },
+
+    {
+        kategorie: "Live-Karten & Echtzeitdaten",
+        icon: "🛰️",
+        titel: "ISS Live Tracking",
+        beschreibung: "Aktuelle Position der ISS.",
+        url: "https://www.lizard-tail.com/isana/tracking/"
+    },
+    {
+        kategorie: "Live-Karten & Echtzeitdaten",
+        icon: "🌦️",
+        titel: "Windy",
+        beschreibung: "Interaktive Wetterkarte mit Wind, Regen und Wolken.",
+        url: "https://www.windy.com/"
+    },
+    {
+        kategorie: "Live-Karten & Echtzeitdaten",
+        icon: "🌍",
+        titel: "Ventusky",
+        beschreibung: "Wetter, Temperaturen und Niederschlag weltweit.",
+        url: "https://www.ventusky.com/"
+    },
+    {
+        kategorie: "Live-Karten & Echtzeitdaten",
+        icon: "🌀",
+        titel: "Earth Nullschool",
+        beschreibung: "Globale Wind-, Wetter- und Meeresströmungen live.",
+        url: "https://earth.nullschool.net/"
+    },
+    {
+        kategorie: "Live-Karten & Echtzeitdaten",
+        icon: "✈️",
+        titel: "Flightradar24",
+        beschreibung: "Flugzeuge weltweit live verfolgen.",
+        url: "https://www.flightradar24.com/"
+    },
+    {
+        kategorie: "Live-Karten & Echtzeitdaten",
+        icon: "🚢",
+        titel: "MarineTraffic",
+        beschreibung: "Schiffe weltweit live verfolgen.",
+        url: "https://www.marinetraffic.com/"
+    },
 
     {
         kategorie: "Weltall & Technik",
@@ -91,17 +188,31 @@ const guenterLinks = [
     },
     {
         kategorie: "Weltall & Technik",
-        icon: "🛰️",
-        titel: "ISS Livetracking",
-        beschreibung: "Position der ISS live verfolgen.",
-        url: "https://www.lizard-tail.com/isana/tracking/"
-    },
-    {
-        kategorie: "Weltall & Technik",
         icon: "🌌",
         titel: "Starlink finden",
         beschreibung: "Starlink-Satelliten am Himmel finden.",
         url: "https://findstarlink.com/"
+    },
+    {
+        kategorie: "Weltall & Technik",
+        icon: "🪐",
+        titel: "Solar System Scope",
+        beschreibung: "Interaktives 3D-Sonnensystem mit Planeten, Monden und Sternen.",
+        url: "https://www.solarsystemscope.com/"
+    },
+    {
+        kategorie: "Weltall & Technik",
+        icon: "🛸",
+        titel: "WAR.gov UFO Archive",
+        beschreibung: "UFO-, UAP- und Anomalie-Daten der US-Regierung.",
+        url: "https://www.war.gov/UFO/"
+    },
+    {
+        kategorie: "Weltall & Technik",
+        icon: "🛸",
+        titel: "NASA UAP",
+        beschreibung: "NASA-Informationen zu unidentifizierten Luftphänomenen.",
+        url: "https://science.nasa.gov/uap/"
     },
 
     {
@@ -119,7 +230,6 @@ const guenterLinks = [
         url: "https://chat.openai.com/"
     },
 
-  
     {
         kategorie: "Nachrichten & Meinungen",
         icon: "📰",
@@ -127,12 +237,55 @@ const guenterLinks = [
         beschreibung: "Nachrichten und Analysen.",
         url: "https://www.nzz.ch/"
     },
+
     {
-        kategorie: "Nachrichten & Meinungen",
-        icon: "📰",
+        kategorie: "Nachrichten & Region",
+        icon: "🏙️",
         titel: "Hasepost",
         beschreibung: "Nachrichten aus Osnabrück.",
         url: "https://www.hasepost.de/"
+    },
+    {
+        kategorie: "Nachrichten & Region",
+        icon: "📰",
+        titel: "Tagesschau",
+        beschreibung: "Aktuelle Nachrichten aus Deutschland und der Welt.",
+        url: "https://www.tagesschau.de/"
+    },
+    {
+        kategorie: "Nachrichten & Region",
+        icon: "📺",
+        titel: "NDR Niedersachsen",
+        beschreibung: "Nachrichten aus Niedersachsen.",
+        url: "https://www.ndr.de/nachrichten/niedersachsen/"
+    },
+    {
+        kategorie: "Nachrichten & Region",
+        icon: "🗞️",
+        titel: "NOZ",
+        beschreibung: "Neue Osnabrücker Zeitung.",
+        url: "https://www.noz.de/"
+    },
+    {
+        kategorie: "Nachrichten & Region",
+        icon: "🚓",
+        titel: "Presseportal Blaulicht",
+        beschreibung: "Polizei- und Blaulichtmeldungen.",
+        url: "https://www.presseportal.de/blaulicht/"
+    },
+    {
+        kategorie: "Nachrichten & Region",
+        icon: "📅",
+        titel: "Osnabrücker Land",
+        beschreibung: "Veranstaltungen und Region.",
+        url: "https://www.osnabruecker-land.de/"
+    },
+    {
+        kategorie: "Nachrichten & Region",
+        icon: "🚗",
+        titel: "ADAC Verkehr",
+        beschreibung: "Aktuelle Verkehrslage und Staus.",
+        url: "https://www.adac.de/verkehr/"
     },
 
     {
@@ -158,18 +311,188 @@ const guenterLinks = [
     },
 
     {
-        kategorie: "Familie & Alltag",
+        kategorie: "Politik & Demokratie",
+        icon: "🏛️",
+        titel: "Deutscher Bundestag",
+        beschreibung: "Gesetze, Debatten und Informationen aus dem Bundestag.",
+        url: "https://www.bundestag.de/"
+    },
+    {
+        kategorie: "Politik & Demokratie",
+        icon: "🏛️",
+        titel: "Bundesrat",
+        beschreibung: "Ländervertretung der Bundesrepublik Deutschland.",
+        url: "https://www.bundesrat.de/"
+    },
+    {
+        kategorie: "Politik & Demokratie",
+        icon: "🗳️",
+        titel: "Bundeswahlleiter",
+        beschreibung: "Wahlen und Wahlergebnisse in Deutschland.",
+        url: "https://www.bundeswahlleiterin.de/"
+    },
+    {
+        kategorie: "Politik & Demokratie",
+        icon: "⚖️",
+        titel: "Bundesverfassungsgericht",
+        beschreibung: "Urteile und Entscheidungen des höchsten Gerichts.",
+        url: "https://www.bundesverfassungsgericht.de/"
+    },
+    {
+        kategorie: "Politik & Demokratie",
+        icon: "📊",
+        titel: "Dashboard Deutschland",
+        beschreibung: "Aktuelle Kennzahlen zu Wirtschaft und Gesellschaft.",
+        url: "https://www.dashboard-deutschland.de/"
+    },
+    {
+        kategorie: "Politik & Demokratie",
+        icon: "📈",
+        titel: "Statistisches Bundesamt",
+        beschreibung: "Offizielle Statistiken für Deutschland.",
+        url: "https://www.destatis.de/"
+    },
+    {
+        kategorie: "Politik & Demokratie",
+        icon: "✍️",
+        titel: "Petitionen Bundestag",
+        beschreibung: "Petitionen an den Deutschen Bundestag.",
+        url: "https://epetitionen.bundestag.de/"
+    },
+
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🏛️",
+        titel: "CDU",
+        beschreibung: "Offizielle Webseite der CDU.",
+        url: "https://www.cdu.de/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🏛️",
+        titel: "CSU",
+        beschreibung: "Offizielle Webseite der CSU.",
+        url: "https://www.csu.de/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🌹",
+        titel: "SPD",
+        beschreibung: "Offizielle Webseite der SPD.",
+        url: "https://www.spd.de/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "💛",
+        titel: "FDP",
+        beschreibung: "Offizielle Webseite der FDP.",
+        url: "https://www.fdp.de/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🌻",
+        titel: "Bündnis 90/Die Grünen",
+        beschreibung: "Offizielle Webseite der Grünen.",
+        url: "https://www.gruene.de/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🔴",
+        titel: "Die Linke",
+        beschreibung: "Offizielle Webseite der Partei Die Linke.",
+        url: "https://www.die-linke.de/start/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🔵",
+        titel: "AfD",
+        beschreibung: "Offizielle Webseite der AfD.",
+        url: "https://www.afd.de/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🟣",
+        titel: "BSW",
+        beschreibung: "Offizielle Webseite Bündnis Sahra Wagenknecht.",
+        url: "https://bsw-vg.de/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🟠",
+        titel: "Freie Wähler",
+        beschreibung: "Offizielle Webseite der Freien Wähler.",
+        url: "https://www.freiewaehler.eu/"
+    },
+    {
+        kategorie: "Politik & Parteien",
+        icon: "🇪🇺",
+        titel: "Volt Deutschland",
+        beschreibung: "Offizielle Webseite von Volt Deutschland.",
+        url: "https://voltdeutschland.org/"
+    },
+
+    {
+        kategorie: "Familie, Oma & Opa",
         icon: "👴",
         titel: "Enkelkind",
-        beschreibung: "Ideen rund um Großeltern und Enkel.",
+        beschreibung: "Ideen und Informationen rund um Großeltern und Enkel.",
         url: "https://www.enkelkind.de/"
     },
     {
-        kategorie: "Familie & Alltag",
+        kategorie: "Familie, Oma & Opa",
         icon: "👵",
         titel: "Hallo Oma",
-        beschreibung: "Themen für Großeltern.",
+        beschreibung: "Informationen und Inspirationen für Großmütter.",
         url: "https://hallo-oma.de/"
+    },
+    {
+        kategorie: "Familie, Oma & Opa",
+        icon: "👴",
+        titel: "Hallo Opa",
+        beschreibung: "Informationen und Inspirationen für Großväter.",
+        url: "https://hallo-opa.de/"
+    },
+    {
+        kategorie: "Familie, Oma & Opa",
+        icon: "👴",
+        titel: "Großvater.de",
+        beschreibung: "Themen und Ideen für Großväter.",
+        url: "https://grossvater.de/"
+    },
+    {
+        kategorie: "Familie, Oma & Opa",
+        icon: "🏫",
+        titel: "Bernhard-Overberg-Schule",
+        beschreibung: "Schulseite der Bernhard-Overberg-Schule.",
+        url: "https://gs-overbergschule.de/"
+    },
+    {
+        kategorie: "Familie, Oma & Opa",
+        icon: "🏡",
+        titel: "KiTa Lengerich",
+        beschreibung: "Kindertageseinrichtung Kindervilla in Lengerich.",
+        url: "https://www.awo-msl-re.de/awo-vor-ort/kreis-steinfurt/vo-lengerich/vo-kita-lengerich/vo-kita-fz-rahestrasse/kindertageseinrichtung-kindervilla.html"
+    },
+    {
+        kategorie: "Familie, Oma & Opa",
+        icon: "🏃",
+        titel: "Osnabrücker Sportclub",
+        beschreibung: "Sportverein in Osnabrück.",
+        url: "https://www.osnabruecker-sportclub.de/"
+    },
+    {
+        kategorie: "Familie, Oma & Opa",
+        icon: "🎵",
+        titel: "Musikschule Osnabrück",
+        beschreibung: "Musikschule der Stadt Osnabrück.",
+        url: "https://www.osnabrueck.de/musikschule/start/"
+    },
+    {
+        kategorie: "Familie, Oma & Opa",
+        icon: "💡",
+        titel: "Geniale Tricks",
+        beschreibung: "Alltagstipps und praktische Ideen auf YouTube.",
+        url: "https://www.youtube.com/c/GenialeTricks-de/videos"
     },
 
     {
@@ -184,657 +507,242 @@ const guenterLinks = [
         icon: "🏡",
         titel: "Falserhof",
         beschreibung: "Urlaub in Südtirol.",
-        url: "http://www.falserhof-suedtirol.com/"
+        url: "https://falserhof-suedtirol.com/"
     },
     {
         kategorie: "Südtirol",
         icon: "🏡",
         titel: "Prackfiedererhof",
         beschreibung: "Urlaub in Villanders.",
-        url: "http://www.prackfiedererhof.it/"
+        url: "https://www.prackfiedererhof.it/"
+    },
+
+    {
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "📚",
+        titel: "Wikipedia",
+        beschreibung: "Freies Nachschlagewerk für fast alle Themen.",
+        url: "https://de.wikipedia.org/"
     },
     {
-    kategorie: "Weltall & Technik",
-    icon: "🪐",
-    titel: "Solar System Scope",
-    beschreibung: "Interaktives 3D-Sonnensystem mit Planeten, Monden und Sternen.",
-    url: "https://www.solarsystemscope.com/"
-},
-    
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "🌍",
+        titel: "Planet Wissen",
+        beschreibung: "Wissen zu Natur, Geschichte, Technik und Gesellschaft.",
+        url: "https://www.planet-wissen.de/"
+    },
+    {
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "🦕",
+        titel: "National Geographic",
+        beschreibung: "Natur, Wissenschaft und Entdeckungen.",
+        url: "https://www.nationalgeographic.de/"
+    },
+    {
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "🏛️",
+        titel: "Deutsches Historisches Museum",
+        beschreibung: "Geschichte Deutschlands und Europas.",
+        url: "https://www.dhm.de/"
+    },
+    {
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "⚙️",
+        titel: "Deutsches Museum",
+        beschreibung: "Technik, Wissenschaft und Innovation.",
+        url: "https://www.deutsches-museum.de/"
+    },
+    {
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "🗺️",
+        titel: "Google Arts & Culture",
+        beschreibung: "Museen, Kunstwerke und historische Sammlungen weltweit.",
+        url: "https://artsandculture.google.com/"
+    },
+    {
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "📜",
+        titel: "Bundesarchiv",
+        beschreibung: "Historische Dokumente und Bilder Deutschlands.",
+        url: "https://www.bundesarchiv.de/"
+    },
+    {
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "🛰️",
+        titel: "David Rumsey Historical Maps",
+        beschreibung: "Historische Landkarten aus aller Welt.",
+        url: "https://www.davidrumsey.com/"
+    },
 
-{
-    kategorie: "Karten & Welt",
-    icon: "🌳",
-    titel: "Waldkarte der Welt",
-    beschreibung: "Globale Waldflächen ansehen.",
-    url: "https://geoservice.dlr.de/web/maps/tdm:forest"
-},
-{
-    kategorie: "Karten & Welt",
-    icon: "🌍",
-    titel: "Dynamic World",
-    beschreibung: "Veränderungen der Erde und Landnutzung ansehen.",
-    url: "https://www.dynamicworld.app/explore/"
-},
-{
-    kategorie: "Karten & Welt",
-    icon: "📷",
-    titel: "Weltweite Webcams",
-    beschreibung: "Live-Webcams aus aller Welt.",
-    url: "https://www.skylinewebcams.com/"
-},
-    ,
-{
-    kategorie: "Energie & Strom",
-    icon: "⚡",
-    titel: "Electricity Maps",
-    beschreibung: "Strommix und CO₂-Intensität in Deutschland und Europa.",
-    url: "https://app.electricitymaps.com/zone/DE?lang=de"
-},
-{
-    kategorie: "Energie & Strom",
-    icon: "⚡",
-    titel: "SMARD",
-    beschreibung: "Offizielle Strommarktdaten der Bundesnetzagentur.",
-    url: "https://www.smard.de/home"
-},
-{
-    kategorie: "Energie & Strom",
-    icon: "🔌",
-    titel: "ENTSO-E Stromnetzkarte",
-    beschreibung: "Europäische Stromnetzdaten und Netzkarte.",
-    url: "https://www.entsoe.eu/data/map/"
-},
-{
-    kategorie: "Energie & Strom",
-    icon: "📊",
-    titel: "Energy-Charts",
-    beschreibung: "Stromerzeugung, Verbrauch und Preise in Deutschland.",
-    url: "https://www.energy-charts.info/index.html?l=de&c=DE"
-},
-{
-    kategorie: "Energie & Strom",
-    icon: "🗼",
-    titel: "Stromnetzkarte",
-    beschreibung: "Stromleitungen und Netzinfrastruktur auf einer Karte.",
-    url: "https://www.flosm.org/de/Stromnetz.html"
-},
-    ,
-{
-    kategorie: "Wetter & Warnungen",
-    icon: "🌦️",
-    titel: "WetterOnline",
-    beschreibung: "Aktuelles Wetter und Vorhersagen.",
-    url: "https://www.wetteronline.de/"
-},
-{
-    kategorie: "Wetter & Warnungen",
-    icon: "⚠️",
-    titel: "DWD Warnlage Deutschland",
-    beschreibung: "Amtliche Wetterwarnungen des Deutschen Wetterdienstes.",
-    url: "https://www.dwd.de/DE/wetter/warnungen/warnWetter_node.html"
-},
-{
-    kategorie: "Wetter & Warnungen",
-    icon: "🌩️",
-    titel: "LightningMaps",
-    beschreibung: "Gewitter und Blitze live verfolgen.",
-    url: "https://www.lightningmaps.org/"
-},
-{
-    kategorie: "Wetter & Warnungen",
-    icon: "🌊",
-    titel: "Hochwasserportal Deutschland",
-    beschreibung: "Aktuelle Hochwasserinformationen.",
-    url: "https://www.hochwasserzentralen.de/"
-},
-{
-    kategorie: "Wetter & Warnungen",
-    icon: "🔥",
-    titel: "Waldbrandgefahrenindex",
-    beschreibung: "Aktuelle Waldbrandgefahr in Deutschland.",
-    url: "https://www.dwd.de/DE/leistungen/waldbrandgef/waldbrandgef.html"
-},
-{
-    kategorie: "Wetter & Warnungen",
-    icon: "🛰️",
-    titel: "Sat24 Wetter-Satellit",
-    beschreibung: "Live-Satellitenbilder Europas.",
-    url: "https://www.sat24.com/de"
-},
-{
-    kategorie: "Wetter & Warnungen",
-    icon: "🌪️",
-    titel: "Unwetterzentrale",
-    beschreibung: "Private Unwetterwarnungen und Wetterkarten.",
-    url: "https://www.unwetterzentrale.de/"
-},
-    ,
-{
-    kategorie: "Nachrichten & Region",
-    icon: "📰",
-    titel: "Tagesschau",
-    beschreibung: "Aktuelle Nachrichten aus Deutschland und der Welt.",
-    url: "https://www.tagesschau.de/"
-},
-{
-    kategorie: "Nachrichten & Region",
-    icon: "📺",
-    titel: "NDR Niedersachsen",
-    beschreibung: "Nachrichten aus Niedersachsen.",
-    url: "https://www.ndr.de/nachrichten/niedersachsen/"
-},
-{
-    kategorie: "Nachrichten & Region",
-    icon: "🏙️",
-    titel: "Hasepost",
-    beschreibung: "Nachrichten aus Osnabrück.",
-    url: "https://www.hasepost.de/"
-},
-{
-    kategorie: "Nachrichten & Region",
-    icon: "🗞️",
-    titel: "NOZ",
-    beschreibung: "Neue Osnabrücker Zeitung.",
-    url: "https://www.noz.de/"
-},
-{
-    kategorie: "Nachrichten & Region",
-    icon: "🚓",
-    titel: "Presseportal Blaulicht",
-    beschreibung: "Polizei- und Blaulichtmeldungen.",
-    url: "https://www.presseportal.de/blaulicht/"
-},
-{
-    kategorie: "Nachrichten & Region",
-    icon: "🏡",
-    titel: "Stadt Lengerich",
-    beschreibung: "Offizielle Meldungen der Stadt.",
-    url: "https://www.lengerich.de/"
-},
-{
-    kategorie: "Nachrichten & Region",
-    icon: "📅",
-    titel: "Osnabrücker Land",
-    beschreibung: "Veranstaltungen und Region.",
-    url: "https://www.osnabruecker-land.de/"
-},
-{
-    kategorie: "Nachrichten & Region",
-    icon: "🚗",
-    titel: "ADAC Verkehr",
-    beschreibung: "Aktuelle Verkehrslage und Staus.",
-    url: "https://www.adac.de/verkehr/"
-},
-    ,
-{
-    kategorie: "Politik & Demokratie",
-    icon: "🏛️",
-    titel: "Deutscher Bundestag",
-    beschreibung: "Gesetze, Debatten und Informationen aus dem Bundestag.",
-    url: "https://www.bundestag.de/"
-},
-{
-    kategorie: "Politik & Demokratie",
-    icon: "🏛️",
-    titel: "Bundesrat",
-    beschreibung: "Ländervertretung der Bundesrepublik Deutschland.",
-    url: "https://www.bundesrat.de/"
-},
-{
-    kategorie: "Politik & Demokratie",
-    icon: "🗳️",
-    titel: "Bundeswahlleiter",
-    beschreibung: "Wahlen und Wahlergebnisse in Deutschland.",
-    url: "https://www.bundeswahlleiterin.de/"
-},
-{
-    kategorie: "Politik & Demokratie",
-    icon: "⚖️",
-    titel: "Bundesverfassungsgericht",
-    beschreibung: "Urteile und Entscheidungen des höchsten Gerichts.",
-    url: "https://www.bundesverfassungsgericht.de/"
-},
-{
-    kategorie: "Politik & Demokratie",
-    icon: "📊",
-    titel: "Dashboard Deutschland",
-    beschreibung: "Aktuelle Kennzahlen zu Wirtschaft und Gesellschaft.",
-    url: "https://www.dashboard-deutschland.de/"
-},
-{
-    kategorie: "Politik & Demokratie",
-    icon: "📈",
-    titel: "Statistisches Bundesamt",
-    beschreibung: "Offizielle Statistiken für Deutschland.",
-    url: "https://www.destatis.de/"
-},
-{
-    kategorie: "Politik & Demokratie",
-    icon: "✍️",
-    titel: "Petitionen Bundestag",
-    beschreibung: "Petitionen an den Deutschen Bundestag.",
-    url: "https://epetitionen.bundestag.de/"
-},
-    ,
-{
-    kategorie: "Wissen, Geschichte & Entdecken",
-    icon: "📚",
-    titel: "Wikipedia",
-    beschreibung: "Freies Nachschlagewerk für fast alle Themen.",
-    url: "https://de.wikipedia.org/"
-},
-{
-    kategorie: "Wissen, Geschichte & Entdecken",
-    icon: "🌍",
-    titel: "Planet Wissen",
-    beschreibung: "Wissen zu Natur, Geschichte, Technik und Gesellschaft.",
-    url: "https://www.planet-wissen.de/"
-},
-{
-    kategorie: "Wissen, Geschichte & Entdecken",
-    icon: "🦕",
-    titel: "National Geographic",
-    beschreibung: "Natur, Wissenschaft und Entdeckungen.",
-    url: "https://www.nationalgeographic.de/"
-},
-{
-    kategorie: "Wissen, Geschichte & Entdecken",
-    icon: "🏛️",
-    titel: "Deutsches Historisches Museum",
-    beschreibung: "Geschichte Deutschlands und Europas.",
-    url: "https://www.dhm.de/"
-},
-{
-    kategorie: "Wissen, Geschichte & Entdecken",
-    icon: "⚙️",
-    titel: "Deutsches Museum",
-    beschreibung: "Technik, Wissenschaft und Innovation.",
-    url: "https://www.deutsches-museum.de/"
-},
-{
-    kategorie: "Wissen, Geschichte & Entdecken",
-    icon: "🗺️",
-    titel: "Google Arts & Culture",
-    beschreibung: "Museen, Kunstwerke und historische Sammlungen weltweit.",
-    url: "https://artsandculture.google.com/"
-},
-{
-    kategorie: "Wissen, Geschichte & Entdecken",
-    icon: "📜",
-    titel: "Bundesarchiv",
-    beschreibung: "Historische Dokumente und Bilder Deutschlands.",
-    url: "https://www.bundesarchiv.de/"
-},
-{
-    kategorie: "Wissen, Geschichte & Entdecken",
-    icon: "🛰️",
-    titel: "David Rumsey Historical Maps",
-    beschreibung: "Historische Landkarten aus aller Welt.",
-    url: "https://www.davidrumsey.com/"
-},
-    ,
-{
-    kategorie: "Live-Karten & Echtzeitdaten",
-    icon: "🌦️",
-    titel: "Windy",
-    beschreibung: "Interaktive Wetterkarte mit Wind, Regen und Wolken.",
-    url: "https://www.windy.com/"
-},
-{
-    kategorie: "Live-Karten & Echtzeitdaten",
-    icon: "🌍",
-    titel: "Ventusky",
-    beschreibung: "Wetter, Temperaturen und Niederschlag weltweit.",
-    url: "https://www.ventusky.com/"
-},
-{
-    kategorie: "Live-Karten & Echtzeitdaten",
-    icon: "🌀",
-    titel: "Earth Nullschool",
-    beschreibung: "Globale Wind-, Wetter- und Meeresströmungen live.",
-    url: "https://earth.nullschool.net/"
-},
-{
-    kategorie: "Live-Karten & Echtzeitdaten",
-    icon: "⚡",
-    titel: "Lightning Maps",
-    beschreibung: "Blitze und Gewitter live verfolgen.",
-    url: "https://www.lightningmaps.org/"
-},
-{
-    kategorie: "Live-Karten & Echtzeitdaten",
-    icon: "✈️",
-    titel: "Flightradar24",
-    beschreibung: "Flugzeuge weltweit live verfolgen.",
-    url: "https://www.flightradar24.com/"
-},
-{
-    kategorie: "Live-Karten & Echtzeitdaten",
-    icon: "🚢",
-    titel: "MarineTraffic",
-    beschreibung: "Schiffe weltweit live verfolgen.",
-    url: "https://www.marinetraffic.com/"
-},
-{
-    kategorie: "Live-Karten & Echtzeitdaten",
-    icon: "🛰️",
-    titel: "ISS Live Tracking",
-    beschreibung: "Aktuelle Position der ISS.",
-    url: "https://www.lizard-tail.com/isana/tracking/"
-},
-{
-    kategorie: "Live-Karten & Echtzeitdaten",
-    icon: "🪐",
-    titel: "Solar System Scope",
-    beschreibung: "Interaktives 3D-Sonnensystem.",
-    url: "https://www.solarsystemscope.com/"
-},
-    ,
-{
-    kategorie: "Politik & Parteien",
-    icon: "🏛️",
-    titel: "CDU",
-    beschreibung: "Offizielle Webseite der CDU.",
-    url: "https://www.cdu.de/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "🏛️",
-    titel: "CSU",
-    beschreibung: "Offizielle Webseite der CSU.",
-    url: "https://www.csu.de/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "🌹",
-    titel: "SPD",
-    beschreibung: "Offizielle Webseite der SPD.",
-    url: "https://www.spd.de/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "💛",
-    titel: "FDP",
-    beschreibung: "Offizielle Webseite der FDP.",
-    url: "https://www.fdp.de/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "🌻",
-    titel: "Bündnis 90/Die Grünen",
-    beschreibung: "Offizielle Webseite der Grünen.",
-    url: "https://www.gruene.de/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "🔴",
-    titel: "Die Linke",
-    beschreibung: "Offizielle Webseite der Partei Die Linke.",
-    url: "https://www.die-linke.de/start/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "🔵",
-    titel: "AfD",
-    beschreibung: "Offizielle Webseite der AfD.",
-    url: "https://www.afd.de/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "🟣",
-    titel: "BSW",
-    beschreibung: "Offizielle Webseite Bündnis Sahra Wagenknecht.",
-    url: "https://bsw-vg.de/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "🟠",
-    titel: "Freie Wähler",
-    beschreibung: "Offizielle Webseite der Freien Wähler.",
-    url: "https://www.freiewaehler.eu/"
-},
-{
-    kategorie: "Politik & Parteien",
-    icon: "🇪🇺",
-    titel: "Volt Deutschland",
-    beschreibung: "Offizielle Webseite von Volt Deutschland.",
-    url: "https://voltdeutschland.org/"
-},
-    ,
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "👴",
-    titel: "Enkelkind",
-    beschreibung: "Ideen und Informationen rund um Großeltern und Enkel.",
-    url: "https://www.enkelkind.de/"
-},
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "👵",
-    titel: "Hallo Oma",
-    beschreibung: "Informationen und Inspirationen für Großmütter.",
-    url: "https://hallo-oma.de/"
-},
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "👴",
-    titel: "Hallo Opa",
-    beschreibung: "Informationen und Inspirationen für Großväter.",
-    url: "https://hallo-opa.de/"
-},
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "👴",
-    titel: "Großvater.de",
-    beschreibung: "Themen und Ideen für Großväter.",
-    url: "https://grossvater.de/"
-},
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "🏫",
-    titel: "Bernhard-Overberg-Schule",
-    beschreibung: "Schulseite der Bernhard-Overberg-Schule.",
-    url: "http://gs-overbergschule.de/"
-},
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "🏡",
-    titel: "KiTa Lengerich",
-    beschreibung: "Kindertageseinrichtung Kindervilla in Lengerich.",
-    url: "https://www.awo-msl-re.de/awo-vor-ort/kreis-steinfurt/vo-lengerich/vo-kita-lengerich/vo-kita-fz-rahestrasse/kindertageseinrichtung-kindervilla.html"
-},
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "🏃",
-    titel: "Osnabrücker Sportclub",
-    beschreibung: "Sportverein in Osnabrück.",
-    url: "https://www.osnabruecker-sportclub.de/"
-},
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "🎵",
-    titel: "Musikschule Osnabrück",
-    beschreibung: "Musikschule der Stadt Osnabrück.",
-    url: "https://www.osnabrueck.de/musikschule/start/"
-},
-{
-    kategorie: "Familie, Oma & Opa",
-    icon: "💡",
-    titel: "Geniale Tricks",
-    beschreibung: "Alltagstipps und praktische Ideen auf YouTube.",
-    url: "https://www.youtube.com/c/GenialeTricks-de/videos"
-},
-    ,
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "🧪",
-    titel: "Terra X",
-    beschreibung: "Geschichte, Natur, Wissenschaft und Technik.",
-    url: "https://www.zdf.de/dokumentation/terra-x"
-},
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "🔬",
-    titel: "maiLab",
-    beschreibung: "Wissenschaft verständlich erklärt.",
-    url: "https://www.youtube.com/@maiLab"
-},
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "🚀",
-    titel: "Clixoom Science & Future",
-    beschreibung: "Wissenschaft, Raumfahrt und Zukunftstechnologien.",
-    url: "https://www.youtube.com/@Clixoom"
-},
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "📈",
-    titel: "Christian Rieck",
-    beschreibung: "Wirtschaft, Spieltheorie und aktuelle Entwicklungen.",
-    url: "https://www.youtube.com/@ProfRieck"
-},
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "🧐",
-    titel: "Mythen Metzger",
-    beschreibung: "Faktencheck und Analyse aktueller Themen.",
-    url: "https://www.youtube.com/@MythenMetzger"
-},
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "🌍",
-    titel: "Planet Wissen",
-    beschreibung: "Wissensportal von WDR und SWR.",
-    url: "https://www.planet-wissen.de/"
-},
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "📚",
-    titel: "Wikipedia",
-    beschreibung: "Freies Nachschlagewerk.",
-    url: "https://de.wikipedia.org/"
-},
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "🎓",
-    titel: "Khan Academy",
-    beschreibung: "Kostenlose Lernplattform.",
-    url: "https://de.khanacademy.org/"
-},
-{
-    kategorie: "Wissenschaft & Lernen",
-    icon: "🏛️",
-    titel: "Deutsches Museum",
-    beschreibung: "Technik und Wissenschaft.",
-    url: "https://www.deutsches-museum.de/"
-},
-    ,
-{
-    kategorie: "Weltgeschehen & Echtzeit",
-    icon: "🌍",
-    titel: "Live-Karte militärischer Konflikte",
-    beschreibung: "Weltweite militärische Konflikte auf einer Karte.",
-    url: "https://militarysummary.com/map"
-},
-{
-    kategorie: "Weltgeschehen & Echtzeit",
-    icon: "📰",
-    titel: "Weltweite Blogeinträge",
-    beschreibung: "Blogeinträge aus aller Welt in Echtzeit.",
-    url: "https://world.twingly.com/"
-},
-{
-    kategorie: "Weltgeschehen & Echtzeit",
-    icon: "📡",
-    titel: "Cloudflare Radar",
-    beschreibung: "Internetverkehr, Ausfälle und Cyberangriffe beobachten.",
-    url: "https://radar.cloudflare.com/de?dateRange=1d"
-},
-{
-    kategorie: "Weltgeschehen & Echtzeit",
-    icon: "🛰️",
-    titel: "NASA Worldview",
-    beschreibung: "Satellitenbilder der Erde nahezu in Echtzeit.",
-    url: "https://worldview.earthdata.nasa.gov/"
-},
-{
-    kategorie: "Weltgeschehen & Echtzeit",
-    icon: "🌋",
-    titel: "Volcano Discovery",
-    beschreibung: "Vulkane, Erdbeben und Naturereignisse weltweit.",
-    url: "https://www.volcanodiscovery.com/"
-},
-{
-    kategorie: "Weltgeschehen & Echtzeit",
-    icon: "🌐",
-    titel: "Internet Outage Map",
-    beschreibung: "Störungen und Ausfälle im Internet weltweit.",
-    url: "https://www.thousandeyes.com/outages/"
-},
-    ,
-{
-    kategorie: "Nützliche Werkzeuge",
-    icon: "🖥️",
-    titel: "TeamViewer",
-    beschreibung: "Fernwartung und Hilfe am Computer.",
-    url: "https://www.teamviewer.com/de/"
-},
-{
-    kategorie: "Nützliche Werkzeuge",
-    icon: "📞",
-    titel: "Das Örtliche",
-    beschreibung: "Telefonbuch und Branchenverzeichnis.",
-    url: "https://www.dasoertliche.de/"
-},
-{
-    kategorie: "Nützliche Werkzeuge",
-    icon: "🗺️",
-    titel: "Google Maps",
-    beschreibung: "Karten, Navigation und Routenplanung.",
-    url: "https://maps.google.de/"
-},
-{
-    kategorie: "Nützliche Werkzeuge",
-    icon: "🌐",
-    titel: "DeepL Übersetzer",
-    beschreibung: "Texte schnell übersetzen.",
-    url: "https://www.deepl.com/de/translator"
-},
-{
-    kategorie: "Nützliche Werkzeuge",
-    icon: "📅",
-    titel: "Feiertage Deutschland",
-    beschreibung: "Feiertage und Kalenderübersicht.",
-    url: "https://www.schulferien.org/deutschland/feiertage/"
-},
-{
-    kategorie: "Nützliche Werkzeuge",
-    icon: "👨‍👩‍👧",
-    titel: "Familiennamen Deutschland",
-    beschreibung: "Herkunft und Verbreitung von Familiennamen.",
-    url: "https://nvk.genealogy.net/map"
-},
-{
-    kategorie: "Nützliche Werkzeuge",
-    icon: "🏰",
-    titel: "Bunkerwelten",
-    beschreibung: "Bunker, Schutzanlagen und Zeitgeschichte.",
-    url: "https://www.bunkerwelten.de/"
-},
-{
-    kategorie: "Nützliche Werkzeuge",
-    icon: "💪",
-    titel: "Liebscher & Bracht",
-    beschreibung: "Übungen und Tipps gegen Schmerzen.",
-    url: "https://www.liebscher-bracht.com/"
-},
-    ,
-{
-    kategorie: "Weltall & Technik",
-    icon: "🛸",
-    titel: "WAR.gov UFO Archive",
-    beschreibung: "UFO-, UAP- und Anomalie-Daten der US-Regierung.",
-    url: "https://www.war.gov/UFO/"
-}
+    {
+        kategorie: "Wissenschaft & Lernen",
+        icon: "🧪",
+        titel: "Terra X",
+        beschreibung: "Geschichte, Natur, Wissenschaft und Technik.",
+        url: "https://www.zdf.de/dokumentation/terra-x"
+    },
+    {
+        kategorie: "Wissenschaft & Lernen",
+        icon: "🔬",
+        titel: "maiLab",
+        beschreibung: "Wissenschaft verständlich erklärt.",
+        url: "https://www.youtube.com/@maiLab"
+    },
+    {
+        kategorie: "Wissenschaft & Lernen",
+        icon: "🚀",
+        titel: "Clixoom Science & Future",
+        beschreibung: "Wissenschaft, Raumfahrt und Zukunftstechnologien.",
+        url: "https://www.youtube.com/@Clixoom"
+    },
+    {
+        kategorie: "Wissenschaft & Lernen",
+        icon: "📈",
+        titel: "Christian Rieck",
+        beschreibung: "Wirtschaft, Spieltheorie und aktuelle Entwicklungen.",
+        url: "https://www.youtube.com/@ProfRieck"
+    },
+    {
+        kategorie: "Wissenschaft & Lernen",
+        icon: "🧐",
+        titel: "Mythen Metzger",
+        beschreibung: "Faktencheck und Analyse aktueller Themen.",
+        url: "https://www.youtube.com/@MythenMetzger"
+    },
+    {
+        kategorie: "Wissenschaft & Lernen",
+        icon: "🎓",
+        titel: "Khan Academy",
+        beschreibung: "Kostenlose Lernplattform.",
+        url: "https://de.khanacademy.org/"
+    },
+
+    {
+        kategorie: "Weltgeschehen & Echtzeit",
+        icon: "🌍",
+        titel: "LiveUAmap",
+        beschreibung: "Aktuelle internationale Konflikt- und Ereigniskarten.",
+        url: "https://liveuamap.com/"
+    },
+    {
+        kategorie: "Weltgeschehen & Echtzeit",
+        icon: "💬",
+        titel: "Mastodon Explore",
+        beschreibung: "Aktuelle öffentliche Beiträge und Trends im Fediverse.",
+        url: "https://mastodon.social/explore"
+    },
+    {
+        kategorie: "Weltgeschehen & Echtzeit",
+        icon: "📡",
+        titel: "Cloudflare Radar",
+        beschreibung: "Internetverkehr, Ausfälle und Cyberangriffe beobachten.",
+        url: "https://radar.cloudflare.com/de"
+    },
+    {
+        kategorie: "Weltgeschehen & Echtzeit",
+        icon: "🛰️",
+        titel: "NASA Worldview",
+        beschreibung: "Satellitenbilder der Erde nahezu in Echtzeit.",
+        url: "https://worldview.earthdata.nasa.gov/"
+    },
+    {
+        kategorie: "Weltgeschehen & Echtzeit",
+        icon: "🌋",
+        titel: "Volcano Discovery",
+        beschreibung: "Vulkane, Erdbeben und Naturereignisse weltweit.",
+        url: "https://www.volcanodiscovery.com/"
+    },
+    {
+        kategorie: "Weltgeschehen & Echtzeit",
+        icon: "🌐",
+        titel: "Internet Outage Map",
+        beschreibung: "Störungen und Ausfälle im Internet weltweit.",
+        url: "https://www.thousandeyes.com/outages/"
+    },
+
+    {
+        kategorie: "Energie & Strom",
+        icon: "⚡",
+        titel: "Electricity Maps",
+        beschreibung: "Strommix und CO₂-Intensität in Deutschland und Europa.",
+        url: "https://app.electricitymaps.com/zone/DE?lang=de"
+    },
+    {
+        kategorie: "Energie & Strom",
+        icon: "⚡",
+        titel: "SMARD",
+        beschreibung: "Offizielle Strommarktdaten der Bundesnetzagentur.",
+        url: "https://www.smard.de/home"
+    },
+    {
+        kategorie: "Energie & Strom",
+        icon: "📊",
+        titel: "Energy-Charts",
+        beschreibung: "Stromerzeugung, Verbrauch und Preise in Deutschland.",
+        url: "https://www.energy-charts.info/index.html?l=de&c=DE"
+    },
+    {
+        kategorie: "Energie & Strom",
+        icon: "🗼",
+        titel: "Stromnetzkarte",
+        beschreibung: "Stromleitungen und Netzinfrastruktur auf einer Karte.",
+        url: "https://www.flosm.org/de/Stromnetz.html"
+    },
+
+    {
+        kategorie: "Nützliche Werkzeuge",
+        icon: "🖥️",
+        titel: "TeamViewer",
+        beschreibung: "Fernwartung und Hilfe am Computer.",
+        url: "https://www.teamviewer.com/de/"
+    },
+    {
+        kategorie: "Nützliche Werkzeuge",
+        icon: "📞",
+        titel: "Das Örtliche",
+        beschreibung: "Telefonbuch und Branchenverzeichnis.",
+        url: "https://www.dasoertliche.de/"
+    },
+    {
+        kategorie: "Nützliche Werkzeuge",
+        icon: "🗺️",
+        titel: "Google Maps",
+        beschreibung: "Karten, Navigation und Routenplanung.",
+        url: "https://maps.google.de/"
+    },
+    {
+        kategorie: "Nützliche Werkzeuge",
+        icon: "🌐",
+        titel: "DeepL Übersetzer",
+        beschreibung: "Texte schnell übersetzen.",
+        url: "https://www.deepl.com/de/translator"
+    },
+    {
+        kategorie: "Nützliche Werkzeuge",
+        icon: "📅",
+        titel: "Feiertage Deutschland",
+        beschreibung: "Feiertage und Kalenderübersicht.",
+        url: "https://www.schulferien.org/deutschland/feiertage/"
+    },
+    {
+        kategorie: "Nützliche Werkzeuge",
+        icon: "👨‍👩‍👧",
+        titel: "Familiennamen Deutschland",
+        beschreibung: "Herkunft und Verbreitung von Familiennamen.",
+        url: "https://nvk.genealogy.net/map"
+    },
+    {
+        kategorie: "Nützliche Werkzeuge",
+        icon: "🏰",
+        titel: "Bunkerwelten",
+        beschreibung: "Bunker, Schutzanlagen und Zeitgeschichte.",
+        url: "https://www.bunkerwelten.de/"
+    },
+    {
+        kategorie: "Nützliche Werkzeuge",
+        icon: "💪",
+        titel: "Liebscher & Bracht",
+        beschreibung: "Übungen und Tipps gegen Schmerzen.",
+        url: "https://www.liebscher-bracht.com/"
+    }
 ];
