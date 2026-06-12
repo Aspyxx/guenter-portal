@@ -259,7 +259,104 @@ body{
     text-decoration:none;
     color:#10233f;
 }
+.zeitungs-header{
+    max-width:1400px;
+    margin:22px auto 0;
+    background:#fffaf0;
+    border:1px solid rgba(16,35,63,.22);
+    border-radius:8px;
+    box-shadow:0 2px 8px rgba(0,0,0,.06);
+    overflow:hidden;
+}
 
+.zeitungs-header-top{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:25px;
+    padding:22px 28px 16px;
+    background:linear-gradient(90deg,#fffaf0,#fbf3e5);
+}
+
+.header-bild{
+    font-size:58px;
+    width:90px;
+    text-align:center;
+}
+
+.header-titel h1{
+    font-family:Georgia, serif;
+    font-size:44px;
+    margin:0;
+    color:#10233f;
+}
+
+.header-titel p{
+    margin:4px 0 0;
+    color:#c65a22;
+    font-style:italic;
+    font-size:20px;
+}
+
+.header-info{
+    display:flex;
+    align-items:center;
+    gap:24px;
+    font-size:16px;
+}
+
+.header-info strong{
+    color:#c65a22;
+    font-size:22px;
+}
+
+.header-nav{
+    display:flex;
+    gap:0;
+    border-top:2px solid rgba(16,35,63,.35);
+    background:#fffaf0;
+}
+
+.header-nav a{
+    flex:1;
+    text-align:center;
+    padding:12px 8px;
+    text-decoration:none;
+    color:#10233f;
+    font-weight:bold;
+    border-right:1px solid rgba(16,35,63,.14);
+}
+
+.header-nav a:first-child{
+    background:#d96b35;
+    color:white;
+    max-width:60px;
+}
+
+@media(max-width:900px){
+    .zeitungs-header-top{
+        flex-direction:column;
+        text-align:center;
+    }
+
+    .header-info{
+        flex-direction:column;
+        gap:8px;
+    }
+
+    .header-nav{
+        flex-wrap:wrap;
+    }
+
+    .header-nav a{
+        min-width:33%;
+        flex:none;
+    }
+
+    .header-titel h1{
+        font-size:34px;
+    }
+}
 footer{
     text-align:center;
     padding:25px;
@@ -284,32 +381,48 @@ footer{
 
 <body>
 
-<section class="hero">
-    <div class="hero-left">
-        <img src="guenter.jpg" alt="Günter" class="portrait">
-        <div>
-            <h1><span id="grussText">Guten Morgen, Günter!</span> <span id="grussIcon" class="sun">☀️</span></h1>
-            <p id="grussUntertext">Schön, dass Du da bist.<br>Hier findest Du alles Wichtige auf einen Blick.</p>
+<header class="zeitungs-header">
+
+    <div class="zeitungs-header-top">
+
+        <div class="header-bild">🏘️</div>
+
+        <div class="header-titel">
+            <h1>Günter-Portal</h1>
+            <p>Nachrichten, Informationen & mehr</p>
         </div>
+
+        <div class="header-info">
+            <div>
+                <span id="datum">Datum wird geladen...</span><br>
+                <strong id="uhrzeit">Uhrzeit</strong>
+            </div>
+
+            <div>
+                🌤️ <strong id="wetterTempHeader">Lengerich</strong><br>
+                <span>Wetter siehe Kachel</span>
+            </div>
+        </div>
+
     </div>
 
-    <div class="info-box">
-        <strong>Heute</strong><br>
-        <span id="datum">Datum wird geladen...</span><br><br>
-        🕘 <span id="uhrzeit">Uhrzeit</span>
+    <nav class="header-nav">
+        <a href="#">🏠</a>
+        <a href="#schlagzeilenBox">Nachrichten</a>
+        <a href="#wetterTemp">Wetter</a>
+        <a href="#bundesligaBox">Fußball</a>
+        <a href="#guenter-link-sammlung">Links</a>
+        <a href="#favoritenBereich">Favoriten</a>
+    </nav>
+
+    <div style="display:none;">
+        <span id="ausgabeDatum"></span>
+        <span id="grussText"></span>
+        <span id="grussIcon"></span>
+        <span id="grussUntertext"></span>
     </div>
-</section>
 
-<section class="newspaper-title">
-
-    <div class="edition-line">
-        Persönliche Ausgabe • Lengerich • <span id="ausgabeDatum">Datum wird geladen...</span>
-    </div>
-
-    <h2>GÜNTERS INFORMATIONSPORTAL</h2>
-    <p>NOTIZEN UND NICHT GANZ ALLTÄGLICHES WISSEN</p>
-
-</section>
+</header>
 
 <main class="container">
 
