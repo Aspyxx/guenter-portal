@@ -279,9 +279,24 @@ body{
 }
 
 .header-bild{
-    font-size:58px;
-    width:90px;
-    text-align:center;
+    width:130px;
+    min-width:130px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.altstadt-logo svg{
+    width:130px;
+    height:70px;
+}
+
+.altstadt-logo path{
+    fill:none;
+    stroke:#0d3b66;
+    stroke-width:4;
+    stroke-linecap:round;
+    stroke-linejoin:round;
 }
 
 .header-titel h1{
@@ -385,7 +400,22 @@ footer{
 
     <div class="zeitungs-header-top">
 
-        <div class="header-bild">🏘️</div>
+       <div class="header-bild altstadt-logo">
+    <svg viewBox="0 0 220 90" aria-label="Altstadt-Silhouette Lengerich">
+        <path d="M10 75 H210" />
+        <path d="M25 75 V48 L45 35 L65 48 V75" />
+        <path d="M65 75 V42 L85 28 L105 42 V75" />
+        <path d="M105 75 V50 L125 38 L145 50 V75" />
+        <path d="M145 75 V45 L165 32 L185 45 V75" />
+        <path d="M88 28 V15 L98 5 L108 15 V75" />
+        <path d="M94 30 H102" />
+        <path d="M96 42 H104" />
+        <path d="M35 58 H48" />
+        <path d="M78 55 H92" />
+        <path d="M118 60 H132" />
+        <path d="M158 58 H172" />
+    </svg>
+</div>
 
         <div class="header-titel">
             <h1>Günter-Portal</h1>
