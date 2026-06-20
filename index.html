@@ -423,7 +423,7 @@ footer{
         <a id="wechselInfoLink" class="news-main" href="https://www.tagesschau.de/" target="_blank" style="text-decoration:none;color:inherit;">
             <div class="news-image" id="wechselInfoBild"></div>
             <div>
-                <strong id="wechselInfoKategorie">Aktuelle Nachrichten</strong>
+
                 <h3 id="wechselInfoTitel">Was gibt es Neues?</h3>
                 <p id="wechselInfoText">Nachrichten, Fußball, Garten, Südtirol und Wetterwarnungen im Wechsel.</p>
             </div>
@@ -1106,7 +1106,7 @@ function ladeTVProgramm(){
 function updateWechselInfo(){
     const info = wechselInfos[wechselIndex];
 
-    document.getElementById("wechselInfoKategorie").textContent = info.kategorie;
+
     document.getElementById("wechselInfoTitel").textContent = info.titel;
     document.getElementById("wechselInfoText").textContent = info.text;
     document.getElementById("wechselInfoLink").href = info.link;
