@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-11T09:43:58+00:00",
+  "aktualisiert": "2026-08-11T10:37:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Australien: Anthony Albanese wegen Witzen über Ministerpräsidentin von Japan in der Kritik",
+      "link": "https://www.spiegel.de/ausland/australien-anthony-albanese-wegen-witzen-ueber-ministerpraesidentin-von-japan-in-der-kritik-a-b378cbc9-5048-4bd9-89dd-c120f78d77b8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:32:00+00:00"
+    },
+    {
+      "titel": "Deutscher Buchpreis: Diese 20 Titel sind für den Literaturpreis nominiert",
+      "link": "https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-diese-20-titel-sind-fuer-den-literaturpreis-nominiert-a-c7c5d04c-e204-4911-8a1f-a7498ae43184#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:25:00+00:00"
+    },
+    {
+      "titel": "USA: Massachusetts hebt 24-Wochen-Grenze bei Schwangerschafts-Abbrüchen auf",
+      "link": "https://www.spiegel.de/ausland/usa-massachusetts-hebt-24-wochen-grenze-bei-schwangerschafts-abbruechen-auf-a-43dc14c9-7320-4521-b1bd-94c9761fdf87#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:20:00+00:00"
+    },
+    {
+      "titel": "Leute: Sieben Jahre trocken, „dann bin ich wieder rückfällig geworden“",
+      "link": "https://www.sueddeutsche.de/panorama/brad-pitt-alkohol-rueckfaellig-sucht-interview-promis-li.3529651",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T09:55:09+00:00"
+    },
+    {
+      "titel": "Syriens Ex-Machthaber Assad in Abwesenheit zum Tode verurteilt",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesurteil-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T09:50:35+00:00"
+    },
+    {
+      "titel": "»Odyssee«: Ithaka hofft nach dem Kinoerfolg der »Odyssee« auf Touristenansturm",
+      "link": "https://www.spiegel.de/kultur/kino/odyssee-ithaka-hofft-nach-dem-kinoerfolg-der-odyssee-auf-touristenansturm-a-018dc905-0c58-4c74-a307-b006883303fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T09:49:00+00:00"
+    },
+    {
+      "titel": "Jeffrey Dean Morgan wurde mit Ende 30 von Managerin gefeuert",
+      "link": "https://www.spiegel.de/kultur/tv/jeffrey-dean-morgan-wurde-mit-ende-30-von-managerin-gefeuert-a-f39819f1-7398-4805-8703-23559cb9ddc6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T09:48:00+00:00"
+    },
+    {
+      "titel": "Hitzeschutz an Schulen: Wenn Klassenzimmer zu heiß zum Lernen werden",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzeschutz-schulen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T09:44:58+00:00"
+    },
     {
       "titel": "Spaniens Provinzen hoffen auf die \"SoFi\"-Touristen",
       "link": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-tourismus-100.html",
@@ -55,12 +103,6 @@
       "veroeffentlicht": "2026-08-11T09:05:58+00:00"
     },
     {
-      "titel": "Türkei: Journalist wegen Bericht über Wechsel von Jamal Musiala festgenommen",
-      "link": "https://www.spiegel.de/sport/fussball/tuerkei-journalist-wegen-bericht-ueber-wechsel-von-jamal-musiala-festgenommen-a-b0bd8d06-cbd6-405c-8c10-48a87ede8856#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T09:01:00+00:00"
-    },
-    {
       "titel": "Autohersteller verdienen im Schnitt deutlich weniger pro Auto",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/autohersteller-gewinn-fahrzeug-100.html",
       "quelle": "Tagesschau",
@@ -79,22 +121,10 @@
       "veroeffentlicht": "2026-08-11T08:42:34+00:00"
     },
     {
-      "titel": "Saarbrücken: Gerichtsvollzieher getötet – zehn Jahre Haft wegen Mordes",
-      "link": "https://www.spiegel.de/panorama/justiz/saarbruecken-gerichtsvollzieher-getoetet-zehn-jahre-haft-wegen-mordes-a-927d1408-9c9e-42c1-b92d-46a0b7b3a7ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T08:42:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Russland greift Kyjiw und andere Städte mit ballistischen Raketen an",
-      "link": "https://www.spiegel.de/ausland/ukraine-russland-greift-kyjiw-und-andere-staedte-mit-ballistischen-raketen-an-a-fa1e223b-7f19-455e-b430-c7e44d9df4f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T08:41:00+00:00"
-    },
-    {
-      "titel": "Rose-Tattoo-Sänger Angry Anderson hat gesundheitliche Probleme – Tour wird unterbrochen",
-      "link": "https://www.spiegel.de/kultur/musik/rose-tattoo-saenger-angry-anderson-hat-gesundheitliche-probleme-tour-wird-unterbrochen-a-abc13517-dc8f-4057-a83c-6de4ffc0d8fe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T08:38:00+00:00"
+      "titel": "Leichtathletik-EM: Orientierungslos auf der Bahn",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-lueckenkemper-zecke-li.3529615",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T08:34:34+00:00"
     },
     {
       "titel": "Wohin steuert die Bundeszentrale für politische Bildung?",
@@ -103,22 +133,10 @@
       "veroeffentlicht": "2026-08-11T08:24:01+00:00"
     },
     {
-      "titel": "Gina Lückenkemper bei der Leichtathletik-EM: Erst Zeckenstich, dann EM-Aus",
-      "link": "https://www.spiegel.de/sport/leichtathletik/gina-lueckenkemper-bei-der-leichtathletik-em-erst-zeckenstich-dann-em-aus-a-61d19f0b-9869-4a23-b788-be5f65a789c5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T08:20:00+00:00"
-    },
-    {
       "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
       "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T08:16:30+00:00"
-    },
-    {
-      "titel": "Trump erklärt Straße von Hormus für minenfrei",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-strasse-von-hormus-frei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T08:02:56+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Großbrände nach ukrainischen Angriffen in Russland",
@@ -133,10 +151,10 @@
       "veroeffentlicht": "2026-08-11T07:18:38+00:00"
     },
     {
-      "titel": "Zürich: Wie der Mikrohandel die Drogenszene eindämmt",
-      "link": "https://www.tagesschau.de/ausland/europa/zuerich-drogen-mikrohandel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T07:13:37+00:00"
+      "titel": "Drohnenabwehr an Flughäfen: „Viel Zeit haben wir in solchen Fällen nicht“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/drohnenabwehr-flughaefen-lage-herausforderungen-li.3529218",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T07:10:01+00:00"
     },
     {
       "titel": "Hitzewelle: Mehrere Waldbrände in Deutschland",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-hormus-trump-li.3523210",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T05:01:00+00:00"
-    },
-    {
-      "titel": "Sabotage: Gab es einen Testlauf für die Drohne am Leipziger Flughafen?",
-      "link": "https://www.sueddeutsche.de/politik/leipzig-drohne-sprengstoff-ermittlungen-verdacht-russland-dhl-li.3529440",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-10T16:31:21+00:00"
-    },
-    {
-      "titel": "Spanien: Zur Sonne, zum Chaos",
-      "link": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-spanien-chaos-verkehr-beobachtung-li.3528129",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-10T15:50:48+00:00"
-    },
-    {
-      "titel": "Glosse: Das Streiflicht: Das 11. Gebot oder: Gehe niemals auf X oder der Himmel wird dich strafen",
-      "link": "https://www.sueddeutsche.de/politik/ard-afrika-korrespondent-twitter-x-zehn-gebote-li.3528839",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-10T14:51:56+00:00"
     }
   ]
 }
