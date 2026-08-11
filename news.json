@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-11T12:29:31+00:00",
+  "aktualisiert": "2026-08-11T14:06:50+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,124 @@
   },
   "meldungen": [
     {
+      "titel": "Hitzewelle: Bilger: Niedrigwasser-Probleme wohl im gesamten August",
+      "link": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-waldbraende-trockenheit-rhein-bilger-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:54:00+00:00"
+    },
+    {
+      "titel": "Hitze in Deutschland: Die größte Lüge des Sommers ist, dass wir alle gleich schwitzen",
+      "link": "https://www.sueddeutsche.de/leben/hitze-deutschland-staedte-belastung-mieter-armut-wohnung-li.3511479",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:46:28+00:00"
+    },
+    {
+      "titel": "Sichtung durch Mitarbeitende: Drohne am Flughafen Hannover-Langenhagen entdeckt",
+      "link": "https://www.sueddeutsche.de/panorama/drohnensichtung-flughafen-hannover-bundespolizei-li.3529925",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:43:59+00:00"
+    },
+    {
+      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T13:43:07+00:00"
+    },
+    {
+      "titel": "Ungarn: Orbán-Kritiker András Baka ist neues Staatsoberhaupt Ungarns",
+      "link": "https://www.spiegel.de/ausland/ungarn-orban-kritiker-andras-baka-ist-neues-staatsoberhaupt-ungarns-a-f529246c-27c9-4b54-b50b-3172e6c540e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T13:39:00+00:00"
+    },
+    {
+      "titel": "Syriens Ex-Machthaber Assad in Abwesenheit zum Tode verurteilt",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesurteil-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T13:29:03+00:00"
+    },
+    {
+      "titel": "Drohnen-Attacke auf dem Flughafen in Leipzig: So könnte Friedrich Merz Russland abstrafen",
+      "link": "https://www.spiegel.de/politik/deutschland/drohnen-attacke-auf-dem-flughafen-in-leipzig-so-koennte-friedrich-merz-russland-abstrafen-a-79f02c29-aa83-4ca7-b6c5-e73e25da19d0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T13:23:00+00:00"
+    },
+    {
+      "titel": "Claude: Chatbot von Anthropic markiert KI-Texte künftiger Modelle mit Wasserzeichen",
+      "link": "https://www.spiegel.de/netzwelt/web/claude-chatbot-von-anthropic-markiert-ki-texte-kuenftiger-modelle-mit-wasserzeichen-a-c9b96617-9cd8-497a-984c-2254f1e5759a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T13:23:00+00:00"
+    },
+    {
+      "titel": "Nach Vorfall am Flughafen Leipzig - Verdächtige DNA-Spuren und eine Antenne",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dna-spuren-leipzig-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T13:19:02+00:00"
+    },
+    {
+      "titel": "Libanon schafft die Todesstrafe ab",
+      "link": "https://www.spiegel.de/ausland/libanon-schafft-die-todesstrafe-ab-a-fc2c7b4f-7603-4f01-b1c2-81694f4ef127#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T13:17:00+00:00"
+    },
+    {
+      "titel": "Sabotage: Die fremde Macht hinter dem Leipziger Drohnenangriff",
+      "link": "https://www.sueddeutsche.de/politik/drohnenattacke-leipzig-ermittler-spuren-verantwortliche-russland-li.3529855",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:16:16+00:00"
+    },
+    {
+      "titel": "Julia Klöckner: Kritik an KI-Bild zum Schulstart in Rheinland-Pfalz",
+      "link": "https://www.spiegel.de/politik/deutschland/julia-kloeckner-kritik-an-ki-bild-zum-schulstart-in-rheinland-pfalz-a-8e99c87f-574a-4ef0-9c69-8e357209d63a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T13:14:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Smilla Kolbe mit schnellster deutscher Zeit über 800 Meter seit der Wiedervereinigung",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-smilla-kolbe-mit-schnellster-deutscher-zeit-ueber-800-meter-seit-der-wiedervereinigung-a-56eaa754-a899-4fd3-a5da-8c57938c4955#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T13:06:00+00:00"
+    },
+    {
+      "titel": "Auch Hamburg, Hessen und Bayern erlauben Lkw-Verkehr am Wochenende",
+      "link": "https://www.spiegel.de/wirtschaft/auch-hamburg-hessen-und-bayern-erlauben-lkw-verkehr-am-wochenende-a-6bf1f809-6e88-4435-bb3e-9c90f5a517fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T13:02:00+00:00"
+    },
+    {
+      "titel": "Parteien: Das harte Nein der CDU passt nicht mehr in die Zeit",
+      "link": "https://www.sueddeutsche.de/meinung/cdu-linke-merz-sachsen-anhalt-li.3529587",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:00:13+00:00"
+    },
+    {
+      "titel": "Donald Trump: Nur beim Catering war er noch sicher",
+      "link": "https://www.sueddeutsche.de/meinung/donald-trump-nato-gipfel-ankara-militaermaschine-kommentar-li.3529657",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T12:56:19+00:00"
+    },
+    {
+      "titel": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
+      "link": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T12:51:02+00:00"
+    },
+    {
+      "titel": "Vor der Landtagswahl in Sachsen-Anhalt: Immer mehr Linke werben für Zusammenarbeit mit der CDU",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-linke-cdu-zusammenarbeit-li.3529616",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T12:22:38+00:00"
+    },
+    {
       "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
       "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-11T12:19:00+00:00"
+    },
+    {
+      "titel": "Secret Service: Trumps Flucht im Catering-Container",
+      "link": "https://www.sueddeutsche.de/politik/donald-trump-sicherheitsoperation-air-force-one-usa-catering-container-umstieg-li.3529659",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T12:07:33+00:00"
     },
     {
       "titel": "Zukunftsmarkt humanoide Roboter: Ansturm auf Aktien von Unitree",
@@ -25,22 +139,10 @@
       "veroeffentlicht": "2026-08-11T12:05:00+00:00"
     },
     {
-      "titel": "Hannover sperrte Flughafen wegen Drohnensichtung",
-      "link": "https://www.spiegel.de/panorama/hannover-sperrte-flughafen-wegen-drohnensichtung-a-4f6de16e-5b2e-470d-a0c0-173614b7933e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T11:51:00+00:00"
-    },
-    {
-      "titel": "Fitness: Viel Protein ist gut, mehr Protein ist besser? Falsch",
-      "link": "https://www.spiegel.de/fitness/fitness-viel-protein-ist-gut-mehr-protein-ist-besser-falsch-a-07a1985d-d9d3-4b35-8ebd-b842f7848a92#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T11:50:00+00:00"
-    },
-    {
-      "titel": "Dressurreiten: Isabell Werth kritisiert Debattenkultur im Netz scharf",
-      "link": "https://www.spiegel.de/sport/dressurreiten-isabell-werth-kritisiert-debattenkultur-im-netz-scharf-a-20e635eb-834d-483d-9c53-af177069381a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T11:41:00+00:00"
+      "titel": "Türkei: Das wundersame Friedensangebot an die PKK",
+      "link": "https://www.sueddeutsche.de/politik/tuerkei-erdogan-pkk-amnestie-li.3529602",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T11:38:18+00:00"
     },
     {
       "titel": "Ukraine: Wie kann Deutschland trotz \"Patriot\"-Mangel helfen?",
@@ -49,22 +151,10 @@
       "veroeffentlicht": "2026-08-11T11:34:32+00:00"
     },
     {
-      "titel": "Verehrung von Josef Stalin im heutigen Russland unter Wladimir Putin: Wie der Kreml-Chef den Massenmörder Stalin rehabiliert",
-      "link": "https://www.spiegel.de/geschichte/stalinismus-unter-putin-waldimir-putin-und-josef-stalin-der-sieg-heiligt-die-mittel-a-a9ae3f6f-90db-4b32-a7a2-6f94c43f7689#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T11:20:00+00:00"
-    },
-    {
       "titel": "Rekord für Tourismus in Deutschland: So viele Übernachtungen wie nie",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-tourismus-urlaub-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T11:12:32+00:00"
-    },
-    {
-      "titel": "Magersucht und Bulimie: Zahl der betroffenen Mädchen in 20 Jahren verdoppelt",
-      "link": "https://www.spiegel.de/gesundheit/magersucht-und-bulimie-zahl-der-betroffenen-maedchen-in-20-jahren-verdoppelt-a-91964aac-f0cf-42da-8176-4cc84ccc9a54#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T11:11:00+00:00"
     },
     {
       "titel": "Longlist zum Deutschen Buchpreis: Sind das auch die 20 Besten?",
@@ -73,100 +163,10 @@
       "veroeffentlicht": "2026-08-11T11:04:01+00:00"
     },
     {
-      "titel": "Fifa: Auch Donald Trumps Hilfe bringt Gianni Infantino nichts mehr",
-      "link": "https://www.sueddeutsche.de/sport/trump-infantino-fifa-kommentar-li.3529769",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T10:56:36+00:00"
-    },
-    {
-      "titel": "Thüringen: Mario Voigt scheitert mit Einspruch gegen Entzug seines Doktortitels",
-      "link": "https://www.spiegel.de/politik/deutschland/thueringen-mario-voigt-scheitert-mit-einspruch-gegen-entzug-seines-doktortitels-a-812d2552-3685-4b12-9ebd-d0e9aaac3b1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T10:53:00+00:00"
-    },
-    {
-      "titel": "Perseiden: Sommer-Sternschnuppen erreichen in der Nacht ihren Höhepunkt",
-      "link": "https://www.spiegel.de/wissenschaft/natur/perseiden-sommer-sternschnuppen-erreichen-in-der-nacht-ihren-hoehepunkt-a-a71b3092-2966-48fc-a351-51bf9632ef52#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T10:50:00+00:00"
-    },
-    {
       "titel": "Tausende Urlauber sitzen nach Ausbruch des Ätna auf Sizilien fest",
       "link": "https://www.tagesschau.de/ausland/europa/aetna-ausbruch-urlauber-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T10:45:16+00:00"
-    },
-    {
-      "titel": "Leute: Sieben Jahre trocken, „dann bin ich wieder rückfällig geworden“",
-      "link": "https://www.sueddeutsche.de/panorama/brad-pitt-alkohol-rueckfaellig-sucht-interview-promis-li.3529651",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T09:55:09+00:00"
-    },
-    {
-      "titel": "Syriens Ex-Machthaber Assad in Abwesenheit zum Tode verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesurteil-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T09:50:35+00:00"
-    },
-    {
-      "titel": "Hitzeschutz an Schulen: Wenn Klassenzimmer zu heiß zum Lernen werden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzeschutz-schulen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T09:44:58+00:00"
-    },
-    {
-      "titel": "Spaniens Provinzen hoffen auf die \"SoFi\"-Touristen",
-      "link": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-tourismus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T09:42:37+00:00"
-    },
-    {
-      "titel": "Doppelt so viele Mädchen wegen Essstörungen im Krankenhaus",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/essstoerung-krankenhaus-magersucht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T09:19:52+00:00"
-    },
-    {
-      "titel": "Syrien: Ex-Präsident Baschar al-Assad in Abwesenheit zum Tode verurteilt",
-      "link": "https://www.sueddeutsche.de/politik/syrien-al-assad-todesurteil-li.3529753",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T09:08:50+00:00"
-    },
-    {
-      "titel": "USA: Bericht: Trump heimlich im Catering-Wagen aus Jet geschleust",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-catering-wagen-jet-li.3523200",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T08:45:30+00:00"
-    },
-    {
-      "titel": "Junge AfD-Wähler: Endlich sagt es mal einer",
-      "link": "https://www.sueddeutsche.de/medien/afd-junge-waehler-erfolg-sachsen-anhalt-erstwaehler-li.3518732",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T08:37:36+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Orientierungslos auf der Bahn",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-lueckenkemper-halbfinale-aus-zecke-li.3529615",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T08:34:34+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Großbrände nach ukrainischen Angriffen in Russland",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-angriffe-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T07:59:17+00:00"
-    },
-    {
-      "titel": "Fifa: Trump stützt Infantino – „Er ist fantastisch“",
-      "link": "https://www.sueddeutsche.de/sport/infantino-trump-post-unterstuetzung-fifa-li.3529627",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T07:18:38+00:00"
-    },
-    {
-      "titel": "Drohnenabwehr an Flughäfen: „Viel Zeit haben wir in solchen Fällen nicht“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/drohnenabwehr-flughaefen-lage-herausforderungen-li.3529218",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T07:10:01+00:00"
     }
   ]
 }
