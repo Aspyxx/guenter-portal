@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-11T17:23:42+00:00",
+  "aktualisiert": "2026-08-11T18:12:26+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Wie kann Deutschland trotz \"Patriot\"-Mangel helfen?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/patriots-ukraine-europa-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
       "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
