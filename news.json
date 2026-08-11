@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-11T10:37:17+00:00",
+  "aktualisiert": "2026-08-11T11:32:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rekord für Tourismus in Deutschland: So viele Übernachtungen wie nie",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-tourismus-urlaub-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T11:12:32+00:00"
+    },
+    {
+      "titel": "Magersucht und Bulimie: Zahl der betroffenen Mädchen in 20 Jahren verdoppelt",
+      "link": "https://www.spiegel.de/gesundheit/magersucht-und-bulimie-zahl-der-betroffenen-maedchen-in-20-jahren-verdoppelt-a-91964aac-f0cf-42da-8176-4cc84ccc9a54#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T11:11:00+00:00"
+    },
+    {
+      "titel": "Longlist zum Deutschen Buchpreis: Sind das auch die 20 Besten?",
+      "link": "https://www.tagesschau.de/kultur/deutscher-buchpreis-longlist-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T11:04:01+00:00"
+    },
+    {
+      "titel": "Thüringen: Mario Voigt scheitert mit Einspruch gegen Entzug seines Doktortitels",
+      "link": "https://www.spiegel.de/politik/deutschland/thueringen-mario-voigt-scheitert-mit-einspruch-gegen-entzug-seines-doktortitels-a-812d2552-3685-4b12-9ebd-d0e9aaac3b1a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:53:00+00:00"
+    },
+    {
+      "titel": "Perseiden: Sommer-Sternschnuppen erreichen in der Nacht ihren Höhepunkt",
+      "link": "https://www.spiegel.de/wissenschaft/natur/perseiden-sommer-sternschnuppen-erreichen-in-der-nacht-ihren-hoehepunkt-a-a71b3092-2966-48fc-a351-51bf9632ef52#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:50:00+00:00"
+    },
+    {
+      "titel": "Tausende Urlauber sitzen nach Ausbruch des Ätna auf Sizilien fest",
+      "link": "https://www.tagesschau.de/ausland/europa/aetna-ausbruch-urlauber-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T10:45:16+00:00"
+    },
+    {
+      "titel": "Iran: Mohsen Rezaee ist der neue Chef des Nationalen Sicherheitsrats",
+      "link": "https://www.spiegel.de/ausland/iran-mohsen-rezaee-ist-der-neue-chef-des-nationalen-sicherheitsrats-a-98b54787-8da2-4601-998d-444dbdb35353#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:40:00+00:00"
+    },
+    {
+      "titel": "Chefwechsel im Maxim Gorki Theater in Berlin: Schauspielhaus oder Kunsthalle?",
+      "link": "https://www.spiegel.de/kultur/chefwechsel-im-maxim-gorki-theater-schauspielhaus-oder-kunsthalle-a-d5d61fad-c69d-4cb8-abe7-1cbdb241ca9e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:38:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Florian Bremm weiß trotz EM-Silber, was er seinen Liebsten abverlangt",
+      "link": "https://www.spiegel.de/panorama/leute/leichtathletik-em-florian-bremm-weiss-trotz-em-silber-was-er-seinen-liebsten-abverlangt-a-6a8096c3-9f20-433c-b40a-631639ca0f89#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:38:00+00:00"
+    },
+    {
+      "titel": "Kolumbien: Video zeigt Hauseinsturz nach Erdbeben",
+      "link": "https://www.spiegel.de/ausland/kolumbien-video-zeigt-hauseinsturz-nach-erdbeben-a-12a89092-ac65-46eb-8f49-275ec1495651#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T10:36:00+00:00"
+    },
     {
       "titel": "Australien: Anthony Albanese wegen Witzen über Ministerpräsidentin von Japan in der Kritik",
       "link": "https://www.spiegel.de/ausland/australien-anthony-albanese-wegen-witzen-ueber-ministerpraesidentin-von-japan-in-der-kritik-a-b378cbc9-5048-4bd9-89dd-c120f78d77b8#ref=rss",
@@ -17,12 +77,6 @@
       "link": "https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-diese-20-titel-sind-fuer-den-literaturpreis-nominiert-a-c7c5d04c-e204-4911-8a1f-a7498ae43184#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-11T10:25:00+00:00"
-    },
-    {
-      "titel": "USA: Massachusetts hebt 24-Wochen-Grenze bei Schwangerschafts-Abbrüchen auf",
-      "link": "https://www.spiegel.de/ausland/usa-massachusetts-hebt-24-wochen-grenze-bei-schwangerschafts-abbruechen-auf-a-43dc14c9-7320-4521-b1bd-94c9761fdf87#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T10:20:00+00:00"
     },
     {
       "titel": "Leute: Sieben Jahre trocken, „dann bin ich wieder rückfällig geworden“",
@@ -37,18 +91,6 @@
       "veroeffentlicht": "2026-08-11T09:50:35+00:00"
     },
     {
-      "titel": "»Odyssee«: Ithaka hofft nach dem Kinoerfolg der »Odyssee« auf Touristenansturm",
-      "link": "https://www.spiegel.de/kultur/kino/odyssee-ithaka-hofft-nach-dem-kinoerfolg-der-odyssee-auf-touristenansturm-a-018dc905-0c58-4c74-a307-b006883303fe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T09:49:00+00:00"
-    },
-    {
-      "titel": "Jeffrey Dean Morgan wurde mit Ende 30 von Managerin gefeuert",
-      "link": "https://www.spiegel.de/kultur/tv/jeffrey-dean-morgan-wurde-mit-ende-30-von-managerin-gefeuert-a-f39819f1-7398-4805-8703-23559cb9ddc6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T09:48:00+00:00"
-    },
-    {
       "titel": "Hitzeschutz an Schulen: Wenn Klassenzimmer zu heiß zum Lernen werden",
       "link": "https://www.tagesschau.de/inland/gesellschaft/hitzeschutz-schulen-100.html",
       "quelle": "Tagesschau",
@@ -61,40 +103,16 @@
       "veroeffentlicht": "2026-08-11T09:42:37+00:00"
     },
     {
-      "titel": "Energiewende: NRW-Kohleausstieg 2030 gerät wegen fehlender Gaskraftwerke unter Druck",
-      "link": "https://www.spiegel.de/wirtschaft/energiewende-nrw-kohleausstieg-2030-geraet-wegen-fehlender-gaskraftwerke-unter-druck-a-110c7aab-0e2d-4d96-86e3-3323ed3e74b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T09:29:00+00:00"
-    },
-    {
-      "titel": "Rom-Tourist muss 450 Euro Strafe zahlen für Sprung in Brunnen",
-      "link": "https://www.spiegel.de/panorama/justiz/rom-tourist-muss-450-euro-strafe-zahlen-fuer-sprung-in-brunnen-a-5c9d1191-3b60-47d7-ba18-9d8db005f7e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T09:22:00+00:00"
-    },
-    {
       "titel": "Doppelt so viele Mädchen wegen Essstörungen im Krankenhaus",
       "link": "https://www.tagesschau.de/inland/gesellschaft/essstoerung-krankenhaus-magersucht-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T09:19:52+00:00"
     },
     {
-      "titel": "Australien: Korallen am Great Barrier Reef erholen sich nach Abkühlung",
-      "link": "https://www.spiegel.de/wissenschaft/natur/australien-korallen-am-great-barrier-reef-erholen-sich-nach-abkuehlung-a-0ece5f3c-a856-4b1d-bed7-268b10d8896f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T09:12:00+00:00"
-    },
-    {
       "titel": "Syrien: Ex-Präsident Baschar al-Assad in Abwesenheit zum Tode verurteilt",
       "link": "https://www.sueddeutsche.de/politik/syrien-al-assad-todesurteil-li.3529753",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T09:08:50+00:00"
-    },
-    {
-      "titel": "Syrien: Ex-Diktator Baschar al-Assad in Abwesenheit zum Tode verurteilt",
-      "link": "https://www.spiegel.de/ausland/syriens-ex-diktator-assad-in-abwesenheit-zum-tode-verurteilt-a-f082d1c9-85f3-43fe-a05b-53243026892f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T09:06:00+00:00"
     },
     {
       "titel": "Mindestens neun Tote: Neue russische Luftangriffe auf Ukraine",
@@ -115,28 +133,10 @@
       "veroeffentlicht": "2026-08-11T08:45:30+00:00"
     },
     {
-      "titel": "Marktbericht: DAX bleibt der Nähe seiner Bestmarke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T08:42:34+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Orientierungslos auf der Bahn",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-lueckenkemper-zecke-li.3529615",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T08:34:34+00:00"
-    },
-    {
-      "titel": "Wohin steuert die Bundeszentrale für politische Bildung?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-politische-bildung-unruhe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T08:24:01+00:00"
-    },
-    {
-      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T08:16:30+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Großbrände nach ukrainischen Angriffen in Russland",
