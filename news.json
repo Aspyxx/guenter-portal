@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-11T07:40:03+00:00",
+  "aktualisiert": "2026-08-11T08:38:04+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Wohin steuert die Bundeszentrale für politische Bildung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-politische-bildung-unruhe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T08:24:01+00:00"
+    },
+    {
+      "titel": "Gina Lückenkemper bei der Leichtathletik-EM: Erst Zeckenstich, dann EM-Aus",
+      "link": "https://www.spiegel.de/sport/leichtathletik/gina-lueckenkemper-bei-der-leichtathletik-em-erst-zeckenstich-dann-em-aus-a-61d19f0b-9869-4a23-b788-be5f65a789c5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T08:20:00+00:00"
+    },
+    {
+      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T08:16:30+00:00"
+    },
+    {
+      "titel": "Ukraine: Russland greift Kyjiw und andere Städte mit ballistischen Raketen an",
+      "link": "https://www.spiegel.de/ausland/ukraine-russland-greift-kyjiw-und-andere-staedte-mit-ballistischen-raketen-an-a-fa1e223b-7f19-455e-b430-c7e44d9df4f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T08:09:00+00:00"
+    },
+    {
+      "titel": "Trump erklärt Straße von Hormus für minenfrei",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-strasse-von-hormus-frei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T08:02:56+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Großbrände nach ukrainischen Angriffen in Russland",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-angriffe-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T07:59:17+00:00"
+    },
+    {
+      "titel": "Weibliche Nazi-Anhänger im »Dritten Reich«: Hitlers Fangirls",
+      "link": "https://www.spiegel.de/geschichte/weibliche-nazi-anhaenger-im-dritten-reich-hitlers-fangirls-a-7d5c9fe2-d5f3-4823-ba1f-9ef9701b6af9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T07:56:00+00:00"
+    },
     {
       "titel": "Fifa: Trump stützt Infantino – „Er ist fantastisch“",
       "link": "https://www.sueddeutsche.de/sport/infantino-trump-post-unterstuetzung-fifa-li.3529627",
@@ -23,12 +65,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/zuerich-drogen-mikrohandel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T07:13:37+00:00"
-    },
-    {
-      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T07:10:59+00:00"
     },
     {
       "titel": "Kommunen in Finanznot: Städtetag-Präsident Burkhard Jung verlangt Entlastung durch Bundesregierung",
@@ -85,18 +121,6 @@
       "veroeffentlicht": "2026-08-11T05:30:55+00:00"
     },
     {
-      "titel": "Russland: Antikriegspartei Jabloko wehrt sich gegen Wahlausschluss",
-      "link": "https://www.spiegel.de/ausland/russland-antikriegspartei-jabloko-wehrt-sich-gegen-wahlausschluss-a-79e558ad-4955-44ff-9f9e-8f03bc39fd0d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T05:28:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Russland greift ukrainische Städte erneut aus der Luft an – mehrere Tote",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-raketen-kiew-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T05:26:50+00:00"
-    },
-    {
       "titel": "Volksinitiative: Will die Schweiz noch neutraler werden?",
       "link": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
       "quelle": "Tagesschau",
@@ -109,18 +133,6 @@
       "veroeffentlicht": "2026-08-11T05:15:42+00:00"
     },
     {
-      "titel": "Rod Stewart sagt Auftritt wegen medizinischen Eingriffs ab",
-      "link": "https://www.spiegel.de/panorama/leute/rod-stewart-sagt-auftritt-wegen-medizinischen-eingriffs-ab-a-5ff32e48-b587-4914-992d-488c5250b3a0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T05:15:00+00:00"
-    },
-    {
-      "titel": "VW, Mercedes, BMW und weitere Autohersteller verdienen im Schnitt deutlich weniger je Auto",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-bmw-und-weitere-autohersteller-verdienen-im-schnitt-deutlich-weniger-je-auto-a-49538c4e-ddb6-46a1-98d3-7de20818871f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T05:07:00+00:00"
-    },
-    {
       "titel": "Krieg in Nahost: Für Trump ist die Straße von Hormus wieder offen",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-hormus-trump-li.3523210",
       "quelle": "Süddeutsche",
@@ -131,18 +143,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/meta-ueberwachung-klage-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T04:59:57+00:00"
-    },
-    {
-      "titel": "Mindestens fünf Tote: Neue russische Luftangriffe auf Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-194.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T03:41:59+00:00"
-    },
-    {
-      "titel": "Ramelow für Zusammenarbeit von Linkspartei und CDU in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ramelow-linke-cdu-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T03:32:39+00:00"
     },
     {
       "titel": "Sabotage: Gab es einen Testlauf für die Drohne am Leipziger Flughafen?",
