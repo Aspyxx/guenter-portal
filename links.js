@@ -578,7 +578,8 @@ const guenterLinks = [
         icon: "🏛️",
         titel: "OmnesViae",
         beschreibung: "Interaktive Karte des römischen Straßennetzes mit historischen Orten und Reiserouten.",
-        url: "https://www.omnesviae.org/"
+        url: "https://www.omnesviae.org/",
+        added: "2026-08-11"
     },
 
     {
