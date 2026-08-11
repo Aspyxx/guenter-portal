@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-11T18:39:44+00:00",
+  "aktualisiert": "2026-08-11T19:48:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Schwimm-EM: Isabel Gose und Maya Werner gewinnen Silber und Bronze über 800 Meter Freistil",
+      "link": "https://www.spiegel.de/sport/schwimm-em-isabel-gose-und-maya-werner-gewinnen-silber-und-bronze-ueber-800-meter-freistil-a-cb9ef78d-5df9-424f-907c-a5f5d53a64a2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T19:31:00+00:00"
+    },
+    {
+      "titel": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T19:26:29+00:00"
+    },
+    {
+      "titel": "Robert Gilman: Ehemaliger US-Marine aus russischer Haft entlassen",
+      "link": "https://www.spiegel.de/ausland/robert-gilman-ehemaliger-us-marine-aus-russischer-haft-entlassen-a-2003c162-3db3-44c0-837a-b0b1f243e1cf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T19:16:00+00:00"
+    },
+    {
+      "titel": "Kolumbien ruft nach Erdbeben Notstand aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T19:11:42+00:00"
+    },
+    {
+      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T19:07:28+00:00"
+    },
+    {
+      "titel": "China: Taifun »Dolphin«, Starkregen und die Folgen des Klimawandels",
+      "link": "https://www.spiegel.de/ausland/china-taifun-dolphin-starkregen-und-die-folgen-des-klimawandels-a-19c44e1b-7eaf-4d91-9745-caa80c5f701a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T18:57:00+00:00"
+    },
+    {
+      "titel": "USA – Donald Trump: Menschenrechtler verklagen Regierung wegen Sanktionen gegen IStGH",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-menschenrechtler-verklagen-regierung-wegen-sanktionen-gegen-istgh-a-2735f98c-a455-4688-87b7-17ea467352d3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T18:43:00+00:00"
+    },
+    {
+      "titel": "Erdbeben in Kolumbien: Hunderte Tote, Tausende Vermisste",
+      "link": "https://www.spiegel.de/panorama/erdbeben-in-kolumbien-mindestens-169-tote-tausende-vermisste-a-24bcc962-683a-4838-b09e-339385ab0043#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T18:34:00+00:00"
+    },
     {
       "titel": "Schlagerstar: Warum Matthias Reim 35.000 Euro Steuern nachzahlen musste",
       "link": "https://www.spiegel.de/panorama/schlagerstar-warum-matthias-reim-35-000-euro-steuern-nachzahlen-musste-a-633fc98b-9256-4dd9-ba40-8c0aebd92ebe#ref=rss",
@@ -49,52 +97,16 @@
       "veroeffentlicht": "2026-08-11T17:41:51+00:00"
     },
     {
-      "titel": "Kolumbien ruft nach Erdbeben Notstand aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T17:37:20+00:00"
-    },
-    {
-      "titel": "Donald Trump: Wie der Nahe Osten die Ohnmacht des US-Präsidenten bloßstellt",
-      "link": "https://www.spiegel.de/ausland/donald-trump-wie-der-nahe-osten-die-ohnmacht-des-us-praesidenten-blossstellt-a-7a78beb0-60a3-4b38-adf6-88e6c4b8cab1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T17:16:00+00:00"
-    },
-    {
       "titel": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
       "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T17:00:56+00:00"
     },
     {
-      "titel": "Hamburg: Bewohner nach Rissen in Mehrfamilienhaus evakuiert",
-      "link": "https://www.spiegel.de/panorama/hamburg-bewohner-nach-rissen-in-mehrfamilienhaus-evakuiert-a-398acb74-d98e-48ee-beb3-9cc5640e2d46#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T16:50:00+00:00"
-    },
-    {
-      "titel": "»AI Overview«: 300 Französische Zeitungen gehen wegen KI-Tools gegen Google vor",
-      "link": "https://www.spiegel.de/kultur/ai-overview-300-franzoesische-zeitungen-gehen-wegen-ki-tool-gegen-google-vor-a-fd19f03f-8208-4ee0-a7c7-d1132646a84d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T16:39:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX erreicht neue Höhen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T16:15:59+00:00"
-    },
-    {
-      "titel": "Berlin: Politiker fordern wegen Spionageverdachts Schließung von Russischem Haus",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-politiker-fordern-wegen-spionageverdacht-schliessung-von-russischem-haus-a-8eba6917-e63e-4222-8fc9-5ca0f6107847#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T16:13:00+00:00"
-    },
-    {
-      "titel": "Türkei: Was bedeutet das historische Amnestiegesetz für die PKK?",
-      "link": "https://www.spiegel.de/ausland/tuerkei-was-bedeutet-das-historische-amnestiegesetz-mit-der-pkk-a-f709375c-6947-4330-bd4b-7af46f4d2e07#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T16:02:00+00:00"
     },
     {
       "titel": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
@@ -127,10 +139,10 @@
       "veroeffentlicht": "2026-08-11T14:56:12+00:00"
     },
     {
-      "titel": "DR Kongo: Müttersterblichkeit seit Ebola-Ausbruch fast verdoppelt",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T14:07:53+00:00"
+      "titel": "Kolumne „Hin und weg“: Wahnsinn über den Wolken",
+      "link": "https://www.sueddeutsche.de/reise/flugzeug-flughafen-schlaegerei-urlaub-reise-li.3526318",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T14:24:32+00:00"
     },
     {
       "titel": "Hitzewelle: Bilger: Niedrigwasser-Probleme wohl im gesamten August",
@@ -145,12 +157,6 @@
       "veroeffentlicht": "2026-08-11T13:46:28+00:00"
     },
     {
-      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T13:43:07+00:00"
-    },
-    {
       "titel": "Streit über Parkplätze und Baugenehmigungen: „Patriotisches Kulturzentrum“ in Weilheim: Gericht lehnt AfD-Eilanträge ab",
       "link": "https://www.sueddeutsche.de/bayern/afd-versammlungsverbot-weilheim-gericht-li.3529756",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/fifa-investoren-plaene-wm-infantino-trump-fussball-folgen-li.3529888",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T13:36:14+00:00"
-    },
-    {
-      "titel": "Diplomatie: In Berlin gibt es weiterhin eine US-Botschaft. Aber keinen Botschafter mehr",
-      "link": "https://www.sueddeutsche.de/politik/us-botschaft-berlin-unbesetzt-geschaeftstraeger-diplomatie-trump-deutschland-li.3519131",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:32:07+00:00"
     }
   ]
 }
