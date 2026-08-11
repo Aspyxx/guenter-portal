@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-11T15:17:03+00:00",
+  "aktualisiert": "2026-08-11T16:38:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "Rosario Dawson: Mutter ist traurig, dass ihre Tochter aus Spider-Man rausgeschnitten wurde",
-      "link": "https://www.spiegel.de/kultur/kino/rosario-dawson-mutter-ist-traurig-dass-ihre-tochter-aus-spider-man-rausgeschnitten-wurde-a-b55ce879-29b5-4d30-b229-37bc49b36bc0#ref=rss",
+      "titel": "Marktbericht: DAX erreicht neue Höhen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T16:15:59+00:00"
+    },
+    {
+      "titel": "Berlin: Politiker fordern wegen Spionageverdacht Schließung von Russischem Haus",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-politiker-fordern-wegen-spionageverdacht-schliessung-von-russischem-haus-a-8eba6917-e63e-4222-8fc9-5ca0f6107847#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T15:16:00+00:00"
+      "veroeffentlicht": "2026-08-11T16:13:00+00:00"
+    },
+    {
+      "titel": "Türkei: Was bedeutet das historische Amnestiegesetz für die PKK?",
+      "link": "https://www.spiegel.de/ausland/tuerkei-was-bedeutet-das-historische-amnestiegesetz-mit-der-pkk-a-f709375c-6947-4330-bd4b-7af46f4d2e07#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T16:02:00+00:00"
+    },
+    {
+      "titel": "»Harry Potter«-Schauspielerin Bel Powley distanziert sich von J.K. Rowling",
+      "link": "https://www.spiegel.de/kultur/tv/harry-potter-schauspielerin-bel-powley-distanziert-sich-von-j-k-rowling-a-6fd57b63-979c-4e5d-9d2a-11968fe5db6a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T16:01:00+00:00"
+    },
+    {
+      "titel": "WM 2026: Gianni Infantinos Job-Versprechen fällt in sich zusammen",
+      "link": "https://www.spiegel.de/sport/wm-2026-gianni-infantinos-job-versprechen-faellt-in-sich-zusammen-a-b73a308c-16e9-4dbb-adf1-78c5d5f3397e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T15:56:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Stalin, Russland, Hitze in Deutschland, Syrien, Baschar al-Assad, Atef Najib",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-stalin-russland-hitze-in-deutschland-syrien-baschar-al-assad-atef-najib-a-fa0a3366-9663-4e4f-9692-087ae6a26f48#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T15:43:00+00:00"
+    },
+    {
+      "titel": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T15:38:52+00:00"
+    },
+    {
+      "titel": "Evelyn Palla will den Eisenbahnerstolz zurückbringen - kann das gelingen?",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-will-den-eisenbahnerstolz-zurueckbringen-kann-das-gelingen-a-ff7a4f08-6465-4fde-a60f-e9586e8af964#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T15:37:00+00:00"
+    },
+    {
+      "titel": "Leo Neugebauer im Kinder-Interview über Olympia, Medaillen, Niederlagen und Muskelkater",
+      "link": "https://www.spiegel.de/deinspiegel/leo-neugebauer-im-kinder-interview-ueber-olympia-medaillen-niederlagen-und-muskelkater-a-ff52c9e7-6c32-44d1-ac40-472625c6c6ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T15:33:00+00:00"
+    },
+    {
+      "titel": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T15:28:26+00:00"
+    },
+    {
+      "titel": "Ceuta: Meta und TikTok gehen gezielt gegen Falschinformationen zu Migrationskrise vor",
+      "link": "https://www.spiegel.de/netzwelt/apps/ceuta-meta-und-tiktok-gehen-gezielt-gegen-falschinformationen-zu-migrationskrise-vor-a-9021309c-3929-4851-a8b2-fb98760ab8f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T15:19:00+00:00"
+    },
+    {
+      "titel": "Erdbeben in Kolumbien: Mindestens 169 Tote, Tausende Vermisste",
+      "link": "https://www.spiegel.de/panorama/erdbeben-in-kolumbien-mindestens-169-tote-tausende-vermisste-a-24bcc962-683a-4838-b09e-339385ab0043#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T15:17:00+00:00"
     },
     {
       "titel": "Erdbeben mit mehr als 160 Toten: Notstand in Kolumbien",
@@ -19,16 +85,10 @@
       "veroeffentlicht": "2026-08-11T15:14:38+00:00"
     },
     {
-      "titel": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T15:13:09+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn: Bahn startet Service für alleinreisende Kinder zu Verwandten",
-      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-bahn-startet-service-fuer-alleinreisende-kinder-zu-verwandten-a-33a89bc0-65c9-4c2c-94c7-b8d6f368ede0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T15:04:00+00:00"
+      "titel": "Astronomisches Ereignis: Bekommt man jetzt noch Brillen für die Sonnenfinsternis?",
+      "link": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-brillen-ausverkauft-alternativen-li.3529662",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T15:03:42+00:00"
     },
     {
       "titel": "Sichtung durch Mitarbeitende: Drohne am Flughafen Hannover-Langenhagen entdeckt",
@@ -37,40 +97,10 @@
       "veroeffentlicht": "2026-08-11T14:56:12+00:00"
     },
     {
-      "titel": "Somalia: Jedes zweite Kind ist laut Ärzte ohne Grenzen mangelernährt",
-      "link": "https://www.spiegel.de/ausland/somalia-jedes-zweite-kind-ist-laut-aerzte-ohne-grenzen-mangelernaehrt-a-e899c693-a5bf-474d-905c-95e4797c19e1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T14:56:00+00:00"
-    },
-    {
-      "titel": "Größter deutscher Autoversicherer registriert Ansturm auf Elektro-Pkw",
-      "link": "https://www.spiegel.de/mobilitaet/auto/groesster-deutscher-autoversicherer-registriert-ansturm-auf-elektro-pkw-a-518ac05b-6281-4411-a972-807a77a931a1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T14:22:00+00:00"
-    },
-    {
-      "titel": "Smart Glasses: Helfen Disney-Songs gegen heimliche Aufnahmen?",
-      "link": "https://www.spiegel.de/netzwelt/smart-glasses-helfen-disney-songs-gegen-heimliche-aufnahmen-a-d9b5cfe5-fc1e-43b4-bb1e-f59b9250a0c7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T14:19:00+00:00"
-    },
-    {
-      "titel": "DFB führt wieder Stehplatztickets ein – pünktlich zum Heimdebüt von Jürgen Klopp",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-fuehrt-wieder-stehplatztickets-ein-puenktlich-zum-heimdebuet-von-juergen-klopp-a-5d702998-ce93-485b-b6a6-b3ab310d140c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T14:10:00+00:00"
-    },
-    {
       "titel": "DR Kongo: Müttersterblichkeit seit Ebola-Ausbruch fast verdoppelt",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T14:07:53+00:00"
-    },
-    {
-      "titel": "Ätna-Ausbruch auf Sizilien: Tausende Touristen sitzen fest",
-      "link": "https://www.spiegel.de/panorama/aetna-ausbruch-auf-sizilien-tausende-touristen-sitzen-fest-a-67585237-fe00-4326-8395-c146f4b6b50f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T14:07:00+00:00"
     },
     {
       "titel": "Hitzewelle: Bilger: Niedrigwasser-Probleme wohl im gesamten August",
@@ -97,14 +127,14 @@
       "veroeffentlicht": "2026-08-11T13:41:32+00:00"
     },
     {
-      "titel": "Ungarn: Orbán-Kritiker András Baka ist neues Staatsoberhaupt",
-      "link": "https://www.spiegel.de/ausland/ungarn-orban-kritiker-andras-baka-ist-neues-staatsoberhaupt-a-f529246c-27c9-4b54-b50b-3172e6c540e0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T13:39:00+00:00"
+      "titel": "Fifa: Im Fall Infantino steckt eine Gefahr für Donald Trump",
+      "link": "https://www.sueddeutsche.de/sport/fifa-investoren-plaene-wm-infantino-trump-fussball-folgen-li.3529888",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:36:14+00:00"
     },
     {
       "titel": "Diplomatie: In Berlin gibt es weiterhin eine US-Botschaft. Aber keinen Botschafter mehr",
-      "link": "https://www.sueddeutsche.de/politik/us-botschaft-berlin-botschafter-geschaeftstraeger-li.3519131",
+      "link": "https://www.sueddeutsche.de/politik/us-botschaft-berlin-unbesetzt-geschaeftstraeger-diplomatie-trump-deutschland-li.3519131",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T13:32:07+00:00"
     },
@@ -113,12 +143,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesurteil-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T13:29:03+00:00"
-    },
-    {
-      "titel": "Drohnen-Attacke auf dem Flughafen Leipzig: So könnte Friedrich Merz Russland abstrafen",
-      "link": "https://www.spiegel.de/politik/deutschland/drohnen-attacke-auf-dem-flughafen-leipzig-so-koennte-friedrich-merz-russland-abstrafen-a-79f02c29-aa83-4ca7-b6c5-e73e25da19d0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T13:23:00+00:00"
     },
     {
       "titel": "Nach Vorfall am Flughafen Leipzig - Verdächtige DNA-Spuren und eine Antenne",
@@ -133,40 +157,16 @@
       "veroeffentlicht": "2026-08-11T13:16:16+00:00"
     },
     {
-      "titel": "Reit-WM: So wie er redet, reitet er auch",
-      "link": "https://www.sueddeutsche.de/sport/raphael-netz-dressur-deutschland-reit-wm-markus-soeder-li.3529692",
+      "titel": "Klimakrise: Wir können das Wetter nicht beeinflussen? Eben doch",
+      "link": "https://www.sueddeutsche.de/meinung/deutschland-niedrigwasser-hitze-wetter-klimaschutz-wirtschaft-kommentar-li.3529170",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:10:27+00:00"
-    },
-    {
-      "titel": "Parteien: Das harte Nein der CDU passt nicht mehr in die Zeit",
-      "link": "https://www.sueddeutsche.de/meinung/cdu-linke-merz-sachsen-anhalt-li.3529587",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:00:13+00:00"
-    },
-    {
-      "titel": "Russische Oppositionspartei Jabloko: Aus für die Friedenstaube",
-      "link": "https://www.sueddeutsche.de/politik/jabloko-partei-wahl-russland-gericht-li.3529612",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T12:57:21+00:00"
+      "veroeffentlicht": "2026-08-11T13:10:54+00:00"
     },
     {
       "titel": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
       "link": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T12:51:02+00:00"
-    },
-    {
-      "titel": "Zukunftsmarkt humanoide Roboter: Ansturm auf Aktien von Unitree",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-unitree-roboter-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T12:05:20+00:00"
-    },
-    {
-      "titel": "Ukraine: Wie kann Deutschland trotz \"Patriot\"-Mangel helfen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/patriots-ukraine-europa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T11:34:32+00:00"
     }
   ]
 }
