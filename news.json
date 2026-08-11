@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-11T19:48:16+00:00",
+  "aktualisiert": "2026-08-11T21:05:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Spotify: Plattform will KI-generierte Nutzerprofile kennzeichnen",
+      "link": "https://www.spiegel.de/netzwelt/spotify-plattform-will-ki-generierte-nutzerprofile-kennzeichnen-a-368c2b03-6409-4660-a708-1f011fa8abc5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T20:45:00+00:00"
+    },
+    {
+      "titel": "Schlagerstar: Warum Matthias Reim 35.000 Euro Steuern nachzahlen musste",
+      "link": "https://www.spiegel.de/panorama/schlagerstar-warum-matthias-reim-35-000-euro-steuern-nachzahlen-musste-a-633fc98b-9256-4dd9-ba40-8c0aebd92ebe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T20:23:00+00:00"
+    },
+    {
+      "titel": "Jemen – Huthis: Sechs Tote nach Angriff auf Frachter in der Meerenge Bab el-Mandeb",
+      "link": "https://www.spiegel.de/ausland/jemen-huthis-sechs-tote-nach-angriff-auf-frachter-in-der-meerenge-bab-el-mandeb-a-f54b7517-7d86-4c7d-b7fc-15e4ac327bfa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T20:21:00+00:00"
+    },
+    {
+      "titel": "Iran/Straße von Hormus: US-Militär greift Frachtschiff mit Raketen an",
+      "link": "https://www.spiegel.de/ausland/iran-strasse-von-hormus-us-militaer-greift-frachtschiff-mit-raketen-an-a-fea3a6ad-8f57-479e-a177-974d93268b4d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T20:14:00+00:00"
+    },
     {
       "titel": "Schwimm-EM: Isabel Gose und Maya Werner gewinnen Silber und Bronze über 800 Meter Freistil",
       "link": "https://www.spiegel.de/sport/schwimm-em-isabel-gose-und-maya-werner-gewinnen-silber-und-bronze-ueber-800-meter-freistil-a-cb9ef78d-5df9-424f-907c-a5f5d53a64a2#ref=rss",
@@ -55,40 +79,16 @@
       "veroeffentlicht": "2026-08-11T18:34:00+00:00"
     },
     {
-      "titel": "Schlagerstar: Warum Matthias Reim 35.000 Euro Steuern nachzahlen musste",
-      "link": "https://www.spiegel.de/panorama/schlagerstar-warum-matthias-reim-35-000-euro-steuern-nachzahlen-musste-a-633fc98b-9256-4dd9-ba40-8c0aebd92ebe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T18:33:00+00:00"
-    },
-    {
       "titel": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T18:20:43+00:00"
     },
     {
-      "titel": "Alexander Dobrindt: Bundesinnenminister verteidigt Geheimdienstreform gegen Kritik",
-      "link": "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-verteidigt-geheimdienstreform-gegen-kritik-a-532c8347-3be0-4c19-bbb4-11d2d8ba500a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T18:19:00+00:00"
-    },
-    {
       "titel": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
       "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T17:58:05+00:00"
-    },
-    {
-      "titel": "»Harry Potter«-Schauspielerin Bel Powley distanziert sich von J.K. Rowling",
-      "link": "https://www.spiegel.de/kultur/tv/harry-potter-schauspielerin-bel-powley-distanziert-sich-von-j-k-rowling-a-6fd57b63-979c-4e5d-9d2a-11968fe5db6a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T17:53:00+00:00"
-    },
-    {
-      "titel": "Thüringen – Notfall-Übung in Eisenbahntunnel: Innenminister Georg Maier fordert Leitstellenreform",
-      "link": "https://www.spiegel.de/politik/thueringen-notfall-uebung-in-eisenbahntunnel-innenminister-georg-maier-fordert-leitstellenreform-a-a6d2ea5f-5012-4d19-9ce2-ba4571381ad0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T17:45:00+00:00"
     },
     {
       "titel": "USA: Russland lässt inhaftierten ehemaligen US-Soldaten frei",
