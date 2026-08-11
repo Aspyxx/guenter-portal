@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-11T16:38:11+00:00",
+  "aktualisiert": "2026-08-11T17:42:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,13 +7,43 @@
   },
   "meldungen": [
     {
+      "titel": "Kolumbien ruft nach Erdbeben Notstand aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T17:37:20+00:00"
+    },
+    {
+      "titel": "Donald Trump: Wie der Nahe Osten die Ohnmacht des US-Präsidenten bloßstellt",
+      "link": "https://www.spiegel.de/ausland/donald-trump-wie-der-nahe-osten-die-ohnmacht-des-us-praesidenten-blossstellt-a-7a78beb0-60a3-4b38-adf6-88e6c4b8cab1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T17:16:00+00:00"
+    },
+    {
+      "titel": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
+      "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T17:00:56+00:00"
+    },
+    {
+      "titel": "Hamburg: Bewohner nach Rissen in Mehrfamilienhaus evakuiert",
+      "link": "https://www.spiegel.de/panorama/hamburg-bewohner-nach-rissen-in-mehrfamilienhaus-evakuiert-a-398acb74-d98e-48ee-beb3-9cc5640e2d46#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T16:50:00+00:00"
+    },
+    {
+      "titel": "»AI Overview«: 300 Französische Zeitungen gehen wegen KI-Tools gegen Google vor",
+      "link": "https://www.spiegel.de/kultur/ai-overview-300-franzoesische-zeitungen-gehen-wegen-ki-tool-gegen-google-vor-a-fd19f03f-8208-4ee0-a7c7-d1132646a84d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T16:39:00+00:00"
+    },
+    {
       "titel": "Marktbericht: DAX erreicht neue Höhen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T16:15:59+00:00"
     },
     {
-      "titel": "Berlin: Politiker fordern wegen Spionageverdacht Schließung von Russischem Haus",
+      "titel": "Berlin: Politiker fordern wegen Spionageverdachts Schließung von Russischem Haus",
       "link": "https://www.spiegel.de/politik/deutschland/berlin-politiker-fordern-wegen-spionageverdacht-schliessung-von-russischem-haus-a-8eba6917-e63e-4222-8fc9-5ca0f6107847#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-11T16:13:00+00:00"
@@ -55,34 +85,16 @@
       "veroeffentlicht": "2026-08-11T15:37:00+00:00"
     },
     {
-      "titel": "Leo Neugebauer im Kinder-Interview über Olympia, Medaillen, Niederlagen und Muskelkater",
-      "link": "https://www.spiegel.de/deinspiegel/leo-neugebauer-im-kinder-interview-ueber-olympia-medaillen-niederlagen-und-muskelkater-a-ff52c9e7-6c32-44d1-ac40-472625c6c6ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T15:33:00+00:00"
+      "titel": "Kolumne „Schön doof“: Echt jetzt?",
+      "link": "https://www.sueddeutsche.de/leben/donald-trump-frisur-haare-vater-fred-trump-li.3503881",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T15:32:19+00:00"
     },
     {
       "titel": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
       "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T15:28:26+00:00"
-    },
-    {
-      "titel": "Ceuta: Meta und TikTok gehen gezielt gegen Falschinformationen zu Migrationskrise vor",
-      "link": "https://www.spiegel.de/netzwelt/apps/ceuta-meta-und-tiktok-gehen-gezielt-gegen-falschinformationen-zu-migrationskrise-vor-a-9021309c-3929-4851-a8b2-fb98760ab8f6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T15:19:00+00:00"
-    },
-    {
-      "titel": "Erdbeben in Kolumbien: Mindestens 169 Tote, Tausende Vermisste",
-      "link": "https://www.spiegel.de/panorama/erdbeben-in-kolumbien-mindestens-169-tote-tausende-vermisste-a-24bcc962-683a-4838-b09e-339385ab0043#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T15:17:00+00:00"
-    },
-    {
-      "titel": "Erdbeben mit mehr als 160 Toten: Notstand in Kolumbien",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T15:14:38+00:00"
     },
     {
       "titel": "Astronomisches Ereignis: Bekommt man jetzt noch Brillen für die Sonnenfinsternis?",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/drohnenattacke-leipzig-ermittler-spuren-verantwortliche-russland-li.3529855",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T13:16:16+00:00"
-    },
-    {
-      "titel": "Klimakrise: Wir können das Wetter nicht beeinflussen? Eben doch",
-      "link": "https://www.sueddeutsche.de/meinung/deutschland-niedrigwasser-hitze-wetter-klimaschutz-wirtschaft-kommentar-li.3529170",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:10:54+00:00"
-    },
-    {
-      "titel": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
-      "link": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T12:51:02+00:00"
     }
   ]
 }
