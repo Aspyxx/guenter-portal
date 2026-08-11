@@ -180,6 +180,18 @@ body{
     text-decoration:underline;
 }
 
+.news-entry a{
+    display:block;
+    overflow-wrap:anywhere;
+}
+
+.news-source{
+    color:#796b58;
+    font-size:12px;
+    font-weight:normal;
+    white-space:nowrap;
+}
+
 .focus-content{
     display:grid;
     gap:0;
@@ -1130,53 +1142,88 @@ document.getElementById("heuteTV").textContent = tvText;
 document.getElementById("heuteLengerich").textContent =
     lengerichTipps[now.getDate() % lengerichTipps.length];
 }
-    async function ladeSchlagzeilen(){
+function gueltigeNachrichtenUrl(url, quelle){
+    const domains = {
+        "Tagesschau":"tagesschau.de",
+        "SPIEGEL":"spiegel.de",
+        "Süddeutsche":"sueddeutsche.de"
+    };
+    try{
+        const ziel = new URL(url);
+        const domain = domains[quelle];
+        return ziel.protocol === "https:" && domain && (ziel.hostname === domain || ziel.hostname.endsWith(`.${domain}`));
+    } catch(fehler){
+        return false;
+    }
+}
+
+function istGueltigeMeldung(meldung){
+    return meldung && typeof meldung.titel === "string" && meldung.titel.trim() &&
+        typeof meldung.quelle === "string" && gueltigeNachrichtenUrl(meldung.link, meldung.quelle);
+}
+
+function zeigeSchlagzeilen(meldungen){
+    const box = document.getElementById("schlagzeilenBox");
+    if(!box || !Array.isArray(meldungen)) return false;
+
+    const sichereMeldungen = meldungen.filter(istGueltigeMeldung).slice(0, 30);
+    if(sichereMeldungen.length === 0) return false;
+
+    box.replaceChildren();
+    sichereMeldungen.forEach(meldung => {
+        const zeile = document.createElement("div");
+        zeile.className = "news-entry";
+        const link = document.createElement("a");
+        link.href = meldung.link;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.append(document.createTextNode(`📰 ${meldung.titel} `));
+        const quelle = document.createElement("span");
+        quelle.className = "news-source";
+        quelle.textContent = `· ${meldung.quelle}`;
+        link.append(quelle);
+        zeile.append(link);
+        box.append(zeile);
+    });
+    return true;
+}
+
+async function ladeTagesschauFallback(){
+    const antwort = await fetch("https://www.tagesschau.de/api2u/news/?ressort=inland");
+    if(!antwort.ok) throw new Error("Tagesschau-Fallback nicht erreichbar");
+    const daten = await antwort.json();
+    const meldungen = Array.isArray(daten.news) ? daten.news.map(meldung => ({
+        titel: meldung.title,
+        link: meldung.shareURL,
+        quelle: "Tagesschau"
+    })) : [];
+    if(!zeigeSchlagzeilen(meldungen)) throw new Error("Keine sicheren Tagesschau-Meldungen");
+}
+
+async function ladeSchlagzeilen(){
     const box = document.getElementById("schlagzeilenBox");
 
     try{
-        box.innerHTML = "<div>📰 Schlagzeilen werden geladen...</div>";
-
-        const antwort = await fetch("https://www.tagesschau.de/api2u/news/?ressort=inland");
-
-        if(!antwort.ok){
-            throw new Error("Antwort der Tagesschau war nicht OK");
-        }
-
+        const antwort = await fetch("news.json", {cache:"no-store"});
+        if(!antwort.ok) throw new Error("news.json nicht erreichbar");
         const daten = await antwort.json();
-
-        if(!daten.news || daten.news.length === 0){
-            throw new Error("Keine Nachrichten gefunden");
+        if(!zeigeSchlagzeilen(daten.meldungen)) throw new Error("news.json enthält keine sicheren Meldungen");
+    } catch(error){
+        try{
+            await ladeTagesschauFallback();
+        } catch(fallbackError){
+            box.replaceChildren();
+            const zeile = document.createElement("div");
+            const link = document.createElement("a");
+            link.href = "https://www.tagesschau.de/";
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+            link.textContent = "📰 Aktuelle Nachrichten öffnen";
+            zeile.append(link);
+            box.append(zeile);
         }
-
-        const meldungen = daten.news
-            .filter(meldung => meldung.title && meldung.shareURL)
-.slice(0, 27);
-
-        box.innerHTML = "";
-
-        meldungen.forEach(meldung => {
-            box.innerHTML += `
-                <div>
-                    <a href="${meldung.shareURL}" target="_blank">
-                        📰 ${meldung.title}
-                    </a>
-                </div>
-            `;
-        });
     }
-    catch(error){
-        box.innerHTML = `
-            <div>
-                <a href="https://www.tagesschau.de/" target="_blank">
-                    📰 Aktuelle Tagesschau-Schlagzeilen öffnen
-                </a>
-            </div>
-            <div style="font-size:13px;color:#777;">
-                Live-Schlagzeilen konnten im Browser nicht geladen werden.
-            </div>
-        `;
-    }
-}   
+}
 async function ladeBundesliga(){
     const box = document.getElementById("bundesligaBox");
 

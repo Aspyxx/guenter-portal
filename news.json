@@ -1,0 +1,172 @@
+{
+  "aktualisiert": "2026-08-11T07:39:29+00:00",
+  "anzahlProQuelle": {
+    "Tagesschau": 9,
+    "SPIEGEL": 9,
+    "Süddeutsche": 9
+  },
+  "meldungen": [
+    {
+      "titel": "Fifa: Trump stützt Infantino – „Er ist fantastisch“",
+      "link": "https://www.sueddeutsche.de/sport/infantino-trump-post-unterstuetzung-fifa-li.3529627",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T07:18:38+00:00"
+    },
+    {
+      "titel": "Schwarzes Loch Sagittarius A*: Das Monster im Zentrum der Milchstraße scheint zahmer als gedacht",
+      "link": "https://www.spiegel.de/wissenschaft/schwarzes-loch-sagittarius-a-das-monster-im-zentrum-der-milchstrasse-scheint-zahmer-als-gedacht-a-18fb0674-c92b-46fc-a90c-f2268fc5ff68#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T07:16:00+00:00"
+    },
+    {
+      "titel": "Zürich: Wie der Mikrohandel die Drogenszene eindämmt",
+      "link": "https://www.tagesschau.de/ausland/europa/zuerich-drogen-mikrohandel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T07:13:37+00:00"
+    },
+    {
+      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T07:10:59+00:00"
+    },
+    {
+      "titel": "Kommunen in Finanznot: Städtetag-Präsident Burkhard Jung verlangt Entlastung durch Bundesregierung",
+      "link": "https://www.spiegel.de/politik/deutschland/kommunen-in-finanznot-staedtetag-praesident-burkhard-jung-verlangt-entlastung-durch-bundesregierung-a-07002e7b-62f2-408a-bbfa-95c7325f0b08#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T06:36:00+00:00"
+    },
+    {
+      "titel": "Spritpreise: Niedrigwasser am Rhein macht Tanken teurer",
+      "link": "https://www.spiegel.de/wirtschaft/spritpreise-niedrigwasser-am-rhein-macht-tanken-teurer-a-c01e1815-df15-4b21-a6c2-f1c479ab05f5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T06:16:00+00:00"
+    },
+    {
+      "titel": "Italien: Mutmaßlicher Auftraggeber nach Anschlag auf Journalist festgenommen",
+      "link": "https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-auftraggeber-nach-anschlag-auf-journalist-festgenommen-a-26bb8e96-7f6e-480d-af7a-8d42fde866ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T06:09:00+00:00"
+    },
+    {
+      "titel": "USA: Trump will Impfempfehlungen für Kinder deutlich reduzieren",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-impfempfehlungen-kinder-li.3523200",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T05:59:36+00:00"
+    },
+    {
+      "titel": "Extremwetter in Deutschland: Die Politik versagt im Kampf gegen den Hitze-Schock",
+      "link": "https://www.spiegel.de/politik/deutschland/extremwetter-in-deutschland-die-politik-versagt-im-kampf-gegen-den-hitze-schock-a-2913485d-125b-4008-88d3-b670f1fa79b7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T05:54:00+00:00"
+    },
+    {
+      "titel": "Hitzewelle: Mehrere Waldbrände in Deutschland",
+      "link": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-waldbraende-trockenheit-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T05:39:02+00:00"
+    },
+    {
+      "titel": "Marktbericht: Geht die Börsenrally weiter?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T05:37:44+00:00"
+    },
+    {
+      "titel": "Gianni Infantino: Donald Trump stärkt Fifa-Boss den Rücken",
+      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-donald-trump-staerkt-fifa-boss-den-ruecken-a-6716d682-7375-4a4c-aa93-7095e990f2db#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T05:31:00+00:00"
+    },
+    {
+      "titel": "Ablenkungsmanöver: Trump im Catering-Wagen statt in der Air Force One?",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-gipfel-catering-wagen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T05:30:55+00:00"
+    },
+    {
+      "titel": "Russland: Antikriegspartei Jabloko wehrt sich gegen Wahlausschluss",
+      "link": "https://www.spiegel.de/ausland/russland-antikriegspartei-jabloko-wehrt-sich-gegen-wahlausschluss-a-79e558ad-4955-44ff-9f9e-8f03bc39fd0d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T05:28:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Russland greift ukrainische Städte erneut aus der Luft an – mehrere Tote",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-raketen-kiew-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T05:26:50+00:00"
+    },
+    {
+      "titel": "Volksinitiative: Will die Schweiz noch neutraler werden?",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T05:16:22+00:00"
+    },
+    {
+      "titel": "Ungarns neue Präsident: Ein Mann mit Prinzipien",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-wahl-praesident-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T05:15:42+00:00"
+    },
+    {
+      "titel": "Rod Stewart sagt Auftritt wegen medizinischen Eingriffs ab",
+      "link": "https://www.spiegel.de/panorama/leute/rod-stewart-sagt-auftritt-wegen-medizinischen-eingriffs-ab-a-5ff32e48-b587-4914-992d-488c5250b3a0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T05:15:00+00:00"
+    },
+    {
+      "titel": "VW, Mercedes, BMW und weitere Autohersteller verdienen im Schnitt deutlich weniger je Auto",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-bmw-und-weitere-autohersteller-verdienen-im-schnitt-deutlich-weniger-je-auto-a-49538c4e-ddb6-46a1-98d3-7de20818871f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T05:07:00+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: Für Trump ist die Straße von Hormus wieder offen",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-hormus-trump-li.3523210",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T05:01:00+00:00"
+    },
+    {
+      "titel": "Klage von Verbraucherschützern: Sammelt Meta rechtswidrig Daten?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/meta-ueberwachung-klage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T04:59:57+00:00"
+    },
+    {
+      "titel": "Mindestens fünf Tote: Neue russische Luftangriffe auf Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-194.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T03:41:59+00:00"
+    },
+    {
+      "titel": "Ramelow für Zusammenarbeit von Linkspartei und CDU in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ramelow-linke-cdu-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T03:32:39+00:00"
+    },
+    {
+      "titel": "Sabotage: Gab es einen Testlauf für die Drohne am Leipziger Flughafen?",
+      "link": "https://www.sueddeutsche.de/politik/leipzig-drohne-sprengstoff-ermittlungen-verdacht-russland-dhl-li.3529440",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-10T16:31:21+00:00"
+    },
+    {
+      "titel": "Spanien: Zur Sonne, zum Chaos",
+      "link": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-spanien-chaos-verkehr-beobachtung-li.3528129",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-10T15:50:48+00:00"
+    },
+    {
+      "titel": "Glosse: Das Streiflicht: Das 11. Gebot oder: Gehe niemals auf X oder der Himmel wird dich strafen",
+      "link": "https://www.sueddeutsche.de/politik/ard-afrika-korrespondent-twitter-x-zehn-gebote-li.3528839",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-10T14:51:56+00:00"
+    },
+    {
+      "titel": "Immobilienpreise: Grundstückswerte in München fallen auf Niveau von vor zehn Jahren",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-bodenrichtwerte-2026-infos-li.3526023",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-10T14:41:10+00:00"
+    }
+  ]
+}
