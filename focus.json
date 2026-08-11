@@ -1,13 +1,26 @@
 {
-  "titel": "Bodo Ramelow",
-  "beschreibung": "Das Thema steht in den aktuellen Nachrichten und verzeichnet bei Google Trends mit mehr als 5.000 Suchanfragen starkes Interesse.",
-  "link": "https://www.tagesschau.de/inland/innenpolitik/ramelow-linke-cdu-sachsen-anhalt-100.html",
-  "quelle": "Tagesschau",
-  "quellen": [
-    "Tagesschau",
-    "Google Trends"
-  ],
-  "icon": "🔎",
-  "aktualisiert": "2026-08-11T06:44:14+00:00",
-  "score": 97.9
+  "aktualisiert": "2026-08-11T06:54:27+00:00",
+  "themen": [
+    {
+      "rang": 1,
+      "titel": "Bodo Ramelow",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ramelow-linke-cdu-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
+      "titel": "Kann Europa im Drohnen-Wettlauf mithalten?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-aufruestung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Geht die Börsenrally weiter?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    }
+  ]
 }

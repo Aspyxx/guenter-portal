@@ -182,30 +182,48 @@ body{
 
 .focus-content{
     display:grid;
-    gap:10px;
+    gap:0;
+}
+
+.focus-item{
+    padding:11px 0;
+    border-top:1px solid rgba(16,35,63,.18);
+}
+
+.focus-item > div{
+    padding:0;
+    border-top:0;
 }
 
 .focus-title{
     display:flex;
     align-items:flex-start;
-    gap:9px;
+    gap:7px;
     font-family:Georgia, serif;
-    font-size:21px;
+    font-size:19px;
     line-height:1.25;
 }
 
 .focus-icon{
     flex:0 0 auto;
-    font-size:26px;
+    font-size:21px;
 }
 
-.focus-description{
-    line-height:1.45;
+.focus-rank{
+    flex:0 0 20px;
+    font-family:Arial, sans-serif;
+    font-weight:bold;
+}
+
+.focus-link{
+    margin:5px 0 0 27px;
 }
 
 .focus-updated{
     color:#667085;
     font-size:12px;
+    padding-top:8px;
+    border-top:1px solid rgba(16,35,63,.18);
 }
 
 .weather-big{
@@ -489,9 +507,7 @@ footer{
     <h3>🔥 Aktuell im Fokus</h3>
 
     <div class="news-list focus-content" id="focusContent" aria-live="polite">
-        <div class="focus-title"><span class="focus-icon">🔎</span><strong>Aktuelles Thema wird geladen…</strong></div>
-        <div class="focus-description">Die Nachrichtenlage und aktuelle Suchtrends werden ausgewertet.</div>
-        <div><a href="https://www.tagesschau.de/" target="_blank" rel="noopener">📰 Mehr bei Tagesschau →</a></div>
+        <div>Aktuelle Themen werden geladen…</div>
     </div>
 
 </div>
@@ -1142,14 +1158,18 @@ function updateWechselInfo(){
 }
 
 function istGueltigerFokus(fokus){
-    const felderSindVorhanden = fokus && ["titel", "beschreibung", "link", "quelle", "icon", "aktualisiert"]
-        .every(feld => typeof fokus[feld] === "string" && fokus[feld].trim());
-    if(!felderSindVorhanden) return false;
-    try{
-        return new URL(fokus.link).protocol === "https:";
-    } catch(fehler){
-        return false;
-    }
+    if(!fokus || typeof fokus.aktualisiert !== "string" || !fokus.aktualisiert.trim()) return false;
+    if(!Array.isArray(fokus.themen) || fokus.themen.length < 1 || fokus.themen.length > 3) return false;
+    return fokus.themen.every((thema, index) => {
+        const felderSindVorhanden = thema && thema.rang === index + 1 && ["titel", "link", "quelle", "icon"]
+            .every(feld => typeof thema[feld] === "string" && thema[feld].trim());
+        if(!felderSindVorhanden) return false;
+        try{
+            return new URL(thema.link).protocol === "https:";
+        } catch(fehler){
+            return false;
+        }
+    });
 }
 
 function zeigeFokus(fokus){
@@ -1158,26 +1178,34 @@ function zeigeFokus(fokus){
 
     inhalt.replaceChildren();
 
-    const titel = document.createElement("div");
-    titel.className = "focus-title";
-    const icon = document.createElement("span");
-    icon.className = "focus-icon";
-    icon.textContent = fokus.icon;
-    const stark = document.createElement("strong");
-    stark.textContent = fokus.titel;
-    titel.append(icon, stark);
+    fokus.themen.forEach(thema => {
+        const artikel = document.createElement("article");
+        artikel.className = "focus-item";
 
-    const beschreibung = document.createElement("div");
-    beschreibung.className = "focus-description";
-    beschreibung.textContent = fokus.beschreibung;
+        const titel = document.createElement("div");
+        titel.className = "focus-title";
+        const rang = document.createElement("span");
+        rang.className = "focus-rank";
+        rang.textContent = `${thema.rang}.`;
+        const icon = document.createElement("span");
+        icon.className = "focus-icon";
+        icon.textContent = thema.icon;
+        const stark = document.createElement("strong");
+        stark.textContent = thema.titel;
+        titel.append(rang, icon, stark);
 
-    const linkZeile = document.createElement("div");
-    const link = document.createElement("a");
-    link.href = fokus.link;
-    link.target = "_blank";
-    link.rel = "noopener";
-    link.textContent = `📰 Mehr bei ${fokus.quelle} →`;
-    linkZeile.append(link);
+        const linkZeile = document.createElement("div");
+        linkZeile.className = "focus-link";
+        const link = document.createElement("a");
+        link.href = thema.link;
+        link.target = "_blank";
+        link.rel = "noopener";
+        link.textContent = `Mehr bei ${thema.quelle} →`;
+        linkZeile.append(link);
+
+        artikel.append(titel, linkZeile);
+        inhalt.append(artikel);
+    });
 
     const aktualisiert = document.createElement("div");
     aktualisiert.className = "focus-updated";
@@ -1186,7 +1214,7 @@ function zeigeFokus(fokus){
         ? ""
         : `Aktualisiert: ${zeit.toLocaleString("de-DE", {dateStyle:"short", timeStyle:"short"})} Uhr`;
 
-    inhalt.append(titel, beschreibung, linkZeile, aktualisiert);
+    inhalt.append(aktualisiert);
 }
 
 async function ladeFokus(){

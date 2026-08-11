@@ -218,55 +218,53 @@ def choose_icon(title: str, group: list[Item]) -> str:
     return "🔎"
 
 
-def build_description(group: list[Item]) -> str:
-    news_count = sum(item.source == "Tagesschau" for item in group)
-    trends = [item for item in group if item.source == "Google Trends"]
-    if news_count and trends:
-        traffic = max(item.traffic for item in trends)
-        volume = f" mit mehr als {traffic:,} Suchanfragen".replace(",", ".") if traffic >= 1_000 else ""
-        return f"Das Thema steht in den aktuellen Nachrichten und verzeichnet bei Google Trends{volume} starkes Interesse."
-    if news_count > 1:
-        return f"Mehrere aktuelle Tagesschau-Meldungen machen dieses Thema derzeit besonders relevant."
-    if trends:
-        traffic = max(item.traffic for item in trends)
-        volume = f" (mehr als {traffic:,} Suchanfragen)".replace(",", ".") if traffic >= 1_000 else ""
-        return f"Dieses Thema verzeichnet bei Google Trends Deutschland derzeit starkes Suchinteresse{volume}."
-    return "Dieses Thema ist in den aktuellen Tagesschau-Meldungen besonders prominent platziert."
-
-
 def build_focus(tagesschau: list[Item], trends: list[Item], now: datetime) -> dict | None:
     candidates = clusters([*tagesschau, *trends])
     if not candidates:
         return None
     ranked = sorted(((score(group, now), group) for group in candidates), key=lambda pair: pair[0], reverse=True)
-    best_score, best = ranked[0]
-    if best_score < MIN_SCORE:
+    valid_groups = [group for group_score, group in ranked if group_score >= MIN_SCORE][:3]
+    if not valid_groups:
         return None
-    primary = min((item for item in best if item.source == "Tagesschau"), key=lambda item: item.rank, default=None)
-    if primary is None:
-        primary = max(best, key=lambda item: (item.traffic, -item.rank))
-    sources = sorted({item.source for item in best}, key=lambda name: name != "Tagesschau")
-    title = display_title(best)
+
+    topics = []
+    for rank, group in enumerate(valid_groups, start=1):
+        primary = min((item for item in group if item.source == "Tagesschau"), key=lambda item: item.rank, default=None)
+        if primary is None:
+            primary = max(group, key=lambda item: (item.traffic, -item.rank))
+        title = display_title(group)
+        topics.append({
+            "rang": rank,
+            "titel": title,
+            "link": primary.link,
+            "quelle": primary.source,
+            "icon": choose_icon(title, group),
+        })
+
     return {
-        "titel": title,
-        "beschreibung": build_description(best),
-        "link": primary.link,
-        "quelle": primary.source,
-        "quellen": sources,
-        "icon": choose_icon(title, best),
         # UTC is portable on every runner; the browser renders this in the visitor's local time.
         "aktualisiert": now.astimezone(timezone.utc).isoformat(timespec="seconds"),
-        "score": best_score,
+        "themen": topics,
     }
 
 
 def valid_focus(data: object) -> bool:
     if not isinstance(data, dict):
         return False
-    required = ("titel", "beschreibung", "link", "quelle", "icon", "aktualisiert")
-    if not all(isinstance(data.get(key), str) and data[key].strip() for key in required):
+    if not isinstance(data.get("aktualisiert"), str) or not data["aktualisiert"].strip():
         return False
-    return urlparse(data["link"]).scheme == "https"
+    topics = data.get("themen")
+    if not isinstance(topics, list) or not 1 <= len(topics) <= 3:
+        return False
+    required = ("titel", "link", "quelle", "icon")
+    for expected_rank, topic in enumerate(topics, start=1):
+        if not isinstance(topic, dict) or topic.get("rang") != expected_rank:
+            return False
+        if not all(isinstance(topic.get(key), str) and topic[key].strip() for key in required):
+            return False
+        if urlparse(topic["link"]).scheme != "https":
+            return False
+    return True
 
 
 def write_atomic(path: Path, data: dict) -> None:
@@ -314,7 +312,7 @@ def main() -> int:
         return 1
 
     write_atomic(args.output, focus)
-    print(f"Fokus aktualisiert: {focus['titel']} (Score {focus['score']})")
+    print("Fokus aktualisiert: " + ", ".join(topic["titel"] for topic in focus["themen"]))
     return 0
 
 
