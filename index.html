@@ -762,17 +762,21 @@ function zeigeFavoriten(){
     });
 }
 
+function normalisiereSuchtext(text){
+    return text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
 function zeigeLinks(filter = ""){
     const container = document.getElementById("linkSammlung");
     if(!container || typeof guenterLinks === "undefined") return;
 
     const favoriten = getFavoriten();
-    const suchtext = filter.toLowerCase();
+    const suchtext = normalisiereSuchtext(filter);
 
     const gefiltert = guenterLinks.filter(link =>
-        link.titel.toLowerCase().includes(suchtext) ||
-        link.beschreibung.toLowerCase().includes(suchtext) ||
-        link.kategorie.toLowerCase().includes(suchtext)
+        normalisiereSuchtext(link.titel).includes(suchtext) ||
+        normalisiereSuchtext(link.beschreibung).includes(suchtext) ||
+        normalisiereSuchtext(link.kategorie).includes(suchtext)
     );
 
     const kategorien = [...new Set(gefiltert.map(link => link.kategorie))];

@@ -573,6 +573,13 @@ const guenterLinks = [
         beschreibung: "Historische Landkarten aus aller Welt.",
         url: "https://www.davidrumsey.com/"
     },
+    {
+        kategorie: "Wissen, Geschichte & Entdecken",
+        icon: "🏛️",
+        titel: "OmnesViae",
+        beschreibung: "Interaktive Karte des römischen Straßennetzes mit historischen Orten und Reiserouten.",
+        url: "https://www.omnesviae.org/"
+    },
 
     {
         kategorie: "Wissenschaft & Lernen",
