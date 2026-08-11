@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-11T22:06:11+00:00",
+  "aktualisiert": "2026-08-11T23:04:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T22:29:29+00:00"
+    },
+    {
+      "titel": "US-Militär beschießt Tanker im Golf von Oman",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-hormus-us-beschuss-tanker-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T22:09:02+00:00"
+    },
     {
       "titel": "Leichtathletik-EM: Sprinter Owen Ansah gewinnt EM-Bronze über 100 Meter",
       "link": "https://www.spiegel.de/sport/leichtathletik-em-sprinter-owen-ansah-gewinnt-em-bronze-ueber-100-meter-a-86fd74c7-fca6-4562-b16f-296708429e4d#ref=rss",
@@ -109,22 +121,10 @@
       "veroeffentlicht": "2026-08-11T16:15:59+00:00"
     },
     {
-      "titel": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T15:38:52+00:00"
-    },
-    {
       "titel": "Kolumne „Schön doof“: Echt jetzt?",
       "link": "https://www.sueddeutsche.de/leben/donald-trump-frisur-haare-vater-fred-trump-li.3503881",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T15:32:19+00:00"
-    },
-    {
-      "titel": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T15:28:26+00:00"
     },
     {
       "titel": "Astronomisches Ereignis: Bekommt man jetzt noch Brillen für die Sonnenfinsternis?",
