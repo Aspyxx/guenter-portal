@@ -1,11 +1,77 @@
 {
-  "aktualisiert": "2026-08-11T14:06:50+00:00",
+  "aktualisiert": "2026-08-11T15:17:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rosario Dawson: Mutter ist traurig, dass ihre Tochter aus Spider-Man rausgeschnitten wurde",
+      "link": "https://www.spiegel.de/kultur/kino/rosario-dawson-mutter-ist-traurig-dass-ihre-tochter-aus-spider-man-rausgeschnitten-wurde-a-b55ce879-29b5-4d30-b229-37bc49b36bc0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T15:16:00+00:00"
+    },
+    {
+      "titel": "Erdbeben mit mehr als 160 Toten: Notstand in Kolumbien",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T15:14:38+00:00"
+    },
+    {
+      "titel": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T15:13:09+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn: Bahn startet Service für alleinreisende Kinder zu Verwandten",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-bahn-startet-service-fuer-alleinreisende-kinder-zu-verwandten-a-33a89bc0-65c9-4c2c-94c7-b8d6f368ede0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T15:04:00+00:00"
+    },
+    {
+      "titel": "Sichtung durch Mitarbeitende: Drohne am Flughafen Hannover-Langenhagen entdeckt",
+      "link": "https://www.sueddeutsche.de/panorama/drohnensichtung-flughafen-hannover-bundespolizei-li.3529925",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T14:56:12+00:00"
+    },
+    {
+      "titel": "Somalia: Jedes zweite Kind ist laut Ärzte ohne Grenzen mangelernährt",
+      "link": "https://www.spiegel.de/ausland/somalia-jedes-zweite-kind-ist-laut-aerzte-ohne-grenzen-mangelernaehrt-a-e899c693-a5bf-474d-905c-95e4797c19e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T14:56:00+00:00"
+    },
+    {
+      "titel": "Größter deutscher Autoversicherer registriert Ansturm auf Elektro-Pkw",
+      "link": "https://www.spiegel.de/mobilitaet/auto/groesster-deutscher-autoversicherer-registriert-ansturm-auf-elektro-pkw-a-518ac05b-6281-4411-a972-807a77a931a1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T14:22:00+00:00"
+    },
+    {
+      "titel": "Smart Glasses: Helfen Disney-Songs gegen heimliche Aufnahmen?",
+      "link": "https://www.spiegel.de/netzwelt/smart-glasses-helfen-disney-songs-gegen-heimliche-aufnahmen-a-d9b5cfe5-fc1e-43b4-bb1e-f59b9250a0c7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T14:19:00+00:00"
+    },
+    {
+      "titel": "DFB führt wieder Stehplatztickets ein – pünktlich zum Heimdebüt von Jürgen Klopp",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-fuehrt-wieder-stehplatztickets-ein-puenktlich-zum-heimdebuet-von-juergen-klopp-a-5d702998-ce93-485b-b6a6-b3ab310d140c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T14:10:00+00:00"
+    },
+    {
+      "titel": "DR Kongo: Müttersterblichkeit seit Ebola-Ausbruch fast verdoppelt",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T14:07:53+00:00"
+    },
+    {
+      "titel": "Ätna-Ausbruch auf Sizilien: Tausende Touristen sitzen fest",
+      "link": "https://www.spiegel.de/panorama/aetna-ausbruch-auf-sizilien-tausende-touristen-sitzen-fest-a-67585237-fe00-4326-8395-c146f4b6b50f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T14:07:00+00:00"
+    },
     {
       "titel": "Hitzewelle: Bilger: Niedrigwasser-Probleme wohl im gesamten August",
       "link": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-waldbraende-trockenheit-rhein-bilger-li.3522772",
@@ -19,22 +85,28 @@
       "veroeffentlicht": "2026-08-11T13:46:28+00:00"
     },
     {
-      "titel": "Sichtung durch Mitarbeitende: Drohne am Flughafen Hannover-Langenhagen entdeckt",
-      "link": "https://www.sueddeutsche.de/panorama/drohnensichtung-flughafen-hannover-bundespolizei-li.3529925",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:43:59+00:00"
-    },
-    {
       "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
       "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T13:43:07+00:00"
     },
     {
-      "titel": "Ungarn: Orbán-Kritiker András Baka ist neues Staatsoberhaupt Ungarns",
-      "link": "https://www.spiegel.de/ausland/ungarn-orban-kritiker-andras-baka-ist-neues-staatsoberhaupt-ungarns-a-f529246c-27c9-4b54-b50b-3172e6c540e0#ref=rss",
+      "titel": "Streit über Parkplätze und Baugenehmigungen: „Patriotisches Kulturzentrum“ in Weilheim: Gericht lehnt AfD-Eilanträge ab",
+      "link": "https://www.sueddeutsche.de/bayern/afd-versammlungsverbot-weilheim-gericht-li.3529756",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:41:32+00:00"
+    },
+    {
+      "titel": "Ungarn: Orbán-Kritiker András Baka ist neues Staatsoberhaupt",
+      "link": "https://www.spiegel.de/ausland/ungarn-orban-kritiker-andras-baka-ist-neues-staatsoberhaupt-a-f529246c-27c9-4b54-b50b-3172e6c540e0#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-11T13:39:00+00:00"
+    },
+    {
+      "titel": "Diplomatie: In Berlin gibt es weiterhin eine US-Botschaft. Aber keinen Botschafter mehr",
+      "link": "https://www.sueddeutsche.de/politik/us-botschaft-berlin-botschafter-geschaeftstraeger-li.3519131",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:32:07+00:00"
     },
     {
       "titel": "Syriens Ex-Machthaber Assad in Abwesenheit zum Tode verurteilt",
@@ -43,14 +115,8 @@
       "veroeffentlicht": "2026-08-11T13:29:03+00:00"
     },
     {
-      "titel": "Drohnen-Attacke auf dem Flughafen in Leipzig: So könnte Friedrich Merz Russland abstrafen",
-      "link": "https://www.spiegel.de/politik/deutschland/drohnen-attacke-auf-dem-flughafen-in-leipzig-so-koennte-friedrich-merz-russland-abstrafen-a-79f02c29-aa83-4ca7-b6c5-e73e25da19d0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T13:23:00+00:00"
-    },
-    {
-      "titel": "Claude: Chatbot von Anthropic markiert KI-Texte künftiger Modelle mit Wasserzeichen",
-      "link": "https://www.spiegel.de/netzwelt/web/claude-chatbot-von-anthropic-markiert-ki-texte-kuenftiger-modelle-mit-wasserzeichen-a-c9b96617-9cd8-497a-984c-2254f1e5759a#ref=rss",
+      "titel": "Drohnen-Attacke auf dem Flughafen Leipzig: So könnte Friedrich Merz Russland abstrafen",
+      "link": "https://www.spiegel.de/politik/deutschland/drohnen-attacke-auf-dem-flughafen-leipzig-so-koennte-friedrich-merz-russland-abstrafen-a-79f02c29-aa83-4ca7-b6c5-e73e25da19d0#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-11T13:23:00+00:00"
     },
@@ -61,34 +127,16 @@
       "veroeffentlicht": "2026-08-11T13:19:02+00:00"
     },
     {
-      "titel": "Libanon schafft die Todesstrafe ab",
-      "link": "https://www.spiegel.de/ausland/libanon-schafft-die-todesstrafe-ab-a-fc2c7b4f-7603-4f01-b1c2-81694f4ef127#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T13:17:00+00:00"
-    },
-    {
-      "titel": "Sabotage: Die fremde Macht hinter dem Leipziger Drohnenangriff",
+      "titel": "Hybrider Krieg: Neue Spuren im Leipziger Sabotagefall",
       "link": "https://www.sueddeutsche.de/politik/drohnenattacke-leipzig-ermittler-spuren-verantwortliche-russland-li.3529855",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T13:16:16+00:00"
     },
     {
-      "titel": "Julia Klöckner: Kritik an KI-Bild zum Schulstart in Rheinland-Pfalz",
-      "link": "https://www.spiegel.de/politik/deutschland/julia-kloeckner-kritik-an-ki-bild-zum-schulstart-in-rheinland-pfalz-a-8e99c87f-574a-4ef0-9c69-8e357209d63a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T13:14:00+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Smilla Kolbe mit schnellster deutscher Zeit über 800 Meter seit der Wiedervereinigung",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-smilla-kolbe-mit-schnellster-deutscher-zeit-ueber-800-meter-seit-der-wiedervereinigung-a-56eaa754-a899-4fd3-a5da-8c57938c4955#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T13:06:00+00:00"
-    },
-    {
-      "titel": "Auch Hamburg, Hessen und Bayern erlauben Lkw-Verkehr am Wochenende",
-      "link": "https://www.spiegel.de/wirtschaft/auch-hamburg-hessen-und-bayern-erlauben-lkw-verkehr-am-wochenende-a-6bf1f809-6e88-4435-bb3e-9c90f5a517fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T13:02:00+00:00"
+      "titel": "Reit-WM: So wie er redet, reitet er auch",
+      "link": "https://www.sueddeutsche.de/sport/raphael-netz-dressur-deutschland-reit-wm-markus-soeder-li.3529692",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T13:10:27+00:00"
     },
     {
       "titel": "Parteien: Das harte Nein der CDU passt nicht mehr in die Zeit",
@@ -97,10 +145,10 @@
       "veroeffentlicht": "2026-08-11T13:00:13+00:00"
     },
     {
-      "titel": "Donald Trump: Nur beim Catering war er noch sicher",
-      "link": "https://www.sueddeutsche.de/meinung/donald-trump-nato-gipfel-ankara-militaermaschine-kommentar-li.3529657",
+      "titel": "Russische Oppositionspartei Jabloko: Aus für die Friedenstaube",
+      "link": "https://www.sueddeutsche.de/politik/jabloko-partei-wahl-russland-gericht-li.3529612",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T12:56:19+00:00"
+      "veroeffentlicht": "2026-08-11T12:57:21+00:00"
     },
     {
       "titel": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
@@ -109,64 +157,16 @@
       "veroeffentlicht": "2026-08-11T12:51:02+00:00"
     },
     {
-      "titel": "Vor der Landtagswahl in Sachsen-Anhalt: Immer mehr Linke werben für Zusammenarbeit mit der CDU",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-linke-cdu-zusammenarbeit-li.3529616",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T12:22:38+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T12:19:00+00:00"
-    },
-    {
-      "titel": "Secret Service: Trumps Flucht im Catering-Container",
-      "link": "https://www.sueddeutsche.de/politik/donald-trump-sicherheitsoperation-air-force-one-usa-catering-container-umstieg-li.3529659",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T12:07:33+00:00"
-    },
-    {
       "titel": "Zukunftsmarkt humanoide Roboter: Ansturm auf Aktien von Unitree",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-unitree-roboter-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T12:05:20+00:00"
     },
     {
-      "titel": "Bremen: Tödliche Faustschläge von Autofahrer – Polizei bittet um Hinweise",
-      "link": "https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-bittet-um-hinweise-a-09fea284-f5c0-4aae-bfda-d63ee7a3bf2e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T12:05:00+00:00"
-    },
-    {
-      "titel": "Türkei: Das wundersame Friedensangebot an die PKK",
-      "link": "https://www.sueddeutsche.de/politik/tuerkei-erdogan-pkk-amnestie-li.3529602",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T11:38:18+00:00"
-    },
-    {
       "titel": "Ukraine: Wie kann Deutschland trotz \"Patriot\"-Mangel helfen?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/patriots-ukraine-europa-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T11:34:32+00:00"
-    },
-    {
-      "titel": "Rekord für Tourismus in Deutschland: So viele Übernachtungen wie nie",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-tourismus-urlaub-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T11:12:32+00:00"
-    },
-    {
-      "titel": "Longlist zum Deutschen Buchpreis: Sind das auch die 20 Besten?",
-      "link": "https://www.tagesschau.de/kultur/deutscher-buchpreis-longlist-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T11:04:01+00:00"
-    },
-    {
-      "titel": "Tausende Urlauber sitzen nach Ausbruch des Ätna auf Sizilien fest",
-      "link": "https://www.tagesschau.de/ausland/europa/aetna-ausbruch-urlauber-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T10:45:16+00:00"
     }
   ]
 }
