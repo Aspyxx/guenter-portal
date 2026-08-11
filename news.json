@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-11T21:05:57+00:00",
+  "aktualisiert": "2026-08-11T22:06:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Leichtathletik-EM: Sprinter Owen Ansah gewinnt EM-Bronze über 100 Meter",
+      "link": "https://www.spiegel.de/sport/leichtathletik-em-sprinter-owen-ansah-gewinnt-em-bronze-ueber-100-meter-a-86fd74c7-fca6-4562-b16f-296708429e4d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T21:11:00+00:00"
+    },
     {
       "titel": "Spotify: Plattform will KI-generierte Nutzerprofile kennzeichnen",
       "link": "https://www.spiegel.de/netzwelt/spotify-plattform-will-ki-generierte-nutzerprofile-kennzeichnen-a-368c2b03-6409-4660-a708-1f011fa8abc5#ref=rss",
@@ -71,12 +77,6 @@
       "link": "https://www.spiegel.de/ausland/usa-donald-trump-menschenrechtler-verklagen-regierung-wegen-sanktionen-gegen-istgh-a-2735f98c-a455-4688-87b7-17ea467352d3#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-11T18:43:00+00:00"
-    },
-    {
-      "titel": "Erdbeben in Kolumbien: Hunderte Tote, Tausende Vermisste",
-      "link": "https://www.spiegel.de/panorama/erdbeben-in-kolumbien-mindestens-169-tote-tausende-vermisste-a-24bcc962-683a-4838-b09e-339385ab0043#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T18:34:00+00:00"
     },
     {
       "titel": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
