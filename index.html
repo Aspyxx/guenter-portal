@@ -119,6 +119,10 @@ body{
     gap:22px;
 }
 
+.dashboard > *{
+    min-width:0;
+}
+
 .panel{
     background:#fffaf0;
     border-radius:6px;
@@ -174,6 +178,34 @@ body{
 .news-list a:hover,
 .local-list a:hover{
     text-decoration:underline;
+}
+
+.focus-content{
+    display:grid;
+    gap:10px;
+}
+
+.focus-title{
+    display:flex;
+    align-items:flex-start;
+    gap:9px;
+    font-family:Georgia, serif;
+    font-size:21px;
+    line-height:1.25;
+}
+
+.focus-icon{
+    flex:0 0 auto;
+    font-size:26px;
+}
+
+.focus-description{
+    line-height:1.45;
+}
+
+.focus-updated{
+    color:#667085;
+    font-size:12px;
 }
 
 .weather-big{
@@ -381,6 +413,9 @@ footer{
     .hero-left{flex-direction:column;text-align:center}
     .hero{justify-content:center;text-align:center}
     .news-main{flex-direction:column}
+    .news-list a{overflow-wrap:anywhere}
+    .weather-big{flex-direction:column;align-items:flex-start}
+    .forecast{max-width:100%;overflow-x:auto}
 }
 </style>
 </head>
@@ -453,19 +488,10 @@ footer{
 
     <h3>🔥 Aktuell im Fokus</h3>
 
-    <div class="news-list">
-        <div><strong>⚽ Fußball-WM 2026</strong></div>
-        <div>Spielplan, Ergebnisse, Gruppen und aktuelle Nachrichten.</div>
-        <div>
-            <a href="https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures" target="_blank">
-                🌍 FIFA Spielplan & Ergebnisse öffnen →
-            </a>
-        </div>
-        <div>
-            <a href="https://www.kicker.de/wm/startseite" target="_blank">
-                ⚽ Kicker WM 2026 öffnen →
-            </a>
-        </div>
+    <div class="news-list focus-content" id="focusContent" aria-live="polite">
+        <div class="focus-title"><span class="focus-icon">🔎</span><strong>Aktuelles Thema wird geladen…</strong></div>
+        <div class="focus-description">Die Nachrichtenlage und aktuelle Suchtrends werden ausgewertet.</div>
+        <div><a href="https://www.tagesschau.de/" target="_blank" rel="noopener">📰 Mehr bei Tagesschau →</a></div>
     </div>
 
 </div>
@@ -1115,12 +1141,78 @@ function updateWechselInfo(){
     wechselIndex = (wechselIndex + 1) % wechselInfos.length;
 }
 
+function istGueltigerFokus(fokus){
+    const felderSindVorhanden = fokus && ["titel", "beschreibung", "link", "quelle", "icon", "aktualisiert"]
+        .every(feld => typeof fokus[feld] === "string" && fokus[feld].trim());
+    if(!felderSindVorhanden) return false;
+    try{
+        return new URL(fokus.link).protocol === "https:";
+    } catch(fehler){
+        return false;
+    }
+}
+
+function zeigeFokus(fokus){
+    const inhalt = document.getElementById("focusContent");
+    if(!inhalt || !istGueltigerFokus(fokus)) return;
+
+    inhalt.replaceChildren();
+
+    const titel = document.createElement("div");
+    titel.className = "focus-title";
+    const icon = document.createElement("span");
+    icon.className = "focus-icon";
+    icon.textContent = fokus.icon;
+    const stark = document.createElement("strong");
+    stark.textContent = fokus.titel;
+    titel.append(icon, stark);
+
+    const beschreibung = document.createElement("div");
+    beschreibung.className = "focus-description";
+    beschreibung.textContent = fokus.beschreibung;
+
+    const linkZeile = document.createElement("div");
+    const link = document.createElement("a");
+    link.href = fokus.link;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = `📰 Mehr bei ${fokus.quelle} →`;
+    linkZeile.append(link);
+
+    const aktualisiert = document.createElement("div");
+    aktualisiert.className = "focus-updated";
+    const zeit = new Date(fokus.aktualisiert);
+    aktualisiert.textContent = Number.isNaN(zeit.getTime())
+        ? ""
+        : `Aktualisiert: ${zeit.toLocaleString("de-DE", {dateStyle:"short", timeStyle:"short"})} Uhr`;
+
+    inhalt.append(titel, beschreibung, linkZeile, aktualisiert);
+}
+
+async function ladeFokus(){
+    try{
+        const antwort = await fetch("focus.json", {cache:"no-store"});
+        if(!antwort.ok) throw new Error(`HTTP ${antwort.status}`);
+        const fokus = await antwort.json();
+        if(!istGueltigerFokus(fokus)) throw new Error("Ungültige Fokus-Daten");
+        zeigeFokus(fokus);
+        localStorage.setItem("guenterLetzterFokus", JSON.stringify(fokus));
+    } catch(fehler){
+        console.warn("Fokus konnte nicht aktualisiert werden:", fehler);
+        try{
+            const letzterFokus = JSON.parse(localStorage.getItem("guenterLetzterFokus") || "null");
+            if(istGueltigerFokus(letzterFokus)) zeigeFokus(letzterFokus);
+        } catch(ignoriert){}
+    }
+}
+
 updateDateTime();
 updateGreeting();
 ladeWetter();
 ladeBundesliga();
 ladeSchlagzeilen();
 ladeTVProgramm();
+ladeFokus();
 updateWechselInfo();
 
     zeigeLinks();

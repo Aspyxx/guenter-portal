@@ -1,0 +1,46 @@
+name: Aktuell im Fokus aktualisieren
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-focus
+  cancel-in-progress: false
+
+jobs:
+  update-focus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fokus ermitteln
+        run: python scripts/update_focus.py
+
+      - name: JSON und Tests prüfen
+        run: |
+          python -m json.tool focus.json > /dev/null
+          python -m unittest discover -s tests -v
+
+      - name: Geänderte Daten veröffentlichen
+        run: |
+          if git diff --quiet -- focus.json; then
+            echo "focus.json ist unverändert."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add focus.json
+          git commit -m "Aktualisiere Fokus-Thema"
+          git push
