@@ -238,6 +238,51 @@ body{
     border-top:1px solid rgba(16,35,63,.18);
 }
 
+.recent-panel{
+    background:#fff7dc;
+    border-color:rgba(169,128,31,.42);
+}
+
+.recent-panel h3{
+    border-bottom-color:rgba(169,128,31,.5);
+}
+
+.recent-list{
+    display:grid;
+}
+
+.recent-item{
+    padding:9px 0;
+    border-top:1px solid rgba(169,128,31,.25);
+}
+
+.recent-item:first-child{
+    border-top:0;
+    padding-top:0;
+}
+
+.recent-link{
+    color:#0d3b66;
+    font-family:Georgia, serif;
+    font-size:16px;
+    font-weight:bold;
+    line-height:1.25;
+    overflow-wrap:anywhere;
+    text-decoration:none;
+}
+
+.recent-link:hover{
+    color:#8a3f1b;
+    text-decoration:underline;
+}
+
+.recent-category{
+    margin:2px 0 0 27px;
+    color:#796b58;
+    font-size:12px;
+    line-height:1.25;
+}
+
 .weather-big{
     display:flex;
     align-items:center;
@@ -715,6 +760,11 @@ footer{
 </div>
     </div>
 
+    <div class="panel recent-panel" id="zuletztHinzugefuegtBox" hidden>
+        <h3>✨ Zuletzt hinzugefügt</h3>
+        <div class="recent-list" id="zuletztHinzugefuegtListe"></div>
+    </div>
+
 </section>
 
 <section class="dashboard" style="margin-top:22px;">
@@ -814,17 +864,27 @@ footer{
 </footer>
 <script src="links.js"></script>
 <script>
-function ermittleNeuestenLink(links){
-    if(!Array.isArray(links)) return null;
+function sortiereLinksNachHinzufuegung(links, nurDatiert = false){
+    if(!Array.isArray(links)) return [];
 
     return links
         .map((link, index) => {
             const gueltigesDatum = typeof link.added === "string" && /^\d{4}-\d{2}-\d{2}$/.test(link.added);
             const zeit = gueltigesDatum ? Date.parse(`${link.added}T00:00:00Z`) : NaN;
-            return { link, index, zeit };
+            let gueltigeUrl = false;
+            try{
+                gueltigeUrl = new URL(link.url).protocol === "https:";
+            } catch(fehler){}
+            const gueltigerTitel = typeof link.titel === "string" && link.titel.trim();
+            return { link, index, zeit: Number.isFinite(zeit) ? zeit : null, gueltigeUrl, gueltigerTitel };
         })
-        .filter(eintrag => Number.isFinite(eintrag.zeit))
-        .sort((a, b) => b.zeit - a.zeit || b.index - a.index)[0]?.link || null;
+        .filter(eintrag => eintrag.gueltigeUrl && eintrag.gueltigerTitel && (!nurDatiert || eintrag.zeit !== null))
+        .sort((a, b) =>
+            Number(b.zeit !== null) - Number(a.zeit !== null) ||
+            (b.zeit || 0) - (a.zeit || 0) ||
+            b.index - a.index
+        )
+        .map(eintrag => eintrag.link);
 }
 
 function zeigeNeuestenLink(){
@@ -832,7 +892,7 @@ function zeigeNeuestenLink(){
     const linkElement = document.getElementById("neuLink");
     if(!hinweis || !linkElement || typeof guenterLinks === "undefined") return;
 
-    const neuesterLink = ermittleNeuestenLink(guenterLinks);
+    const neuesterLink = sortiereLinksNachHinzufuegung(guenterLinks, true)[0] || null;
     if(!neuesterLink){
         hinweis.hidden = true;
         return;
@@ -847,6 +907,40 @@ function zeigeNeuestenLink(){
     } catch(fehler){
         hinweis.hidden = true;
     }
+}
+
+function zeigeZuletztHinzugefuegt(){
+    const box = document.getElementById("zuletztHinzugefuegtBox");
+    const liste = document.getElementById("zuletztHinzugefuegtListe");
+    if(!box || !liste || typeof guenterLinks === "undefined") return;
+
+    const neuesteLinks = sortiereLinksNachHinzufuegung(guenterLinks).slice(0, 5);
+    if(neuesteLinks.length === 0){
+        box.hidden = true;
+        return;
+    }
+
+    liste.replaceChildren();
+    neuesteLinks.forEach(linkEintrag => {
+        const zeile = document.createElement("article");
+        zeile.className = "recent-item";
+        const link = document.createElement("a");
+        link.className = "recent-link";
+        link.href = linkEintrag.url;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = `🆕 ${linkEintrag.titel}`;
+        zeile.append(link);
+
+        if(typeof linkEintrag.kategorie === "string" && linkEintrag.kategorie.trim()){
+            const kategorie = document.createElement("div");
+            kategorie.className = "recent-category";
+            kategorie.textContent = linkEintrag.kategorie;
+            zeile.append(kategorie);
+        }
+        liste.append(zeile);
+    });
+    box.hidden = false;
 }
 
 function getFavoriten(){
@@ -1436,6 +1530,7 @@ async function ladeFokus(){
 updateDateTime();
 updateGreeting();
 zeigeNeuestenLink();
+zeigeZuletztHinzugefuegt();
 ladeWetter();
 ladeBundesliga();
 ladeSchlagzeilen();
