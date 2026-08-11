@@ -1,11 +1,101 @@
 {
-  "aktualisiert": "2026-08-11T08:38:04+00:00",
+  "aktualisiert": "2026-08-11T09:43:58+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Spaniens Provinzen hoffen auf die \"SoFi\"-Touristen",
+      "link": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-tourismus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T09:42:37+00:00"
+    },
+    {
+      "titel": "Energiewende: NRW-Kohleausstieg 2030 gerät wegen fehlender Gaskraftwerke unter Druck",
+      "link": "https://www.spiegel.de/wirtschaft/energiewende-nrw-kohleausstieg-2030-geraet-wegen-fehlender-gaskraftwerke-unter-druck-a-110c7aab-0e2d-4d96-86e3-3323ed3e74b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T09:29:00+00:00"
+    },
+    {
+      "titel": "Rom-Tourist muss 450 Euro Strafe zahlen für Sprung in Brunnen",
+      "link": "https://www.spiegel.de/panorama/justiz/rom-tourist-muss-450-euro-strafe-zahlen-fuer-sprung-in-brunnen-a-5c9d1191-3b60-47d7-ba18-9d8db005f7e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T09:22:00+00:00"
+    },
+    {
+      "titel": "Doppelt so viele Mädchen wegen Essstörungen im Krankenhaus",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/essstoerung-krankenhaus-magersucht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T09:19:52+00:00"
+    },
+    {
+      "titel": "Australien: Korallen am Great Barrier Reef erholen sich nach Abkühlung",
+      "link": "https://www.spiegel.de/wissenschaft/natur/australien-korallen-am-great-barrier-reef-erholen-sich-nach-abkuehlung-a-0ece5f3c-a856-4b1d-bed7-268b10d8896f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T09:12:00+00:00"
+    },
+    {
+      "titel": "Syrien: Ex-Präsident Baschar al-Assad in Abwesenheit zum Tode verurteilt",
+      "link": "https://www.sueddeutsche.de/politik/syrien-al-assad-todesurteil-li.3529753",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T09:08:50+00:00"
+    },
+    {
+      "titel": "Syrien: Ex-Diktator Baschar al-Assad in Abwesenheit zum Tode verurteilt",
+      "link": "https://www.spiegel.de/ausland/syriens-ex-diktator-assad-in-abwesenheit-zum-tode-verurteilt-a-f082d1c9-85f3-43fe-a05b-53243026892f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T09:06:00+00:00"
+    },
+    {
+      "titel": "Mindestens neun Tote: Neue russische Luftangriffe auf Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-194.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T09:05:58+00:00"
+    },
+    {
+      "titel": "Türkei: Journalist wegen Bericht über Wechsel von Jamal Musiala festgenommen",
+      "link": "https://www.spiegel.de/sport/fussball/tuerkei-journalist-wegen-bericht-ueber-wechsel-von-jamal-musiala-festgenommen-a-b0bd8d06-cbd6-405c-8c10-48a87ede8856#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T09:01:00+00:00"
+    },
+    {
+      "titel": "Autohersteller verdienen im Schnitt deutlich weniger pro Auto",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/autohersteller-gewinn-fahrzeug-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T08:55:32+00:00"
+    },
+    {
+      "titel": "USA: Bericht: Trump heimlich im Catering-Wagen aus Jet geschleust",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-catering-wagen-jet-li.3523200",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T08:45:30+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX bleibt der Nähe seiner Bestmarke",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-11T08:42:34+00:00"
+    },
+    {
+      "titel": "Saarbrücken: Gerichtsvollzieher getötet – zehn Jahre Haft wegen Mordes",
+      "link": "https://www.spiegel.de/panorama/justiz/saarbruecken-gerichtsvollzieher-getoetet-zehn-jahre-haft-wegen-mordes-a-927d1408-9c9e-42c1-b92d-46a0b7b3a7ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T08:42:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Russland greift Kyjiw und andere Städte mit ballistischen Raketen an",
+      "link": "https://www.spiegel.de/ausland/ukraine-russland-greift-kyjiw-und-andere-staedte-mit-ballistischen-raketen-an-a-fa1e223b-7f19-455e-b430-c7e44d9df4f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T08:41:00+00:00"
+    },
+    {
+      "titel": "Rose-Tattoo-Sänger Angry Anderson hat gesundheitliche Probleme – Tour wird unterbrochen",
+      "link": "https://www.spiegel.de/kultur/musik/rose-tattoo-saenger-angry-anderson-hat-gesundheitliche-probleme-tour-wird-unterbrochen-a-abc13517-dc8f-4057-a83c-6de4ffc0d8fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-11T08:38:00+00:00"
+    },
     {
       "titel": "Wohin steuert die Bundeszentrale für politische Bildung?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-politische-bildung-unruhe-100.html",
@@ -25,12 +115,6 @@
       "veroeffentlicht": "2026-08-11T08:16:30+00:00"
     },
     {
-      "titel": "Ukraine: Russland greift Kyjiw und andere Städte mit ballistischen Raketen an",
-      "link": "https://www.spiegel.de/ausland/ukraine-russland-greift-kyjiw-und-andere-staedte-mit-ballistischen-raketen-an-a-fa1e223b-7f19-455e-b430-c7e44d9df4f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T08:09:00+00:00"
-    },
-    {
       "titel": "Trump erklärt Straße von Hormus für minenfrei",
       "link": "https://www.tagesschau.de/ausland/asien/trump-strasse-von-hormus-frei-100.html",
       "quelle": "Tagesschau",
@@ -43,22 +127,10 @@
       "veroeffentlicht": "2026-08-11T07:59:17+00:00"
     },
     {
-      "titel": "Weibliche Nazi-Anhänger im »Dritten Reich«: Hitlers Fangirls",
-      "link": "https://www.spiegel.de/geschichte/weibliche-nazi-anhaenger-im-dritten-reich-hitlers-fangirls-a-7d5c9fe2-d5f3-4823-ba1f-9ef9701b6af9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T07:56:00+00:00"
-    },
-    {
       "titel": "Fifa: Trump stützt Infantino – „Er ist fantastisch“",
       "link": "https://www.sueddeutsche.de/sport/infantino-trump-post-unterstuetzung-fifa-li.3529627",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T07:18:38+00:00"
-    },
-    {
-      "titel": "Schwarzes Loch Sagittarius A*: Das Monster im Zentrum der Milchstraße scheint zahmer als gedacht",
-      "link": "https://www.spiegel.de/wissenschaft/schwarzes-loch-sagittarius-a-das-monster-im-zentrum-der-milchstrasse-scheint-zahmer-als-gedacht-a-18fb0674-c92b-46fc-a90c-f2268fc5ff68#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T07:16:00+00:00"
     },
     {
       "titel": "Zürich: Wie der Mikrohandel die Drogenszene eindämmt",
@@ -67,82 +139,16 @@
       "veroeffentlicht": "2026-08-11T07:13:37+00:00"
     },
     {
-      "titel": "Kommunen in Finanznot: Städtetag-Präsident Burkhard Jung verlangt Entlastung durch Bundesregierung",
-      "link": "https://www.spiegel.de/politik/deutschland/kommunen-in-finanznot-staedtetag-praesident-burkhard-jung-verlangt-entlastung-durch-bundesregierung-a-07002e7b-62f2-408a-bbfa-95c7325f0b08#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T06:36:00+00:00"
-    },
-    {
-      "titel": "Spritpreise: Niedrigwasser am Rhein macht Tanken teurer",
-      "link": "https://www.spiegel.de/wirtschaft/spritpreise-niedrigwasser-am-rhein-macht-tanken-teurer-a-c01e1815-df15-4b21-a6c2-f1c479ab05f5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T06:16:00+00:00"
-    },
-    {
-      "titel": "Italien: Mutmaßlicher Auftraggeber nach Anschlag auf Journalist festgenommen",
-      "link": "https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-auftraggeber-nach-anschlag-auf-journalist-festgenommen-a-26bb8e96-7f6e-480d-af7a-8d42fde866ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T06:09:00+00:00"
-    },
-    {
-      "titel": "USA: Trump will Impfempfehlungen für Kinder deutlich reduzieren",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-impfempfehlungen-kinder-li.3523200",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T05:59:36+00:00"
-    },
-    {
-      "titel": "Extremwetter in Deutschland: Die Politik versagt im Kampf gegen den Hitze-Schock",
-      "link": "https://www.spiegel.de/politik/deutschland/extremwetter-in-deutschland-die-politik-versagt-im-kampf-gegen-den-hitze-schock-a-2913485d-125b-4008-88d3-b670f1fa79b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T05:54:00+00:00"
-    },
-    {
       "titel": "Hitzewelle: Mehrere Waldbrände in Deutschland",
       "link": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-waldbraende-trockenheit-li.3522772",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T05:39:02+00:00"
     },
     {
-      "titel": "Marktbericht: Geht die Börsenrally weiter?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T05:37:44+00:00"
-    },
-    {
-      "titel": "Gianni Infantino: Donald Trump stärkt Fifa-Boss den Rücken",
-      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-donald-trump-staerkt-fifa-boss-den-ruecken-a-6716d682-7375-4a4c-aa93-7095e990f2db#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T05:31:00+00:00"
-    },
-    {
-      "titel": "Ablenkungsmanöver: Trump im Catering-Wagen statt in der Air Force One?",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-gipfel-catering-wagen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T05:30:55+00:00"
-    },
-    {
-      "titel": "Volksinitiative: Will die Schweiz noch neutraler werden?",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T05:16:22+00:00"
-    },
-    {
-      "titel": "Ungarns neue Präsident: Ein Mann mit Prinzipien",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-wahl-praesident-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T05:15:42+00:00"
-    },
-    {
       "titel": "Krieg in Nahost: Für Trump ist die Straße von Hormus wieder offen",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-hormus-trump-li.3523210",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T05:01:00+00:00"
-    },
-    {
-      "titel": "Klage von Verbraucherschützern: Sammelt Meta rechtswidrig Daten?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/meta-ueberwachung-klage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T04:59:57+00:00"
     },
     {
       "titel": "Sabotage: Gab es einen Testlauf für die Drohne am Leipziger Flughafen?",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ard-afrika-korrespondent-twitter-x-zehn-gebote-li.3528839",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-10T14:51:56+00:00"
-    },
-    {
-      "titel": "Immobilienpreise: Grundstückswerte in München fallen auf Niveau von vor zehn Jahren",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-bodenrichtwerte-2026-infos-li.3526023",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-10T14:41:10+00:00"
     }
   ]
 }
