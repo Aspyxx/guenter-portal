@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-12T15:16:01+00:00",
+  "aktualisiert": "2026-08-12T16:38:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Umweltminister Schneider will Klimaanpassung zur Gemeinschaftsaufgabe machen",
+      "link": "https://www.tagesschau.de/inland/schneider-hitzeschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T16:31:20+00:00"
+    },
+    {
+      "titel": "Hessen: Spaziergänger findet qualmende Phosphorgranate am Rheinufer",
+      "link": "https://www.spiegel.de/panorama/hessen-spaziergaenger-findet-qualmende-phosphorgranate-am-rheinufer-a-d9b74f00-0440-4fea-a632-c292aabefbff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:23:00+00:00"
+    },
+    {
+      "titel": "Ehemaliger Premier Zhu Rongji ist tot: Chinas unbequemer Modernisierer",
+      "link": "https://www.spiegel.de/ausland/ehemaliger-premier-zhu-rongji-ist-tot-chinas-unbequemer-modernisierer-a-bb29766c-cad5-43ab-91e2-4fa443414ae1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:20:00+00:00"
+    },
+    {
+      "titel": "Reit-WM: Isabell Werth und das deutsche Team gewinnen Gold in der Dressur",
+      "link": "https://www.spiegel.de/sport/reit-wm-isabell-werth-und-das-deutsche-team-gewinnen-gold-in-der-dressur-a-031cf12e-4103-4179-86ab-f4f51468a72d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:15:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Taifun in China, Erdbeben in Kolumbien und graue Autos in Deutschland",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-taifun-in-china-erdbeben-in-kolumbien-und-graue-autos-in-deutschland-a-f09b1d1c-3d96-4800-b1f3-a4d8140e19ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T15:52:00+00:00"
+    },
+    {
+      "titel": "Liveblog zur Sonnenfinsternis: ++ Alaska macht den Anfang ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T15:51:05+00:00"
+    },
+    {
+      "titel": "Los Angeles Lakers wechseln offenbar für 12 Milliarden Dollar den Besitzer",
+      "link": "https://www.spiegel.de/sport/basketball/los-angeles-lakers-wechseln-offenbar-fuer-12-milliarden-dollar-den-besitzer-a-b25d0166-c30f-4b6f-96cd-4526ccb868a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T15:38:00+00:00"
+    },
+    {
+      "titel": "Nürnberg: Automaten-Supermärkte bleiben an Feiertagen nachts zu",
+      "link": "https://www.sueddeutsche.de/bayern/nuernberg-automaten-supermaerkte-bayerischer-verwaltungsgerichtshof-eilantrag-feiertage-li.3530565",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T15:29:26+00:00"
+    },
+    {
+      "titel": "Israel: Steffen Seibert kritisiert israelische Siedlungspolitik scharf",
+      "link": "https://www.spiegel.de/politik/deutschland/israel-steffen-seibert-kritisiert-israelische-siedlungspolitik-scharf-a-0b29a1db-1183-4925-8a9e-70ec70ad7a25#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T15:29:00+00:00"
+    },
+    {
+      "titel": "Wie Rechtsextreme mit der Parole »Volksverräter« Stimmung machen",
+      "link": "https://www.spiegel.de/geschichte/rueckkehr-des-verratsbegriffs-ein-toxisches-erbe-a-dc61580b-eaa7-4235-86bb-9dd626644840#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T15:23:00+00:00"
+    },
     {
       "titel": "Die Sonnenfinsternis im Livestream",
       "link": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html",
@@ -17,6 +77,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/technologie/spotify-ki-kennzeichnung-musikstreaming-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T15:13:54+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis: „Typisch Deutschland. Eine Sache passiert, alle rasten aus“",
+      "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-schutzbrillen-optiker-schlange-li.3530526",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T15:12:38+00:00"
     },
     {
       "titel": "Mark Zuckerberg: Schauspieler Jeremy Strong will Sympathien für Meta-Chef wecken",
@@ -31,10 +97,10 @@
       "veroeffentlicht": "2026-08-12T15:05:50+00:00"
     },
     {
-      "titel": "Liveblog zur Sonnenfinsternis: ++ \"Fast überall optimale Wetterbedingungen\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T14:52:34+00:00"
+      "titel": "Film: Da ist ein Dino im Vorgarten",
+      "link": "https://www.sueddeutsche.de/kultur/the-end-of-oak-street-kino-kritik-dinos-anne-hathaway-li.3527294",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T15:01:00+00:00"
     },
     {
       "titel": "Kabinettsbeschluss: Mehr Macht für Nachrichtendienste - das ist geplant",
@@ -43,52 +109,22 @@
       "veroeffentlicht": "2026-08-12T14:52:09+00:00"
     },
     {
-      "titel": "USA: Moderater Demokrat gewinnt Vorwahl in Wisconsin",
-      "link": "https://www.spiegel.de/ausland/usa-moderater-demokrat-gewinnt-vorwahl-in-wisconsin-a-c24f8f7c-2b0c-46de-8314-e3fb6d2493a6#ref=rss",
+      "titel": "Nach Prüfung durch Kartellamt: 50+1 und die Bundesliga: Endlich alles weiter unklar",
+      "link": "https://www.sueddeutsche.de/sport/50-1-fussball-bundeskartellamt-zulaessigkeit-klubs-li.3530375",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T14:49:56+00:00"
+    },
+    {
+      "titel": "Öffentliche Trauer von Lionel Messi: „Ich weiß nicht, was ich ohne dich tun soll“",
+      "link": "https://www.sueddeutsche.de/sport/lionel-messi-vater-jorge-messi-tod-brief-karriereende-fussball-li.3530545",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T14:47:43+00:00"
+    },
+    {
+      "titel": "USA: Moderater Demokrat David Crowley gewinnt Vorwahl in Wisconsin",
+      "link": "https://www.spiegel.de/ausland/usa-moderater-demokrat-david-crowley-gewinnt-vorwahl-in-wisconsin-a-c24f8f7c-2b0c-46de-8314-e3fb6d2493a6#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-12T14:46:00+00:00"
-    },
-    {
-      "titel": "Preetz: Dreijährige in Pool ertrunken – Ermittlungen gegen Eltern",
-      "link": "https://www.spiegel.de/panorama/justiz/preetz-dreijaehrige-in-pool-ertrunken-ermittlungen-gegen-eltern-a-3deccca1-fd26-408d-8c66-005c437f6cc2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:44:00+00:00"
-    },
-    {
-      "titel": "Fußball: Lionel Messi nimmt Abschied von Vater und deutet Karriereende an",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-lionel-messi-nimmt-abschied-von-vater-und-deutet-karriereende-an-a-09066ea1-0804-4f92-b8d6-e827b58303b6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:43:00+00:00"
-    },
-    {
-      "titel": "Nordkorea: Kim Jong Un schickt wohl erneut Zehntausende Soldaten in die Ukraine",
-      "link": "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-schickt-wohl-erneut-zehntausende-soldaten-in-die-ukraine-a-6a4071c5-96ca-4f74-b1e8-a4ce375d4ab7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:41:00+00:00"
-    },
-    {
-      "titel": "Arabisches Meer: Umweltverbände warnen vor großer Ölkatastrophe vor Oman",
-      "link": "https://www.spiegel.de/wissenschaft/arabisches-meer-umweltverbaende-warnen-vor-grosser-oelkatastrophe-vor-oman-a-c94bdc75-3a66-4025-a25e-1dee9c53d14e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:41:00+00:00"
-    },
-    {
-      "titel": "Wuppertal: Manager soll Schmiergeld im zweistelligen Millionenbereich erhalten haben",
-      "link": "https://www.spiegel.de/panorama/justiz/wuppertal-manager-soll-schmiergeld-im-zweistelligen-millionenbereich-erhalten-haben-a-9317655a-4414-4c85-bb79-01c702769482#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:38:00+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis – Brille: Wie Sie jetzt noch schnell ein Exemplar bekommen (eigentlich gar nicht)",
-      "link": "https://www.spiegel.de/wirtschaft/service/sonnenfinsternis-brille-wie-sie-jetzt-noch-schnell-ein-exemplar-bekommen-eigentlich-gar-nicht-a-f284e6db-4103-4cfa-8735-fec6b8a61ee1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:32:00+00:00"
-    },
-    {
-      "titel": "EnBW – »He Dreiht«: Größter Offshore-Windpark in Deutschland fertiggestellt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/enbw-he-dreiht-groesster-offshore-windpark-in-deutschland-fertiggestellt-a-9264b641-518c-4872-8b67-8f9f6c8c9e0c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:12:00+00:00"
     },
     {
       "titel": "US-Präsident Trump bestätigt heimlichen Flugzeugwechsel in Ankara",
@@ -97,10 +133,22 @@
       "veroeffentlicht": "2026-08-12T14:10:07+00:00"
     },
     {
+      "titel": "Podcast: „Auf den Punkt“: Nachrichtendienste: Bekommt Deutschland eine Geheimpolizei?",
+      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-geheimdienste-reform-verfassungsschutz-bnd-dobrindt-li.3530401",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T14:09:05+00:00"
+    },
+    {
       "titel": "Fifa-Präsident Gianni Infantino: Sehr viel Geld für eine Mitarbeiterin",
       "link": "https://www.sueddeutsche.de/sport/gianni-infantino-fifa-uefa-skandal-mitarbeiterin-geldzahlung-li.3530189",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T14:05:17+00:00"
+    },
+    {
+      "titel": "Russland: Die Anspannung in der russischen Bevölkerung wächst",
+      "link": "https://www.sueddeutsche.de/politik/russland-nordkorea-ukraine-krieg-soldaten-bevoelkerung-li.3529441",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T13:26:13+00:00"
     },
     {
       "titel": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
@@ -109,64 +157,16 @@
       "veroeffentlicht": "2026-08-12T13:22:34+00:00"
     },
     {
-      "titel": "Sonnenfinsternis in München: „So etwas noch nie gesehen“: Die Jagd auf Sofi-Brillen",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-sonnenfinsternis-brillen-ansturm-deutsches-museum-li.3530325",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T13:22:00+00:00"
-    },
-    {
       "titel": "Scharfe Kritik an Reform der Kinder- und Jugendhilfe",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-reform-kinder-und-jugendhilfe-assistenz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T12:59:19+00:00"
     },
     {
-      "titel": "Hybride Bedrohungen: Wer deutsche Flughäfen vor Drohnen schützen soll – und wer nicht",
-      "link": "https://www.sueddeutsche.de/politik/flughafenschutz-deutschland-drohnenabwehr-zustaendigkeiten-debatte-li.3529396",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T12:52:36+00:00"
-    },
-    {
-      "titel": "Volksbegehren zur Amtszeitbegrenzung: ÖDP hat bereits 12 000 Unterschriften gesammelt",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-oedp-csu-volksbegehren-unterschriften-amtszeitbegrenzung-ministerpraesident-li.3530241",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T12:47:12+00:00"
-    },
-    {
       "titel": "Tote und Vermisste bei Bootsunglück auf Kariba-Stausee in Simbabwe",
       "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-bootsunglueck-tote-vermisste-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T12:44:45+00:00"
-    },
-    {
-      "titel": "Wie läuft Drohnenabwehr in anderen europäischen Ländern?",
-      "link": "https://www.tagesschau.de/ausland/europa/drohnenabwehr-europa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T12:41:43+00:00"
-    },
-    {
-      "titel": "Schienenverkehr: Die Deutsche Bahn sanieren? Ja klar. Aber wie?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/bahn-sanierung-korridorsanierung-konzept-probleme-li.3530234",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T11:56:31+00:00"
-    },
-    {
-      "titel": "Russland: Vielleicht lachen sie sich einfach nur kaputt über die blöden Deutschen",
-      "link": "https://www.sueddeutsche.de/meinung/berlin-spionageverdacht-krieg-ukraine-russland-haus-kommentar-li.3530192",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T11:23:40+00:00"
-    },
-    {
-      "titel": "Syrien: Warum sich Assad nicht zwingend auf Russland verlassen kann",
-      "link": "https://www.sueddeutsche.de/politik/syrien-todesurteil-assad-folgen-moskau-li.3529913",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T11:12:22+00:00"
-    },
-    {
-      "titel": "Korsika: „Fühlt euch in unserem Land nicht mehr sicher!“",
-      "link": "https://www.sueddeutsche.de/politik/frankreich-korsika-flnc-ferienhaeuser-drohung-warnung-li.3530188",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T10:36:04+00:00"
     }
   ]
 }
