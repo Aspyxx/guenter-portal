@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-12T11:36:30+00:00",
+  "aktualisiert": "2026-08-12T12:37:53+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Wie die totale Sonnenfinsternis am 11. August 1999 Millionen begeisterte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/totale-sonnenfinsternis-1999-100.html",
+      "titel": "Flughafen Leipzig/Halle",
+      "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Spannung vor US-Inflationsdaten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
+      "titel": "Tote bei gegenseitigen Angriffen in der Ukraine und in Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-noworossijsk-saporischschja-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Regierung bringt Frühstartrente auf den Weg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsbeschluss-fruehstartrente-100.html",
+      "titel": "TUI macht weniger Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/tui-190.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "📈"
     }
   ]
 }
