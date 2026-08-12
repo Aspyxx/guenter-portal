@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-12T05:04:28+00:00",
+  "aktualisiert": "2026-08-12T06:43:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,13 +7,91 @@
   },
   "meldungen": [
     {
+      "titel": "Sylt: Klimaaktivisten sollen Luft aus SUV-Reifen gelassen haben",
+      "link": "https://www.spiegel.de/panorama/justiz/sylt-klimaaktivisten-sollen-luft-aus-suv-reifen-gelassen-haben-a-a1e5d76f-23ea-4287-9fe0-791ec288d22f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T06:38:00+00:00"
+    },
+    {
+      "titel": "SED-Opferbeauftragte: Schüler sollen Gedenkstätten besuchen müssen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gedenkstaetten-ddr-mauerbau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T06:36:56+00:00"
+    },
+    {
+      "titel": "Vor US-Daten zur Inflation: DAX bleibt nahe Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T06:30:16+00:00"
+    },
+    {
+      "titel": "Reform der Nachrichtendienste stößt auf Kritik der Opposition",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-kabinett-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T06:09:36+00:00"
+    },
+    {
+      "titel": "Indonesien: Fähre zwischen Bali und Lombok in Brand geraten",
+      "link": "https://www.spiegel.de/panorama/indonesien-faehre-zwischen-bali-und-lombok-in-brand-geraten-a-61df8a6e-478e-4e10-ba2e-d6d95faa2a95#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T06:03:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM in Birmingham: Hohe Preise sorgen für Kritik und halbvolle Tribünen",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-hohe-preise-sorgen-fuer-kritik-und-halbvolle-tribuenen-a-f3bd76de-4909-4f14-b3d3-0272b7fa58e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T05:52:00+00:00"
+    },
+    {
+      "titel": "Niedrigwasser am Rhein: Was bringt die Aussetzung von Lkw-Fahrverboten?",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-am-rhein-was-bringt-die-aussetzung-von-lkw-fahrverboten-a-6dc70b33-6098-4e6f-8dd4-7659b2e10bce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T05:46:00+00:00"
+    },
+    {
+      "titel": "Niedrigwasser: Bilger sieht angespannte Lage, aber keine Lieferengpässe",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-bilger-sieht-angespannte-lage-aber-keine-lieferengpaesse-a-c1451b2d-7ca6-4601-a86e-7fdd8857efd7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T05:45:00+00:00"
+    },
+    {
+      "titel": "Erdbeben in Kolumbien: Rettungskräfte kämpfen gegen die Zeit",
+      "link": "https://www.spiegel.de/panorama/erdbeben-in-kolumbien-rettungskraefte-kaempfen-gegen-die-zeit-a-8d57b431-6b8b-4769-8e06-549766af5191#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T05:30:00+00:00"
+    },
+    {
+      "titel": "USA: Gericht blockiert landesweit die verschärften Briefwahlregeln von Donald Trump",
+      "link": "https://www.spiegel.de/ausland/usa-gericht-blockiert-landesweit-die-verschaerften-briefwahlregeln-von-donald-trump-a-b5dc6dfb-6a42-433f-9ccd-d2c3c2652b20#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T05:23:00+00:00"
+    },
+    {
+      "titel": "Libyen: Khalida Haftar verliert Militärgeheimdienstchef Fawsi al-Mansuridurch Anschlag",
+      "link": "https://www.spiegel.de/ausland/libyen-khalida-haftar-verliert-militaergeheimdienstchef-fawsi-al-mansuridurch-anschlag-a-a944db7d-2e01-46d9-a742-ed5002c4e4a6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T05:12:00+00:00"
+    },
+    {
+      "titel": "Kolumbien ruft nach Erdbeben Notstand aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T05:09:57+00:00"
+    },
+    {
+      "titel": "Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
+      "link": "https://www.tagesschau.de/ausland/trump-briefwahl-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T05:04:19+00:00"
+    },
+    {
       "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
       "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T04:57:17+00:00"
     },
     {
-      "titel": "SED-Opferbeauftragte will DDR-Geschichte im Unterricht verankern",
+      "titel": "Noch 37.000 Deutsche beziehen DDR-Opferrente",
       "link": "https://www.spiegel.de/politik/deutschland/sed-opferbeauftragte-will-ddr-geschichte-im-unterricht-verankern-a-12228fd9-d063-47b2-8a3e-f77b6d332497#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-12T04:52:00+00:00"
@@ -25,52 +103,10 @@
       "veroeffentlicht": "2026-08-12T04:50:00+00:00"
     },
     {
-      "titel": "Spanien: Flüchtlingspolitik in der Kritik - Giorgia Meloni und Mette Frederiksen in Flüchtlingsfrage vereint",
-      "link": "https://www.spiegel.de/ausland/spanien-fluechtlingspolitik-in-der-kritik-giorgia-meloni-und-mette-frederiksen-in-fluechtlingsfrage-vereint-a-1a22b533-667c-488a-9016-8214df73dd3c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T04:42:00+00:00"
-    },
-    {
-      "titel": "Online-Shopping: EU-Regelung bringt kleine Onlineshops in Existenznot",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/online-shopping-eu-regelung-bringt-kleine-onlineshops-in-existenznot-a-71b87e37-844b-4df1-8b5a-d8c50d1cb9ba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T04:23:00+00:00"
-    },
-    {
-      "titel": "Bruce Lius neues Album Lunaris: Elfen beim Yin Yoga",
-      "link": "https://www.spiegel.de/kultur/musik/bruce-lius-neues-album-lunaris-elfen-beim-yin-yoga-a-d15d4774-8d3a-4939-b93f-4b3a96ef4e7a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T04:22:00+00:00"
-    },
-    {
-      "titel": "Leben mit Dyskalkulakie: Wie meine Tochter über sich hinauswuchs",
-      "link": "https://www.spiegel.de/familie/leben-mit-dyskalkulakie-wie-meine-tochter-ueber-sich-hinauswuchs-a-d5de5cfd-97ad-4801-965b-529257c8b2d6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T04:21:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Selenskij warnt vor erneuter russischer Mobilmachung",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-mobilmachung-selenskij-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T04:15:00+00:00"
-    },
-    {
-      "titel": "Catering-Wagen statt »Air Force One«? Trump bestätigt Ablenkungsmanöver des Secret Service",
-      "link": "https://www.spiegel.de/ausland/catering-wagen-statt-air-force-one-trump-bestaetigt-ablenkungsmanoever-des-secret-service-a-0d05f9da-4721-4546-bc3c-bc8557c75304#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T04:14:00+00:00"
-    },
-    {
-      "titel": "Technologieoffenheit: Warum kleinteiliges Handeln den Wandel voranbringt",
-      "link": "https://www.spiegel.de/politik/technologieoffenheit-warum-kleinteiliges-handeln-den-wandel-voranbringt-a-a4f0c32f-a3b2-40d6-b45b-8289767ba5bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T04:13:00+00:00"
-    },
-    {
-      "titel": "Autofarben »Cement« und »Graphite«: Müssen Deutschlands Straßen echt noch grauer werden?",
-      "link": "https://www.spiegel.de/kultur/autofarben-cement-und-graphite-muessen-deutschlands-strassen-echt-noch-grauer-werden-a-596982e6-2f5c-4304-b626-81caaff89f28#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T03:54:00+00:00"
     },
     {
       "titel": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
@@ -85,12 +121,6 @@
       "veroeffentlicht": "2026-08-12T03:47:15+00:00"
     },
     {
-      "titel": "News: Friedrich Merz, Lars Klingbeil, BND, Mohsen Rezaee, Donald Trump, Sonnenfinsternis",
-      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-lars-klingbeil-bnd-mohsen-rezaee-donald-trump-sonnenfinsternis-a-2c7dbd33-01c6-43fc-af2f-a915d4ae4217#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T03:42:00+00:00"
-    },
-    {
       "titel": "Verkehrsminister will Flüsse wegen niedriger Pegel ausbauen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-verkehrsminister-niedrigwasser-fluesse-100.html",
       "quelle": "Tagesschau",
@@ -101,36 +131,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-gericht-boston-li.3523200",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T02:31:19+00:00"
-    },
-    {
-      "titel": "Anthropic führt Wasserzeichen bei KI-Texten ein",
-      "link": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T00:26:47+00:00"
-    },
-    {
-      "titel": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T22:29:29+00:00"
-    },
-    {
-      "titel": "US-Militär beschießt Tanker im Golf von Oman",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-hormus-us-beschuss-tanker-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T22:09:02+00:00"
-    },
-    {
-      "titel": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T19:26:29+00:00"
-    },
-    {
-      "titel": "Kolumbien ruft nach Erdbeben Notstand aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T19:11:42+00:00"
     },
     {
       "titel": "Kolumne „Schön doof“: Echt jetzt?",
@@ -163,10 +163,10 @@
       "veroeffentlicht": "2026-08-11T14:24:32+00:00"
     },
     {
-      "titel": "Hitzewelle: Bilger: Niedrigwasser-Probleme wohl im gesamten August",
-      "link": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-waldbraende-trockenheit-rhein-bilger-li.3522772",
+      "titel": "Gerd Anthoff zum Achtzigsten: Ehre dem Ekelpaket",
+      "link": "https://www.sueddeutsche.de/kultur/gerd-anthoff-geburtstag-80-schauspieler-li.3528201",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:54:00+00:00"
+      "veroeffentlicht": "2026-08-11T14:06:21+00:00"
     }
   ]
 }
