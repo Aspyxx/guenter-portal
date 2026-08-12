@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-12T16:38:09+00:00",
+  "aktualisiert": "2026-08-12T17:43:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Liveblog: ++ Totale Sonnenfinsternis beginnt in Sibirien ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T17:24:15+00:00"
+    },
+    {
+      "titel": "Matthias Lilienthal über das »Volksbad«: »Die Duschen sind aktuell nicht funktionsfähig«",
+      "link": "https://www.spiegel.de/kultur/matthias-lilienthal-ueber-das-volksbad-die-duschen-sind-aktuell-nicht-funktionsfaehig-a-ded14f3e-4f65-4562-b046-2262203bbd4e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T17:02:00+00:00"
+    },
+    {
+      "titel": "»The End of Oak Street«: Anne Hathaway und Ewan McGregor im Dino-Chaos",
+      "link": "https://www.spiegel.de/kultur/the-end-of-oak-street-anne-hathaway-und-ewan-mcgregor-im-dino-chaos-a-5bea8cbf-c4f4-47e6-adeb-90f05f0ded9a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:57:00+00:00"
+    },
+    {
+      "titel": "WNBA: »MAGA-Barbie«, Trans-Hass und »White Privilege« – wie Sophie Cunningham den US-Basketball ins Chaos stürzt",
+      "link": "https://www.spiegel.de/sport/basketball/wnba-maga-barbie-trans-hass-und-white-privilege-wie-sophie-cunningham-den-us-basketball-ins-chaos-stuerzt-a-63c442a4-b873-4df7-b615-26a5152c3d03#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:56:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Ernüchterung nach Rekordfahrt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T16:55:55+00:00"
+    },
+    {
+      "titel": "Rekord: Dieser Wagen mit Wasserstoffantrieb fährt mehr als 650 km/h",
+      "link": "https://www.spiegel.de/mobilitaet/rekord-dieser-wagen-mit-wasserstoffantrieb-faehrt-mehr-als-650-km-h-a-9f8a0586-6ba7-4829-a4b6-ba9f381f4a4b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:55:00+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis heute im Livestream: Sehen Sie, wie es plötzlich dunkel wird",
+      "link": "https://www.spiegel.de/panorama/sonnenfinsternis-heute-im-livestream-sehen-sie-wie-es-ploetzlich-dunkel-wird-a-dcc7e8fc-440e-4524-8649-6d319af1be1a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:54:00+00:00"
+    },
+    {
+      "titel": "Niedrigwasser: Bahn bietet Hilfe mit mehr Güterzügen an",
+      "link": "https://www.tagesschau.de/inland/verkehrsminister-hitzeschutz-bahn-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T16:49:45+00:00"
+    },
+    {
+      "titel": "Ehemaliger Premier Zhu Rongji ist tot: Chinas unbequemer Modernisierer",
+      "link": "https://www.spiegel.de/ausland/ehemaliger-premier-zhu-rongji-ist-tot-chinas-unbequemer-modernisierer-a-bb29766c-cad5-43ab-91e2-4fa443414ae1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:44:00+00:00"
+    },
+    {
+      "titel": "Waldbrände in Deutschland und Europa: Wo es gerade brennt - Live-Grafiken",
+      "link": "https://www.spiegel.de/wissenschaft/waldbraende-in-deutschland-und-europa-wo-es-gerade-brennt-live-grafiken-a-bd45bb82-1912-429b-b0cf-5b5bf464a295#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T16:43:00+00:00"
+    },
     {
       "titel": "Umweltminister Schneider will Klimaanpassung zur Gemeinschaftsaufgabe machen",
       "link": "https://www.tagesschau.de/inland/schneider-hitzeschutz-100.html",
@@ -19,52 +79,16 @@
       "veroeffentlicht": "2026-08-12T16:23:00+00:00"
     },
     {
-      "titel": "Ehemaliger Premier Zhu Rongji ist tot: Chinas unbequemer Modernisierer",
-      "link": "https://www.spiegel.de/ausland/ehemaliger-premier-zhu-rongji-ist-tot-chinas-unbequemer-modernisierer-a-bb29766c-cad5-43ab-91e2-4fa443414ae1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:20:00+00:00"
-    },
-    {
       "titel": "Reit-WM: Isabell Werth und das deutsche Team gewinnen Gold in der Dressur",
       "link": "https://www.spiegel.de/sport/reit-wm-isabell-werth-und-das-deutsche-team-gewinnen-gold-in-der-dressur-a-031cf12e-4103-4179-86ab-f4f51468a72d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-12T16:15:00+00:00"
     },
     {
-      "titel": "News des Tages: Taifun in China, Erdbeben in Kolumbien und graue Autos in Deutschland",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-taifun-in-china-erdbeben-in-kolumbien-und-graue-autos-in-deutschland-a-f09b1d1c-3d96-4800-b1f3-a4d8140e19ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T15:52:00+00:00"
-    },
-    {
-      "titel": "Liveblog zur Sonnenfinsternis: ++ Alaska macht den Anfang ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T15:51:05+00:00"
-    },
-    {
-      "titel": "Los Angeles Lakers wechseln offenbar für 12 Milliarden Dollar den Besitzer",
-      "link": "https://www.spiegel.de/sport/basketball/los-angeles-lakers-wechseln-offenbar-fuer-12-milliarden-dollar-den-besitzer-a-b25d0166-c30f-4b6f-96cd-4526ccb868a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T15:38:00+00:00"
-    },
-    {
       "titel": "Nürnberg: Automaten-Supermärkte bleiben an Feiertagen nachts zu",
       "link": "https://www.sueddeutsche.de/bayern/nuernberg-automaten-supermaerkte-bayerischer-verwaltungsgerichtshof-eilantrag-feiertage-li.3530565",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T15:29:26+00:00"
-    },
-    {
-      "titel": "Israel: Steffen Seibert kritisiert israelische Siedlungspolitik scharf",
-      "link": "https://www.spiegel.de/politik/deutschland/israel-steffen-seibert-kritisiert-israelische-siedlungspolitik-scharf-a-0b29a1db-1183-4925-8a9e-70ec70ad7a25#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T15:29:00+00:00"
-    },
-    {
-      "titel": "Wie Rechtsextreme mit der Parole »Volksverräter« Stimmung machen",
-      "link": "https://www.spiegel.de/geschichte/rueckkehr-des-verratsbegriffs-ein-toxisches-erbe-a-dc61580b-eaa7-4235-86bb-9dd626644840#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T15:23:00+00:00"
     },
     {
       "titel": "Die Sonnenfinsternis im Livestream",
@@ -83,12 +107,6 @@
       "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-schutzbrillen-optiker-schlange-li.3530526",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T15:12:38+00:00"
-    },
-    {
-      "titel": "Mark Zuckerberg: Schauspieler Jeremy Strong will Sympathien für Meta-Chef wecken",
-      "link": "https://www.spiegel.de/kultur/kino/mark-zuckerberg-schauspieler-jeremy-strong-will-sympathien-fuer-meta-chef-wecken-a-d4fd6ab2-916d-4053-aa3e-103a69c50e0f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T15:11:00+00:00"
     },
     {
       "titel": "USA: US-Medien: Konkrete Bedrohung Grund für Trumps heimlichen Flugzeugwechsel",
@@ -121,12 +139,6 @@
       "veroeffentlicht": "2026-08-12T14:47:43+00:00"
     },
     {
-      "titel": "USA: Moderater Demokrat David Crowley gewinnt Vorwahl in Wisconsin",
-      "link": "https://www.spiegel.de/ausland/usa-moderater-demokrat-david-crowley-gewinnt-vorwahl-in-wisconsin-a-c24f8f7c-2b0c-46de-8314-e3fb6d2493a6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:46:00+00:00"
-    },
-    {
       "titel": "US-Präsident Trump bestätigt heimlichen Flugzeugwechsel in Ankara",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-airforce-one-100.html",
       "quelle": "Tagesschau",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-soeldner-afrika-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T13:22:34+00:00"
-    },
-    {
-      "titel": "Scharfe Kritik an Reform der Kinder- und Jugendhilfe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-reform-kinder-und-jugendhilfe-assistenz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T12:59:19+00:00"
-    },
-    {
-      "titel": "Tote und Vermisste bei Bootsunglück auf Kariba-Stausee in Simbabwe",
-      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-bootsunglueck-tote-vermisste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T12:44:45+00:00"
     }
   ]
 }
