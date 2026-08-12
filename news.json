@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-12T18:40:31+00:00",
+  "aktualisiert": "2026-08-12T19:49:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,46 @@
   },
   "meldungen": [
     {
-      "titel": "Mecklenburg-Vorpommern: Streit um Ausladung von CDU und Linken aus TV-Runde",
-      "link": "https://www.spiegel.de/politik/mecklenburg-vorpommern-streit-um-ausladung-von-cdu-und-linken-aus-tv-runde-a-4b18aaad-f077-4d59-9baa-b4317e811e55#ref=rss",
+      "titel": "WHO kritisiert Donald Trumps Dekret zu Kinderimpfungen scharf",
+      "link": "https://www.spiegel.de/ausland/who-kritisiert-donald-trumps-dekret-zu-kinderimpfungen-scharf-a-77119f42-3774-4d74-8932-753ce084767f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T18:35:00+00:00"
+      "veroeffentlicht": "2026-08-12T19:36:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Bündnispläne bei AfD-Sieg - Was wirklich hinter Sahra Wagenknechts Taktik steckt",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-buendnisplaene-bei-afd-sieg-was-wirklich-hinter-sahra-wagenknechts-taktik-steckt-a-fc15c203-78f5-4941-be39-8f9ee1ed1cd3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T19:19:00+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis: Die schönsten Bilder des Abends",
+      "link": "https://www.spiegel.de/panorama/sonnenfinsternis-die-schoensten-bilder-des-abends-a-e71c821f-41b9-4771-894c-6dc16a1ea362#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T19:05:00+00:00"
     },
     {
       "titel": "Liveblog: ++ Totale Sonnenfinsternis beginnt in Sibirien ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T18:31:50+00:00"
+      "veroeffentlicht": "2026-08-12T18:54:39+00:00"
+    },
+    {
+      "titel": "Donald Trump wegen Premium-Zugangs zu Truth Social verklagt",
+      "link": "https://www.spiegel.de/ausland/donald-trump-wegen-premium-zugangs-zu-truth-social-verklagt-a-ee77b6ae-b386-433f-b11e-80688aa2a65d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T18:43:00+00:00"
+    },
+    {
+      "titel": "Millionen verfolgen Sonnenfinsternis über Deutschland",
+      "link": "https://www.tagesschau.de/inland/sonnenfinsternis-446.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T18:36:27+00:00"
+    },
+    {
+      "titel": "Mecklenburg-Vorpommern: Streit um Ausladung von CDU und Linken aus TV-Runde",
+      "link": "https://www.spiegel.de/politik/mecklenburg-vorpommern-streit-um-ausladung-von-cdu-und-linken-aus-tv-runde-a-4b18aaad-f077-4d59-9baa-b4317e811e55#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T18:35:00+00:00"
     },
     {
       "titel": "Eurovision Song Contest: Ausrichter kann Siegerländer als Gastgeber ausschließen",
@@ -49,34 +79,10 @@
       "veroeffentlicht": "2026-08-12T17:02:00+00:00"
     },
     {
-      "titel": "»The End of Oak Street«: Anne Hathaway und Ewan McGregor im Dino-Chaos",
-      "link": "https://www.spiegel.de/kultur/the-end-of-oak-street-anne-hathaway-und-ewan-mcgregor-im-dino-chaos-a-5bea8cbf-c4f4-47e6-adeb-90f05f0ded9a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:57:00+00:00"
-    },
-    {
-      "titel": "WNBA: »MAGA-Barbie«, Trans-Hass und »White Privilege« – wie Sophie Cunningham den US-Basketball ins Chaos stürzt",
-      "link": "https://www.spiegel.de/sport/basketball/wnba-maga-barbie-trans-hass-und-white-privilege-wie-sophie-cunningham-den-us-basketball-ins-chaos-stuerzt-a-63c442a4-b873-4df7-b615-26a5152c3d03#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:56:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Ernüchterung nach Rekordfahrt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T16:55:55+00:00"
-    },
-    {
-      "titel": "Rekord: Dieser Wagen mit Wasserstoffantrieb fährt mehr als 650 km/h",
-      "link": "https://www.spiegel.de/mobilitaet/rekord-dieser-wagen-mit-wasserstoffantrieb-faehrt-mehr-als-650-km-h-a-9f8a0586-6ba7-4829-a4b6-ba9f381f4a4b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:55:00+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis heute im Livestream: Sehen Sie, wie es plötzlich dunkel wird",
-      "link": "https://www.spiegel.de/panorama/sonnenfinsternis-heute-im-livestream-sehen-sie-wie-es-ploetzlich-dunkel-wird-a-dcc7e8fc-440e-4524-8649-6d319af1be1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:54:00+00:00"
     },
     {
       "titel": "Niedrigwasser: Bahn bietet Hilfe mit mehr Güterzügen an",
@@ -89,12 +95,6 @@
       "link": "https://www.sueddeutsche.de/bayern/nuernberg-automaten-supermaerkte-bayerischer-verwaltungsgerichtshof-eilantrag-feiertage-li.3530565",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T15:29:26+00:00"
-    },
-    {
-      "titel": "Verfolgen Sie die Sonnenfinsternis live",
-      "link": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T15:14:11+00:00"
     },
     {
       "titel": "Massen künstlicher Songs: Spotify will KI-Künstler klarer kennzeichnen",
