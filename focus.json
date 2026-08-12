@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-12T12:37:53+00:00",
+  "aktualisiert": "2026-08-12T14:10:06+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Flughafen Leipzig/Halle",
-      "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
+      "titel": "Us Inflationsdaten",
+      "link": "https://www.tagesschau.de/wirtschaft/tui-190.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 2,
-      "titel": "Tote bei gegenseitigen Angriffen in der Ukraine und in Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-noworossijsk-saporischschja-100.html",
+      "titel": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-soeldner-afrika-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "TUI macht weniger Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/tui-190.html",
+      "titel": "Liveblog zur Sonnenfinsternis: ++ \"Fast überall optimale Wetterbedingungen\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     }
   ]
 }
