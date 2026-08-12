@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-12T14:07:05+00:00",
+  "aktualisiert": "2026-08-12T15:16:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,100 @@
   },
   "meldungen": [
     {
-      "titel": "Rente: Kabinett beschließt Frühstartrente von Lars Klingbeil",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/rente-kabinett-beschliesst-fruehstartrente-von-lars-klingbeil-a-10990e16-7f7b-4327-a648-823416b95cd5#ref=rss",
+      "titel": "Die Sonnenfinsternis im Livestream",
+      "link": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T15:14:11+00:00"
+    },
+    {
+      "titel": "Massen künstlicher Songs: Spotify will KI-Künstler klarer kennzeichnen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/spotify-ki-kennzeichnung-musikstreaming-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T15:13:54+00:00"
+    },
+    {
+      "titel": "Mark Zuckerberg: Schauspieler Jeremy Strong will Sympathien für Meta-Chef wecken",
+      "link": "https://www.spiegel.de/kultur/kino/mark-zuckerberg-schauspieler-jeremy-strong-will-sympathien-fuer-meta-chef-wecken-a-d4fd6ab2-916d-4053-aa3e-103a69c50e0f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T14:00:00+00:00"
+      "veroeffentlicht": "2026-08-12T15:11:00+00:00"
+    },
+    {
+      "titel": "USA: US-Medien: Konkrete Bedrohung Grund für Trumps heimlichen Flugzeugwechsel",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-air-force-one-taeuschungsmanoever-rakete-li.3523200",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T15:05:50+00:00"
     },
     {
       "titel": "Liveblog zur Sonnenfinsternis: ++ \"Fast überall optimale Wetterbedingungen\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T13:39:48+00:00"
+      "veroeffentlicht": "2026-08-12T14:52:34+00:00"
     },
     {
-      "titel": "Afghanistan: Mehr als die Hälfte der Frauen verlässt ihr Zuhause laut UN-Bericht kaum noch",
-      "link": "https://www.spiegel.de/ausland/afghanistan-mehr-als-die-haelfte-der-frauen-verlaesst-ihr-zuhause-laut-un-bericht-kaum-noch-a-49b93204-d47a-4060-a682-b5e6db015fe9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T13:38:00+00:00"
+      "titel": "Kabinettsbeschluss: Mehr Macht für Nachrichtendienste - das ist geplant",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/befugnisse-bnd-verfassungsschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T14:52:09+00:00"
     },
     {
-      "titel": "Niedrigwasser: Thüringen, Brandenburg und Berlin lockern Lkw-Sonntagsfahrverbot",
-      "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-thueringen-brandenburg-und-berlin-lockern-lkw-sonntagsfahrverbot-a-ab3f761f-44f6-4da7-88f2-34d22709c4c1#ref=rss",
+      "titel": "USA: Moderater Demokrat gewinnt Vorwahl in Wisconsin",
+      "link": "https://www.spiegel.de/ausland/usa-moderater-demokrat-gewinnt-vorwahl-in-wisconsin-a-c24f8f7c-2b0c-46de-8314-e3fb6d2493a6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T13:36:00+00:00"
+      "veroeffentlicht": "2026-08-12T14:46:00+00:00"
     },
     {
-      "titel": "Landgericht Rostock: 264 Kilo Koks per Segeljacht nach Europa – Prozess unter Polizeischutz",
-      "link": "https://www.spiegel.de/panorama/justiz/landgericht-rostock-264-kilo-koks-per-segeljacht-nach-europa-prozess-unter-polizeischutz-a-d6d07fe3-8be7-42bc-a50e-5a0a050387d9#ref=rss",
+      "titel": "Preetz: Dreijährige in Pool ertrunken – Ermittlungen gegen Eltern",
+      "link": "https://www.spiegel.de/panorama/justiz/preetz-dreijaehrige-in-pool-ertrunken-ermittlungen-gegen-eltern-a-3deccca1-fd26-408d-8c66-005c437f6cc2#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T13:33:00+00:00"
+      "veroeffentlicht": "2026-08-12T14:44:00+00:00"
     },
     {
-      "titel": "Landwirtschaft: Dürre bringt Bauernhöfe in Not – Rufe nach Hilfe vom Staat",
-      "link": "https://www.spiegel.de/politik/deutschland/landwirtschaft-duerre-bringt-bauernhoefe-in-not-rufe-nach-hilfe-vom-staat-a-13351baa-51be-454c-af00-268862a34832#ref=rss",
+      "titel": "Fußball: Lionel Messi nimmt Abschied von Vater und deutet Karriereende an",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-lionel-messi-nimmt-abschied-von-vater-und-deutet-karriereende-an-a-09066ea1-0804-4f92-b8d6-e827b58303b6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T13:26:00+00:00"
+      "veroeffentlicht": "2026-08-12T14:43:00+00:00"
+    },
+    {
+      "titel": "Nordkorea: Kim Jong Un schickt wohl erneut Zehntausende Soldaten in die Ukraine",
+      "link": "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-schickt-wohl-erneut-zehntausende-soldaten-in-die-ukraine-a-6a4071c5-96ca-4f74-b1e8-a4ce375d4ab7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T14:41:00+00:00"
+    },
+    {
+      "titel": "Arabisches Meer: Umweltverbände warnen vor großer Ölkatastrophe vor Oman",
+      "link": "https://www.spiegel.de/wissenschaft/arabisches-meer-umweltverbaende-warnen-vor-grosser-oelkatastrophe-vor-oman-a-c94bdc75-3a66-4025-a25e-1dee9c53d14e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T14:41:00+00:00"
+    },
+    {
+      "titel": "Wuppertal: Manager soll Schmiergeld im zweistelligen Millionenbereich erhalten haben",
+      "link": "https://www.spiegel.de/panorama/justiz/wuppertal-manager-soll-schmiergeld-im-zweistelligen-millionenbereich-erhalten-haben-a-9317655a-4414-4c85-bb79-01c702769482#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T14:38:00+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis – Brille: Wie Sie jetzt noch schnell ein Exemplar bekommen (eigentlich gar nicht)",
+      "link": "https://www.spiegel.de/wirtschaft/service/sonnenfinsternis-brille-wie-sie-jetzt-noch-schnell-ein-exemplar-bekommen-eigentlich-gar-nicht-a-f284e6db-4103-4cfa-8735-fec6b8a61ee1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T14:32:00+00:00"
+    },
+    {
+      "titel": "EnBW – »He Dreiht«: Größter Offshore-Windpark in Deutschland fertiggestellt",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/enbw-he-dreiht-groesster-offshore-windpark-in-deutschland-fertiggestellt-a-9264b641-518c-4872-8b67-8f9f6c8c9e0c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T14:12:00+00:00"
+    },
+    {
+      "titel": "US-Präsident Trump bestätigt heimlichen Flugzeugwechsel in Ankara",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-airforce-one-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T14:10:07+00:00"
+    },
+    {
+      "titel": "Fifa-Präsident Gianni Infantino: Sehr viel Geld für eine Mitarbeiterin",
+      "link": "https://www.sueddeutsche.de/sport/gianni-infantino-fifa-uefa-skandal-mitarbeiterin-geldzahlung-li.3530189",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T14:05:17+00:00"
     },
     {
       "titel": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
@@ -55,34 +115,22 @@
       "veroeffentlicht": "2026-08-12T13:22:00+00:00"
     },
     {
-      "titel": "Bauchfett trotz Sport: Erhöhtes Herzrisiko auch bei Normalgewicht",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/bauchfett-trotz-sport-erhoehtes-herzrisiko-auch-bei-normalgewicht-a-b883b3e6-3f4e-4a66-8750-09fbfe304fcb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T13:16:00+00:00"
-    },
-    {
-      "titel": "Ottmar Hörl in Salzburg: 210 Mini-Mozarts gestohlen – Kunstaktion endet vorzeitig",
-      "link": "https://www.spiegel.de/kultur/ottmar-hoerl-in-salzburg-210-mini-mozarts-gestohlen-kunstaktion-endet-vorzeitig-a-b473bfb7-8dcc-44bf-93e0-8e52de6f8c5b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T13:05:00+00:00"
-    },
-    {
       "titel": "Scharfe Kritik an Reform der Kinder- und Jugendhilfe",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-reform-kinder-und-jugendhilfe-assistenz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T12:59:19+00:00"
     },
     {
-      "titel": "China: Zhu Rongji ist tot",
-      "link": "https://www.spiegel.de/ausland/china-zhu-rongji-ist-tot-a-643b0638-0d87-45e5-aac5-822d57cdd28a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T12:53:00+00:00"
-    },
-    {
       "titel": "Hybride Bedrohungen: Wer deutsche Flughäfen vor Drohnen schützen soll – und wer nicht",
-      "link": "https://www.sueddeutsche.de/politik/flughafenschutz-deutschland-drohnenabwehr-zustaendigkeiten-li.3529396",
+      "link": "https://www.sueddeutsche.de/politik/flughafenschutz-deutschland-drohnenabwehr-zustaendigkeiten-debatte-li.3529396",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T12:52:36+00:00"
+    },
+    {
+      "titel": "Volksbegehren zur Amtszeitbegrenzung: ÖDP hat bereits 12 000 Unterschriften gesammelt",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-oedp-csu-volksbegehren-unterschriften-amtszeitbegrenzung-ministerpraesident-li.3530241",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T12:47:12+00:00"
     },
     {
       "titel": "Tote und Vermisste bei Bootsunglück auf Kariba-Stausee in Simbabwe",
@@ -97,38 +145,14 @@
       "veroeffentlicht": "2026-08-12T12:41:43+00:00"
     },
     {
-      "titel": "Norwegen: Staatsfonds macht 184,3 Milliarden Dollar Gewinn – in sechs Monaten",
-      "link": "https://www.spiegel.de/wirtschaft/norwegen-staatsfonds-macht-184-3-milliarden-dollar-gewinn-in-sechs-monaten-a-bc67377d-dc6d-4ffa-8cad-293c15d72797#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T12:28:00+00:00"
-    },
-    {
-      "titel": "Tote bei gegenseitigen Angriffen in der Ukraine und in Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-noworossijsk-saporischschja-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T12:03:31+00:00"
-    },
-    {
-      "titel": "Bundesregierung will \"begleitetes Trinken\" für Jugendliche verbieten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-alkoholverbot-jugendliche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T11:52:36+00:00"
-    },
-    {
-      "titel": "Marktbericht: TUI macht weniger Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/tui-190.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T11:44:40+00:00"
-    },
-    {
-      "titel": "Regierung bringt Frühstartrente auf den Weg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsbeschluss-fruehstartrente-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T11:30:14+00:00"
+      "titel": "Schienenverkehr: Die Deutsche Bahn sanieren? Ja klar. Aber wie?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/bahn-sanierung-korridorsanierung-konzept-probleme-li.3530234",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T11:56:31+00:00"
     },
     {
       "titel": "Russland: Vielleicht lachen sie sich einfach nur kaputt über die blöden Deutschen",
-      "link": "https://www.sueddeutsche.de/meinung/berlin-spionageverdacht-krieg-ukraine-kommentar-li.3530192",
+      "link": "https://www.sueddeutsche.de/meinung/berlin-spionageverdacht-krieg-ukraine-russland-haus-kommentar-li.3530192",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T11:23:40+00:00"
     },
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/frankreich-korsika-flnc-ferienhaeuser-drohung-warnung-li.3530188",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T10:36:04+00:00"
-    },
-    {
-      "titel": "SZ-Kolumne „Bester Dinge“: Zwei Adoptivküken und ihre rührende Geschichte",
-      "link": "https://www.sueddeutsche.de/panorama/ursula-von-der-leyen-kueken-namen-gesucht-li.3530209",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T10:24:49+00:00"
-    },
-    {
-      "titel": "Luftfahrt: Die Lufthansa und ihre Piloten gehen in die Schlichtung",
-      "link": "https://www.sueddeutsche.de/wirtschaft/lufthansa-vereinigung-cockpit-ufo-schlichtung-li.3530040",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T10:24:47+00:00"
-    },
-    {
-      "titel": "Hitzewelle: Wo es in Deutschland gerade brennt",
-      "link": "https://www.sueddeutsche.de/panorama/hitze-deutschland-news-waldbraende-duerre-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T10:20:00+00:00"
-    },
-    {
-      "titel": "Leute: Diesmal stimmt es wirklich: C❤️G",
-      "link": "https://www.sueddeutsche.de/panorama/cristiano-ronaldo-georgina-rodriguez-hochzeit-portugal-eheringe-li.3530215",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T09:16:34+00:00"
     }
   ]
 }
