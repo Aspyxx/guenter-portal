@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-12T08:06:20+00:00",
+  "aktualisiert": "2026-08-12T09:32:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,106 @@
   },
   "meldungen": [
     {
+      "titel": "Wie die totale Sonnenfinsternis am 11. August 1999 Millionen begeisterte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/totale-sonnenfinsternis-1999-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T09:23:59+00:00"
+    },
+    {
+      "titel": "Leute: Diesmal stimmt es wirklich: C❤️G",
+      "link": "https://www.sueddeutsche.de/panorama/cristiano-ronaldo-georgina-rodriguez-hochzeit-portugal-eheringe-li.3530215",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T09:16:34+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: KI-designte Viren töten Kolibakterien",
+      "link": "https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-ki-designte-viren-toeten-kolibakterien-a-b1701511-d472-4557-b866-94dfb221face#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T09:16:00+00:00"
+    },
+    {
+      "titel": "Mindestens 15 Tote bei Bootsunglück auf Kariba-Stausee in Simbabwe",
+      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-bootsunglueck-tote-vermisste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T09:14:46+00:00"
+    },
+    {
+      "titel": "Produktivität: Wie wir falsche Dringlichkeit im Job hinterfragen und uns gegen Deadlines wehren",
+      "link": "https://www.spiegel.de/start/produktivitaet-wie-wir-falsche-dringlichkeit-im-job-hinterfragen-und-uns-gegen-deadlines-wehren-a-e3d42e2f-b129-4a21-9e05-8d87321237ee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T09:13:00+00:00"
+    },
+    {
+      "titel": "Medizin: Wie viel Sport ist wirklich sinnvoll?",
+      "link": "https://www.sueddeutsche.de/gesundheit/aktivitaet-who-forschung-trainingsdauer-intensitaet-li.3486970",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T09:01:12+00:00"
+    },
+    {
+      "titel": "Taron Egerton hat seit Jahren nicht mit seinem Vater gesprochen",
+      "link": "https://www.spiegel.de/panorama/leute/taron-egerton-hat-seit-jahren-nicht-mit-seinem-vater-gesprochen-a-d9842207-21e9-4b7f-b1c1-a1e7db886b3e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T08:55:00+00:00"
+    },
+    {
+      "titel": "Meta AI Glasses: HateAid stellt Strafanzeigen gegen Manager",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/meta-ai-glasses-hateaid-stellt-strafanzeigen-gegen-manager-a-87b6ba3a-47e1-4ec7-aba2-c28aafce6a5e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T08:52:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Owen Ansah gewinnt Bronze – aber darf er es auch behalten?",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-owen-ansah-bronze-verfahren-nada-li.3530080",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T08:48:40+00:00"
+    },
+    {
+      "titel": "Erdbeben in Kolumbien: Verschütteter Vater rettete Baby in seinen Armen",
+      "link": "https://www.spiegel.de/panorama/erdbeben-in-kolumbien-verschuetteter-vater-rettete-baby-in-seinen-armen-a-899399cb-78ce-4831-8f00-4d68087b7562#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T08:35:00+00:00"
+    },
+    {
+      "titel": "Rezept: Kalte Tarator-Joghurtsuppe für heiße Tage",
+      "link": "https://www.spiegel.de/effilee/rezept-kalte-tarator-joghurtsuppe-fuer-heisse-tage-a-af9eb87f-fda0-4509-9ef1-742b2b864c47#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T08:32:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Spannung vor US-Inflationsdaten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T08:26:51+00:00"
+    },
+    {
+      "titel": "Inflation durch Niedrigwasser: Ökonomen warnen vor weiter steigenden Preisen",
+      "link": "https://www.spiegel.de/wirtschaft/service/inflation-durch-niedrigwasser-oekonomen-warnen-vor-weiter-steigenden-preisen-a-2b38a6d7-8157-4bd4-8528-8c64e819b1fa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T08:26:00+00:00"
+    },
+    {
+      "titel": "Bundeswehr meldet Hunderte Drohnensichtungen in vergangenen Jahren",
+      "link": "https://www.tagesschau.de/inland/bundeswehr-drohnenueberfluege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T08:22:15+00:00"
+    },
+    {
+      "titel": "Island erwartet totale Sonnenfinsternis mit vielen Besuchern",
+      "link": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-island-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T08:17:02+00:00"
+    },
+    {
       "titel": "Sonnenfinsternis: Geeignete Standorte und notwendige Ausrüstung",
       "link": "https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-geeignete-standorte-und-notwendige-ausruestung-a-65de12ef-4caa-4dda-926f-bb324fe7a216#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-12T07:56:00+00:00"
+    },
+    {
+      "titel": "Corona-Impfskandal: Hunderte Scheinimpfungen – Strafverfahren zieht sich hin",
+      "link": "https://www.sueddeutsche.de/bayern/augsburg-prozess-corona-impfung-li.3530207",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T07:45:40+00:00"
     },
     {
       "titel": "Iran: Warum der Westen aus Trumps Nahost-Fiasko lernen muss",
@@ -19,22 +115,10 @@
       "veroeffentlicht": "2026-08-12T07:41:00+00:00"
     },
     {
-      "titel": "USA: Regierung von Donald Trump streicht Finanzierung für Operationen von Trans-Kindern",
-      "link": "https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-streicht-finanzierung-fuer-operationen-von-trans-kindern-a-beb3efaa-a4c8-4732-a1e7-d2074d347d71#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T07:37:00+00:00"
-    },
-    {
-      "titel": "TV-Kritik: Jetzt darf jeder seine Meinung sagen",
+      "titel": "TV-Kritik: „Wie?“, Ai Weiwei habe im Westen Zensur erlebt?",
       "link": "https://www.sueddeutsche.de/medien/maischberger-ai-weiwei-meinungsfreiheit-tv-kritik-ard-li.3529639",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T07:20:05+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Owen Ansah schreibt deutsche Sprintgeschichte (unter Vorbehalt)",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-owen-ansah-schreibt-deutsche-sprintgeschichte-unter-vorbehalt-a-888307b4-dc41-4ec5-b0ba-e20013cc8640#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T07:20:00+00:00"
     },
     {
       "titel": "Erdbeben in Kolumbien: Suche nach Verschütteten unter Zeitdruck",
@@ -43,28 +127,10 @@
       "veroeffentlicht": "2026-08-12T07:18:34+00:00"
     },
     {
-      "titel": "Roland Weißmann: Rechtsstreit über Ex-ORF-Chef weitet sich aus",
-      "link": "https://www.spiegel.de/kultur/roland-weissmann-rechtsstreit-um-ex-orf-chef-weitet-sich-aus-a-9ed80983-d5b5-4782-a7a0-a056eb4bb15d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T07:02:00+00:00"
-    },
-    {
       "titel": "Social-Media-Prozess in den USA gegen Meta startet",
       "link": "https://www.tagesschau.de/ausland/amerika/meta-klage-social-media-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T06:59:39+00:00"
-    },
-    {
-      "titel": "Trump behauptet, die Straße von Hormus sei unter US-Kontrolle – Ölpreis steigt",
-      "link": "https://www.spiegel.de/wirtschaft/trump-behauptet-die-strasse-von-hormus-sei-unter-us-kontrolle-oelpreis-steigt-a-c42ba252-7a18-4caa-a4ad-2b5056662d25#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T06:57:00+00:00"
-    },
-    {
-      "titel": "Sylt: Klimaaktivisten sollen Luft aus SUV-Reifen gelassen haben",
-      "link": "https://www.spiegel.de/panorama/justiz/sylt-klimaaktivisten-sollen-luft-aus-suv-reifen-gelassen-haben-a-a1e5d76f-23ea-4287-9fe0-791ec288d22f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T06:38:00+00:00"
     },
     {
       "titel": "SED-Opferbeauftragte: Schüler sollen Gedenkstätten besuchen müssen",
@@ -73,40 +139,16 @@
       "veroeffentlicht": "2026-08-12T06:36:56+00:00"
     },
     {
-      "titel": "Vor US-Daten zur Inflation: DAX bleibt nahe Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T06:30:16+00:00"
-    },
-    {
       "titel": "Reform der Nachrichtendienste stößt auf Kritik der Opposition",
       "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-kabinett-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T06:09:36+00:00"
     },
     {
-      "titel": "Indonesien: Fähre zwischen Bali und Lombok in Brand geraten",
-      "link": "https://www.spiegel.de/panorama/indonesien-faehre-zwischen-bali-und-lombok-in-brand-geraten-a-61df8a6e-478e-4e10-ba2e-d6d95faa2a95#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T06:03:00+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM in Birmingham: Hohe Preise sorgen für Kritik und halbvolle Tribünen",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-hohe-preise-sorgen-fuer-kritik-und-halbvolle-tribuenen-a-f3bd76de-4909-4f14-b3d3-0272b7fa58e0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T05:52:00+00:00"
-    },
-    {
-      "titel": "Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
-      "link": "https://www.tagesschau.de/ausland/trump-briefwahl-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T05:04:19+00:00"
-    },
-    {
-      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T04:57:17+00:00"
+      "titel": "Portugal: Abi-Prüfungen, verloren im digitalen Niemandsland",
+      "link": "https://www.sueddeutsche.de/politik/portugal-probleme-abitur-li.3529608",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T05:56:18+00:00"
     },
     {
       "titel": "Sonnenfinsternis: Wie sich Spanien auf das befürchtete Sofi-Chaos vorbereitet",
@@ -121,52 +163,10 @@
       "veroeffentlicht": "2026-08-12T04:15:00+00:00"
     },
     {
-      "titel": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T03:50:28+00:00"
-    },
-    {
-      "titel": "Neue Regeln der EU: Diese Verpackungen gibt es bald nicht mehr",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neue-regeln-eu-verpackungsverordnung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T03:47:15+00:00"
-    },
-    {
       "titel": "USA: Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-gericht-boston-li.3523200",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T02:31:19+00:00"
-    },
-    {
-      "titel": "Kolumne „Schön doof“: Echt jetzt?",
-      "link": "https://www.sueddeutsche.de/leben/donald-trump-frisur-haare-vater-fred-trump-li.3503881",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T15:32:19+00:00"
-    },
-    {
-      "titel": "Astronomisches Ereignis: Bekommt man jetzt noch Brillen für die Sonnenfinsternis?",
-      "link": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-brillen-ausverkauft-alternativen-li.3529662",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T15:03:42+00:00"
-    },
-    {
-      "titel": "Sichtung durch Mitarbeitende: Drohne am Flughafen Hannover-Langenhagen entdeckt",
-      "link": "https://www.sueddeutsche.de/panorama/drohnensichtung-flughafen-hannover-bundespolizei-li.3529925",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T14:56:12+00:00"
-    },
-    {
-      "titel": "Transfer von Bara Ndiaye: Münchens erstes Klub-Netzwerk-Talent",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-ndiaye-transfer-zugang-gambinos-netzwerk-li.3529795",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T14:42:43+00:00"
-    },
-    {
-      "titel": "Kolumne „Hin und weg“: Wahnsinn über den Wolken",
-      "link": "https://www.sueddeutsche.de/reise/flugzeug-flughafen-schlaegerei-urlaub-reise-li.3526318",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T14:24:32+00:00"
     }
   ]
 }
