@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-12T22:03:59+00:00",
+  "aktualisiert": "2026-08-12T23:02:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Fort Hood in Texas: Zwei Tote nach Absturz eines US-Militärhubschraubers",
+      "link": "https://www.spiegel.de/ausland/fort-hood-in-texas-zwei-tote-nach-absturz-eines-us-militaerhubschraubers-a-41a66f54-f1c7-4de5-90cc-1fe819eb2953#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T22:51:00+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis im Fernsehen: Es hätte spektakulär werden können",
+      "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-rtl-3sat-welt-tv-reporter-fernsehen-li.3529775",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T22:43:35+00:00"
+    },
+    {
+      "titel": "Ätna sorgt weiter für Reisechaos auf Sizilien",
+      "link": "https://www.tagesschau.de/ausland/europa/atna-ausbruch-flughafen-dicht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T22:22:33+00:00"
+    },
+    {
+      "titel": "Trumps Pressesprecherin Leavitt verlässt Weißes Haus",
+      "link": "https://www.tagesschau.de/ausland/trump-leavitt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T22:16:30+00:00"
+    },
     {
       "titel": "Mord an Rob und Michele Reiner: Sohn Nick soll seinen Eltern aufgelauert haben",
       "link": "https://www.spiegel.de/ausland/mord-an-rob-und-michele-reiner-sohn-nick-soll-seinen-eltern-aufgelauert-haben-a-30a2a683-c906-44d6-b931-cd7af9d7fd57#ref=rss",
@@ -79,12 +103,6 @@
       "veroeffentlicht": "2026-08-12T19:05:00+00:00"
     },
     {
-      "titel": "Donald Trump wegen Premium-Zugangs zu Truth Social verklagt",
-      "link": "https://www.spiegel.de/ausland/donald-trump-wegen-premium-zugangs-zu-truth-social-verklagt-a-ee77b6ae-b386-433f-b11e-80688aa2a65d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T18:43:00+00:00"
-    },
-    {
       "titel": "Millionen verfolgen Sonnenfinsternis über Deutschland",
       "link": "https://www.tagesschau.de/inland/sonnenfinsternis-446.html",
       "quelle": "Tagesschau",
@@ -133,12 +151,6 @@
       "veroeffentlicht": "2026-08-12T15:01:00+00:00"
     },
     {
-      "titel": "Kabinettsbeschluss: Mehr Macht für Nachrichtendienste - das ist geplant",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/befugnisse-bnd-verfassungsschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T14:52:09+00:00"
-    },
-    {
       "titel": "Nach Prüfung durch Kartellamt: 50+1 und die Bundesliga: Endlich alles weiter unklar",
       "link": "https://www.sueddeutsche.de/sport/50-1-fussball-bundeskartellamt-zulaessigkeit-klubs-li.3530375",
       "quelle": "Süddeutsche",
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-08-12T14:47:43+00:00"
     },
     {
-      "titel": "US-Präsident Trump bestätigt heimlichen Flugzeugwechsel in Ankara",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-airforce-one-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T14:10:07+00:00"
-    },
-    {
       "titel": "Podcast: „Auf den Punkt“: Nachrichtendienste: Bekommt Deutschland eine Geheimpolizei?",
       "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-geheimdienste-reform-verfassungsschutz-bnd-dobrindt-li.3530401",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T14:09:05+00:00"
-    },
-    {
-      "titel": "Fifa-Präsident Gianni Infantino: Sehr viel Geld für eine Mitarbeiterin",
-      "link": "https://www.sueddeutsche.de/sport/gianni-infantino-fifa-uefa-skandal-mitarbeiterin-geldzahlung-li.3530189",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T14:05:17+00:00"
     }
   ]
 }
