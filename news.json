@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-12T12:33:18+00:00",
+  "aktualisiert": "2026-08-12T14:07:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,106 @@
   },
   "meldungen": [
     {
-      "titel": "Norwegen: Staatsfonds erzielt 184 Milliarden Dollar Gewinn im Halbjahr",
-      "link": "https://www.spiegel.de/wirtschaft/norwegen-staatsfonds-erzielt-184-milliarden-dollar-gewinn-im-halbjahr-a-bc67377d-dc6d-4ffa-8cad-293c15d72797#ref=rss",
+      "titel": "Rente: Kabinett beschließt Frühstartrente von Lars Klingbeil",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/rente-kabinett-beschliesst-fruehstartrente-von-lars-klingbeil-a-10990e16-7f7b-4327-a648-823416b95cd5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T14:00:00+00:00"
+    },
+    {
+      "titel": "Liveblog zur Sonnenfinsternis: ++ \"Fast überall optimale Wetterbedingungen\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T13:39:48+00:00"
+    },
+    {
+      "titel": "Afghanistan: Mehr als die Hälfte der Frauen verlässt ihr Zuhause laut UN-Bericht kaum noch",
+      "link": "https://www.spiegel.de/ausland/afghanistan-mehr-als-die-haelfte-der-frauen-verlaesst-ihr-zuhause-laut-un-bericht-kaum-noch-a-49b93204-d47a-4060-a682-b5e6db015fe9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T13:38:00+00:00"
+    },
+    {
+      "titel": "Niedrigwasser: Thüringen, Brandenburg und Berlin lockern Lkw-Sonntagsfahrverbot",
+      "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-thueringen-brandenburg-und-berlin-lockern-lkw-sonntagsfahrverbot-a-ab3f761f-44f6-4da7-88f2-34d22709c4c1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T13:36:00+00:00"
+    },
+    {
+      "titel": "Landgericht Rostock: 264 Kilo Koks per Segeljacht nach Europa – Prozess unter Polizeischutz",
+      "link": "https://www.spiegel.de/panorama/justiz/landgericht-rostock-264-kilo-koks-per-segeljacht-nach-europa-prozess-unter-polizeischutz-a-d6d07fe3-8be7-42bc-a50e-5a0a050387d9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T13:33:00+00:00"
+    },
+    {
+      "titel": "Landwirtschaft: Dürre bringt Bauernhöfe in Not – Rufe nach Hilfe vom Staat",
+      "link": "https://www.spiegel.de/politik/deutschland/landwirtschaft-duerre-bringt-bauernhoefe-in-not-rufe-nach-hilfe-vom-staat-a-13351baa-51be-454c-af00-268862a34832#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T13:26:00+00:00"
+    },
+    {
+      "titel": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-soeldner-afrika-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T13:22:34+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis in München: „So etwas noch nie gesehen“: Die Jagd auf Sofi-Brillen",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-sonnenfinsternis-brillen-ansturm-deutsches-museum-li.3530325",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T13:22:00+00:00"
+    },
+    {
+      "titel": "Bauchfett trotz Sport: Erhöhtes Herzrisiko auch bei Normalgewicht",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/bauchfett-trotz-sport-erhoehtes-herzrisiko-auch-bei-normalgewicht-a-b883b3e6-3f4e-4a66-8750-09fbfe304fcb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T13:16:00+00:00"
+    },
+    {
+      "titel": "Ottmar Hörl in Salzburg: 210 Mini-Mozarts gestohlen – Kunstaktion endet vorzeitig",
+      "link": "https://www.spiegel.de/kultur/ottmar-hoerl-in-salzburg-210-mini-mozarts-gestohlen-kunstaktion-endet-vorzeitig-a-b473bfb7-8dcc-44bf-93e0-8e52de6f8c5b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T13:05:00+00:00"
+    },
+    {
+      "titel": "Scharfe Kritik an Reform der Kinder- und Jugendhilfe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-reform-kinder-und-jugendhilfe-assistenz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T12:59:19+00:00"
+    },
+    {
+      "titel": "China: Zhu Rongji ist tot",
+      "link": "https://www.spiegel.de/ausland/china-zhu-rongji-ist-tot-a-643b0638-0d87-45e5-aac5-822d57cdd28a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T12:53:00+00:00"
+    },
+    {
+      "titel": "Hybride Bedrohungen: Wer deutsche Flughäfen vor Drohnen schützen soll – und wer nicht",
+      "link": "https://www.sueddeutsche.de/politik/flughafenschutz-deutschland-drohnenabwehr-zustaendigkeiten-li.3529396",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T12:52:36+00:00"
+    },
+    {
+      "titel": "Tote und Vermisste bei Bootsunglück auf Kariba-Stausee in Simbabwe",
+      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-bootsunglueck-tote-vermisste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T12:44:45+00:00"
+    },
+    {
+      "titel": "Wie läuft Drohnenabwehr in anderen europäischen Ländern?",
+      "link": "https://www.tagesschau.de/ausland/europa/drohnenabwehr-europa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T12:41:43+00:00"
+    },
+    {
+      "titel": "Norwegen: Staatsfonds macht 184,3 Milliarden Dollar Gewinn – in sechs Monaten",
+      "link": "https://www.spiegel.de/wirtschaft/norwegen-staatsfonds-macht-184-3-milliarden-dollar-gewinn-in-sechs-monaten-a-bc67377d-dc6d-4ffa-8cad-293c15d72797#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-12T12:28:00+00:00"
-    },
-    {
-      "titel": "SPD in Sachsen-Anhalt: Sozialdemokraten kämpfen um Einzug in den Landtag",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-in-sachsen-anhalt-sozialdemokraten-kaempfen-um-einzug-in-den-landtag-a-b9fbca39-76a7-49de-bbf5-33d95bffbb99#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T12:23:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T12:20:00+00:00"
-    },
-    {
-      "titel": "Sizilien: Ätna-Ausbruch sorgt weiter für Probleme im Flugverkehr",
-      "link": "https://www.spiegel.de/panorama/sizilien-aetna-ausbruch-sorgt-weiter-fuer-probleme-im-flugverkehr-a-ea08efe2-1654-46c3-8d9e-8c3ddc4affc5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T12:16:00+00:00"
-    },
-    {
-      "titel": "Hotels in Deutschland: Warum Hotelzimmer plötzlich wieder günstiger werden",
-      "link": "https://www.spiegel.de/wirtschaft/hotels-in-deutschland-warum-hotelzimmer-ploetzlich-wieder-guenstiger-werden-a-be2a4f57-a1ed-4b23-94fb-ad881e4e5567#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T12:13:00+00:00"
     },
     {
       "titel": "Tote bei gegenseitigen Angriffen in der Ukraine und in Russland",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-noworossijsk-saporischschja-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T12:03:31+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis in München: „So etwas noch nie gesehen“: Die Jagd auf Sofi-Brillen",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-sonnenfinsternis-brillen-ansturm-deutsches-museum-li.3530325",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T11:55:46+00:00"
     },
     {
       "titel": "Bundesregierung will \"begleitetes Trinken\" für Jugendliche verbieten",
@@ -61,16 +121,16 @@
       "veroeffentlicht": "2026-08-12T11:44:40+00:00"
     },
     {
-      "titel": "Hunde: Wie gut sie menschliche Gefühle wirklich unterscheiden",
-      "link": "https://www.spiegel.de/wissenschaft/natur/hunde-wie-gut-sie-menschliche-gefuehle-wirklich-unterscheiden-a-5fa5d5b5-bc4d-4ca2-8eb9-c5035b73e100#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T11:43:00+00:00"
-    },
-    {
       "titel": "Regierung bringt Frühstartrente auf den Weg",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsbeschluss-fruehstartrente-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T11:30:14+00:00"
+    },
+    {
+      "titel": "Russland: Vielleicht lachen sie sich einfach nur kaputt über die blöden Deutschen",
+      "link": "https://www.sueddeutsche.de/meinung/berlin-spionageverdacht-krieg-ukraine-kommentar-li.3530192",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T11:23:40+00:00"
     },
     {
       "titel": "Syrien: Warum sich Assad nicht zwingend auf Russland verlassen kann",
@@ -79,34 +139,10 @@
       "veroeffentlicht": "2026-08-12T11:12:22+00:00"
     },
     {
-      "titel": "Suchtgefahr durch Instagram und Facebook: Mammutprozess gegen Meta beginnt in den USA",
-      "link": "https://www.spiegel.de/netzwelt/suchtgefahr-durch-instagram-und-facebook-mammutprozess-gegen-meta-beginnt-in-den-usa-a-44a722dd-e850-4250-a2ff-8484fd9c288b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T11:02:00+00:00"
-    },
-    {
-      "titel": "»Wir sind nur wegen der Sonnenfinsternis angereist«",
-      "link": "https://www.spiegel.de/panorama/wir-sind-nur-wegen-der-sonnenfinsternis-angereist-a-c4fedd5f-a6ed-4d9c-90d5-dabe07aad2dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T11:01:00+00:00"
-    },
-    {
-      "titel": "Niedersachsen - Landkreis Oldenburg: Kinder finden Weltkriegsgranate bei Schatzsuche auf Campingplatz",
-      "link": "https://www.spiegel.de/panorama/justiz/niedersachsen-landkreis-oldenburg-kinder-finden-weltkriegsgranate-bei-schatzsuche-auf-campingplatz-a-ee2ae3c5-068c-445b-b832-258345c53a41#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T10:55:00+00:00"
-    },
-    {
-      "titel": "Verkehrsminister will Flüsse wegen niedriger Pegel ausbauen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-verkehrsminister-niedrigwasser-fluesse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T10:53:57+00:00"
-    },
-    {
-      "titel": "Österreich: Wehrdienst soll länger dauern - Streit über den Zivildienst",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-reform-wehrpflicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T10:51:20+00:00"
+      "titel": "Korsika: „Fühlt euch in unserem Land nicht mehr sicher!“",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-korsika-flnc-ferienhaeuser-drohung-warnung-li.3530188",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T10:36:04+00:00"
     },
     {
       "titel": "SZ-Kolumne „Bester Dinge“: Zwei Adoptivküken und ihre rührende Geschichte",
@@ -116,7 +152,7 @@
     },
     {
       "titel": "Luftfahrt: Die Lufthansa und ihre Piloten gehen in die Schlichtung",
-      "link": "https://www.sueddeutsche.de/wirtschaft/lufthansa-vereinigung-cockpit-ufo-li.3530040",
+      "link": "https://www.sueddeutsche.de/wirtschaft/lufthansa-vereinigung-cockpit-ufo-schlichtung-li.3530040",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T10:24:47+00:00"
     },
@@ -127,46 +163,10 @@
       "veroeffentlicht": "2026-08-12T10:20:00+00:00"
     },
     {
-      "titel": "Schutz queerer Menschen im Grundgesetz - Ataman für Abstimmung im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/debatte-rechte-queerer-menschen-bundestag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T10:18:29+00:00"
-    },
-    {
-      "titel": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T09:40:07+00:00"
-    },
-    {
-      "titel": "Reform der Nachrichtendienste stößt auf Kritik der Opposition",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-kabinett-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T09:38:09+00:00"
-    },
-    {
       "titel": "Leute: Diesmal stimmt es wirklich: C❤️G",
       "link": "https://www.sueddeutsche.de/panorama/cristiano-ronaldo-georgina-rodriguez-hochzeit-portugal-eheringe-li.3530215",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T09:16:34+00:00"
-    },
-    {
-      "titel": "Medizin: Wie viel Sport ist wirklich sinnvoll?",
-      "link": "https://www.sueddeutsche.de/gesundheit/sport-gesund-minuten-dauer-who-empfehlung-li.3486970",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T09:01:12+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Owen Ansah gewinnt Bronze – aber darf er es auch behalten?",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-owen-ansah-bronze-verfahren-nada-li.3530080",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T08:48:40+00:00"
-    },
-    {
-      "titel": "Reisebuch „Dolce far niente“: Einfach mal nichts tun",
-      "link": "https://www.sueddeutsche.de/reise/bildband-dolce-far-niente-lucy-laucht-fotografie-sommer-italien-li.3525762",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T08:22:53+00:00"
     }
   ]
 }
