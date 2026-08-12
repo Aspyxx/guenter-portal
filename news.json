@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-12T02:46:06+00:00",
+  "aktualisiert": "2026-08-12T05:04:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,106 @@
   },
   "meldungen": [
     {
+      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T04:57:17+00:00"
+    },
+    {
+      "titel": "SED-Opferbeauftragte will DDR-Geschichte im Unterricht verankern",
+      "link": "https://www.spiegel.de/politik/deutschland/sed-opferbeauftragte-will-ddr-geschichte-im-unterricht-verankern-a-12228fd9-d063-47b2-8a3e-f77b6d332497#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T04:52:00+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis: Wie sich Spanien auf das befürchtete Sofi-Chaos vorbereitet",
+      "link": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-spanien-chaos-verkehr-beobachtung-li.3528129",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T04:50:00+00:00"
+    },
+    {
+      "titel": "Spanien: Flüchtlingspolitik in der Kritik - Giorgia Meloni und Mette Frederiksen in Flüchtlingsfrage vereint",
+      "link": "https://www.spiegel.de/ausland/spanien-fluechtlingspolitik-in-der-kritik-giorgia-meloni-und-mette-frederiksen-in-fluechtlingsfrage-vereint-a-1a22b533-667c-488a-9016-8214df73dd3c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T04:42:00+00:00"
+    },
+    {
+      "titel": "Online-Shopping: EU-Regelung bringt kleine Onlineshops in Existenznot",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/online-shopping-eu-regelung-bringt-kleine-onlineshops-in-existenznot-a-71b87e37-844b-4df1-8b5a-d8c50d1cb9ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T04:23:00+00:00"
+    },
+    {
+      "titel": "Bruce Lius neues Album Lunaris: Elfen beim Yin Yoga",
+      "link": "https://www.spiegel.de/kultur/musik/bruce-lius-neues-album-lunaris-elfen-beim-yin-yoga-a-d15d4774-8d3a-4939-b93f-4b3a96ef4e7a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T04:22:00+00:00"
+    },
+    {
+      "titel": "Leben mit Dyskalkulakie: Wie meine Tochter über sich hinauswuchs",
+      "link": "https://www.spiegel.de/familie/leben-mit-dyskalkulakie-wie-meine-tochter-ueber-sich-hinauswuchs-a-d5de5cfd-97ad-4801-965b-529257c8b2d6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T04:21:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Selenskij warnt vor erneuter russischer Mobilmachung",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-mobilmachung-selenskij-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T04:15:00+00:00"
+    },
+    {
+      "titel": "Catering-Wagen statt »Air Force One«? Trump bestätigt Ablenkungsmanöver des Secret Service",
+      "link": "https://www.spiegel.de/ausland/catering-wagen-statt-air-force-one-trump-bestaetigt-ablenkungsmanoever-des-secret-service-a-0d05f9da-4721-4546-bc3c-bc8557c75304#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T04:14:00+00:00"
+    },
+    {
+      "titel": "Technologieoffenheit: Warum kleinteiliges Handeln den Wandel voranbringt",
+      "link": "https://www.spiegel.de/politik/technologieoffenheit-warum-kleinteiliges-handeln-den-wandel-voranbringt-a-a4f0c32f-a3b2-40d6-b45b-8289767ba5bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T04:13:00+00:00"
+    },
+    {
+      "titel": "Autofarben »Cement« und »Graphite«: Müssen Deutschlands Straßen echt noch grauer werden?",
+      "link": "https://www.spiegel.de/kultur/autofarben-cement-und-graphite-muessen-deutschlands-strassen-echt-noch-grauer-werden-a-596982e6-2f5c-4304-b626-81caaff89f28#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T03:54:00+00:00"
+    },
+    {
+      "titel": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T03:50:28+00:00"
+    },
+    {
+      "titel": "Neue Regeln der EU: Diese Verpackungen gibt es bald nicht mehr",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neue-regeln-eu-verpackungsverordnung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T03:47:15+00:00"
+    },
+    {
+      "titel": "News: Friedrich Merz, Lars Klingbeil, BND, Mohsen Rezaee, Donald Trump, Sonnenfinsternis",
+      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-lars-klingbeil-bnd-mohsen-rezaee-donald-trump-sonnenfinsternis-a-2c7dbd33-01c6-43fc-af2f-a915d4ae4217#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T03:42:00+00:00"
+    },
+    {
+      "titel": "Verkehrsminister will Flüsse wegen niedriger Pegel ausbauen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-verkehrsminister-niedrigwasser-fluesse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T03:08:27+00:00"
+    },
+    {
       "titel": "USA: Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-gericht-boston-li.3523200",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T02:31:19+00:00"
     },
     {
-      "titel": "Leichtathletik-EM 2026: Hammerwerfer Merlin Hummel - Zu Silber meditiert",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-hammerwerfer-merlin-hummel-zu-silber-meditiert-a-eacc8fa6-97d1-46e9-b1ce-c02431c18088#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T02:14:00+00:00"
-    },
-    {
-      "titel": "Nordkorea feuert erneut ballistische Rakete ab – Anrainer warnen vor Risiken unangekündigter Tests",
-      "link": "https://www.spiegel.de/ausland/nordkorea-feuert-erneut-ballistische-rakete-ab-anrainer-warnen-vor-risiken-unangekuendigter-tests-a-5ba3adc2-79b8-4d39-b459-d9e1d4ad85b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T02:10:00+00:00"
-    },
-    {
-      "titel": "Österreich: Wanderer aus Deutschland in Tiroler Bergen tödlich verunglückt",
-      "link": "https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tiroler-bergen-toedlich-verunglueckt-a-545e1912-d8d4-4f7c-bc21-a4ae7e706bf4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T01:42:00+00:00"
-    },
-    {
-      "titel": "Cristiano Ronaldo und Georgina Rodríguez haben geheiratet",
-      "link": "https://www.spiegel.de/panorama/cristiano-ronaldo-und-georgina-rodriguez-haben-geheiratet-a-8ced52d8-162f-40a1-b7d2-04ff3f08aad1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T00:55:00+00:00"
-    },
-    {
-      "titel": "Wolodymyr Selenskyj warnt vor großer Mobilmachung in Russland",
-      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-vor-grosser-mobilmachung-in-russland-a-03b5b1cc-14af-4fd7-b027-462fd3459423#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T00:32:00+00:00"
-    },
-    {
       "titel": "Anthropic führt Wasserzeichen bei KI-Texten ein",
       "link": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T00:26:47+00:00"
-    },
-    {
-      "titel": "BSW will bei Wahl in Sachsen-Anhalt Weg für AfD-Ministerpräsidenten freimachen",
-      "link": "https://www.spiegel.de/politik/bsw-will-bei-wahl-in-sachsen-anhalt-weg-fuer-afd-ministerpraesidenten-freimachen-a-c1b1f37d-d3f3-4dce-90f9-82bf91d896b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T23:32:00+00:00"
     },
     {
       "titel": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
@@ -67,24 +121,6 @@
       "veroeffentlicht": "2026-08-11T22:09:02+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Sprinter Owen Ansah gewinnt EM-Bronze über 100 Meter",
-      "link": "https://www.spiegel.de/sport/leichtathletik-em-sprinter-owen-ansah-gewinnt-em-bronze-ueber-100-meter-a-86fd74c7-fca6-4562-b16f-296708429e4d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T21:11:00+00:00"
-    },
-    {
-      "titel": "Spotify: Plattform will KI-generierte Nutzerprofile kennzeichnen",
-      "link": "https://www.spiegel.de/netzwelt/spotify-plattform-will-ki-generierte-nutzerprofile-kennzeichnen-a-368c2b03-6409-4660-a708-1f011fa8abc5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T20:45:00+00:00"
-    },
-    {
-      "titel": "Schlagerstar: Warum Matthias Reim 35.000 Euro Steuern nachzahlen musste",
-      "link": "https://www.spiegel.de/panorama/schlagerstar-warum-matthias-reim-35-000-euro-steuern-nachzahlen-musste-a-633fc98b-9256-4dd9-ba40-8c0aebd92ebe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T20:23:00+00:00"
-    },
-    {
       "titel": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
       "quelle": "Tagesschau",
@@ -95,30 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T19:11:42+00:00"
-    },
-    {
-      "titel": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T19:07:28+00:00"
-    },
-    {
-      "titel": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T18:20:43+00:00"
-    },
-    {
-      "titel": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T17:58:05+00:00"
-    },
-    {
-      "titel": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
-      "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T17:00:56+00:00"
     },
     {
       "titel": "Kolumne „Schön doof“: Echt jetzt?",
@@ -139,6 +151,12 @@
       "veroeffentlicht": "2026-08-11T14:56:12+00:00"
     },
     {
+      "titel": "Transfer von Bara Ndiaye: Münchens erstes Klub-Netzwerk-Talent",
+      "link": "https://www.sueddeutsche.de/sport/ndiaye-bayern-zugang-gambinos-li.3529795",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-11T14:42:43+00:00"
+    },
+    {
       "titel": "Kolumne „Hin und weg“: Wahnsinn über den Wolken",
       "link": "https://www.sueddeutsche.de/reise/flugzeug-flughafen-schlaegerei-urlaub-reise-li.3526318",
       "quelle": "Süddeutsche",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-waldbraende-trockenheit-rhein-bilger-li.3522772",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-11T13:54:00+00:00"
-    },
-    {
-      "titel": "Hitze in Deutschland: Die größte Lüge des Sommers ist, dass wir alle gleich schwitzen",
-      "link": "https://www.sueddeutsche.de/leben/hitze-deutschland-staedte-belastung-mieter-armut-wohnung-li.3511479",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:46:28+00:00"
-    },
-    {
-      "titel": "Streit über Parkplätze und Baugenehmigungen: „Patriotisches Kulturzentrum“ in Weilheim: Gericht lehnt AfD-Eilanträge ab",
-      "link": "https://www.sueddeutsche.de/bayern/afd-versammlungsverbot-weilheim-gericht-li.3529756",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:41:32+00:00"
-    },
-    {
-      "titel": "Fifa: Im Fall Infantino steckt eine Gefahr für Donald Trump",
-      "link": "https://www.sueddeutsche.de/sport/fifa-investoren-plaene-wm-infantino-trump-fussball-folgen-li.3529888",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T13:36:14+00:00"
     }
   ]
 }
