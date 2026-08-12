@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-12T17:24:21+00:00",
+  "aktualisiert": "2026-08-12T18:12:55+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Sonnenfinsternis Mallorca",
+      "titel": "Swr Sonnenfinsternis",
+      "link": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
+      "titel": "Ernüchterung nach Rekordfahrt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "US-Präsident Trump bestätigt heimlichen Flugzeugwechsel in Ankara",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-airforce-one-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Bahn bietet Hilfe mit mehr Güterzügen an",
-      "link": "https://www.tagesschau.de/inland/verkehrsminister-hitzeschutz-bahn-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
