@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-12T06:49:46+00:00",
+  "aktualisiert": "2026-08-12T08:07:39+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Claude Wasserzeichen",
+      "link": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "DAX bleibt nahe Rekordhoch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
-      "rang": 2,
-      "titel": "Schüler sollen Gedenkstätten besuchen müssen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gedenkstaetten-ddr-mauerbau-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
+      "titel": "Suche nach Verschütteten unter Zeitdruck",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-katastrophenschutz-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
