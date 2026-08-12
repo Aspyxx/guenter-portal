@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-12T17:43:55+00:00",
+  "aktualisiert": "2026-08-12T18:40:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,40 @@
   },
   "meldungen": [
     {
+      "titel": "Mecklenburg-Vorpommern: Streit um Ausladung von CDU und Linken aus TV-Runde",
+      "link": "https://www.spiegel.de/politik/mecklenburg-vorpommern-streit-um-ausladung-von-cdu-und-linken-aus-tv-runde-a-4b18aaad-f077-4d59-9baa-b4317e811e55#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T18:35:00+00:00"
+    },
+    {
       "titel": "Liveblog: ++ Totale Sonnenfinsternis beginnt in Sibirien ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T17:24:15+00:00"
+      "veroeffentlicht": "2026-08-12T18:31:50+00:00"
+    },
+    {
+      "titel": "Eurovision Song Contest: Ausrichter kann Siegerländer als Gastgeber ausschließen",
+      "link": "https://www.spiegel.de/panorama/esc-eurovision-song-contest-darf-nicht-in-konfliktlaendern-stattfinden-a-c71479d8-1aa4-4f7c-94b8-c60a13d1ff7a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T18:18:00+00:00"
+    },
+    {
+      "titel": "Rechtsextremismus: Kinderzimmer-Nazis – immer jünger, immer radikaler - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/justiz/rechtsextremismus-kinderzimmer-nazis-immer-juenger-immer-radikaler-spiegel-tv-a-3cf2030d-bc61-4a6b-971a-8a520186337a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T17:56:00+00:00"
+    },
+    {
+      "titel": "Reform der Geheimdienste: Mehr Macht für BND und Verfassungsschutz, mehr Aufsicht",
+      "link": "https://www.spiegel.de/politik/reform-der-geheimdienste-mehr-macht-fuer-bnd-und-verfassungsschutz-mehr-aufsicht-a-683b51e2-315f-4feb-9bb6-ff2316edfcee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T17:55:00+00:00"
+    },
+    {
+      "titel": "Umweltminister Schneider will Klimaanpassung zur Gemeinschaftsaufgabe machen",
+      "link": "https://www.tagesschau.de/inland/schneider-hitzeschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T17:46:21+00:00"
     },
     {
       "titel": "Matthias Lilienthal über das »Volksbad«: »Die Duschen sind aktuell nicht funktionsfähig«",
@@ -55,43 +85,13 @@
       "veroeffentlicht": "2026-08-12T16:49:45+00:00"
     },
     {
-      "titel": "Ehemaliger Premier Zhu Rongji ist tot: Chinas unbequemer Modernisierer",
-      "link": "https://www.spiegel.de/ausland/ehemaliger-premier-zhu-rongji-ist-tot-chinas-unbequemer-modernisierer-a-bb29766c-cad5-43ab-91e2-4fa443414ae1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:44:00+00:00"
-    },
-    {
-      "titel": "Waldbrände in Deutschland und Europa: Wo es gerade brennt - Live-Grafiken",
-      "link": "https://www.spiegel.de/wissenschaft/waldbraende-in-deutschland-und-europa-wo-es-gerade-brennt-live-grafiken-a-bd45bb82-1912-429b-b0cf-5b5bf464a295#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:43:00+00:00"
-    },
-    {
-      "titel": "Umweltminister Schneider will Klimaanpassung zur Gemeinschaftsaufgabe machen",
-      "link": "https://www.tagesschau.de/inland/schneider-hitzeschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T16:31:20+00:00"
-    },
-    {
-      "titel": "Hessen: Spaziergänger findet qualmende Phosphorgranate am Rheinufer",
-      "link": "https://www.spiegel.de/panorama/hessen-spaziergaenger-findet-qualmende-phosphorgranate-am-rheinufer-a-d9b74f00-0440-4fea-a632-c292aabefbff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:23:00+00:00"
-    },
-    {
-      "titel": "Reit-WM: Isabell Werth und das deutsche Team gewinnen Gold in der Dressur",
-      "link": "https://www.spiegel.de/sport/reit-wm-isabell-werth-und-das-deutsche-team-gewinnen-gold-in-der-dressur-a-031cf12e-4103-4179-86ab-f4f51468a72d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T16:15:00+00:00"
-    },
-    {
       "titel": "Nürnberg: Automaten-Supermärkte bleiben an Feiertagen nachts zu",
       "link": "https://www.sueddeutsche.de/bayern/nuernberg-automaten-supermaerkte-bayerischer-verwaltungsgerichtshof-eilantrag-feiertage-li.3530565",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T15:29:26+00:00"
     },
     {
-      "titel": "Die Sonnenfinsternis im Livestream",
+      "titel": "Verfolgen Sie die Sonnenfinsternis live",
       "link": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T15:14:11+00:00"
