@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-12T21:04:49+00:00",
+  "aktualisiert": "2026-08-12T22:03:59+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mord an Rob und Michele Reiner: Sohn Nick soll seinen Eltern aufgelauert haben",
+      "link": "https://www.spiegel.de/ausland/mord-an-rob-und-michele-reiner-sohn-nick-soll-seinen-eltern-aufgelauert-haben-a-30a2a683-c906-44d6-b931-cd7af9d7fd57#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T21:53:00+00:00"
+    },
     {
       "titel": "Fußball: Spanier Xavi Hernández wird neuer Trainer der Niederländer",
       "link": "https://www.spiegel.de/sport/fussball/fussball-spanier-xavi-hernandez-wird-neuer-trainer-der-niederlaender-a-8af4f44d-1c80-4aed-b6f5-cafaed6276f1#ref=rss",
@@ -83,12 +89,6 @@
       "link": "https://www.tagesschau.de/inland/sonnenfinsternis-446.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T18:36:27+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern: Streit um Ausladung von CDU und Linken aus TV-Runde",
-      "link": "https://www.spiegel.de/politik/mecklenburg-vorpommern-streit-um-ausladung-von-cdu-und-linken-aus-tv-runde-a-4b18aaad-f077-4d59-9baa-b4317e811e55#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T18:35:00+00:00"
     },
     {
       "titel": "Umweltminister Schneider will Klimaanpassung zur Gemeinschaftsaufgabe machen",
