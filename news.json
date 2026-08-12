@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-12T23:02:37+00:00",
+  "aktualisiert": "2026-08-12T23:59:25+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: ICE-Agenten sollen Elektroschock-Handschuhe bekommen",
+      "link": "https://www.spiegel.de/ausland/usa-ice-agenten-sollen-elektroschock-handschuhe-bekommen-a-b0f736fb-89aa-44b6-9556-e5621935573d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T23:10:00+00:00"
+    },
     {
       "titel": "Fort Hood in Texas: Zwei Tote nach Absturz eines US-Militärhubschraubers",
       "link": "https://www.spiegel.de/ausland/fort-hood-in-texas-zwei-tote-nach-absturz-eines-us-militaerhubschraubers-a-41a66f54-f1c7-4de5-90cc-1fe819eb2953#ref=rss",
@@ -95,12 +101,6 @@
       "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-buendnisplaene-bei-afd-sieg-was-wirklich-hinter-sahra-wagenknechts-taktik-steckt-a-fc15c203-78f5-4941-be39-8f9ee1ed1cd3#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-12T19:19:00+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis: Die schönsten Bilder des Abends",
-      "link": "https://www.spiegel.de/panorama/sonnenfinsternis-die-schoensten-bilder-des-abends-a-e71c821f-41b9-4771-894c-6dc16a1ea362#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T19:05:00+00:00"
     },
     {
       "titel": "Millionen verfolgen Sonnenfinsternis über Deutschland",
