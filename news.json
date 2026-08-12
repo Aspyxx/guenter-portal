@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-12T11:34:52+00:00",
+  "aktualisiert": "2026-08-12T12:33:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,76 @@
   },
   "meldungen": [
     {
+      "titel": "Norwegen: Staatsfonds erzielt 184 Milliarden Dollar Gewinn im Halbjahr",
+      "link": "https://www.spiegel.de/wirtschaft/norwegen-staatsfonds-erzielt-184-milliarden-dollar-gewinn-im-halbjahr-a-bc67377d-dc6d-4ffa-8cad-293c15d72797#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T12:28:00+00:00"
+    },
+    {
+      "titel": "SPD in Sachsen-Anhalt: Sozialdemokraten kämpfen um Einzug in den Landtag",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-in-sachsen-anhalt-sozialdemokraten-kaempfen-um-einzug-in-den-landtag-a-b9fbca39-76a7-49de-bbf5-33d95bffbb99#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T12:23:00+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T12:20:00+00:00"
+    },
+    {
+      "titel": "Sizilien: Ätna-Ausbruch sorgt weiter für Probleme im Flugverkehr",
+      "link": "https://www.spiegel.de/panorama/sizilien-aetna-ausbruch-sorgt-weiter-fuer-probleme-im-flugverkehr-a-ea08efe2-1654-46c3-8d9e-8c3ddc4affc5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T12:16:00+00:00"
+    },
+    {
+      "titel": "Hotels in Deutschland: Warum Hotelzimmer plötzlich wieder günstiger werden",
+      "link": "https://www.spiegel.de/wirtschaft/hotels-in-deutschland-warum-hotelzimmer-ploetzlich-wieder-guenstiger-werden-a-be2a4f57-a1ed-4b23-94fb-ad881e4e5567#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T12:13:00+00:00"
+    },
+    {
+      "titel": "Tote bei gegenseitigen Angriffen in der Ukraine und in Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-noworossijsk-saporischschja-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T12:03:31+00:00"
+    },
+    {
       "titel": "Sonnenfinsternis in München: „So etwas noch nie gesehen“: Die Jagd auf Sofi-Brillen",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-sonnenfinsternis-brillen-ansturm-deutsches-museum-li.3530325",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T11:32:10+00:00"
+      "veroeffentlicht": "2026-08-12T11:55:46+00:00"
+    },
+    {
+      "titel": "Bundesregierung will \"begleitetes Trinken\" für Jugendliche verbieten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-alkoholverbot-jugendliche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T11:52:36+00:00"
+    },
+    {
+      "titel": "Marktbericht: TUI macht weniger Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/tui-190.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T11:44:40+00:00"
+    },
+    {
+      "titel": "Hunde: Wie gut sie menschliche Gefühle wirklich unterscheiden",
+      "link": "https://www.spiegel.de/wissenschaft/natur/hunde-wie-gut-sie-menschliche-gefuehle-wirklich-unterscheiden-a-5fa5d5b5-bc4d-4ca2-8eb9-c5035b73e100#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T11:43:00+00:00"
     },
     {
       "titel": "Regierung bringt Frühstartrente auf den Weg",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsbeschluss-fruehstartrente-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T11:30:14+00:00"
+    },
+    {
+      "titel": "Syrien: Warum sich Assad nicht zwingend auf Russland verlassen kann",
+      "link": "https://www.sueddeutsche.de/politik/syrien-todesurteil-assad-folgen-moskau-li.3529913",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T11:12:22+00:00"
     },
     {
       "titel": "Suchtgefahr durch Instagram und Facebook: Mammutprozess gegen Meta beginnt in den USA",
@@ -49,16 +109,10 @@
       "veroeffentlicht": "2026-08-12T10:51:20+00:00"
     },
     {
-      "titel": "Bafög: Kabinett beschließt Erhöhung für Studierende und Schülerinnen",
-      "link": "https://www.spiegel.de/start/bafoeg-kabinett-beschliesst-erhoehung-fuer-studierende-und-schuelerinnen-a-c5ce4bdb-631d-48ed-86d3-b06c92f74b5a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T10:40:00+00:00"
-    },
-    {
-      "titel": "Deutschland: Umfrage zeigt positives, aber machtloses Image in arabischen Ländern",
-      "link": "https://www.spiegel.de/politik/deutschland/deutschland-umfrage-zeigt-positives-aber-machtloses-image-in-arabischen-laendern-a-b2d89a0d-39d4-4d7f-8adb-03d7aee345a4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T10:29:00+00:00"
+      "titel": "SZ-Kolumne „Bester Dinge“: Zwei Adoptivküken und ihre rührende Geschichte",
+      "link": "https://www.sueddeutsche.de/panorama/ursula-von-der-leyen-kueken-namen-gesucht-li.3530209",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T10:24:49+00:00"
     },
     {
       "titel": "Luftfahrt: Die Lufthansa und ihre Piloten gehen in die Schlichtung",
@@ -67,27 +121,9 @@
       "veroeffentlicht": "2026-08-12T10:24:47+00:00"
     },
     {
-      "titel": "Nordsee: Bund fördert Aufgabe von 19 Fischereibetrieben mit Millionenbetrag",
-      "link": "https://www.spiegel.de/wirtschaft/nordsee-bund-foerdert-aufgabe-von-19-fischereibetrieben-mit-millionenbetrag-a-906474bf-657f-4c07-a036-973db8cf85ca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T10:24:00+00:00"
-    },
-    {
-      "titel": "Kabinett beschließt Alkoholverbot für unter 16-Jährige",
-      "link": "https://www.spiegel.de/politik/deutschland/kabinett-beschliesst-alkoholverbot-fuer-unter-16-jaehrige-a-401d4cac-0b12-4336-8260-3c2bad0fcf4d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T10:22:00+00:00"
-    },
-    {
       "titel": "Hitzewelle: Wo es in Deutschland gerade brennt",
-      "link": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-waldbraende-trockenheit-li.3522772",
+      "link": "https://www.sueddeutsche.de/panorama/hitze-deutschland-news-waldbraende-duerre-li.3522772",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T10:20:00+00:00"
-    },
-    {
-      "titel": "Schule: Jedes zehnte Kind ist laut RKI-Studie beim Schulstart übergewichtig",
-      "link": "https://www.spiegel.de/panorama/bildung/schule-jedes-zehnte-kind-ist-laut-rki-studie-beim-schulstart-uebergewichtig-a-8541b406-0a05-4232-97ce-e8afcacd316a#ref=rss",
-      "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-12T10:20:00+00:00"
     },
     {
@@ -95,12 +131,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/debatte-rechte-queerer-menschen-bundestag-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T10:18:29+00:00"
-    },
-    {
-      "titel": "BND: Geheimdienst soll Spione künftig aktiv verfolgen und bekämpfen dürfen",
-      "link": "https://www.spiegel.de/politik/deutschland/bnd-geheimdienst-soll-spione-kuenftig-aktiv-verfolgen-und-bekaempfen-duerfen-a-7f831f3e-6717-4b31-90db-d008c91cf49a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T10:13:00+00:00"
     },
     {
       "titel": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
@@ -115,22 +145,10 @@
       "veroeffentlicht": "2026-08-12T09:38:09+00:00"
     },
     {
-      "titel": "Wie die totale Sonnenfinsternis am 11. August 1999 Millionen begeisterte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/totale-sonnenfinsternis-1999-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T09:23:59+00:00"
-    },
-    {
       "titel": "Leute: Diesmal stimmt es wirklich: C❤️G",
       "link": "https://www.sueddeutsche.de/panorama/cristiano-ronaldo-georgina-rodriguez-hochzeit-portugal-eheringe-li.3530215",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T09:16:34+00:00"
-    },
-    {
-      "titel": "Tote und Vermisste bei Bootsunglück auf Kariba-Stausee in Simbabwe",
-      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-bootsunglueck-tote-vermisste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T09:14:46+00:00"
     },
     {
       "titel": "Medizin: Wie viel Sport ist wirklich sinnvoll?",
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-08-12T08:48:40+00:00"
     },
     {
-      "titel": "Marktbericht: Spannung vor US-Inflationsdaten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T08:26:51+00:00"
-    },
-    {
-      "titel": "Corona-Impfskandal: Hunderte Scheinimpfungen – Strafverfahren zieht sich hin",
-      "link": "https://www.sueddeutsche.de/bayern/augsburg-prozess-corona-impfung-li.3530207",
+      "titel": "Reisebuch „Dolce far niente“: Einfach mal nichts tun",
+      "link": "https://www.sueddeutsche.de/reise/bildband-dolce-far-niente-lucy-laucht-fotografie-sommer-italien-li.3525762",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T07:45:40+00:00"
-    },
-    {
-      "titel": "TV-Kritik: „Wie?“, Ai Weiwei habe im Westen Zensur erlebt?",
-      "link": "https://www.sueddeutsche.de/medien/maischberger-tv-kritik-ai-weiwei-meinungsfreiheit-tilman-kuban-li.3529639",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T07:20:05+00:00"
-    },
-    {
-      "titel": "Portugal: Abi-Prüfungen, verloren im digitalen Niemandsland",
-      "link": "https://www.sueddeutsche.de/politik/portugal-probleme-abitur-li.3529608",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T05:56:18+00:00"
+      "veroeffentlicht": "2026-08-12T08:22:53+00:00"
     }
   ]
 }
