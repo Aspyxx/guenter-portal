@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-12T00:01:05+00:00",
+  "aktualisiert": "2026-08-12T02:46:06+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-gericht-boston-li.3523200",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T02:31:19+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM 2026: Hammerwerfer Merlin Hummel - Zu Silber meditiert",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-2026-hammerwerfer-merlin-hummel-zu-silber-meditiert-a-eacc8fa6-97d1-46e9-b1ce-c02431c18088#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T02:14:00+00:00"
+    },
+    {
+      "titel": "Nordkorea feuert erneut ballistische Rakete ab – Anrainer warnen vor Risiken unangekündigter Tests",
+      "link": "https://www.spiegel.de/ausland/nordkorea-feuert-erneut-ballistische-rakete-ab-anrainer-warnen-vor-risiken-unangekuendigter-tests-a-5ba3adc2-79b8-4d39-b459-d9e1d4ad85b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T02:10:00+00:00"
+    },
+    {
+      "titel": "Österreich: Wanderer aus Deutschland in Tiroler Bergen tödlich verunglückt",
+      "link": "https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tiroler-bergen-toedlich-verunglueckt-a-545e1912-d8d4-4f7c-bc21-a4ae7e706bf4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T01:42:00+00:00"
+    },
+    {
+      "titel": "Cristiano Ronaldo und Georgina Rodríguez haben geheiratet",
+      "link": "https://www.spiegel.de/panorama/cristiano-ronaldo-und-georgina-rodriguez-haben-geheiratet-a-8ced52d8-162f-40a1-b7d2-04ff3f08aad1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T00:55:00+00:00"
+    },
+    {
+      "titel": "Wolodymyr Selenskyj warnt vor großer Mobilmachung in Russland",
+      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-vor-grosser-mobilmachung-in-russland-a-03b5b1cc-14af-4fd7-b027-462fd3459423#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T00:32:00+00:00"
+    },
+    {
+      "titel": "Anthropic führt Wasserzeichen bei KI-Texten ein",
+      "link": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T00:26:47+00:00"
+    },
     {
       "titel": "BSW will bei Wahl in Sachsen-Anhalt Weg für AfD-Ministerpräsidenten freimachen",
       "link": "https://www.spiegel.de/politik/bsw-will-bei-wahl-in-sachsen-anhalt-weg-fuer-afd-ministerpraesidenten-freimachen-a-c1b1f37d-d3f3-4dce-90f9-82bf91d896b0#ref=rss",
@@ -43,34 +85,10 @@
       "veroeffentlicht": "2026-08-11T20:23:00+00:00"
     },
     {
-      "titel": "Jemen – Huthis: Sechs Tote nach Angriff auf Frachter in der Meerenge Bab el-Mandeb",
-      "link": "https://www.spiegel.de/ausland/jemen-huthis-sechs-tote-nach-angriff-auf-frachter-in-der-meerenge-bab-el-mandeb-a-f54b7517-7d86-4c7d-b7fc-15e4ac327bfa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T20:21:00+00:00"
-    },
-    {
-      "titel": "Iran/Straße von Hormus: US-Militär greift Frachtschiff mit Raketen an",
-      "link": "https://www.spiegel.de/ausland/iran-strasse-von-hormus-us-militaer-greift-frachtschiff-mit-raketen-an-a-fea3a6ad-8f57-479e-a177-974d93268b4d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T20:14:00+00:00"
-    },
-    {
-      "titel": "Schwimm-EM: Isabel Gose und Maya Werner gewinnen Silber und Bronze über 800 Meter Freistil",
-      "link": "https://www.spiegel.de/sport/schwimm-em-isabel-gose-und-maya-werner-gewinnen-silber-und-bronze-ueber-800-meter-freistil-a-cb9ef78d-5df9-424f-907c-a5f5d53a64a2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T19:31:00+00:00"
-    },
-    {
       "titel": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T19:26:29+00:00"
-    },
-    {
-      "titel": "Robert Gilman: Ehemaliger US-Marine aus russischer Haft entlassen",
-      "link": "https://www.spiegel.de/ausland/robert-gilman-ehemaliger-us-marine-aus-russischer-haft-entlassen-a-2003c162-3db3-44c0-837a-b0b1f243e1cf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T19:16:00+00:00"
     },
     {
       "titel": "Kolumbien ruft nach Erdbeben Notstand aus",
@@ -85,12 +103,6 @@
       "veroeffentlicht": "2026-08-11T19:07:28+00:00"
     },
     {
-      "titel": "China: Taifun »Dolphin«, Starkregen und die Folgen des Klimawandels",
-      "link": "https://www.spiegel.de/ausland/china-taifun-dolphin-starkregen-und-die-folgen-des-klimawandels-a-19c44e1b-7eaf-4d91-9745-caa80c5f701a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-11T18:57:00+00:00"
-    },
-    {
       "titel": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
       "quelle": "Tagesschau",
@@ -103,22 +115,10 @@
       "veroeffentlicht": "2026-08-11T17:58:05+00:00"
     },
     {
-      "titel": "USA: Russland lässt inhaftierten ehemaligen US-Soldaten frei",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-gilman-putin-us-soldat-li.3523200",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-11T17:41:51+00:00"
-    },
-    {
       "titel": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
       "link": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-11T17:00:56+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX erreicht neue Höhen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-11T16:15:59+00:00"
     },
     {
       "titel": "Kolumne „Schön doof“: Echt jetzt?",
