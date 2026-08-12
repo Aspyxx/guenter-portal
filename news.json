@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-12T10:43:44+00:00",
+  "aktualisiert": "2026-08-12T11:34:52+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Sonnenfinsternis in München: „So etwas noch nie gesehen“: Die Jagd auf Sofi-Brillen",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-sonnenfinsternis-brillen-ansturm-deutsches-museum-li.3530325",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T11:32:10+00:00"
+    },
+    {
+      "titel": "Regierung bringt Frühstartrente auf den Weg",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsbeschluss-fruehstartrente-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T11:30:14+00:00"
+    },
+    {
+      "titel": "Suchtgefahr durch Instagram und Facebook: Mammutprozess gegen Meta beginnt in den USA",
+      "link": "https://www.spiegel.de/netzwelt/suchtgefahr-durch-instagram-und-facebook-mammutprozess-gegen-meta-beginnt-in-den-usa-a-44a722dd-e850-4250-a2ff-8484fd9c288b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T11:02:00+00:00"
+    },
+    {
+      "titel": "»Wir sind nur wegen der Sonnenfinsternis angereist«",
+      "link": "https://www.spiegel.de/panorama/wir-sind-nur-wegen-der-sonnenfinsternis-angereist-a-c4fedd5f-a6ed-4d9c-90d5-dabe07aad2dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T11:01:00+00:00"
+    },
+    {
+      "titel": "Niedersachsen - Landkreis Oldenburg: Kinder finden Weltkriegsgranate bei Schatzsuche auf Campingplatz",
+      "link": "https://www.spiegel.de/panorama/justiz/niedersachsen-landkreis-oldenburg-kinder-finden-weltkriegsgranate-bei-schatzsuche-auf-campingplatz-a-ee2ae3c5-068c-445b-b832-258345c53a41#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-12T10:55:00+00:00"
+    },
+    {
+      "titel": "Verkehrsminister will Flüsse wegen niedriger Pegel ausbauen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-verkehrsminister-niedrigwasser-fluesse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T10:53:57+00:00"
+    },
+    {
+      "titel": "Österreich: Wehrdienst soll länger dauern - Streit über den Zivildienst",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-reform-wehrpflicht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-12T10:51:20+00:00"
+    },
     {
       "titel": "Bafög: Kabinett beschließt Erhöhung für Studierende und Schülerinnen",
       "link": "https://www.spiegel.de/start/bafoeg-kabinett-beschliesst-erhoehung-fuer-studierende-und-schuelerinnen-a-c5ce4bdb-631d-48ed-86d3-b06c92f74b5a#ref=rss",
@@ -17,6 +59,12 @@
       "link": "https://www.spiegel.de/politik/deutschland/deutschland-umfrage-zeigt-positives-aber-machtloses-image-in-arabischen-laendern-a-b2d89a0d-39d4-4d7f-8adb-03d7aee345a4#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-12T10:29:00+00:00"
+    },
+    {
+      "titel": "Luftfahrt: Die Lufthansa und ihre Piloten gehen in die Schlichtung",
+      "link": "https://www.sueddeutsche.de/wirtschaft/lufthansa-vereinigung-cockpit-ufo-li.3530040",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-12T10:24:47+00:00"
     },
     {
       "titel": "Nordsee: Bund fördert Aufgabe von 19 Fischereibetrieben mit Millionenbetrag",
@@ -55,24 +103,6 @@
       "veroeffentlicht": "2026-08-12T10:13:00+00:00"
     },
     {
-      "titel": "Arbeitszeit-Auswertung: Jüngere arbeiten weniger, Ältere legen bei Stunden zu",
-      "link": "https://www.spiegel.de/wirtschaft/arbeitszeit-auswertung-juengere-arbeiten-weniger-aeltere-legen-bei-stunden-zu-a-6639891f-d527-4c9c-afd0-db91a7c89f1c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T10:03:00+00:00"
-    },
-    {
-      "titel": "John Oliver: Gastauftritt in »Days of Our Lives« erfüllt Seifenoperträume",
-      "link": "https://www.spiegel.de/kultur/tv/john-oliver-gastauftritt-in-days-of-our-lives-erfuellt-seifenopertraeume-a-78add3dc-d267-400c-b822-1043eb2a4623#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T09:58:00+00:00"
-    },
-    {
-      "titel": "Deutschland statt Silicon Valley: Warum ein Gründerteam nach München zurückkehrt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutschland-statt-silicon-valley-warum-ein-gruenderteam-nach-muenchen-zurueckkehrt-a-77b241fd-7233-41ae-ab91-1b5fd62b8488#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T09:49:00+00:00"
-    },
-    {
       "titel": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html",
       "quelle": "Tagesschau",
@@ -97,7 +127,7 @@
       "veroeffentlicht": "2026-08-12T09:16:34+00:00"
     },
     {
-      "titel": "Mindestens 15 Tote bei Bootsunglück auf Kariba-Stausee in Simbabwe",
+      "titel": "Tote und Vermisste bei Bootsunglück auf Kariba-Stausee in Simbabwe",
       "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-bootsunglueck-tote-vermisste-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T09:14:46+00:00"
@@ -121,18 +151,6 @@
       "veroeffentlicht": "2026-08-12T08:26:51+00:00"
     },
     {
-      "titel": "Bundeswehr meldet Hunderte Drohnensichtungen in vergangenen Jahren",
-      "link": "https://www.tagesschau.de/inland/bundeswehr-drohnenueberfluege-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T08:22:15+00:00"
-    },
-    {
-      "titel": "Island erwartet totale Sonnenfinsternis mit vielen Besuchern",
-      "link": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-island-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T08:17:02+00:00"
-    },
-    {
       "titel": "Corona-Impfskandal: Hunderte Scheinimpfungen – Strafverfahren zieht sich hin",
       "link": "https://www.sueddeutsche.de/bayern/augsburg-prozess-corona-impfung-li.3530207",
       "quelle": "Süddeutsche",
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-08-12T07:20:05+00:00"
     },
     {
-      "titel": "Erdbeben in Kolumbien: Suche nach Verschütteten unter Zeitdruck",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-katastrophenschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T07:18:34+00:00"
-    },
-    {
       "titel": "Portugal: Abi-Prüfungen, verloren im digitalen Niemandsland",
       "link": "https://www.sueddeutsche.de/politik/portugal-probleme-abitur-li.3529608",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T05:56:18+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis: Wie sich Spanien auf das befürchtete Sofi-Chaos vorbereitet",
-      "link": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-spanien-chaos-verkehr-beobachtung-li.3528129",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T04:50:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Selenskij warnt vor erneuter russischer Mobilmachung",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-mobilmachung-selenskij-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T04:15:00+00:00"
     }
   ]
 }
