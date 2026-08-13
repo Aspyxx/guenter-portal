@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-12T23:59:25+00:00",
+  "aktualisiert": "2026-08-13T02:49:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Perseiden-Sternschnuppen: Kaum ist die Sonnenfinsternis vorbei, beginnt das nächste Himmelsspektakel",
+      "link": "https://www.spiegel.de/wissenschaft/perseiden-sternschnuppen-kaum-ist-die-sonnenfinsternis-vorbei-beginnt-das-naechste-himmelsspektakel-a-b2d892c3-4255-4d12-9d8d-3cfab29d5ffa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T02:33:00+00:00"
+    },
+    {
+      "titel": "Karoline Leavitt geht – Donald Trump braucht ein neues Sprachrohr",
+      "link": "https://www.spiegel.de/ausland/karoline-leavitt-geht-donald-trump-braucht-ein-neues-sprachrohr-a-80515ed2-e583-4af8-b8dc-a0f943e720a4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T02:32:00+00:00"
+    },
+    {
+      "titel": "Tschechiens Regierung plant strenge Handyregeln an Schulen",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-handynutzung-schule-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T01:47:02+00:00"
+    },
+    {
+      "titel": "Darmparasit Cyclospora breitet sich in den USA aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/parasit-eisbergsalat-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T01:46:58+00:00"
+    },
+    {
+      "titel": "Travis Kelce spricht erstmals über Hochzeit mit Taylor Swift: »Verrückte Nacht«",
+      "link": "https://www.spiegel.de/panorama/travis-kelce-spricht-erstmals-ueber-hochzeit-mit-taylor-swift-verrueckte-nacht-a-e687ffd0-d714-418b-a5a7-192751adcbc0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T00:50:00+00:00"
+    },
+    {
+      "titel": "MDR-Wahlarena »Fakt ist«: Echte Bürger stellen echte Fragen – und die Politiker weichen aus",
+      "link": "https://www.spiegel.de/kultur/mdr-wahlarena-fakt-ist-echte-buerger-stellen-echte-fragen-und-die-politiker-weichen-aus-a-1b9b205f-6439-46eb-a5dd-957681c6a08b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T00:39:00+00:00"
+    },
     {
       "titel": "USA: ICE-Agenten sollen Elektroschock-Handschuhe bekommen",
       "link": "https://www.spiegel.de/ausland/usa-ice-agenten-sollen-elektroschock-handschuhe-bekommen-a-b0f736fb-89aa-44b6-9556-e5621935573d#ref=rss",
@@ -61,18 +97,6 @@
       "veroeffentlicht": "2026-08-12T20:17:27+00:00"
     },
     {
-      "titel": "Sonnenfinsternis: So erlebten Millionen Menschen das Himmelsereignis",
-      "link": "https://www.spiegel.de/panorama/sonnenfinsternis-so-erlebten-millionen-menschen-das-himmelsereignis-a-50e573a8-84be-4623-b281-8f351cb3e941#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T20:05:00+00:00"
-    },
-    {
-      "titel": "Schwimm-EM in Paris: Johannes Liebmann holt Gold mit Europarekord über 800 Meter",
-      "link": "https://www.spiegel.de/sport/schwimm-em-in-paris-johannes-liebmann-holt-gold-mit-europarekord-ueber-800-meter-a-97dc4994-15b5-410b-b82c-804bb81e8992#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T20:03:00+00:00"
-    },
-    {
       "titel": "Elftal: Xavi Hernández trainiert die Niederlande",
       "link": "https://www.sueddeutsche.de/sport/xavi-hernandez-trainer-fussballnationalmannschaft-li.3530626",
       "quelle": "Süddeutsche",
@@ -89,18 +113,6 @@
       "link": "https://www.tagesschau.de/ausland/ebola-838.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T19:49:46+00:00"
-    },
-    {
-      "titel": "WHO kritisiert Donald Trumps Dekret zu Kinderimpfungen scharf",
-      "link": "https://www.spiegel.de/ausland/who-kritisiert-donald-trumps-dekret-zu-kinderimpfungen-scharf-a-77119f42-3774-4d74-8932-753ce084767f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T19:36:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Bündnispläne bei AfD-Sieg - Was wirklich hinter Sahra Wagenknechts Taktik steckt",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-buendnisplaene-bei-afd-sieg-was-wirklich-hinter-sahra-wagenknechts-taktik-steckt-a-fc15c203-78f5-4941-be39-8f9ee1ed1cd3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T19:19:00+00:00"
     },
     {
       "titel": "Millionen verfolgen Sonnenfinsternis über Deutschland",
@@ -121,22 +133,10 @@
       "veroeffentlicht": "2026-08-12T16:55:55+00:00"
     },
     {
-      "titel": "Niedrigwasser: Bahn bietet Hilfe mit mehr Güterzügen an",
-      "link": "https://www.tagesschau.de/inland/verkehrsminister-hitzeschutz-bahn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T16:49:45+00:00"
-    },
-    {
       "titel": "Nürnberg: Automaten-Supermärkte bleiben an Feiertagen nachts zu",
       "link": "https://www.sueddeutsche.de/bayern/nuernberg-automaten-supermaerkte-bayerischer-verwaltungsgerichtshof-eilantrag-feiertage-li.3530565",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T15:29:26+00:00"
-    },
-    {
-      "titel": "Massen künstlicher Songs: Spotify will KI-Künstler klarer kennzeichnen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/spotify-ki-kennzeichnung-musikstreaming-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T15:13:54+00:00"
     },
     {
       "titel": "Sonnenfinsternis: „Typisch Deutschland. Eine Sache passiert, alle rasten aus“",
