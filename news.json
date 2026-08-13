@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-13T06:47:12+00:00",
+  "aktualisiert": "2026-08-13T08:45:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,7 +7,67 @@
   },
   "meldungen": [
     {
-      "titel": "Supercup: Paris Saint-Germain holt Titel gegen Aston Villa – Khvicha Kvaratskhelia und Désiré Doué treffen",
+      "titel": "Hitze in Deutschland: Zahl der Hitzetoten laut RKI auf 12.500 gestiegen",
+      "link": "https://www.spiegel.de/gesundheit/hitze-in-deutschland-zahl-der-hitzetoten-laut-rki-auf-12-500-gestiegen-a-6e83a5e8-7f40-42da-bbd3-d4fd6e57b70f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T08:35:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX-Rekordserie könnte sich fortsetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T08:27:01+00:00"
+    },
+    {
+      "titel": "Kindeswohlgefährdungen in Deutschland erreichen Höchststand",
+      "link": "https://www.spiegel.de/panorama/kindeswohlgefaehrdungen-in-deutschland-erreichen-hoechststand-a-6499486d-c8fa-4349-9cd3-b54bef9f665f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T08:17:00+00:00"
+    },
+    {
+      "titel": "Rattengift in Babynahrung: Wie der mutmaßliche Hipp-Erpresser ausgeforscht wurde",
+      "link": "https://www.spiegel.de/panorama/rattengift-in-babynahrung-wie-der-mutmassliche-hipp-erpresser-ausgeforscht-wurde-a-56db98a5-180a-4fcf-8baf-83c3a01edce3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T07:55:00+00:00"
+    },
+    {
+      "titel": "Pete Hegseth: US-Verteidigungsminister kündigt gemeinsame Militäreinsätze mit Kolumbien an",
+      "link": "https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-kuendigt-gemeinsame-militaereinsaetze-mit-kolumbien-an-a-fe51a316-6b8f-4b87-8836-f0a6fda50e57#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T07:39:00+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn stattet weiteres Personal an Bahnhöfen mit Bodycams aus",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/bahn-stattet-weiteres-personal-an-bahnhoefen-mit-bodycams-aus-a-dfcdfbbe-7075-480f-a94c-8583515d86ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T07:25:00+00:00"
+    },
+    {
+      "titel": "Roman »Kaskaden« von Louise K. Böhm: Kann man eine Freundschaft je hinter sich lassen?",
+      "link": "https://www.spiegel.de/kultur/literatur/roman-kaskaden-von-louise-k-boehm-kann-man-eine-freundschaft-je-hinter-sich-lassen-a-e170aa37-9afd-4a56-ab76-bec873cd06ff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T07:20:00+00:00"
+    },
+    {
+      "titel": "Flughafen Leipzig/Halle: Sprengstoffdrohne legt deutsche Verwundbarkeit offen",
+      "link": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-halle-sprengstoffdrohne-legt-deutsche-verwundbarkeit-offen-a-1c0b9b3c-2e40-4334-84e4-4bea44287013#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T07:15:00+00:00"
+    },
+    {
+      "titel": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
+      "link": "https://www.tagesschau.de/ausland/asien/russland-kurilen-inseln-putin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T07:09:07+00:00"
+    },
+    {
+      "titel": "Uefa-Supercup: Omar Artan pfeift – und die Fifa-Opposition berät sich",
+      "link": "https://www.sueddeutsche.de/sport/supercup-psg-schiedsrichter-artan-uefa-ceferin-fifa-li.3530482",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T06:43:54+00:00"
+    },
+    {
+      "titel": "Supercup: Paris Saint-Germain holt Titel gegen Aston Villa",
       "link": "https://www.spiegel.de/sport/fussball/supercup-paris-saint-germain-holt-titel-gegen-aston-villa-khvicha-kvaratskhelia-und-desire-doue-treffen-a-c74e0a27-d2cf-490c-9f04-58cdadd37882#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-13T06:39:00+00:00"
@@ -31,28 +91,16 @@
       "veroeffentlicht": "2026-08-13T06:26:00+00:00"
     },
     {
-      "titel": "Russland-Ukraine-Krieg: Kyjiw greift Schwarzmeerküste und Krim mit Drohnen an",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-greift-schwarzmeerkueste-und-krim-mit-drohnen-an-a-445f9045-f5e1-4340-8387-fea998356806#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T06:13:00+00:00"
+      "titel": "Übernahme von Athora: Wenn die Lebensversicherung den Besitzer wechselt",
+      "link": "https://www.sueddeutsche.de/wirtschaft/lebensversicherung-abwicklung-frankfurter-leben-athora-fusion-folgen-kunden-li.3530426",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T06:19:17+00:00"
     },
     {
       "titel": "Trump-Sprecherin Leavitt - die oberste Influencerin des Weißen Hauses geht",
       "link": "https://www.tagesschau.de/ausland/amerika/leavitt-ruecktritt-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T06:05:33+00:00"
-    },
-    {
-      "titel": "Donau-Niedrigwasser: Rumänien will einziges AKW Cernavodă herunterfahren",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/donau-niedrigwasser-rumaenien-will-einziges-akw-cernavoda-herunterfahren-a-a667b5bd-f36d-4e6f-9465-83baad280c92#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T05:46:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Anleger trauen sich zurück in den Markt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T05:36:04+00:00"
     },
     {
       "titel": "Vor 65 Jahren: Berlin erinnert an den Mauerbau",
@@ -67,22 +115,16 @@
       "veroeffentlicht": "2026-08-13T05:16:40+00:00"
     },
     {
-      "titel": "Wetter in Deutschland: Es wird wieder richtig heiß – bis zu 37 Grad erwartet",
-      "link": "https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-wieder-richtig-heiss-bis-zu-37-grad-erwartet-a-e4e25b50-828f-4c59-ac71-09ee6c106d2b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T05:16:00+00:00"
+      "titel": "Architektur: „In dem Gebäude kann man in drei Dimensionen erleben, wie Habermas gedacht hat“",
+      "link": "https://www.sueddeutsche.de/kultur/starnberg-wonhaus-juergen-habermas-denkmalschutz-architektur-gruende-li.3529865",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T05:01:56+00:00"
     },
     {
       "titel": "USA: Leavitt hört auf – aber einen Bruch mit Trump scheint es nicht zu geben",
-      "link": "https://www.sueddeutsche.de/politik/usa-karoline-leavitt-trump-ruecktritt-weisses-haus-li.3530664",
+      "link": "https://www.sueddeutsche.de/politik/usa-karoline-leavitt-weisses-haus-sprecherin-trump-ruecktritt-li.3530664",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T04:50:11+00:00"
-    },
-    {
-      "titel": "Berufseinstieg als Segellehrerin: Segelschule statt Olympia",
-      "link": "https://www.spiegel.de/start/berufseinstieg-als-segellehrerin-segelschule-statt-olympia-a-fd78bfc1-4849-4c47-b11e-2cb7922348f9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T04:48:00+00:00"
     },
     {
       "titel": "Sambia vor der Wahl: Kupfer, Reformen und hohe Preise",
@@ -97,40 +139,16 @@
       "veroeffentlicht": "2026-08-13T04:39:42+00:00"
     },
     {
-      "titel": "Sonnenfinsternis: Wo Laien und Experten zusammen staunen",
-      "link": "https://www.sueddeutsche.de/muenchen/sonnenfinsternis-muenchen-beobachtung-erlebnisse-dachterrasse-li.3526936",
+      "titel": "Sonnenfinsternis in München: Plötzlich meldet Herr Vorbrugg: „Ich sehe ersten Kontakt!“",
+      "link": "https://www.sueddeutsche.de/muenchen/sonnenfinsternis-muenchen-dachterrasse-gasteig-beobachtung-erlebnisse-reportage-li.3526936",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T04:23:52+00:00"
-    },
-    {
-      "titel": "Maximilian Krah: Haftbefehl gegen AfD-Politiker im Streit mit Jan Böhmermann",
-      "link": "https://www.spiegel.de/politik/maximilian-krah-haftbefehl-gegen-afd-politiker-im-streit-mit-jan-boehmermann-a-6f408c3e-ff83-4e16-aacd-4213f84fbb0b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T04:12:00+00:00"
-    },
-    {
-      "titel": "Beste Feinde Musk und Trump: Ein riesiger Fabrikneubau als Signal ans Weiße Haus",
-      "link": "https://www.spiegel.de/kultur/beste-feinde-musk-und-trump-ein-riesiger-fabrikneubau-als-signal-ans-weisse-haus-a-f4cbdc24-2ede-4916-86b2-a7065f962058#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T04:08:00+00:00"
     },
     {
       "titel": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T04:00:09+00:00"
-    },
-    {
-      "titel": "News: Mehr Rechte für Geheimdienste, AfD-Wahlkampf in Sachsen-Anhalt, Nigel Farage gegen das Mülleimergesicht",
-      "link": "https://www.spiegel.de/politik/deutschland/news-mehr-rechte-fuer-geheimdienste-afd-wahlkampf-in-sachsen-anhalt-nigel-farage-gegen-das-muelleimergesicht-a-8c5d5085-51ad-4457-b695-b2d5a3cb94bd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T03:47:00+00:00"
-    },
-    {
-      "titel": "Tschechiens Regierung plant strenge Handyregeln an Schulen",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-handynutzung-schule-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T01:47:02+00:00"
     },
     {
       "titel": "USA: US-Behörde ICE plant Kauf von Elektroschock-Handschuhen",
@@ -146,27 +164,9 @@
     },
     {
       "titel": "Sonnenfinsternis im Fernsehen: Es hätte spektakulär werden können",
-      "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-rtl-3sat-welt-tv-reporter-fernsehen-li.3529775",
+      "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-2026-live-tv-rtl-3sat-welt-reporter-fernsehen-li.3529775",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T22:43:35+00:00"
-    },
-    {
-      "titel": "Elftal: Xavi Hernández trainiert die Niederlande",
-      "link": "https://www.sueddeutsche.de/sport/xavi-hernandez-trainer-fussballnationalmannschaft-li.3530626",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T20:02:54+00:00"
-    },
-    {
-      "titel": "USA: Trump: Sprecherin Leavitt hört auf",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-leavitt-sprecherin-air-force-one-taeuschungsmanoever-rakete-li.3523200",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T19:57:00+00:00"
-    },
-    {
-      "titel": "Nürnberg: Automaten-Supermärkte bleiben an Feiertagen nachts zu",
-      "link": "https://www.sueddeutsche.de/bayern/nuernberg-automaten-supermaerkte-bayerischer-verwaltungsgerichtshof-eilantrag-feiertage-li.3530565",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T15:29:26+00:00"
     }
   ]
 }
