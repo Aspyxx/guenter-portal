@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-13T16:37:24+00:00",
+  "aktualisiert": "2026-08-13T17:44:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Türkei: Feuer auf Ausflugsboot – mehrere Verletzte",
+      "link": "https://www.spiegel.de/panorama/tuerkei-feuer-auf-ausflugsboot-mehrere-verletzte-a-3331472c-dc0a-4ace-80d0-2d6894cae368#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T17:36:00+00:00"
+    },
+    {
+      "titel": "Kanye West und JD Sports: Wie kann es sein, dass dieser Mann noch Geschäftspartner findet?",
+      "link": "https://www.spiegel.de/wirtschaft/kanye-west-und-jd-sports-wie-kann-es-sein-dass-dieser-mann-noch-geschaeftspartner-findet-a-938e813f-7d20-4817-a91c-21c19aaff72c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T17:16:00+00:00"
+    },
+    {
+      "titel": "Berlin: Volksbühne sagt Veranstaltung exklusiv für Schwarze Menschen ab",
+      "link": "https://www.spiegel.de/kultur/berlin-volksbuehne-sagt-veranstaltung-exklusiv-fuer-schwarze-menschen-ab-a-e9be79d6-816d-4e65-982e-b1b2c0115c4d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T17:13:00+00:00"
+    },
+    {
+      "titel": "KNDS: Explosion in Munitionsfabrik von deutsch-französischem Rüstungskonzern bei Rom",
+      "link": "https://www.spiegel.de/panorama/knds-explosion-in-munitionsfabrik-von-deutsch-franzoesischem-ruestungskonzern-bei-rom-a-a16fd588-7b1c-404d-9f6a-a3e76fe7e990#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T17:09:00+00:00"
+    },
+    {
+      "titel": "USA: Gericht weist Klage der Trump-Regierung gegen Harvard ab",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-harvard-antisemitismus-klage-gericht-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T17:03:51+00:00"
+    },
     {
       "titel": "Sachsen-Anhalt: CDU-Kandidat Sven Schulze, zwei Wahlplakate und ein Fauxpas",
       "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-kandidat-sven-schulze-zwei-wahlplakate-und-ein-fauxpas-a-ba1a07ac-e890-4b5f-9e16-36552038e087#ref=rss",
@@ -61,34 +91,10 @@
       "veroeffentlicht": "2026-08-13T15:22:00+00:00"
     },
     {
-      "titel": "Dänemark – Ålbæk: Seltener Riesenhai am Kattegat angeschwemmt",
-      "link": "https://www.spiegel.de/panorama/daenemark-albaek-seltener-riesenhai-am-kattegat-angeschwemmt-a-c13854b0-a281-42f5-9b3b-f09a1a20b383#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T15:14:00+00:00"
-    },
-    {
-      "titel": "Afghanistan: Taliban lassen sechs Menschenrechtler gewaltsam verschwinden",
-      "link": "https://www.spiegel.de/ausland/afghanistan-taliban-lassen-sechs-menschenrechtler-gewaltsam-verschwinden-a-e8407ae6-5bf1-458d-982f-f8598868ba03#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T15:09:00+00:00"
-    },
-    {
-      "titel": "Nicole Kidman wählt auf Ibiza zwischen zwei Optionen für den Abend – Scrabble oder Rave",
-      "link": "https://www.spiegel.de/panorama/nicole-kidman-waehlt-auf-ibiza-zwischen-zwei-optionen-fuer-den-abend-scrabble-oder-rave-a-6b1887dd-add2-49d5-9dcd-f945db717842#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T15:08:00+00:00"
-    },
-    {
       "titel": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T14:50:05+00:00"
-    },
-    {
-      "titel": "»James Webb«-Teleskop: Extrem heller Punkt könnte Schwarzes-Loch-Stern sein",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/james-webb-teleskop-extrem-heller-punkt-koennte-schwarzes-loch-stern-sein-a-3ca4c301-c922-4751-9382-b98811a9aedd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T14:45:00+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Selenskij bittet USA um fünf Prozent ihrer „Patriot“-Raketen",
@@ -139,6 +145,18 @@
       "veroeffentlicht": "2026-08-13T13:37:15+00:00"
     },
     {
+      "titel": "Autodesign: BMW – Bitte macht weniger",
+      "link": "https://www.sueddeutsche.de/kultur/bmw-muenchen-krise-autoindustrie-design-kritik-li.3529919",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T13:22:39+00:00"
+    },
+    {
+      "titel": "Nachruf: Zum Tod von Josef Deimer: Einer wie keiner",
+      "link": "https://www.sueddeutsche.de/bayern/landshut-trauer-josef-dick-deimer-landshut-nachruf-li.3530999",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T13:06:54+00:00"
+    },
+    {
       "titel": "Sportberichterstattung: Bronze für Mabry, Blech für Lufen",
       "link": "https://www.sueddeutsche.de/medien/leichtathletik-em-live-interview-claus-lufen-yemisi-mabry-kritik-li.3530764",
       "quelle": "Süddeutsche",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/afd-bsw-hoecke-wagenknecht-angebot-ministerpraesidentin-li.3530773",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T12:42:36+00:00"
-    },
-    {
-      "titel": "Hitzesommer: Wie weiterleben mit der Hitze",
-      "link": "https://www.sueddeutsche.de/politik/hitze-anpassung-klimaschutz-warnung-wissenschaftler-li.3530851",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T12:38:45+00:00"
-    },
-    {
-      "titel": "Tiermedizin: Akupunktur für eine Seekuh",
-      "link": "https://www.sueddeutsche.de/panorama/florida-tampa-zoo-akupunktur-manati-li.3530791",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T12:34:20+00:00"
-    },
-    {
-      "titel": "Klimaanlagen: Drinnen kühler, draußen wärmer",
-      "link": "https://www.sueddeutsche.de/wissen/klimaanlage-hitze-monoblock-split-stromverbrauch-schaedlich-li.3529223",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T11:54:12+00:00"
     }
   ]
 }
