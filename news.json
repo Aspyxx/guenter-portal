@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-13T17:44:09+00:00",
+  "aktualisiert": "2026-08-13T18:41:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Landkreis Leer: 27.500 fehlerhafte Stimmzettel müssen neu gedruckt werden",
+      "link": "https://www.spiegel.de/panorama/landkreis-leer-27-500-fehlerhafte-stimmzettel-muessen-neu-gedruckt-werden-a-493d1543-c753-4877-836b-1b5a25215710#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T18:28:00+00:00"
+    },
+    {
+      "titel": "Prozess um WM-Katar 2022: Whistleblower an Ausreise gehindert",
+      "link": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T18:16:07+00:00"
+    },
+    {
+      "titel": "Wolfram Weimer - Streit über Verlagsförderung: Bekommt er letztlich seinen Willen?",
+      "link": "https://www.spiegel.de/kultur/wolfram-weimer-streit-ueber-verlagsfoerderung-bekommt-er-letztlich-seinen-willen-a-e3f9a507-dff7-4782-b8fa-4293e9550445#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T18:07:00+00:00"
+    },
+    {
+      "titel": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T17:57:17+00:00"
+    },
     {
       "titel": "Türkei: Feuer auf Ausflugsboot – mehrere Verletzte",
       "link": "https://www.spiegel.de/panorama/tuerkei-feuer-auf-ausflugsboot-mehrere-verletzte-a-3331472c-dc0a-4ace-80d0-2d6894cae368#ref=rss",
@@ -79,18 +103,6 @@
       "veroeffentlicht": "2026-08-13T15:29:49+00:00"
     },
     {
-      "titel": "Karoline Leavitt: Angriffslustige Trump-Sprecherin beendet ihre Zeit im Weißen Haus",
-      "link": "https://www.spiegel.de/ausland/karoline-leavitt-angriffslustige-trump-sprecherin-beendet-ihre-zeit-im-weissen-haus-a-b1b73bb9-9a16-497f-b84d-e292a0eb3079#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T15:23:00+00:00"
-    },
-    {
-      "titel": "Israel: US-Botschafter Mike Huckabee nennt Siedlergewalt im Westjordanland »Terrorakt«",
-      "link": "https://www.spiegel.de/ausland/israel-us-botschafter-mike-huckabee-nennt-siedlergewalt-im-westjordanland-terrorakt-a-b532e095-6572-48a7-82c1-02fc4a8ffc1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T15:22:00+00:00"
-    },
-    {
       "titel": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
       "quelle": "Tagesschau",
@@ -127,22 +139,16 @@
       "veroeffentlicht": "2026-08-13T14:17:12+00:00"
     },
     {
+      "titel": "Streaming: Sicherheitshalber laut",
+      "link": "https://www.sueddeutsche.de/medien/serie-tip-toe-queerness-backlash-russel-t-davis-kritik-li.3524598",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T13:47:38+00:00"
+    },
+    {
       "titel": "1. FC Köln: Die große El-Mala-Frage",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-el-mala-koeln-dortmund-transfer-zweifel-li.3530532",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T13:44:22+00:00"
-    },
-    {
-      "titel": "Berliner Kältebus angezündet - Täter muss dauerhaft in Psychiatrie",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/kaeltebus-anschlag-berlin-taeter-psychiatrie-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T13:41:24+00:00"
-    },
-    {
-      "titel": "Niedrigwasser: \"Gegen fehlendes Wasser hilft keine Technik\"",
-      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wasserkraftwerk-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T13:37:15+00:00"
     },
     {
       "titel": "Autodesign: BMW – Bitte macht weniger",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/medien/leichtathletik-em-live-interview-claus-lufen-yemisi-mabry-kritik-li.3530764",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T13:05:02+00:00"
-    },
-    {
-      "titel": "BSW und AfD: Wagenknecht: „Höckes Angebot ist unehrlich“",
-      "link": "https://www.sueddeutsche.de/politik/afd-bsw-hoecke-wagenknecht-angebot-ministerpraesidentin-li.3530773",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T12:42:36+00:00"
     }
   ]
 }
