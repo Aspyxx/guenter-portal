@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-13T12:02:05+00:00",
+  "aktualisiert": "2026-08-13T13:50:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,130 @@
   },
   "meldungen": [
     {
+      "titel": "Berliner Kältebus angezündet - Täter muss dauerhaft in Psychiatrie",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/kaeltebus-anschlag-berlin-taeter-psychiatrie-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T13:41:24+00:00"
+    },
+    {
+      "titel": "Niedrigwasser: \"Gegen fehlendes Wasser hilft keine Technik\"",
+      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wasserkraftwerk-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T13:37:15+00:00"
+    },
+    {
+      "titel": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-akw-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T13:36:16+00:00"
+    },
+    {
+      "titel": "Trockenheit und Dürre: Getreideernte in Deutschland leidet stark",
+      "link": "https://www.tagesschau.de/wirtschaft/bauern-getreide-ernte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T13:20:02+00:00"
+    },
+    {
+      "titel": "Italien – Costa Smeralda: Nagelneue Millionenjacht geht vor Sardinien unter",
+      "link": "https://www.spiegel.de/panorama/italien-costa-smeralda-nagelneue-millionenjacht-geht-vor-sardinien-unter-a-6fedf91b-852e-452b-a1d2-8f03c824ef4f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T13:06:00+00:00"
+    },
+    {
+      "titel": "Sportberichterstattung: Bronze für Mabry, Blech für Lufen",
+      "link": "https://www.sueddeutsche.de/medien/leichtathletik-em-live-interview-claus-lufen-yemisi-mabry-kritik-li.3530764",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T13:05:02+00:00"
+    },
+    {
+      "titel": "Thüringen: Sahra Wagenknecht lehnt Björn Höckes Wahlangebot ab und fordert TV-Duell",
+      "link": "https://www.spiegel.de/politik/deutschland/thueringen-sahra-wagenknecht-lehnt-bjoern-hoeckes-wahlangebot-ab-und-fordert-tv-duell-a-0f31308b-75ee-4540-8f50-8f23da0b8a76#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T12:59:00+00:00"
+    },
+    {
+      "titel": "Kurilen: Wladimir Putin provoziert Japan mit Besuch auf Inselgruppe",
+      "link": "https://www.spiegel.de/ausland/kurilen-wladimir-putin-provoziert-japan-mit-besuch-auf-inselgruppe-a-a7481647-32e4-466b-8beb-252db5c30146#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T12:44:00+00:00"
+    },
+    {
+      "titel": "BSW und AfD: Wagenknecht: „Höckes Angebot ist unehrlich“",
+      "link": "https://www.sueddeutsche.de/politik/afd-bsw-hoecke-wagenknecht-angebot-ministerpraesidentin-li.3530773",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T12:42:36+00:00"
+    },
+    {
+      "titel": "Raketenstartbasis: Deutschland sucht seinen Weg ins All",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/raketen-bundeswehr-startbasis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T12:40:16+00:00"
+    },
+    {
+      "titel": "Hitzesommer: Mit der Anpassung an den Klimawandel ist es nicht getan",
+      "link": "https://www.sueddeutsche.de/politik/hitze-anpassung-klimaschutz-warnung-wissenschaftler-li.3530851",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T12:38:45+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: UN: Juli war tödlichster Monat für Zivilisten in der Ukraine seit Jahren",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-un-tote-zivilisten-russland-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T12:35:34+00:00"
+    },
+    {
+      "titel": "Tiermedizin: Akupunktur für eine Seekuh",
+      "link": "https://www.sueddeutsche.de/panorama/florida-tampa-zoo-akupunktur-manati-li.3530791",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T12:34:20+00:00"
+    },
+    {
+      "titel": "Studie: Soviel verdienten DAX-Vorstände 2025",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/gehalt-dax-vorstaende-dsw-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T12:28:08+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T12:28:00+00:00"
+    },
+    {
+      "titel": "Dürre: Warum ein Biolandwirt in Süddeutschland Tiere schlachten muss",
+      "link": "https://www.spiegel.de/wirtschaft/duerre-warum-ein-biolandwirt-in-sueddeutschland-tiere-schlachten-muss-a-c9e9b709-ef6a-4ad0-a2c5-93d24e89b444#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T12:24:00+00:00"
+    },
+    {
+      "titel": "Treuchtlingen: Polizei gibt Entwarnung nach Sprengstoffverdacht in Bayern",
+      "link": "https://www.spiegel.de/panorama/justiz/treuchtlingen-polizei-gibt-entwarnung-nach-sprengstoffverdacht-in-bayern-a-4b7e898a-1538-47d8-989d-4e99742dc18b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T12:17:00+00:00"
+    },
+    {
       "titel": "Riesige Marienstatue in Polen soll Pilger anziehen",
       "link": "https://www.tagesschau.de/ausland/europa/polen-marienstatue-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T11:57:07+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Weitspringer Tentoglou vergisst seine Goldmedaille",
+      "titel": "Klimaanlagen: Drinnen kühler, draußen wärmer",
+      "link": "https://www.sueddeutsche.de/wissen/klimaanlage-hitze-monoblock-split-stromverbrauch-schaedlich-li.3529223",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T11:54:12+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Weitspringer Miltiadis Tentoglou vergisst seine Goldmedaille",
       "link": "https://www.spiegel.de/sport/leichtathletik-em-weitspringer-tentoglou-vergisst-seine-goldmedaille-a-a3305b7b-81db-4627-a941-26aad24552df#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-13T11:54:00+00:00"
+    },
+    {
+      "titel": "Dürre: Schweizer Wasserspende für Italiens Reisbauern",
+      "link": "https://www.sueddeutsche.de/politik/wasser-duerre-italien-schweiz-li.3530321",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T11:42:00+00:00"
     },
     {
       "titel": "Berlin: Brandanschlag auf Kältebus – 43-Jähriger muss dauerhaft in Psychiatrie",
@@ -37,136 +151,22 @@
       "veroeffentlicht": "2026-08-13T11:36:06+00:00"
     },
     {
-      "titel": "Israelische Armee fordert Palästinenser zum Verlassen ihrer Häuser auf",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-siedler-gewalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T11:35:40+00:00"
-    },
-    {
       "titel": "Autoindustrie: Lobbyverbände fordern klare Grenzen beim Zugriff auf Telemetriedaten",
       "link": "https://www.spiegel.de/mobilitaet/auto/autoindustrie-lobbyverbaende-fordern-klare-grenzen-beim-zugriff-auf-telemetriedaten-a-26825f5a-8a90-471b-8d52-af6027739c5d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-13T11:33:00+00:00"
     },
     {
-      "titel": "Pixel 11, Pixel Watch 5 und Pixel Tag: Google steckt mehr KI in die neueste Pixel-Generation – und weniger RAM",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/pixel-11-pixel-watch-5-und-pixel-tag-google-steckt-mehr-ki-in-die-neueste-pixel-generation-und-weniger-ram-a-8f65a8ef-9f6b-4fd7-b14c-a2d0860b753a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:32:00+00:00"
-    },
-    {
-      "titel": "Grönland: Trump-nahes Unternehmen Greenland Energy stößt auf bürokratische Hürden",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/groenland-trump-nahes-unternehmen-greenland-energy-stoesst-auf-buerokratische-huerden-a-71a53896-57bc-4a06-8062-eded018facc1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:29:00+00:00"
-    },
-    {
-      "titel": "Partnersuche: Laubfrösche verlieren bei zu viel Gequake den Überblick",
-      "link": "https://www.spiegel.de/wissenschaft/natur/partnersuche-laubfroesche-verlieren-bei-zu-viel-gequake-den-ueberblick-a-f48451ab-357b-47ae-9b7a-4d570c51f4f5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:22:00+00:00"
-    },
-    {
-      "titel": "Bremen: Mutter darf nach Brandanschlag auf ihre Söhne aus psychiatrischer Klinik",
-      "link": "https://www.spiegel.de/panorama/justiz/bremen-mutter-darf-nach-brandanschlag-auf-ihre-soehne-aus-psychiatrischer-klinik-a-b6371d3e-738e-4bb6-9e75-b39a67e0026c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:12:00+00:00"
-    },
-    {
-      "titel": "Köln – Dom: Mann klettert auf Kirche, Kirche zeigt ihn an",
-      "link": "https://www.spiegel.de/panorama/justiz/koeln-dom-mann-klettert-auf-kirche-kirche-zeigt-ihn-an-a-fb1cff03-9a27-443a-bc19-bb12c1c4e3e6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:12:00+00:00"
-    },
-    {
-      "titel": "Deep Purple: Gründungsmitglied Ritchie Blackmore kehrt für eine Zugabe zurück",
-      "link": "https://www.spiegel.de/kultur/musik/deep-purple-gruendungsmitglied-ritchie-blackmore-kehrt-fuer-eine-zugabe-zurueck-a-c76e3203-14eb-4060-a01a-f19582ea8ac5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:10:00+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Nicht nach Thüringen: Wagenknecht weist Höckes Idee zurück",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-hoecke-afd-wagenknecht-thueringen-sachsen-anhalt-bsw-li.3529564",
+      "titel": "Verfassungsschutz: Nie wieder eine deutsche Geheimpolizei",
+      "link": "https://www.sueddeutsche.de/politik/verfassungsschutz-reform-geheimpolizei-historie-li.3530422",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T11:04:02+00:00"
+      "veroeffentlicht": "2026-08-13T11:28:54+00:00"
     },
     {
-      "titel": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
-      "link": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T10:54:44+00:00"
-    },
-    {
-      "titel": "Schwerarbeitspension: Wie funktioniert Österreichs Rente mit 60?",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-schwerarbeitpension-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T10:23:45+00:00"
-    },
-    {
-      "titel": "Zahl der Kindeswohlgefährdungen 2025 deutlich gestiegen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kindeswohlgefaehrdung-2025-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T10:08:25+00:00"
-    },
-    {
-      "titel": "Gold bei der Reit-WM: Wenn das Pferd jedes Wort versteht",
-      "link": "https://www.sueddeutsche.de/sport/reiten-wm-aachen-dressur-gold-werth-li.3530814",
+      "titel": "Bondscoach Xavi Hernández: Barça-Fußball für die Niederlande",
+      "link": "https://www.sueddeutsche.de/sport/fussball-xavi-niederlande-trainer-bondscoach-li.3530803",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T09:55:14+00:00"
-    },
-    {
-      "titel": "SS-Verbrechen: „Mit der Komplizenschaft der italienischen Faschisten“",
-      "link": "https://www.sueddeutsche.de/politik/massaker-italien-sant-anna-di-stazzema-ss-aussenminister-li.3530742",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T09:54:45+00:00"
-    },
-    {
-      "titel": "Julia Klöckner über die Wiedervereinigung: „Was haben wir falsch gemacht?“",
-      "link": "https://www.sueddeutsche.de/politik/berlin-gedenken-jahre-mauerbau-kloeckner-ost-west-unterschiede-li.3530863",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T09:49:02+00:00"
-    },
-    {
-      "titel": "Wahlkämpfe: Na, liebe AfD, was ist euer Plan gegen Dürre und Fluten?",
-      "link": "https://www.sueddeutsche.de/meinung/afd-klimapolitik-deutschland-duerre-flut-kommentar-li.3529645",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T09:45:44+00:00"
-    },
-    {
-      "titel": "Hitze in der Schule: 30 Grad im Klassenraum – um acht Uhr morgens",
-      "link": "https://www.sueddeutsche.de/politik/schulen-hitze-deutschland-schutz-lernen-li.3529626",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T09:33:18+00:00"
-    },
-    {
-      "titel": "Großbritannien: Farages Pokerspiel mit der Nachwahl",
-      "link": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T08:55:20+00:00"
-    },
-    {
-      "titel": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T08:52:18+00:00"
-    },
-    {
-      "titel": "Dürre: Bauern müssen wegen Futtermangels notschlachten",
-      "link": "https://www.sueddeutsche.de/wirtschaft/bauern-baden-wuerttemberg-hitze-futterknappheit-notschlachtungen-li.3530767",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T08:30:10+00:00"
-    },
-    {
-      "titel": "Schwimm-EM: Der erste deutsche Europameister über 800 Meter Freistil",
-      "link": "https://www.sueddeutsche.de/sport/schwimm-em-liebmann-gold-freistil-800-m-schwarz-li.3530634",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T07:46:26+00:00"
-    },
-    {
-      "titel": "Gesundheit: Wie die Hitze im Krankenhaus zur Gefahr wird",
-      "link": "https://www.sueddeutsche.de/politik/deutschland-hitze-krankenhaeuser-gefahr-klimanlagen-sondervermoegen-li.3529298",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T07:41:15+00:00"
+      "veroeffentlicht": "2026-08-13T11:07:09+00:00"
     }
   ]
 }
