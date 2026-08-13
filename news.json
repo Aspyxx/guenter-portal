@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-13T09:50:12+00:00",
+  "aktualisiert": "2026-08-13T11:11:45+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,58 +7,100 @@
   },
   "meldungen": [
     {
-      "titel": "Treuchtlingen in Bayern: Sprengstoffverdacht an Bahnhof – Zugverkehr eingestellt",
-      "link": "https://www.spiegel.de/panorama/justiz/treuchtlingen-in-bayern-sprengstoffverdacht-an-bahnhof-zugverkehr-eingestellt-a-29534ff9-cd45-498c-b80f-d36fa8f3a2c4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:42:00+00:00"
+      "titel": "Bundespolitik: Nicht nach Thüringen: Wagenknecht weist Höckes Idee zurück",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-hoecke-afd-wagenknecht-thueringen-sachsen-anhalt-bsw-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T11:04:02+00:00"
     },
     {
-      "titel": "Ulrich Siegmund und die AfD in Sachsen-Anhalt: Der gefährlichste Mann Deutschlands",
-      "link": "https://www.spiegel.de/politik/ulrich-siegmund-und-die-afd-in-sachsen-anhalt-der-gefaehrlichste-mann-deutschlands-a-266e764d-1785-4f3a-85da-24d939148dc3#ref=rss",
+      "titel": "Türkei: Istanbuls inhaftierter Oberbürgermeister Ekrem İmamoğlu schließt sich neuer Oppositionspartei an",
+      "link": "https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-oberbuergermeister-ekrem-imamoglu-schliesst-sich-neuer-oppositionspartei-an-a-5f24be29-7fbc-40fb-9d67-f2675de6c92d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:29:00+00:00"
+      "veroeffentlicht": "2026-08-13T10:55:00+00:00"
     },
     {
-      "titel": "Rhein/Niedrigwasser: Rettet nicht die Öltanker, rettet den Rhein – Meinung",
-      "link": "https://www.spiegel.de/wissenschaft/rhein-niedrigwasser-rettet-nicht-die-oeltanker-rettet-den-rhein-meinung-a-5fb35e1d-82a5-4f0b-8a40-88bf8e27e0a6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:29:00+00:00"
+      "titel": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
+      "link": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T10:54:44+00:00"
     },
     {
-      "titel": "Homeoffice-Studie: Unternehmen erwarten dauerhaft hohes Niveau beim Arbeiten von zu Hause",
-      "link": "https://www.spiegel.de/karriere/homeoffice-studie-unternehmen-erwarten-dauerhaft-hohes-niveau-beim-arbeiten-von-zu-hause-a-de3850f2-2e44-4f4d-85dc-c7b1764b2fc5#ref=rss",
+      "titel": "Bremen: Sonnenfinsternis legt Verkehr lahm - größerer Polizeieinsatz",
+      "link": "https://www.spiegel.de/panorama/justiz/bremen-sonnenfinsternis-legt-verkehr-lahm-groesserer-polizeieinsatz-a-dc81f860-d36e-4d74-af69-4b4485b80302#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:17:00+00:00"
+      "veroeffentlicht": "2026-08-13T10:50:00+00:00"
     },
     {
-      "titel": "Berufseinstieg: Junge Menschen arbeiten deutlich häufiger in befristeten Jobs",
-      "link": "https://www.spiegel.de/start/berufseinstieg-junge-menschen-arbeiten-deutlich-haeufiger-in-befristeten-jobs-a-44d478f5-f1c3-4fe5-a615-2f40aa92284a#ref=rss",
+      "titel": "Orca-Vorfälle vor Südeuropa: Segelboote beschädigt, Wal angeschossen",
+      "link": "https://www.spiegel.de/panorama/orca-vorfaelle-vor-suedeuropa-segelboote-beschaedigt-wal-angeschossen-a-2c529efa-1e1d-43e5-b862-cb061f954faa#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:15:00+00:00"
+      "veroeffentlicht": "2026-08-13T10:49:00+00:00"
     },
     {
-      "titel": "Dürre führt laut Brancheneinschätzung zu deutlich kleinerer Getreideernte",
-      "link": "https://www.spiegel.de/wirtschaft/duerre-fuehrt-laut-brancheneinschaetzung-zu-deutlich-kleinerer-getreideernte-a-a450c260-3316-40d7-98dd-7788747dad84#ref=rss",
+      "titel": "»Matrix«-Co-Regisseurin Lilly Wachowski: Keine Finanzierung für Film mit trans Cast",
+      "link": "https://www.spiegel.de/kultur/kino/matrix-co-regisseurin-lilly-wachowski-keine-finanzierung-fuer-film-mit-trans-cast-a-fcfd7ffe-5060-4e5c-a840-9b4c1d1117b8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:13:00+00:00"
+      "veroeffentlicht": "2026-08-13T10:41:00+00:00"
     },
     {
-      "titel": "Indonesien: Brand auf Fähre vor Bali – mindestens ein Toter und fünf Vermisste",
-      "link": "https://www.spiegel.de/panorama/indonesien-brand-auf-faehre-vor-bali-mindestens-ein-toter-und-fuenf-vermisste-a-92bbae2a-3bf7-42d4-8421-228c98242f48#ref=rss",
+      "titel": "Schwarzwald: Immer mehr Spanier und Italiener verbringen ihren Urlaub im Südwesten Deutschlands",
+      "link": "https://www.spiegel.de/reise/deutschland/schwarzwald-immer-mehr-spanier-und-italiener-verbringen-ihren-urlaub-im-suedwesten-deutschlands-a-48edd1bb-ea82-4898-8d9e-fe7081990e8a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:11:00+00:00"
+      "veroeffentlicht": "2026-08-13T10:29:00+00:00"
     },
     {
-      "titel": "Eurovision Song Contest 2027: Burgas ist die nächste ESC-Gastgeberstadt",
-      "link": "https://www.spiegel.de/kultur/tv/eurovision-song-contest-2027-burgas-ist-die-naechste-esc-gastgeberstadt-a-b31ab7c5-79f5-45e7-ac33-594705272869#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:04:00+00:00"
+      "titel": "Schwerarbeitspension: Wie funktioniert Österreichs Rente mit 60?",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-schwerarbeitpension-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T10:23:45+00:00"
     },
     {
-      "titel": "Sommerferien: Ferienende in vier Ländern – wo es am Wochenende stockt",
-      "link": "https://www.spiegel.de/mobilitaet/auto/sommerferien-ferienende-in-vier-laendern-wo-es-am-wochenende-stockt-a-3ed28008-077b-450f-b869-6621c3fbbf6a#ref=rss",
+      "titel": "IT-Branche und Künstliche Intelligenz: Ist das das Ende der Programmierer?",
+      "link": "https://www.spiegel.de/start/it-branche-und-kuenstliche-intelligenz-ist-das-das-ende-der-programmierer-a-7ce4ae20-c916-4fa2-bceb-721fd05297b0#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:01:00+00:00"
+      "veroeffentlicht": "2026-08-13T10:21:00+00:00"
+    },
+    {
+      "titel": "Zahl der Kindeswohlgefährdungen 2025 deutlich gestiegen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kindeswohlgefaehrdung-2025-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T10:08:25+00:00"
+    },
+    {
+      "titel": "Rheine: 46-Jährige nach Streit erstochen – Ehemann vor Haftrichter",
+      "link": "https://www.spiegel.de/panorama/justiz/rheine-ehemann-nach-mutmasslichem-femizid-festgenommen-a-5dfc5db7-7add-4ba0-8243-bb29a31aee7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T10:04:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: US-Präsident ließ Marco Rubio und Scott Bessent offenbar in »Air Force One« zurück",
+      "link": "https://www.spiegel.de/ausland/donald-trump-us-praesident-liess-marco-rubio-und-scott-bessent-offenbar-in-air-force-one-zurueck-a-b741d43b-9632-4a2d-8e66-b81fa1ddb8b9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:58:00+00:00"
+    },
+    {
+      "titel": "SS-Verbrechen: „Mit der Komplizenschaft der italienischen Faschisten“",
+      "link": "https://www.sueddeutsche.de/politik/massaker-italien-sant-anna-di-stazzema-ss-li.3530742",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T09:54:45+00:00"
+    },
+    {
+      "titel": "Julia Klöckner über die Wiedervereinigung: „Was haben wir falsch gemacht?“",
+      "link": "https://www.sueddeutsche.de/politik/berlin-gedenken-jahre-mauerbau-kloeckner-ost-west-unterschiede-li.3530863",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T09:49:02+00:00"
+    },
+    {
+      "titel": "USS »Abraham Lincoln«: Matrosen auf US-Flugzeugträger leiden unter langer Einsatzzeit",
+      "link": "https://www.spiegel.de/ausland/uss-abraham-lincoln-matrosen-auf-us-flugzeugtraeger-leiden-unter-langer-einsatzzeit-a-05bfc7f1-7d9a-4530-85b7-f0bf4e92d39a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:49:00+00:00"
+    },
+    {
+      "titel": "Wahlkämpfe: Na, liebe AfD, was ist euer Plan gegen Dürre und Fluten?",
+      "link": "https://www.sueddeutsche.de/meinung/afd-klimapolitik-deutschland-duerre-fluten-kommentar-li.3529645",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T09:45:44+00:00"
     },
     {
       "titel": "Großbritannien: Farages Pokerspiel mit der Nachwahl",
@@ -73,16 +115,40 @@
       "veroeffentlicht": "2026-08-13T08:52:18+00:00"
     },
     {
+      "titel": "Dürre: Bauern müssen wegen Futtermangels notschlachten",
+      "link": "https://www.sueddeutsche.de/wirtschaft/bauern-baden-wuerttemberg-hitze-notschlachtungen-li.3530767",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T08:30:10+00:00"
+    },
+    {
       "titel": "Marktbericht: DAX-Rekordserie könnte sich fortsetzen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T08:27:01+00:00"
     },
     {
+      "titel": "Schwimm-EM: Der erste deutsche Europameister über 800 Meter Freistil",
+      "link": "https://www.sueddeutsche.de/sport/schwimm-em-liebmann-gold-freistil-800-m-schwarz-li.3530634",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T07:46:26+00:00"
+    },
+    {
+      "titel": "Gesundheit: Wie die Hitze im Krankenhaus zur Gefahr wird",
+      "link": "https://www.sueddeutsche.de/politik/deutschland-hitze-krankenhaeuser-gefahr-klimanlagen-sondervermoegen-li.3529298",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T07:41:15+00:00"
+    },
+    {
       "titel": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
       "link": "https://www.tagesschau.de/ausland/asien/russland-kurilen-inseln-putin-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T07:09:07+00:00"
+    },
+    {
+      "titel": "Mobilität: Haben die ein Rad ab?",
+      "link": "https://www.sueddeutsche.de/kultur/auto-mercedes-benz-geburtsurkunde-youngtimer-oldimer-li.3530383",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T06:59:57+00:00"
     },
     {
       "titel": "Uefa-Supercup: Omar Artan pfeift – und die Fifa-Opposition berät sich",
@@ -101,72 +167,6 @@
       "link": "https://www.tagesschau.de/kultur/65-jahre-mauerbau-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T06:33:43+00:00"
-    },
-    {
-      "titel": "Übernahme von Athora: Wenn die Lebensversicherung den Besitzer wechselt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/lebensversicherung-abwicklung-frankfurter-leben-athora-fusion-folgen-kunden-li.3530426",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T06:19:17+00:00"
-    },
-    {
-      "titel": "Trump-Sprecherin Leavitt - die oberste Influencerin des Weißen Hauses geht",
-      "link": "https://www.tagesschau.de/ausland/amerika/leavitt-ruecktritt-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T06:05:33+00:00"
-    },
-    {
-      "titel": "Vor 65 Jahren: Berlin erinnert an den Mauerbau",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/mauerbau-gedenken-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T05:26:25+00:00"
-    },
-    {
-      "titel": "Studie: AfD-Politik nicht auf Arbeiter ausgerichtet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-wirtschaftspolitik-arbeiter-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T05:16:40+00:00"
-    },
-    {
-      "titel": "Architektur: „In dem Gebäude kann man in drei Dimensionen erleben, wie Habermas gedacht hat“",
-      "link": "https://www.sueddeutsche.de/kultur/starnberg-wonhaus-juergen-habermas-denkmalschutz-architektur-gruende-li.3529865",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T05:01:56+00:00"
-    },
-    {
-      "titel": "USA: Leavitt hört auf – aber einen Bruch mit Trump scheint es nicht zu geben",
-      "link": "https://www.sueddeutsche.de/politik/usa-karoline-leavitt-weisses-haus-sprecherin-trump-ruecktritt-li.3530664",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T04:50:11+00:00"
-    },
-    {
-      "titel": "Hitzewelle: Umweltminister Schneider will Klimaanpassung im Grundgesetz verankern",
-      "link": "https://www.sueddeutsche.de/panorama/hitze-deutschland-news-klimaschutz-grundgesetz-schneider-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T04:39:42+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis in München: Plötzlich meldet Herr Vorbrugg: „Ich sehe ersten Kontakt!“",
-      "link": "https://www.sueddeutsche.de/muenchen/sonnenfinsternis-muenchen-dachterrasse-gasteig-beobachtung-erlebnisse-reportage-li.3526936",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T04:23:52+00:00"
-    },
-    {
-      "titel": "USA: US-Behörde ICE plant Kauf von Elektroschock-Handschuhen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ice-handschuhe-elektroschocks-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T01:14:05+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Höcke will Wagenknecht zur Ministerpräsidentin machen",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-hoecke-afd-wagenknecht-thueringen-sachsen-anhalt-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T00:23:00+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis im Fernsehen: Es hätte spektakulär werden können",
-      "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-2026-live-tv-rtl-3sat-welt-reporter-fernsehen-li.3529775",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T22:43:35+00:00"
     }
   ]
 }
