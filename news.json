@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-13T19:46:14+00:00",
+  "aktualisiert": "2026-08-13T21:05:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Erling Haaland: Polizei stellt Kokain mit Konterfei des Fußball-Stars sicher",
+      "link": "https://www.spiegel.de/panorama/justiz/erling-haaland-polizei-stellt-kokain-mit-konterfei-des-fussball-stars-sicher-a-7445eb68-1013-44b6-9b8f-2cb8fa59b470#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T20:52:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Leo Neugebauer holt EM-Gold im Zehnkampf – Niklas Kaul Zweiter",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-leo-neugebauer-holt-em-gold-im-zehnkampf-niklas-kaul-zweiter-a-4da16f85-11b5-4a28-900c-4bbeeb8afb44#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T20:25:00+00:00"
+    },
+    {
+      "titel": "Klage über Missstände - Flugzeugträger \"USS Abraham Lincoln\" wird wohl abgelöst",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-flugzeugtraeger-uss-abraham-lincoln-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T20:08:42+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Gesa Krause gewinnt Gold über 3.000 Meter Hindernis",
+      "link": "https://www.spiegel.de/sport/leichtathletik-em-gesa-krause-gewinnt-gold-ueber-3-000-meter-hindernis-a-ddc6f2e6-d02e-45e6-b023-b7f6aa476183#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T20:08:00+00:00"
+    },
+    {
+      "titel": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T19:55:03+00:00"
+    },
+    {
+      "titel": "Nach Klagen über Missstände: US-Flugzeugträger wird abgelöst",
+      "link": "https://www.spiegel.de/ausland/nach-klagen-ueber-missstaende-us-flugzeugtraeger-wird-abgeloest-a-d0f1b9a2-2a3d-4176-9eb1-f116cb375739#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T19:48:00+00:00"
+    },
     {
       "titel": "Alexandria Ocasio-Cortez: Linke Ikone mit wachsenden Präsidentschaftsambitionen",
       "link": "https://www.spiegel.de/ausland/alexandria-ocasio-cortez-linke-ikone-mit-wachsenden-praesidentschaftsambitionen-a-d4ad4df4-1848-427c-8fe1-41098985a475#ref=rss",
@@ -37,40 +73,10 @@
       "veroeffentlicht": "2026-08-13T18:42:00+00:00"
     },
     {
-      "titel": "Landkreis Leer: 27.500 fehlerhafte Stimmzettel müssen neu gedruckt werden",
-      "link": "https://www.spiegel.de/panorama/landkreis-leer-27-500-fehlerhafte-stimmzettel-muessen-neu-gedruckt-werden-a-493d1543-c753-4877-836b-1b5a25215710#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T18:28:00+00:00"
-    },
-    {
-      "titel": "Prozess um WM-Katar 2022: Whistleblower an Ausreise gehindert",
+      "titel": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
       "link": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T18:16:07+00:00"
-    },
-    {
-      "titel": "Wolfram Weimer - Streit über Verlagsförderung: Bekommt er letztlich seinen Willen?",
-      "link": "https://www.spiegel.de/kultur/wolfram-weimer-streit-ueber-verlagsfoerderung-bekommt-er-letztlich-seinen-willen-a-e3f9a507-dff7-4782-b8fa-4293e9550445#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T18:07:00+00:00"
-    },
-    {
-      "titel": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
-      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T17:57:17+00:00"
-    },
-    {
-      "titel": "Türkei: Feuer auf Ausflugsboot – mehrere Verletzte",
-      "link": "https://www.spiegel.de/panorama/tuerkei-feuer-auf-ausflugsboot-mehrere-verletzte-a-3331472c-dc0a-4ace-80d0-2d6894cae368#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T17:36:00+00:00"
-    },
-    {
-      "titel": "Kanye West und JD Sports: Wie kann es sein, dass dieser Mann noch Geschäftspartner findet?",
-      "link": "https://www.spiegel.de/wirtschaft/kanye-west-und-jd-sports-wie-kann-es-sein-dass-dieser-mann-noch-geschaeftspartner-findet-a-938e813f-7d20-4817-a91c-21c19aaff72c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T17:16:00+00:00"
     },
     {
       "titel": "USA: Gericht weist Klage der Trump-Regierung gegen Harvard ab",
@@ -119,12 +125,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T14:44:35+00:00"
-    },
-    {
-      "titel": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-akw-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T14:32:46+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Rechtspopulist Farage vs. Mülleimer: Worum es bei Großbritanniens kuriosester Nachwahl geht",
