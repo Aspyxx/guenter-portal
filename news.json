@@ -1,11 +1,83 @@
 {
-  "aktualisiert": "2026-08-13T02:49:12+00:00",
+  "aktualisiert": "2026-08-13T05:07:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: Aus Liebe zur Familie? Karoline Leavitt hört auf",
+      "link": "https://www.sueddeutsche.de/politik/usa-karoline-leavitt-trump-ruecktritt-weisses-haus-li.3530664",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T04:50:11+00:00"
+    },
+    {
+      "titel": "Berufseinstieg als Segellehrerin: Segelschule statt Olympia",
+      "link": "https://www.spiegel.de/start/berufseinstieg-als-segellehrerin-segelschule-statt-olympia-a-fd78bfc1-4849-4c47-b11e-2cb7922348f9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T04:48:00+00:00"
+    },
+    {
+      "titel": "Sambia vor der Wahl: Kupfer, Reformen und hohe Preise",
+      "link": "https://www.tagesschau.de/ausland/afrika/wahl-sambia-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T04:43:52+00:00"
+    },
+    {
+      "titel": "Hitzewelle: Umweltminister Schneider will Klimaanpassung im Grundgesetz verankern",
+      "link": "https://www.sueddeutsche.de/panorama/hitze-deutschland-news-klimaschutz-grundgesetz-schneider-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T04:39:42+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis: Wo Laien und Experten zusammen staunen",
+      "link": "https://www.sueddeutsche.de/muenchen/sonnenfinsternis-muenchen-beobachtung-erlebnisse-dachterrasse-li.3526936",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T04:23:52+00:00"
+    },
+    {
+      "titel": "Maximilian Krah: Haftbefehl gegen AfD-Politiker im Streit mit Jan Böhmermann",
+      "link": "https://www.spiegel.de/politik/maximilian-krah-haftbefehl-gegen-afd-politiker-im-streit-mit-jan-boehmermann-a-6f408c3e-ff83-4e16-aacd-4213f84fbb0b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T04:12:00+00:00"
+    },
+    {
+      "titel": "Beste Feinde Musk und Trump: Ein riesiger Fabrikneubau als Signal ans Weiße Haus",
+      "link": "https://www.spiegel.de/kultur/beste-feinde-musk-und-trump-ein-riesiger-fabrikneubau-als-signal-ans-weisse-haus-a-f4cbdc24-2ede-4916-86b2-a7065f962058#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T04:08:00+00:00"
+    },
+    {
+      "titel": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T04:00:09+00:00"
+    },
+    {
+      "titel": "News: Mehr Rechte für Geheimdienste, AfD-Wahlkampf in Sachsen-Anhalt, Nigel Farage gegen das Mülleimergesicht",
+      "link": "https://www.spiegel.de/politik/deutschland/news-mehr-rechte-fuer-geheimdienste-afd-wahlkampf-in-sachsen-anhalt-nigel-farage-gegen-das-muelleimergesicht-a-8c5d5085-51ad-4457-b695-b2d5a3cb94bd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T03:47:00+00:00"
+    },
+    {
+      "titel": "Einpinkeln, Erektionsprobleme oder Prostatavorsorge: Urologen verraten alles Wichtige",
+      "link": "https://www.spiegel.de/gesundheit/einpinkeln-erektionsprobleme-oder-prostatavorsorge-urologen-verraten-alles-wichtige-a-a14d51d3-67a6-4c93-8548-338eb638a11c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T03:30:00+00:00"
+    },
+    {
+      "titel": "Mutter über ihren Sohn mit ADHS: »Er ertrug nicht, wie er war« – was uns geholfen hat",
+      "link": "https://www.spiegel.de/familie/mutter-ueber-ihren-sohn-mit-adhs-er-ertrug-nicht-wie-er-war-was-uns-geholfen-hat-a-ae664f0f-ca81-4f6a-ad2f-cc4fd352dfaa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T03:30:00+00:00"
+    },
+    {
+      "titel": "CIA zweifelte offenbar an iranischer Bedrohung für Trump",
+      "link": "https://www.spiegel.de/ausland/cia-zweifelte-offenbar-an-iranischer-bedrohung-fuer-trump-a-f3e92e06-45e4-4510-9d3d-6f30c3aafc53#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T03:27:00+00:00"
+    },
     {
       "titel": "Perseiden-Sternschnuppen: Kaum ist die Sonnenfinsternis vorbei, beginnt das nächste Himmelsspektakel",
       "link": "https://www.spiegel.de/wissenschaft/perseiden-sternschnuppen-kaum-ist-die-sonnenfinsternis-vorbei-beginnt-das-naechste-himmelsspektakel-a-b2d892c3-4255-4d12-9d8d-3cfab29d5ffa#ref=rss",
@@ -31,28 +103,10 @@
       "veroeffentlicht": "2026-08-13T01:46:58+00:00"
     },
     {
-      "titel": "Travis Kelce spricht erstmals über Hochzeit mit Taylor Swift: »Verrückte Nacht«",
-      "link": "https://www.spiegel.de/panorama/travis-kelce-spricht-erstmals-ueber-hochzeit-mit-taylor-swift-verrueckte-nacht-a-e687ffd0-d714-418b-a5a7-192751adcbc0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T00:50:00+00:00"
-    },
-    {
-      "titel": "MDR-Wahlarena »Fakt ist«: Echte Bürger stellen echte Fragen – und die Politiker weichen aus",
-      "link": "https://www.spiegel.de/kultur/mdr-wahlarena-fakt-ist-echte-buerger-stellen-echte-fragen-und-die-politiker-weichen-aus-a-1b9b205f-6439-46eb-a5dd-957681c6a08b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T00:39:00+00:00"
-    },
-    {
-      "titel": "USA: ICE-Agenten sollen Elektroschock-Handschuhe bekommen",
-      "link": "https://www.spiegel.de/ausland/usa-ice-agenten-sollen-elektroschock-handschuhe-bekommen-a-b0f736fb-89aa-44b6-9556-e5621935573d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T23:10:00+00:00"
-    },
-    {
-      "titel": "Fort Hood in Texas: Zwei Tote nach Absturz eines US-Militärhubschraubers",
-      "link": "https://www.spiegel.de/ausland/fort-hood-in-texas-zwei-tote-nach-absturz-eines-us-militaerhubschraubers-a-41a66f54-f1c7-4de5-90cc-1fe819eb2953#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T22:51:00+00:00"
+      "titel": "USA: US-Behörde ICE plant Kauf von Elektroschock-Handschuhen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ice-handschuhe-elektroschocks-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T01:14:05+00:00"
     },
     {
       "titel": "Sonnenfinsternis im Fernsehen: Es hätte spektakulär werden können",
@@ -71,24 +125,6 @@
       "link": "https://www.tagesschau.de/ausland/trump-leavitt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-12T22:16:30+00:00"
-    },
-    {
-      "titel": "Mord an Rob und Michele Reiner: Sohn Nick soll seinen Eltern aufgelauert haben",
-      "link": "https://www.spiegel.de/ausland/mord-an-rob-und-michele-reiner-sohn-nick-soll-seinen-eltern-aufgelauert-haben-a-30a2a683-c906-44d6-b931-cd7af9d7fd57#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T21:53:00+00:00"
-    },
-    {
-      "titel": "Fußball: Spanier Xavi Hernández wird neuer Trainer der Niederländer",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-spanier-xavi-hernandez-wird-neuer-trainer-der-niederlaender-a-8af4f44d-1c80-4aed-b6f5-cafaed6276f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T20:49:00+00:00"
-    },
-    {
-      "titel": "Karoline Leavitt: Trumps Pressesprecherin gibt Posten im Weißen Haus auf",
-      "link": "https://www.spiegel.de/ausland/karoline-leavitt-trumps-pressesprecherin-gibt-posten-im-weissen-haus-auf-a-9dbc0665-ed5e-46da-bc5f-721bb6d942e3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-12T20:26:00+00:00"
     },
     {
       "titel": "Liveblog: ++ Nächste partielle Sonnenfinsternis schon 2027 ++",
@@ -121,18 +157,6 @@
       "veroeffentlicht": "2026-08-12T18:36:27+00:00"
     },
     {
-      "titel": "Umweltminister Schneider will Klimaanpassung zur Gemeinschaftsaufgabe machen",
-      "link": "https://www.tagesschau.de/inland/schneider-hitzeschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T17:46:21+00:00"
-    },
-    {
-      "titel": "Marktbericht: Ernüchterung nach Rekordfahrt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T16:55:55+00:00"
-    },
-    {
       "titel": "Nürnberg: Automaten-Supermärkte bleiben an Feiertagen nachts zu",
       "link": "https://www.sueddeutsche.de/bayern/nuernberg-automaten-supermaerkte-bayerischer-verwaltungsgerichtshof-eilantrag-feiertage-li.3530565",
       "quelle": "Süddeutsche",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-schutzbrillen-optiker-schlange-li.3530526",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T15:12:38+00:00"
-    },
-    {
-      "titel": "Film: Da ist ein Dino im Vorgarten",
-      "link": "https://www.sueddeutsche.de/kultur/the-end-of-oak-street-kino-kritik-dinos-anne-hathaway-li.3527294",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T15:01:00+00:00"
-    },
-    {
-      "titel": "Nach Prüfung durch Kartellamt: 50+1 und die Bundesliga: Endlich alles weiter unklar",
-      "link": "https://www.sueddeutsche.de/sport/50-1-fussball-bundeskartellamt-zulaessigkeit-klubs-li.3530375",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T14:49:56+00:00"
-    },
-    {
-      "titel": "Öffentliche Trauer von Lionel Messi: „Ich weiß nicht, was ich ohne dich tun soll“",
-      "link": "https://www.sueddeutsche.de/sport/lionel-messi-vater-jorge-messi-tod-brief-karriereende-fussball-li.3530545",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T14:47:43+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Nachrichtendienste: Bekommt Deutschland eine Geheimpolizei?",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-geheimdienste-reform-verfassungsschutz-bnd-dobrindt-li.3530401",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T14:09:05+00:00"
     }
   ]
 }
