@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-13T18:14:02+00:00",
+  "aktualisiert": "2026-08-13T19:31:16+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Arbeiter",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/gehalt-dax-vorstaende-dsw-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 2,
       "titel": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
       "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Rekordserie geht erstmal nicht weiter",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Whistleblower an Ausreise gehindert",
+      "link": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
+      "quelle": "Tagesschau",
+      "icon": "⚽"
     }
   ]
 }
