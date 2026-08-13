@@ -1,11 +1,101 @@
 {
-  "aktualisiert": "2026-08-13T13:50:22+00:00",
+  "aktualisiert": "2026-08-13T15:16:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Afghanistan: Taliban lassen sechs Menschenrechtler gewaltsam verschwinden",
+      "link": "https://www.spiegel.de/ausland/afghanistan-taliban-lassen-sechs-menschenrechtler-gewaltsam-verschwinden-a-e8407ae6-5bf1-458d-982f-f8598868ba03#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T15:09:00+00:00"
+    },
+    {
+      "titel": "Nicole Kidman wählt auf Ibiza zwischen zwei Optionen für den Abend – Scrabble oder Rave",
+      "link": "https://www.spiegel.de/panorama/nicole-kidman-waehlt-auf-ibiza-zwischen-zwei-optionen-fuer-den-abend-scrabble-oder-rave-a-6b1887dd-add2-49d5-9dcd-f945db717842#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T15:08:00+00:00"
+    },
+    {
+      "titel": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T14:50:05+00:00"
+    },
+    {
+      "titel": "»James Webb«-Teleskop: Extrem heller Punkt könnte Schwarzes-Loch-Stern sein",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/james-webb-teleskop-extrem-heller-punkt-koennte-schwarzes-loch-stern-sein-a-3ca4c301-c922-4751-9382-b98811a9aedd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T14:45:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Selenskij bittet USA um fünf Prozent ihrer „Patriot“-Raketen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-patriot-raketen-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T14:44:46+00:00"
+    },
+    {
+      "titel": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
+      "link": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T14:44:35+00:00"
+    },
+    {
+      "titel": "Ebola-Ausbruch: Mehr als 2000 Todesfälle in der Demokratischen Republik Kongo",
+      "link": "https://www.spiegel.de/ausland/ebola-ausbruch-mehr-als-2000-todesfaelle-in-der-demokratischen-republik-kongo-a-02e1d60f-326e-43ef-b03b-c19a128809db#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T14:41:00+00:00"
+    },
+    {
+      "titel": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-akw-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T14:32:46+00:00"
+    },
+    {
+      "titel": "USA: Sitzen bald 2000 Gamer als Fluglotsen im Tower?",
+      "link": "https://www.spiegel.de/wirtschaft/usa-sitzen-bald-2000-gamer-als-fluglotsen-im-tower-a-426cdf23-f522-4a29-a422-213f1e842ac4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T14:31:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Dürre in der Landwirtschaft, Ebola in Afrika, Zhu Rongji",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-duerre-in-der-landwirtschaft-ebola-in-afrika-zhu-rongji-a-a8279000-1396-49f3-9c70-744c9011b7cb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T14:28:00+00:00"
+    },
+    {
+      "titel": "65 Jahre Mauerbau in der DDR: Warum Julia Klöckner vor einer »neuen Mauer« warnt",
+      "link": "https://www.spiegel.de/geschichte/65-jahre-mauerbau-in-der-ddr-warum-julia-kloeckner-vor-einer-neuen-mauer-warnt-a-4474270e-b005-40af-91d3-321a73c1bd1b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T14:22:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Smilla Kolbe fordert Respekt statt Rassismus online",
+      "link": "https://www.spiegel.de/sport/leichtathletik-em-smilla-kolbe-fordert-respekt-statt-rassismus-online-a-3102519f-4116-40fc-b6fd-1cd8cab9a08d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T14:19:00+00:00"
+    },
+    {
+      "titel": "Münchner Traditionsunternehmen: Machtkampf im Hause Hirmer: Plötzlich soll eine 18-Jährige Miteigentümerin werden",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-hirmer-machtkampf-gesellschafter-tochter-li.3519351",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T14:17:12+00:00"
+    },
+    {
+      "titel": "Dax-Vorstände verdienen im Schnitt 42 Mal so viel wie ihre Beschäftigten",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/dax-vorstaende-verdienen-im-schnitt-42-mal-so-viel-wie-ihre-beschaeftigten-a-f66a230e-9c77-4a96-8935-7dd71e05a4f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T14:05:00+00:00"
+    },
+    {
+      "titel": "1. FC Köln: Die große El-Mala-Frage",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-el-mala-koeln-dortmund-transfer-zweifel-li.3530532",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T13:44:22+00:00"
+    },
     {
       "titel": "Berliner Kältebus angezündet - Täter muss dauerhaft in Psychiatrie",
       "link": "https://www.tagesschau.de/inland/regional/berlin/kaeltebus-anschlag-berlin-taeter-psychiatrie-100.html",
@@ -19,40 +109,16 @@
       "veroeffentlicht": "2026-08-13T13:37:15+00:00"
     },
     {
-      "titel": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-akw-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T13:36:16+00:00"
-    },
-    {
       "titel": "Trockenheit und Dürre: Getreideernte in Deutschland leidet stark",
       "link": "https://www.tagesschau.de/wirtschaft/bauern-getreide-ernte-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T13:20:02+00:00"
     },
     {
-      "titel": "Italien – Costa Smeralda: Nagelneue Millionenjacht geht vor Sardinien unter",
-      "link": "https://www.spiegel.de/panorama/italien-costa-smeralda-nagelneue-millionenjacht-geht-vor-sardinien-unter-a-6fedf91b-852e-452b-a1d2-8f03c824ef4f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T13:06:00+00:00"
-    },
-    {
       "titel": "Sportberichterstattung: Bronze für Mabry, Blech für Lufen",
       "link": "https://www.sueddeutsche.de/medien/leichtathletik-em-live-interview-claus-lufen-yemisi-mabry-kritik-li.3530764",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T13:05:02+00:00"
-    },
-    {
-      "titel": "Thüringen: Sahra Wagenknecht lehnt Björn Höckes Wahlangebot ab und fordert TV-Duell",
-      "link": "https://www.spiegel.de/politik/deutschland/thueringen-sahra-wagenknecht-lehnt-bjoern-hoeckes-wahlangebot-ab-und-fordert-tv-duell-a-0f31308b-75ee-4540-8f50-8f23da0b8a76#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T12:59:00+00:00"
-    },
-    {
-      "titel": "Kurilen: Wladimir Putin provoziert Japan mit Besuch auf Inselgruppe",
-      "link": "https://www.spiegel.de/ausland/kurilen-wladimir-putin-provoziert-japan-mit-besuch-auf-inselgruppe-a-a7481647-32e4-466b-8beb-252db5c30146#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T12:44:00+00:00"
     },
     {
       "titel": "BSW und AfD: Wagenknecht: „Höckes Angebot ist unehrlich“",
@@ -67,16 +133,10 @@
       "veroeffentlicht": "2026-08-13T12:40:16+00:00"
     },
     {
-      "titel": "Hitzesommer: Mit der Anpassung an den Klimawandel ist es nicht getan",
+      "titel": "Hitzesommer: Wie weiterleben mit der Hitze",
       "link": "https://www.sueddeutsche.de/politik/hitze-anpassung-klimaschutz-warnung-wissenschaftler-li.3530851",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T12:38:45+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: UN: Juli war tödlichster Monat für Zivilisten in der Ukraine seit Jahren",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-un-tote-zivilisten-russland-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T12:35:34+00:00"
     },
     {
       "titel": "Tiermedizin: Akupunktur für eine Seekuh",
@@ -91,24 +151,6 @@
       "veroeffentlicht": "2026-08-13T12:28:08+00:00"
     },
     {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T12:28:00+00:00"
-    },
-    {
-      "titel": "Dürre: Warum ein Biolandwirt in Süddeutschland Tiere schlachten muss",
-      "link": "https://www.spiegel.de/wirtschaft/duerre-warum-ein-biolandwirt-in-sueddeutschland-tiere-schlachten-muss-a-c9e9b709-ef6a-4ad0-a2c5-93d24e89b444#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T12:24:00+00:00"
-    },
-    {
-      "titel": "Treuchtlingen: Polizei gibt Entwarnung nach Sprengstoffverdacht in Bayern",
-      "link": "https://www.spiegel.de/panorama/justiz/treuchtlingen-polizei-gibt-entwarnung-nach-sprengstoffverdacht-in-bayern-a-4b7e898a-1538-47d8-989d-4e99742dc18b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T12:17:00+00:00"
-    },
-    {
       "titel": "Riesige Marienstatue in Polen soll Pilger anziehen",
       "link": "https://www.tagesschau.de/ausland/europa/polen-marienstatue-100.html",
       "quelle": "Tagesschau",
@@ -121,52 +163,10 @@
       "veroeffentlicht": "2026-08-13T11:54:12+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Weitspringer Miltiadis Tentoglou vergisst seine Goldmedaille",
-      "link": "https://www.spiegel.de/sport/leichtathletik-em-weitspringer-tentoglou-vergisst-seine-goldmedaille-a-a3305b7b-81db-4627-a941-26aad24552df#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:54:00+00:00"
-    },
-    {
       "titel": "Dürre: Schweizer Wasserspende für Italiens Reisbauern",
       "link": "https://www.sueddeutsche.de/politik/wasser-duerre-italien-schweiz-li.3530321",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T11:42:00+00:00"
-    },
-    {
-      "titel": "Berlin: Brandanschlag auf Kältebus – 43-Jähriger muss dauerhaft in Psychiatrie",
-      "link": "https://www.spiegel.de/panorama/justiz/berlin-brandanschlag-auf-kaeltebus-43-jaehriger-muss-dauerhaft-in-psychiatrie-a-bc7e2258-125e-4937-bc6b-780cf536f17d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:42:00+00:00"
-    },
-    {
-      "titel": "Drohnenvorfall am Flughafen Leipzig: Was explodierte in Kursdorf?",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-leipzig-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T11:40:03+00:00"
-    },
-    {
-      "titel": "Gedenken an Mauerbau - Warnung vor Geschichtsvergessenheit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gedenken-mauerbau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T11:36:06+00:00"
-    },
-    {
-      "titel": "Autoindustrie: Lobbyverbände fordern klare Grenzen beim Zugriff auf Telemetriedaten",
-      "link": "https://www.spiegel.de/mobilitaet/auto/autoindustrie-lobbyverbaende-fordern-klare-grenzen-beim-zugriff-auf-telemetriedaten-a-26825f5a-8a90-471b-8d52-af6027739c5d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T11:33:00+00:00"
-    },
-    {
-      "titel": "Verfassungsschutz: Nie wieder eine deutsche Geheimpolizei",
-      "link": "https://www.sueddeutsche.de/politik/verfassungsschutz-reform-geheimpolizei-historie-li.3530422",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T11:28:54+00:00"
-    },
-    {
-      "titel": "Bondscoach Xavi Hernández: Barça-Fußball für die Niederlande",
-      "link": "https://www.sueddeutsche.de/sport/fussball-xavi-niederlande-trainer-bondscoach-li.3530803",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T11:07:09+00:00"
     }
   ]
 }
