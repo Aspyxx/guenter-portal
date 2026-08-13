@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-13T11:11:45+00:00",
+  "aktualisiert": "2026-08-13T12:02:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,88 @@
   },
   "meldungen": [
     {
+      "titel": "Riesige Marienstatue in Polen soll Pilger anziehen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-marienstatue-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T11:57:07+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Weitspringer Tentoglou vergisst seine Goldmedaille",
+      "link": "https://www.spiegel.de/sport/leichtathletik-em-weitspringer-tentoglou-vergisst-seine-goldmedaille-a-a3305b7b-81db-4627-a941-26aad24552df#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:54:00+00:00"
+    },
+    {
+      "titel": "Berlin: Brandanschlag auf Kältebus – 43-Jähriger muss dauerhaft in Psychiatrie",
+      "link": "https://www.spiegel.de/panorama/justiz/berlin-brandanschlag-auf-kaeltebus-43-jaehriger-muss-dauerhaft-in-psychiatrie-a-bc7e2258-125e-4937-bc6b-780cf536f17d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:42:00+00:00"
+    },
+    {
+      "titel": "Drohnenvorfall am Flughafen Leipzig: Was explodierte in Kursdorf?",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-leipzig-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T11:40:03+00:00"
+    },
+    {
+      "titel": "Gedenken an Mauerbau - Warnung vor Geschichtsvergessenheit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gedenken-mauerbau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T11:36:06+00:00"
+    },
+    {
+      "titel": "Israelische Armee fordert Palästinenser zum Verlassen ihrer Häuser auf",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-siedler-gewalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T11:35:40+00:00"
+    },
+    {
+      "titel": "Autoindustrie: Lobbyverbände fordern klare Grenzen beim Zugriff auf Telemetriedaten",
+      "link": "https://www.spiegel.de/mobilitaet/auto/autoindustrie-lobbyverbaende-fordern-klare-grenzen-beim-zugriff-auf-telemetriedaten-a-26825f5a-8a90-471b-8d52-af6027739c5d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:33:00+00:00"
+    },
+    {
+      "titel": "Pixel 11, Pixel Watch 5 und Pixel Tag: Google steckt mehr KI in die neueste Pixel-Generation – und weniger RAM",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/pixel-11-pixel-watch-5-und-pixel-tag-google-steckt-mehr-ki-in-die-neueste-pixel-generation-und-weniger-ram-a-8f65a8ef-9f6b-4fd7-b14c-a2d0860b753a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:32:00+00:00"
+    },
+    {
+      "titel": "Grönland: Trump-nahes Unternehmen Greenland Energy stößt auf bürokratische Hürden",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/groenland-trump-nahes-unternehmen-greenland-energy-stoesst-auf-buerokratische-huerden-a-71a53896-57bc-4a06-8062-eded018facc1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:29:00+00:00"
+    },
+    {
+      "titel": "Partnersuche: Laubfrösche verlieren bei zu viel Gequake den Überblick",
+      "link": "https://www.spiegel.de/wissenschaft/natur/partnersuche-laubfroesche-verlieren-bei-zu-viel-gequake-den-ueberblick-a-f48451ab-357b-47ae-9b7a-4d570c51f4f5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:22:00+00:00"
+    },
+    {
+      "titel": "Bremen: Mutter darf nach Brandanschlag auf ihre Söhne aus psychiatrischer Klinik",
+      "link": "https://www.spiegel.de/panorama/justiz/bremen-mutter-darf-nach-brandanschlag-auf-ihre-soehne-aus-psychiatrischer-klinik-a-b6371d3e-738e-4bb6-9e75-b39a67e0026c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:12:00+00:00"
+    },
+    {
+      "titel": "Köln – Dom: Mann klettert auf Kirche, Kirche zeigt ihn an",
+      "link": "https://www.spiegel.de/panorama/justiz/koeln-dom-mann-klettert-auf-kirche-kirche-zeigt-ihn-an-a-fb1cff03-9a27-443a-bc19-bb12c1c4e3e6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:12:00+00:00"
+    },
+    {
+      "titel": "Deep Purple: Gründungsmitglied Ritchie Blackmore kehrt für eine Zugabe zurück",
+      "link": "https://www.spiegel.de/kultur/musik/deep-purple-gruendungsmitglied-ritchie-blackmore-kehrt-fuer-eine-zugabe-zurueck-a-c76e3203-14eb-4060-a01a-f19582ea8ac5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T11:10:00+00:00"
+    },
+    {
       "titel": "Bundespolitik: Nicht nach Thüringen: Wagenknecht weist Höckes Idee zurück",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-hoecke-afd-wagenknecht-thueringen-sachsen-anhalt-bsw-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T11:04:02+00:00"
-    },
-    {
-      "titel": "Türkei: Istanbuls inhaftierter Oberbürgermeister Ekrem İmamoğlu schließt sich neuer Oppositionspartei an",
-      "link": "https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-oberbuergermeister-ekrem-imamoglu-schliesst-sich-neuer-oppositionspartei-an-a-5f24be29-7fbc-40fb-9d67-f2675de6c92d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T10:55:00+00:00"
     },
     {
       "titel": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
@@ -25,40 +97,10 @@
       "veroeffentlicht": "2026-08-13T10:54:44+00:00"
     },
     {
-      "titel": "Bremen: Sonnenfinsternis legt Verkehr lahm - größerer Polizeieinsatz",
-      "link": "https://www.spiegel.de/panorama/justiz/bremen-sonnenfinsternis-legt-verkehr-lahm-groesserer-polizeieinsatz-a-dc81f860-d36e-4d74-af69-4b4485b80302#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T10:50:00+00:00"
-    },
-    {
-      "titel": "Orca-Vorfälle vor Südeuropa: Segelboote beschädigt, Wal angeschossen",
-      "link": "https://www.spiegel.de/panorama/orca-vorfaelle-vor-suedeuropa-segelboote-beschaedigt-wal-angeschossen-a-2c529efa-1e1d-43e5-b862-cb061f954faa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T10:49:00+00:00"
-    },
-    {
-      "titel": "»Matrix«-Co-Regisseurin Lilly Wachowski: Keine Finanzierung für Film mit trans Cast",
-      "link": "https://www.spiegel.de/kultur/kino/matrix-co-regisseurin-lilly-wachowski-keine-finanzierung-fuer-film-mit-trans-cast-a-fcfd7ffe-5060-4e5c-a840-9b4c1d1117b8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T10:41:00+00:00"
-    },
-    {
-      "titel": "Schwarzwald: Immer mehr Spanier und Italiener verbringen ihren Urlaub im Südwesten Deutschlands",
-      "link": "https://www.spiegel.de/reise/deutschland/schwarzwald-immer-mehr-spanier-und-italiener-verbringen-ihren-urlaub-im-suedwesten-deutschlands-a-48edd1bb-ea82-4898-8d9e-fe7081990e8a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T10:29:00+00:00"
-    },
-    {
       "titel": "Schwerarbeitspension: Wie funktioniert Österreichs Rente mit 60?",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-schwerarbeitpension-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T10:23:45+00:00"
-    },
-    {
-      "titel": "IT-Branche und Künstliche Intelligenz: Ist das das Ende der Programmierer?",
-      "link": "https://www.spiegel.de/start/it-branche-und-kuenstliche-intelligenz-ist-das-das-ende-der-programmierer-a-7ce4ae20-c916-4fa2-bceb-721fd05297b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T10:21:00+00:00"
     },
     {
       "titel": "Zahl der Kindeswohlgefährdungen 2025 deutlich gestiegen",
@@ -67,20 +109,14 @@
       "veroeffentlicht": "2026-08-13T10:08:25+00:00"
     },
     {
-      "titel": "Rheine: 46-Jährige nach Streit erstochen – Ehemann vor Haftrichter",
-      "link": "https://www.spiegel.de/panorama/justiz/rheine-ehemann-nach-mutmasslichem-femizid-festgenommen-a-5dfc5db7-7add-4ba0-8243-bb29a31aee7c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T10:04:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: US-Präsident ließ Marco Rubio und Scott Bessent offenbar in »Air Force One« zurück",
-      "link": "https://www.spiegel.de/ausland/donald-trump-us-praesident-liess-marco-rubio-und-scott-bessent-offenbar-in-air-force-one-zurueck-a-b741d43b-9632-4a2d-8e66-b81fa1ddb8b9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:58:00+00:00"
+      "titel": "Gold bei der Reit-WM: Wenn das Pferd jedes Wort versteht",
+      "link": "https://www.sueddeutsche.de/sport/reiten-wm-aachen-dressur-gold-werth-li.3530814",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T09:55:14+00:00"
     },
     {
       "titel": "SS-Verbrechen: „Mit der Komplizenschaft der italienischen Faschisten“",
-      "link": "https://www.sueddeutsche.de/politik/massaker-italien-sant-anna-di-stazzema-ss-li.3530742",
+      "link": "https://www.sueddeutsche.de/politik/massaker-italien-sant-anna-di-stazzema-ss-aussenminister-li.3530742",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T09:54:45+00:00"
     },
@@ -91,16 +127,16 @@
       "veroeffentlicht": "2026-08-13T09:49:02+00:00"
     },
     {
-      "titel": "USS »Abraham Lincoln«: Matrosen auf US-Flugzeugträger leiden unter langer Einsatzzeit",
-      "link": "https://www.spiegel.de/ausland/uss-abraham-lincoln-matrosen-auf-us-flugzeugtraeger-leiden-unter-langer-einsatzzeit-a-05bfc7f1-7d9a-4530-85b7-f0bf4e92d39a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T09:49:00+00:00"
-    },
-    {
       "titel": "Wahlkämpfe: Na, liebe AfD, was ist euer Plan gegen Dürre und Fluten?",
-      "link": "https://www.sueddeutsche.de/meinung/afd-klimapolitik-deutschland-duerre-fluten-kommentar-li.3529645",
+      "link": "https://www.sueddeutsche.de/meinung/afd-klimapolitik-deutschland-duerre-flut-kommentar-li.3529645",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T09:45:44+00:00"
+    },
+    {
+      "titel": "Hitze in der Schule: 30 Grad im Klassenraum – um acht Uhr morgens",
+      "link": "https://www.sueddeutsche.de/politik/schulen-hitze-deutschland-schutz-lernen-li.3529626",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T09:33:18+00:00"
     },
     {
       "titel": "Großbritannien: Farages Pokerspiel mit der Nachwahl",
@@ -116,15 +152,9 @@
     },
     {
       "titel": "Dürre: Bauern müssen wegen Futtermangels notschlachten",
-      "link": "https://www.sueddeutsche.de/wirtschaft/bauern-baden-wuerttemberg-hitze-notschlachtungen-li.3530767",
+      "link": "https://www.sueddeutsche.de/wirtschaft/bauern-baden-wuerttemberg-hitze-futterknappheit-notschlachtungen-li.3530767",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T08:30:10+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX-Rekordserie könnte sich fortsetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T08:27:01+00:00"
     },
     {
       "titel": "Schwimm-EM: Der erste deutsche Europameister über 800 Meter Freistil",
@@ -137,36 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/deutschland-hitze-krankenhaeuser-gefahr-klimanlagen-sondervermoegen-li.3529298",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T07:41:15+00:00"
-    },
-    {
-      "titel": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
-      "link": "https://www.tagesschau.de/ausland/asien/russland-kurilen-inseln-putin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T07:09:07+00:00"
-    },
-    {
-      "titel": "Mobilität: Haben die ein Rad ab?",
-      "link": "https://www.sueddeutsche.de/kultur/auto-mercedes-benz-geburtsurkunde-youngtimer-oldimer-li.3530383",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T06:59:57+00:00"
-    },
-    {
-      "titel": "Uefa-Supercup: Omar Artan pfeift – und die Fifa-Opposition berät sich",
-      "link": "https://www.sueddeutsche.de/sport/supercup-psg-schiedsrichter-artan-uefa-ceferin-fifa-li.3530482",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T06:43:54+00:00"
-    },
-    {
-      "titel": "Kuba erinnert an Fidel Castro: Geburtstagsfeiern ohne Feierlaune",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-castro-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T06:35:34+00:00"
-    },
-    {
-      "titel": "Kampf gegen die Berliner Mauer - für Achim Neumann ein Lebensthema",
-      "link": "https://www.tagesschau.de/kultur/65-jahre-mauerbau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T06:33:43+00:00"
     }
   ]
 }
