@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-13T08:45:10+00:00",
+  "aktualisiert": "2026-08-13T09:50:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "Hitze in Deutschland: Zahl der Hitzetoten laut RKI auf 12.500 gestiegen",
-      "link": "https://www.spiegel.de/gesundheit/hitze-in-deutschland-zahl-der-hitzetoten-laut-rki-auf-12-500-gestiegen-a-6e83a5e8-7f40-42da-bbd3-d4fd6e57b70f#ref=rss",
+      "titel": "Treuchtlingen in Bayern: Sprengstoffverdacht an Bahnhof – Zugverkehr eingestellt",
+      "link": "https://www.spiegel.de/panorama/justiz/treuchtlingen-in-bayern-sprengstoffverdacht-an-bahnhof-zugverkehr-eingestellt-a-29534ff9-cd45-498c-b80f-d36fa8f3a2c4#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T08:35:00+00:00"
+      "veroeffentlicht": "2026-08-13T09:42:00+00:00"
+    },
+    {
+      "titel": "Ulrich Siegmund und die AfD in Sachsen-Anhalt: Der gefährlichste Mann Deutschlands",
+      "link": "https://www.spiegel.de/politik/ulrich-siegmund-und-die-afd-in-sachsen-anhalt-der-gefaehrlichste-mann-deutschlands-a-266e764d-1785-4f3a-85da-24d939148dc3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:29:00+00:00"
+    },
+    {
+      "titel": "Rhein/Niedrigwasser: Rettet nicht die Öltanker, rettet den Rhein – Meinung",
+      "link": "https://www.spiegel.de/wissenschaft/rhein-niedrigwasser-rettet-nicht-die-oeltanker-rettet-den-rhein-meinung-a-5fb35e1d-82a5-4f0b-8a40-88bf8e27e0a6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:29:00+00:00"
+    },
+    {
+      "titel": "Homeoffice-Studie: Unternehmen erwarten dauerhaft hohes Niveau beim Arbeiten von zu Hause",
+      "link": "https://www.spiegel.de/karriere/homeoffice-studie-unternehmen-erwarten-dauerhaft-hohes-niveau-beim-arbeiten-von-zu-hause-a-de3850f2-2e44-4f4d-85dc-c7b1764b2fc5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:17:00+00:00"
+    },
+    {
+      "titel": "Berufseinstieg: Junge Menschen arbeiten deutlich häufiger in befristeten Jobs",
+      "link": "https://www.spiegel.de/start/berufseinstieg-junge-menschen-arbeiten-deutlich-haeufiger-in-befristeten-jobs-a-44d478f5-f1c3-4fe5-a615-2f40aa92284a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:15:00+00:00"
+    },
+    {
+      "titel": "Dürre führt laut Brancheneinschätzung zu deutlich kleinerer Getreideernte",
+      "link": "https://www.spiegel.de/wirtschaft/duerre-fuehrt-laut-brancheneinschaetzung-zu-deutlich-kleinerer-getreideernte-a-a450c260-3316-40d7-98dd-7788747dad84#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:13:00+00:00"
+    },
+    {
+      "titel": "Indonesien: Brand auf Fähre vor Bali – mindestens ein Toter und fünf Vermisste",
+      "link": "https://www.spiegel.de/panorama/indonesien-brand-auf-faehre-vor-bali-mindestens-ein-toter-und-fuenf-vermisste-a-92bbae2a-3bf7-42d4-8421-228c98242f48#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:11:00+00:00"
+    },
+    {
+      "titel": "Eurovision Song Contest 2027: Burgas ist die nächste ESC-Gastgeberstadt",
+      "link": "https://www.spiegel.de/kultur/tv/eurovision-song-contest-2027-burgas-ist-die-naechste-esc-gastgeberstadt-a-b31ab7c5-79f5-45e7-ac33-594705272869#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:04:00+00:00"
+    },
+    {
+      "titel": "Sommerferien: Ferienende in vier Ländern – wo es am Wochenende stockt",
+      "link": "https://www.spiegel.de/mobilitaet/auto/sommerferien-ferienende-in-vier-laendern-wo-es-am-wochenende-stockt-a-3ed28008-077b-450f-b869-6621c3fbbf6a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T09:01:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: Farages Pokerspiel mit der Nachwahl",
+      "link": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T08:55:20+00:00"
+    },
+    {
+      "titel": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T08:52:18+00:00"
     },
     {
       "titel": "Marktbericht: DAX-Rekordserie könnte sich fortsetzen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T08:27:01+00:00"
-    },
-    {
-      "titel": "Kindeswohlgefährdungen in Deutschland erreichen Höchststand",
-      "link": "https://www.spiegel.de/panorama/kindeswohlgefaehrdungen-in-deutschland-erreichen-hoechststand-a-6499486d-c8fa-4349-9cd3-b54bef9f665f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T08:17:00+00:00"
-    },
-    {
-      "titel": "Rattengift in Babynahrung: Wie der mutmaßliche Hipp-Erpresser ausgeforscht wurde",
-      "link": "https://www.spiegel.de/panorama/rattengift-in-babynahrung-wie-der-mutmassliche-hipp-erpresser-ausgeforscht-wurde-a-56db98a5-180a-4fcf-8baf-83c3a01edce3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T07:55:00+00:00"
-    },
-    {
-      "titel": "Pete Hegseth: US-Verteidigungsminister kündigt gemeinsame Militäreinsätze mit Kolumbien an",
-      "link": "https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-kuendigt-gemeinsame-militaereinsaetze-mit-kolumbien-an-a-fe51a316-6b8f-4b87-8836-f0a6fda50e57#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T07:39:00+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn stattet weiteres Personal an Bahnhöfen mit Bodycams aus",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/bahn-stattet-weiteres-personal-an-bahnhoefen-mit-bodycams-aus-a-dfcdfbbe-7075-480f-a94c-8583515d86ef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T07:25:00+00:00"
-    },
-    {
-      "titel": "Roman »Kaskaden« von Louise K. Böhm: Kann man eine Freundschaft je hinter sich lassen?",
-      "link": "https://www.spiegel.de/kultur/literatur/roman-kaskaden-von-louise-k-boehm-kann-man-eine-freundschaft-je-hinter-sich-lassen-a-e170aa37-9afd-4a56-ab76-bec873cd06ff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T07:20:00+00:00"
-    },
-    {
-      "titel": "Flughafen Leipzig/Halle: Sprengstoffdrohne legt deutsche Verwundbarkeit offen",
-      "link": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-halle-sprengstoffdrohne-legt-deutsche-verwundbarkeit-offen-a-1c0b9b3c-2e40-4334-84e4-4bea44287013#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T07:15:00+00:00"
     },
     {
       "titel": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
@@ -67,12 +91,6 @@
       "veroeffentlicht": "2026-08-13T06:43:54+00:00"
     },
     {
-      "titel": "Supercup: Paris Saint-Germain holt Titel gegen Aston Villa",
-      "link": "https://www.spiegel.de/sport/fussball/supercup-paris-saint-germain-holt-titel-gegen-aston-villa-khvicha-kvaratskhelia-und-desire-doue-treffen-a-c74e0a27-d2cf-490c-9f04-58cdadd37882#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T06:39:00+00:00"
-    },
-    {
       "titel": "Kuba erinnert an Fidel Castro: Geburtstagsfeiern ohne Feierlaune",
       "link": "https://www.tagesschau.de/ausland/amerika/kuba-castro-106.html",
       "quelle": "Tagesschau",
@@ -83,12 +101,6 @@
       "link": "https://www.tagesschau.de/kultur/65-jahre-mauerbau-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T06:33:43+00:00"
-    },
-    {
-      "titel": "Thailand: Tourist aus Deutschland stirbt bei Badeunfall auf Phuket",
-      "link": "https://www.spiegel.de/panorama/thailand-tourist-aus-deutschland-stirbt-bei-badeunfall-auf-phuket-a-c8fcbef4-3957-43af-898e-f5356b537766#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T06:26:00+00:00"
     },
     {
       "titel": "Übernahme von Athora: Wenn die Lebensversicherung den Besitzer wechselt",
@@ -127,12 +139,6 @@
       "veroeffentlicht": "2026-08-13T04:50:11+00:00"
     },
     {
-      "titel": "Sambia vor der Wahl: Kupfer, Reformen und hohe Preise",
-      "link": "https://www.tagesschau.de/ausland/afrika/wahl-sambia-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T04:43:52+00:00"
-    },
-    {
       "titel": "Hitzewelle: Umweltminister Schneider will Klimaanpassung im Grundgesetz verankern",
       "link": "https://www.sueddeutsche.de/panorama/hitze-deutschland-news-klimaschutz-grundgesetz-schneider-li.3522772",
       "quelle": "Süddeutsche",
@@ -143,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/sonnenfinsternis-muenchen-dachterrasse-gasteig-beobachtung-erlebnisse-reportage-li.3526936",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T04:23:52+00:00"
-    },
-    {
-      "titel": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T04:00:09+00:00"
     },
     {
       "titel": "USA: US-Behörde ICE plant Kauf von Elektroschock-Handschuhen",
