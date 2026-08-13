@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-13T16:22:58+00:00",
+  "aktualisiert": "2026-08-13T17:25:16+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Und plötzlich liegt eine Bazooka am Ufer",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html",
+      "titel": "Rekordserie geht erstmal nicht weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Berliner Kältebus angezündet - Täter muss dauerhaft in Psychiatrie",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/kaeltebus-anschlag-berlin-taeter-psychiatrie-100.html",
+      "titel": "Und plötzlich liegt eine Bazooka am Ufer",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Gedenken an Mauerbau - Warnung vor Geschichtsvergessenheit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gedenken-mauerbau-100.html",
+      "titel": "Berliner Kältebus angezündet - Täter muss dauerhaft in Psychiatrie",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/kaeltebus-anschlag-berlin-taeter-psychiatrie-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
