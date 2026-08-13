@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-13T21:05:24+00:00",
+  "aktualisiert": "2026-08-13T22:04:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Alabali Radovan: Afghanen helfen ohne Taliban-Kooperation",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T22:00:27+00:00"
+    },
+    {
+      "titel": "East Sussex: Zug im Südosten Englands entgleist – mehrere Verletzte",
+      "link": "https://www.spiegel.de/panorama/east-sussex-zug-im-suedosten-englands-entgleist-mehrere-verletzte-a-02dbe3b2-b1cf-4ac2-b7d7-0bb9f492b1c9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T21:47:00+00:00"
+    },
     {
       "titel": "Erling Haaland: Polizei stellt Kokain mit Konterfei des Fußball-Stars sicher",
       "link": "https://www.spiegel.de/panorama/justiz/erling-haaland-polizei-stellt-kokain-mit-konterfei-des-fussball-stars-sicher-a-7445eb68-1013-44b6-9b8f-2cb8fa59b470#ref=rss",
@@ -67,12 +79,6 @@
       "veroeffentlicht": "2026-08-13T18:50:00+00:00"
     },
     {
-      "titel": "Griechenland: Mehr als 250 Urlauber mit Booten vor Waldbrand gerettet",
-      "link": "https://www.spiegel.de/panorama/griechenland-mehr-als-250-urlauber-mit-booten-vor-waldbrand-gerettet-a-ecdcbd73-c791-4407-a61c-7327d0953639#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T18:42:00+00:00"
-    },
-    {
       "titel": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
       "link": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
       "quelle": "Tagesschau",
@@ -119,12 +125,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-patriot-raketen-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T14:44:46+00:00"
-    },
-    {
-      "titel": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
-      "link": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T14:44:35+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Rechtspopulist Farage vs. Mülleimer: Worum es bei Großbritanniens kuriosester Nachwahl geht",
