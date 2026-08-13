@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-13T05:07:35+00:00",
+  "aktualisiert": "2026-08-13T06:47:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,7 +7,73 @@
   },
   "meldungen": [
     {
-      "titel": "USA: Aus Liebe zur Familie? Karoline Leavitt hört auf",
+      "titel": "Supercup: Paris Saint-Germain holt Titel gegen Aston Villa – Khvicha Kvaratskhelia und Désiré Doué treffen",
+      "link": "https://www.spiegel.de/sport/fussball/supercup-paris-saint-germain-holt-titel-gegen-aston-villa-khvicha-kvaratskhelia-und-desire-doue-treffen-a-c74e0a27-d2cf-490c-9f04-58cdadd37882#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T06:39:00+00:00"
+    },
+    {
+      "titel": "Kuba erinnert an Fidel Castro: Geburtstagsfeiern ohne Feierlaune",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-castro-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T06:35:34+00:00"
+    },
+    {
+      "titel": "Kampf gegen die Berliner Mauer - für Achim Neumann ein Lebensthema",
+      "link": "https://www.tagesschau.de/kultur/65-jahre-mauerbau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T06:33:43+00:00"
+    },
+    {
+      "titel": "Thailand: Tourist aus Deutschland stirbt bei Badeunfall auf Phuket",
+      "link": "https://www.spiegel.de/panorama/thailand-tourist-aus-deutschland-stirbt-bei-badeunfall-auf-phuket-a-c8fcbef4-3957-43af-898e-f5356b537766#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T06:26:00+00:00"
+    },
+    {
+      "titel": "Russland-Ukraine-Krieg: Kyjiw greift Schwarzmeerküste und Krim mit Drohnen an",
+      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-greift-schwarzmeerkueste-und-krim-mit-drohnen-an-a-445f9045-f5e1-4340-8387-fea998356806#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T06:13:00+00:00"
+    },
+    {
+      "titel": "Trump-Sprecherin Leavitt - die oberste Influencerin des Weißen Hauses geht",
+      "link": "https://www.tagesschau.de/ausland/amerika/leavitt-ruecktritt-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T06:05:33+00:00"
+    },
+    {
+      "titel": "Donau-Niedrigwasser: Rumänien will einziges AKW Cernavodă herunterfahren",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/donau-niedrigwasser-rumaenien-will-einziges-akw-cernavoda-herunterfahren-a-a667b5bd-f36d-4e6f-9465-83baad280c92#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T05:46:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger trauen sich zurück in den Markt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T05:36:04+00:00"
+    },
+    {
+      "titel": "Vor 65 Jahren: Berlin erinnert an den Mauerbau",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/mauerbau-gedenken-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T05:26:25+00:00"
+    },
+    {
+      "titel": "Studie: AfD-Politik nicht auf Arbeiter ausgerichtet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-wirtschaftspolitik-arbeiter-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-13T05:16:40+00:00"
+    },
+    {
+      "titel": "Wetter in Deutschland: Es wird wieder richtig heiß – bis zu 37 Grad erwartet",
+      "link": "https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-wieder-richtig-heiss-bis-zu-37-grad-erwartet-a-e4e25b50-828f-4c59-ac71-09ee6c106d2b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T05:16:00+00:00"
+    },
+    {
+      "titel": "USA: Leavitt hört auf – aber einen Bruch mit Trump scheint es nicht zu geben",
       "link": "https://www.sueddeutsche.de/politik/usa-karoline-leavitt-trump-ruecktritt-weisses-haus-li.3530664",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T04:50:11+00:00"
@@ -61,46 +127,10 @@
       "veroeffentlicht": "2026-08-13T03:47:00+00:00"
     },
     {
-      "titel": "Einpinkeln, Erektionsprobleme oder Prostatavorsorge: Urologen verraten alles Wichtige",
-      "link": "https://www.spiegel.de/gesundheit/einpinkeln-erektionsprobleme-oder-prostatavorsorge-urologen-verraten-alles-wichtige-a-a14d51d3-67a6-4c93-8548-338eb638a11c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T03:30:00+00:00"
-    },
-    {
-      "titel": "Mutter über ihren Sohn mit ADHS: »Er ertrug nicht, wie er war« – was uns geholfen hat",
-      "link": "https://www.spiegel.de/familie/mutter-ueber-ihren-sohn-mit-adhs-er-ertrug-nicht-wie-er-war-was-uns-geholfen-hat-a-ae664f0f-ca81-4f6a-ad2f-cc4fd352dfaa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T03:30:00+00:00"
-    },
-    {
-      "titel": "CIA zweifelte offenbar an iranischer Bedrohung für Trump",
-      "link": "https://www.spiegel.de/ausland/cia-zweifelte-offenbar-an-iranischer-bedrohung-fuer-trump-a-f3e92e06-45e4-4510-9d3d-6f30c3aafc53#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T03:27:00+00:00"
-    },
-    {
-      "titel": "Perseiden-Sternschnuppen: Kaum ist die Sonnenfinsternis vorbei, beginnt das nächste Himmelsspektakel",
-      "link": "https://www.spiegel.de/wissenschaft/perseiden-sternschnuppen-kaum-ist-die-sonnenfinsternis-vorbei-beginnt-das-naechste-himmelsspektakel-a-b2d892c3-4255-4d12-9d8d-3cfab29d5ffa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T02:33:00+00:00"
-    },
-    {
-      "titel": "Karoline Leavitt geht – Donald Trump braucht ein neues Sprachrohr",
-      "link": "https://www.spiegel.de/ausland/karoline-leavitt-geht-donald-trump-braucht-ein-neues-sprachrohr-a-80515ed2-e583-4af8-b8dc-a0f943e720a4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T02:32:00+00:00"
-    },
-    {
       "titel": "Tschechiens Regierung plant strenge Handyregeln an Schulen",
       "link": "https://www.tagesschau.de/ausland/europa/tschechien-handynutzung-schule-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T01:47:02+00:00"
-    },
-    {
-      "titel": "Darmparasit Cyclospora breitet sich in den USA aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/parasit-eisbergsalat-usa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T01:46:58+00:00"
     },
     {
       "titel": "USA: US-Behörde ICE plant Kauf von Elektroschock-Handschuhen",
@@ -109,28 +139,16 @@
       "veroeffentlicht": "2026-08-13T01:14:05+00:00"
     },
     {
+      "titel": "Bundespolitik: Höcke will Wagenknecht zur Ministerpräsidentin machen",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-hoecke-afd-wagenknecht-thueringen-sachsen-anhalt-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T00:23:00+00:00"
+    },
+    {
       "titel": "Sonnenfinsternis im Fernsehen: Es hätte spektakulär werden können",
       "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-rtl-3sat-welt-tv-reporter-fernsehen-li.3529775",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T22:43:35+00:00"
-    },
-    {
-      "titel": "Ätna sorgt weiter für Reisechaos auf Sizilien",
-      "link": "https://www.tagesschau.de/ausland/europa/atna-ausbruch-flughafen-dicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T22:22:33+00:00"
-    },
-    {
-      "titel": "Trumps Pressesprecherin Leavitt verlässt Weißes Haus",
-      "link": "https://www.tagesschau.de/ausland/trump-leavitt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T22:16:30+00:00"
-    },
-    {
-      "titel": "Liveblog: ++ Nächste partielle Sonnenfinsternis schon 2027 ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T20:17:27+00:00"
     },
     {
       "titel": "Elftal: Xavi Hernández trainiert die Niederlande",
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-08-12T19:57:00+00:00"
     },
     {
-      "titel": "Ebola in DR Kongo: WHO warnt vor nie dagewesenem Ausmaß",
-      "link": "https://www.tagesschau.de/ausland/ebola-838.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T19:49:46+00:00"
-    },
-    {
-      "titel": "Millionen verfolgen Sonnenfinsternis über Deutschland",
-      "link": "https://www.tagesschau.de/inland/sonnenfinsternis-446.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-12T18:36:27+00:00"
-    },
-    {
       "titel": "Nürnberg: Automaten-Supermärkte bleiben an Feiertagen nachts zu",
       "link": "https://www.sueddeutsche.de/bayern/nuernberg-automaten-supermaerkte-bayerischer-verwaltungsgerichtshof-eilantrag-feiertage-li.3530565",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-12T15:29:26+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis: „Typisch Deutschland. Eine Sache passiert, alle rasten aus“",
-      "link": "https://www.sueddeutsche.de/medien/sonnenfinsternis-schutzbrillen-optiker-schlange-li.3530526",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-12T15:12:38+00:00"
     }
   ]
 }
