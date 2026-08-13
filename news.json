@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-13T18:41:09+00:00",
+  "aktualisiert": "2026-08-13T19:46:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Alexandria Ocasio-Cortez: Linke Ikone mit wachsenden Präsidentschaftsambitionen",
+      "link": "https://www.spiegel.de/ausland/alexandria-ocasio-cortez-linke-ikone-mit-wachsenden-praesidentschaftsambitionen-a-d4ad4df4-1848-427c-8fe1-41098985a475#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T19:36:00+00:00"
+    },
+    {
+      "titel": "Block-Prozess: Entführte Kinder laut Psychiaterin traumatisiert",
+      "link": "https://www.spiegel.de/panorama/block-prozess-entfuehrte-kinder-laut-psychiaterin-traumatisiert-a-58b796d2-8acd-4e54-87c3-5eb611198f04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T19:25:00+00:00"
+    },
+    {
+      "titel": "Tesla soll Streikenden in Schweden Geld gegeben haben, damit sie aufhören",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-soll-streikenden-in-schweden-geld-gegeben-haben-damit-sie-aufhoeren-a-4ddfc657-6010-4796-bf38-454f9843807a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T19:00:00+00:00"
+    },
+    {
+      "titel": "Hamburg: Zehntausende Zeugen Jehovas feiern Gottesdienst im Volksparkstation",
+      "link": "https://www.spiegel.de/panorama/hamburg-zehntausende-zeugen-jehovas-feiern-gottesdienst-im-volksparkstation-a-b032e6d6-11de-47d6-930c-dfde8bb0011a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T18:50:00+00:00"
+    },
+    {
+      "titel": "Griechenland: Mehr als 250 Urlauber mit Booten vor Waldbrand gerettet",
+      "link": "https://www.spiegel.de/panorama/griechenland-mehr-als-250-urlauber-mit-booten-vor-waldbrand-gerettet-a-ecdcbd73-c791-4407-a61c-7327d0953639#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T18:42:00+00:00"
+    },
     {
       "titel": "Landkreis Leer: 27.500 fehlerhafte Stimmzettel müssen neu gedruckt werden",
       "link": "https://www.spiegel.de/panorama/landkreis-leer-27-500-fehlerhafte-stimmzettel-muessen-neu-gedruckt-werden-a-493d1543-c753-4877-836b-1b5a25215710#ref=rss",
@@ -43,28 +73,10 @@
       "veroeffentlicht": "2026-08-13T17:16:00+00:00"
     },
     {
-      "titel": "Berlin: Volksbühne sagt Veranstaltung exklusiv für Schwarze Menschen ab",
-      "link": "https://www.spiegel.de/kultur/berlin-volksbuehne-sagt-veranstaltung-exklusiv-fuer-schwarze-menschen-ab-a-e9be79d6-816d-4e65-982e-b1b2c0115c4d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T17:13:00+00:00"
-    },
-    {
-      "titel": "KNDS: Explosion in Munitionsfabrik von deutsch-französischem Rüstungskonzern bei Rom",
-      "link": "https://www.spiegel.de/panorama/knds-explosion-in-munitionsfabrik-von-deutsch-franzoesischem-ruestungskonzern-bei-rom-a-a16fd588-7b1c-404d-9f6a-a3e76fe7e990#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T17:09:00+00:00"
-    },
-    {
       "titel": "USA: Gericht weist Klage der Trump-Regierung gegen Harvard ab",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-harvard-antisemitismus-klage-gericht-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T17:03:51+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: CDU-Kandidat Sven Schulze, zwei Wahlplakate und ein Fauxpas",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-kandidat-sven-schulze-zwei-wahlplakate-und-ein-fauxpas-a-ba1a07ac-e890-4b5f-9e16-36552038e087#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T16:31:00+00:00"
     },
     {
       "titel": "Marktbericht: Rekordserie geht erstmal nicht weiter",
@@ -77,18 +89,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/handgepaeck-flugzeug-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T16:02:24+00:00"
-    },
-    {
-      "titel": "Flaschenpost: Wie groß ist die Chance, dass sie heil ankommt und gefunden wird?",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/flaschenpost-wie-gross-ist-die-chance-dass-sie-heil-ankommt-und-gefunden-wird-a-8af57b0e-066c-4ea6-b588-a00e792b4137#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T15:42:00+00:00"
-    },
-    {
-      "titel": "Erykah Badu: Erstes Studioalbum seit 16 Jahren mit The Alchemist als Produzenten",
-      "link": "https://www.spiegel.de/kultur/musik/erykah-badu-erstes-studioalbum-seit-16-jahren-mit-the-alchemist-als-produzenten-a-199a45e3-0c50-431f-83be-1d85bbf03b13#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T15:34:00+00:00"
     },
     {
       "titel": "Niedrigwasser: Und plötzlich liegt eine Bazooka am Ufer",
@@ -139,6 +139,18 @@
       "veroeffentlicht": "2026-08-13T14:17:12+00:00"
     },
     {
+      "titel": "Russland: Der Oppositionschef wollte Putin auf legalem Weg entgegentreten. Genutzt hat das nichts",
+      "link": "https://www.sueddeutsche.de/politik/profil-russland-opposition-nikolai-rybakow-jabloko-li.3530745",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T14:05:15+00:00"
+    },
+    {
+      "titel": "Ungleichheit: Wir brauchen das Erbe für alle – sofort!",
+      "link": "https://www.sueddeutsche.de/wirtschaft/erbschaften-deutschland-vermoegensverteilung-steuern-grunderbe-li.3516866",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-13T13:58:54+00:00"
+    },
+    {
       "titel": "Streaming: Sicherheitshalber laut",
       "link": "https://www.sueddeutsche.de/medien/serie-tip-toe-queerness-backlash-russel-t-davis-kritik-li.3524598",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/bmw-muenchen-krise-autoindustrie-design-kritik-li.3529919",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T13:22:39+00:00"
-    },
-    {
-      "titel": "Nachruf: Zum Tod von Josef Deimer: Einer wie keiner",
-      "link": "https://www.sueddeutsche.de/bayern/landshut-trauer-josef-dick-deimer-landshut-nachruf-li.3530999",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T13:06:54+00:00"
-    },
-    {
-      "titel": "Sportberichterstattung: Bronze für Mabry, Blech für Lufen",
-      "link": "https://www.sueddeutsche.de/medien/leichtathletik-em-live-interview-claus-lufen-yemisi-mabry-kritik-li.3530764",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T13:05:02+00:00"
     }
   ]
 }
