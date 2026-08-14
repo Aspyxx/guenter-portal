@@ -1,11 +1,83 @@
 {
-  "aktualisiert": "2026-08-14T09:28:43+00:00",
+  "aktualisiert": "2026-08-14T10:40:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Staatsverschuldung: US-Zinszahlungen steigen unter Trump auf 100 Milliarden im Monat",
+      "link": "https://www.spiegel.de/wirtschaft/staatsverschuldung-us-zinszahlungen-steigen-unter-trump-auf-100-milliarden-im-monat-a-1808bc96-9795-41d6-8dba-63229b526ed2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:37:00+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Anthropic warnt vor »Revierkämpfen« zwischen KI-Assistenten",
+      "link": "https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-anthropic-warnt-vor-revierkaempfen-zwischen-ki-assistenten-a-9a87836d-c98c-4187-96b8-2f113e351470#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:33:00+00:00"
+    },
+    {
+      "titel": "Moderatorin Laura Wontorra wechselt von DAZN zu RTL",
+      "link": "https://www.spiegel.de/kultur/tv/moderatorin-laura-wontorra-wechselt-von-dazn-zu-rtl-a-fb0497db-1da4-4248-8e6f-4b2dbe732b1c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:21:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Ministerpräsident Sven Schulze (CDU) äußert sich zu Wahlplakaten",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-ministerpraesident-sven-schulze-cdu-aeussert-sich-zu-wahlplakaten-a-712b3a01-613f-4118-9c12-4aa86871f1ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:19:00+00:00"
+    },
+    {
+      "titel": "Lübeck: Hauptbahnhof am Pride-Wochenende von Zugverkehr abgeschnitten",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/luebeck-hauptbahnhof-am-pride-wochenende-von-zugverkehr-abgeschnitten-a-42a2959e-8393-48e5-a7a6-026474f362e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:09:00+00:00"
+    },
+    {
+      "titel": "Deutschland und Afghanistan: Zwischen Abschiebungen und Hilfe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/taliban-afghanistan-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T10:08:29+00:00"
+    },
+    {
+      "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T09:58:15+00:00"
+    },
+    {
+      "titel": "Venedig: Bürgermeister meldet Delfin im Canal Grande",
+      "link": "https://www.spiegel.de/panorama/venedig-buergermeister-meldet-delfin-im-canal-grande-a-0a9fd0fe-957e-4c57-80d5-448a21a1f2da#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T09:58:00+00:00"
+    },
+    {
+      "titel": "Insolvenz-Entwicklung: Zahl der Firmenpleiten sinkt leicht",
+      "link": "https://www.spiegel.de/wirtschaft/insolvenz-entwicklung-zahl-der-firmenpleiten-sinkt-leicht-a-b50a4eca-6800-4089-98ab-2b62092e57ec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T09:51:00+00:00"
+    },
+    {
+      "titel": "FC Bayern München: Viessmann soll strategischer Anteilseigner werden",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-viessmann-soll-strategischer-anteilseigner-werden-a-a0f9b8a1-8305-48de-98a9-834237ef819f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T09:47:00+00:00"
+    },
+    {
+      "titel": "Leute: Im Urlaub wird sie zu Nicole Raveman",
+      "link": "https://www.sueddeutsche.de/panorama/promis-nicole-kidman-rave-urlaub-tanzen-li.3531366",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T09:43:45+00:00"
+    },
+    {
+      "titel": "Erdbeben in Kolumbien: Kritik an Präsident de la Espriella wächst",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-116.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T09:37:13+00:00"
+    },
     {
       "titel": "Gesund joggen: Wer mit Kinderwagen läuft, verletzt sich seltener",
       "link": "https://www.spiegel.de/wissenschaft/medizin/gesund-joggen-wer-mit-kinderwagen-laeuft-verletzt-sich-seltener-a-2abe483b-dce8-4dd1-881f-79d0f3aba16b#ref=rss",
@@ -17,42 +89,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T09:06:25+00:00"
-    },
-    {
-      "titel": "Thüringen: BSW-Spitze fordert Rücktritt von Voigt und Ende der Koalition",
-      "link": "https://www.spiegel.de/politik/deutschland/thueringen-bsw-spitze-fordert-ruecktritt-von-voigt-und-ende-der-koalition-a-84c2a413-0945-4e3a-b38d-e723516bc156#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T09:05:00+00:00"
-    },
-    {
-      "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T09:03:02+00:00"
-    },
-    {
-      "titel": "Bestsellerautor Sebastian Fitzek vergleicht Smartphones mit Crack",
-      "link": "https://www.spiegel.de/kultur/literatur/bestsellerautor-sebastian-fitzek-vergleich-smartphones-mit-crack-a-f13d793b-d600-4771-938e-f6da0b5ebb50#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T08:48:00+00:00"
-    },
-    {
-      "titel": "Dax-Konzerne machen Rekordgeschäfte und streichen Jobs",
-      "link": "https://www.spiegel.de/wirtschaft/dax-konzerne-machen-rekordgeschaefte-und-streichen-jobs-a-fb2c5cd2-2f41-4fc4-9542-66e923f1c8f7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T08:45:00+00:00"
-    },
-    {
-      "titel": "Demokratie-Experiment in Irland: Wenn der Postmann die Verfassung ändert",
-      "link": "https://www.spiegel.de/geschichte/demokratie-experiment-in-irland-wenn-der-postmann-die-verfassung-aendert-a-69ca92b4-eb1d-49c9-bd76-2542e6b85d3d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T08:43:00+00:00"
-    },
-    {
-      "titel": "Schutzgelderpresser-Banden in Berlin: Wie die Polizei die Eskalation der Gewalt stoppen will",
-      "link": "https://www.spiegel.de/panorama/justiz/schutzgelderpresser-banden-in-berlin-wie-die-polizei-die-eskalation-der-gewalt-stoppen-will-a-e2cc3451-dff7-49ce-829a-47d676fb3d38#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T08:40:00+00:00"
     },
     {
       "titel": "Wachsende Jugendkriminalität. Schweden senkt Alter für Strafmündigkeit",
@@ -67,28 +103,10 @@
       "veroeffentlicht": "2026-08-14T08:16:22+00:00"
     },
     {
-      "titel": "Leichtathletik-EM - Gesa Krause: auf der letzten Runde Gas, dann Gold",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-gesa-krause-auf-der-letzten-runde-gas-dann-gold-a-d19c0e05-44e5-412b-9583-04f17944d063#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T08:10:00+00:00"
-    },
-    {
-      "titel": "China stoppt für Essenslieferanten an roten Ampeln die Uhr – für mehr Verkehrssicherheit",
-      "link": "https://www.spiegel.de/wirtschaft/unfaelle-wegen-zeitdruck-peking-stoppt-fuer-essenslieferanten-an-roten-ampeln-die-uhr-a-3c1eb343-dba4-4c94-8c63-ae79103f0b6d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T07:56:00+00:00"
-    },
-    {
       "titel": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
       "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T07:51:03+00:00"
-    },
-    {
-      "titel": "Zweiter Weltkrieg: Selbstversenkung deutscher Kriegsschiffe in der Donau 1944",
-      "link": "https://www.spiegel.de/geschichte/zweiter-weltkrieg-selbstversenkung-deutscher-kriegsschiffe-in-der-donau-1944-a-43c5898c-993d-4263-8a13-bab05f5e060a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T07:29:00+00:00"
     },
     {
       "titel": "Vom Hoffnungsträger zur Machtmaschine - Erdogans AKP wird 25",
@@ -109,22 +127,10 @@
       "veroeffentlicht": "2026-08-14T07:05:46+00:00"
     },
     {
-      "titel": "Corona-Impfungen für Schwangere sicherer als Vorwürfe behaupten",
-      "link": "https://www.tagesschau.de/faktenfinder/corona-impfung-risiko-schwangerschaft-fauci-usa-covid-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T07:05:23+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Neugebauer stürzt sich mit letzter Kraft zu Gold",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-neugebauer-zehnkampf-gold-kaul-silber-li.3531173",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T06:44:22+00:00"
-    },
-    {
-      "titel": "Hamburger Cum-Ex-Affäre kommt nun doch vor Gericht",
-      "link": "https://www.tagesschau.de/investigativ/wdr/hamburg-cum-ex-gericht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T06:43:20+00:00"
     },
     {
       "titel": "Hitzewelle: Bauernverband befürchtet Ernteeinbußen bis hin zu Totalausfällen",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-hirmer-machtkampf-gesellschafter-tochter-li.3519351",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T14:17:12+00:00"
-    },
-    {
-      "titel": "Russland: Der Oppositionschef wollte Putin auf legalem Weg entgegentreten. Genutzt hat das nichts",
-      "link": "https://www.sueddeutsche.de/politik/profil-russland-opposition-nikolai-rybakow-jabloko-li.3530745",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T14:05:15+00:00"
     }
   ]
 }
