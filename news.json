@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-14T20:16:07+00:00",
+  "aktualisiert": "2026-08-14T21:03:44+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Jason Arday: Cambridge-Professor nach Plagiatsvorwürfen tot aufgefunden",
+      "link": "https://www.spiegel.de/ausland/jason-arday-cambridge-professor-nach-plagiatsvorwuerfen-tot-aufgefunden-a-7a75dcc5-f11a-484a-9fb0-1e25eab7b335#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T20:56:00+00:00"
+    },
+    {
+      "titel": "Matisse, Renoir und Cézanne: Drei aus Museen in Italien gestohlene Gemälde wieder aufgetaucht",
+      "link": "https://www.spiegel.de/ausland/matisse-renoir-und-cezanne-drei-aus-museen-in-italien-gestohlene-gemaelde-wieder-aufgetaucht-a-cc523c91-4cc0-41db-b4a9-2f6339785253#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T20:23:00+00:00"
+    },
+    {
+      "titel": "Stendal: AfD-Politiker verfolgt 14-Jährigen mit Baseballschläger",
+      "link": "https://www.spiegel.de/politik/stendal-afd-politiker-verfolgt-14-jaehrigen-mit-baseballschlaeger-a-bf6723db-bbea-4622-aaf2-7101caf4b71d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T20:19:00+00:00"
+    },
     {
       "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
       "link": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
@@ -77,24 +95,6 @@
       "link": "https://www.spiegel.de/sport/fussball/fc-liverpool-jeff-bezos-sichert-sich-minderheitsbeteiligung-a-21209612-1c01-4508-b44a-12e9bf0b1ec5#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T18:11:00+00:00"
-    },
-    {
-      "titel": "Nathalie Pohl: Extremschwimmerin erreicht nach vier Tagen und 200 Kilometern Köln",
-      "link": "https://www.spiegel.de/panorama/nathalie-pohl-extremschwimmerin-erreicht-nach-vier-tagen-und-200-kilometern-koeln-a-3fcd6e11-4726-4831-9afe-6a38b580d370#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T17:40:00+00:00"
-    },
-    {
-      "titel": "Düsseldorf: Frau wegen Hilfe für IS-Terroristen verurteilt",
-      "link": "https://www.spiegel.de/panorama/duesseldorf-frau-wegen-hilfe-fuer-is-terroristen-verurteilt-a-854e6aff-4729-4db2-acc6-980e3fbefdac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T17:37:00+00:00"
-    },
-    {
-      "titel": "Rostock: Ehepaar kann laut Landgericht Geld zurückverlangen, weil FKK-Bereich auf Kreuzfahrtschiff kleiner war",
-      "link": "https://www.spiegel.de/panorama/rostock-ehepaar-kann-laut-landgericht-geld-zurueckverlangen-weil-fkk-bereich-auf-kreuzfahrtschiff-kleiner-war-a-7cb239de-ffbf-4ae7-acfb-cf09a5a2213e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T17:04:00+00:00"
     },
     {
       "titel": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
