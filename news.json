@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-14T14:03:10+00:00",
+  "aktualisiert": "2026-08-14T15:08:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,58 @@
   },
   "meldungen": [
     {
+      "titel": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T14:59:11+00:00"
+    },
+    {
+      "titel": "Nigel Farage: Nach Wahlsieg gegen Count Binface droht Neuwahl",
+      "link": "https://www.spiegel.de/ausland/nigel-farage-nach-wahlsieg-gegen-count-binface-droht-neuwahl-a-ee333229-43a2-4494-919b-1b6ab4cf1256#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T14:53:00+00:00"
+    },
+    {
+      "titel": "Waldbrände: Grüne fordern Merz zum Handeln auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-waldbraende-forderungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T14:47:02+00:00"
+    },
+    {
+      "titel": "Gianni Infantino: Trumps WM-Beauftragter rät Kritikern des Fifa-Chefs zu »Untersuchung des Kopfes«",
+      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-trumps-wm-beauftragter-raet-kritikern-des-fifa-chefs-zu-untersuchung-des-kopfes-a-cd7fce5e-7208-4d67-9994-ff878f1dd8b8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T14:35:00+00:00"
+    },
+    {
+      "titel": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T14:22:36+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn klagt gegen Mitbenutzung ihrer Strecken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-klage-fernverkehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T14:12:58+00:00"
+    },
+    {
       "titel": "Warum die Fahrrinne im Rhein bisher nicht ausgebaut wurde",
       "link": "https://www.tagesschau.de/wirtschaft/rhein-niedrigwasser-fahrrinne-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T14:01:01+00:00"
+    },
+    {
+      "titel": "War Britannien matriarchal, bevor die Römer kamen?",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/war-britannien-matriarchal-bevor-die-roemer-kamen-a-14669a75-06df-4ae2-9209-5d122a0d26fa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T14:01:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Weizen und Sonnenblumenöl im russischen Visier",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-getreideexporte-krieg-schwarzes-meer-russland-li.3531075",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T13:52:42+00:00"
     },
     {
       "titel": "Polen: Donald Tusk spricht von vereitelter »Exekution« eines US-Bürgers durch Russen",
@@ -19,7 +67,7 @@
       "veroeffentlicht": "2026-08-14T13:52:00+00:00"
     },
     {
-      "titel": "Ryanair-Maschine: Mann fast gesogen – abgebrochenes Triebwerkteil wohl Grund für Druckverlust",
+      "titel": "Ryanair: Mann fast aus Flugzeug gesogen – Triebwerkteil wohl Grund für Druckverlust",
       "link": "https://www.spiegel.de/panorama/ryanair-maschine-mann-fast-gesogen-abgebrochenes-triebwerkteil-wohl-grund-fuer-druckverlust-a-f9294108-62e6-42b7-8fb2-3cfd7cea2128#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T13:50:00+00:00"
@@ -29,6 +77,12 @@
       "link": "https://www.spiegel.de/ausland/frankreich-verfassungsrat-kippt-social-media-verbot-fuer-unter-15-jaehrige-a-5bd68c94-5b6a-4f80-a272-e25d6c1d346f#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T13:48:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Gold, Bronze – und Grabenkämpfe unter Teamkolleginnen",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-hindernisrennen-3000m-krause-meyer-streit-interview-li.3531175",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T13:44:31+00:00"
     },
     {
       "titel": "Lars Klingbeil: Finanzminister will Steuervorteil für Mitarbeiterrabatte streichen",
@@ -55,14 +109,14 @@
       "veroeffentlicht": "2026-08-14T12:44:16+00:00"
     },
     {
-      "titel": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T12:43:52+00:00"
+      "titel": "Drohne über Lettland: Warnstufe Orange um vier Uhr morgens",
+      "link": "https://www.sueddeutsche.de/politik/lettland-drohne-abschuss-eurofighter-ukraine-russland-li.3531342",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T12:31:11+00:00"
     },
     {
-      "titel": "Flugzeugträger USS »Abraham Lincoln«: Lassen die USA ihre Matrosen allein auf hoher See im Dreck zurück?",
-      "link": "https://www.spiegel.de/ausland/flugzeugtraeger-uss-abraham-lincoln-lassen-die-usa-ihre-matrosen-allein-auf-hoher-see-im-dreck-zurueck-a-49a10271-6fe3-4609-92aa-2373ac5f496d#ref=rss",
+      "titel": "USS »Abraham Lincoln«: Lassen die USA die Besatzung des Flugzeugträgers im Stich?",
+      "link": "https://www.spiegel.de/ausland/uss-abraham-lincoln-lassen-die-usa-die-besatzung-des-flugzeugtraegers-im-stich-a-49a10271-6fe3-4609-92aa-2373ac5f496d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T12:31:00+00:00"
     },
@@ -79,34 +133,10 @@
       "veroeffentlicht": "2026-08-14T12:25:00+00:00"
     },
     {
-      "titel": "Ukrainekrieg: Russland lehnt Waffenruhe im Schwarzen Meer ab",
-      "link": "https://www.spiegel.de/ausland/ukrainekrieg-russland-lehnt-waffenruhe-im-schwarzen-meer-ab-a-0321a338-281d-4abf-906d-0f7ec2e0accf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T12:20:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Aktienkurs von HelloFresh stürzt auf Rekordtief",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/marktbericht-hellofresh-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T12:19:52+00:00"
-    },
-    {
       "titel": "Verkehr: Warum Stürze mit dem E-Scooter so gefährlich sind",
       "link": "https://www.sueddeutsche.de/gesundheit/e-scooter-unfaelle-deutschland-kopfverletzungen-alkoholeinfluss-helmpflicht-li.3527141",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T12:19:20+00:00"
-    },
-    {
-      "titel": "Großbritannien: Nigel Farage gewinnt Nachwahl in Clacton gegen Count Binface",
-      "link": "https://www.spiegel.de/ausland/grossbritannien-nigel-farage-gewinnt-nachwahl-in-clacton-gegen-count-binface-a-4e245102-4b2d-4c4b-a963-413f05030636#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T12:11:00+00:00"
-    },
-    {
-      "titel": "Sehmatal in Sachsen: Hubschrauber im Erzgebirge abgestürzt – Pilot tot",
-      "link": "https://www.spiegel.de/panorama/sehmatal-in-sachsen-hubschrauber-im-erzgebirge-abgestuerzt-pilot-tot-a-c4d0cc78-b24a-4252-b2e2-b0d456761fb6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T12:10:00+00:00"
     },
     {
       "titel": "Journalismus: Ein menschliches Antlitz",
@@ -115,7 +145,7 @@
       "veroeffentlicht": "2026-08-14T12:07:27+00:00"
     },
     {
-      "titel": "Zeitungen: DuMont streicht 57 Stellen",
+      "titel": "Zeitungen: Dumont streicht 57 Stellen",
       "link": "https://www.sueddeutsche.de/medien/koelner-stadt-anzeiger-umbau-stellen-dumont-li.3531068",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T11:40:00+00:00"
@@ -127,46 +157,16 @@
       "veroeffentlicht": "2026-08-14T11:30:20+00:00"
     },
     {
-      "titel": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T11:26:49+00:00"
-    },
-    {
       "titel": "Katholische Kirche: Mehr Erwachsene lassen sich taufen",
-      "link": "https://www.sueddeutsche.de/politik/taufen-erwachsene-li.3529343",
+      "link": "https://www.sueddeutsche.de/politik/taufen-erwachsene-zuwachs-deutschland-frankreich-li.3529343",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T11:21:09+00:00"
-    },
-    {
-      "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T11:16:51+00:00"
     },
     {
       "titel": "Geheimtraining: Vor dem Oktoberfest: Wie Neu-OB Dominik Krause das Anzapfen übt",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-anzapfen-training-oberbuergermeister-dominik-krause-paulaner-li.3530450",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T10:04:51+00:00"
-    },
-    {
-      "titel": "Leute: Im Urlaub wird sie zu Nicole Raveman",
-      "link": "https://www.sueddeutsche.de/panorama/promis-nicole-kidman-rave-urlaub-tanzen-scrabble-li.3531366",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T09:43:45+00:00"
-    },
-    {
-      "titel": "Ostdeutschland: „Ich habe mich oft gefragt: Merkel, warum sagst du denn nichts?“",
-      "link": "https://www.sueddeutsche.de/kultur/marieke-reimann-zweite-wende-interview-sachbuch-li.3522614",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T07:23:50+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Neugebauer stürzt sich mit letzter Kraft zu Gold",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-neugebauer-zehnkampf-gold-kaul-silber-li.3531173",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T06:44:22+00:00"
     }
   ]
 }
