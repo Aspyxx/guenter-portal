@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-14T02:47:17+00:00",
+  "aktualisiert": "2026-08-14T05:04:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,94 @@
   },
   "meldungen": [
     {
+      "titel": "Lettland: Kampfjets fangen Drohne ab",
+      "link": "https://www.spiegel.de/ausland/lettland-kampfjets-fangen-drohne-ab-a-110d185f-3312-481c-95cd-a558a42a05da#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T04:51:00+00:00"
+    },
+    {
+      "titel": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
+      "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T04:48:24+00:00"
+    },
+    {
+      "titel": "Hürtgenwald: Waldbrand in der Eifel – NRW-Ortsteil evakuiert",
+      "link": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-in-der-eifel-nrw-ortsteil-evakuiert-a-d90cff71-1e6b-4575-811d-e0ab921b171d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T04:47:00+00:00"
+    },
+    {
+      "titel": "Dürre und Hitzewelle: Bauernverband befürchtet in einigen Regionen »totalen Ernteausfall«",
+      "link": "https://www.spiegel.de/wirtschaft/duerre-und-hitzewelle-bauernverband-befuerchtet-in-einigen-regionen-totalen-ernteausfall-a-8a99a162-dcde-4481-b935-cb47b325568e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T04:34:00+00:00"
+    },
+    {
+      "titel": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-aetna-asche-folgen-flugverkehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T04:28:28+00:00"
+    },
+    {
+      "titel": "Warum Christopher Nolans \"Die Odyssee\" für Debatten sorgt",
+      "link": "https://www.tagesschau.de/kultur/die-odyssee-popkultur-kontroversen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T04:28:09+00:00"
+    },
+    {
       "titel": "Krieg in der Ukraine: Lettland ruft Luftalarm aus, Nato-Kampfjets schießen Drohne ab",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-baltikum-luftalarm-nato-jets-li.3524928",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T02:36:17+00:00"
+      "veroeffentlicht": "2026-08-14T04:13:55+00:00"
+    },
+    {
+      "titel": "Warum Diesel trotz gesunkener Ölpreise so teuer bleibt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-oelpreis-spritpreise-heizoel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T04:00:13+00:00"
+    },
+    {
+      "titel": "Hitzewelle: Waldbrand in NRW: 1800 Menschen in Sicherheit gebracht",
+      "link": "https://www.sueddeutsche.de/panorama/1-800-menschen-werden-aus-nrw-gemeinde-huertgenwald-evakuiert-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T03:47:25+00:00"
+    },
+    {
+      "titel": "Grünen-Fraktionschefin: Regierung sieht bei Spritpreis-Abzocke zu",
+      "link": "https://www.tagesschau.de/inland/hohe-spritpreise-gruene-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T03:40:02+00:00"
+    },
+    {
+      "titel": "News: Frust in der SPD, Bandengewalt in Berlin, Futtermangel in der Landwirtschaft",
+      "link": "https://www.spiegel.de/politik/deutschland/news-frust-in-der-spd-bandengewalt-in-berlin-futtermangel-in-der-landwirtschaft-a-efd47bd0-cfc0-4701-8e06-a587db25b4f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T03:38:00+00:00"
+    },
+    {
+      "titel": "Obst- und Gemüse-Saisonkalender: Was wächst wann?",
+      "link": "https://www.spiegel.de/effilee/essen/obst-und-gemuese-saisonkalender-was-waechst-wann-a-5c142c04-9218-4645-a9c0-fc7ad69c71a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T03:30:00+00:00"
+    },
+    {
+      "titel": "Marmelade kochen, Weckgläser nutzen und Gemüsepaste herstellen: So einfach geht's",
+      "link": "https://www.spiegel.de/effilee/marmelade-kochen-weckglaeser-nutzen-und-gemuesepaste-herstellen-so-einfach-gehts-a-c3e2ec74-5c04-41bb-8d6c-caa0e96f7f9d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T03:30:00+00:00"
+    },
+    {
+      "titel": "Kim Cattrall wird 70",
+      "link": "https://www.spiegel.de/panorama/kim-cattrall-wird-70-a-a5cc0493-f9b2-430c-9181-9d2441d668f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T03:04:00+00:00"
+    },
+    {
+      "titel": "„Sarah Tacke“ im ZDF: „Gerechtigkeit“? Hat doch mit Erbschaften nichts zu tun",
+      "link": "https://www.sueddeutsche.de/medien/sarah-tacke-zdf-erbschaften-gerechtigkeit-li.3531048",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T02:45:57+00:00"
     },
     {
       "titel": "A44 bei Diemelstadt in Hessen: Lkw fährt in Rettungswagen auf Standstreifen – mehrere Verletzte",
@@ -25,18 +109,6 @@
       "veroeffentlicht": "2026-08-14T01:30:00+00:00"
     },
     {
-      "titel": "Hitzewelle: Bis zu 38 Grad: Deutschland schwitzt weiter",
-      "link": "https://www.sueddeutsche.de/panorama/bis-zu-38-grad-deutschland-schwitzt-weiter-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T01:06:13+00:00"
-    },
-    {
-      "titel": "USA vollstrecken drei Todesurteile an einem Tag in Tennessee, Oklahoma und Alabama",
-      "link": "https://www.spiegel.de/panorama/usa-vollstrecken-drei-todesurteile-an-einem-tag-in-tennessee-oklahoma-und-alabama-a-51c8f6bf-acc0-445d-ba16-ed5732781e1d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T00:52:00+00:00"
-    },
-    {
       "titel": "Bauernverband befürchtet teils totalen Ernteausfall",
       "link": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
       "quelle": "Tagesschau",
@@ -49,46 +121,10 @@
       "veroeffentlicht": "2026-08-14T00:47:45+00:00"
     },
     {
-      "titel": "Kuba wirft USA »brutale und unmoralische Belagerung« vor",
-      "link": "https://www.spiegel.de/ausland/kuba-wirft-usa-brutale-und-unmoralische-belagerung-vor-a-7058c6a5-18b5-40d8-a0d4-2fbf0ddbb05c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T00:00:00+00:00"
-    },
-    {
-      "titel": "Tirol: Deutscher Wanderer stürzt bei Familienausflug in den Tod",
-      "link": "https://www.spiegel.de/panorama/tirol-deutscher-wanderer-stuerzt-bei-familienausflug-in-den-tod-a-112ab130-3bb1-49af-911e-4a9243243ab2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T23:42:00+00:00"
-    },
-    {
-      "titel": "Kennedy Center: Donald Trumps Name soll an Fassade zurückkehren",
-      "link": "https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-soll-an-fassade-zurueckkehren-a-e0a1174f-e29c-4ea6-abb2-b0d36b195ab7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T22:54:00+00:00"
-    },
-    {
-      "titel": "Donald Trump ordnet Rückkehr zu Dampfkatapulten auf US-Flugzeugträgern an",
-      "link": "https://www.spiegel.de/ausland/donald-trump-ordnet-rueckkehr-zu-dampfkatapulten-auf-us-flugzeugtraegern-an-a-37da79a9-f62c-4537-8dc2-f58eeb601fc2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T22:20:00+00:00"
-    },
-    {
-      "titel": "Alabali Radovan: Afghanen helfen ohne Taliban-Kooperation",
+      "titel": "Alabali Radovan: Hilfe für Afghanen - ohne Taliban-Kooperation",
       "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T22:00:27+00:00"
-    },
-    {
-      "titel": "East Sussex: Zug im Südosten Englands entgleist – mehrere Verletzte",
-      "link": "https://www.spiegel.de/panorama/east-sussex-zug-im-suedosten-englands-entgleist-mehrere-verletzte-a-02dbe3b2-b1cf-4ac2-b7d7-0bb9f492b1c9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T21:47:00+00:00"
-    },
-    {
-      "titel": "Erling Haaland: Polizei stellt Kokain mit Konterfei des Fußball-Stars sicher",
-      "link": "https://www.spiegel.de/panorama/justiz/erling-haaland-polizei-stellt-kokain-mit-konterfei-des-fussball-stars-sicher-a-7445eb68-1013-44b6-9b8f-2cb8fa59b470#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T20:52:00+00:00"
     },
     {
       "titel": "Klage über Missstände - Flugzeugträger \"USS Abraham Lincoln\" wird wohl abgelöst",
@@ -97,40 +133,10 @@
       "veroeffentlicht": "2026-08-13T20:08:42+00:00"
     },
     {
-      "titel": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
-      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T19:55:03+00:00"
-    },
-    {
-      "titel": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
-      "link": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T18:16:07+00:00"
-    },
-    {
       "titel": "USA: Gericht weist Klage der Trump-Regierung gegen Harvard ab",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-harvard-antisemitismus-klage-gericht-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T17:03:51+00:00"
-    },
-    {
-      "titel": "Marktbericht: Rekordserie geht erstmal nicht weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T16:25:34+00:00"
-    },
-    {
-      "titel": "Urteil gegen Airline: Passagiere dürfen mehrere Handgepäckstücke mitnehmen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/handgepaeck-flugzeug-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T16:02:24+00:00"
-    },
-    {
-      "titel": "Niedrigwasser: Und plötzlich liegt eine Bazooka am Ufer",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T15:30:17+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Rechtspopulist Farage vs. Mülleimer: Worum es bei Großbritanniens kuriosester Nachwahl geht",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/medien/serie-tip-toe-queerness-backlash-russel-t-davis-kritik-li.3524598",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T13:47:38+00:00"
-    },
-    {
-      "titel": "1. FC Köln: Die große El-Mala-Frage",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-el-mala-koeln-dortmund-transfer-zweifel-li.3530532",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T13:44:22+00:00"
     }
   ]
 }
