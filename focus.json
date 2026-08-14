@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-14T16:10:28+00:00",
+  "aktualisiert": "2026-08-14T17:22:09+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Chalkidiki Brand",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔥"
+    },
+    {
+      "rang": 2,
       "titel": "Florian Hager bleibt Intendant des Hessischen Rundfunks",
       "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Aktienkurs von HelloFresh stürzt auf Rekordtief",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/marktbericht-hellofresh-100.html",
+      "rang": 3,
+      "titel": "DAX-Gewinne reichen nicht für Rekord",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
-    },
-    {
-      "rang": 3,
-      "titel": "Grüne fordern Merz zum Handeln auf",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-waldbraende-forderungen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
