@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-14T18:08:50+00:00",
+  "aktualisiert": "2026-08-14T19:20:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Reit-WM 2026: Debütantin Katharina Hemmer holt überraschend Bronze",
+      "link": "https://www.spiegel.de/sport/reit-wm-2026-debuetantin-katharina-hemmer-holt-ueberraschend-bronze-a-0d9bf4b0-ec87-48c4-ae36-c32b95d8bcff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T18:57:00+00:00"
+    },
+    {
+      "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T18:53:38+00:00"
+    },
+    {
+      "titel": "Donald Trump: So verlief die Flucht im Catering-Container",
+      "link": "https://www.spiegel.de/ausland/donald-trump-so-verlief-die-flucht-im-catering-container-a-cf01f83f-604e-422d-a941-d573d6228884#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T18:33:00+00:00"
+    },
+    {
+      "titel": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T18:28:38+00:00"
+    },
+    {
+      "titel": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T18:19:37+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Wie Campact mit drei Millionen Euro gegen die AfD mobilisiert",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-campact-mit-drei-millionen-euro-gegen-die-afd-mobilisiert-a-19554589-1655-4bc8-b5c7-abe7ee807d59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T18:16:00+00:00"
+    },
+    {
+      "titel": "Kleingarten: »Sogar Wessis sind Menschen« – Streit im Schrebergarten - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/kleingarten-sogar-wessis-sind-menschen-streit-im-schrebergarten-spiegel-tv-a-67dda0dd-a43a-48b6-a341-17260e2f3410#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T18:12:00+00:00"
+    },
+    {
+      "titel": "FC Liverpool: Jeff Bezos sichert sich Minderheitsbeteiligung",
+      "link": "https://www.spiegel.de/sport/fussball/fc-liverpool-jeff-bezos-sichert-sich-minderheitsbeteiligung-a-21209612-1c01-4508-b44a-12e9bf0b1ec5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T18:11:00+00:00"
+    },
     {
       "titel": "Nathalie Pohl: Extremschwimmerin erreicht nach vier Tagen und 200 Kilometern Köln",
       "link": "https://www.spiegel.de/panorama/nathalie-pohl-extremschwimmerin-erreicht-nach-vier-tagen-und-200-kilometern-koeln-a-3fcd6e11-4726-4831-9afe-6a38b580d370#ref=rss",
@@ -17,12 +65,6 @@
       "link": "https://www.spiegel.de/panorama/duesseldorf-frau-wegen-hilfe-fuer-is-terroristen-verurteilt-a-854e6aff-4729-4db2-acc6-980e3fbefdac#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T17:37:00+00:00"
-    },
-    {
-      "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T17:34:27+00:00"
     },
     {
       "titel": "Rostock: Ehepaar kann laut Landgericht Geld zurückverlangen, weil FKK-Bereich auf Kreuzfahrtschiff kleiner war",
@@ -43,18 +85,6 @@
       "veroeffentlicht": "2026-08-14T16:49:59+00:00"
     },
     {
-      "titel": "Frankreich: Emmanuel Macron wird beim Jetski-Fahren fotografiert, während der Wald brennt",
-      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-wird-beim-jetski-fahren-fotografiert-waehrend-der-wald-brennt-a-23414252-630a-4001-849c-cb1afe81d5fe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T16:48:00+00:00"
-    },
-    {
-      "titel": "»Kölner Stadt-Anzeiger« Medien bauen um – 57 Vollzeitstellen betroffen",
-      "link": "https://www.spiegel.de/wirtschaft/koelner-stadt-anzeiger-medien-bauen-um-57-vollzeitstellen-betroffen-a-7c8ba047-ead7-44ff-8af7-24baec8ecadc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T16:37:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
       "quelle": "Tagesschau",
@@ -67,28 +97,10 @@
       "veroeffentlicht": "2026-08-14T16:23:56+00:00"
     },
     {
-      "titel": "Hürtgenwald in der Eifel: Rund 1800 Menschen wegen Waldbrand vorsorglich evakuiert",
-      "link": "https://www.spiegel.de/panorama/huertgenwald-in-der-eifel-rund-1800-menschen-wegen-waldbrand-vorsorglich-evakuiert-a-2bfca052-5517-46f8-ba13-63756c739b3a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T16:18:00+00:00"
-    },
-    {
       "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
       "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T16:12:45+00:00"
-    },
-    {
-      "titel": "Hürtgenwald in der Eifel: Bewohner warten auf Evakuierung wegen Waldbrand",
-      "link": "https://www.spiegel.de/panorama/huertgenwald-in-der-eifel-bewohner-warten-auf-evakuierung-wegen-waldbrand-a-72de5537-107f-4566-bae9-62c72ac73c23#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T16:11:00+00:00"
-    },
-    {
-      "titel": "Bundesregierung fehlen Daten zu Wartezeit auf Therapieplatz bei jungen Menschen",
-      "link": "https://www.spiegel.de/gesundheit/bundesregierung-fehlen-daten-zu-wartezeit-auf-therapieplatz-bei-jungen-menschen-a-9e4dc346-9ed7-48f4-b314-3155e46c9b3d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T16:07:00+00:00"
     },
     {
       "titel": "Kolumbien: Die geretteten Babys von Cali",
@@ -115,12 +127,6 @@
       "veroeffentlicht": "2026-08-14T15:07:58+00:00"
     },
     {
-      "titel": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T14:59:11+00:00"
-    },
-    {
       "titel": "Podcast: „Auf den Punkt“: Hitzewelle: Das würde den Landwirten jetzt helfen",
       "link": "https://www.sueddeutsche.de/politik/landwirtschaft-deutschland-folgen-trockenheit-forderungen-bauernverband-li.3531494",
       "quelle": "Süddeutsche",
@@ -131,12 +137,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-waldbraende-forderungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T14:47:02+00:00"
-    },
-    {
-      "titel": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T14:22:36+00:00"
     },
     {
       "titel": "Ukraine-Krieg: Weizen und Sonnenblumenöl im russischen Visier",
