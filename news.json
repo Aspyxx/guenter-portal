@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-14T17:13:10+00:00",
+  "aktualisiert": "2026-08-14T18:08:50+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nathalie Pohl: Extremschwimmerin erreicht nach vier Tagen und 200 Kilometern Köln",
+      "link": "https://www.spiegel.de/panorama/nathalie-pohl-extremschwimmerin-erreicht-nach-vier-tagen-und-200-kilometern-koeln-a-3fcd6e11-4726-4831-9afe-6a38b580d370#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T17:40:00+00:00"
+    },
+    {
+      "titel": "Düsseldorf: Frau wegen Hilfe für IS-Terroristen verurteilt",
+      "link": "https://www.spiegel.de/panorama/duesseldorf-frau-wegen-hilfe-fuer-is-terroristen-verurteilt-a-854e6aff-4729-4db2-acc6-980e3fbefdac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T17:37:00+00:00"
+    },
+    {
+      "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T17:34:27+00:00"
+    },
     {
       "titel": "Rostock: Ehepaar kann laut Landgericht Geld zurückverlangen, weil FKK-Bereich auf Kreuzfahrtschiff kleiner war",
       "link": "https://www.spiegel.de/panorama/rostock-ehepaar-kann-laut-landgericht-geld-zurueckverlangen-weil-fkk-bereich-auf-kreuzfahrtschiff-kleiner-war-a-7cb239de-ffbf-4ae7-acfb-cf09a5a2213e#ref=rss",
@@ -23,12 +41,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T16:49:59+00:00"
-    },
-    {
-      "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T16:49:03+00:00"
     },
     {
       "titel": "Frankreich: Emmanuel Macron wird beim Jetski-Fahren fotografiert, während der Wald brennt",
@@ -85,22 +97,10 @@
       "veroeffentlicht": "2026-08-14T16:06:06+00:00"
     },
     {
-      "titel": "USA: Luigi Mangione bekennt sich schuldig, Brian Thompson erschossen zu haben",
-      "link": "https://www.spiegel.de/ausland/usa-luigi-mangione-bekennt-sich-schuldig-brian-thompson-erschossen-zu-haben-a-f2e4d86a-c981-40e2-bf9c-52415468d774#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T16:05:00+00:00"
-    },
-    {
       "titel": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
       "link": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T15:51:29+00:00"
-    },
-    {
-      "titel": "DDR-Moped: Auch reimportierte Simsons dürfen Tempo 60 fahren",
-      "link": "https://www.spiegel.de/mobilitaet/ddr-moped-auch-reimportierte-simsons-duerfen-tempo-60-fahren-a-53ae2ea8-9791-4da4-8e99-6c86d903e41d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T15:51:00+00:00"
     },
     {
       "titel": "Kinder- und Jugendschutz: Französischer Verfassungsrat kippt Altersgrenze für soziale Medien",
