@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-14T08:03:57+00:00",
+  "aktualisiert": "2026-08-14T09:28:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,7 +7,73 @@
   },
   "meldungen": [
     {
-      "titel": "Unfälle wegen Zeitdruck: Peking stoppt für Essenslieferanten an roten Ampeln die Uhr",
+      "titel": "Gesund joggen: Wer mit Kinderwagen läuft, verletzt sich seltener",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/gesund-joggen-wer-mit-kinderwagen-laeuft-verletzt-sich-seltener-a-2abe483b-dce8-4dd1-881f-79d0f3aba16b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T09:17:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX tastet sich an Allzeithoch heran",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T09:06:25+00:00"
+    },
+    {
+      "titel": "Thüringen: BSW-Spitze fordert Rücktritt von Voigt und Ende der Koalition",
+      "link": "https://www.spiegel.de/politik/deutschland/thueringen-bsw-spitze-fordert-ruecktritt-von-voigt-und-ende-der-koalition-a-84c2a413-0945-4e3a-b38d-e723516bc156#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T09:05:00+00:00"
+    },
+    {
+      "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T09:03:02+00:00"
+    },
+    {
+      "titel": "Bestsellerautor Sebastian Fitzek vergleicht Smartphones mit Crack",
+      "link": "https://www.spiegel.de/kultur/literatur/bestsellerautor-sebastian-fitzek-vergleich-smartphones-mit-crack-a-f13d793b-d600-4771-938e-f6da0b5ebb50#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T08:48:00+00:00"
+    },
+    {
+      "titel": "Dax-Konzerne machen Rekordgeschäfte und streichen Jobs",
+      "link": "https://www.spiegel.de/wirtschaft/dax-konzerne-machen-rekordgeschaefte-und-streichen-jobs-a-fb2c5cd2-2f41-4fc4-9542-66e923f1c8f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T08:45:00+00:00"
+    },
+    {
+      "titel": "Demokratie-Experiment in Irland: Wenn der Postmann die Verfassung ändert",
+      "link": "https://www.spiegel.de/geschichte/demokratie-experiment-in-irland-wenn-der-postmann-die-verfassung-aendert-a-69ca92b4-eb1d-49c9-bd76-2542e6b85d3d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T08:43:00+00:00"
+    },
+    {
+      "titel": "Schutzgelderpresser-Banden in Berlin: Wie die Polizei die Eskalation der Gewalt stoppen will",
+      "link": "https://www.spiegel.de/panorama/justiz/schutzgelderpresser-banden-in-berlin-wie-die-polizei-die-eskalation-der-gewalt-stoppen-will-a-e2cc3451-dff7-49ce-829a-47d676fb3d38#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T08:40:00+00:00"
+    },
+    {
+      "titel": "Wachsende Jugendkriminalität. Schweden senkt Alter für Strafmündigkeit",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T08:18:08+00:00"
+    },
+    {
+      "titel": "Mehr Hitzewellen: Städte brauchen Abkühlung - doch wer bezahlt?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klima-staedte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T08:16:22+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM - Gesa Krause: auf der letzten Runde Gas, dann Gold",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-gesa-krause-auf-der-letzten-runde-gas-dann-gold-a-d19c0e05-44e5-412b-9583-04f17944d063#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T08:10:00+00:00"
+    },
+    {
+      "titel": "China stoppt für Essenslieferanten an roten Ampeln die Uhr – für mehr Verkehrssicherheit",
       "link": "https://www.spiegel.de/wirtschaft/unfaelle-wegen-zeitdruck-peking-stoppt-fuer-essenslieferanten-an-roten-ampeln-die-uhr-a-3c1eb343-dba4-4c94-8c63-ae79103f0b6d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T07:56:00+00:00"
@@ -23,12 +89,6 @@
       "link": "https://www.spiegel.de/geschichte/zweiter-weltkrieg-selbstversenkung-deutscher-kriegsschiffe-in-der-donau-1944-a-43c5898c-993d-4263-8a13-bab05f5e060a#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T07:29:00+00:00"
-    },
-    {
-      "titel": "Bundespräsidentenwahl: Boris Rhein als »heißer Favorit« – was hinter dem Gerücht steckt",
-      "link": "https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-boris-rhein-als-heisser-favorit-was-hinter-dem-geruecht-steckt-a-7d01b0c2-9607-47aa-b9a3-2b7246fe2e32#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T07:28:00+00:00"
     },
     {
       "titel": "Vom Hoffnungsträger zur Machtmaschine - Erdogans AKP wird 25",
@@ -55,24 +115,6 @@
       "veroeffentlicht": "2026-08-14T07:05:23+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Leo Neugebauer im Zehnkampf: König im Chaos",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-leo-neugebauer-im-zehnkampf-koenig-im-chaos-a-052a0e9b-d177-4d6e-a133-db1a8ac04efb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T07:05:00+00:00"
-    },
-    {
-      "titel": "Auto-Industrie beschäftigt so wenige Menschen wie vor 20 Jahren",
-      "link": "https://www.spiegel.de/wirtschaft/auto-industrie-beschaeftigt-so-wenige-menschen-wie-vor-20-jahren-a-7db2440b-1fbe-4a53-8091-67d330917578#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T06:59:00+00:00"
-    },
-    {
-      "titel": "SPD in der Krise: Warum neue Vorsitzende die Probleme nicht lösen – Meinung",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-in-der-krise-warum-neue-vorsitzende-die-probleme-nicht-loesen-meinung-a-e30774cf-b299-4eea-bbee-7caa0c3cf116#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T06:51:00+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Neugebauer stürzt sich mit letzter Kraft zu Gold",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-neugebauer-zehnkampf-gold-kaul-silber-li.3531173",
       "quelle": "Süddeutsche",
@@ -91,58 +133,16 @@
       "veroeffentlicht": "2026-08-14T06:40:31+00:00"
     },
     {
-      "titel": "Vance nennt niedrige Öl- und Gaspreise als wichtigstes Kriegsziel in Iran",
-      "link": "https://www.tagesschau.de/ausland/amerika/vance-iran-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T06:30:49+00:00"
-    },
-    {
-      "titel": "Landtagswahlen in Sachsen-Anhalt: Bundesrat sieht sich gewappnet für mögliche AfD-Regierung",
-      "link": "https://www.spiegel.de/politik/deutschland/landtagswahlen-in-sachsen-anhalt-bundesrat-sieht-sich-gewappnet-fuer-moegliche-afd-regierung-a-7a4e1fd8-2bc1-4652-8550-d4cc700da833#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T06:30:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Luftalarm in Lettland: Kampfjets schießen Drohne ab",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T06:16:12+00:00"
     },
     {
-      "titel": "Hohe Spritpreise: Grüne fordern Abschöpfung von Milliardengewinnen",
-      "link": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-gruene-fordern-abschoepfung-von-milliardengewinnen-a-f25da8c6-0f7a-48fe-a0ad-4a4cc726bba9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T06:16:00+00:00"
-    },
-    {
-      "titel": "USA wollen mit Zöllen auf Drohnen China treffen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/drohne-usa-zoll-china-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T06:12:30+00:00"
-    },
-    {
-      "titel": "Japan: Mehrere Tote nach Starkregen und Überschwemmungen östlich von Tokio",
-      "link": "https://www.spiegel.de/panorama/japan-mehrere-tote-nach-starkregen-und-ueberschwemmungen-oestlich-von-tokio-a-edf0a153-e4d1-48b3-929c-7880e63c6a5e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T06:02:00+00:00"
-    },
-    {
       "titel": "USA: USA verhängen hohe Zölle auf Drohnen und Drohnen-Bauteile",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-zoelle-drohnen-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T05:50:00+00:00"
-    },
-    {
-      "titel": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-aetna-asche-folgen-flugverkehr-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T04:28:28+00:00"
-    },
-    {
-      "titel": "Warum Christopher Nolans \"Die Odyssee\" für Debatten sorgt",
-      "link": "https://www.tagesschau.de/kultur/die-odyssee-popkultur-kontroversen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T04:28:09+00:00"
     },
     {
       "titel": "TV-Kritik: „Gerechtigkeit“? Hat doch mit Erbschaften nichts zu tun",
