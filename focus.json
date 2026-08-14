@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-14T21:45:20+00:00",
+  "aktualisiert": "2026-08-14T22:09:26+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "So Klingt Deutschland",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/taliban-afghanistan-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "\"Ein doppelter Weckruf\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Florian Hager bleibt Intendant des Hessischen Rundfunks",
       "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "DAX-Gewinne reichen nicht für Rekord",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
     }
   ]
 }
