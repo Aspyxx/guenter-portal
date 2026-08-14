@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-13T23:04:17+00:00",
+  "aktualisiert": "2026-08-14T00:00:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tirol: Deutscher Wanderer stürzt bei Familienausflug in den Tod",
+      "link": "https://www.spiegel.de/panorama/tirol-deutscher-wanderer-stuerzt-bei-familienausflug-in-den-tod-a-112ab130-3bb1-49af-911e-4a9243243ab2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-13T23:42:00+00:00"
+    },
     {
       "titel": "Kennedy Center: Donald Trumps Name soll an Fassade zurückkehren",
       "link": "https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-soll-an-fassade-zurueckkehren-a-e0a1174f-e29c-4ea6-abb2-b0d36b195ab7#ref=rss",
@@ -71,12 +77,6 @@
       "link": "https://www.spiegel.de/ausland/alexandria-ocasio-cortez-linke-ikone-mit-wachsenden-praesidentschaftsambitionen-a-d4ad4df4-1848-427c-8fe1-41098985a475#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-13T19:36:00+00:00"
-    },
-    {
-      "titel": "Block-Prozess: Entführte Kinder laut Psychiaterin traumatisiert",
-      "link": "https://www.spiegel.de/panorama/block-prozess-entfuehrte-kinder-laut-psychiaterin-traumatisiert-a-58b796d2-8acd-4e54-87c3-5eb611198f04#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T19:25:00+00:00"
     },
     {
       "titel": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
