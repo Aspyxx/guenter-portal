@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-14T15:08:01+00:00",
+  "aktualisiert": "2026-08-14T16:07:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: Luigi Mangione bekennt sich schuldig, Brian Thompson erschossen zu haben",
+      "link": "https://www.spiegel.de/ausland/usa-luigi-mangione-bekennt-sich-schuldig-brian-thompson-erschossen-zu-haben-a-f2e4d86a-c981-40e2-bf9c-52415468d774#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T16:05:00+00:00"
+    },
+    {
+      "titel": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T15:51:29+00:00"
+    },
+    {
+      "titel": "DDR-Moped: Auch reimportierte Simsons dürfen Tempo 60 fahren",
+      "link": "https://www.spiegel.de/mobilitaet/ddr-moped-auch-reimportierte-simsons-duerfen-tempo-60-fahren-a-53ae2ea8-9791-4da4-8e99-6c86d903e41d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T15:51:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Alexandria Ocasio-Cortez, Bundespräsidentenwahl, Parkplatzprobleme",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-alexandria-ocasio-cortez-bundespraesidentenwahl-parkplatzprobleme-a-4cb84470-2efd-485d-ab4e-d8b416b21f6e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T15:29:00+00:00"
+    },
+    {
+      "titel": "Kinder- und Jugendschutz: Französischer Verfassungsrat kippt Altersgrenze für soziale Medien",
+      "link": "https://www.sueddeutsche.de/politik/social-media-verbot-frankreich-macron-verfassungsgericht-li.3531612",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T15:18:42+00:00"
+    },
+    {
+      "titel": "Klima: KI führt laut Studie zu mehr Emissionen aus Kohle, Öl und Gas",
+      "link": "https://www.spiegel.de/wissenschaft/technik/klima-ki-fuehrt-laut-studie-zu-mehr-emissionen-aus-kohle-oel-und-gas-a-297a9870-faaa-4bec-952b-d988e7ef01f2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T15:11:00+00:00"
+    },
+    {
+      "titel": "Hürtgenwald-Gey: Waldbrand in der Eifel weiter nicht unter Kontrolle",
+      "link": "https://www.spiegel.de/panorama/huertgenwald-gey-waldbrand-in-der-eifel-weiter-nicht-unter-kontrolle-merz-dankt-einsatzkraeften-a-8c4dc98a-426a-467f-b3e1-801fa659813b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T15:08:00+00:00"
+    },
+    {
+      "titel": "Niederlage für Macron: Social-Media-Verbot gekippt",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-gekippt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T15:07:58+00:00"
+    },
     {
       "titel": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
       "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
@@ -67,28 +115,10 @@
       "veroeffentlicht": "2026-08-14T13:52:00+00:00"
     },
     {
-      "titel": "Ryanair: Mann fast aus Flugzeug gesogen – Triebwerkteil wohl Grund für Druckverlust",
-      "link": "https://www.spiegel.de/panorama/ryanair-maschine-mann-fast-gesogen-abgebrochenes-triebwerkteil-wohl-grund-fuer-druckverlust-a-f9294108-62e6-42b7-8fb2-3cfd7cea2128#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T13:50:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Verfassungsrat kippt Social-Media-Verbot für unter 15-Jährige",
-      "link": "https://www.spiegel.de/ausland/frankreich-verfassungsrat-kippt-social-media-verbot-fuer-unter-15-jaehrige-a-5bd68c94-5b6a-4f80-a272-e25d6c1d346f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T13:48:00+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Gold, Bronze – und Grabenkämpfe unter Teamkolleginnen",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-hindernisrennen-3000m-krause-meyer-streit-interview-li.3531175",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T13:44:31+00:00"
-    },
-    {
-      "titel": "Lars Klingbeil: Finanzminister will Steuervorteil für Mitarbeiterrabatte streichen",
-      "link": "https://www.spiegel.de/wirtschaft/lars-klingbeil-finanzminister-will-steuervorteil-fuer-mitarbeiterrabatte-streichen-a-ff5ec285-4cee-4af8-8cd8-7971604e007d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T13:32:00+00:00"
     },
     {
       "titel": "Untersuchung zu Ryanair-Vorfall: Triebwerksteil zerschlug Flugzeugfenster",
@@ -103,34 +133,16 @@
       "veroeffentlicht": "2026-08-14T12:58:53+00:00"
     },
     {
-      "titel": "Starke Geschäfte bei DAX-Konzernen - aber auch Stellenabbau",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/stellenabbau-dax-konzerne-rekordgewinne-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T12:44:16+00:00"
+      "titel": "Kennedy Center in Washington: Jetzt kommt Trumps Name doch wieder auf die Fassade– nur woanders",
+      "link": "https://www.sueddeutsche.de/kultur/trump-kennedy-center-name-streit-li.3531436",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T12:43:31+00:00"
     },
     {
       "titel": "Drohne über Lettland: Warnstufe Orange um vier Uhr morgens",
       "link": "https://www.sueddeutsche.de/politik/lettland-drohne-abschuss-eurofighter-ukraine-russland-li.3531342",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T12:31:11+00:00"
-    },
-    {
-      "titel": "USS »Abraham Lincoln«: Lassen die USA die Besatzung des Flugzeugträgers im Stich?",
-      "link": "https://www.spiegel.de/ausland/uss-abraham-lincoln-lassen-die-usa-die-besatzung-des-flugzeugtraegers-im-stich-a-49a10271-6fe3-4609-92aa-2373ac5f496d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T12:31:00+00:00"
-    },
-    {
-      "titel": "Bauernverband befürchtet teils totalen Ernteausfall",
-      "link": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T12:29:08+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T12:25:00+00:00"
     },
     {
       "titel": "Verkehr: Warum Stürze mit dem E-Scooter so gefährlich sind",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/el-mala-koeln-dortmund-transfer-angebot-li.3531486",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T11:30:20+00:00"
-    },
-    {
-      "titel": "Katholische Kirche: Mehr Erwachsene lassen sich taufen",
-      "link": "https://www.sueddeutsche.de/politik/taufen-erwachsene-zuwachs-deutschland-frankreich-li.3529343",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T11:21:09+00:00"
-    },
-    {
-      "titel": "Geheimtraining: Vor dem Oktoberfest: Wie Neu-OB Dominik Krause das Anzapfen übt",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-anzapfen-training-oberbuergermeister-dominik-krause-paulaner-li.3530450",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T10:04:51+00:00"
     }
   ]
 }
