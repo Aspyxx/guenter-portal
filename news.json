@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-14T21:03:44+00:00",
+  "aktualisiert": "2026-08-14T21:42:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USS »Abraham Lincoln«: Donald Trump findet, Einsatz auf Flugzeugträger dauert »noch nicht lange genug«",
+      "link": "https://www.spiegel.de/ausland/uss-abraham-lincoln-donald-trump-findet-einsatz-auf-flugzeugtraeger-dauert-noch-nicht-lange-genug-a-eb7c2526-9486-4e55-bf23-3dd5b92be5b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T21:30:00+00:00"
+    },
+    {
+      "titel": "Helmut Lethen: Kulturwissenschaftler im Alter von 87 Jahren gestorben",
+      "link": "https://www.spiegel.de/kultur/literatur/helmut-lethen-kulturwissenschaftler-im-alter-von-87-jahren-gestorben-a-af1c5b98-c2a8-4769-b817-45f0b3df891c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T21:12:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
+      "link": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T21:07:42+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Owen Ansah holt Gold, Emil Agyekum und Shanice Kraft Silber",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-owen-ansah-holt-gold-emil-agyekum-und-shanice-kraft-silber-a-014d356d-09fc-4909-be3e-b2976ee1b156#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T21:04:00+00:00"
+    },
     {
       "titel": "Jason Arday: Cambridge-Professor nach Plagiatsvorwürfen tot aufgefunden",
       "link": "https://www.spiegel.de/ausland/jason-arday-cambridge-professor-nach-plagiatsvorwuerfen-tot-aufgefunden-a-7a75dcc5-f11a-484a-9fb0-1e25eab7b335#ref=rss",
@@ -61,6 +85,12 @@
       "veroeffentlicht": "2026-08-14T18:53:38+00:00"
     },
     {
+      "titel": "Radsport: Britischer Fahrer Tarling stirbt nach Unfall bei Portugal-Rundfahrt",
+      "link": "https://www.sueddeutsche.de/sport/radprofi-finlay-tarling-portugal-rundfahrt-tot-li.3531689",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T18:48:31+00:00"
+    },
+    {
       "titel": "Donald Trump: So verlief die Flucht im Catering-Container",
       "link": "https://www.spiegel.de/ausland/donald-trump-so-verlief-die-flucht-im-catering-container-a-cf01f83f-604e-422d-a941-d573d6228884#ref=rss",
       "quelle": "SPIEGEL",
@@ -77,24 +107,6 @@
       "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T18:19:37+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Wie Campact mit drei Millionen Euro gegen die AfD mobilisiert",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-campact-mit-drei-millionen-euro-gegen-die-afd-mobilisiert-a-19554589-1655-4bc8-b5c7-abe7ee807d59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T18:16:00+00:00"
-    },
-    {
-      "titel": "Kleingarten: »Sogar Wessis sind Menschen« – Streit im Schrebergarten - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/kleingarten-sogar-wessis-sind-menschen-streit-im-schrebergarten-spiegel-tv-a-67dda0dd-a43a-48b6-a341-17260e2f3410#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T18:12:00+00:00"
-    },
-    {
-      "titel": "FC Liverpool: Jeff Bezos sichert sich Minderheitsbeteiligung",
-      "link": "https://www.spiegel.de/sport/fussball/fc-liverpool-jeff-bezos-sichert-sich-minderheitsbeteiligung-a-21209612-1c01-4508-b44a-12e9bf0b1ec5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T18:11:00+00:00"
     },
     {
       "titel": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-08-14T14:53:05+00:00"
     },
     {
-      "titel": "Waldbrände: Grüne fordern Merz zum Handeln auf",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-waldbraende-forderungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T14:47:02+00:00"
-    },
-    {
       "titel": "Ukraine-Krieg: Weizen und Sonnenblumenöl im russischen Visier",
       "link": "https://www.sueddeutsche.de/politik/ukraine-getreideexporte-krieg-schwarzes-meer-russland-li.3531075",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T13:52:42+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Gold, Bronze – und Grabenkämpfe unter Teamkolleginnen",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-hindernisrennen-3000m-krause-meyer-streit-interview-li.3531175",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T13:44:31+00:00"
     }
   ]
 }
