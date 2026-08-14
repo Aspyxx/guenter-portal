@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-14T23:02:14+00:00",
+  "aktualisiert": "2026-08-14T23:38:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T23:34:43+00:00"
+    },
     {
       "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
@@ -149,12 +155,6 @@
       "link": "https://www.sueddeutsche.de/politik/social-media-verbot-frankreich-macron-verfassungsgericht-li.3531612",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T15:18:42+00:00"
-    },
-    {
-      "titel": "Niederlage für Macron: Social-Media-Verbot gekippt",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-gekippt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T15:07:58+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Hitzewelle: Das würde den Landwirten jetzt helfen",
