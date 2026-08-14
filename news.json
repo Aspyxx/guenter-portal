@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-14T22:01:15+00:00",
+  "aktualisiert": "2026-08-14T22:41:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Trump will Straße von Hormus zum US-Territorium erklären",
+      "link": "https://www.spiegel.de/ausland/trump-will-strasse-von-hormus-zum-us-territorium-erklaeren-a-9ce418b9-a76d-4659-8f2f-42fe0179c073#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T22:24:00+00:00"
+    },
+    {
+      "titel": "Selena Gomez: Start-up wird auf Millionen verklagt",
+      "link": "https://www.spiegel.de/panorama/leute/selena-gomez-start-up-wird-auf-millionen-verklagt-a-913d13a6-fd2f-4cf5-ae22-ec96af399313#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T22:23:00+00:00"
+    },
     {
       "titel": "USS »Abraham Lincoln«: Donald Trump findet, Einsatz auf Flugzeugträger dauert »noch nicht lange genug«",
       "link": "https://www.spiegel.de/ausland/uss-abraham-lincoln-donald-trump-findet-einsatz-auf-flugzeugtraeger-dauert-noch-nicht-lange-genug-a-eb7c2526-9486-4e55-bf23-3dd5b92be5b1#ref=rss",
@@ -73,12 +85,6 @@
       "veroeffentlicht": "2026-08-14T19:16:06+00:00"
     },
     {
-      "titel": "Reit-WM 2026: Debütantin Katharina Hemmer holt überraschend Bronze",
-      "link": "https://www.spiegel.de/sport/reit-wm-2026-debuetantin-katharina-hemmer-holt-ueberraschend-bronze-a-0d9bf4b0-ec87-48c4-ae36-c32b95d8bcff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T18:57:00+00:00"
-    },
-    {
       "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
       "quelle": "Tagesschau",
@@ -89,12 +95,6 @@
       "link": "https://www.sueddeutsche.de/sport/radprofi-finlay-tarling-portugal-rundfahrt-tot-li.3531689",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T18:48:31+00:00"
-    },
-    {
-      "titel": "Donald Trump: So verlief die Flucht im Catering-Container",
-      "link": "https://www.spiegel.de/ausland/donald-trump-so-verlief-die-flucht-im-catering-container-a-cf01f83f-604e-422d-a941-d573d6228884#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T18:33:00+00:00"
     },
     {
       "titel": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
