@@ -1,11 +1,89 @@
 {
-  "aktualisiert": "2026-08-14T05:04:36+00:00",
+  "aktualisiert": "2026-08-14T06:43:52+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hitzewelle: Bauernverband befürchtet Ernteeinbußen bis hin zu Totalausfällen",
+      "link": "https://www.sueddeutsche.de/panorama/hitze-bauernverband-ernteeinbussen-totalausfaelle-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T06:40:31+00:00"
+    },
+    {
+      "titel": "Vance nennt niedrige Öl- und Gaspreise als wichtigstes Kriegsziel in Iran",
+      "link": "https://www.tagesschau.de/ausland/amerika/vance-iran-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T06:30:49+00:00"
+    },
+    {
+      "titel": "Landtagswahlen in Sachsen-Anhalt: Bundesrat sieht sich gewappnet für mögliche AfD-Regierung",
+      "link": "https://www.spiegel.de/politik/deutschland/landtagswahlen-in-sachsen-anhalt-bundesrat-sieht-sich-gewappnet-fuer-moegliche-afd-regierung-a-7a4e1fd8-2bc1-4652-8550-d4cc700da833#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T06:30:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Luftalarm in Lettland: Kampfjets schießen Drohne ab",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T06:16:12+00:00"
+    },
+    {
+      "titel": "Hohe Spritpreise: Grüne fordern Abschöpfung von Milliardengewinnen",
+      "link": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-gruene-fordern-abschoepfung-von-milliardengewinnen-a-f25da8c6-0f7a-48fe-a0ad-4a4cc726bba9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T06:16:00+00:00"
+    },
+    {
+      "titel": "USA wollen mit Zöllen auf Drohnen China treffen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/drohne-usa-zoll-china-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T06:12:30+00:00"
+    },
+    {
+      "titel": "Japan: Mehrere Tote nach Starkregen und Überschwemmungen östlich von Tokio",
+      "link": "https://www.spiegel.de/panorama/japan-mehrere-tote-nach-starkregen-und-ueberschwemmungen-oestlich-von-tokio-a-edf0a153-e4d1-48b3-929c-7880e63c6a5e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T06:02:00+00:00"
+    },
+    {
+      "titel": "USA: USA verhängen hohe Zölle auf Drohnen und Drohnen-Bauteile",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-zoelle-drohnen-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T05:50:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Lea Meyer nennt eigenes TV-Interview »unprofessionell und unsportlich«",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-lea-meyer-nennt-eigenes-tv-interview-unprofessionell-und-unsportlich-a-c5eda445-5fb6-43bb-ba67-541f96ba51b7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T05:49:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: Nigel Farage gewinnt Nachwahl im englischen Clacton gegen sprechenden Mülleimer",
+      "link": "https://www.spiegel.de/ausland/grossbritannien-nigel-farage-gewinnt-nachwahl-im-englischen-clacton-gegen-sprechenden-muelleimer-a-378bb582-4f05-476f-8775-35a8610db7bc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T05:46:00+00:00"
+    },
+    {
+      "titel": "Parkplatz-Geschäft: Wie Supermärkte ihre Stellflächen vermarkten",
+      "link": "https://www.spiegel.de/wirtschaft/parkplatz-geschaeft-wie-supermaerkte-ihre-stellflaechen-vermarkten-a-2ff3d57d-f25c-4c37-bd03-0517138fc2ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T05:43:00+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: Schwerer russischer Bombenangriff auf Kramatorsk",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-schwerer-russischer-bombenangriff-auf-kramatorsk-a-7c0281d4-8681-44e8-a1d8-277d4f1bc885#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T05:15:00+00:00"
+    },
+    {
+      "titel": "SPD-Rentenexpertin schlägt Abschaffung der »Rente mit 63« in fünf Jahren vor",
+      "link": "https://www.spiegel.de/wirtschaft/spd-rentenexpertin-schlaegt-abschaffung-der-rente-mit-63-in-fuenf-jahren-vor-a-0324af14-cbe4-45d8-bf3d-cba48778fd78#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T05:05:00+00:00"
+    },
     {
       "titel": "Lettland: Kampfjets fangen Drohne ab",
       "link": "https://www.spiegel.de/ausland/lettland-kampfjets-fangen-drohne-ab-a-110d185f-3312-481c-95cd-a558a42a05da#ref=rss",
@@ -17,18 +95,6 @@
       "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T04:48:24+00:00"
-    },
-    {
-      "titel": "Hürtgenwald: Waldbrand in der Eifel – NRW-Ortsteil evakuiert",
-      "link": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-in-der-eifel-nrw-ortsteil-evakuiert-a-d90cff71-1e6b-4575-811d-e0ab921b171d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T04:47:00+00:00"
-    },
-    {
-      "titel": "Dürre und Hitzewelle: Bauernverband befürchtet in einigen Regionen »totalen Ernteausfall«",
-      "link": "https://www.spiegel.de/wirtschaft/duerre-und-hitzewelle-bauernverband-befuerchtet-in-einigen-regionen-totalen-ernteausfall-a-8a99a162-dcde-4481-b935-cb47b325568e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T04:34:00+00:00"
     },
     {
       "titel": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
@@ -43,22 +109,10 @@
       "veroeffentlicht": "2026-08-14T04:28:09+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Lettland ruft Luftalarm aus, Nato-Kampfjets schießen Drohne ab",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-baltikum-luftalarm-nato-jets-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T04:13:55+00:00"
-    },
-    {
       "titel": "Warum Diesel trotz gesunkener Ölpreise so teuer bleibt",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-oelpreis-spritpreise-heizoel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T04:00:13+00:00"
-    },
-    {
-      "titel": "Hitzewelle: Waldbrand in NRW: 1800 Menschen in Sicherheit gebracht",
-      "link": "https://www.sueddeutsche.de/panorama/1-800-menschen-werden-aus-nrw-gemeinde-huertgenwald-evakuiert-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T03:47:25+00:00"
     },
     {
       "titel": "Grünen-Fraktionschefin: Regierung sieht bei Spritpreis-Abzocke zu",
@@ -67,46 +121,10 @@
       "veroeffentlicht": "2026-08-14T03:40:02+00:00"
     },
     {
-      "titel": "News: Frust in der SPD, Bandengewalt in Berlin, Futtermangel in der Landwirtschaft",
-      "link": "https://www.spiegel.de/politik/deutschland/news-frust-in-der-spd-bandengewalt-in-berlin-futtermangel-in-der-landwirtschaft-a-efd47bd0-cfc0-4701-8e06-a587db25b4f6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T03:38:00+00:00"
-    },
-    {
-      "titel": "Obst- und Gemüse-Saisonkalender: Was wächst wann?",
-      "link": "https://www.spiegel.de/effilee/essen/obst-und-gemuese-saisonkalender-was-waechst-wann-a-5c142c04-9218-4645-a9c0-fc7ad69c71a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T03:30:00+00:00"
-    },
-    {
-      "titel": "Marmelade kochen, Weckgläser nutzen und Gemüsepaste herstellen: So einfach geht's",
-      "link": "https://www.spiegel.de/effilee/marmelade-kochen-weckglaeser-nutzen-und-gemuesepaste-herstellen-so-einfach-gehts-a-c3e2ec74-5c04-41bb-8d6c-caa0e96f7f9d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T03:30:00+00:00"
-    },
-    {
-      "titel": "Kim Cattrall wird 70",
-      "link": "https://www.spiegel.de/panorama/kim-cattrall-wird-70-a-a5cc0493-f9b2-430c-9181-9d2441d668f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T03:04:00+00:00"
-    },
-    {
       "titel": "„Sarah Tacke“ im ZDF: „Gerechtigkeit“? Hat doch mit Erbschaften nichts zu tun",
       "link": "https://www.sueddeutsche.de/medien/sarah-tacke-zdf-erbschaften-gerechtigkeit-li.3531048",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T02:45:57+00:00"
-    },
-    {
-      "titel": "A44 bei Diemelstadt in Hessen: Lkw fährt in Rettungswagen auf Standstreifen – mehrere Verletzte",
-      "link": "https://www.spiegel.de/panorama/a44-bei-diemelstadt-in-hessen-lkw-faehrt-in-rettungswagen-auf-standstreifen-mehrere-verletzte-a-8e7431be-ba66-44c7-899f-70a82fe028f5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T02:16:00+00:00"
-    },
-    {
-      "titel": "US-Zölle von Donald Trump: Importierte Drohnen sollen bis zu 100 Prozent teurer werden",
-      "link": "https://www.spiegel.de/ausland/us-zoelle-von-donald-trump-importierte-drohnen-sollen-bis-zu-100-prozent-teurer-werden-a-ecfd3f33-f9c7-4107-978f-f87c8fb9e18a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T01:30:00+00:00"
     },
     {
       "titel": "Bauernverband befürchtet teils totalen Ernteausfall",
@@ -119,24 +137,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T00:47:45+00:00"
-    },
-    {
-      "titel": "Alabali Radovan: Hilfe für Afghanen - ohne Taliban-Kooperation",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T22:00:27+00:00"
-    },
-    {
-      "titel": "Klage über Missstände - Flugzeugträger \"USS Abraham Lincoln\" wird wohl abgelöst",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-flugzeugtraeger-uss-abraham-lincoln-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T20:08:42+00:00"
-    },
-    {
-      "titel": "USA: Gericht weist Klage der Trump-Regierung gegen Harvard ab",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-harvard-antisemitismus-klage-gericht-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T17:03:51+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Rechtspopulist Farage vs. Mülleimer: Worum es bei Großbritanniens kuriosester Nachwahl geht",
