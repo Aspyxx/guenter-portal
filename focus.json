@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-14T10:45:16+00:00",
+  "aktualisiert": "2026-08-14T11:34:32+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Die Grünen",
-      "link": "https://www.tagesschau.de/investigativ/wdr/hamburg-cum-ex-gericht-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 2,
       "titel": "Zwischen Abschiebungen und Hilfe",
       "link": "https://www.tagesschau.de/inland/innenpolitik/taliban-afghanistan-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
-      "titel": "DAX tastet sich an Allzeithoch heran",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
+      "rang": 2,
+      "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔥"
+    },
+    {
+      "rang": 3,
+      "titel": "Hamburger Cum-Ex-Affäre kommt nun doch vor Gericht",
+      "link": "https://www.tagesschau.de/investigativ/wdr/hamburg-cum-ex-gericht-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
     }
   ]
 }
