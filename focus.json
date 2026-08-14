@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-14T03:03:36+00:00",
+  "aktualisiert": "2026-08-14T05:11:23+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Flugzeugträger",
-      "link": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 2,
-      "titel": "Afghanen helfen ohne Taliban-Kooperation",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
+      "titel": "Raúl Castro",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gedenken-mauerbau-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Regierung sieht bei Spritpreis-Abzocke zu",
+      "link": "https://www.tagesschau.de/inland/hohe-spritpreise-gruene-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
       "rang": 3,
-      "titel": "Rekordserie geht erstmal nicht weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
+      "titel": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
