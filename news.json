@@ -1,11 +1,89 @@
 {
-  "aktualisiert": "2026-08-14T16:07:17+00:00",
+  "aktualisiert": "2026-08-14T17:13:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rostock: Ehepaar kann laut Landgericht Geld zurückverlangen, weil FKK-Bereich auf Kreuzfahrtschiff kleiner war",
+      "link": "https://www.spiegel.de/panorama/rostock-ehepaar-kann-laut-landgericht-geld-zurueckverlangen-weil-fkk-bereich-auf-kreuzfahrtschiff-kleiner-war-a-7cb239de-ffbf-4ae7-acfb-cf09a5a2213e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T17:04:00+00:00"
+    },
+    {
+      "titel": "Klimakrise: CDU-Generalsekretärin Hoppermann lehnt Grundgesetzänderung wegen Hitzeschutz ab",
+      "link": "https://www.spiegel.de/politik/klimakrise-cdu-generalsekretaerin-hoppermann-lehnt-grundgesetzaenderung-wegen-hitzeschutz-ab-a-d41e233b-6822-4886-a5a3-90f645e005cd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T16:58:00+00:00"
+    },
+    {
+      "titel": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T16:49:59+00:00"
+    },
+    {
+      "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T16:49:03+00:00"
+    },
+    {
+      "titel": "Frankreich: Emmanuel Macron wird beim Jetski-Fahren fotografiert, während der Wald brennt",
+      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-wird-beim-jetski-fahren-fotografiert-waehrend-der-wald-brennt-a-23414252-630a-4001-849c-cb1afe81d5fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T16:48:00+00:00"
+    },
+    {
+      "titel": "»Kölner Stadt-Anzeiger« Medien bauen um – 57 Vollzeitstellen betroffen",
+      "link": "https://www.spiegel.de/wirtschaft/koelner-stadt-anzeiger-medien-bauen-um-57-vollzeitstellen-betroffen-a-7c8ba047-ead7-44ff-8af7-24baec8ecadc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T16:37:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T16:24:07+00:00"
+    },
+    {
+      "titel": "Ceuta: Irreführende Videos und KI-generierte Bilder im Umlauf",
+      "link": "https://www.tagesschau.de/faktenfinder/fakes-ceuta-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T16:23:56+00:00"
+    },
+    {
+      "titel": "Hürtgenwald in der Eifel: Rund 1800 Menschen wegen Waldbrand vorsorglich evakuiert",
+      "link": "https://www.spiegel.de/panorama/huertgenwald-in-der-eifel-rund-1800-menschen-wegen-waldbrand-vorsorglich-evakuiert-a-2bfca052-5517-46f8-ba13-63756c739b3a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T16:18:00+00:00"
+    },
+    {
+      "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
+      "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T16:12:45+00:00"
+    },
+    {
+      "titel": "Hürtgenwald in der Eifel: Bewohner warten auf Evakuierung wegen Waldbrand",
+      "link": "https://www.spiegel.de/panorama/huertgenwald-in-der-eifel-bewohner-warten-auf-evakuierung-wegen-waldbrand-a-72de5537-107f-4566-bae9-62c72ac73c23#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T16:11:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung fehlen Daten zu Wartezeit auf Therapieplatz bei jungen Menschen",
+      "link": "https://www.spiegel.de/gesundheit/bundesregierung-fehlen-daten-zu-wartezeit-auf-therapieplatz-bei-jungen-menschen-a-9e4dc346-9ed7-48f4-b314-3155e46c9b3d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T16:07:00+00:00"
+    },
+    {
+      "titel": "Kolumbien: Die geretteten Babys von Cali",
+      "link": "https://www.sueddeutsche.de/panorama/babys-gerettet-kolumbien-erdbeben-rettungsaktion-li.3531581",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T16:06:06+00:00"
+    },
     {
       "titel": "USA: Luigi Mangione bekennt sich schuldig, Brian Thompson erschossen zu haben",
       "link": "https://www.spiegel.de/ausland/usa-luigi-mangione-bekennt-sich-schuldig-brian-thompson-erschossen-zu-haben-a-f2e4d86a-c981-40e2-bf9c-52415468d774#ref=rss",
@@ -25,28 +103,10 @@
       "veroeffentlicht": "2026-08-14T15:51:00+00:00"
     },
     {
-      "titel": "News des Tages: Alexandria Ocasio-Cortez, Bundespräsidentenwahl, Parkplatzprobleme",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-alexandria-ocasio-cortez-bundespraesidentenwahl-parkplatzprobleme-a-4cb84470-2efd-485d-ab4e-d8b416b21f6e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T15:29:00+00:00"
-    },
-    {
       "titel": "Kinder- und Jugendschutz: Französischer Verfassungsrat kippt Altersgrenze für soziale Medien",
       "link": "https://www.sueddeutsche.de/politik/social-media-verbot-frankreich-macron-verfassungsgericht-li.3531612",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T15:18:42+00:00"
-    },
-    {
-      "titel": "Klima: KI führt laut Studie zu mehr Emissionen aus Kohle, Öl und Gas",
-      "link": "https://www.spiegel.de/wissenschaft/technik/klima-ki-fuehrt-laut-studie-zu-mehr-emissionen-aus-kohle-oel-und-gas-a-297a9870-faaa-4bec-952b-d988e7ef01f2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T15:11:00+00:00"
-    },
-    {
-      "titel": "Hürtgenwald-Gey: Waldbrand in der Eifel weiter nicht unter Kontrolle",
-      "link": "https://www.spiegel.de/panorama/huertgenwald-gey-waldbrand-in-der-eifel-weiter-nicht-unter-kontrolle-merz-dankt-einsatzkraeften-a-8c4dc98a-426a-467f-b3e1-801fa659813b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T15:08:00+00:00"
     },
     {
       "titel": "Niederlage für Macron: Social-Media-Verbot gekippt",
@@ -61,10 +121,10 @@
       "veroeffentlicht": "2026-08-14T14:59:11+00:00"
     },
     {
-      "titel": "Nigel Farage: Nach Wahlsieg gegen Count Binface droht Neuwahl",
-      "link": "https://www.spiegel.de/ausland/nigel-farage-nach-wahlsieg-gegen-count-binface-droht-neuwahl-a-ee333229-43a2-4494-919b-1b6ab4cf1256#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T14:53:00+00:00"
+      "titel": "Podcast: „Auf den Punkt“: Hitzewelle: Das würde den Landwirten jetzt helfen",
+      "link": "https://www.sueddeutsche.de/politik/landwirtschaft-deutschland-folgen-trockenheit-forderungen-bauernverband-li.3531494",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T14:53:05+00:00"
     },
     {
       "titel": "Waldbrände: Grüne fordern Merz zum Handeln auf",
@@ -73,34 +133,10 @@
       "veroeffentlicht": "2026-08-14T14:47:02+00:00"
     },
     {
-      "titel": "Gianni Infantino: Trumps WM-Beauftragter rät Kritikern des Fifa-Chefs zu »Untersuchung des Kopfes«",
-      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-trumps-wm-beauftragter-raet-kritikern-des-fifa-chefs-zu-untersuchung-des-kopfes-a-cd7fce5e-7208-4d67-9994-ff878f1dd8b8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T14:35:00+00:00"
-    },
-    {
       "titel": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
       "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T14:22:36+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn klagt gegen Mitbenutzung ihrer Strecken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-klage-fernverkehr-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T14:12:58+00:00"
-    },
-    {
-      "titel": "Warum die Fahrrinne im Rhein bisher nicht ausgebaut wurde",
-      "link": "https://www.tagesschau.de/wirtschaft/rhein-niedrigwasser-fahrrinne-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T14:01:01+00:00"
-    },
-    {
-      "titel": "War Britannien matriarchal, bevor die Römer kamen?",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/war-britannien-matriarchal-bevor-die-roemer-kamen-a-14669a75-06df-4ae2-9209-5d122a0d26fa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T14:01:00+00:00"
     },
     {
       "titel": "Ukraine-Krieg: Weizen und Sonnenblumenöl im russischen Visier",
@@ -109,31 +145,19 @@
       "veroeffentlicht": "2026-08-14T13:52:42+00:00"
     },
     {
-      "titel": "Polen: Donald Tusk spricht von vereitelter »Exekution« eines US-Bürgers durch Russen",
-      "link": "https://www.spiegel.de/ausland/polen-donald-tusk-spricht-von-vereitelter-exekution-eines-us-buergers-durch-russen-a-ccec83ba-8330-4b6a-a99a-25313e7980fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T13:52:00+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Gold, Bronze – und Grabenkämpfe unter Teamkolleginnen",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-hindernisrennen-3000m-krause-meyer-streit-interview-li.3531175",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T13:44:31+00:00"
     },
     {
-      "titel": "Untersuchung zu Ryanair-Vorfall: Triebwerksteil zerschlug Flugzeugfenster",
-      "link": "https://www.tagesschau.de/ausland/amerika/ryanair-flug-zwischenfall-fenster-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T13:02:02+00:00"
+      "titel": "FC Bayern: Der wundersame Ismael Saibari",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-saibari-vorstellung-transfers-eberl-li.3531435",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T13:28:57+00:00"
     },
     {
-      "titel": "Ersthelfer begannen 2025 jede zweite Reanimation außerhalb von Kliniken",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/reanimation-ersthelfer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T12:58:53+00:00"
-    },
-    {
-      "titel": "Kennedy Center in Washington: Jetzt kommt Trumps Name doch wieder auf die Fassade– nur woanders",
+      "titel": "Kennedy Center in Washington: Jetzt kommt Trumps Name doch wieder auf die Fassade – nur woanders",
       "link": "https://www.sueddeutsche.de/kultur/trump-kennedy-center-name-streit-li.3531436",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T12:43:31+00:00"
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/lettland-drohne-abschuss-eurofighter-ukraine-russland-li.3531342",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T12:31:11+00:00"
-    },
-    {
-      "titel": "Verkehr: Warum Stürze mit dem E-Scooter so gefährlich sind",
-      "link": "https://www.sueddeutsche.de/gesundheit/e-scooter-unfaelle-deutschland-kopfverletzungen-alkoholeinfluss-helmpflicht-li.3527141",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T12:19:20+00:00"
-    },
-    {
-      "titel": "Journalismus: Ein menschliches Antlitz",
-      "link": "https://www.sueddeutsche.de/medien/spiegel-ulrich-siegmund-cover-gefaehrlichster-mann-li.3531352",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T12:07:27+00:00"
-    },
-    {
-      "titel": "Zeitungen: Dumont streicht 57 Stellen",
-      "link": "https://www.sueddeutsche.de/medien/koelner-stadt-anzeiger-umbau-stellen-dumont-li.3531068",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T11:40:00+00:00"
-    },
-    {
-      "titel": "Bundesliga: El Mala wechselt nicht zu Borussia Dortmund",
-      "link": "https://www.sueddeutsche.de/sport/el-mala-koeln-dortmund-transfer-angebot-li.3531486",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T11:30:20+00:00"
     }
   ]
 }
