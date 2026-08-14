@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-14T22:41:57+00:00",
+  "aktualisiert": "2026-08-14T23:02:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T22:53:28+00:00"
+    },
     {
       "titel": "Trump will Straße von Hormus zum US-Territorium erklären",
       "link": "https://www.spiegel.de/ausland/trump-will-strasse-von-hormus-zum-us-territorium-erklaeren-a-9ce418b9-a76d-4659-8f2f-42fe0179c073#ref=rss",
@@ -83,12 +89,6 @@
       "link": "https://www.sueddeutsche.de/sport/amazon-gruender-jeff-bezos-fc-liverpool-investor-li.3531695",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T19:16:06+00:00"
-    },
-    {
-      "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T18:53:38+00:00"
     },
     {
       "titel": "Radsport: Britischer Fahrer Tarling stirbt nach Unfall bei Portugal-Rundfahrt",
