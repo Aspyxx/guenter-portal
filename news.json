@@ -1,11 +1,77 @@
 {
-  "aktualisiert": "2026-08-14T12:29:32+00:00",
+  "aktualisiert": "2026-08-14T14:03:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Warum die Fahrrinne im Rhein bisher nicht ausgebaut wurde",
+      "link": "https://www.tagesschau.de/wirtschaft/rhein-niedrigwasser-fahrrinne-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T14:01:01+00:00"
+    },
+    {
+      "titel": "Polen: Donald Tusk spricht von vereitelter »Exekution« eines US-Bürgers durch Russen",
+      "link": "https://www.spiegel.de/ausland/polen-donald-tusk-spricht-von-vereitelter-exekution-eines-us-buergers-durch-russen-a-ccec83ba-8330-4b6a-a99a-25313e7980fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T13:52:00+00:00"
+    },
+    {
+      "titel": "Ryanair-Maschine: Mann fast gesogen – abgebrochenes Triebwerkteil wohl Grund für Druckverlust",
+      "link": "https://www.spiegel.de/panorama/ryanair-maschine-mann-fast-gesogen-abgebrochenes-triebwerkteil-wohl-grund-fuer-druckverlust-a-f9294108-62e6-42b7-8fb2-3cfd7cea2128#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T13:50:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Verfassungsrat kippt Social-Media-Verbot für unter 15-Jährige",
+      "link": "https://www.spiegel.de/ausland/frankreich-verfassungsrat-kippt-social-media-verbot-fuer-unter-15-jaehrige-a-5bd68c94-5b6a-4f80-a272-e25d6c1d346f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T13:48:00+00:00"
+    },
+    {
+      "titel": "Lars Klingbeil: Finanzminister will Steuervorteil für Mitarbeiterrabatte streichen",
+      "link": "https://www.spiegel.de/wirtschaft/lars-klingbeil-finanzminister-will-steuervorteil-fuer-mitarbeiterrabatte-streichen-a-ff5ec285-4cee-4af8-8cd8-7971604e007d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T13:32:00+00:00"
+    },
+    {
+      "titel": "Untersuchung zu Ryanair-Vorfall: Triebwerksteil zerschlug Flugzeugfenster",
+      "link": "https://www.tagesschau.de/ausland/amerika/ryanair-flug-zwischenfall-fenster-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T13:02:02+00:00"
+    },
+    {
+      "titel": "Ersthelfer begannen 2025 jede zweite Reanimation außerhalb von Kliniken",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/reanimation-ersthelfer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T12:58:53+00:00"
+    },
+    {
+      "titel": "Starke Geschäfte bei DAX-Konzernen - aber auch Stellenabbau",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/stellenabbau-dax-konzerne-rekordgewinne-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T12:44:16+00:00"
+    },
+    {
+      "titel": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T12:43:52+00:00"
+    },
+    {
+      "titel": "Flugzeugträger USS »Abraham Lincoln«: Lassen die USA ihre Matrosen allein auf hoher See im Dreck zurück?",
+      "link": "https://www.spiegel.de/ausland/flugzeugtraeger-uss-abraham-lincoln-lassen-die-usa-ihre-matrosen-allein-auf-hoher-see-im-dreck-zurueck-a-49a10271-6fe3-4609-92aa-2373ac5f496d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T12:31:00+00:00"
+    },
+    {
+      "titel": "Bauernverband befürchtet teils totalen Ernteausfall",
+      "link": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T12:29:08+00:00"
+    },
     {
       "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
       "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
@@ -25,6 +91,12 @@
       "veroeffentlicht": "2026-08-14T12:19:52+00:00"
     },
     {
+      "titel": "Verkehr: Warum Stürze mit dem E-Scooter so gefährlich sind",
+      "link": "https://www.sueddeutsche.de/gesundheit/e-scooter-unfaelle-deutschland-kopfverletzungen-alkoholeinfluss-helmpflicht-li.3527141",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T12:19:20+00:00"
+    },
+    {
       "titel": "Großbritannien: Nigel Farage gewinnt Nachwahl in Clacton gegen Count Binface",
       "link": "https://www.spiegel.de/ausland/grossbritannien-nigel-farage-gewinnt-nachwahl-in-clacton-gegen-count-binface-a-4e245102-4b2d-4c4b-a963-413f05030636#ref=rss",
       "quelle": "SPIEGEL",
@@ -37,28 +109,16 @@
       "veroeffentlicht": "2026-08-14T12:10:00+00:00"
     },
     {
-      "titel": "Deutsche Bahn klagt gegen Fernverkehrsbeschluss der Netzagentur",
-      "link": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-klagt-gegen-fernverkehrsbeschluss-der-netzagentur-a-a375622a-5a0d-4fbc-a935-6f333ad138f5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T11:48:00+00:00"
+      "titel": "Journalismus: Ein menschliches Antlitz",
+      "link": "https://www.sueddeutsche.de/medien/spiegel-ulrich-siegmund-cover-gefaehrlichster-mann-li.3531352",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T12:07:27+00:00"
     },
     {
-      "titel": "Saïd El Mala: Borussia Dortmund steigt aus Transferpoker um Kölns Offensivtalent aus",
-      "link": "https://www.spiegel.de/sport/fussball/said-el-mala-borussia-dortmund-steigt-aus-transferpoker-um-koelns-offensivtalent-aus-a-3e444d76-4d34-412b-97a7-5041720dd7a1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T11:43:00+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM in Birmingham: Lea Meyer und ein Abend wie ein Unfall",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-lea-meyer-und-ein-abend-wie-ein-unfall-a-f31ad154-e0c7-47c1-803d-48cc0a9df622#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T11:37:00+00:00"
-    },
-    {
-      "titel": "Eberhofer-Krimi »Steckerlfischfiasko« im Kino: Humorniveau in Bodennähe",
-      "link": "https://www.spiegel.de/kultur/kino/eberhofer-krimi-steckerlfischfiasko-im-kino-humorniveau-in-bodennaehe-a-0480c0c3-0f86-4638-a8e5-6cddc3d93e16#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T11:31:00+00:00"
+      "titel": "Zeitungen: DuMont streicht 57 Stellen",
+      "link": "https://www.sueddeutsche.de/medien/koelner-stadt-anzeiger-umbau-stellen-dumont-li.3531068",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T11:40:00+00:00"
     },
     {
       "titel": "Bundesliga: El Mala wechselt nicht zu Borussia Dortmund",
@@ -67,16 +127,16 @@
       "veroeffentlicht": "2026-08-14T11:30:20+00:00"
     },
     {
-      "titel": "USA: Polizei und Tierbehörde retten 60 Katzen von verlassenem Segelboot",
-      "link": "https://www.spiegel.de/panorama/usa-polizei-und-tierbehoerde-retten-60-katzen-von-verlassenem-segelboot-a-66a5b4c2-c26b-4daf-9893-57f545583ce7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T11:30:00+00:00"
-    },
-    {
       "titel": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
       "link": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T11:26:49+00:00"
+    },
+    {
+      "titel": "Katholische Kirche: Mehr Erwachsene lassen sich taufen",
+      "link": "https://www.sueddeutsche.de/politik/taufen-erwachsene-li.3529343",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T11:21:09+00:00"
     },
     {
       "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
@@ -85,46 +145,16 @@
       "veroeffentlicht": "2026-08-14T11:16:51+00:00"
     },
     {
-      "titel": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
-      "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T10:57:32+00:00"
-    },
-    {
-      "titel": "Deutschland und Afghanistan: Zwischen Abschiebungen und Hilfe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/taliban-afghanistan-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T10:08:29+00:00"
+      "titel": "Geheimtraining: Vor dem Oktoberfest: Wie Neu-OB Dominik Krause das Anzapfen übt",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-anzapfen-training-oberbuergermeister-dominik-krause-paulaner-li.3530450",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T10:04:51+00:00"
     },
     {
       "titel": "Leute: Im Urlaub wird sie zu Nicole Raveman",
-      "link": "https://www.sueddeutsche.de/panorama/promis-nicole-kidman-rave-urlaub-tanzen-li.3531366",
+      "link": "https://www.sueddeutsche.de/panorama/promis-nicole-kidman-rave-urlaub-tanzen-scrabble-li.3531366",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T09:43:45+00:00"
-    },
-    {
-      "titel": "Erdbeben in Kolumbien: Kritik an Präsident de la Espriella wächst",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-116.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T09:37:13+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX tastet sich an Allzeithoch heran",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T09:06:25+00:00"
-    },
-    {
-      "titel": "Wachsende Jugendkriminalität. Schweden senkt Alter für Strafmündigkeit",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T08:18:08+00:00"
-    },
-    {
-      "titel": "Mehr Hitzewellen: Städte brauchen Abkühlung - doch wer bezahlt?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klima-staedte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T08:16:22+00:00"
     },
     {
       "titel": "Ostdeutschland: „Ich habe mich oft gefragt: Merkel, warum sagst du denn nichts?“",
@@ -137,36 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-neugebauer-zehnkampf-gold-kaul-silber-li.3531173",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T06:44:22+00:00"
-    },
-    {
-      "titel": "Hitzewelle: Bauernverband befürchtet Ernteeinbußen bis hin zu Totalausfällen",
-      "link": "https://www.sueddeutsche.de/panorama/hitze-bauernverband-ernteeinbussen-totalausfaelle-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T06:40:31+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Luftalarm in Lettland: Kampfjets schießen Drohne ab",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T06:16:12+00:00"
-    },
-    {
-      "titel": "USA: USA verhängen hohe Zölle auf Drohnen und Drohnen-Bauteile",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-zoelle-drohnen-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T05:50:00+00:00"
-    },
-    {
-      "titel": "TV-Kritik: „Gerechtigkeit“? Hat doch mit Erbschaften nichts zu tun",
-      "link": "https://www.sueddeutsche.de/medien/sarah-tacke-zdf-erbschaften-gerechtigkeit-li.3531048",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T02:45:57+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Rechtspopulist Farage vs. Mülleimer: Worum es bei Großbritanniens kuriosester Nachwahl geht",
-      "link": "https://www.sueddeutsche.de/politik/farage-count-binface-grossbritannien-wahl-reform-uk-brexit-li.3531001",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T14:24:04+00:00"
     }
   ]
 }
