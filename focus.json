@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-14T08:05:46+00:00",
+  "aktualisiert": "2026-08-14T09:31:38+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Farage gewinnt Nachwahl im britischen Clacton",
-      "link": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-102.html",
+      "titel": "DAX tastet sich an Allzeithoch heran",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
-      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
+      "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🔥"
     }
   ]
 }
