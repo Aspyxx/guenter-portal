@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-14T10:40:49+00:00",
+  "aktualisiert": "2026-08-14T11:30:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T11:26:49+00:00"
+    },
+    {
+      "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T11:16:51+00:00"
+    },
+    {
+      "titel": "Kalifornien: Marine Hitzewelle treibt massenhaft Stachelrochen an die Strände",
+      "link": "https://www.spiegel.de/wissenschaft/natur/kalifornien-marine-hitzewelle-treibt-massenhaft-stachelrochen-an-die-straende-a-d44f514c-f3cb-48fd-b4cb-973cb2c55486#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T11:16:00+00:00"
+    },
+    {
+      "titel": "Ostdeutschland: Zuwanderung stützt laut IW-Studie Arbeitsmarkt und Wirtschaft",
+      "link": "https://www.spiegel.de/wirtschaft/ostdeutschland-zuwanderung-stuetzt-laut-iw-studie-arbeitsmarkt-und-wirtschaft-a-e0504519-6676-483f-a674-d72fff5cefae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T11:03:00+00:00"
+    },
+    {
+      "titel": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
+      "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T10:57:32+00:00"
+    },
+    {
+      "titel": "Pflege: Hamburger Seniorenheim-Chef rechnet mit System ab",
+      "link": "https://www.spiegel.de/wirtschaft/pflege-hamburger-seniorenheim-chef-rechnet-mit-system-ab-a-dd70fc6c-9df0-45cb-b08b-34bf62d3ecae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:48:00+00:00"
+    },
+    {
+      "titel": "Hürtgenwald: Landrat warnt vor entscheidenden Stunden im Kampf gegen Waldbrand",
+      "link": "https://www.spiegel.de/panorama/huertgenwald-landrat-warnt-vor-entscheidenden-stunden-im-kampf-gegen-waldbrand-a-a0c33901-4093-406f-9d5f-8dbae5bec2de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:43:00+00:00"
+    },
+    {
+      "titel": "Berlin: Feuerwehr berichtet von »dramatischem« Einsatz bei Hochhausbrand mit 13 Verletzten",
+      "link": "https://www.spiegel.de/panorama/berlin-feuerwehr-berichtet-von-dramatischem-einsatz-bei-hochhausbrand-mit-13-verletzten-a-e67a8449-7dff-4b6f-baa8-53b39997177e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:42:00+00:00"
+    },
+    {
+      "titel": "Dinslaken: Drei Raubüberfälle an einem Tag - Gerichts-Azubi verhaftet",
+      "link": "https://www.spiegel.de/panorama/justiz/dinslaken-drei-raubueberfaelle-an-einem-tag-gerichts-azubi-verhaftet-a-83cb4387-4a5b-4578-af51-cddb67a6dbde#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T10:40:00+00:00"
+    },
     {
       "titel": "Staatsverschuldung: US-Zinszahlungen steigen unter Trump auf 100 Milliarden im Monat",
       "link": "https://www.spiegel.de/wirtschaft/staatsverschuldung-us-zinszahlungen-steigen-unter-trump-auf-100-milliarden-im-monat-a-1808bc96-9795-41d6-8dba-63229b526ed2#ref=rss",
@@ -25,46 +79,10 @@
       "veroeffentlicht": "2026-08-14T10:21:00+00:00"
     },
     {
-      "titel": "Sachsen-Anhalt: Ministerpräsident Sven Schulze (CDU) äußert sich zu Wahlplakaten",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-ministerpraesident-sven-schulze-cdu-aeussert-sich-zu-wahlplakaten-a-712b3a01-613f-4118-9c12-4aa86871f1ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:19:00+00:00"
-    },
-    {
-      "titel": "Lübeck: Hauptbahnhof am Pride-Wochenende von Zugverkehr abgeschnitten",
-      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/luebeck-hauptbahnhof-am-pride-wochenende-von-zugverkehr-abgeschnitten-a-42a2959e-8393-48e5-a7a6-026474f362e5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:09:00+00:00"
-    },
-    {
       "titel": "Deutschland und Afghanistan: Zwischen Abschiebungen und Hilfe",
       "link": "https://www.tagesschau.de/inland/innenpolitik/taliban-afghanistan-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T10:08:29+00:00"
-    },
-    {
-      "titel": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T09:58:15+00:00"
-    },
-    {
-      "titel": "Venedig: Bürgermeister meldet Delfin im Canal Grande",
-      "link": "https://www.spiegel.de/panorama/venedig-buergermeister-meldet-delfin-im-canal-grande-a-0a9fd0fe-957e-4c57-80d5-448a21a1f2da#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T09:58:00+00:00"
-    },
-    {
-      "titel": "Insolvenz-Entwicklung: Zahl der Firmenpleiten sinkt leicht",
-      "link": "https://www.spiegel.de/wirtschaft/insolvenz-entwicklung-zahl-der-firmenpleiten-sinkt-leicht-a-b50a4eca-6800-4089-98ab-2b62092e57ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T09:51:00+00:00"
-    },
-    {
-      "titel": "FC Bayern München: Viessmann soll strategischer Anteilseigner werden",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-viessmann-soll-strategischer-anteilseigner-werden-a-a0f9b8a1-8305-48de-98a9-834237ef819f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T09:47:00+00:00"
     },
     {
       "titel": "Leute: Im Urlaub wird sie zu Nicole Raveman",
@@ -77,12 +95,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-116.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T09:37:13+00:00"
-    },
-    {
-      "titel": "Gesund joggen: Wer mit Kinderwagen läuft, verletzt sich seltener",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/gesund-joggen-wer-mit-kinderwagen-laeuft-verletzt-sich-seltener-a-2abe483b-dce8-4dd1-881f-79d0f3aba16b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T09:17:00+00:00"
     },
     {
       "titel": "Marktbericht: DAX tastet sich an Allzeithoch heran",
@@ -103,12 +115,6 @@
       "veroeffentlicht": "2026-08-14T08:16:22+00:00"
     },
     {
-      "titel": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
-      "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T07:51:03+00:00"
-    },
-    {
       "titel": "Vom Hoffnungsträger zur Machtmaschine - Erdogans AKP wird 25",
       "link": "https://www.tagesschau.de/ausland/asien/tuerkei-akp-102.html",
       "quelle": "Tagesschau",
@@ -119,12 +125,6 @@
       "link": "https://www.sueddeutsche.de/kultur/marieke-reimann-zweite-wende-interview-sachbuch-li.3522614",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T07:23:50+00:00"
-    },
-    {
-      "titel": "Farage gewinnt Nachwahl im britischen Clacton",
-      "link": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T07:05:46+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Neugebauer stürzt sich mit letzter Kraft zu Gold",
