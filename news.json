@@ -1,11 +1,89 @@
 {
-  "aktualisiert": "2026-08-14T06:43:52+00:00",
+  "aktualisiert": "2026-08-14T08:03:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Unfälle wegen Zeitdruck: Peking stoppt für Essenslieferanten an roten Ampeln die Uhr",
+      "link": "https://www.spiegel.de/wirtschaft/unfaelle-wegen-zeitdruck-peking-stoppt-fuer-essenslieferanten-an-roten-ampeln-die-uhr-a-3c1eb343-dba4-4c94-8c63-ae79103f0b6d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T07:56:00+00:00"
+    },
+    {
+      "titel": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
+      "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T07:51:03+00:00"
+    },
+    {
+      "titel": "Zweiter Weltkrieg: Selbstversenkung deutscher Kriegsschiffe in der Donau 1944",
+      "link": "https://www.spiegel.de/geschichte/zweiter-weltkrieg-selbstversenkung-deutscher-kriegsschiffe-in-der-donau-1944-a-43c5898c-993d-4263-8a13-bab05f5e060a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T07:29:00+00:00"
+    },
+    {
+      "titel": "Bundespräsidentenwahl: Boris Rhein als »heißer Favorit« – was hinter dem Gerücht steckt",
+      "link": "https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-boris-rhein-als-heisser-favorit-was-hinter-dem-geruecht-steckt-a-7d01b0c2-9607-47aa-b9a3-2b7246fe2e32#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T07:28:00+00:00"
+    },
+    {
+      "titel": "Vom Hoffnungsträger zur Machtmaschine - Erdogans AKP wird 25",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-akp-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T07:25:02+00:00"
+    },
+    {
+      "titel": "Ostdeutschland: „Ich habe mich oft gefragt: Merkel, warum sagst du denn nichts?“",
+      "link": "https://www.sueddeutsche.de/kultur/marieke-reimann-zweite-wende-interview-sachbuch-li.3522614",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T07:23:50+00:00"
+    },
+    {
+      "titel": "Farage gewinnt Nachwahl im britischen Clacton",
+      "link": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T07:05:46+00:00"
+    },
+    {
+      "titel": "Corona-Impfungen für Schwangere sicherer als Vorwürfe behaupten",
+      "link": "https://www.tagesschau.de/faktenfinder/corona-impfung-risiko-schwangerschaft-fauci-usa-covid-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T07:05:23+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Leo Neugebauer im Zehnkampf: König im Chaos",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-leo-neugebauer-im-zehnkampf-koenig-im-chaos-a-052a0e9b-d177-4d6e-a133-db1a8ac04efb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T07:05:00+00:00"
+    },
+    {
+      "titel": "Auto-Industrie beschäftigt so wenige Menschen wie vor 20 Jahren",
+      "link": "https://www.spiegel.de/wirtschaft/auto-industrie-beschaeftigt-so-wenige-menschen-wie-vor-20-jahren-a-7db2440b-1fbe-4a53-8091-67d330917578#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T06:59:00+00:00"
+    },
+    {
+      "titel": "SPD in der Krise: Warum neue Vorsitzende die Probleme nicht lösen – Meinung",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-in-der-krise-warum-neue-vorsitzende-die-probleme-nicht-loesen-meinung-a-e30774cf-b299-4eea-bbee-7caa0c3cf116#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T06:51:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Neugebauer stürzt sich mit letzter Kraft zu Gold",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-neugebauer-zehnkampf-gold-kaul-silber-li.3531173",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T06:44:22+00:00"
+    },
+    {
+      "titel": "Hamburger Cum-Ex-Affäre kommt nun doch vor Gericht",
+      "link": "https://www.tagesschau.de/investigativ/wdr/hamburg-cum-ex-gericht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T06:43:20+00:00"
+    },
     {
       "titel": "Hitzewelle: Bauernverband befürchtet Ernteeinbußen bis hin zu Totalausfällen",
       "link": "https://www.sueddeutsche.de/panorama/hitze-bauernverband-ernteeinbussen-totalausfaelle-li.3522772",
@@ -55,48 +133,6 @@
       "veroeffentlicht": "2026-08-14T05:50:00+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Lea Meyer nennt eigenes TV-Interview »unprofessionell und unsportlich«",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-lea-meyer-nennt-eigenes-tv-interview-unprofessionell-und-unsportlich-a-c5eda445-5fb6-43bb-ba67-541f96ba51b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T05:49:00+00:00"
-    },
-    {
-      "titel": "Großbritannien: Nigel Farage gewinnt Nachwahl im englischen Clacton gegen sprechenden Mülleimer",
-      "link": "https://www.spiegel.de/ausland/grossbritannien-nigel-farage-gewinnt-nachwahl-im-englischen-clacton-gegen-sprechenden-muelleimer-a-378bb582-4f05-476f-8775-35a8610db7bc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T05:46:00+00:00"
-    },
-    {
-      "titel": "Parkplatz-Geschäft: Wie Supermärkte ihre Stellflächen vermarkten",
-      "link": "https://www.spiegel.de/wirtschaft/parkplatz-geschaeft-wie-supermaerkte-ihre-stellflaechen-vermarkten-a-2ff3d57d-f25c-4c37-bd03-0517138fc2ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T05:43:00+00:00"
-    },
-    {
-      "titel": "Ukrainekrieg: Schwerer russischer Bombenangriff auf Kramatorsk",
-      "link": "https://www.spiegel.de/ausland/ukrainekrieg-schwerer-russischer-bombenangriff-auf-kramatorsk-a-7c0281d4-8681-44e8-a1d8-277d4f1bc885#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T05:15:00+00:00"
-    },
-    {
-      "titel": "SPD-Rentenexpertin schlägt Abschaffung der »Rente mit 63« in fünf Jahren vor",
-      "link": "https://www.spiegel.de/wirtschaft/spd-rentenexpertin-schlaegt-abschaffung-der-rente-mit-63-in-fuenf-jahren-vor-a-0324af14-cbe4-45d8-bf3d-cba48778fd78#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T05:05:00+00:00"
-    },
-    {
-      "titel": "Lettland: Kampfjets fangen Drohne ab",
-      "link": "https://www.spiegel.de/ausland/lettland-kampfjets-fangen-drohne-ab-a-110d185f-3312-481c-95cd-a558a42a05da#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T04:51:00+00:00"
-    },
-    {
-      "titel": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
-      "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T04:48:24+00:00"
-    },
-    {
       "titel": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
       "link": "https://www.tagesschau.de/ausland/europa/italien-aetna-asche-folgen-flugverkehr-100.html",
       "quelle": "Tagesschau",
@@ -109,34 +145,10 @@
       "veroeffentlicht": "2026-08-14T04:28:09+00:00"
     },
     {
-      "titel": "Warum Diesel trotz gesunkener Ölpreise so teuer bleibt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-oelpreis-spritpreise-heizoel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T04:00:13+00:00"
-    },
-    {
-      "titel": "Grünen-Fraktionschefin: Regierung sieht bei Spritpreis-Abzocke zu",
-      "link": "https://www.tagesschau.de/inland/hohe-spritpreise-gruene-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T03:40:02+00:00"
-    },
-    {
-      "titel": "„Sarah Tacke“ im ZDF: „Gerechtigkeit“? Hat doch mit Erbschaften nichts zu tun",
+      "titel": "TV-Kritik: „Gerechtigkeit“? Hat doch mit Erbschaften nichts zu tun",
       "link": "https://www.sueddeutsche.de/medien/sarah-tacke-zdf-erbschaften-gerechtigkeit-li.3531048",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T02:45:57+00:00"
-    },
-    {
-      "titel": "Bauernverband befürchtet teils totalen Ernteausfall",
-      "link": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T00:47:51+00:00"
-    },
-    {
-      "titel": "Gericht weist Klage der US-Regierung gegen Harvard ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T00:47:45+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Rechtspopulist Farage vs. Mülleimer: Worum es bei Großbritanniens kuriosester Nachwahl geht",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/profil-russland-opposition-nikolai-rybakow-jabloko-li.3530745",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T14:05:15+00:00"
-    },
-    {
-      "titel": "Ungleichheit: Wir brauchen das Erbe für alle – sofort!",
-      "link": "https://www.sueddeutsche.de/wirtschaft/erbschaften-deutschland-vermoegensverteilung-steuern-grunderbe-li.3516866",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T13:58:54+00:00"
-    },
-    {
-      "titel": "Streaming: Sicherheitshalber laut",
-      "link": "https://www.sueddeutsche.de/medien/serie-tip-toe-queerness-backlash-russel-t-davis-kritik-li.3524598",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T13:47:38+00:00"
     }
   ]
 }
