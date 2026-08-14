@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-14T00:00:35+00:00",
+  "aktualisiert": "2026-08-14T02:47:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Krieg in der Ukraine: Lettland ruft Luftalarm aus, Nato-Kampfjets schießen Drohne ab",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-baltikum-luftalarm-nato-jets-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T02:36:17+00:00"
+    },
+    {
+      "titel": "A44 bei Diemelstadt in Hessen: Lkw fährt in Rettungswagen auf Standstreifen – mehrere Verletzte",
+      "link": "https://www.spiegel.de/panorama/a44-bei-diemelstadt-in-hessen-lkw-faehrt-in-rettungswagen-auf-standstreifen-mehrere-verletzte-a-8e7431be-ba66-44c7-899f-70a82fe028f5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T02:16:00+00:00"
+    },
+    {
+      "titel": "US-Zölle von Donald Trump: Importierte Drohnen sollen bis zu 100 Prozent teurer werden",
+      "link": "https://www.spiegel.de/ausland/us-zoelle-von-donald-trump-importierte-drohnen-sollen-bis-zu-100-prozent-teurer-werden-a-ecfd3f33-f9c7-4107-978f-f87c8fb9e18a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T01:30:00+00:00"
+    },
+    {
+      "titel": "Hitzewelle: Bis zu 38 Grad: Deutschland schwitzt weiter",
+      "link": "https://www.sueddeutsche.de/panorama/bis-zu-38-grad-deutschland-schwitzt-weiter-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T01:06:13+00:00"
+    },
+    {
+      "titel": "USA vollstrecken drei Todesurteile an einem Tag in Tennessee, Oklahoma und Alabama",
+      "link": "https://www.spiegel.de/panorama/usa-vollstrecken-drei-todesurteile-an-einem-tag-in-tennessee-oklahoma-und-alabama-a-51c8f6bf-acc0-445d-ba16-ed5732781e1d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T00:52:00+00:00"
+    },
+    {
+      "titel": "Bauernverband befürchtet teils totalen Ernteausfall",
+      "link": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T00:47:51+00:00"
+    },
+    {
+      "titel": "Gericht weist Klage der US-Regierung gegen Harvard ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T00:47:45+00:00"
+    },
+    {
+      "titel": "Kuba wirft USA »brutale und unmoralische Belagerung« vor",
+      "link": "https://www.spiegel.de/ausland/kuba-wirft-usa-brutale-und-unmoralische-belagerung-vor-a-7058c6a5-18b5-40d8-a0d4-2fbf0ddbb05c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T00:00:00+00:00"
+    },
     {
       "titel": "Tirol: Deutscher Wanderer stürzt bei Familienausflug in den Tod",
       "link": "https://www.spiegel.de/panorama/tirol-deutscher-wanderer-stuerzt-bei-familienausflug-in-den-tod-a-112ab130-3bb1-49af-911e-4a9243243ab2#ref=rss",
@@ -43,40 +91,16 @@
       "veroeffentlicht": "2026-08-13T20:52:00+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Leo Neugebauer holt EM-Gold im Zehnkampf – Niklas Kaul Zweiter",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-leo-neugebauer-holt-em-gold-im-zehnkampf-niklas-kaul-zweiter-a-4da16f85-11b5-4a28-900c-4bbeeb8afb44#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T20:25:00+00:00"
-    },
-    {
       "titel": "Klage über Missstände - Flugzeugträger \"USS Abraham Lincoln\" wird wohl abgelöst",
       "link": "https://www.tagesschau.de/ausland/amerika/us-flugzeugtraeger-uss-abraham-lincoln-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T20:08:42+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Gesa Krause gewinnt Gold über 3.000 Meter Hindernis",
-      "link": "https://www.spiegel.de/sport/leichtathletik-em-gesa-krause-gewinnt-gold-ueber-3-000-meter-hindernis-a-ddc6f2e6-d02e-45e6-b023-b7f6aa476183#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T20:08:00+00:00"
-    },
-    {
       "titel": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
       "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T19:55:03+00:00"
-    },
-    {
-      "titel": "Nach Klagen über Missstände: US-Flugzeugträger wird abgelöst",
-      "link": "https://www.spiegel.de/ausland/nach-klagen-ueber-missstaende-us-flugzeugtraeger-wird-abgeloest-a-d0f1b9a2-2a3d-4176-9eb1-f116cb375739#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T19:48:00+00:00"
-    },
-    {
-      "titel": "Alexandria Ocasio-Cortez: Linke Ikone mit wachsenden Präsidentschaftsambitionen",
-      "link": "https://www.spiegel.de/ausland/alexandria-ocasio-cortez-linke-ikone-mit-wachsenden-praesidentschaftsambitionen-a-d4ad4df4-1848-427c-8fe1-41098985a475#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-13T19:36:00+00:00"
     },
     {
       "titel": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
@@ -107,24 +131,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-13T15:30:17+00:00"
-    },
-    {
-      "titel": "Was könnte gegen Niedrigwasser helfen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-niedrigwasser-ausbau-fluesse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T15:29:49+00:00"
-    },
-    {
-      "titel": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-13T14:50:05+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Selenskij bittet USA um fünf Prozent ihrer „Patriot“-Raketen",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-patriot-raketen-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T14:44:46+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Rechtspopulist Farage vs. Mülleimer: Worum es bei Großbritanniens kuriosester Nachwahl geht",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/bundesliga-el-mala-koeln-dortmund-transfer-zweifel-li.3530532",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T13:44:22+00:00"
-    },
-    {
-      "titel": "Autodesign: BMW – Bitte macht weniger",
-      "link": "https://www.sueddeutsche.de/kultur/bmw-muenchen-krise-autoindustrie-design-kritik-li.3529919",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T13:22:39+00:00"
     }
   ]
 }
