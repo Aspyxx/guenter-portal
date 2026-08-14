@@ -1,11 +1,77 @@
 {
-  "aktualisiert": "2026-08-14T11:30:36+00:00",
+  "aktualisiert": "2026-08-14T12:29:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T12:25:00+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: Russland lehnt Waffenruhe im Schwarzen Meer ab",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-russland-lehnt-waffenruhe-im-schwarzen-meer-ab-a-0321a338-281d-4abf-906d-0f7ec2e0accf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T12:20:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Aktienkurs von HelloFresh stürzt auf Rekordtief",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/marktbericht-hellofresh-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-14T12:19:52+00:00"
+    },
+    {
+      "titel": "Großbritannien: Nigel Farage gewinnt Nachwahl in Clacton gegen Count Binface",
+      "link": "https://www.spiegel.de/ausland/grossbritannien-nigel-farage-gewinnt-nachwahl-in-clacton-gegen-count-binface-a-4e245102-4b2d-4c4b-a963-413f05030636#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T12:11:00+00:00"
+    },
+    {
+      "titel": "Sehmatal in Sachsen: Hubschrauber im Erzgebirge abgestürzt – Pilot tot",
+      "link": "https://www.spiegel.de/panorama/sehmatal-in-sachsen-hubschrauber-im-erzgebirge-abgestuerzt-pilot-tot-a-c4d0cc78-b24a-4252-b2e2-b0d456761fb6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T12:10:00+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn klagt gegen Fernverkehrsbeschluss der Netzagentur",
+      "link": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-klagt-gegen-fernverkehrsbeschluss-der-netzagentur-a-a375622a-5a0d-4fbc-a935-6f333ad138f5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T11:48:00+00:00"
+    },
+    {
+      "titel": "Saïd El Mala: Borussia Dortmund steigt aus Transferpoker um Kölns Offensivtalent aus",
+      "link": "https://www.spiegel.de/sport/fussball/said-el-mala-borussia-dortmund-steigt-aus-transferpoker-um-koelns-offensivtalent-aus-a-3e444d76-4d34-412b-97a7-5041720dd7a1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T11:43:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM in Birmingham: Lea Meyer und ein Abend wie ein Unfall",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-lea-meyer-und-ein-abend-wie-ein-unfall-a-f31ad154-e0c7-47c1-803d-48cc0a9df622#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T11:37:00+00:00"
+    },
+    {
+      "titel": "Eberhofer-Krimi »Steckerlfischfiasko« im Kino: Humorniveau in Bodennähe",
+      "link": "https://www.spiegel.de/kultur/kino/eberhofer-krimi-steckerlfischfiasko-im-kino-humorniveau-in-bodennaehe-a-0480c0c3-0f86-4638-a8e5-6cddc3d93e16#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T11:31:00+00:00"
+    },
+    {
+      "titel": "Bundesliga: El Mala wechselt nicht zu Borussia Dortmund",
+      "link": "https://www.sueddeutsche.de/sport/el-mala-koeln-dortmund-transfer-angebot-li.3531486",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T11:30:20+00:00"
+    },
+    {
+      "titel": "USA: Polizei und Tierbehörde retten 60 Katzen von verlassenem Segelboot",
+      "link": "https://www.spiegel.de/panorama/usa-polizei-und-tierbehoerde-retten-60-katzen-von-verlassenem-segelboot-a-66a5b4c2-c26b-4daf-9893-57f545583ce7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T11:30:00+00:00"
+    },
     {
       "titel": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
       "link": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
@@ -19,64 +85,10 @@
       "veroeffentlicht": "2026-08-14T11:16:51+00:00"
     },
     {
-      "titel": "Kalifornien: Marine Hitzewelle treibt massenhaft Stachelrochen an die Strände",
-      "link": "https://www.spiegel.de/wissenschaft/natur/kalifornien-marine-hitzewelle-treibt-massenhaft-stachelrochen-an-die-straende-a-d44f514c-f3cb-48fd-b4cb-973cb2c55486#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T11:16:00+00:00"
-    },
-    {
-      "titel": "Ostdeutschland: Zuwanderung stützt laut IW-Studie Arbeitsmarkt und Wirtschaft",
-      "link": "https://www.spiegel.de/wirtschaft/ostdeutschland-zuwanderung-stuetzt-laut-iw-studie-arbeitsmarkt-und-wirtschaft-a-e0504519-6676-483f-a674-d72fff5cefae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T11:03:00+00:00"
-    },
-    {
       "titel": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
       "link": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T10:57:32+00:00"
-    },
-    {
-      "titel": "Pflege: Hamburger Seniorenheim-Chef rechnet mit System ab",
-      "link": "https://www.spiegel.de/wirtschaft/pflege-hamburger-seniorenheim-chef-rechnet-mit-system-ab-a-dd70fc6c-9df0-45cb-b08b-34bf62d3ecae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:48:00+00:00"
-    },
-    {
-      "titel": "Hürtgenwald: Landrat warnt vor entscheidenden Stunden im Kampf gegen Waldbrand",
-      "link": "https://www.spiegel.de/panorama/huertgenwald-landrat-warnt-vor-entscheidenden-stunden-im-kampf-gegen-waldbrand-a-a0c33901-4093-406f-9d5f-8dbae5bec2de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:43:00+00:00"
-    },
-    {
-      "titel": "Berlin: Feuerwehr berichtet von »dramatischem« Einsatz bei Hochhausbrand mit 13 Verletzten",
-      "link": "https://www.spiegel.de/panorama/berlin-feuerwehr-berichtet-von-dramatischem-einsatz-bei-hochhausbrand-mit-13-verletzten-a-e67a8449-7dff-4b6f-baa8-53b39997177e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:42:00+00:00"
-    },
-    {
-      "titel": "Dinslaken: Drei Raubüberfälle an einem Tag - Gerichts-Azubi verhaftet",
-      "link": "https://www.spiegel.de/panorama/justiz/dinslaken-drei-raubueberfaelle-an-einem-tag-gerichts-azubi-verhaftet-a-83cb4387-4a5b-4578-af51-cddb67a6dbde#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:40:00+00:00"
-    },
-    {
-      "titel": "Staatsverschuldung: US-Zinszahlungen steigen unter Trump auf 100 Milliarden im Monat",
-      "link": "https://www.spiegel.de/wirtschaft/staatsverschuldung-us-zinszahlungen-steigen-unter-trump-auf-100-milliarden-im-monat-a-1808bc96-9795-41d6-8dba-63229b526ed2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:37:00+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Anthropic warnt vor »Revierkämpfen« zwischen KI-Assistenten",
-      "link": "https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-anthropic-warnt-vor-revierkaempfen-zwischen-ki-assistenten-a-9a87836d-c98c-4187-96b8-2f113e351470#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:33:00+00:00"
-    },
-    {
-      "titel": "Moderatorin Laura Wontorra wechselt von DAZN zu RTL",
-      "link": "https://www.spiegel.de/kultur/tv/moderatorin-laura-wontorra-wechselt-von-dazn-zu-rtl-a-fb0497db-1da4-4248-8e6f-4b2dbe732b1c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T10:21:00+00:00"
     },
     {
       "titel": "Deutschland und Afghanistan: Zwischen Abschiebungen und Hilfe",
@@ -113,12 +125,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klima-staedte-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T08:16:22+00:00"
-    },
-    {
-      "titel": "Vom Hoffnungsträger zur Machtmaschine - Erdogans AKP wird 25",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-akp-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T07:25:02+00:00"
     },
     {
       "titel": "Ostdeutschland: „Ich habe mich oft gefragt: Merkel, warum sagst du denn nichts?“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/farage-count-binface-grossbritannien-wahl-reform-uk-brexit-li.3531001",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-13T14:24:04+00:00"
-    },
-    {
-      "titel": "Münchner Traditionsunternehmen: Machtkampf im Hause Hirmer: Plötzlich soll eine 18-Jährige Miteigentümerin werden",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-hirmer-machtkampf-gesellschafter-tochter-li.3519351",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-13T14:17:12+00:00"
     }
   ]
 }
