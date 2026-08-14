@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-14T19:20:27+00:00",
+  "aktualisiert": "2026-08-14T20:16:07+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
+      "link": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T19:47:13+00:00"
+    },
+    {
+      "titel": "USA: Truppen nur für Trump-Loyalisten? USA schicken offenbar Nato-Verbündeten Fragebogen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-nato-fragebogen-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T19:33:10+00:00"
+    },
+    {
+      "titel": "Schwimm-EM: Isabel Gose, Angelina Köhler und Maya Werner bejubeln Medaillen",
+      "link": "https://www.spiegel.de/sport/schwimm-em-isabel-gose-angelina-koehler-und-maya-werner-bejubeln-medaillen-a-bcee1142-2bf9-4a66-bd98-cb58d7ec0b3a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-14T19:25:00+00:00"
+    },
+    {
+      "titel": "Premier League: Amazon-Gründer Bezos steigt beim FC Liverpool ein",
+      "link": "https://www.sueddeutsche.de/sport/amazon-gruender-jeff-bezos-fc-liverpool-investor-li.3531695",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-14T19:16:06+00:00"
+    },
     {
       "titel": "Reit-WM 2026: Debütantin Katharina Hemmer holt überraschend Bronze",
       "link": "https://www.spiegel.de/sport/reit-wm-2026-debuetantin-katharina-hemmer-holt-ueberraschend-bronze-a-0d9bf4b0-ec87-48c4-ae36-c32b95d8bcff#ref=rss",
@@ -71,12 +95,6 @@
       "link": "https://www.spiegel.de/panorama/rostock-ehepaar-kann-laut-landgericht-geld-zurueckverlangen-weil-fkk-bereich-auf-kreuzfahrtschiff-kleiner-war-a-7cb239de-ffbf-4ae7-acfb-cf09a5a2213e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T17:04:00+00:00"
-    },
-    {
-      "titel": "Klimakrise: CDU-Generalsekretärin Hoppermann lehnt Grundgesetzänderung wegen Hitzeschutz ab",
-      "link": "https://www.spiegel.de/politik/klimakrise-cdu-generalsekretaerin-hoppermann-lehnt-grundgesetzaenderung-wegen-hitzeschutz-ab-a-d41e233b-6822-4886-a5a3-90f645e005cd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T16:58:00+00:00"
     },
     {
       "titel": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-hindernisrennen-3000m-krause-meyer-streit-interview-li.3531175",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T13:44:31+00:00"
-    },
-    {
-      "titel": "FC Bayern: Der wundersame Ismael Saibari",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-saibari-vorstellung-transfers-eberl-li.3531435",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T13:28:57+00:00"
-    },
-    {
-      "titel": "Kennedy Center in Washington: Jetzt kommt Trumps Name doch wieder auf die Fassade – nur woanders",
-      "link": "https://www.sueddeutsche.de/kultur/trump-kennedy-center-name-streit-li.3531436",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T12:43:31+00:00"
-    },
-    {
-      "titel": "Drohne über Lettland: Warnstufe Orange um vier Uhr morgens",
-      "link": "https://www.sueddeutsche.de/politik/lettland-drohne-abschuss-eurofighter-ukraine-russland-li.3531342",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T12:31:11+00:00"
     }
   ]
 }
