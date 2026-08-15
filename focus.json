@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-15T18:09:15+00:00",
+  "aktualisiert": "2026-08-15T18:52:20+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "\"Erste Hoffnung\" und Suche nach der Brandursache",
+      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔥"
+    },
+    {
+      "rang": 2,
       "titel": "Viele Sicherheitskräfte, Chaos ausgeblieben",
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
       "link": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
-      "link": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
-      "quelle": "Tagesschau",
-      "icon": "⚽"
     }
   ]
 }
