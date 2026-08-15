@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-15T15:01:00+00:00",
+  "aktualisiert": "2026-08-15T15:36:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,46 @@
   },
   "meldungen": [
     {
+      "titel": "Thronfolge in Liechtenstein: Fürstenhaus schafft männliches Erstgeburtsrecht ab",
+      "link": "https://www.spiegel.de/ausland/thronfolge-in-liechtenstein-fuerstenhaus-schafft-maennliches-erstgeburtsrecht-ab-a-4874491d-1333-4b1e-adb6-345937363c3c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T15:30:00+00:00"
+    },
+    {
+      "titel": "Oman: Ölteppich erreicht zwölf Kilometer langen Küstenabschnitt",
+      "link": "https://www.spiegel.de/ausland/oman-oelteppich-erreicht-zwoelf-kilometer-langen-kuestenabschnitt-a-e4cf2a45-9da2-4128-a1cf-a7f24d2ae245#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T15:21:00+00:00"
+    },
+    {
+      "titel": "Handyhalterungen fürs Fahrrad im Test: Modelle von Feschd, Quad Lock, SP Connect und mehr",
+      "link": "https://www.spiegel.de/tests/fahrrad-zubehoer/handyhalterungen-fuers-fahrrad-im-test-modelle-von-feschd-quad-lock-sp-connect-und-mehr-a-fff2ac20-52eb-4d5a-9d83-28946e6ff5d9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T15:10:00+00:00"
+    },
+    {
+      "titel": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
+      "link": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T15:07:03+00:00"
+    },
+    {
+      "titel": "Geldanlage: Was man als ETF-Anfänger wissen muss",
+      "link": "https://www.spiegel.de/wirtschaft/geldanlage-was-man-als-etf-anfaenger-wissen-muss-a-31dde7fa-7676-4e14-935c-4cf5a914033c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T15:00:00+00:00"
+    },
+    {
       "titel": "»The Legend of Zelda: Breath of the Wild«: Platz 1 im SPIEGEL Games-Kanon",
       "link": "https://www.spiegel.de/kultur/the-legend-of-zelda-breath-of-the-wild-platz-1-im-spiegel-games-kanon-a-4ae64912-e857-4d49-9a08-db11877c0c54#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T14:55:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-staffel-4x100-meter-gina-lueckenkemper-li.3531917",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T14:52:57+00:00"
     },
     {
       "titel": "Ukraine: Baby bei russischer Drohnenattacke getötet",
@@ -55,12 +91,6 @@
       "veroeffentlicht": "2026-08-15T13:45:00+00:00"
     },
     {
-      "titel": "Berlin: »Rave the Planet« beginnt mit Schweigeminute für Terroropfer",
-      "link": "https://www.spiegel.de/panorama/berlin-rave-the-planet-beginnt-mit-schweigeminute-fuer-terroropfer-a-31b0a7d8-f8f4-41de-8031-099a66242433#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T13:37:00+00:00"
-    },
-    {
       "titel": "Hitzewelle: Bis zu 45 Grad: Verdi-Befragung in Pflegeheimen zeigt extreme Belastung",
       "link": "https://www.sueddeutsche.de/panorama/hitze-pflegeheime-befragung-li.3522772",
       "quelle": "Süddeutsche",
@@ -71,24 +101,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ein-jahr-nach-gipfel-anchorage-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T13:29:17+00:00"
-    },
-    {
-      "titel": "Hürtgenwald: Löscharbeiten in der Eifel – Landrat hofft auf schnelle Kontrolle",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/huertgenwald-loescharbeiten-in-der-eifel-landrat-hofft-auf-schnelle-kontrolle-a-c1c4c0a7-dbdd-4f70-8126-b07efe738542#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T13:22:00+00:00"
-    },
-    {
-      "titel": "Rheinland-Pfalz: Rhein-Pegelstand in Kaub steigt leicht auf elf Zentimeter",
-      "link": "https://www.spiegel.de/panorama/rheinland-pfalz-rhein-pegelstand-in-kaub-steigt-leicht-auf-elf-zentimeter-a-4e4e330a-1c7a-4d79-b606-54369efaa80e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T13:06:00+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Gina Lückenkemper und deutsche Staffel verpassen Finale nach Verletzung",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-gina-lueckenkemper-und-deutsche-staffel-verpassen-finale-nach-verletzung-a-0542caf5-204a-44da-a1e8-7833bca7e9c9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T13:01:00+00:00"
     },
     {
       "titel": "Waldbrände in Europa: Wo es gerade brennt",
@@ -119,12 +131,6 @@
       "link": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T09:40:13+00:00"
-    },
-    {
-      "titel": "Norddeutschland: Behörden warnen Badende vor Blaualgen",
-      "link": "https://www.tagesschau.de/ostsee-blaualgen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T09:15:56+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Der Goldsprinter aus Germany – verfolgt von einem Schatten",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/radprofi-finlay-tarling-portugal-rundfahrt-tot-li.3531689",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T18:48:31+00:00"
-    },
-    {
-      "titel": "Kolumbien: Die geretteten Babys von Cali",
-      "link": "https://www.sueddeutsche.de/panorama/babys-gerettet-kolumbien-erdbeben-rettungsaktion-li.3531581",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T16:06:06+00:00"
     }
   ]
 }
