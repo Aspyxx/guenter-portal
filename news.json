@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-15T18:49:19+00:00",
+  "aktualisiert": "2026-08-15T19:36:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,46 @@
   },
   "meldungen": [
     {
+      "titel": "Albanien: Scheitert das Bauprojekt der Trump-Familie an Massenprotesten und Korruptionsvorwürfen?",
+      "link": "https://www.spiegel.de/ausland/albanien-umstrittenes-projekt-der-trump-familie-ivankas-traum-und-seine-schattenseiten-a-4fbf49a0-a122-4a48-9678-985195d887ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T19:26:00+00:00"
+    },
+    {
+      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T19:25:57+00:00"
+    },
+    {
+      "titel": "Waldbrand in der Eifel: Bewohner dürfen nach Hürtgenwald zurückkehren",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/waldbrand-in-der-eifel-bewohner-duerfen-nach-huertgenwald-zurueckkehren-a-e1f1e4e6-bae1-4d9d-978b-7dfd3eb204e6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T19:21:00+00:00"
+    },
+    {
+      "titel": "Waldbrand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T19:20:27+00:00"
+    },
+    {
+      "titel": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
+      "link": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T19:09:14+00:00"
+    },
+    {
       "titel": "Eberhofer-Krimi »Steckerlfischfiasko« im Kino: Rita Falk über Grenzen des Humors",
       "link": "https://www.spiegel.de/kultur/kino/eberhofer-krimi-steckerlfischfiasko-im-kino-rita-falk-ueber-grenzen-des-humors-a-49af9b86-ab58-40f2-a6da-77bbac1f851e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T18:47:00+00:00"
+    },
+    {
+      "titel": "FC Bayern: Musiala erleidet wohl Hitzschlag",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-rb-leipzig-hitze-testspiel-laimer-li.3531975",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T18:44:33+00:00"
     },
     {
       "titel": "Feuer in NRW: \"Erste Hoffnung\" und Suche nach der Brandursache",
@@ -61,22 +97,10 @@
       "veroeffentlicht": "2026-08-15T17:30:00+00:00"
     },
     {
-      "titel": "Hürtgenwald: Wüst spricht von erster Hoffnung auf Kontrolle des Waldbrands",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/huertgenwald-wuest-spricht-von-erster-hoffnung-auf-kontrolle-des-waldbrands-a-61b6252e-3fe3-4e64-8987-4f77e0832731#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T17:28:00+00:00"
-    },
-    {
       "titel": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T17:19:29+00:00"
-    },
-    {
-      "titel": "Australien: New South Wales startet Waffenrückkauf nach Bondi-Beach-Attentat",
-      "link": "https://www.spiegel.de/ausland/australien-new-south-wales-startet-waffenrueckkauf-nach-bondi-beach-attentat-a-dd891935-7a19-4303-8ab6-df7ca2de9f13#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T16:50:00+00:00"
     },
     {
       "titel": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
@@ -97,28 +121,10 @@
       "veroeffentlicht": "2026-08-15T15:55:54+00:00"
     },
     {
-      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T15:52:59+00:00"
-    },
-    {
-      "titel": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
-      "link": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T15:07:03+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-staffel-4x100-meter-gina-lueckenkemper-li.3531917",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T14:52:57+00:00"
-    },
-    {
-      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T14:48:34+00:00"
     },
     {
       "titel": "Hitzewelle: Bis zu 45 Grad: Verdi-Befragung in Pflegeheimen zeigt extreme Belastung",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/amazon-gruender-jeff-bezos-fc-liverpool-investor-li.3531695",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T19:16:06+00:00"
-    },
-    {
-      "titel": "Radsport: Britischer Fahrer Tarling stirbt nach Unfall bei Portugal-Rundfahrt",
-      "link": "https://www.sueddeutsche.de/sport/radprofi-finlay-tarling-portugal-rundfahrt-tot-li.3531689",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T18:48:31+00:00"
     }
   ]
 }
