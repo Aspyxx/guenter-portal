@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-15T15:36:11+00:00",
+  "aktualisiert": "2026-08-15T15:57:51+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "In der SPD grummelt es vor den Landtagswahlen immer lauter",
+      "link": "https://www.tagesschau.de/inland/spd-lage-vor-wahlen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T15:55:54+00:00"
+    },
+    {
+      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T15:52:59+00:00"
+    },
+    {
+      "titel": "Ukraine: Drohnenangriffe aus Russland – der Highway der verbrannten Tankstellen",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-russlands-drohnenangriffe-auf-tankstellen-entlang-fernstrasse-a-72976f14-371c-4a29-9592-928657368dda#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T15:40:00+00:00"
+    },
     {
       "titel": "Thronfolge in Liechtenstein: Fürstenhaus schafft männliches Erstgeburtsrecht ab",
       "link": "https://www.spiegel.de/ausland/thronfolge-in-liechtenstein-fuerstenhaus-schafft-maennliches-erstgeburtsrecht-ab-a-4874491d-1333-4b1e-adb6-345937363c3c#ref=rss",
@@ -85,12 +103,6 @@
       "veroeffentlicht": "2026-08-15T14:00:00+00:00"
     },
     {
-      "titel": "Friedrich Merz: Was der Vergleich mit Angela Merkel über die CDU verrät",
-      "link": "https://www.spiegel.de/politik/friedrich-merz-was-der-vergleich-mit-angela-merkel-ueber-die-cdu-verraet-a-ed0769d0-d8bb-43a2-a43d-bc286c371f41#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T13:45:00+00:00"
-    },
-    {
       "titel": "Hitzewelle: Bis zu 45 Grad: Verdi-Befragung in Pflegeheimen zeigt extreme Belastung",
       "link": "https://www.sueddeutsche.de/panorama/hitze-pflegeheime-befragung-li.3522772",
       "quelle": "Süddeutsche",
@@ -115,22 +127,10 @@
       "veroeffentlicht": "2026-08-15T11:49:29+00:00"
     },
     {
-      "titel": "Streit um den Sabbat in Israel: Ein Café als Ort des Kulturkampfs",
-      "link": "https://www.tagesschau.de/ausland/asien/sabbat-kulturkampf-israel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T11:43:49+00:00"
-    },
-    {
       "titel": "Reit-WM in Aachen: „Pferde können mit hohen Temperaturen besser umgehen“",
       "link": "https://www.sueddeutsche.de/sport/reiten-wm-aachen-pferde-hitze-li.3531616",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T10:07:36+00:00"
-    },
-    {
-      "titel": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
-      "link": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T09:40:13+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Der Goldsprinter aus Germany – verfolgt von einem Schatten",
