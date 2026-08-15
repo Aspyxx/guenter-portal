@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-15T09:42:33+00:00",
+  "aktualisiert": "2026-08-15T10:01:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Indien: Wie Modi die »Kakerlaken-Bewegung« mit Bildungsangeboten besänftigen will",
+      "link": "https://www.spiegel.de/ausland/indien-wie-modi-die-kakerlaken-bewegung-mit-bildungsangeboten-besaenftigen-will-a-00316800-ac70-426f-aec7-39b49a378a7d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T09:51:00+00:00"
+    },
+    {
+      "titel": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T09:42:35+00:00"
+    },
     {
       "titel": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
       "link": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html",
@@ -43,19 +55,13 @@
       "veroeffentlicht": "2026-08-15T09:09:00+00:00"
     },
     {
-      "titel": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T09:06:20+00:00"
-    },
-    {
       "titel": "Indonesien: Mindestens 38 Tote nach schwerem Erdbeben",
       "link": "https://www.spiegel.de/panorama/indonesien-mindestens-20-tote-nach-schwerem-erdbeben-a-e5d163b5-5117-490d-b532-0913f7ac34a7#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T09:02:00+00:00"
     },
     {
-      "titel": "Disney-Event D23: Marvel enthüllt die nächste »X-Men«-Generation",
+      "titel": "»X-Men«-Reboot: Christopher Abbott und Adam Driver in neuem Marvel-Cast",
       "link": "https://www.spiegel.de/kultur/kino/disney-event-d23-marvel-enthuellt-die-naechste-x-men-generation-a-db206c18-035f-4dfe-b9b2-5fe91f665258#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T08:59:00+00:00"
@@ -95,12 +101,6 @@
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-ansah-gold-200-meter-sprint-doping-li.3531790",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T08:16:52+00:00"
-    },
-    {
-      "titel": "Hürtgenwald: Waldbrand in der Eifel hat sich in der Nacht nicht weiter ausgebreitet",
-      "link": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-in-der-eifel-hat-sich-in-der-nacht-nicht-weiter-ausgebreitet-a-75ae3d94-78b6-41e0-88ec-99f42bbcd124#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T07:43:00+00:00"
     },
     {
       "titel": "Millionen-Goldfund auf belgischer Baustelle",
