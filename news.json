@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-15T15:57:51+00:00",
+  "aktualisiert": "2026-08-15T16:42:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Indonesien: Mindestens 47 Tote nach schwerem Erdbeben",
+      "link": "https://www.spiegel.de/panorama/indonesien-mindestens-47-tote-nach-schwerem-erdbeben-a-e5d163b5-5117-490d-b532-0913f7ac34a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T16:34:00+00:00"
+    },
+    {
+      "titel": "Jamal Musiala: Bayern-Star bricht bei Testspielsieg gegen RB Leipzig zusammen",
+      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-bayern-star-bricht-bei-testspielsieg-gegen-rb-leipzig-zusammen-a-12b84e0f-c9e0-40bf-89cd-e518dfa77cb8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T16:20:00+00:00"
+    },
+    {
+      "titel": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/kaffee-konsum-herz-kreislauf-diabetes-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T16:15:34+00:00"
+    },
+    {
+      "titel": "Warum jetzt auch Bäckerei-Ketten von Finanzinvestoren übernommen werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/finanzinvestoren-handwerksbetriebe-baecker-eifler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T16:13:41+00:00"
+    },
+    {
+      "titel": "»Rave the Planet« in Berlin: Hitzeschlacht im Techno-Takt",
+      "link": "https://www.spiegel.de/panorama/rave-the-planet-in-berlin-hitzeschlacht-im-techno-takt-a-72e512d4-5f9b-4926-abd2-179bfc7267b9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T15:57:00+00:00"
+    },
     {
       "titel": "In der SPD grummelt es vor den Landtagswahlen immer lauter",
       "link": "https://www.tagesschau.de/inland/spd-lage-vor-wahlen-100.html",
@@ -55,7 +85,7 @@
       "veroeffentlicht": "2026-08-15T15:00:00+00:00"
     },
     {
-      "titel": "»The Legend of Zelda: Breath of the Wild«: Platz 1 im SPIEGEL Games-Kanon",
+      "titel": "»The Legend of Zelda: Breath of the Wild«: Platz eins im SPIEGEL-Games-Kanon",
       "link": "https://www.spiegel.de/kultur/the-legend-of-zelda-breath-of-the-wild-platz-1-im-spiegel-games-kanon-a-4ae64912-e857-4d49-9a08-db11877c0c54#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T14:55:00+00:00"
@@ -65,18 +95,6 @@
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-staffel-4x100-meter-gina-lueckenkemper-li.3531917",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T14:52:57+00:00"
-    },
-    {
-      "titel": "Ukraine: Baby bei russischer Drohnenattacke getötet",
-      "link": "https://www.spiegel.de/ausland/ukraine-baby-bei-russischer-drohnenattacke-getoetet-a-1af2361a-d2cc-44cb-ad1f-6321e3c8f2d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T14:51:00+00:00"
-    },
-    {
-      "titel": "Adolf Hitler: Wie Braunau Hitlers Geburtshaus zur Polizeistation umbaut – Podcast",
-      "link": "https://www.spiegel.de/ausland/hitlers-geburtshaus-kann-eine-polizeistation-in-braunau-den-mythos-brechen-a-dce7edff-9173-4047-9dab-39a4ef9ed95e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T14:49:00+00:00"
     },
     {
       "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
@@ -97,12 +115,6 @@
       "veroeffentlicht": "2026-08-15T14:10:13+00:00"
     },
     {
-      "titel": "Tübingen: Wohnungsbau vs. Naturschutz – warum habe ich die Bäume vor meinem Büro nicht gerettet?",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/tuebingen-wohnungsbau-vs-naturschutz-warum-habe-ich-die-baeume-vor-meinem-buero-nicht-gerettet-a-c82361c8-7cd8-4df9-bc7a-e26459aeeb29#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T14:00:00+00:00"
-    },
-    {
       "titel": "Hitzewelle: Bis zu 45 Grad: Verdi-Befragung in Pflegeheimen zeigt extreme Belastung",
       "link": "https://www.sueddeutsche.de/panorama/hitze-pflegeheime-befragung-li.3522772",
       "quelle": "Süddeutsche",
@@ -113,18 +125,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ein-jahr-nach-gipfel-anchorage-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T13:29:17+00:00"
-    },
-    {
-      "titel": "Waldbrände in Europa: Wo es gerade brennt",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T12:23:54+00:00"
-    },
-    {
-      "titel": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T11:49:29+00:00"
     },
     {
       "titel": "Reit-WM in Aachen: „Pferde können mit hohen Temperaturen besser umgehen“",
