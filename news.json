@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-15T07:44:53+00:00",
+  "aktualisiert": "2026-08-15T08:10:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hürtgenwald: Waldbrand in der Eifel hat sich in der Nacht nicht weiter ausgebreitet",
+      "link": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-in-der-eifel-hat-sich-in-der-nacht-nicht-weiter-ausgebreitet-a-75ae3d94-78b6-41e0-88ec-99f42bbcd124#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T07:43:00+00:00"
+    },
+    {
+      "titel": "Gelsenkirchen: Schon 18 Klagen nach millionenschwerem Sparkassen-Coup",
+      "link": "https://www.spiegel.de/panorama/justiz/gelsenkirchen-schon-18-klagen-nach-millionenschwerem-sparkassen-coup-a-b3c2ee05-18e5-4564-97ea-faed240e0156#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T07:42:00+00:00"
+    },
     {
       "titel": "Millionen-Goldfund auf belgischer Baustelle",
       "link": "https://www.tagesschau.de/ausland/europa/goldfund-belgien-100.html",
@@ -83,18 +95,6 @@
       "link": "https://www.spiegel.de/panorama/gesellschaft/donald-trump-queerer-aktivist-flieht-nach-berlin-wir-sind-hier-weil-ich-mich-als-trans-person-mit-einem-kind-in-amerika-nicht-mehr-sicher-gefuehlt-habe-a-dfb40885-3f9b-4a01-923f-63cdd323a0f3#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T05:37:00+00:00"
-    },
-    {
-      "titel": "Hürtgenwald: Waldbrand hat sich in der Nacht nicht weiter ausgebreitet",
-      "link": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-hat-sich-in-der-nacht-nicht-weiter-ausgebreitet-a-75ae3d94-78b6-41e0-88ec-99f42bbcd124#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T05:32:00+00:00"
-    },
-    {
-      "titel": "Tübingen: Wohnungsbau vs. Naturschutz – warum habe ich die Bäume vor meinem Büro nicht gerettet?",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/tuebingen-wohnungsbau-vs-naturschutz-warum-habe-ich-die-baeume-vor-meinem-buero-nicht-gerettet-a-c82361c8-7cd8-4df9-bc7a-e26459aeeb29#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T05:26:00+00:00"
     },
     {
       "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
