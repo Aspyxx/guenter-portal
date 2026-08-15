@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-15T00:01:07+00:00",
+  "aktualisiert": "2026-08-15T01:50:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Feuer im Hürtgenwald: Feuerwehr muss Einsatzzentrale wegen Rauch verlegen – Löscharbeiten gingen in der Nacht weiter",
+      "link": "https://www.spiegel.de/panorama/feuer-im-huertgenwald-feuerwehr-muss-einsatzzentrale-wegen-rauch-verlegen-loescharbeiten-gingen-in-der-nacht-weiter-a-358357d8-7803-4162-a713-ba334e4f71b2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T01:45:00+00:00"
+    },
+    {
+      "titel": "Ankündigung des US-Präsidenten: Trump will Straße von Hormus zu US-Gebiet erklären",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T01:12:08+00:00"
+    },
+    {
+      "titel": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T01:10:58+00:00"
+    },
+    {
+      "titel": "Bauarbeiter finden in Belgien Gold im Wert von neun Millionen Euro",
+      "link": "https://www.spiegel.de/panorama/bauarbeiter-finden-in-belgien-gold-im-wert-von-neun-millionen-euro-a-5fff929d-12f6-4277-8d82-8e2093287a4f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T00:19:00+00:00"
+    },
     {
       "titel": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
       "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
@@ -67,12 +91,6 @@
       "veroeffentlicht": "2026-08-14T20:23:00+00:00"
     },
     {
-      "titel": "Stendal: AfD-Politiker verfolgt 14-Jährigen mit Baseballschläger",
-      "link": "https://www.spiegel.de/politik/stendal-afd-politiker-verfolgt-14-jaehrigen-mit-baseballschlaeger-a-bf6723db-bbea-4622-aaf2-7101caf4b71d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T20:19:00+00:00"
-    },
-    {
       "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
       "link": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
       "quelle": "Süddeutsche",
@@ -83,12 +101,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-nato-fragebogen-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T19:33:10+00:00"
-    },
-    {
-      "titel": "Schwimm-EM: Isabel Gose, Angelina Köhler und Maya Werner bejubeln Medaillen",
-      "link": "https://www.spiegel.de/sport/schwimm-em-isabel-gose-angelina-koehler-und-maya-werner-bejubeln-medaillen-a-bcee1142-2bf9-4a66-bd98-cb58d7ec0b3a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T19:25:00+00:00"
     },
     {
       "titel": "Premier League: Amazon-Gründer Bezos steigt beim FC Liverpool ein",
@@ -127,12 +139,6 @@
       "veroeffentlicht": "2026-08-14T16:24:07+00:00"
     },
     {
-      "titel": "Ceuta: Irreführende Videos und KI-generierte Bilder im Umlauf",
-      "link": "https://www.tagesschau.de/faktenfinder/fakes-ceuta-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T16:23:56+00:00"
-    },
-    {
       "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
       "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
       "quelle": "Süddeutsche",
@@ -143,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/panorama/babys-gerettet-kolumbien-erdbeben-rettungsaktion-li.3531581",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T16:06:06+00:00"
-    },
-    {
-      "titel": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T15:51:29+00:00"
     },
     {
       "titel": "Kinder- und Jugendschutz: Französischer Verfassungsrat kippt Altersgrenze für soziale Medien",
