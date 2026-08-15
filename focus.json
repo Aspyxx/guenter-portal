@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-15T17:10:16+00:00",
+  "aktualisiert": "2026-08-15T17:41:42+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Viele Sicherheitskräfte, Chaos ausgeblieben",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
       "link": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Warum jetzt auch Bäckerei-Ketten von Finanzinvestoren übernommen werden",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/finanzinvestoren-handwerksbetriebe-baecker-eifler-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Wo es gerade brennt",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
