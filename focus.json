@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-15T02:43:59+00:00",
+  "aktualisiert": "2026-08-15T03:27:38+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "\"Ein doppelter Weckruf\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
-    },
-    {
-      "rang": 3,
-      "titel": "Florian Hager bleibt Intendant des Hessischen Rundfunks",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
