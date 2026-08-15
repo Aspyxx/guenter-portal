@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-15T20:41:00+00:00",
+  "aktualisiert": "2026-08-15T21:00:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
+      "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T20:44:39+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM in Birmingham: Julian Weber wirft Speer im letzten Versuch zu Gold",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-julian-weber-wirft-speer-im-letzten-versuch-zu-gold-a-11def637-a5e3-4776-a02d-539b182b7195#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T20:44:00+00:00"
+    },
     {
       "titel": "Supercup: Wolfsburgerin Johannes unterlaufen Patzer – Bayern siegt erneut",
       "link": "https://www.spiegel.de/sport/fussball/supercup-wolfsburgerin-johannes-unterlaufen-patzer-bayern-siegt-erneut-a-6112805e-904e-46ac-bef3-0d5161047fea#ref=rss",
@@ -109,22 +121,10 @@
       "veroeffentlicht": "2026-08-15T17:42:00+00:00"
     },
     {
-      "titel": "Jürgen Klopp: Der Bundestrainer relativiert seine »Medienschelte«",
-      "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-der-bundestrainer-relativiert-seine-medienschelte-a-c0e3af06-2323-4231-954a-a6d63d809ca1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T17:38:00+00:00"
-    },
-    {
       "titel": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/kaffee-konsum-herz-kreislauf-diabetes-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T16:15:34+00:00"
-    },
-    {
-      "titel": "Warum jetzt auch Bäckerei-Ketten von Finanzinvestoren übernommen werden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/finanzinvestoren-handwerksbetriebe-baecker-eifler-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T16:13:41+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
