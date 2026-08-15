@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-15T19:36:12+00:00",
+  "aktualisiert": "2026-08-15T19:58:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
+      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T19:38:07+00:00"
+    },
     {
       "titel": "Albanien: Scheitert das Bauprojekt der Trump-Familie an Massenprotesten und Korruptionsvorwürfen?",
       "link": "https://www.spiegel.de/ausland/albanien-umstrittenes-projekt-der-trump-familie-ivankas-traum-und-seine-schattenseiten-a-4fbf49a0-a122-4a48-9678-985195d887ae#ref=rss",
@@ -44,7 +50,7 @@
     },
     {
       "titel": "FC Bayern: Musiala erleidet wohl Hitzschlag",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-rb-leipzig-hitze-testspiel-laimer-li.3531975",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-fc-bayern-muenchen-musiala-rb-leipzig-hitze-testspiel-laimer-li.3531975",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T18:44:33+00:00"
     },
@@ -115,14 +121,8 @@
       "veroeffentlicht": "2026-08-15T16:13:41+00:00"
     },
     {
-      "titel": "In der SPD grummelt es vor den Landtagswahlen immer lauter",
-      "link": "https://www.tagesschau.de/inland/spd-lage-vor-wahlen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T15:55:54+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-staffel-4x100-meter-gina-lueckenkemper-li.3531917",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-staffel-4x100-meter-gina-lueckenkemper-sophia-junk-birmingham-li.3531917",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T14:52:57+00:00"
     },
