@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-15T11:57:49+00:00",
+  "aktualisiert": "2026-08-15T13:00:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,8 +7,38 @@
   },
   "meldungen": [
     {
-      "titel": "Guns-N-Roses: Frontmann Axl Rose klagt über heftige Kieferbeschwerden",
-      "link": "https://www.spiegel.de/kultur/guns-n-roses-frontmann-axl-rose-klagt-ueber-heftige-kieferbeschwerden-a-fc5e4855-71a5-400d-84a7-50e8ef13a5ea#ref=rss",
+      "titel": "Bahnhof Fangschleuse: Eröffnung nahe Tesla-Werk verzögert sich",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/bahnhof-fangschleuse-eroeffnung-nahe-tesla-werk-verzoegert-sich-a-c7ed11aa-2554-4cce-9b1f-9599361b86d4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T12:52:00+00:00"
+    },
+    {
+      "titel": "Grobritannien: Andy Burnham bezeichnet Tod von Cambridge-Professor Jason Arday als »Tragödie«",
+      "link": "https://www.spiegel.de/ausland/grobritannien-andy-burnham-bezeichnet-tod-von-cambridge-professor-jason-arday-als-tragoedie-a-858dc06e-6d19-4441-a1c5-4547742e022d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T12:47:00+00:00"
+    },
+    {
+      "titel": "Pablo Picasso: In Wisconsin gestohlene Radierung in Wohnung gefunden",
+      "link": "https://www.spiegel.de/kultur/pablo-picasso-in-wisconsin-gestohlene-radierung-in-wohnung-gefunden-a-33c8c45e-a852-47e5-8f3b-1987da37d84f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T12:27:00+00:00"
+    },
+    {
+      "titel": "Waldbrände in Europa: Wo es gerade brennt",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T12:23:54+00:00"
+    },
+    {
+      "titel": "Polen: Riesige Marienstatue eingeweiht - mehr als 55 Meter hoch",
+      "link": "https://www.spiegel.de/panorama/polen-riesige-marienstatue-eingeweiht-mehr-als-55-meter-hoch-a-eea0cdcf-10a6-4676-ab13-a3da2178f8e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T12:02:00+00:00"
+    },
+    {
+      "titel": "Axl Rose: Guns-N-Roses-Frontmann klagt über heftige Kieferbeschwerden",
+      "link": "https://www.spiegel.de/kultur/axl-rose-guns-n-roses-frontmann-klagt-ueber-heftige-kieferbeschwerden-a-fc5e4855-71a5-400d-84a7-50e8ef13a5ea#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T11:52:00+00:00"
     },
@@ -25,16 +55,10 @@
       "veroeffentlicht": "2026-08-15T11:43:49+00:00"
     },
     {
-      "titel": "Manuela Schwesig: Senderchef deutet in Chatnachricht Einmischung Schwesigs bei TV-Duell an",
+      "titel": "Manuela Schwesig: Senderchef deutet in Chatnachricht Einmischung bei TV-Duell an",
       "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-senderchef-deutet-in-chatnachricht-einmischung-schwesigs-bei-tv-duell-an-a-32925663-4575-496f-b391-cf92558ae597#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T11:41:00+00:00"
-    },
-    {
-      "titel": "Waldbrände in Europa: Wo es gerade brennt",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T11:37:58+00:00"
     },
     {
       "titel": "Sachsen-Anhalt: BSW-Vorsitzende Amira Mohamed Ali schließt Koalition mit AfD aus",
@@ -49,7 +73,7 @@
       "veroeffentlicht": "2026-08-15T10:56:25+00:00"
     },
     {
-      "titel": "Burgebrach in Bayern: Fast drei Promille – Teenager baut Unfall mit E-Rollstuhl",
+      "titel": "Burgebrach: Betrunkener Teenager baut Unfall mit E-Rollstuhl in Bayern",
       "link": "https://www.spiegel.de/panorama/justiz/burgebrach-in-bayern-fast-drei-promille-teenager-baut-unfall-mit-e-rollstuhl-a-4ab7df42-0a2e-4e63-b544-7668441d997a#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T10:48:00+00:00"
@@ -61,34 +85,10 @@
       "veroeffentlicht": "2026-08-15T10:36:00+00:00"
     },
     {
-      "titel": "SPD: Steffen Krach fordert Kurswechsel beim Reformpaket der Bundesregierung",
-      "link": "https://www.spiegel.de/politik/spd-steffen-krach-fordert-kurswechsel-beim-reformpaket-der-bundesregierung-a-ea30879e-2bbb-4089-8e89-bf4ebe6f9f9f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T10:32:00+00:00"
-    },
-    {
-      "titel": "Andalusien: Erdbeben in Spanien – Schäden an Gebäuden und Autos",
-      "link": "https://www.spiegel.de/panorama/andalusien-erdbeben-in-spanien-schaeden-an-gebaeuden-und-autos-a-a1a1486b-4f03-4340-8ddd-b3df06738a1f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T10:15:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T10:10:00+00:00"
-    },
-    {
       "titel": "Reit-WM in Aachen: „Pferde können mit hohen Temperaturen besser umgehen“",
       "link": "https://www.sueddeutsche.de/sport/reiten-wm-aachen-pferde-hitze-li.3531616",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T10:07:36+00:00"
-    },
-    {
-      "titel": "Indien: Wie Modi die »Kakerlaken-Bewegung« mit Nachhilfe und KI-Kursen besänftigen will",
-      "link": "https://www.spiegel.de/ausland/indien-wie-modi-die-kakerlaken-bewegung-mit-bildungsangeboten-besaenftigen-will-a-00316800-ac70-426f-aec7-39b49a378a7d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T09:51:00+00:00"
     },
     {
       "titel": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
