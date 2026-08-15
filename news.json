@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-15T11:00:48+00:00",
+  "aktualisiert": "2026-08-15T11:35:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T11:08:32+00:00"
+    },
     {
       "titel": "Tote bei schwerem israelischem Angriff im Libanon",
       "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
@@ -43,16 +49,16 @@
       "veroeffentlicht": "2026-08-15T10:10:00+00:00"
     },
     {
+      "titel": "Reit-WM in Aachen: „Pferde können mit hohen Temperaturen besser umgehen“",
+      "link": "https://www.sueddeutsche.de/sport/reiten-wm-aachen-pferde-hitze-li.3531616",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T10:07:36+00:00"
+    },
+    {
       "titel": "Indien: Wie Modi die »Kakerlaken-Bewegung« mit Bildungsangeboten besänftigen will",
       "link": "https://www.spiegel.de/ausland/indien-wie-modi-die-kakerlaken-bewegung-mit-bildungsangeboten-besaenftigen-will-a-00316800-ac70-426f-aec7-39b49a378a7d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T09:51:00+00:00"
-    },
-    {
-      "titel": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T09:42:35+00:00"
     },
     {
       "titel": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
@@ -67,8 +73,8 @@
       "veroeffentlicht": "2026-08-15T09:28:00+00:00"
     },
     {
-      "titel": "Radsport: Finlay Tarling stirbt nach Unfall bei Volta a Portugal",
-      "link": "https://www.spiegel.de/sport/radsport/radsport-finlay-tarling-stirbt-nach-unfall-bei-volta-a-portugal-a-a7fa3b11-a0a1-49d4-a1f9-37c2c0cf8e7b#ref=rss",
+      "titel": "Finlay Tarling: 19-jähriger Rad-Profi stirbt nach Unfall bei Volta a Portugal",
+      "link": "https://www.spiegel.de/sport/radsport/finlay-tarling-19-jaehriger-rad-profi-stirbt-nach-unfall-bei-volta-a-portugal-a-a7fa3b11-a0a1-49d4-a1f9-37c2c0cf8e7b#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T09:20:00+00:00"
     },
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/social-media-verbot-frankreich-macron-verfassungsgericht-li.3531612",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T15:18:42+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Hitzewelle: Das würde den Landwirten jetzt helfen",
-      "link": "https://www.sueddeutsche.de/politik/landwirtschaft-deutschland-folgen-trockenheit-forderungen-bauernverband-li.3531494",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T14:53:05+00:00"
     }
   ]
 }
