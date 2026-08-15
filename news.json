@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-15T21:58:03+00:00",
+  "aktualisiert": "2026-08-15T22:38:45+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hurrikan »Lala« nähert sich Hawaii",
+      "link": "https://www.spiegel.de/panorama/hurrikan-lala-naehert-sich-hawaii-a-e9079160-9b04-485a-9eb6-751270a686d1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T22:36:00+00:00"
+    },
+    {
+      "titel": "Flughafen München: Vietnam Airlines Maschine hebt spät ab und dreht um",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/flughafen-muenchen-vietnam-airlines-maschine-hebt-spaet-ab-und-dreht-um-a-3d57bda0-fb44-431d-92ba-894994e3f471#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T22:03:00+00:00"
+    },
     {
       "titel": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
       "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
@@ -107,18 +119,6 @@
       "link": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T18:04:47+00:00"
-    },
-    {
-      "titel": "Außerirdisches Leben: Astrophysiker Michael Garrett über Risiken eines Alien-Kontakts",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-leben-astrophysiker-michael-garrett-ueber-risiken-eines-alien-kontakts-a-43df7f87-8452-4cfb-9d23-90b456143f2f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T17:50:00+00:00"
-    },
-    {
-      "titel": "Schwimm-EM in Paris: Liebmann holt Gold mit Weltrekord über 1500 Meter",
-      "link": "https://www.spiegel.de/sport/schwimm-em-in-paris-liebmann-holt-gold-mit-weltrekord-ueber-1500-meter-a-111936cc-c90c-4d0d-8665-3c7b291874a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T17:42:00+00:00"
     },
     {
       "titel": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
