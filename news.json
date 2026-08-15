@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-15T13:00:00+00:00",
+  "aktualisiert": "2026-08-15T13:44:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,13 +7,43 @@
   },
   "meldungen": [
     {
+      "titel": "Berlin: »Rave the Planet« beginnt mit Schweigeminute für Terroropfer",
+      "link": "https://www.spiegel.de/panorama/berlin-rave-the-planet-beginnt-mit-schweigeminute-fuer-terroropfer-a-31b0a7d8-f8f4-41de-8031-099a66242433#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T13:37:00+00:00"
+    },
+    {
+      "titel": "Wo ist der \"Geist von Anchorage\"?",
+      "link": "https://www.tagesschau.de/ausland/europa/ein-jahr-nach-gipfel-anchorage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T13:29:17+00:00"
+    },
+    {
+      "titel": "Hürtgenwald: Löscharbeiten in der Eifel – Landrat hofft auf schnelle Kontrolle",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/huertgenwald-loescharbeiten-in-der-eifel-landrat-hofft-auf-schnelle-kontrolle-a-c1c4c0a7-dbdd-4f70-8126-b07efe738542#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T13:22:00+00:00"
+    },
+    {
+      "titel": "Rheinland-Pfalz: Rhein-Pegelstand in Kaub steigt leicht auf elf Zentimeter",
+      "link": "https://www.spiegel.de/panorama/rheinland-pfalz-rhein-pegelstand-in-kaub-steigt-leicht-auf-elf-zentimeter-a-4e4e330a-1c7a-4d79-b606-54369efaa80e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T13:06:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Gina Lückenkemper und deutsche Staffel verpassen Finale nach Verletzung",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-gina-lueckenkemper-und-deutsche-staffel-verpassen-finale-nach-verletzung-a-0542caf5-204a-44da-a1e8-7833bca7e9c9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T13:01:00+00:00"
+    },
+    {
       "titel": "Bahnhof Fangschleuse: Eröffnung nahe Tesla-Werk verzögert sich",
       "link": "https://www.spiegel.de/wirtschaft/unternehmen/bahnhof-fangschleuse-eroeffnung-nahe-tesla-werk-verzoegert-sich-a-c7ed11aa-2554-4cce-9b1f-9599361b86d4#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T12:52:00+00:00"
     },
     {
-      "titel": "Grobritannien: Andy Burnham bezeichnet Tod von Cambridge-Professor Jason Arday als »Tragödie«",
+      "titel": "Großbritannien: Andy Burnham bezeichnet Tod von Cambridge-Professor Jason Arday als »Tragödie«",
       "link": "https://www.spiegel.de/ausland/grobritannien-andy-burnham-bezeichnet-tod-von-cambridge-professor-jason-arday-als-tragoedie-a-858dc06e-6d19-4441-a1c5-4547742e022d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T12:47:00+00:00"
@@ -55,34 +85,10 @@
       "veroeffentlicht": "2026-08-15T11:43:49+00:00"
     },
     {
-      "titel": "Manuela Schwesig: Senderchef deutet in Chatnachricht Einmischung bei TV-Duell an",
-      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-senderchef-deutet-in-chatnachricht-einmischung-schwesigs-bei-tv-duell-an-a-32925663-4575-496f-b391-cf92558ae597#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T11:41:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: BSW-Vorsitzende Amira Mohamed Ali schließt Koalition mit AfD aus",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bsw-vorsitzende-amira-mohamed-ali-schliesst-koalition-mit-afd-aus-a-90eac111-c8ca-4a69-b86f-0c15c6fcd915#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T11:33:00+00:00"
-    },
-    {
       "titel": "Tote bei schwerem israelischem Angriff im Libanon",
       "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T10:56:25+00:00"
-    },
-    {
-      "titel": "Burgebrach: Betrunkener Teenager baut Unfall mit E-Rollstuhl in Bayern",
-      "link": "https://www.spiegel.de/panorama/justiz/burgebrach-in-bayern-fast-drei-promille-teenager-baut-unfall-mit-e-rollstuhl-a-4ab7df42-0a2e-4e63-b544-7668441d997a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T10:48:00+00:00"
-    },
-    {
-      "titel": "Afghanistan unter den Taliban: Gebt den Frauen eine Chance – Meinung",
-      "link": "https://www.spiegel.de/ausland/afghanistan-unter-den-taliban-gebt-den-frauen-eine-chance-meinung-a-22c32dfd-26ea-4f64-8ff1-51abc093a09e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T10:36:00+00:00"
     },
     {
       "titel": "Reit-WM in Aachen: „Pferde können mit hohen Temperaturen besser umgehen“",
@@ -113,12 +119,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T08:45:16+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn will alte Güterwaggons wieder in Betrieb nehmen",
-      "link": "https://www.tagesschau.de/inland/niedrigwasser-folgen-bahn-preise-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T08:20:55+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Der Gold-Sprinter aus Germany – verfolgt von einem Schatten",
