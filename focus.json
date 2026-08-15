@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-15T19:12:17+00:00",
+  "aktualisiert": "2026-08-15T19:40:51+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "\"Erste Hoffnung\" und Suche nach der Brandursache",
-      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
+      "titel": "Zeitplan Leichtathletik Em 2026",
+      "link": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
+      "quelle": "Tagesschau",
+      "icon": "⚽"
+    },
+    {
+      "rang": 2,
+      "titel": "Sorge in Grenzregion wegen Feuer in Belgien",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
     },
     {
-      "rang": 2,
-      "titel": "Viele Sicherheitskräfte, Chaos ausgeblieben",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
-      "link": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html",
+      "titel": "Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
+      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🔥"
     }
   ]
 }
