@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-15T17:03:35+00:00",
+  "aktualisiert": "2026-08-15T17:35:47+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hürtgenwald: Wüst spricht von erster Hoffnung auf Kontrolle des Waldbrands",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/huertgenwald-wuest-spricht-von-erster-hoffnung-auf-kontrolle-des-waldbrands-a-61b6252e-3fe3-4e64-8987-4f77e0832731#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T17:28:00+00:00"
+    },
+    {
+      "titel": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T17:19:29+00:00"
+    },
     {
       "titel": "Australien: New South Wales startet Waffenrückkauf nach Bondi-Beach-Attentat",
       "link": "https://www.spiegel.de/ausland/australien-new-south-wales-startet-waffenrueckkauf-nach-bondi-beach-attentat-a-dd891935-7a19-4303-8ab6-df7ca2de9f13#ref=rss",
@@ -79,12 +91,6 @@
       "veroeffentlicht": "2026-08-15T15:21:00+00:00"
     },
     {
-      "titel": "Handyhalterungen fürs Fahrrad im Test: Modelle von Feschd, Quad Lock, SP Connect und mehr",
-      "link": "https://www.spiegel.de/tests/fahrrad-zubehoer/handyhalterungen-fuers-fahrrad-im-test-modelle-von-feschd-quad-lock-sp-connect-und-mehr-a-fff2ac20-52eb-4d5a-9d83-28946e6ff5d9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T15:10:00+00:00"
-    },
-    {
       "titel": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
       "link": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html",
       "quelle": "Tagesschau",
@@ -119,12 +125,6 @@
       "link": "https://www.sueddeutsche.de/panorama/hitze-pflegeheime-befragung-li.3522772",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T13:30:00+00:00"
-    },
-    {
-      "titel": "Wo ist der \"Geist von Anchorage\"?",
-      "link": "https://www.tagesschau.de/ausland/europa/ein-jahr-nach-gipfel-anchorage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T13:29:17+00:00"
     },
     {
       "titel": "Reit-WM in Aachen: „Pferde können mit hohen Temperaturen besser umgehen“",
