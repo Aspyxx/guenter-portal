@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-08-15T05:46:54+00:00",
+  "aktualisiert": "2026-08-15T06:16:19+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Erdbeben Indonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Kampf gegen die Flammen im Hürtgenwald",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
+    },
+    {
+      "rang": 2,
+      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     },
     {
       "rang": 3,
