@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-15T19:58:24+00:00",
+  "aktualisiert": "2026-08-15T20:41:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Supercup: Wolfsburgerin Johannes unterlaufen Patzer – Bayern siegt erneut",
+      "link": "https://www.spiegel.de/sport/fussball/supercup-wolfsburgerin-johannes-unterlaufen-patzer-bayern-siegt-erneut-a-6112805e-904e-46ac-bef3-0d5161047fea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T20:27:00+00:00"
+    },
+    {
+      "titel": "Ceuta: Marokko meldet mehr als hundert Festnahmen nach Grenzübertrittsversuche",
+      "link": "https://www.spiegel.de/ausland/ceuta-marokko-meldet-111-festnahmen-nach-grenzuebertrittsversuch-a-402faf19-6207-41d3-ae8f-48cdc6f719ca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T20:16:00+00:00"
+    },
+    {
+      "titel": "Waldbrand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T20:14:55+00:00"
+    },
+    {
+      "titel": "Supercup: Die Bayern gewinnen auch den ersten Titel der neuen Saison",
+      "link": "https://www.sueddeutsche.de/sport/supercup-fc-bayern-vfl-wolfsburg-frauenfussball-stine-johannes-eigentor-li.3531307",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T20:09:36+00:00"
+    },
+    {
+      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T20:05:00+00:00"
+    },
+    {
+      "titel": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T20:03:58+00:00"
+    },
     {
       "titel": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
       "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
@@ -19,22 +55,10 @@
       "veroeffentlicht": "2026-08-15T19:26:00+00:00"
     },
     {
-      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T19:25:57+00:00"
-    },
-    {
       "titel": "Waldbrand in der Eifel: Bewohner dürfen nach Hürtgenwald zurückkehren",
       "link": "https://www.spiegel.de/panorama/gesellschaft/waldbrand-in-der-eifel-bewohner-duerfen-nach-huertgenwald-zurueckkehren-a-e1f1e4e6-bae1-4d9d-978b-7dfd3eb204e6#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T19:21:00+00:00"
-    },
-    {
-      "titel": "Waldbrand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T19:20:27+00:00"
     },
     {
       "titel": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
@@ -59,12 +83,6 @@
       "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T18:23:44+00:00"
-    },
-    {
-      "titel": "Ceuta: Marokko meldet 111 Festnahmen nach Grenzübertrittsversuch",
-      "link": "https://www.spiegel.de/ausland/ceuta-marokko-meldet-111-festnahmen-nach-grenzuebertrittsversuch-a-402faf19-6207-41d3-ae8f-48cdc6f719ca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T18:23:00+00:00"
     },
     {
       "titel": "Sizilien: Flugbetrieb in Catania nach Ätna-Ausbruch wieder aufgenommen",
@@ -95,18 +113,6 @@
       "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-der-bundestrainer-relativiert-seine-medienschelte-a-c0e3af06-2323-4231-954a-a6d63d809ca1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T17:38:00+00:00"
-    },
-    {
-      "titel": "Naturschutzgebiet Hohes Venn: Waldbrand in Belgien nahe deutscher Grenze weitet sich aus",
-      "link": "https://www.spiegel.de/ausland/naturschutzgebiet-hohes-venn-waldbrand-in-belgien-nahe-deutscher-grenze-weitet-sich-aus-a-7654e70f-348c-4b0f-9344-10f917c58ebc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T17:30:00+00:00"
-    },
-    {
-      "titel": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T17:19:29+00:00"
     },
     {
       "titel": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-nato-fragebogen-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T19:33:10+00:00"
-    },
-    {
-      "titel": "Premier League: Amazon-Gründer Bezos steigt beim FC Liverpool ein",
-      "link": "https://www.sueddeutsche.de/sport/amazon-gruender-jeff-bezos-fc-liverpool-investor-li.3531695",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T19:16:06+00:00"
     }
   ]
 }
