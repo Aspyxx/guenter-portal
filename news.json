@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-15T03:55:32+00:00",
+  "aktualisiert": "2026-08-15T04:48:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,20 +7,32 @@
   },
   "meldungen": [
     {
+      "titel": "News: Waldbrände in Deutschland, Machtübernahme der Taliban, Russlands Krieg gegen ukrainische Zivilisten",
+      "link": "https://www.spiegel.de/politik/deutschland/news-waldbraende-in-deutschland-machtuebernahme-der-taliban-russlands-krieg-gegen-ukrainische-zivilisten-a-3610fdc1-a278-4f90-853a-912804f2c8ac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T04:25:00+00:00"
+    },
+    {
+      "titel": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft",
+      "link": "https://www.spiegel.de/ausland/frist-fuer-iran-usa-abkommen-verstreicht-naher-osten-vor-ungewisser-zukunft-a-34fe3005-49a5-479c-a176-d6af268c6d75#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T04:00:00+00:00"
+    },
+    {
       "titel": "Kampf gegen die Flammen im Hürtgenwald",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T03:51:24+00:00"
     },
     {
-      "titel": "Stromboli, Salina, Lipari, Äolische Inseln vor Sizilien: Hier machen viele Italiener Urlaub",
-      "link": "https://www.spiegel.de/reise/europa/stromboli-salina-lipari-aeolische-inseln-vor-sizilien-hier-machen-viele-italiener-urlaub-a-1e290b02-9faf-40c5-9f2a-7093a70a6aad#ref=rss",
+      "titel": "Italien-Urlaub: Insidertipps für Apulien, Abruzzen, Dolomiten abseits des Trubels",
+      "link": "https://www.spiegel.de/reise/italien-urlaub-insidertipps-fuer-apulien-abruzzen-dolomiten-abseits-des-trubels-a-942f3ec6-4ae4-4ed3-a996-e71bdfd0891e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T03:30:00+00:00"
     },
     {
-      "titel": "Italien-Urlaub: Insidertipps für Apulien, Abruzzen, Dolomiten abseits des Trubels",
-      "link": "https://www.spiegel.de/reise/italien-urlaub-insidertipps-fuer-apulien-abruzzen-dolomiten-abseits-des-trubels-a-942f3ec6-4ae4-4ed3-a996-e71bdfd0891e#ref=rss",
+      "titel": "Stromboli, Salina, Lipari, Äolische Inseln vor Sizilien: Hier machen viele Italiener Urlaub",
+      "link": "https://www.spiegel.de/reise/europa/stromboli-salina-lipari-aeolische-inseln-vor-sizilien-hier-machen-viele-italiener-urlaub-a-1e290b02-9faf-40c5-9f2a-7093a70a6aad#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T03:30:00+00:00"
     },
@@ -95,18 +107,6 @@
       "link": "https://www.spiegel.de/panorama/leute/selena-gomez-start-up-wird-auf-millionen-verklagt-a-913d13a6-fd2f-4cf5-ae22-ec96af399313#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-14T22:23:00+00:00"
-    },
-    {
-      "titel": "USS »Abraham Lincoln«: Donald Trump findet, Einsatz auf Flugzeugträger dauert »noch nicht lange genug«",
-      "link": "https://www.spiegel.de/ausland/uss-abraham-lincoln-donald-trump-findet-einsatz-auf-flugzeugtraeger-dauert-noch-nicht-lange-genug-a-eb7c2526-9486-4e55-bf23-3dd5b92be5b1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T21:30:00+00:00"
-    },
-    {
-      "titel": "Helmut Lethen: Kulturwissenschaftler im Alter von 87 Jahren gestorben",
-      "link": "https://www.spiegel.de/kultur/literatur/helmut-lethen-kulturwissenschaftler-im-alter-von-87-jahren-gestorben-a-af1c5b98-c2a8-4769-b817-45f0b3df891c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T21:12:00+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
