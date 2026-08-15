@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-15T22:59:58+00:00",
+  "aktualisiert": "2026-08-15T23:35:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tausende Fans nehmen Abschied von Rocksängerin Bonnie Tyler",
+      "link": "https://www.spiegel.de/panorama/tausende-fans-nehmen-abschied-von-rocksaengerin-bonnie-tyler-a-919c6d2c-37dc-4382-bae6-f70f44e18bcd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T23:23:00+00:00"
+    },
     {
       "titel": "Hurrikan »Lala« nähert sich Hawaii",
       "link": "https://www.spiegel.de/panorama/hurrikan-lala-naehert-sich-hawaii-a-e9079160-9b04-485a-9eb6-751270a686d1#ref=rss",
@@ -107,12 +113,6 @@
       "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T18:23:44+00:00"
-    },
-    {
-      "titel": "Sizilien: Flugbetrieb in Catania nach Ätna-Ausbruch wieder aufgenommen",
-      "link": "https://www.spiegel.de/ausland/sizilien-flugbetrieb-in-catania-nach-aetna-ausbruch-wieder-aufgenommen-a-85b9c6d1-60b2-447c-9119-2e14cc99b375#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T18:05:00+00:00"
     },
     {
       "titel": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
