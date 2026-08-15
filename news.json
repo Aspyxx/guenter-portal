@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-15T17:58:14+00:00",
+  "aktualisiert": "2026-08-15T18:49:19+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Eberhofer-Krimi »Steckerlfischfiasko« im Kino: Rita Falk über Grenzen des Humors",
+      "link": "https://www.spiegel.de/kultur/kino/eberhofer-krimi-steckerlfischfiasko-im-kino-rita-falk-ueber-grenzen-des-humors-a-49af9b86-ab58-40f2-a6da-77bbac1f851e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T18:47:00+00:00"
+    },
+    {
+      "titel": "Feuer in NRW: \"Erste Hoffnung\" und Suche nach der Brandursache",
+      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T18:23:44+00:00"
+    },
+    {
+      "titel": "Ceuta: Marokko meldet 111 Festnahmen nach Grenzübertrittsversuch",
+      "link": "https://www.spiegel.de/ausland/ceuta-marokko-meldet-111-festnahmen-nach-grenzuebertrittsversuch-a-402faf19-6207-41d3-ae8f-48cdc6f719ca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T18:23:00+00:00"
+    },
+    {
+      "titel": "Sizilien: Flugbetrieb in Catania nach Ätna-Ausbruch wieder aufgenommen",
+      "link": "https://www.spiegel.de/ausland/sizilien-flugbetrieb-in-catania-nach-aetna-ausbruch-wieder-aufgenommen-a-85b9c6d1-60b2-447c-9119-2e14cc99b375#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T18:05:00+00:00"
+    },
+    {
+      "titel": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
+      "link": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T18:04:47+00:00"
+    },
     {
       "titel": "Außerirdisches Leben: Astrophysiker Michael Garrett über Risiken eines Alien-Kontakts",
       "link": "https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-leben-astrophysiker-michael-garrett-ueber-risiken-eines-alien-kontakts-a-43df7f87-8452-4cfb-9d23-90b456143f2f#ref=rss",
@@ -49,18 +79,6 @@
       "veroeffentlicht": "2026-08-15T16:50:00+00:00"
     },
     {
-      "titel": "Indonesien: Mindestens 47 Tote nach schwerem Erdbeben",
-      "link": "https://www.spiegel.de/panorama/indonesien-mindestens-47-tote-nach-schwerem-erdbeben-a-e5d163b5-5117-490d-b532-0913f7ac34a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T16:34:00+00:00"
-    },
-    {
-      "titel": "Jamal Musiala: Bayern-Star bricht bei Testspielsieg gegen RB Leipzig zusammen",
-      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-bayern-star-bricht-bei-testspielsieg-gegen-rb-leipzig-zusammen-a-12b84e0f-c9e0-40bf-89cd-e518dfa77cb8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T16:20:00+00:00"
-    },
-    {
       "titel": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/kaffee-konsum-herz-kreislauf-diabetes-100.html",
       "quelle": "Tagesschau",
@@ -71,12 +89,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/finanzinvestoren-handwerksbetriebe-baecker-eifler-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T16:13:41+00:00"
-    },
-    {
-      "titel": "»Rave the Planet« in Berlin: Hitzeschlacht im Techno-Takt",
-      "link": "https://www.spiegel.de/panorama/rave-the-planet-in-berlin-hitzeschlacht-im-techno-takt-a-72e512d4-5f9b-4926-abd2-179bfc7267b9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T15:57:00+00:00"
     },
     {
       "titel": "In der SPD grummelt es vor den Landtagswahlen immer lauter",
@@ -107,18 +119,6 @@
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T14:48:34+00:00"
-    },
-    {
-      "titel": "Tote bei schwerem israelischem Angriff im Libanon",
-      "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T14:42:42+00:00"
-    },
-    {
-      "titel": "Indiens Premier Modi verspricht der Jugend Gratis-Kurse",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-jugendproteste-kakerlakenbewegung-bildung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T14:10:13+00:00"
     },
     {
       "titel": "Hitzewelle: Bis zu 45 Grad: Verdi-Befragung in Pflegeheimen zeigt extreme Belastung",
