@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-15T17:35:47+00:00",
+  "aktualisiert": "2026-08-15T17:58:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Außerirdisches Leben: Astrophysiker Michael Garrett über Risiken eines Alien-Kontakts",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-leben-astrophysiker-michael-garrett-ueber-risiken-eines-alien-kontakts-a-43df7f87-8452-4cfb-9d23-90b456143f2f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T17:50:00+00:00"
+    },
+    {
+      "titel": "Schwimm-EM in Paris: Liebmann holt Gold mit Weltrekord über 1500 Meter",
+      "link": "https://www.spiegel.de/sport/schwimm-em-in-paris-liebmann-holt-gold-mit-weltrekord-ueber-1500-meter-a-111936cc-c90c-4d0d-8665-3c7b291874a3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T17:42:00+00:00"
+    },
+    {
+      "titel": "Jürgen Klopp: Der Bundestrainer relativiert seine »Medienschelte«",
+      "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-der-bundestrainer-relativiert-seine-medienschelte-a-c0e3af06-2323-4231-954a-a6d63d809ca1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T17:38:00+00:00"
+    },
+    {
+      "titel": "Naturschutzgebiet Hohes Venn: Waldbrand in Belgien nahe deutscher Grenze weitet sich aus",
+      "link": "https://www.spiegel.de/ausland/naturschutzgebiet-hohes-venn-waldbrand-in-belgien-nahe-deutscher-grenze-weitet-sich-aus-a-7654e70f-348c-4b0f-9344-10f917c58ebc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T17:30:00+00:00"
+    },
     {
       "titel": "Hürtgenwald: Wüst spricht von erster Hoffnung auf Kontrolle des Waldbrands",
       "link": "https://www.spiegel.de/panorama/gesellschaft/huertgenwald-wuest-spricht-von-erster-hoffnung-auf-kontrolle-des-waldbrands-a-61b6252e-3fe3-4e64-8987-4f77e0832731#ref=rss",
@@ -23,12 +47,6 @@
       "link": "https://www.spiegel.de/ausland/australien-new-south-wales-startet-waffenrueckkauf-nach-bondi-beach-attentat-a-dd891935-7a19-4303-8ab6-df7ca2de9f13#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T16:50:00+00:00"
-    },
-    {
-      "titel": "Naturschutzgebiet Hohes Venn: Waldbrand in Belgien nahe deutscher Grenze weitet sich aus",
-      "link": "https://www.spiegel.de/ausland/naturschutzgebiet-hohes-venn-waldbrand-in-belgien-nahe-deutscher-grenze-weitet-sich-aus-a-7654e70f-348c-4b0f-9344-10f917c58ebc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T16:42:00+00:00"
     },
     {
       "titel": "Indonesien: Mindestens 47 Tote nach schwerem Erdbeben",
@@ -71,24 +89,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T15:52:59+00:00"
-    },
-    {
-      "titel": "Ukraine: Drohnenangriffe aus Russland – der Highway der verbrannten Tankstellen",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-russlands-drohnenangriffe-auf-tankstellen-entlang-fernstrasse-a-72976f14-371c-4a29-9592-928657368dda#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T15:40:00+00:00"
-    },
-    {
-      "titel": "Thronfolge in Liechtenstein: Fürstenhaus schafft männliches Erstgeburtsrecht ab",
-      "link": "https://www.spiegel.de/ausland/thronfolge-in-liechtenstein-fuerstenhaus-schafft-maennliches-erstgeburtsrecht-ab-a-4874491d-1333-4b1e-adb6-345937363c3c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T15:30:00+00:00"
-    },
-    {
-      "titel": "Oman: Ölteppich erreicht zwölf Kilometer langen Küstenabschnitt",
-      "link": "https://www.spiegel.de/ausland/oman-oelteppich-erreicht-zwoelf-kilometer-langen-kuestenabschnitt-a-e4cf2a45-9da2-4128-a1cf-a7f24d2ae245#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T15:21:00+00:00"
     },
     {
       "titel": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
