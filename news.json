@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-15T06:02:22+00:00",
+  "aktualisiert": "2026-08-15T06:58:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T06:44:22+00:00"
+    },
+    {
+      "titel": "Ceuta: Soldaten und Stacheldraht – Stadt rüstet sich gegen Massenansturm",
+      "link": "https://www.spiegel.de/ausland/ceuta-soldaten-und-stacheldraht-stadt-ruestet-sich-gegen-massenansturm-a-259779d9-2870-4f89-9844-fa52b23efabb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T06:27:00+00:00"
+    },
+    {
+      "titel": "Grüne in Sachsen-Anhalt: Hoffnung für die Hoffnungslosen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-sachsen-anhalt-banaszak-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T06:26:57+00:00"
+    },
+    {
+      "titel": "Afghanistan: Fünf Jahre nach Kabuls Fall – wie paradox die Taliban herrschen",
+      "link": "https://www.spiegel.de/ausland/afghanistan-fuenf-jahre-nach-dem-fall-von-kabul-so-paradox-herrschen-die-taliban-a-c5039586-a192-47b8-9b76-725eef6a8681#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T06:11:00+00:00"
+    },
+    {
+      "titel": "Patientenschützer wollen Hitze als Todesursache erfassen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T06:04:47+00:00"
+    },
     {
       "titel": "Intensivmediziner Uwe Janssens hält RKI-Schätzung für zu niedrig",
       "link": "https://www.spiegel.de/gesundheit/intensivmediziner-uwe-janssens-haelt-rki-schaetzung-fuer-zu-niedrig-a-80e0728a-d0e8-432a-9e33-7cbae10fba94#ref=rss",
@@ -61,28 +91,10 @@
       "veroeffentlicht": "2026-08-15T04:54:32+00:00"
     },
     {
-      "titel": "Schuh-Trends: Flipflops, Tabis, Zehenringe – der große Zeh im Trendfokus",
-      "link": "https://www.spiegel.de/stil/schuh-trends-flipflops-tabis-zehenringe-der-grosse-zeh-im-trendfokus-a-9c74003b-9841-41c8-a7de-dc5e341db702#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T04:50:00+00:00"
-    },
-    {
-      "titel": "News: Waldbrände in Deutschland, Machtübernahme der Taliban, Russlands Krieg gegen ukrainische Zivilisten",
-      "link": "https://www.spiegel.de/politik/deutschland/news-waldbraende-in-deutschland-machtuebernahme-der-taliban-russlands-krieg-gegen-ukrainische-zivilisten-a-3610fdc1-a278-4f90-853a-912804f2c8ac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T04:25:00+00:00"
-    },
-    {
       "titel": "Kampf gegen die Flammen im Hürtgenwald",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T03:51:24+00:00"
-    },
-    {
-      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T03:07:27+00:00"
     },
     {
       "titel": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
@@ -109,12 +121,6 @@
       "veroeffentlicht": "2026-08-14T22:53:28+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
-      "link": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T21:07:42+00:00"
-    },
-    {
       "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
       "link": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
       "quelle": "Süddeutsche",
@@ -137,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/sport/radprofi-finlay-tarling-portugal-rundfahrt-tot-li.3531689",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T18:48:31+00:00"
-    },
-    {
-      "titel": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T18:28:38+00:00"
     },
     {
       "titel": "Kolumbien: Die geretteten Babys von Cali",
