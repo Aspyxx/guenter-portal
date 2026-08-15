@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-15T04:48:29+00:00",
+  "aktualisiert": "2026-08-15T05:43:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump: Queerer Aktivist flieht nach Berlin – »Wir sind hier, weil ich mich als trans Person mit einem Kind in Amerika nicht mehr sicher gefühlt habe«",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/donald-trump-queerer-aktivist-flieht-nach-berlin-wir-sind-hier-weil-ich-mich-als-trans-person-mit-einem-kind-in-amerika-nicht-mehr-sicher-gefuehlt-habe-a-dfb40885-3f9b-4a01-923f-63cdd323a0f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T05:37:00+00:00"
+    },
+    {
+      "titel": "Hürtgenwald: Waldbrand hat sich in der Nacht nicht weiter ausgebreitet",
+      "link": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-hat-sich-in-der-nacht-nicht-weiter-ausgebreitet-a-75ae3d94-78b6-41e0-88ec-99f42bbcd124#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T05:32:00+00:00"
+    },
+    {
+      "titel": "Tübingen: Wohnungsbau vs. Naturschutz – warum habe ich die Bäume vor meinem Büro nicht gerettet?",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/tuebingen-wohnungsbau-vs-naturschutz-warum-habe-ich-die-baeume-vor-meinem-buero-nicht-gerettet-a-c82361c8-7cd8-4df9-bc7a-e26459aeeb29#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T05:26:00+00:00"
+    },
+    {
+      "titel": "VW-Bus: Der Traum vom gebrauchten Bulli – und warum er so oft platzt",
+      "link": "https://www.spiegel.de/mobilitaet/auto/vw-bus-der-traum-vom-gebrauchten-bulli-und-warum-er-so-oft-platzt-a-44d30574-6083-40bb-a0dd-7d362856bf6a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T05:24:00+00:00"
+    },
+    {
+      "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
+      "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T05:12:00+00:00"
+    },
+    {
+      "titel": "Longevity: Was Frauen für gesundes Altern tun können – Ärztin Viyan Sido im Gespräch",
+      "link": "https://www.spiegel.de/wissenschaft/longevity-was-frauen-fuer-gesundes-altern-tun-koennen-aerztin-viyan-sido-im-gespraech-a-ec76af11-ada8-45d7-bf12-1b0962f31f55#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T05:10:00+00:00"
+    },
+    {
+      "titel": "Badeunfälle bei Kindern: Das sollten Eltern nach einem Sturz ins Wasser beachten",
+      "link": "https://www.spiegel.de/gesundheit/badeunfaelle-bei-kindern-das-sollten-eltern-nach-einem-sturz-ins-wasser-beachten-a-a7e8682b-2abb-421d-9aca-8e44218bf6f8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T05:06:00+00:00"
+    },
+    {
+      "titel": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T04:54:32+00:00"
+    },
+    {
+      "titel": "Schuh-Trends: Flipflops, Tabis, Zehenringe – der große Zeh im Trendfokus",
+      "link": "https://www.spiegel.de/stil/schuh-trends-flipflops-tabis-zehenringe-der-grosse-zeh-im-trendfokus-a-9c74003b-9841-41c8-a7de-dc5e341db702#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T04:50:00+00:00"
+    },
     {
       "titel": "News: Waldbrände in Deutschland, Machtübernahme der Taliban, Russlands Krieg gegen ukrainische Zivilisten",
       "link": "https://www.spiegel.de/politik/deutschland/news-waldbraende-in-deutschland-machtuebernahme-der-taliban-russlands-krieg-gegen-ukrainische-zivilisten-a-3610fdc1-a278-4f90-853a-912804f2c8ac#ref=rss",
@@ -25,46 +79,16 @@
       "veroeffentlicht": "2026-08-15T03:51:24+00:00"
     },
     {
-      "titel": "Italien-Urlaub: Insidertipps für Apulien, Abruzzen, Dolomiten abseits des Trubels",
-      "link": "https://www.spiegel.de/reise/italien-urlaub-insidertipps-fuer-apulien-abruzzen-dolomiten-abseits-des-trubels-a-942f3ec6-4ae4-4ed3-a996-e71bdfd0891e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T03:30:00+00:00"
-    },
-    {
-      "titel": "Stromboli, Salina, Lipari, Äolische Inseln vor Sizilien: Hier machen viele Italiener Urlaub",
-      "link": "https://www.spiegel.de/reise/europa/stromboli-salina-lipari-aeolische-inseln-vor-sizilien-hier-machen-viele-italiener-urlaub-a-1e290b02-9faf-40c5-9f2a-7093a70a6aad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T03:30:00+00:00"
-    },
-    {
       "titel": "Schweres Erdbeben erschüttert Ostindonesien",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T03:07:27+00:00"
     },
     {
-      "titel": "Zwei Flugzeuge mit gleicher Nummer fliegen aufeinander zu – Lotse verhindert Kollision",
-      "link": "https://www.spiegel.de/panorama/zwei-flugzeuge-mit-gleicher-nummer-fliegen-aufeinander-zu-lotse-verhindert-kollision-a-e2037c86-f3df-40c7-a735-4a262c3bbce8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T02:57:00+00:00"
-    },
-    {
       "titel": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T02:13:14+00:00"
-    },
-    {
-      "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
-      "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T02:08:39+00:00"
-    },
-    {
-      "titel": "Feuer im Hürtgenwald: Feuerwehr muss Einsatzzentrale wegen Rauch verlegen – Löscharbeiten gingen in der Nacht weiter",
-      "link": "https://www.spiegel.de/panorama/feuer-im-huertgenwald-feuerwehr-muss-einsatzzentrale-wegen-rauch-verlegen-loescharbeiten-gingen-in-der-nacht-weiter-a-358357d8-7803-4162-a713-ba334e4f71b2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T01:45:00+00:00"
     },
     {
       "titel": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
@@ -79,34 +103,10 @@
       "veroeffentlicht": "2026-08-15T01:10:58+00:00"
     },
     {
-      "titel": "Bauarbeiter finden in Belgien Gold im Wert von neun Millionen Euro",
-      "link": "https://www.spiegel.de/panorama/bauarbeiter-finden-in-belgien-gold-im-wert-von-neun-millionen-euro-a-5fff929d-12f6-4277-8d82-8e2093287a4f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T00:19:00+00:00"
-    },
-    {
-      "titel": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
-      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T23:34:43+00:00"
-    },
-    {
       "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T22:53:28+00:00"
-    },
-    {
-      "titel": "Trump will Straße von Hormus zum US-Territorium erklären",
-      "link": "https://www.spiegel.de/ausland/trump-will-strasse-von-hormus-zum-us-territorium-erklaeren-a-9ce418b9-a76d-4659-8f2f-42fe0179c073#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T22:24:00+00:00"
-    },
-    {
-      "titel": "Selena Gomez: Start-up wird auf Millionen verklagt",
-      "link": "https://www.spiegel.de/panorama/leute/selena-gomez-start-up-wird-auf-millionen-verklagt-a-913d13a6-fd2f-4cf5-ae22-ec96af399313#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T22:23:00+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
