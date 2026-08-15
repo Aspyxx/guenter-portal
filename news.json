@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-15T08:47:29+00:00",
+  "aktualisiert": "2026-08-15T09:42:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
+      "link": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T09:40:13+00:00"
+    },
+    {
+      "titel": "Hochzeit: Ballon aus Berlin landet nach 900 Kilometern in Ostpolen",
+      "link": "https://www.spiegel.de/panorama/hochzeit-ballon-aus-berlin-landet-nach-900-kilometern-in-ostpolen-a-f13b5885-2d75-44e9-b17a-db34e381b0c7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T09:28:00+00:00"
+    },
+    {
+      "titel": "Radsport: Finlay Tarling stirbt nach Unfall bei Volta a Portugal",
+      "link": "https://www.spiegel.de/sport/radsport/radsport-finlay-tarling-stirbt-nach-unfall-bei-volta-a-portugal-a-a7fa3b11-a0a1-49d4-a1f9-37c2c0cf8e7b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T09:20:00+00:00"
+    },
+    {
+      "titel": "Norddeutschland: Behörden warnen Badende vor Blaualgen",
+      "link": "https://www.tagesschau.de/ostsee-blaualgen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T09:15:56+00:00"
+    },
+    {
+      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T09:10:40+00:00"
+    },
+    {
+      "titel": "Blaualgen machen sich in Ostsee und Seen breit - Warnung für Badende",
+      "link": "https://www.spiegel.de/panorama/blaualgen-machen-sich-in-ostsee-und-seen-breit-warnung-fuer-badende-a-09b3801d-e234-4ee0-937c-16cb90d1d25e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T09:09:00+00:00"
+    },
+    {
+      "titel": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T09:06:20+00:00"
+    },
+    {
+      "titel": "Indonesien: Mindestens 38 Tote nach schwerem Erdbeben",
+      "link": "https://www.spiegel.de/panorama/indonesien-mindestens-20-tote-nach-schwerem-erdbeben-a-e5d163b5-5117-490d-b532-0913f7ac34a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T09:02:00+00:00"
+    },
+    {
+      "titel": "Disney-Event D23: Marvel enthüllt die nächste »X-Men«-Generation",
+      "link": "https://www.spiegel.de/kultur/kino/disney-event-d23-marvel-enthuellt-die-naechste-x-men-generation-a-db206c18-035f-4dfe-b9b2-5fe91f665258#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T08:59:00+00:00"
+    },
+    {
+      "titel": "Kalifornien: Mops-Hündin Jinny Lu ist »hässlichster Hund der Welt«",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/mops-huendin-jinny-lu-ist-haesslichster-hund-der-welt-a-fd124839-a7ee-4377-befa-a537a29cc167#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T08:49:00+00:00"
+    },
     {
       "titel": "Patientenschützer wollen Hitze als Todesursache erfassen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html",
@@ -43,22 +103,10 @@
       "veroeffentlicht": "2026-08-15T07:43:00+00:00"
     },
     {
-      "titel": "Gelsenkirchen: Schon 18 Klagen nach millionenschwerem Sparkassen-Coup",
-      "link": "https://www.spiegel.de/panorama/justiz/gelsenkirchen-schon-18-klagen-nach-millionenschwerem-sparkassen-coup-a-b3c2ee05-18e5-4564-97ea-faed240e0156#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T07:42:00+00:00"
-    },
-    {
       "titel": "Millionen-Goldfund auf belgischer Baustelle",
       "link": "https://www.tagesschau.de/ausland/europa/goldfund-belgien-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T07:24:23+00:00"
-    },
-    {
-      "titel": "Adolf Hitler: Warum in sein Geburtshaus in Braunau eine Polizeistation einzog",
-      "link": "https://www.spiegel.de/ausland/adolf-hitler-warum-in-sein-geburtshaus-in-braunau-eine-polizeistation-einzog-a-2c2b2f02-9ddc-4f80-b5ae-c381c5dcc17e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T07:20:00+00:00"
     },
     {
       "titel": "Fünf Jahre Taliban-Herrschaft - zwei Schwestern blicken zurück",
@@ -73,58 +121,10 @@
       "veroeffentlicht": "2026-08-15T07:15:57+00:00"
     },
     {
-      "titel": "Niedrigwasser in Deutschland: Wirtschaftsweise erwartet höhere Kosten",
-      "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-in-deutschland-wirtschaftsweise-erwartet-hoehere-kosten-a-b2341ef7-42be-482b-8626-29ff0cb8ea2c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T07:14:00+00:00"
-    },
-    {
-      "titel": "Indonesien: Mindestens 20 Tote nach schwerem Erdbeben",
-      "link": "https://www.spiegel.de/panorama/indonesien-mindestens-20-tote-nach-schwerem-erdbeben-a-e5d163b5-5117-490d-b532-0913f7ac34a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T07:07:00+00:00"
-    },
-    {
-      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T06:44:22+00:00"
-    },
-    {
-      "titel": "Ceuta: Soldaten und Stacheldraht – Stadt rüstet sich gegen Massenansturm",
-      "link": "https://www.spiegel.de/ausland/ceuta-soldaten-und-stacheldraht-stadt-ruestet-sich-gegen-massenansturm-a-259779d9-2870-4f89-9844-fa52b23efabb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T06:27:00+00:00"
-    },
-    {
-      "titel": "Grüne in Sachsen-Anhalt: Hoffnung für die Hoffnungslosen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-sachsen-anhalt-banaszak-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T06:26:57+00:00"
-    },
-    {
-      "titel": "Afghanistan: Fünf Jahre nach Kabuls Fall – wie paradox die Taliban herrschen",
-      "link": "https://www.spiegel.de/ausland/afghanistan-fuenf-jahre-nach-dem-fall-von-kabul-so-paradox-herrschen-die-taliban-a-c5039586-a192-47b8-9b76-725eef6a8681#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T06:11:00+00:00"
-    },
-    {
       "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
       "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T05:12:00+00:00"
-    },
-    {
-      "titel": "Früherer Cambridge-Professor Arday tot aufgefunden",
-      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T04:54:32+00:00"
-    },
-    {
-      "titel": "Kampf gegen die Flammen im Hürtgenwald",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T03:51:24+00:00"
     },
     {
       "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
