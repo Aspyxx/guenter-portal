@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-15T14:40:58+00:00",
+  "aktualisiert": "2026-08-15T15:01:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "»The Legend of Zelda: Breath of the Wild«: Platz 1 im SPIEGEL Games-Kanon",
+      "link": "https://www.spiegel.de/kultur/the-legend-of-zelda-breath-of-the-wild-platz-1-im-spiegel-games-kanon-a-4ae64912-e857-4d49-9a08-db11877c0c54#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T14:55:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Baby bei russischer Drohnenattacke getötet",
+      "link": "https://www.spiegel.de/ausland/ukraine-baby-bei-russischer-drohnenattacke-getoetet-a-1af2361a-d2cc-44cb-ad1f-6321e3c8f2d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T14:51:00+00:00"
+    },
+    {
+      "titel": "Adolf Hitler: Wie Braunau Hitlers Geburtshaus zur Polizeistation umbaut – Podcast",
+      "link": "https://www.spiegel.de/ausland/hitlers-geburtshaus-kann-eine-polizeistation-in-braunau-den-mythos-brechen-a-dce7edff-9173-4047-9dab-39a4ef9ed95e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T14:49:00+00:00"
+    },
+    {
+      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T14:48:34+00:00"
+    },
+    {
+      "titel": "Tote bei schwerem israelischem Angriff im Libanon",
+      "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T14:42:42+00:00"
+    },
     {
       "titel": "Indiens Premier Modi verspricht der Jugend Gratis-Kurse",
       "link": "https://www.tagesschau.de/ausland/asien/indien-jugendproteste-kakerlakenbewegung-bildung-100.html",
@@ -17,12 +47,6 @@
       "link": "https://www.spiegel.de/panorama/gesellschaft/tuebingen-wohnungsbau-vs-naturschutz-warum-habe-ich-die-baeume-vor-meinem-buero-nicht-gerettet-a-c82361c8-7cd8-4df9-bc7a-e26459aeeb29#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T14:00:00+00:00"
-    },
-    {
-      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T13:49:58+00:00"
     },
     {
       "titel": "Friedrich Merz: Was der Vergleich mit Angela Merkel über die CDU verrät",
@@ -67,24 +91,6 @@
       "veroeffentlicht": "2026-08-15T13:01:00+00:00"
     },
     {
-      "titel": "Deutsche Bahn: Eröffnung von Bahnhof Fangschleuse nahe Tesla-Werk verzögert sich",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/bahnhof-fangschleuse-eroeffnung-nahe-tesla-werk-verzoegert-sich-a-c7ed11aa-2554-4cce-9b1f-9599361b86d4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T12:52:00+00:00"
-    },
-    {
-      "titel": "Jason Arday: Andy Burnham bezeichnet Tod von Cambridge-Professor als »Tragödie«",
-      "link": "https://www.spiegel.de/ausland/jason-arday-andy-burnham-bezeichnet-tod-von-cambridge-professor-als-tragoedie-a-858dc06e-6d19-4441-a1c5-4547742e022d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T12:47:00+00:00"
-    },
-    {
-      "titel": "Pablo Picasso: In Wisconsin gestohlene Radierung in Wohnung gefunden",
-      "link": "https://www.spiegel.de/kultur/pablo-picasso-in-wisconsin-gestohlene-radierung-in-wohnung-gefunden-a-33c8c45e-a852-47e5-8f3b-1987da37d84f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T12:27:00+00:00"
-    },
-    {
       "titel": "Waldbrände in Europa: Wo es gerade brennt",
       "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
       "quelle": "Tagesschau",
@@ -101,12 +107,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/sabbat-kulturkampf-israel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T11:43:49+00:00"
-    },
-    {
-      "titel": "Tote bei schwerem israelischem Angriff im Libanon",
-      "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T10:56:25+00:00"
     },
     {
       "titel": "Reit-WM in Aachen: „Pferde können mit hohen Temperaturen besser umgehen“",
