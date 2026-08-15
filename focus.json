@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-15T11:40:24+00:00",
+  "aktualisiert": "2026-08-15T12:11:46+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Waldbrand Nürburgring",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Wo es gerade brennt",
       "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
       "link": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
