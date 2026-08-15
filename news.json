@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-15T08:10:46+00:00",
+  "aktualisiert": "2026-08-15T08:47:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Patientenschützer wollen Hitze als Todesursache erfassen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T08:45:16+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM in Birmingham: Audrey Werro besiegt Keely Hodgkinson über 800 Meter",
+      "link": "https://www.spiegel.de/sport/leichtathletik-em-in-birmingham-audrey-werro-besiegt-keely-hodgkinson-ueber-800-meter-a-4c18174f-d30e-4d45-99f8-395e53d5d8ac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T08:40:00+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn will alte Güterwaggons wieder in Betrieb nehmen",
+      "link": "https://www.tagesschau.de/inland/niedrigwasser-folgen-bahn-preise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T08:20:55+00:00"
+    },
+    {
+      "titel": "Anthropic: Unternehmen stuft Risiko schwerer KI-Fehlsteuerung hoch",
+      "link": "https://www.spiegel.de/netzwelt/web/anthropic-unternehmen-stuft-risiko-schwerer-ki-fehlsteuerung-hoch-a-eb1a4701-dcdb-44c5-ab99-8fb0287b52bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T08:17:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Der Gold-Sprinter aus Germany – verfolgt von einem Schatten",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-ansah-gold-200-meter-sprint-doping-li.3531790",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T08:16:52+00:00"
+    },
     {
       "titel": "Hürtgenwald: Waldbrand in der Eifel hat sich in der Nacht nicht weiter ausgebreitet",
       "link": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-in-der-eifel-hat-sich-in-der-nacht-nicht-weiter-ausgebreitet-a-75ae3d94-78b6-41e0-88ec-99f42bbcd124#ref=rss",
@@ -79,24 +109,6 @@
       "veroeffentlicht": "2026-08-15T06:11:00+00:00"
     },
     {
-      "titel": "Patientenschützer wollen Hitze als Todesursache erfassen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T06:04:47+00:00"
-    },
-    {
-      "titel": "Intensivmediziner Uwe Janssens hält RKI-Schätzung für zu niedrig",
-      "link": "https://www.spiegel.de/gesundheit/intensivmediziner-uwe-janssens-haelt-rki-schaetzung-fuer-zu-niedrig-a-80e0728a-d0e8-432a-9e33-7cbae10fba94#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T05:57:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: Queerer Aktivist flieht nach Berlin – »Wir sind hier, weil ich mich als trans Person mit einem Kind in Amerika nicht mehr sicher gefühlt habe«",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/donald-trump-queerer-aktivist-flieht-nach-berlin-wir-sind-hier-weil-ich-mich-als-trans-person-mit-einem-kind-in-amerika-nicht-mehr-sicher-gefuehlt-habe-a-dfb40885-3f9b-4a01-923f-63cdd323a0f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T05:37:00+00:00"
-    },
-    {
       "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
       "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
       "quelle": "Süddeutsche",
@@ -113,12 +125,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T03:51:24+00:00"
-    },
-    {
-      "titel": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T02:13:14+00:00"
     },
     {
       "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/landwirtschaft-deutschland-folgen-trockenheit-forderungen-bauernverband-li.3531494",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T14:53:05+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Weizen und Sonnenblumenöl im russischen Visier",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-getreideexporte-krieg-schwarzes-meer-russland-li.3531075",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T13:52:42+00:00"
     }
   ]
 }
