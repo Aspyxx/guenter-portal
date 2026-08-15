@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-15T10:41:02+00:00",
+  "aktualisiert": "2026-08-15T11:00:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tote bei schwerem israelischem Angriff im Libanon",
+      "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T10:56:25+00:00"
+    },
+    {
+      "titel": "Burgebrach in Bayern: Fast drei Promille – Teenager baut Unfall mit E-Rollstuhl",
+      "link": "https://www.spiegel.de/panorama/justiz/burgebrach-in-bayern-fast-drei-promille-teenager-baut-unfall-mit-e-rollstuhl-a-4ab7df42-0a2e-4e63-b544-7668441d997a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T10:48:00+00:00"
+    },
     {
       "titel": "Afghanistan unter den Taliban: Gebt den Frauen eine Chance – Meinung",
       "link": "https://www.spiegel.de/ausland/afghanistan-unter-den-taliban-gebt-den-frauen-eine-chance-meinung-a-22c32dfd-26ea-4f64-8ff1-51abc093a09e#ref=rss",
@@ -79,12 +91,6 @@
       "veroeffentlicht": "2026-08-15T09:09:00+00:00"
     },
     {
-      "titel": "Indonesien: Mindestens 38 Tote nach schwerem Erdbeben",
-      "link": "https://www.spiegel.de/panorama/indonesien-mindestens-20-tote-nach-schwerem-erdbeben-a-e5d163b5-5117-490d-b532-0913f7ac34a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T09:02:00+00:00"
-    },
-    {
       "titel": "Patientenschützer wollen Hitze als Todesursache erfassen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html",
       "quelle": "Tagesschau",
@@ -113,12 +119,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/afghanistan-gefluechtete-schwestern-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T07:17:17+00:00"
-    },
-    {
-      "titel": "Fünf Jahre Taliban: Afghanistan, ein Land als Gefängnis",
-      "link": "https://www.tagesschau.de/ausland/asien/fuenf-jahre-taliban-herrschaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T07:15:57+00:00"
     },
     {
       "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
