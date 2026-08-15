@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-15T03:06:29+00:00",
+  "aktualisiert": "2026-08-15T03:55:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kampf gegen die Flammen im Hürtgenwald",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T03:51:24+00:00"
+    },
+    {
+      "titel": "Stromboli, Salina, Lipari, Äolische Inseln vor Sizilien: Hier machen viele Italiener Urlaub",
+      "link": "https://www.spiegel.de/reise/europa/stromboli-salina-lipari-aeolische-inseln-vor-sizilien-hier-machen-viele-italiener-urlaub-a-1e290b02-9faf-40c5-9f2a-7093a70a6aad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T03:30:00+00:00"
+    },
+    {
+      "titel": "Italien-Urlaub: Insidertipps für Apulien, Abruzzen, Dolomiten abseits des Trubels",
+      "link": "https://www.spiegel.de/reise/italien-urlaub-insidertipps-fuer-apulien-abruzzen-dolomiten-abseits-des-trubels-a-942f3ec6-4ae4-4ed3-a996-e71bdfd0891e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T03:30:00+00:00"
+    },
+    {
+      "titel": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T03:07:27+00:00"
+    },
     {
       "titel": "Zwei Flugzeuge mit gleicher Nummer fliegen aufeinander zu – Lotse verhindert Kollision",
       "link": "https://www.spiegel.de/panorama/zwei-flugzeuge-mit-gleicher-nummer-fliegen-aufeinander-zu-lotse-verhindert-kollision-a-e2037c86-f3df-40c7-a735-4a262c3bbce8#ref=rss",
@@ -91,18 +115,6 @@
       "veroeffentlicht": "2026-08-14T21:07:42+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Owen Ansah holt Gold, Emil Agyekum und Shanice Kraft Silber",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-owen-ansah-holt-gold-emil-agyekum-und-shanice-kraft-silber-a-014d356d-09fc-4909-be3e-b2976ee1b156#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T21:04:00+00:00"
-    },
-    {
-      "titel": "Jason Arday: Cambridge-Professor nach Plagiatsvorwürfen tot aufgefunden",
-      "link": "https://www.spiegel.de/ausland/jason-arday-cambridge-professor-nach-plagiatsvorwuerfen-tot-aufgefunden-a-7a75dcc5-f11a-484a-9fb0-1e25eab7b335#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T20:56:00+00:00"
-    },
-    {
       "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
       "link": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
       "quelle": "Süddeutsche",
@@ -131,18 +143,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T18:28:38+00:00"
-    },
-    {
-      "titel": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T18:19:37+00:00"
-    },
-    {
-      "titel": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T16:49:59+00:00"
     },
     {
       "titel": "Kolumbien: Die geretteten Babys von Cali",
