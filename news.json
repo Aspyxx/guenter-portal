@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-15T06:58:31+00:00",
+  "aktualisiert": "2026-08-15T07:44:53+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Millionen-Goldfund auf belgischer Baustelle",
+      "link": "https://www.tagesschau.de/ausland/europa/goldfund-belgien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T07:24:23+00:00"
+    },
+    {
+      "titel": "Adolf Hitler: Warum in sein Geburtshaus in Braunau eine Polizeistation einzog",
+      "link": "https://www.spiegel.de/ausland/adolf-hitler-warum-in-sein-geburtshaus-in-braunau-eine-polizeistation-einzog-a-2c2b2f02-9ddc-4f80-b5ae-c381c5dcc17e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T07:20:00+00:00"
+    },
+    {
+      "titel": "Fünf Jahre Taliban-Herrschaft - zwei Schwestern blicken zurück",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/afghanistan-gefluechtete-schwestern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T07:17:17+00:00"
+    },
+    {
+      "titel": "Fünf Jahre Taliban: Afghanistan, ein Land als Gefängnis",
+      "link": "https://www.tagesschau.de/ausland/asien/fuenf-jahre-taliban-herrschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T07:15:57+00:00"
+    },
+    {
+      "titel": "Niedrigwasser in Deutschland: Wirtschaftsweise erwartet höhere Kosten",
+      "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-in-deutschland-wirtschaftsweise-erwartet-hoehere-kosten-a-b2341ef7-42be-482b-8626-29ff0cb8ea2c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T07:14:00+00:00"
+    },
+    {
+      "titel": "Indonesien: Mindestens 20 Tote nach schwerem Erdbeben",
+      "link": "https://www.spiegel.de/panorama/indonesien-mindestens-20-tote-nach-schwerem-erdbeben-a-e5d163b5-5117-490d-b532-0913f7ac34a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T07:07:00+00:00"
+    },
     {
       "titel": "Schweres Erdbeben erschüttert Ostindonesien",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
@@ -61,28 +97,10 @@
       "veroeffentlicht": "2026-08-15T05:26:00+00:00"
     },
     {
-      "titel": "VW-Bus: Der Traum vom gebrauchten Bulli – und warum er so oft platzt",
-      "link": "https://www.spiegel.de/mobilitaet/auto/vw-bus-der-traum-vom-gebrauchten-bulli-und-warum-er-so-oft-platzt-a-44d30574-6083-40bb-a0dd-7d362856bf6a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T05:24:00+00:00"
-    },
-    {
       "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
       "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T05:12:00+00:00"
-    },
-    {
-      "titel": "Longevity: Was Frauen für gesundes Altern tun können – Ärztin Viyan Sido im Gespräch",
-      "link": "https://www.spiegel.de/wissenschaft/longevity-was-frauen-fuer-gesundes-altern-tun-koennen-aerztin-viyan-sido-im-gespraech-a-ec76af11-ada8-45d7-bf12-1b0962f31f55#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T05:10:00+00:00"
-    },
-    {
-      "titel": "Badeunfälle bei Kindern: Das sollten Eltern nach einem Sturz ins Wasser beachten",
-      "link": "https://www.spiegel.de/gesundheit/badeunfaelle-bei-kindern-das-sollten-eltern-nach-einem-sturz-ins-wasser-beachten-a-a7e8682b-2abb-421d-9aca-8e44218bf6f8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T05:06:00+00:00"
     },
     {
       "titel": "Früherer Cambridge-Professor Arday tot aufgefunden",
@@ -101,24 +119,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T02:13:14+00:00"
-    },
-    {
-      "titel": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T01:12:08+00:00"
-    },
-    {
-      "titel": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T01:10:58+00:00"
-    },
-    {
-      "titel": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T22:53:28+00:00"
     },
     {
       "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
