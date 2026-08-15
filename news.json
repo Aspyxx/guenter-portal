@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-15T01:50:54+00:00",
+  "aktualisiert": "2026-08-15T03:06:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,13 +7,31 @@
   },
   "meldungen": [
     {
+      "titel": "Zwei Flugzeuge mit gleicher Nummer fliegen aufeinander zu – Lotse verhindert Kollision",
+      "link": "https://www.spiegel.de/panorama/zwei-flugzeuge-mit-gleicher-nummer-fliegen-aufeinander-zu-lotse-verhindert-kollision-a-e2037c86-f3df-40c7-a735-4a262c3bbce8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T02:57:00+00:00"
+    },
+    {
+      "titel": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-15T02:13:14+00:00"
+    },
+    {
+      "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
+      "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T02:08:39+00:00"
+    },
+    {
       "titel": "Feuer im Hürtgenwald: Feuerwehr muss Einsatzzentrale wegen Rauch verlegen – Löscharbeiten gingen in der Nacht weiter",
       "link": "https://www.spiegel.de/panorama/feuer-im-huertgenwald-feuerwehr-muss-einsatzzentrale-wegen-rauch-verlegen-loescharbeiten-gingen-in-der-nacht-weiter-a-358357d8-7803-4162-a713-ba334e4f71b2#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T01:45:00+00:00"
     },
     {
-      "titel": "Ankündigung des US-Präsidenten: Trump will Straße von Hormus zu US-Gebiet erklären",
+      "titel": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T01:12:08+00:00"
@@ -85,12 +103,6 @@
       "veroeffentlicht": "2026-08-14T20:56:00+00:00"
     },
     {
-      "titel": "Matisse, Renoir und Cézanne: Drei aus Museen in Italien gestohlene Gemälde wieder aufgetaucht",
-      "link": "https://www.spiegel.de/ausland/matisse-renoir-und-cezanne-drei-aus-museen-in-italien-gestohlene-gemaelde-wieder-aufgetaucht-a-cc523c91-4cc0-41db-b4a9-2f6339785253#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-14T20:23:00+00:00"
-    },
-    {
       "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
       "link": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
       "quelle": "Süddeutsche",
@@ -131,18 +143,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-14T16:49:59+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-14T16:24:07+00:00"
-    },
-    {
-      "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
-      "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T16:12:45+00:00"
     },
     {
       "titel": "Kolumbien: Die geretteten Babys von Cali",
