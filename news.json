@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-15T05:43:01+00:00",
+  "aktualisiert": "2026-08-15T06:02:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Intensivmediziner Uwe Janssens hält RKI-Schätzung für zu niedrig",
+      "link": "https://www.spiegel.de/gesundheit/intensivmediziner-uwe-janssens-haelt-rki-schaetzung-fuer-zu-niedrig-a-80e0728a-d0e8-432a-9e33-7cbae10fba94#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-15T05:57:00+00:00"
+    },
     {
       "titel": "Donald Trump: Queerer Aktivist flieht nach Berlin – »Wir sind hier, weil ich mich als trans Person mit einem Kind in Amerika nicht mehr sicher gefühlt habe«",
       "link": "https://www.spiegel.de/panorama/gesellschaft/donald-trump-queerer-aktivist-flieht-nach-berlin-wir-sind-hier-weil-ich-mich-als-trans-person-mit-einem-kind-in-amerika-nicht-mehr-sicher-gefuehlt-habe-a-dfb40885-3f9b-4a01-923f-63cdd323a0f3#ref=rss",
@@ -49,7 +55,7 @@
       "veroeffentlicht": "2026-08-15T05:06:00+00:00"
     },
     {
-      "titel": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
+      "titel": "Früherer Cambridge-Professor Arday tot aufgefunden",
       "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T04:54:32+00:00"
@@ -65,12 +71,6 @@
       "link": "https://www.spiegel.de/politik/deutschland/news-waldbraende-in-deutschland-machtuebernahme-der-taliban-russlands-krieg-gegen-ukrainische-zivilisten-a-3610fdc1-a278-4f90-853a-912804f2c8ac#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-15T04:25:00+00:00"
-    },
-    {
-      "titel": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft",
-      "link": "https://www.spiegel.de/ausland/frist-fuer-iran-usa-abkommen-verstreicht-naher-osten-vor-ungewisser-zukunft-a-34fe3005-49a5-479c-a176-d6af268c6d75#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T04:00:00+00:00"
     },
     {
       "titel": "Kampf gegen die Flammen im Hürtgenwald",
