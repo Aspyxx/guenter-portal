@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-16T12:12:50+00:00",
+  "aktualisiert": "2026-08-16T13:05:57+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Brand Espelkamp",
-      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
+      "titel": "Aktuell keine Evakuierungen in Monschau geplant",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔥"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Wildberries Lager Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
+      "titel": "Lohnt sich Sparen auf dem Tagesgeldkonto wieder?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/tagesgeld-sparen-lockangebote-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Aktuell keine Evakuierungen in Monschau geplant",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
+      "titel": "Ceuta - Europas verschlossene Tür",
+      "link": "https://www.tagesschau.de/ausland/europa/marokko-spanien-ceuta-migration-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
