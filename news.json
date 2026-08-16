@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-16T15:37:17+00:00",
+  "aktualisiert": "2026-08-16T15:58:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Reit-WM in Aachen: Michael Jung holt WM-Gold mit Chipmunk in der Vielseitigkeit",
+      "link": "https://www.spiegel.de/sport/reit-wm-in-aachen-michael-jung-holt-wm-gold-mit-chipmunk-in-der-vielseitigkeit-a-95d88131-d477-4ec3-84be-407508571071#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T15:43:00+00:00"
+    },
     {
       "titel": "Griechenland: Zwei Tote bei Waldbränden auf Insel Salamis",
       "link": "https://www.spiegel.de/panorama/griechenland-zwei-tote-bei-waldbraenden-auf-insel-salamis-a-497d145d-a49e-4c0e-abac-b0f49145f485#ref=rss",
@@ -97,16 +103,10 @@
       "veroeffentlicht": "2026-08-16T14:01:13+00:00"
     },
     {
-      "titel": "Adam Scott: Tochter sieht peinliche »Office«-Bewerbung im Schauspielunterricht",
+      "titel": "Adam Scott: Tochter sieht peinliche »The Office«-Bewerbung im Schauspielunterricht",
       "link": "https://www.spiegel.de/kultur/tv/adam-scott-tochter-sieht-peinliche-office-bewerbung-im-schauspielunterricht-a-c884456b-861b-421a-9db5-9ed3e67f451c#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T13:58:00+00:00"
-    },
-    {
-      "titel": "Rente mit 63: Warum die Rentenpläne für Bärbel Bas und Lars Klingbeil gefährlich sind",
-      "link": "https://www.spiegel.de/politik/deutschland/rente-mit-63-warum-die-rentenplaene-fuer-baerbel-bas-und-lars-klingbeil-gefaehrlich-sind-a-009d1497-f2ca-4630-91b2-02705cc38f19#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T13:54:00+00:00"
     },
     {
       "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
