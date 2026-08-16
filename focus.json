@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-16T08:13:33+00:00",
+  "aktualisiert": "2026-08-16T08:52:17+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
-      "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
+      "titel": "Landtagswahlen In Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
     },
     {
       "rang": 2,
-      "titel": "Immer mehr Syrer verlieren Schutzstatus",
-      "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
       "titel": "Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
       "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
+    },
+    {
+      "rang": 3,
+      "titel": "Warum sind Luxusdüfte so teuer?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/parfum-luxus-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
