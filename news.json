@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-16T20:59:16+00:00",
+  "aktualisiert": "2026-08-16T21:35:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T21:22:36+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM in Birmingham: Malaika Mihambo verpasst Medaille im Weitsprung",
+      "link": "https://www.spiegel.de/sport/leichtathletik-em-in-birmingham-malaika-mihambo-verpasst-medaille-im-weitsprung-a-f56a01c0-55d9-4a2c-b304-6c1e0e449aae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T21:07:00+00:00"
+    },
     {
       "titel": "Leichtathletik-EM: Julia Ulbricht gewinnt sensationell Silber im Speerwurf",
       "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-julia-ulbricht-gewinnt-sensationell-silber-im-speerwurf-a-cdc7a9ac-9389-4cf9-9e00-ceb178a7aeb8#ref=rss",
@@ -55,12 +67,6 @@
       "veroeffentlicht": "2026-08-16T19:36:00+00:00"
     },
     {
-      "titel": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T18:55:58+00:00"
-    },
-    {
       "titel": "Rheinland-Pfalz: Waldbrand im Westerwald – Evakuierung wieder beendet",
       "link": "https://www.spiegel.de/panorama/rheinland-pfalz-waldbrand-im-westerwald-evakuierung-wieder-beendet-a-40b9c95c-0ca1-4166-8e40-91899ff72148#ref=rss",
       "quelle": "SPIEGEL",
@@ -77,12 +83,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T18:09:53+00:00"
-    },
-    {
-      "titel": "Cristiano Ronaldo: Hochzeit mit Georgina im eigenen Wohnzimmer",
-      "link": "https://www.spiegel.de/panorama/leute/cristiano-ronaldo-hochzeit-mit-georgina-im-eigenen-wohnzimmer-a-450fb1f2-9417-4de5-91fa-27434f47f429#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T18:05:00+00:00"
     },
     {
       "titel": "Bundespolitik: Banaszak fordert CDU zu Gesprächsbereitschaft mit Linken auf",
