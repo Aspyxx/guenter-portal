@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-16T10:42:13+00:00",
+  "aktualisiert": "2026-08-16T11:01:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar",
+      "link": "https://www.spiegel.de/ausland/iran-teheran-verlangt-zugang-zu-vermissten-piloten-in-katar-a-89497fd5-3da6-4a3b-8888-57bd5e6740f9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T10:44:00+00:00"
+    },
     {
       "titel": "Freiburg: Angler retten Fische aus fast ausgetrocknetem Kanal",
       "link": "https://www.spiegel.de/panorama/freiburg-angler-retten-fische-aus-fast-ausgetrocknetem-kanal-a-fc8f98e8-4be9-4cff-b2cf-8a396b60ceab#ref=rss",
@@ -91,16 +97,16 @@
       "veroeffentlicht": "2026-08-16T09:29:00+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Amanal Petros gewinnt Marathon-Gold in Birmingham",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-amanal-petros-gewinnt-marathon-gold-in-birmingham-a-20e36b1c-f6c2-4430-8542-a90fc6faa322#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T09:24:00+00:00"
-    },
-    {
       "titel": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T09:18:50+00:00"
+    },
+    {
+      "titel": "NS-Vergangenheit: Jäger der Nazi-Juristen",
+      "link": "https://www.sueddeutsche.de/kultur/reinhard-strecker-aufarbeitung-nazijustiz-brd-li.3532066",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T08:41:32+00:00"
     },
     {
       "titel": "NATO-Kampfjet schießt Drohne über Rumänien ab",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/schwimmen-schwimm-em-johannes-liebmann-weltrekord-1500-meter-paris-li.3531981",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T21:42:23+00:00"
-    },
-    {
-      "titel": "Supercup: Die Bayern gewinnen auch den ersten Titel der neuen Saison",
-      "link": "https://www.sueddeutsche.de/sport/supercup-fc-bayern-vfl-wolfsburg-frauenfussball-stine-johannes-eigentor-li.3531307",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T20:09:36+00:00"
     }
   ]
 }
