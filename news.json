@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-16T04:03:34+00:00",
+  "aktualisiert": "2026-08-16T04:50:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Gerti Tetzner: Der unterdrückte DDR-Roman erscheint erstmals",
+      "link": "https://www.spiegel.de/kultur/literatur/gerti-tetzner-der-unterdrueckte-ddr-roman-erscheint-erstmals-a-59f2eee3-9ebe-45fa-b4c4-8a6779256837#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T04:44:00+00:00"
+    },
+    {
+      "titel": "US-Nationalparks: Donald Trumps Kulturkampf gegen Amerikas Naturparadiese",
+      "link": "https://www.spiegel.de/wissenschaft/us-nationalparks-donald-trumps-kulturkampf-gegen-amerikas-naturparadiese-a-9a680e35-ff32-497c-b88d-c206dca9582e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T04:44:00+00:00"
+    },
+    {
+      "titel": "Hurrikan »Lala« zieht knapp an Hawaii vorbei",
+      "link": "https://www.spiegel.de/panorama/hurrikan-lala-naehert-sich-hawaii-a-e9079160-9b04-485a-9eb6-751270a686d1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T04:38:00+00:00"
+    },
+    {
+      "titel": "News: Warum Ulrich Siegmund auf dem SPIEGEL-Titel ist",
+      "link": "https://www.spiegel.de/politik/deutschland/news-warum-ulrich-siegmund-auf-dem-spiegel-titel-ist-a-2e74d73a-af37-4986-b8a6-7d79ee19f3b4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T04:36:00+00:00"
+    },
     {
       "titel": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
       "link": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html",
@@ -55,34 +79,10 @@
       "veroeffentlicht": "2026-08-15T23:23:00+00:00"
     },
     {
-      "titel": "Hurrikan »Lala« erreicht Hawaii",
-      "link": "https://www.spiegel.de/panorama/hurrikan-lala-naehert-sich-hawaii-a-e9079160-9b04-485a-9eb6-751270a686d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T22:36:00+00:00"
-    },
-    {
-      "titel": "Flughafen München: Vietnam Airlines Maschine hebt spät ab und dreht um",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/flughafen-muenchen-vietnam-airlines-maschine-hebt-spaet-ab-und-dreht-um-a-3d57bda0-fb44-431d-92ba-894994e3f471#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T22:03:00+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
       "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T20:44:39+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM in Birmingham: Julian Weber wirft Speer im letzten Versuch zu Gold",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-julian-weber-wirft-speer-im-letzten-versuch-zu-gold-a-11def637-a5e3-4776-a02d-539b182b7195#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T20:44:00+00:00"
-    },
-    {
-      "titel": "Supercup: Wolfsburgerin Johannes unterlaufen Patzer – Bayern siegt erneut",
-      "link": "https://www.spiegel.de/sport/fussball/supercup-wolfsburgerin-johannes-unterlaufen-patzer-bayern-siegt-erneut-a-6112805e-904e-46ac-bef3-0d5161047fea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T20:27:00+00:00"
     },
     {
       "titel": "Supercup: Die Bayern gewinnen auch den ersten Titel der neuen Saison",
