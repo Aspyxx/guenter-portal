@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-16T17:03:05+00:00",
+  "aktualisiert": "2026-08-16T17:35:04+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Großbrände: Lage in Nordrhein-Westfalen entspannt sich",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/grossbraende-lage-in-nordrhein-westfalen-entspannt-sich-a-98358a2a-d35b-4ea0-af46-55996fc3c1ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T17:20:00+00:00"
+    },
+    {
+      "titel": "Ex-Bundestrainerin Martina Voss-Tecklenburg trainiert künftig FC Zürich",
+      "link": "https://www.spiegel.de/sport/fussball/ex-bundestrainerin-martina-voss-tecklenburg-trainiert-kuenftig-fc-zuerich-a-da7adbc1-af1d-44bc-95ef-11deccfab843#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T17:18:00+00:00"
+    },
+    {
+      "titel": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T17:10:26+00:00"
+    },
     {
       "titel": "Community Shield: Arsenal siegt, Kai Havertz vermiest Enzo Maresca das Debüt",
       "link": "https://www.spiegel.de/sport/fussball/community-shield-arsenal-siegt-kai-havertz-vermiest-enzo-maresca-das-debuet-a-0355a7f3-60b0-438f-85dc-cc181e401c22#ref=rss",
@@ -71,18 +89,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/italien-hitze-staedte-landwirtschaft-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T15:16:26+00:00"
-    },
-    {
-      "titel": "Sylt: Punks bauen Protestcamp ab",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/sylt-punks-bauen-protestcamp-ab-a-2dc17581-c45e-4928-aa13-26130f13b98f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T15:13:00+00:00"
-    },
-    {
-      "titel": "Union wirft SPD-Minister Carsten Schneider »Alleingang« bei Hitzeschutz vor",
-      "link": "https://www.spiegel.de/politik/deutschland/union-wirft-spd-minister-carsten-schneider-alleingang-bei-hitzeschutz-vor-a-7928574e-118a-4f60-bced-28a87a3e40bc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T15:12:00+00:00"
     },
     {
       "titel": "Glosse: Das Streiflicht",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/volksbad-berlin-pool-volksbuehne-streit-li.3531958",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T12:48:46+00:00"
-    },
-    {
-      "titel": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T12:02:04+00:00"
     }
   ]
 }
