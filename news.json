@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-16T14:41:01+00:00",
+  "aktualisiert": "2026-08-16T15:00:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Überblick: Waldbrände in Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T14:45:23+00:00"
+    },
+    {
+      "titel": "Großbrände: Lage in Nordrhein-Westfalen entspannt sich",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/grossbraende-lage-in-nordrhein-westfalen-entspannt-sich-a-98358a2a-d35b-4ea0-af46-55996fc3c1ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T14:40:00+00:00"
+    },
     {
       "titel": "Lösungsorientierter Journalismus: Wie ich versuchte, eine frohe Botschaft aus Amerika zu senden",
       "link": "https://www.spiegel.de/panorama/loesungsorientierter-journalismus-wie-ich-versuchte-eine-frohe-botschaft-aus-amerika-zu-senden-a-0bd2de85-a4d1-41a2-8330-30aafb9a5799#ref=rss",
@@ -61,6 +73,12 @@
       "veroeffentlicht": "2026-08-16T13:09:10+00:00"
     },
     {
+      "titel": "Bundespolitik: SPD will Klimaanpassung im Grundgesetz verankern",
+      "link": "https://www.sueddeutsche.de/politik/waldbraende-deutschland-lage-massnahmen-li.3532099",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T13:02:23+00:00"
+    },
+    {
       "titel": "Schlachtabfälle sorgen für stundenlange Sperrung der A33",
       "link": "https://www.spiegel.de/panorama/schlachtabfaelle-sorgen-fuer-stundenlange-sperrung-der-a33-a-ee8f53ad-6791-4f65-bd31-55240f47c8a4#ref=rss",
       "quelle": "SPIEGEL",
@@ -73,10 +91,10 @@
       "veroeffentlicht": "2026-08-16T12:53:00+00:00"
     },
     {
-      "titel": "Südlibanon: Israel meldet Tötung von Hisbollah-Kommandeur",
-      "link": "https://www.spiegel.de/ausland/suedlibanon-israel-meldet-toetung-von-hisbollah-kommandeur-a-66311952-0cb9-4e0d-92e3-d9c40bc2efd1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T12:36:00+00:00"
+      "titel": "Volksbühne Berlin: Kulturkampf im Wasser",
+      "link": "https://www.sueddeutsche.de/kultur/volksbad-berlin-pool-volksbuehne-streit-li.3531958",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T12:48:46+00:00"
     },
     {
       "titel": "Sahra Wagenknecht: Die Antifaschistin von einst wird zum Helferlein der Rechtsextremen",
@@ -139,34 +157,16 @@
       "veroeffentlicht": "2026-08-16T11:07:56+00:00"
     },
     {
+      "titel": "Hitze: Auf dem Trockenen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/pegel-kaub-siemens-energy-evonik-lanxess-basf-chemieindustrie-li.3529812",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T10:41:29+00:00"
+    },
+    {
       "titel": "USA: Alaskas Rohstoffe abbauen - aber wie?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-abbau-rohstoffe-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T10:20:49+00:00"
-    },
-    {
-      "titel": "Fraktionschefin Ebner-Steiner: Die mächtigste Person der bayerischen AfD",
-      "link": "https://www.sueddeutsche.de/bayern/afd-katrin-ebner-steiner-portraet-deggendorf-bayern-li.3530792",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T10:18:24+00:00"
-    },
-    {
-      "titel": "Amanal Petros sichert sich EM-Gold im Marathon",
-      "link": "https://www.tagesschau.de/sport/leichtathletik-em-marathon-goldmedaille-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T09:46:47+00:00"
-    },
-    {
-      "titel": "Gold für Amanal Petros: Das Gesicht des deutschen Marathons",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-marathon-petros-gold-li.3532154",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T09:39:18+00:00"
-    },
-    {
-      "titel": "IW-Studie: Deutsche Unternehmen machen Bogen um die USA",
-      "link": "https://www.sueddeutsche.de/wirtschaft/firmen-usa-li.3532115",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T08:44:28+00:00"
     }
   ]
 }
