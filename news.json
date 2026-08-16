@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-16T19:56:46+00:00",
+  "aktualisiert": "2026-08-16T20:39:52+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Leichtathletik-EM: Frederik Ruppert läuft zu Gold über 3000 Meter Hindernis",
+      "link": "https://www.spiegel.de/sport/leichtathletik-em-frederik-ruppert-laeuft-zu-gold-ueber-3000-meter-hindernis-a-850a7e51-38c8-432a-9586-3b982ff720dd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T20:06:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM in Birmingham: Deutsche 4x100-Mixed-Staffel holt Silber",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-deutsche-4x100-mixed-staffel-holt-silber-a-8ba0fa5f-6ef9-4de6-bc57-f1e4289e19e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T20:01:00+00:00"
+    },
+    {
+      "titel": "Waldbrände: Drei Tote bei Bränden auf griechischer Insel und in Spanien",
+      "link": "https://www.spiegel.de/panorama/griechenland-zwei-tote-bei-waldbraenden-auf-insel-salamis-a-497d145d-a49e-4c0e-abac-b0f49145f485#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T19:58:00+00:00"
+    },
     {
       "titel": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
       "link": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
@@ -65,24 +83,6 @@
       "link": "https://www.spiegel.de/kultur/kino/locarno-film-festival-an-diesen-filmen-zeigt-sich-wie-staatliche-willkuer-funktioniert-a-71fa4f2b-beff-468d-97ed-a3bfcf628271#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T17:56:00+00:00"
-    },
-    {
-      "titel": "Quantencomputer: Hochschule Karlsruhe plant Lehrrechner mit Diamant-Chip",
-      "link": "https://www.spiegel.de/start/quantencomputer-hochschule-karlsruhe-plant-lehrrechner-mit-diamant-chip-a-8b70d910-cc61-44c4-a20c-ef5dc4374db7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T17:55:00+00:00"
-    },
-    {
-      "titel": "K-Beauty: Was hinter dem Erfolg von K-Beauty steckt",
-      "link": "https://www.spiegel.de/wirtschaft/k-beauty-was-hinter-dem-erfolg-von-k-beauty-steckt-a-5ce76c4f-70ca-4677-8d1c-25a693f9932a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T17:35:00+00:00"
-    },
-    {
-      "titel": "Großbrände: Lage in Nordrhein-Westfalen entspannt sich",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/grossbraende-lage-in-nordrhein-westfalen-entspannt-sich-a-98358a2a-d35b-4ea0-af46-55996fc3c1ba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T17:20:00+00:00"
     },
     {
       "titel": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
