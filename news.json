@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-16T08:48:34+00:00",
+  "aktualisiert": "2026-08-16T09:43:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Was Matthew Rhys dachte, als er sich in Co-Star Keri Russell verliebte? »Oh nein«",
+      "link": "https://www.spiegel.de/kultur/tv/was-matthew-rhys-dachte-als-er-sich-in-co-star-keri-russell-verliebte-oh-nein-a-9e45d9d5-1255-4b5f-9e59-1849fb7dde09#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T09:33:00+00:00"
+    },
+    {
+      "titel": "Syrer in Deutschland: Immer mehr verlieren nach Assad-Sturz ihren Schutzstatus",
+      "link": "https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-immer-mehr-verlieren-nach-assad-sturz-ihren-schutzstatus-a-84e84780-8ade-4fc4-a3c9-132d4c167239#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T09:31:00+00:00"
+    },
+    {
+      "titel": "Cartoons der Woche von Thomas Plaßmann, Klaus Stuttmann, Julian Fiebach",
+      "link": "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-d1047528-5bf1-48d9-81c4-960b1aff8158#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T09:29:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Amanal Petros gewinnt Marathon-Gold in Birmingham",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-amanal-petros-gewinnt-marathon-gold-in-birmingham-a-20e36b1c-f6c2-4430-8542-a90fc6faa322#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T09:24:00+00:00"
+    },
+    {
+      "titel": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T09:18:50+00:00"
+    },
+    {
+      "titel": "Apple: Trump-Regierung will Chipkäufe in China unterbinden",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/apple-trump-regierung-will-chipkaeufe-in-china-unterbinden-a-a3ebee24-b91e-44aa-8828-8b8b1d1ca104#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T09:18:00+00:00"
+    },
+    {
+      "titel": "Nordrhein-Westfalen: Lage in Monschau hat sich entspannt – Feuerwehr fährt Einsatz zurück",
+      "link": "https://www.spiegel.de/panorama/nordrhein-westfalen-lage-in-monschau-hat-sich-entspannt-feuerwehr-faehrt-einsatz-zurueck-a-c36b5219-bd2c-4f4e-bbd2-ed3263f565f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T08:51:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Julian Weber im Speerwurf mit einem Sieg gegen alle Wahrscheinlichkeit",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-julian-weber-im-speerwurf-mit-einem-sieg-gegen-alle-wahrscheinlichkeit-a-c1fb2830-b882-46af-9dd8-c11618b1b34c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T08:51:00+00:00"
+    },
     {
       "titel": "NATO-Kampfjet schießt Drohne über Rumänien ab",
       "link": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
@@ -19,7 +67,7 @@
       "veroeffentlicht": "2026-08-16T08:31:50+00:00"
     },
     {
-      "titel": "Münchner Flughafen: Flugzeug fällt durch langen Take-off auf – und kehrt später zurück",
+      "titel": "Boeing 787 der Vietnam Airlines: Probleme beim Start, Schäden nach der Landung: Kritische Situation am Münchner Flughafen",
       "link": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-vietnam-airlines-start-li.3531950",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T08:30:00+00:00"
@@ -55,12 +103,6 @@
       "veroeffentlicht": "2026-08-16T07:33:00+00:00"
     },
     {
-      "titel": "Reifenteile auf dem Rollfeld, manövrierunfähige Maschine – Betrieb am Münchner Flughafen wieder normal",
-      "link": "https://www.spiegel.de/panorama/reifenteile-auf-dem-rollfeld-manoevrierunfaehige-maschine-betrieb-am-muenchner-flughafen-wieder-normal-a-f38713c1-6d77-4eb1-8d54-f6cbd34764ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T07:28:00+00:00"
-    },
-    {
       "titel": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
       "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
       "quelle": "Tagesschau",
@@ -79,40 +121,10 @@
       "veroeffentlicht": "2026-08-16T06:59:34+00:00"
     },
     {
-      "titel": "Jane Seymour: Schauspielerin erinnert sich an ihre »schrecklichste« Bond-Szene",
-      "link": "https://www.spiegel.de/panorama/leute/jane-seymour-schauspielerin-erinnert-sich-an-ihre-schrecklichste-bond-szene-a-9511127c-e187-4190-94bc-61dbd45a4504#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T06:56:00+00:00"
-    },
-    {
-      "titel": "Ungarn: Bus aus Polen verunglückt – zwölf Tote und viele Verletzte",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/ungarn-bus-aus-polen-verunglueckt-zwoelf-tote-und-viele-verletzte-a-c325363f-1245-44a6-a761-0832305efb54#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T06:43:00+00:00"
-    },
-    {
       "titel": "Künstliche Intelligenz: Wie wir in Zukunft das Internet nutzen werden",
       "link": "https://www.sueddeutsche.de/medien/google-chat-gpt-suche-alphabet-internet-li.3527585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T06:24:27+00:00"
-    },
-    {
-      "titel": "Cannabis-Gesetz: Drogenfahnder kritisiert Folgen der Teilentkriminalisierung",
-      "link": "https://www.spiegel.de/panorama/justiz/cannabis-gesetz-drogenfahnder-kritisiert-folgen-der-teilentkriminalisierung-a-62242cea-120f-43ca-a369-11b77a13be06#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T06:15:00+00:00"
-    },
-    {
-      "titel": "Nordrhein-Westfalen: Bürger in Monschau sollen bis 10 Uhr Häuser verlassen",
-      "link": "https://www.spiegel.de/panorama/nordrhein-westfalen-buerger-in-monschau-sollen-bis-10-uhr-haeuser-verlassen-a-c36b5219-bd2c-4f4e-bbd2-ed3263f565f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T06:13:00+00:00"
-    },
-    {
-      "titel": "Willi Buisson, Ex-Vorstandsmitglied des FC Bayern München: Aktiver Widerstand gegen Hitler",
-      "link": "https://www.spiegel.de/sport/willi-buisson-ex-vorstandsmitglied-des-fc-bayern-muenchen-ein-apotheker-gegen-hitler-a-bad587a1-76d8-4abe-9502-1081b3c2d4ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T06:10:00+00:00"
     },
     {
       "titel": "Hochbetrieb an Bergseen: Wenn Erholung zur Belastung für die Natur wird",
@@ -127,22 +139,10 @@
       "veroeffentlicht": "2026-08-16T05:46:13+00:00"
     },
     {
-      "titel": "Volksbad-Aktion für Schwarze: Warum die Absage so bitter ist – Meinung",
-      "link": "https://www.spiegel.de/kultur/absage-von-volksbad-veranstaltung-fuer-schwarze-eine-verlogene-frage-a-1c296932-5385-47a0-93f7-29cf39d2b269#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T05:41:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-rumaenien-drohne-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T05:23:00+00:00"
-    },
-    {
-      "titel": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
-      "link": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T04:03:05+00:00"
     },
     {
       "titel": "Weltrekord von Johannes Liebmann: Ein 19-jähriger Abiturient schwimmt allen davon",
