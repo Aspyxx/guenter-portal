@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-16T11:01:54+00:00",
+  "aktualisiert": "2026-08-16T11:35:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
+      "link": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T11:33:43+00:00"
+    },
+    {
+      "titel": "Waldbrand im Hohen Venn: Aktuell keine Evakuierungen in Monschau geplant",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T11:31:57+00:00"
+    },
+    {
+      "titel": "Griechenland: 17-Jähriger erleidet tödlichen Stromschlag unter Dusche",
+      "link": "https://www.spiegel.de/panorama/griechenland-17-jaehriger-erleidet-toedlichen-stromschlag-unter-dusche-a-9c515f05-762b-4f3a-bac2-81a1fd9d47f8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T11:19:00+00:00"
+    },
+    {
+      "titel": "Höhere Zinsen: Lohnt sich Sparen auf dem Tagesgeldkonto wieder?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/tagesgeld-sparen-lockangebote-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T11:07:56+00:00"
+    },
     {
       "titel": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar",
       "link": "https://www.spiegel.de/ausland/iran-teheran-verlangt-zugang-zu-vermissten-piloten-in-katar-a-89497fd5-3da6-4a3b-8888-57bd5e6740f9#ref=rss",
@@ -35,12 +59,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-abbau-rohstoffe-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T10:20:49+00:00"
-    },
-    {
-      "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
-      "link": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T10:16:10+00:00"
     },
     {
       "titel": "China schickt wieder Containerschiffe durch die Arktis nach Europa",
@@ -91,12 +109,6 @@
       "veroeffentlicht": "2026-08-16T09:31:00+00:00"
     },
     {
-      "titel": "Cartoons der Woche von Thomas Plaßmann, Klaus Stuttmann, Julian Fiebach",
-      "link": "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-julian-fiebach-a-d1047528-5bf1-48d9-81c4-960b1aff8158#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T09:29:00+00:00"
-    },
-    {
       "titel": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
       "quelle": "Tagesschau",
@@ -133,22 +145,10 @@
       "veroeffentlicht": "2026-08-16T08:27:53+00:00"
     },
     {
-      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T08:26:04+00:00"
-    },
-    {
       "titel": "Speerwurf-Gold für Julian Weber: Im letzten Wurf passt endlich alles",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-weber-speer-gold-thumm-silber-li.3532003",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T07:48:55+00:00"
-    },
-    {
-      "titel": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
-      "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T07:23:29+00:00"
     },
     {
       "titel": "Künstliche Intelligenz: Wie wir in Zukunft das Internet nutzen werden",
