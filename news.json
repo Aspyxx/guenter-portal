@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-16T17:57:27+00:00",
+  "aktualisiert": "2026-08-16T18:48:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rheinland-Pfalz: Waldbrand im Westerwald – Evakuierung wieder beendet",
+      "link": "https://www.spiegel.de/panorama/rheinland-pfalz-waldbrand-im-westerwald-evakuierung-wieder-beendet-a-40b9c95c-0ca1-4166-8e40-91899ff72148#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T18:39:00+00:00"
+    },
+    {
+      "titel": "Schwimm-EM in Paris: Isabel Gose nach drittem Silber im Becken nicht ganz zufrieden",
+      "link": "https://www.spiegel.de/sport/schwimm-em-in-paris-isabel-gose-nach-drittem-silber-im-becken-nicht-ganz-zufrieden-a-8907e2d0-937e-4f51-bd30-25645021ab33#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T18:12:00+00:00"
+    },
+    {
+      "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T18:09:53+00:00"
+    },
+    {
+      "titel": "Cristiano Ronaldo: Hochzeit mit Georgina im eigenen Wohnzimmer",
+      "link": "https://www.spiegel.de/panorama/leute/cristiano-ronaldo-hochzeit-mit-georgina-im-eigenen-wohnzimmer-a-450fb1f2-9417-4de5-91fa-27434f47f429#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T18:05:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Banaszak fordert CDU zu Gesprächsbereitschaft mit Linken auf",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T18:03:56+00:00"
+    },
+    {
+      "titel": "Locarno Film Festival: An diesen Filmen zeigt sich, wie staatliche Willkür funktioniert",
+      "link": "https://www.spiegel.de/kultur/kino/locarno-film-festival-an-diesen-filmen-zeigt-sich-wie-staatliche-willkuer-funktioniert-a-71fa4f2b-beff-468d-97ed-a3bfcf628271#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T17:56:00+00:00"
+    },
+    {
+      "titel": "Quantencomputer: Hochschule Karlsruhe plant Lehrrechner mit Diamant-Chip",
+      "link": "https://www.spiegel.de/start/quantencomputer-hochschule-karlsruhe-plant-lehrrechner-mit-diamant-chip-a-8b70d910-cc61-44c4-a20c-ef5dc4374db7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T17:55:00+00:00"
+    },
     {
       "titel": "K-Beauty: Was hinter dem Erfolg von K-Beauty steckt",
       "link": "https://www.spiegel.de/wirtschaft/k-beauty-was-hinter-dem-erfolg-von-k-beauty-steckt-a-5ce76c4f-70ca-4677-8d1c-25a693f9932a#ref=rss",
@@ -37,46 +79,16 @@
       "veroeffentlicht": "2026-08-16T16:46:00+00:00"
     },
     {
-      "titel": "Rheinland-Pfalz: Waldbrand im Westerwald – Teil von Gemeinde evakuiert",
-      "link": "https://www.spiegel.de/panorama/rheinland-pfalz-waldbrand-im-westerwald-teil-von-gemeinde-evakuiert-a-39e688ce-142f-41a1-b1fb-62a9b692d6ba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T16:44:00+00:00"
-    },
-    {
       "titel": "Überblick: Waldbrände in Deutschland",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T16:40:31+00:00"
     },
     {
-      "titel": "Frauen in Afghanistan: Tagebuch aus Herat",
-      "link": "https://www.spiegel.de/ausland/frauen-in-afghanistan-tagebuch-aus-herat-a-af3a203b-92fb-4e2b-9fc4-4cc55e98c7e3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T16:13:00+00:00"
-    },
-    {
-      "titel": "Rumänien: Umstrittene Pferdemärkte zwischen Tradition und Seuchenschutz - SPIEGEL TV für Arte Re",
-      "link": "https://www.spiegel.de/ausland/rumaenien-umstrittene-pferdemaerkte-zwischen-tradition-und-seuchenschutz-spiegel-tv-fuer-arte-re-a-4f30d372-8d25-4de6-aa12-651a3497d457#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T16:12:00+00:00"
-    },
-    {
       "titel": "Waldbrand im Hohen Venn: Aktuell keine Evakuierungen in Monschau geplant",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T16:05:13+00:00"
-    },
-    {
-      "titel": "Reit-WM in Aachen: Michael Jung holt WM-Gold mit Chipmunk in der Vielseitigkeit",
-      "link": "https://www.spiegel.de/sport/reit-wm-in-aachen-michael-jung-holt-wm-gold-mit-chipmunk-in-der-vielseitigkeit-a-95d88131-d477-4ec3-84be-407508571071#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T15:43:00+00:00"
-    },
-    {
-      "titel": "Griechenland: Zwei Tote bei Waldbränden auf Insel Salamis",
-      "link": "https://www.spiegel.de/panorama/griechenland-zwei-tote-bei-waldbraenden-auf-insel-salamis-a-497d145d-a49e-4c0e-abac-b0f49145f485#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T15:27:00+00:00"
     },
     {
       "titel": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
@@ -139,12 +151,6 @@
       "veroeffentlicht": "2026-08-16T13:09:33+00:00"
     },
     {
-      "titel": "Kritik an Staat und Betreibern nach Fährunglück mit 80 Toten in Simbabwe",
-      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-faehrunglueck-kariba-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T13:09:10+00:00"
-    },
-    {
       "titel": "Reit-WM: Wenn Pferd und Reiter eins werden",
       "link": "https://www.sueddeutsche.de/sport/reit-wm-vielseitigkeit-michael-jung-chipmunk-weltmeister-li.3532240",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/moliere-menschenfeind-salzburger-festspiele-jette-steckel-thalia-theater-li.3531553",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T12:52:45+00:00"
-    },
-    {
-      "titel": "Volksbühne Berlin: Kulturkampf im Wasser",
-      "link": "https://www.sueddeutsche.de/kultur/volksbad-berlin-pool-volksbuehne-streit-li.3531958",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T12:48:46+00:00"
     }
   ]
 }
