@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-16T05:44:39+00:00",
+  "aktualisiert": "2026-08-16T06:15:25+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Willi Buisson, Ex-Vorstandsmitglied des FC Bayern München: Aktiver Widerstand gegen Hitler",
+      "link": "https://www.spiegel.de/sport/willi-buisson-ex-vorstandsmitglied-des-fc-bayern-muenchen-ein-apotheker-gegen-hitler-a-bad587a1-76d8-4abe-9502-1081b3c2d4ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T06:10:00+00:00"
+    },
+    {
+      "titel": "Hochbetrieb an Bergseen: Wenn Erholung zur Belastung für die Natur wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/overtourism-bergseen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T06:02:35+00:00"
+    },
+    {
+      "titel": "Warum sind Luxusdüfte so teuer?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/parfum-luxus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T05:46:13+00:00"
+    },
     {
       "titel": "Absage von Volksbad-Veranstaltung für Schwarze: Eine verlogene Frage",
       "link": "https://www.spiegel.de/kultur/absage-von-volksbad-veranstaltung-fuer-schwarze-eine-verlogene-frage-a-1c296932-5385-47a0-93f7-29cf39d2b269#ref=rss",
@@ -73,12 +91,6 @@
       "veroeffentlicht": "2026-08-16T04:49:00+00:00"
     },
     {
-      "titel": "Gerti Tetzner: Der unterdrückte DDR-Roman erscheint erstmals",
-      "link": "https://www.spiegel.de/kultur/literatur/gerti-tetzner-der-unterdrueckte-ddr-roman-erscheint-erstmals-a-59f2eee3-9ebe-45fa-b4c4-8a6779256837#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T04:44:00+00:00"
-    },
-    {
       "titel": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
       "link": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html",
       "quelle": "Tagesschau",
@@ -115,22 +127,10 @@
       "veroeffentlicht": "2026-08-15T19:38:07+00:00"
     },
     {
-      "titel": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
-      "link": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T19:09:14+00:00"
-    },
-    {
       "titel": "FC Bayern: Musiala erleidet wohl Hitzschlag",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-fc-bayern-muenchen-musiala-rb-leipzig-hitze-testspiel-laimer-li.3531975",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T18:44:33+00:00"
-    },
-    {
-      "titel": "Feuer in NRW: \"Erste Hoffnung\" und Suche nach der Brandursache",
-      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T18:23:44+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
