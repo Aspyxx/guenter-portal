@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-16T11:58:11+00:00",
+  "aktualisiert": "2026-08-16T13:01:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Schlachtabfälle sorgen für stundenlange Sperrung der A33",
+      "link": "https://www.spiegel.de/panorama/schlachtabfaelle-sorgen-fuer-stundenlange-sperrung-der-a33-a-ee8f53ad-6791-4f65-bd31-55240f47c8a4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T12:57:00+00:00"
+    },
+    {
+      "titel": "Ceuta: Aufatmen nach Netzaufrufen – kein neuer Massenansturm",
+      "link": "https://www.spiegel.de/ausland/ceuta-aufatmen-nach-netzaufrufen-kein-neuer-massenansturm-a-ffac1006-31c7-4aa1-a24a-647212e62bf3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T12:53:00+00:00"
+    },
+    {
+      "titel": "Südlibanon: Israel meldet Tötung von Hisbollah-Kommandeur",
+      "link": "https://www.spiegel.de/ausland/suedlibanon-israel-meldet-toetung-von-hisbollah-kommandeur-a-66311952-0cb9-4e0d-92e3-d9c40bc2efd1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T12:36:00+00:00"
+    },
+    {
+      "titel": "Pangram, GPTZero – und Sie: Testen Sie, wie gut Sie KI-Texte erkennen",
+      "link": "https://www.spiegel.de/netzwelt/web/pangram-gptzero-und-sie-testen-sie-wie-gut-sie-ki-texte-erkennen-a-ec90cc74-6a4c-4410-af56-c3b52b87d230#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T12:34:00+00:00"
+    },
+    {
+      "titel": "Schweiz: Eine Tote und zwölf Verletzte bei Unfall mit Pferdekutsche",
+      "link": "https://www.spiegel.de/panorama/schweiz-eine-tote-und-zwoelf-verletzte-bei-unfall-mit-pferdekutsche-a-7a99291a-1388-4d18-a5fe-a4e3f1b6c2df#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T12:27:00+00:00"
+    },
+    {
+      "titel": "Sahra Wagenknecht: Die Antifaschistin von einst wird zum Helferlein der Rechtsextremen",
+      "link": "https://www.sueddeutsche.de/meinung/kommentar-wagenknecht-hoecke-afd-bsw-li.3532073",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T12:22:11+00:00"
+    },
+    {
+      "titel": "Leute: Tausende Fans singen für Bonnie Tyler",
+      "link": "https://www.sueddeutsche.de/panorama/bonnie-tyler-promis-alexander-zverev-desiree-nick-navid-kermani-li.3531542",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T12:16:40+00:00"
+    },
+    {
+      "titel": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T12:02:04+00:00"
+    },
+    {
+      "titel": "Kochelsee: Fünf erschöpfte SUP-Paddler nachts aus See gerettet",
+      "link": "https://www.spiegel.de/panorama/kochelsee-fuenf-erschoepfte-sup-paddler-nachts-aus-see-gerettet-a-45c8fb0e-76a1-4e29-b913-54d2d29ed636#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T11:56:00+00:00"
+    },
+    {
+      "titel": "Soziologie: Jason Ardays Tod löst Bestürzung und eine Rassismusdebatte aus",
+      "link": "https://www.sueddeutsche.de/wissen/cambridge-professor-jason-arday-tod-plagiatsvorwuerfe-li.3532096",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T11:51:10+00:00"
+    },
     {
       "titel": "Hessen: Tiere bei Großbrand auf Reitanlage gerettet",
       "link": "https://www.spiegel.de/panorama/hessen-tiere-bei-grossbrand-auf-reitanlage-gerettet-a-8d3e6dae-6719-4152-a3ca-ff1e51e1c8f3#ref=rss",
@@ -49,52 +109,16 @@
       "veroeffentlicht": "2026-08-16T11:31:57+00:00"
     },
     {
-      "titel": "Griechenland: 17-Jähriger erleidet tödlichen Stromschlag unter Dusche",
-      "link": "https://www.spiegel.de/panorama/griechenland-17-jaehriger-erleidet-toedlichen-stromschlag-unter-dusche-a-9c515f05-762b-4f3a-bac2-81a1fd9d47f8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T11:19:00+00:00"
-    },
-    {
       "titel": "Höhere Zinsen: Lohnt sich Sparen auf dem Tagesgeldkonto wieder?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/tagesgeld-sparen-lockangebote-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T11:07:56+00:00"
     },
     {
-      "titel": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar",
-      "link": "https://www.spiegel.de/ausland/iran-teheran-verlangt-zugang-zu-vermissten-piloten-in-katar-a-89497fd5-3da6-4a3b-8888-57bd5e6740f9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T10:44:00+00:00"
-    },
-    {
-      "titel": "Freiburg: Angler retten Fische aus fast ausgetrocknetem Kanal",
-      "link": "https://www.spiegel.de/panorama/freiburg-angler-retten-fische-aus-fast-ausgetrocknetem-kanal-a-fc8f98e8-4be9-4cff-b2cf-8a396b60ceab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T10:33:00+00:00"
-    },
-    {
-      "titel": "Höxter: Nach Tod ihres Sohnes – Familie muss nach Organspende Deutschland verlassen",
-      "link": "https://www.spiegel.de/panorama/hoexter-nach-tod-ihres-sohnes-familie-muss-nach-organspende-deutschland-verlassen-a-f7bc9e7a-6082-4df2-92ba-329d16712461#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T10:30:00+00:00"
-    },
-    {
       "titel": "USA: Alaskas Rohstoffe abbauen - aber wie?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-abbau-rohstoffe-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T10:20:49+00:00"
-    },
-    {
-      "titel": "China schickt wieder Containerschiffe durch die Arktis nach Europa",
-      "link": "https://www.spiegel.de/ausland/china-schickt-wieder-containerschiffe-durch-die-arktis-nach-europa-a-40350342-75f9-4bed-a33e-4b2e35e08d35#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T10:03:00+00:00"
-    },
-    {
-      "titel": "»Red Dead Redemption 2«: Platz 3 im SPIEGEL Games-Kanon",
-      "link": "https://www.spiegel.de/kultur/red-dead-redemption-2-platz-3-im-spiegel-games-kanon-a-87781474-515e-4d47-9f01-0dffa104e694#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T10:00:00+00:00"
     },
     {
       "titel": "Amanal Petros sichert sich EM-Gold im Marathon",
@@ -109,7 +133,7 @@
       "veroeffentlicht": "2026-08-16T09:43:04+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Amanal Petros gewinnt Gold im Marathon",
+      "titel": "Gold für Amanal Petros: Das Gesicht des deutschen Marathons",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-marathon-petros-gold-li.3532154",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T09:39:18+00:00"
@@ -125,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/kultur/reinhard-strecker-aufarbeitung-nazijustiz-brd-li.3532066",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T08:41:32+00:00"
-    },
-    {
-      "titel": "NATO-Kampfjet schießt Drohne über Rumänien ab",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T08:35:21+00:00"
     },
     {
       "titel": "Boeing 787 der Vietnam Airlines: Probleme beim Start, Schäden nach der Landung: Kritische Situation am Münchner Flughafen",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-weber-speer-gold-thumm-silber-li.3532003",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T07:48:55+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Wie wir in Zukunft das Internet nutzen werden",
-      "link": "https://www.sueddeutsche.de/medien/google-chat-gpt-suche-alphabet-internet-li.3527585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T06:24:27+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-rumaenien-drohne-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T05:23:00+00:00"
-    },
-    {
-      "titel": "Weltrekord von Johannes Liebmann: Ein 19-jähriger Abiturient schwimmt allen davon",
-      "link": "https://www.sueddeutsche.de/sport/schwimmen-schwimm-em-johannes-liebmann-weltrekord-1500-meter-paris-li.3531981",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T21:42:23+00:00"
     }
   ]
 }
