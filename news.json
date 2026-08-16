@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-16T08:01:56+00:00",
+  "aktualisiert": "2026-08-16T08:48:34+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "NATO-Kampfjet schießt Drohne über Rumänien ab",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T08:35:21+00:00"
+    },
+    {
+      "titel": "Grenzregion bei Monschau in NRW: Waldbrand in Belgien rückt immer näher",
+      "link": "https://www.tagesschau.de/inland/belgien-waldbrand-hohes-venn-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T08:31:50+00:00"
+    },
+    {
+      "titel": "Münchner Flughafen: Flugzeug fällt durch langen Take-off auf – und kehrt später zurück",
+      "link": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-vietnam-airlines-start-li.3531950",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T08:30:00+00:00"
+    },
+    {
+      "titel": "Hitzewelle: Endlich Abkühlung, aber Unwetter drohen",
+      "link": "https://www.sueddeutsche.de/panorama/hitze-abkuehlung-gewitter-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T08:27:53+00:00"
+    },
+    {
+      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T08:26:04+00:00"
+    },
+    {
+      "titel": "Hamburg: 24-Jähriger mit 2,27 Promille sorgt für S-Bahn-Streckensperrung",
+      "link": "https://www.spiegel.de/panorama/justiz/hamburg-24-jaehriger-mit-2-27-promille-sorgt-fuer-s-bahn-streckensperrung-a-a7680423-c4ee-403a-98f7-edf08444fad9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T08:03:00+00:00"
+    },
+    {
+      "titel": "Speerwurf-Gold für Julian Weber: Im letzten Wurf passt endlich alles",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-weber-speer-gold-thumm-silber-li.3532003",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T07:48:55+00:00"
+    },
     {
       "titel": "Nationalparks in den USA: Yosemite erlebt Verkehrschaos und Personalmangel",
       "link": "https://www.spiegel.de/ausland/nationalparks-in-den-usa-yosemite-erlebt-verkehrschaos-und-personalmangel-a-f4f8e05f-201a-4a33-99b4-5b963f1f5eab#ref=rss",
@@ -49,6 +91,12 @@
       "veroeffentlicht": "2026-08-16T06:43:00+00:00"
     },
     {
+      "titel": "Künstliche Intelligenz: Wie wir in Zukunft das Internet nutzen werden",
+      "link": "https://www.sueddeutsche.de/medien/google-chat-gpt-suche-alphabet-internet-li.3527585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T06:24:27+00:00"
+    },
+    {
       "titel": "Cannabis-Gesetz: Drogenfahnder kritisiert Folgen der Teilentkriminalisierung",
       "link": "https://www.spiegel.de/panorama/justiz/cannabis-gesetz-drogenfahnder-kritisiert-folgen-der-teilentkriminalisierung-a-62242cea-120f-43ca-a369-11b77a13be06#ref=rss",
       "quelle": "SPIEGEL",
@@ -85,28 +133,10 @@
       "veroeffentlicht": "2026-08-16T05:41:00+00:00"
     },
     {
-      "titel": "Kairo: Eine Palästinenserin eröffnet ein Restaurant für ihre Heimat - nur gute Nachrichten",
-      "link": "https://www.spiegel.de/ausland/kairo-eine-palaestinenserin-eroeffnet-ein-restaurant-fuer-ihre-heimat-nur-gute-nachrichten-a-f127ea4d-9611-4c63-a93d-c4b6fabedd34#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T05:39:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-rumaenien-drohne-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T05:23:00+00:00"
-    },
-    {
-      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T05:13:23+00:00"
-    },
-    {
-      "titel": "Grenzregion bei Monschau in NRW: Waldbrand in Belgien rückt immer näher",
-      "link": "https://www.tagesschau.de/inland/belgien-waldbrand-hohes-venn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T05:08:20+00:00"
     },
     {
       "titel": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
@@ -115,10 +145,10 @@
       "veroeffentlicht": "2026-08-16T04:03:05+00:00"
     },
     {
-      "titel": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
-      "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T02:54:06+00:00"
+      "titel": "Weltrekord von Johannes Liebmann: Ein 19-jähriger Abiturient schwimmt allen davon",
+      "link": "https://www.sueddeutsche.de/sport/schwimmen-schwimm-em-johannes-liebmann-weltrekord-1500-meter-paris-li.3531981",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T21:42:23+00:00"
     },
     {
       "titel": "Supercup: Die Bayern gewinnen auch den ersten Titel der neuen Saison",
@@ -133,40 +163,10 @@
       "veroeffentlicht": "2026-08-15T18:44:33+00:00"
     },
     {
-      "titel": "Münchner Flughafen: Flugzeug fällt durch langen Take-off auf – und kehrt später zurück",
-      "link": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-vietnam-airlines-start-li.3531950",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T16:23:37+00:00"
-    },
-    {
       "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-staffel-4x100-meter-gina-lueckenkemper-sophia-junk-birmingham-li.3531917",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T14:52:57+00:00"
-    },
-    {
-      "titel": "Hitzewelle: Bis zu 45 Grad: Verdi-Befragung in Pflegeheimen zeigt extreme Belastung",
-      "link": "https://www.sueddeutsche.de/panorama/hitze-pflegeheime-befragung-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T13:30:00+00:00"
-    },
-    {
-      "titel": "Reit-WM in Aachen: „Pferde können mit hohen Temperaturen besser umgehen“",
-      "link": "https://www.sueddeutsche.de/sport/reiten-wm-aachen-pferde-hitze-li.3531616",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T10:07:36+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: AfD-Politiker attackiert 14-Jährigen",
-      "link": "https://www.sueddeutsche.de/politik/afd-politiker-gewalt-jugendliche-li.3531808",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T08:50:35+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Der Goldsprinter aus Germany – verfolgt von einem Schatten",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-ansah-gold-200-meter-sprint-doping-li.3531790",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T08:16:52+00:00"
     }
   ]
 }
