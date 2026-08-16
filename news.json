@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-16T10:02:31+00:00",
+  "aktualisiert": "2026-08-16T10:42:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Freiburg: Angler retten Fische aus fast ausgetrocknetem Kanal",
+      "link": "https://www.spiegel.de/panorama/freiburg-angler-retten-fische-aus-fast-ausgetrocknetem-kanal-a-fc8f98e8-4be9-4cff-b2cf-8a396b60ceab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T10:33:00+00:00"
+    },
+    {
+      "titel": "Höxter: Nach Tod ihres Sohnes – Familie muss nach Organspende Deutschland verlassen",
+      "link": "https://www.spiegel.de/panorama/hoexter-nach-tod-ihres-sohnes-familie-muss-nach-organspende-deutschland-verlassen-a-f7bc9e7a-6082-4df2-92ba-329d16712461#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T10:30:00+00:00"
+    },
+    {
+      "titel": "Ungarn: Zwölf Tote bei Busunglück – Fahrer wohl eingeschlafen",
+      "link": "https://www.sueddeutsche.de/panorama/reisebus-ungarn-unfall-tote-polen-pilger-li.3532162",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T10:27:01+00:00"
+    },
+    {
+      "titel": "USA: Alaskas Rohstoffe abbauen - aber wie?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-abbau-rohstoffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T10:20:49+00:00"
+    },
+    {
+      "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
+      "link": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T10:16:10+00:00"
+    },
+    {
+      "titel": "China schickt wieder Containerschiffe durch die Arktis nach Europa",
+      "link": "https://www.spiegel.de/ausland/china-schickt-wieder-containerschiffe-durch-die-arktis-nach-europa-a-40350342-75f9-4bed-a33e-4b2e35e08d35#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T10:03:00+00:00"
+    },
+    {
+      "titel": "»Red Dead Redemption 2«: Platz 3 im SPIEGEL Games-Kanon",
+      "link": "https://www.spiegel.de/kultur/red-dead-redemption-2-platz-3-im-spiegel-games-kanon-a-87781474-515e-4d47-9f01-0dffa104e694#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T10:00:00+00:00"
+    },
     {
       "titel": "Ukraine: Tote und Verletzte bei gegenseitigen Drohnenangriffen in der Nacht",
       "link": "https://www.spiegel.de/ausland/ukraine-tote-und-verletzte-bei-gegenseitigen-drohnenangriffen-in-der-nacht-a-ba0325bd-9a50-4637-bf34-73b65c3d86f1#ref=rss",
@@ -61,24 +103,6 @@
       "veroeffentlicht": "2026-08-16T09:18:50+00:00"
     },
     {
-      "titel": "Apple: Trump-Regierung will Chipkäufe in China unterbinden",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/apple-trump-regierung-will-chipkaeufe-in-china-unterbinden-a-a3ebee24-b91e-44aa-8828-8b8b1d1ca104#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T09:18:00+00:00"
-    },
-    {
-      "titel": "Nordrhein-Westfalen: Lage in Monschau hat sich entspannt – Feuerwehr fährt Einsatz zurück",
-      "link": "https://www.spiegel.de/panorama/nordrhein-westfalen-lage-in-monschau-hat-sich-entspannt-feuerwehr-faehrt-einsatz-zurueck-a-c36b5219-bd2c-4f4e-bbd2-ed3263f565f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T08:51:00+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Julian Weber im Speerwurf mit einem Sieg gegen alle Wahrscheinlichkeit",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-julian-weber-im-speerwurf-mit-einem-sieg-gegen-alle-wahrscheinlichkeit-a-c1fb2830-b882-46af-9dd8-c11618b1b34c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T08:51:00+00:00"
-    },
-    {
       "titel": "NATO-Kampfjet schießt Drohne über Rumänien ab",
       "link": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
       "quelle": "Tagesschau",
@@ -109,12 +133,6 @@
       "veroeffentlicht": "2026-08-16T08:26:04+00:00"
     },
     {
-      "titel": "Hamburg: 24-Jähriger mit 2,27 Promille sorgt für S-Bahn-Streckensperrung",
-      "link": "https://www.spiegel.de/panorama/justiz/hamburg-24-jaehriger-mit-2-27-promille-sorgt-fuer-s-bahn-streckensperrung-a-a7680423-c4ee-403a-98f7-edf08444fad9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T08:03:00+00:00"
-    },
-    {
       "titel": "Speerwurf-Gold für Julian Weber: Im letzten Wurf passt endlich alles",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-weber-speer-gold-thumm-silber-li.3532003",
       "quelle": "Süddeutsche",
@@ -127,22 +145,10 @@
       "veroeffentlicht": "2026-08-16T07:23:29+00:00"
     },
     {
-      "titel": "Neue Lage im Heimatland: Immer mehr Syrer verlieren Schutzstatus",
-      "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T06:59:34+00:00"
-    },
-    {
       "titel": "Künstliche Intelligenz: Wie wir in Zukunft das Internet nutzen werden",
       "link": "https://www.sueddeutsche.de/medien/google-chat-gpt-suche-alphabet-internet-li.3527585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T06:24:27+00:00"
-    },
-    {
-      "titel": "Hochbetrieb an Bergseen: Wenn Erholung zur Belastung für die Natur wird",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/overtourism-bergseen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T06:02:35+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/supercup-fc-bayern-vfl-wolfsburg-frauenfussball-stine-johannes-eigentor-li.3531307",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T20:09:36+00:00"
-    },
-    {
-      "titel": "FC Bayern: Musiala erleidet wohl Hitzschlag",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-fc-bayern-muenchen-musiala-rb-leipzig-hitze-testspiel-laimer-li.3531975",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T18:44:33+00:00"
     }
   ]
 }
