@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-16T13:45:57+00:00",
+  "aktualisiert": "2026-08-16T14:41:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,34 @@
   },
   "meldungen": [
     {
+      "titel": "Lösungsorientierter Journalismus: Wie ich versuchte, eine frohe Botschaft aus Amerika zu senden",
+      "link": "https://www.spiegel.de/panorama/loesungsorientierter-journalismus-wie-ich-versuchte-eine-frohe-botschaft-aus-amerika-zu-senden-a-0bd2de85-a4d1-41a2-8330-30aafb9a5799#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T14:11:00+00:00"
+    },
+    {
+      "titel": "Reit-WM in Aachen: Warum Freiwillige beim Turnier Pferdemist sammeln",
+      "link": "https://www.spiegel.de/sport/reit-wm-in-aachen-warum-freiwillige-beim-turnier-pferdemist-sammeln-a-58c5d271-8511-4ca5-87fb-90ef522bee07#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T14:08:00+00:00"
+    },
+    {
       "titel": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T13:39:55+00:00"
+      "veroeffentlicht": "2026-08-16T14:01:13+00:00"
+    },
+    {
+      "titel": "Adam Scott: Tochter sieht peinliche »Office«-Bewerbung im Schauspielunterricht",
+      "link": "https://www.spiegel.de/kultur/tv/adam-scott-tochter-sieht-peinliche-office-bewerbung-im-schauspielunterricht-a-c884456b-861b-421a-9db5-9ed3e67f451c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T13:58:00+00:00"
+    },
+    {
+      "titel": "Rente mit 63: Warum die Rentenpläne für Bärbel Bas und Lars Klingbeil gefährlich sind",
+      "link": "https://www.spiegel.de/politik/deutschland/rente-mit-63-warum-die-rentenplaene-fuer-baerbel-bas-und-lars-klingbeil-gefaehrlich-sind-a-009d1497-f2ca-4630-91b2-02705cc38f19#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T13:54:00+00:00"
     },
     {
       "titel": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung",
@@ -55,18 +79,6 @@
       "veroeffentlicht": "2026-08-16T12:36:00+00:00"
     },
     {
-      "titel": "Pangram, GPTZero – und Sie: Testen Sie, wie gut Sie KI-Texte erkennen",
-      "link": "https://www.spiegel.de/netzwelt/web/pangram-gptzero-und-sie-testen-sie-wie-gut-sie-ki-texte-erkennen-a-ec90cc74-6a4c-4410-af56-c3b52b87d230#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T12:34:00+00:00"
-    },
-    {
-      "titel": "Schweiz: Eine Tote und zwölf Verletzte bei Unfall mit Pferdekutsche",
-      "link": "https://www.spiegel.de/panorama/schweiz-eine-tote-und-zwoelf-verletzte-bei-unfall-mit-pferdekutsche-a-7a99291a-1388-4d18-a5fe-a4e3f1b6c2df#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T12:27:00+00:00"
-    },
-    {
       "titel": "Sahra Wagenknecht: Die Antifaschistin von einst wird zum Helferlein der Rechtsextremen",
       "link": "https://www.sueddeutsche.de/meinung/kommentar-wagenknecht-hoecke-afd-bsw-li.3532073",
       "quelle": "Süddeutsche",
@@ -91,22 +103,10 @@
       "veroeffentlicht": "2026-08-16T12:02:04+00:00"
     },
     {
-      "titel": "Kochelsee: Fünf erschöpfte SUP-Paddler nachts aus See gerettet",
-      "link": "https://www.spiegel.de/panorama/kochelsee-fuenf-erschoepfte-sup-paddler-nachts-aus-see-gerettet-a-45c8fb0e-76a1-4e29-b913-54d2d29ed636#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T11:56:00+00:00"
-    },
-    {
       "titel": "Soziologie: Jason Ardays Tod löst Bestürzung und eine Rassismusdebatte aus",
       "link": "https://www.sueddeutsche.de/wissen/cambridge-professor-jason-arday-tod-plagiatsvorwuerfe-li.3532096",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T11:51:10+00:00"
-    },
-    {
-      "titel": "Hessen: Tiere bei Großbrand auf Reitanlage gerettet",
-      "link": "https://www.spiegel.de/panorama/hessen-tiere-bei-grossbrand-auf-reitanlage-gerettet-a-8d3e6dae-6719-4152-a3ca-ff1e51e1c8f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T11:51:00+00:00"
     },
     {
       "titel": "Spanische Exklave: Ceuta - Europas verschlossene Tür",
@@ -125,6 +125,12 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T11:31:57+00:00"
+    },
+    {
+      "titel": "Nachruf: Verborgenes sichtbar machen",
+      "link": "https://www.sueddeutsche.de/kultur/helmut-lethen-nachruf-tod-kulturwissenschaftler-li.3532067",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T11:21:57+00:00"
     },
     {
       "titel": "Höhere Zinsen: Lohnt sich Sparen auf dem Tagesgeldkonto wieder?",
@@ -157,16 +163,10 @@
       "veroeffentlicht": "2026-08-16T09:39:18+00:00"
     },
     {
-      "titel": "NS-Vergangenheit: Jäger der Nazi-Juristen",
-      "link": "https://www.sueddeutsche.de/kultur/reinhard-strecker-aufarbeitung-nazijustiz-brd-li.3532066",
+      "titel": "IW-Studie: Deutsche Unternehmen machen Bogen um die USA",
+      "link": "https://www.sueddeutsche.de/wirtschaft/firmen-usa-li.3532115",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T08:41:32+00:00"
-    },
-    {
-      "titel": "Boeing 787 der Vietnam Airlines: Probleme beim Start, Schäden nach der Landung: Kritische Situation am Münchner Flughafen",
-      "link": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-vietnam-airlines-start-li.3531950",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T08:30:00+00:00"
+      "veroeffentlicht": "2026-08-16T08:44:28+00:00"
     }
   ]
 }
