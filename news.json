@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-16T20:39:52+00:00",
+  "aktualisiert": "2026-08-16T20:59:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Leichtathletik-EM: Julia Ulbricht gewinnt sensationell Silber im Speerwurf",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-julia-ulbricht-gewinnt-sensationell-silber-im-speerwurf-a-cdc7a9ac-9389-4cf9-9e00-ceb178a7aeb8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T20:47:00+00:00"
+    },
+    {
+      "titel": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
+      "link": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T20:24:50+00:00"
+    },
     {
       "titel": "Leichtathletik-EM: Frederik Ruppert läuft zu Gold über 3000 Meter Hindernis",
       "link": "https://www.spiegel.de/sport/leichtathletik-em-frederik-ruppert-laeuft-zu-gold-ueber-3000-meter-hindernis-a-850a7e51-38c8-432a-9586-3b982ff720dd#ref=rss",
@@ -79,12 +91,6 @@
       "veroeffentlicht": "2026-08-16T18:03:56+00:00"
     },
     {
-      "titel": "Locarno Film Festival: An diesen Filmen zeigt sich, wie staatliche Willkür funktioniert",
-      "link": "https://www.spiegel.de/kultur/kino/locarno-film-festival-an-diesen-filmen-zeigt-sich-wie-staatliche-willkuer-funktioniert-a-71fa4f2b-beff-468d-97ed-a3bfcf628271#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T17:56:00+00:00"
-    },
-    {
       "titel": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
       "quelle": "Tagesschau",
@@ -119,12 +125,6 @@
       "link": "https://www.sueddeutsche.de/meinung/streiflicht-spitzbergen-ordnungsstrafen-nordpol-li.3532111",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T15:10:18+00:00"
-    },
-    {
-      "titel": "Nach der Hitze gibt es in Teilen Deutschlands Abkühlung und Regen",
-      "link": "https://www.tagesschau.de/wetter/wetterthema/wetterumschwung-gewitter-hitze-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T15:06:30+00:00"
     },
     {
       "titel": "Sachsen-Anhalt: AfD-Politiker attackiert 14-Jährigen",
