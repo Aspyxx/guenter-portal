@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-16T07:19:13+00:00",
+  "aktualisiert": "2026-08-16T08:01:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nationalparks in den USA: Yosemite erlebt Verkehrschaos und Personalmangel",
+      "link": "https://www.spiegel.de/ausland/nationalparks-in-den-usa-yosemite-erlebt-verkehrschaos-und-personalmangel-a-f4f8e05f-201a-4a33-99b4-5b963f1f5eab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T07:33:00+00:00"
+    },
+    {
+      "titel": "Reifenteile auf dem Rollfeld, manövrierunfähige Maschine – Betrieb am Münchner Flughafen wieder normal",
+      "link": "https://www.spiegel.de/panorama/reifenteile-auf-dem-rollfeld-manoevrierunfaehige-maschine-betrieb-am-muenchner-flughafen-wieder-normal-a-f38713c1-6d77-4eb1-8d54-f6cbd34764ec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T07:28:00+00:00"
+    },
+    {
+      "titel": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
+      "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T07:23:29+00:00"
+    },
     {
       "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
       "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
@@ -73,22 +91,10 @@
       "veroeffentlicht": "2026-08-16T05:39:00+00:00"
     },
     {
-      "titel": "Rumänien: Nato-Kampfjet schießt Drohne ab",
-      "link": "https://www.spiegel.de/ausland/rumaenien-nato-kampfjet-schiesst-drohne-ab-a-97a5c218-8846-432a-a9ae-b63c2965247b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T05:31:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-rumaenien-drohne-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T05:23:00+00:00"
-    },
-    {
-      "titel": "Abba: 50 Jahre »Dancing Queen« – wie gut kennen Sie das Lied? SPIEGEL-Musikquiz",
-      "link": "https://www.spiegel.de/kultur/musik/abba-50-jahre-dancing-queen-wie-gut-kennen-sie-das-lied-spiegel-musikquiz-a-69453054-b3ce-45d8-bfc0-d86935212b38#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T05:15:00+00:00"
     },
     {
       "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
@@ -113,12 +119,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T02:54:06+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
-      "link": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T20:44:39+00:00"
     },
     {
       "titel": "Supercup: Die Bayern gewinnen auch den ersten Titel der neuen Saison",
