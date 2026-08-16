@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-16T19:35:21+00:00",
+  "aktualisiert": "2026-08-16T19:56:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
+      "link": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T19:44:47+00:00"
+    },
+    {
+      "titel": "Russland: Diese Codes verwenden Soldaten, wenn sie vom Tod sprechen",
+      "link": "https://www.spiegel.de/ausland/russland-diese-codes-verwenden-soldaten-wenn-sie-vom-tod-sprechen-a-4f75d5b1-9842-46ae-8a6f-c8d6fb1f1330#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T19:39:00+00:00"
+    },
+    {
+      "titel": "Gaza-Friedensplan: US-Gesandter Jared Kushner berät mit Hamas-Spitze",
+      "link": "https://www.spiegel.de/ausland/gaza-friedensplan-us-gesandter-jared-kushner-beraet-mit-hamas-spitze-a-d9f0ebe1-bf15-4724-abc3-f75c2b5134d5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T19:36:00+00:00"
+    },
     {
       "titel": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
       "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
@@ -67,22 +85,10 @@
       "veroeffentlicht": "2026-08-16T17:20:00+00:00"
     },
     {
-      "titel": "Ex-Bundestrainerin Martina Voss-Tecklenburg trainiert künftig FC Zürich",
-      "link": "https://www.spiegel.de/sport/fussball/ex-bundestrainerin-martina-voss-tecklenburg-trainiert-kuenftig-fc-zuerich-a-da7adbc1-af1d-44bc-95ef-11deccfab843#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T17:18:00+00:00"
-    },
-    {
       "titel": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T17:10:26+00:00"
-    },
-    {
-      "titel": "Community Shield: Arsenal siegt, Kai Havertz vermiest Enzo Maresca das Debüt",
-      "link": "https://www.spiegel.de/sport/fussball/community-shield-arsenal-siegt-kai-havertz-vermiest-enzo-maresca-das-debuet-a-0355a7f3-60b0-438f-85dc-cc181e401c22#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T16:46:00+00:00"
     },
     {
       "titel": "Überblick: Waldbrände in Deutschland",
@@ -143,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-vorbereitung-zeltvergabe-streit-transparenz-wirtesprecher-peter-inselkammer-li.3529684",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T14:17:27+00:00"
-    },
-    {
-      "titel": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T14:01:13+00:00"
     },
     {
       "titel": "Reit-WM: Wenn Pferd und Reiter eins werden",
