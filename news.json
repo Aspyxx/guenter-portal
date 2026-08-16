@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-16T18:48:16+00:00",
+  "aktualisiert": "2026-08-16T19:35:21+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T18:55:58+00:00"
+    },
     {
       "titel": "Rheinland-Pfalz: Waldbrand im Westerwald – Evakuierung wieder beendet",
       "link": "https://www.spiegel.de/panorama/rheinland-pfalz-waldbrand-im-westerwald-evakuierung-wieder-beendet-a-40b9c95c-0ca1-4166-8e40-91899ff72148#ref=rss",
@@ -143,12 +149,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T14:01:13+00:00"
-    },
-    {
-      "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
-      "link": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T13:09:33+00:00"
     },
     {
       "titel": "Reit-WM: Wenn Pferd und Reiter eins werden",
