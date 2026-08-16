@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-16T09:43:43+00:00",
+  "aktualisiert": "2026-08-16T10:02:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ukraine: Tote und Verletzte bei gegenseitigen Drohnenangriffen in der Nacht",
+      "link": "https://www.spiegel.de/ausland/ukraine-tote-und-verletzte-bei-gegenseitigen-drohnenangriffen-in-der-nacht-a-ba0325bd-9a50-4637-bf34-73b65c3d86f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T09:50:00+00:00"
+    },
+    {
+      "titel": "Amanal Petros sichert sich EM-Gold im Marathon",
+      "link": "https://www.tagesschau.de/sport/leichtathletik-em-marathon-goldmedaille-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T09:46:47+00:00"
+    },
+    {
+      "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T09:43:04+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Amanal Petros gewinnt Gold im Marathon",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-marathon-petros-gold-li.3532154",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T09:39:18+00:00"
+    },
     {
       "titel": "Was Matthew Rhys dachte, als er sich in Co-Star Keri Russell verliebte? »Oh nein«",
       "link": "https://www.spiegel.de/kultur/tv/was-matthew-rhys-dachte-als-er-sich-in-co-star-keri-russell-verliebte-oh-nein-a-9e45d9d5-1255-4b5f-9e59-1849fb7dde09#ref=rss",
@@ -97,22 +121,10 @@
       "veroeffentlicht": "2026-08-16T07:48:55+00:00"
     },
     {
-      "titel": "Nationalparks in den USA: Yosemite erlebt Verkehrschaos und Personalmangel",
-      "link": "https://www.spiegel.de/ausland/nationalparks-in-den-usa-yosemite-erlebt-verkehrschaos-und-personalmangel-a-f4f8e05f-201a-4a33-99b4-5b963f1f5eab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T07:33:00+00:00"
-    },
-    {
       "titel": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
       "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T07:23:29+00:00"
-    },
-    {
-      "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T07:02:40+00:00"
     },
     {
       "titel": "Neue Lage im Heimatland: Immer mehr Syrer verlieren Schutzstatus",
@@ -131,12 +143,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/overtourism-bergseen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T06:02:35+00:00"
-    },
-    {
-      "titel": "Warum sind Luxusdüfte so teuer?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/parfum-luxus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T05:46:13+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/bundesliga-fc-bayern-muenchen-musiala-rb-leipzig-hitze-testspiel-laimer-li.3531975",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T18:44:33+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-staffel-4x100-meter-gina-lueckenkemper-sophia-junk-birmingham-li.3531917",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T14:52:57+00:00"
     }
   ]
 }
