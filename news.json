@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-16T13:01:49+00:00",
+  "aktualisiert": "2026-08-16T13:45:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T13:39:55+00:00"
+    },
+    {
+      "titel": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung",
+      "link": "https://www.spiegel.de/ausland/iran-mann-soll-polizisten-bei-protesten-ueberfahren-haben-hinrichtung-a-c24dd1be-ee15-404e-91a0-c386c013a98a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T13:23:00+00:00"
+    },
+    {
+      "titel": "Berliner Wahl zum Abgeordnetenhaus: Angriffe auf Wahlplakate und Parteimitarbeiter",
+      "link": "https://www.spiegel.de/politik/berliner-wahl-zum-abgeordnetenhaus-angriffe-auf-wahlplakate-und-parteimitarbeiter-a-b29e0fff-53a9-4fe1-ac1c-12147df8f069#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T13:15:00+00:00"
+    },
+    {
+      "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
+      "link": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T13:09:33+00:00"
+    },
+    {
+      "titel": "Kritik an Staat und Betreibern nach Fährunglück mit 80 Toten in Simbabwe",
+      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-faehrunglueck-kariba-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T13:09:10+00:00"
+    },
     {
       "titel": "Schlachtabfälle sorgen für stundenlange Sperrung der A33",
       "link": "https://www.spiegel.de/panorama/schlachtabfaelle-sorgen-fuer-stundenlange-sperrung-der-a33-a-ee8f53ad-6791-4f65-bd31-55240f47c8a4#ref=rss",
@@ -49,6 +79,12 @@
       "veroeffentlicht": "2026-08-16T12:16:40+00:00"
     },
     {
+      "titel": "FC Liverpool: Warum der Amazon-Gründer beim FC Liverpool einsteigt",
+      "link": "https://www.sueddeutsche.de/sport/premier-league-liverpool-bezog-amazon-einstieg-li.3531985",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T12:09:33+00:00"
+    },
+    {
       "titel": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
       "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
       "quelle": "Tagesschau",
@@ -79,28 +115,10 @@
       "veroeffentlicht": "2026-08-16T11:45:22+00:00"
     },
     {
-      "titel": "Nick Reiner darf Geld seiner ermordeten Eltern nicht für Gerichtskosten verwenden",
-      "link": "https://www.spiegel.de/panorama/leute/nick-reiner-darf-geld-seiner-ermordeten-eltern-nicht-fuer-gerichtskosten-verwenden-a-12bbc2bc-0ee3-4975-ae6b-d5c53d4b1d70#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T11:45:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T11:42:00+00:00"
-    },
-    {
       "titel": "Ungarn: Zwölf Tote bei Busunglück – Fahrer wohl eingeschlafen",
       "link": "https://www.sueddeutsche.de/panorama/reisebus-ungarn-unfall-tote-polen-pilger-li.3532162",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T11:33:58+00:00"
-    },
-    {
-      "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
-      "link": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T11:33:43+00:00"
     },
     {
       "titel": "Waldbrand im Hohen Venn: Aktuell keine Evakuierungen in Monschau geplant",
@@ -121,28 +139,22 @@
       "veroeffentlicht": "2026-08-16T10:20:49+00:00"
     },
     {
+      "titel": "Fraktionschefin Ebner-Steiner: Die mächtigste Person der bayerischen AfD",
+      "link": "https://www.sueddeutsche.de/bayern/afd-katrin-ebner-steiner-portraet-deggendorf-bayern-li.3530792",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T10:18:24+00:00"
+    },
+    {
       "titel": "Amanal Petros sichert sich EM-Gold im Marathon",
       "link": "https://www.tagesschau.de/sport/leichtathletik-em-marathon-goldmedaille-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T09:46:47+00:00"
     },
     {
-      "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T09:43:04+00:00"
-    },
-    {
       "titel": "Gold für Amanal Petros: Das Gesicht des deutschen Marathons",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-marathon-petros-gold-li.3532154",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T09:39:18+00:00"
-    },
-    {
-      "titel": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T09:18:50+00:00"
     },
     {
       "titel": "NS-Vergangenheit: Jäger der Nazi-Juristen",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-vietnam-airlines-start-li.3531950",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T08:30:00+00:00"
-    },
-    {
-      "titel": "Hitzewelle: Endlich Abkühlung, aber Unwetter drohen",
-      "link": "https://www.sueddeutsche.de/panorama/hitze-abkuehlung-gewitter-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T08:27:53+00:00"
-    },
-    {
-      "titel": "Speerwurf-Gold für Julian Weber: Im letzten Wurf passt endlich alles",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-weber-speer-gold-thumm-silber-li.3532003",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T07:48:55+00:00"
     }
   ]
 }
