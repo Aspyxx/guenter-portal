@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-08-16T18:51:37+00:00",
+  "aktualisiert": "2026-08-16T19:11:27+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+      "quelle": "Tagesschau",
+      "icon": "⛈️"
+    },
+    {
+      "rang": 2,
       "titel": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
-    },
-    {
-      "rang": 2,
-      "titel": "Aktuell keine Evakuierungen in Monschau geplant",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     },
     {
       "rang": 3,
