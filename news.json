@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-16T21:57:24+00:00",
+  "aktualisiert": "2026-08-16T22:38:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Monschau: 17 Häuser wegen Waldbrand im Hohen Venn evakuiert",
+      "link": "https://www.spiegel.de/panorama/monschau-17-haeuser-wegen-waldbrand-im-hohen-venn-evakuiert-a-bc07db55-d5f3-425e-85c7-7cbae1f2db11#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T22:16:00+00:00"
+    },
     {
       "titel": "Jason Arday: Zehntausende fordern Untersuchung nach Tod des Cambridge-Professors",
       "link": "https://www.spiegel.de/ausland/jason-arday-zehntausende-fordern-untersuchung-nach-tod-des-cambridge-professors-a-91ed68d9-090d-485b-9757-50fefc37f1ea#ref=rss",
@@ -71,12 +77,6 @@
       "link": "https://www.spiegel.de/ausland/gaza-friedensplan-us-gesandter-jared-kushner-beraet-mit-hamas-spitze-a-d9f0ebe1-bf15-4724-abc3-f75c2b5134d5#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T19:36:00+00:00"
-    },
-    {
-      "titel": "Rheinland-Pfalz: Waldbrand im Westerwald – Evakuierung wieder beendet",
-      "link": "https://www.spiegel.de/panorama/rheinland-pfalz-waldbrand-im-westerwald-evakuierung-wieder-beendet-a-40b9c95c-0ca1-4166-8e40-91899ff72148#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T18:39:00+00:00"
     },
     {
       "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
