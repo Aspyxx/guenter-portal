@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-16T17:35:04+00:00",
+  "aktualisiert": "2026-08-16T17:57:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "K-Beauty: Was hinter dem Erfolg von K-Beauty steckt",
+      "link": "https://www.spiegel.de/wirtschaft/k-beauty-was-hinter-dem-erfolg-von-k-beauty-steckt-a-5ce76c4f-70ca-4677-8d1c-25a693f9932a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T17:35:00+00:00"
+    },
     {
       "titel": "Großbrände: Lage in Nordrhein-Westfalen entspannt sich",
       "link": "https://www.spiegel.de/panorama/gesellschaft/grossbraende-lage-in-nordrhein-westfalen-entspannt-sich-a-98358a2a-d35b-4ea0-af46-55996fc3c1ba#ref=rss",
@@ -77,12 +83,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T15:25:54+00:00"
-    },
-    {
-      "titel": "Wie Menschen mit schwerem ME/CFS leben: Im Dunkeln vergessen",
-      "link": "https://www.spiegel.de/gesundheit/wie-menschen-mit-schwerem-me-cfs-leben-im-dunkeln-vergessen-a-22b53e90-4ad6-4a75-8153-513b818bebdf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T15:25:00+00:00"
     },
     {
       "titel": "Dieser Sommer ist selbst für Italien extrem",
