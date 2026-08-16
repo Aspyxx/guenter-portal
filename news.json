@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-16T03:14:14+00:00",
+  "aktualisiert": "2026-08-16T04:03:34+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
+      "link": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T04:03:05+00:00"
+    },
+    {
+      "titel": "Waldbrände in Belgien näher an Grenze gerückt – Feuerwehr wässert Felder bei Monschau",
+      "link": "https://www.spiegel.de/panorama/waldbraende-in-belgien-naeher-an-grenze-gerueckt-feuerwehr-waessert-felder-bei-monschau-a-7b1226ed-26b3-47ad-ba42-de6bb62a7623#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T03:46:00+00:00"
+    },
+    {
+      "titel": "Online-Dating: Exklusiver Club Raya – wie Nobeldating-Apps High Performer anziehen",
+      "link": "https://www.spiegel.de/partnerschaft/online-dating-exklusiver-club-raya-wie-nobeldating-apps-high-performer-anziehen-a-14bcd6be-0340-47ab-920d-b161ac5adb39#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T03:30:00+00:00"
+    },
+    {
+      "titel": "Red Flags: Sortieren Sie beim Dating zu schnell aus? Therapeutin sagt, worauf man achten sollte",
+      "link": "https://www.spiegel.de/partnerschaft/red-flags-sortieren-sie-beim-dating-zu-schnell-aus-therapeutin-sagt-worauf-man-achten-sollte-a-bd17d4e2-5f43-45c4-8594-4808a7e0c4f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T03:30:00+00:00"
+    },
     {
       "titel": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
       "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
@@ -23,12 +47,6 @@
       "link": "https://www.spiegel.de/ausland/kolumbiens-armee-entdeckt-drogenlabor-mit-1-8-tonnen-kokain-a-35f2512e-5a4c-415f-800b-cf29b48f3bc8#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T02:48:00+00:00"
-    },
-    {
-      "titel": "Waldbrände in Belgien rücken näher an deutsche Grenze – Lage bei Monschau spitzt sich zu",
-      "link": "https://www.spiegel.de/panorama/waldbraende-in-belgien-ruecken-naeher-an-deutsche-grenze-lage-bei-monschau-spitzt-sich-zu-a-7b1226ed-26b3-47ad-ba42-de6bb62a7623#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T01:16:00+00:00"
     },
     {
       "titel": "Tausende Fans nehmen Abschied von Rocksängerin Bonnie Tyler",
@@ -67,12 +85,6 @@
       "veroeffentlicht": "2026-08-15T20:27:00+00:00"
     },
     {
-      "titel": "Ceuta: Marokko meldet mehr als hundert Festnahmen nach Grenzübertrittsversuche",
-      "link": "https://www.spiegel.de/ausland/ceuta-marokko-meldet-111-festnahmen-nach-grenzuebertrittsversuch-a-402faf19-6207-41d3-ae8f-48cdc6f719ca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T20:16:00+00:00"
-    },
-    {
       "titel": "Supercup: Die Bayern gewinnen auch den ersten Titel der neuen Saison",
       "link": "https://www.sueddeutsche.de/sport/supercup-fc-bayern-vfl-wolfsburg-frauenfussball-stine-johannes-eigentor-li.3531307",
       "quelle": "Süddeutsche",
@@ -97,12 +109,6 @@
       "veroeffentlicht": "2026-08-15T19:38:07+00:00"
     },
     {
-      "titel": "Albanien: Scheitert das Bauprojekt der Trump-Familie an Massenprotesten und Korruptionsvorwürfen?",
-      "link": "https://www.spiegel.de/ausland/albanien-umstrittenes-projekt-der-trump-familie-ivankas-traum-und-seine-schattenseiten-a-4fbf49a0-a122-4a48-9678-985195d887ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T19:26:00+00:00"
-    },
-    {
       "titel": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
       "link": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
       "quelle": "Tagesschau",
@@ -119,12 +125,6 @@
       "link": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-15T18:23:44+00:00"
-    },
-    {
-      "titel": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
-      "link": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T18:04:47+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
@@ -145,6 +145,12 @@
       "veroeffentlicht": "2026-08-15T10:07:36+00:00"
     },
     {
+      "titel": "Sachsen-Anhalt: AfD-Politiker attackiert 14-Jährigen",
+      "link": "https://www.sueddeutsche.de/politik/afd-politiker-gewalt-jugendliche-li.3531808",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T08:50:35+00:00"
+    },
+    {
       "titel": "Leichtathletik-EM: Der Goldsprinter aus Germany – verfolgt von einem Schatten",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-ansah-gold-200-meter-sprint-doping-li.3531790",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-14T19:47:13+00:00"
-    },
-    {
-      "titel": "USA: Truppen nur für Trump-Loyalisten? USA schicken offenbar Nato-Verbündeten Fragebogen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-nato-fragebogen-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T19:33:10+00:00"
     }
   ]
 }
