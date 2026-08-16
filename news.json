@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-16T11:35:14+00:00",
+  "aktualisiert": "2026-08-16T11:58:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hessen: Tiere bei Großbrand auf Reitanlage gerettet",
+      "link": "https://www.spiegel.de/panorama/hessen-tiere-bei-grossbrand-auf-reitanlage-gerettet-a-8d3e6dae-6719-4152-a3ca-ff1e51e1c8f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T11:51:00+00:00"
+    },
+    {
+      "titel": "Spanische Exklave: Ceuta - Europas verschlossene Tür",
+      "link": "https://www.tagesschau.de/ausland/europa/marokko-spanien-ceuta-migration-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T11:45:22+00:00"
+    },
+    {
+      "titel": "Nick Reiner darf Geld seiner ermordeten Eltern nicht für Gerichtskosten verwenden",
+      "link": "https://www.spiegel.de/panorama/leute/nick-reiner-darf-geld-seiner-ermordeten-eltern-nicht-fuer-gerichtskosten-verwenden-a-12bbc2bc-0ee3-4975-ae6b-d5c53d4b1d70#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T11:45:00+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T11:42:00+00:00"
+    },
+    {
+      "titel": "Ungarn: Zwölf Tote bei Busunglück – Fahrer wohl eingeschlafen",
+      "link": "https://www.sueddeutsche.de/panorama/reisebus-ungarn-unfall-tote-polen-pilger-li.3532162",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T11:33:58+00:00"
+    },
     {
       "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
       "link": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
@@ -49,12 +79,6 @@
       "veroeffentlicht": "2026-08-16T10:30:00+00:00"
     },
     {
-      "titel": "Ungarn: Zwölf Tote bei Busunglück – Fahrer wohl eingeschlafen",
-      "link": "https://www.sueddeutsche.de/panorama/reisebus-ungarn-unfall-tote-polen-pilger-li.3532162",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T10:27:01+00:00"
-    },
-    {
       "titel": "USA: Alaskas Rohstoffe abbauen - aber wie?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-abbau-rohstoffe-100.html",
       "quelle": "Tagesschau",
@@ -71,12 +95,6 @@
       "link": "https://www.spiegel.de/kultur/red-dead-redemption-2-platz-3-im-spiegel-games-kanon-a-87781474-515e-4d47-9f01-0dffa104e694#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T10:00:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Tote und Verletzte bei gegenseitigen Drohnenangriffen in der Nacht",
-      "link": "https://www.spiegel.de/ausland/ukraine-tote-und-verletzte-bei-gegenseitigen-drohnenangriffen-in-der-nacht-a-ba0325bd-9a50-4637-bf34-73b65c3d86f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T09:50:00+00:00"
     },
     {
       "titel": "Amanal Petros sichert sich EM-Gold im Marathon",
@@ -97,18 +115,6 @@
       "veroeffentlicht": "2026-08-16T09:39:18+00:00"
     },
     {
-      "titel": "Was Matthew Rhys dachte, als er sich in Co-Star Keri Russell verliebte? »Oh nein«",
-      "link": "https://www.spiegel.de/kultur/tv/was-matthew-rhys-dachte-als-er-sich-in-co-star-keri-russell-verliebte-oh-nein-a-9e45d9d5-1255-4b5f-9e59-1849fb7dde09#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T09:33:00+00:00"
-    },
-    {
-      "titel": "Syrer in Deutschland: Immer mehr verlieren nach Assad-Sturz ihren Schutzstatus",
-      "link": "https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-immer-mehr-verlieren-nach-assad-sturz-ihren-schutzstatus-a-84e84780-8ade-4fc4-a3c9-132d4c167239#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T09:31:00+00:00"
-    },
-    {
       "titel": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
       "quelle": "Tagesschau",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T08:35:21+00:00"
-    },
-    {
-      "titel": "Grenzregion bei Monschau in NRW: Waldbrand in Belgien rückt immer näher",
-      "link": "https://www.tagesschau.de/inland/belgien-waldbrand-hohes-venn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T08:31:50+00:00"
     },
     {
       "titel": "Boeing 787 der Vietnam Airlines: Probleme beim Start, Schäden nach der Landung: Kritische Situation am Münchner Flughafen",
