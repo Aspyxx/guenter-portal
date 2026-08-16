@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-16T16:43:27+00:00",
+  "aktualisiert": "2026-08-16T17:03:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Community Shield: Arsenal siegt, Kai Havertz vermiest Enzo Maresca das Debüt",
+      "link": "https://www.spiegel.de/sport/fussball/community-shield-arsenal-siegt-kai-havertz-vermiest-enzo-maresca-das-debuet-a-0355a7f3-60b0-438f-85dc-cc181e401c22#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T16:46:00+00:00"
+    },
+    {
+      "titel": "Rheinland-Pfalz: Waldbrand im Westerwald – Teil von Gemeinde evakuiert",
+      "link": "https://www.spiegel.de/panorama/rheinland-pfalz-waldbrand-im-westerwald-teil-von-gemeinde-evakuiert-a-39e688ce-142f-41a1-b1fb-62a9b692d6ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T16:44:00+00:00"
+    },
     {
       "titel": "Überblick: Waldbrände in Deutschland",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
@@ -73,6 +85,12 @@
       "veroeffentlicht": "2026-08-16T15:12:00+00:00"
     },
     {
+      "titel": "Glosse: Das Streiflicht",
+      "link": "https://www.sueddeutsche.de/meinung/streiflicht-spitzbergen-ordnungsstrafen-nordpol-li.3532111",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T15:10:18+00:00"
+    },
+    {
       "titel": "Nach der Hitze gibt es in Teilen Deutschlands Abkühlung und Regen",
       "link": "https://www.tagesschau.de/wetter/wetterthema/wetterumschwung-gewitter-hitze-100.html",
       "quelle": "Tagesschau",
@@ -91,22 +109,16 @@
       "veroeffentlicht": "2026-08-16T14:51:52+00:00"
     },
     {
-      "titel": "Großbrände: Lage in Nordrhein-Westfalen entspannt sich",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/grossbraende-lage-in-nordrhein-westfalen-entspannt-sich-a-98358a2a-d35b-4ea0-af46-55996fc3c1ba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T14:40:00+00:00"
-    },
-    {
       "titel": "Aktuelles Lexikon: Hürtgenwald",
       "link": "https://www.sueddeutsche.de/meinung/zweiter-weltkrieg-huertgenwald-hemingway-feuerwehr-waldbrand-li.3532074",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T14:38:45+00:00"
     },
     {
-      "titel": "Lösungsorientierter Journalismus: Wie ich versuchte, eine frohe Botschaft aus Amerika zu senden",
-      "link": "https://www.spiegel.de/panorama/loesungsorientierter-journalismus-wie-ich-versuchte-eine-frohe-botschaft-aus-amerika-zu-senden-a-0bd2de85-a4d1-41a2-8330-30aafb9a5799#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T14:11:00+00:00"
+      "titel": "Streit um das Oktoberfest: „Ich mag mir das nicht vorstellen“",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-vorbereitung-zeltvergabe-streit-transparenz-wirtesprecher-peter-inselkammer-li.3529684",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T14:17:27+00:00"
     },
     {
       "titel": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
@@ -127,10 +139,22 @@
       "veroeffentlicht": "2026-08-16T13:09:10+00:00"
     },
     {
+      "titel": "Reit-WM: Wenn Pferd und Reiter eins werden",
+      "link": "https://www.sueddeutsche.de/sport/reit-wm-vielseitigkeit-michael-jung-chipmunk-weltmeister-li.3532240",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T13:04:48+00:00"
+    },
+    {
       "titel": "Bundespolitik: SPD will Klimaanpassung im Grundgesetz verankern",
       "link": "https://www.sueddeutsche.de/politik/waldbraende-deutschland-lage-massnahmen-li.3532099",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T13:02:23+00:00"
+    },
+    {
+      "titel": "Salzburger Festspiele: Das gibt Beef",
+      "link": "https://www.sueddeutsche.de/kultur/moliere-menschenfeind-salzburger-festspiele-jette-steckel-thalia-theater-li.3531553",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T12:52:45+00:00"
     },
     {
       "titel": "Volksbühne Berlin: Kulturkampf im Wasser",
@@ -139,34 +163,10 @@
       "veroeffentlicht": "2026-08-16T12:48:46+00:00"
     },
     {
-      "titel": "Sahra Wagenknecht: Die Antifaschistin von einst wird zum Helferlein der Rechtsextremen",
-      "link": "https://www.sueddeutsche.de/meinung/kommentar-wagenknecht-hoecke-afd-bsw-li.3532073",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T12:22:11+00:00"
-    },
-    {
-      "titel": "Leute: Tausende Fans singen für Bonnie Tyler",
-      "link": "https://www.sueddeutsche.de/panorama/bonnie-tyler-promis-alexander-zverev-desiree-nick-navid-kermani-li.3531542",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T12:16:40+00:00"
-    },
-    {
-      "titel": "FC Liverpool: Warum der Amazon-Gründer beim FC Liverpool einsteigt",
-      "link": "https://www.sueddeutsche.de/sport/premier-league-liverpool-bezog-amazon-einstieg-li.3531985",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T12:09:33+00:00"
-    },
-    {
       "titel": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
       "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T12:02:04+00:00"
-    },
-    {
-      "titel": "Soziologie: Jason Ardays Tod löst Bestürzung und eine Rassismusdebatte aus",
-      "link": "https://www.sueddeutsche.de/wissen/cambridge-professor-jason-arday-tod-plagiatsvorwuerfe-li.3532096",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T11:51:10+00:00"
     }
   ]
 }
