@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-08-16T07:06:09+00:00",
+  "aktualisiert": "2026-08-16T07:50:35+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Landtagswahlen 2026",
-      "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
+      "titel": "Duisburg Brand",
+      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🔥"
     },
     {
       "rang": 2,
@@ -17,10 +17,10 @@
     },
     {
       "rang": 3,
-      "titel": "Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
-      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
+      "titel": "Immer mehr Syrer verlieren Schutzstatus",
+      "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔥"
+      "icon": "🔎"
     }
   ]
 }
