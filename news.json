@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-16T21:35:16+00:00",
+  "aktualisiert": "2026-08-16T21:57:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Jason Arday: Zehntausende fordern Untersuchung nach Tod des Cambridge-Professors",
+      "link": "https://www.spiegel.de/ausland/jason-arday-zehntausende-fordern-untersuchung-nach-tod-des-cambridge-professors-a-91ed68d9-090d-485b-9757-50fefc37f1ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T21:35:00+00:00"
+    },
     {
       "titel": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
       "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
@@ -71,12 +77,6 @@
       "link": "https://www.spiegel.de/panorama/rheinland-pfalz-waldbrand-im-westerwald-evakuierung-wieder-beendet-a-40b9c95c-0ca1-4166-8e40-91899ff72148#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T18:39:00+00:00"
-    },
-    {
-      "titel": "Schwimm-EM in Paris: Isabel Gose nach drittem Silber im Becken nicht ganz zufrieden",
-      "link": "https://www.spiegel.de/sport/schwimm-em-in-paris-isabel-gose-nach-drittem-silber-im-becken-nicht-ganz-zufrieden-a-8907e2d0-937e-4f51-bd30-25645021ab33#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T18:12:00+00:00"
     },
     {
       "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
