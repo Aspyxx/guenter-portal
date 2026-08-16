@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-08-16T06:17:28+00:00",
+  "aktualisiert": "2026-08-16T07:06:09+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Landtagswahlen 2026",
+      "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
       "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
-    },
-    {
-      "rang": 2,
-      "titel": "Grenzregion bei Monschau in NRW: Waldbrand in Belgien rückt immer näher",
-      "link": "https://www.tagesschau.de/inland/belgien-waldbrand-hohes-venn-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     },
     {
       "rang": 3,
