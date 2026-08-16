@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-16T04:50:46+00:00",
+  "aktualisiert": "2026-08-16T05:44:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,76 @@
   },
   "meldungen": [
     {
+      "titel": "Absage von Volksbad-Veranstaltung für Schwarze: Eine verlogene Frage",
+      "link": "https://www.spiegel.de/kultur/absage-von-volksbad-veranstaltung-fuer-schwarze-eine-verlogene-frage-a-1c296932-5385-47a0-93f7-29cf39d2b269#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T05:41:00+00:00"
+    },
+    {
+      "titel": "Kairo: Eine Palästinenserin eröffnet ein Restaurant für ihre Heimat - nur gute Nachrichten",
+      "link": "https://www.spiegel.de/ausland/kairo-eine-palaestinenserin-eroeffnet-ein-restaurant-fuer-ihre-heimat-nur-gute-nachrichten-a-f127ea4d-9611-4c63-a93d-c4b6fabedd34#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T05:39:00+00:00"
+    },
+    {
+      "titel": "Rumänien: Nato-Kampfjet schießt Drohne ab",
+      "link": "https://www.spiegel.de/ausland/rumaenien-nato-kampfjet-schiesst-drohne-ab-a-97a5c218-8846-432a-a9ae-b63c2965247b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T05:31:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T05:23:00+00:00"
+    },
+    {
+      "titel": "Abba: 50 Jahre »Dancing Queen« – wie gut kennen Sie das Lied? SPIEGEL-Musikquiz",
+      "link": "https://www.spiegel.de/kultur/musik/abba-50-jahre-dancing-queen-wie-gut-kennen-sie-das-lied-spiegel-musikquiz-a-69453054-b3ce-45d8-bfc0-d86935212b38#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T05:15:00+00:00"
+    },
+    {
+      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T05:13:23+00:00"
+    },
+    {
+      "titel": "Grenzregion bei Monschau in NRW: Waldbrand in Belgien rückt immer näher",
+      "link": "https://www.tagesschau.de/inland/belgien-waldbrand-hohes-venn-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T05:08:20+00:00"
+    },
+    {
+      "titel": "Rätsel der Woche: Zwei Seitenlängen gesucht",
+      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-zwei-seitenlaengen-gesucht-a-1acac721-b1a9-4388-9c46-d2d552f4267f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T05:06:00+00:00"
+    },
+    {
+      "titel": "»Minecraft«: Platz 2 im SPIEGEL Games-Kanon",
+      "link": "https://www.spiegel.de/kultur/minecraft-platz-2-im-spiegel-games-kanon-a-2c7f7959-d643-4d97-8512-12793830d47e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T04:58:00+00:00"
+    },
+    {
+      "titel": "»Ex on the Beach«: Ist Brenda Brinkmann so toxisch wie Aleks Petrović?",
+      "link": "https://www.spiegel.de/kultur/ex-on-the-beach-ist-brenda-brinkmann-so-toxisch-wie-aleks-petrovic-a-c5e459aa-ff88-49dc-97c2-c076bf91b038#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T04:53:00+00:00"
+    },
+    {
+      "titel": "Klimaanpassungen ins Grundgesetz: Neuer SPD-Aktionsplan fordert die Union heraus",
+      "link": "https://www.spiegel.de/politik/deutschland/klimaanpassungen-ins-grundgesetz-neuer-spd-aktionsplan-fordert-die-union-heraus-a-19054a20-c13b-4dd9-82ce-67f64f6c7dd6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T04:49:00+00:00"
+    },
+    {
       "titel": "Gerti Tetzner: Der unterdrückte DDR-Roman erscheint erstmals",
       "link": "https://www.spiegel.de/kultur/literatur/gerti-tetzner-der-unterdrueckte-ddr-roman-erscheint-erstmals-a-59f2eee3-9ebe-45fa-b4c4-8a6779256837#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T04:44:00+00:00"
-    },
-    {
-      "titel": "US-Nationalparks: Donald Trumps Kulturkampf gegen Amerikas Naturparadiese",
-      "link": "https://www.spiegel.de/wissenschaft/us-nationalparks-donald-trumps-kulturkampf-gegen-amerikas-naturparadiese-a-9a680e35-ff32-497c-b88d-c206dca9582e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T04:44:00+00:00"
-    },
-    {
-      "titel": "Hurrikan »Lala« zieht knapp an Hawaii vorbei",
-      "link": "https://www.spiegel.de/panorama/hurrikan-lala-naehert-sich-hawaii-a-e9079160-9b04-485a-9eb6-751270a686d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T04:38:00+00:00"
-    },
-    {
-      "titel": "News: Warum Ulrich Siegmund auf dem SPIEGEL-Titel ist",
-      "link": "https://www.spiegel.de/politik/deutschland/news-warum-ulrich-siegmund-auf-dem-spiegel-titel-ist-a-2e74d73a-af37-4986-b8a6-7d79ee19f3b4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T04:36:00+00:00"
     },
     {
       "titel": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
@@ -37,46 +85,10 @@
       "veroeffentlicht": "2026-08-16T04:03:05+00:00"
     },
     {
-      "titel": "Waldbrände in Belgien näher an Grenze gerückt – Feuerwehr wässert Felder bei Monschau",
-      "link": "https://www.spiegel.de/panorama/waldbraende-in-belgien-naeher-an-grenze-gerueckt-feuerwehr-waessert-felder-bei-monschau-a-7b1226ed-26b3-47ad-ba42-de6bb62a7623#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T03:46:00+00:00"
-    },
-    {
-      "titel": "Online-Dating: Exklusiver Club Raya – wie Nobeldating-Apps High Performer anziehen",
-      "link": "https://www.spiegel.de/partnerschaft/online-dating-exklusiver-club-raya-wie-nobeldating-apps-high-performer-anziehen-a-14bcd6be-0340-47ab-920d-b161ac5adb39#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T03:30:00+00:00"
-    },
-    {
-      "titel": "Red Flags: Sortieren Sie beim Dating zu schnell aus? Therapeutin sagt, worauf man achten sollte",
-      "link": "https://www.spiegel.de/partnerschaft/red-flags-sortieren-sie-beim-dating-zu-schnell-aus-therapeutin-sagt-worauf-man-achten-sollte-a-bd17d4e2-5f43-45c4-8594-4808a7e0c4f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T03:30:00+00:00"
-    },
-    {
       "titel": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
       "link": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T02:54:06+00:00"
-    },
-    {
-      "titel": "Brand nahe Monschau: Sorge in Grenzregion wegen Feuer in Belgien",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T02:48:24+00:00"
-    },
-    {
-      "titel": "Kolumbiens Armee entdeckt Drogenlabor mit 1,8 Tonnen Kokain",
-      "link": "https://www.spiegel.de/ausland/kolumbiens-armee-entdeckt-drogenlabor-mit-1-8-tonnen-kokain-a-35f2512e-5a4c-415f-800b-cf29b48f3bc8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T02:48:00+00:00"
-    },
-    {
-      "titel": "Tausende Fans nehmen Abschied von Rocksängerin Bonnie Tyler",
-      "link": "https://www.spiegel.de/panorama/tausende-fans-nehmen-abschied-von-rocksaengerin-bonnie-tyler-a-919c6d2c-37dc-4382-bae6-f70f44e18bcd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-15T23:23:00+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
@@ -89,12 +101,6 @@
       "link": "https://www.sueddeutsche.de/sport/supercup-fc-bayern-vfl-wolfsburg-frauenfussball-stine-johannes-eigentor-li.3531307",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T20:09:36+00:00"
-    },
-    {
-      "titel": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T20:05:00+00:00"
     },
     {
       "titel": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T05:12:00+00:00"
-    },
-    {
-      "titel": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
-      "link": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-14T19:47:13+00:00"
     }
   ]
 }
