@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-16T06:15:25+00:00",
+  "aktualisiert": "2026-08-16T07:19:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T07:02:40+00:00"
+    },
+    {
+      "titel": "Neue Lage im Heimatland: Immer mehr Syrer verlieren Schutzstatus",
+      "link": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T06:59:34+00:00"
+    },
+    {
+      "titel": "Jane Seymour: Schauspielerin erinnert sich an ihre »schrecklichste« Bond-Szene",
+      "link": "https://www.spiegel.de/panorama/leute/jane-seymour-schauspielerin-erinnert-sich-an-ihre-schrecklichste-bond-szene-a-9511127c-e187-4190-94bc-61dbd45a4504#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T06:56:00+00:00"
+    },
+    {
+      "titel": "Ungarn: Bus aus Polen verunglückt – zwölf Tote und viele Verletzte",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/ungarn-bus-aus-polen-verunglueckt-zwoelf-tote-und-viele-verletzte-a-c325363f-1245-44a6-a761-0832305efb54#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T06:43:00+00:00"
+    },
+    {
+      "titel": "Cannabis-Gesetz: Drogenfahnder kritisiert Folgen der Teilentkriminalisierung",
+      "link": "https://www.spiegel.de/panorama/justiz/cannabis-gesetz-drogenfahnder-kritisiert-folgen-der-teilentkriminalisierung-a-62242cea-120f-43ca-a369-11b77a13be06#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T06:15:00+00:00"
+    },
+    {
+      "titel": "Nordrhein-Westfalen: Bürger in Monschau sollen bis 10 Uhr Häuser verlassen",
+      "link": "https://www.spiegel.de/panorama/nordrhein-westfalen-buerger-in-monschau-sollen-bis-10-uhr-haeuser-verlassen-a-c36b5219-bd2c-4f4e-bbd2-ed3263f565f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T06:13:00+00:00"
+    },
     {
       "titel": "Willi Buisson, Ex-Vorstandsmitglied des FC Bayern München: Aktiver Widerstand gegen Hitler",
       "link": "https://www.spiegel.de/sport/willi-buisson-ex-vorstandsmitglied-des-fc-bayern-muenchen-ein-apotheker-gegen-hitler-a-bad587a1-76d8-4abe-9502-1081b3c2d4ae#ref=rss",
@@ -25,7 +61,7 @@
       "veroeffentlicht": "2026-08-16T05:46:13+00:00"
     },
     {
-      "titel": "Absage von Volksbad-Veranstaltung für Schwarze: Eine verlogene Frage",
+      "titel": "Volksbad-Aktion für Schwarze: Warum die Absage so bitter ist – Meinung",
       "link": "https://www.spiegel.de/kultur/absage-von-volksbad-veranstaltung-fuer-schwarze-eine-verlogene-frage-a-1c296932-5385-47a0-93f7-29cf39d2b269#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T05:41:00+00:00"
@@ -44,7 +80,7 @@
     },
     {
       "titel": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-rumaenien-drohne-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T05:23:00+00:00"
     },
@@ -65,30 +101,6 @@
       "link": "https://www.tagesschau.de/inland/belgien-waldbrand-hohes-venn-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T05:08:20+00:00"
-    },
-    {
-      "titel": "Rätsel der Woche: Zwei Seitenlängen gesucht",
-      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-zwei-seitenlaengen-gesucht-a-1acac721-b1a9-4388-9c46-d2d552f4267f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T05:06:00+00:00"
-    },
-    {
-      "titel": "»Minecraft«: Platz 2 im SPIEGEL Games-Kanon",
-      "link": "https://www.spiegel.de/kultur/minecraft-platz-2-im-spiegel-games-kanon-a-2c7f7959-d643-4d97-8512-12793830d47e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T04:58:00+00:00"
-    },
-    {
-      "titel": "»Ex on the Beach«: Ist Brenda Brinkmann so toxisch wie Aleks Petrović?",
-      "link": "https://www.spiegel.de/kultur/ex-on-the-beach-ist-brenda-brinkmann-so-toxisch-wie-aleks-petrovic-a-c5e459aa-ff88-49dc-97c2-c076bf91b038#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T04:53:00+00:00"
-    },
-    {
-      "titel": "Klimaanpassungen ins Grundgesetz: Neuer SPD-Aktionsplan fordert die Union heraus",
-      "link": "https://www.spiegel.de/politik/deutschland/klimaanpassungen-ins-grundgesetz-neuer-spd-aktionsplan-fordert-die-union-heraus-a-19054a20-c13b-4dd9-82ce-67f64f6c7dd6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T04:49:00+00:00"
     },
     {
       "titel": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
@@ -115,22 +127,16 @@
       "veroeffentlicht": "2026-08-15T20:09:36+00:00"
     },
     {
-      "titel": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T20:03:58+00:00"
-    },
-    {
-      "titel": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
-      "link": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-15T19:38:07+00:00"
-    },
-    {
       "titel": "FC Bayern: Musiala erleidet wohl Hitzschlag",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-fc-bayern-muenchen-musiala-rb-leipzig-hitze-testspiel-laimer-li.3531975",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T18:44:33+00:00"
+    },
+    {
+      "titel": "Münchner Flughafen: Flugzeug fällt durch langen Take-off auf – und kehrt später zurück",
+      "link": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-vietnam-airlines-start-li.3531950",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-15T16:23:37+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-ansah-gold-200-meter-sprint-doping-li.3531790",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-15T08:16:52+00:00"
-    },
-    {
-      "titel": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
-      "link": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-15T05:12:00+00:00"
     }
   ]
 }
