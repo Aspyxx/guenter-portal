@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-16T15:58:48+00:00",
+  "aktualisiert": "2026-08-16T16:43:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Überblick: Waldbrände in Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T16:40:31+00:00"
+    },
+    {
+      "titel": "Frauen in Afghanistan: Tagebuch aus Herat",
+      "link": "https://www.spiegel.de/ausland/frauen-in-afghanistan-tagebuch-aus-herat-a-af3a203b-92fb-4e2b-9fc4-4cc55e98c7e3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T16:13:00+00:00"
+    },
+    {
+      "titel": "Rumänien: Umstrittene Pferdemärkte zwischen Tradition und Seuchenschutz - SPIEGEL TV für Arte Re",
+      "link": "https://www.spiegel.de/ausland/rumaenien-umstrittene-pferdemaerkte-zwischen-tradition-und-seuchenschutz-spiegel-tv-fuer-arte-re-a-4f30d372-8d25-4de6-aa12-651a3497d457#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-16T16:12:00+00:00"
+    },
+    {
+      "titel": "Waldbrand im Hohen Venn: Aktuell keine Evakuierungen in Monschau geplant",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-16T16:05:13+00:00"
+    },
     {
       "titel": "Reit-WM in Aachen: Michael Jung holt WM-Gold mit Chipmunk in der Vielseitigkeit",
       "link": "https://www.spiegel.de/sport/reit-wm-in-aachen-michael-jung-holt-wm-gold-mit-chipmunk-in-der-vielseitigkeit-a-95d88131-d477-4ec3-84be-407508571071#ref=rss",
@@ -67,12 +91,6 @@
       "veroeffentlicht": "2026-08-16T14:51:52+00:00"
     },
     {
-      "titel": "Überblick: Waldbrände in Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T14:45:23+00:00"
-    },
-    {
       "titel": "Großbrände: Lage in Nordrhein-Westfalen entspannt sich",
       "link": "https://www.spiegel.de/panorama/gesellschaft/grossbraende-lage-in-nordrhein-westfalen-entspannt-sich-a-98358a2a-d35b-4ea0-af46-55996fc3c1ba#ref=rss",
       "quelle": "SPIEGEL",
@@ -91,22 +109,10 @@
       "veroeffentlicht": "2026-08-16T14:11:00+00:00"
     },
     {
-      "titel": "Reit-WM in Aachen: Warum Freiwillige beim Turnier Pferdemist sammeln",
-      "link": "https://www.spiegel.de/sport/reit-wm-in-aachen-warum-freiwillige-beim-turnier-pferdemist-sammeln-a-58c5d271-8511-4ca5-87fb-90ef522bee07#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T14:08:00+00:00"
-    },
-    {
       "titel": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T14:01:13+00:00"
-    },
-    {
-      "titel": "Adam Scott: Tochter sieht peinliche »The Office«-Bewerbung im Schauspielunterricht",
-      "link": "https://www.spiegel.de/kultur/tv/adam-scott-tochter-sieht-peinliche-office-bewerbung-im-schauspielunterricht-a-c884456b-861b-421a-9db5-9ed3e67f451c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T13:58:00+00:00"
     },
     {
       "titel": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wissen/cambridge-professor-jason-arday-tod-plagiatsvorwuerfe-li.3532096",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T11:51:10+00:00"
-    },
-    {
-      "titel": "Spanische Exklave: Ceuta - Europas verschlossene Tür",
-      "link": "https://www.tagesschau.de/ausland/europa/marokko-spanien-ceuta-migration-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T11:45:22+00:00"
     }
   ]
 }
