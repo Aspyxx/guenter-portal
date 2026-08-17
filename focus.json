@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-08-17T21:45:42+00:00",
+  "aktualisiert": "2026-08-17T22:10:31+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Russland Ukraine Krieg",
+      "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 2,
       "titel": "Flock Camera",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-widerstand-flock-kameras-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Elf Jahre Haft für Oppositionellen Schlosberg",
-      "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
     },
     {
       "rang": 3,
