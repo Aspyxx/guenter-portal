@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-17T19:43:51+00:00",
+  "aktualisiert": "2026-08-17T20:03:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump: Zustimmungswerte in den USA fallen in Umfrage auf Tiefpunkt",
+      "link": "https://www.spiegel.de/ausland/donald-trump-zustimmungswerte-in-den-usa-fallen-in-umfrage-auf-tiefpunkt-a-99a34801-efff-4afd-87d5-2d206c028cdd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T20:03:00+00:00"
+    },
+    {
+      "titel": "Fifa feuert Infantino-Kritiker Kevin Lamour",
+      "link": "https://www.spiegel.de/sport/fussball/fifa-feuert-infantino-kritiker-kevin-lamour-a-2092f499-8ab9-4ecd-af23-1e1770768429#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T19:49:00+00:00"
+    },
     {
       "titel": "Haus in Hamburg-Altona abgerissen: »Alle raus hier« – wie elf Menschen von einem Moment auf den anderen ihr Zuhause verloren",
       "link": "https://www.spiegel.de/panorama/gesellschaft/haus-in-hamburg-altona-abgerissen-alle-raus-hier-wie-elf-menschen-von-einem-moment-auf-den-anderen-ihr-zuhause-verloren-a-7223f812-cf2f-49e7-b808-c8333ac5ab05#ref=rss",
@@ -71,18 +83,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimaaktionsplan-union-grundgesetzaenderung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T16:47:30+00:00"
-    },
-    {
-      "titel": "ESTA: Wie die Einreisegenehmigung für USA-Besucher zur Kostenfalle werden kann",
-      "link": "https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T16:44:00+00:00"
-    },
-    {
-      "titel": "Spyra: Wie eine Münchner Firma die stärkste Wasserpistole der Welt bauen will",
-      "link": "https://www.spiegel.de/deinspiegel/spyra-wie-eine-muenchner-firma-die-staerkste-wasserpistole-der-welt-bauen-will-a-7d10aa9a-4fc5-4963-bdda-9528035c020d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T16:39:00+00:00"
     },
     {
       "titel": "Marktbericht: DAX startet schwächer in die Woche",
