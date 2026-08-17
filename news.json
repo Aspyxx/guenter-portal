@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-17T08:25:19+00:00",
+  "aktualisiert": "2026-08-17T09:24:21+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Deutschland: Jeder zehnte junge Erwachsene ist ohne Job oder Ausbildung",
+      "link": "https://www.spiegel.de/start/deutschland-jeder-zehnte-junge-erwachsene-ist-ohne-job-oder-ausbildung-a-a37b7513-b57c-4a88-a5d2-95f50179a440#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T09:19:00+00:00"
+    },
+    {
+      "titel": "US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/hayden-panettiere-134.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T09:17:38+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM in Birmingham: Das deutsche Team liefert, der Veranstalter nicht",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-das-deutsche-team-liefert-der-veranstalter-nicht-a-bd8b597c-d793-421b-b074-6a900eb2fbe7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T09:17:00+00:00"
+    },
+    {
+      "titel": "Südkorea: Regierung setzt trotz Trump-Kritik auf enge Kooperation mit USA",
+      "link": "https://www.spiegel.de/politik/suedkorea-regierung-setzt-trotz-trump-kritik-auf-enge-kooperation-mit-usa-a-7d654fb2-4394-42af-acc6-9d160a0352b3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T09:12:00+00:00"
+    },
+    {
+      "titel": "AstraZeneca: Pharmakonzern stoppt wichtige Studie zu Lungenkrebs-Mittel",
+      "link": "https://www.spiegel.de/wirtschaft/astrazeneca-pharmakonzern-stoppt-wichtige-studie-zu-lungenkrebs-mittel-a-323863f3-29ac-4a95-a26d-c454d2226f93#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T08:59:00+00:00"
+    },
+    {
+      "titel": "AfD: Wie sie sich als neue Arbeiterpartei inszeniert",
+      "link": "https://www.spiegel.de/wirtschaft/afd-wie-sie-sich-als-neue-arbeiterpartei-inszeniert-a-6c0dc99e-040e-4d24-8cd0-74bf16890436#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T08:58:00+00:00"
+    },
+    {
+      "titel": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T08:54:09+00:00"
+    },
+    {
+      "titel": "Tropensturm »Lala« sorgt für Zerstörung auf Hawaii",
+      "link": "https://www.spiegel.de/panorama/tropensturm-lala-sorgt-fuer-zerstoerung-auf-hawaii-a-1111827d-bd9f-42d5-bc11-1270720d4b0b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T08:49:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger blicken gelassen in den Nahen Osten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T08:34:25+00:00"
+    },
     {
       "titel": "Dortmund: 13-Jähriger angefahren – Polizei ermittelt gegen Fahrer wegen Verdachts auf illegales Autorennen",
       "link": "https://www.spiegel.de/panorama/justiz/dortmund-13-jaehriger-angefahren-polizei-ermittelt-gegen-fahrer-wegen-verdachts-auf-illegales-autorennen-a-8daa775c-353b-4850-b439-0b76d51f5675#ref=rss",
@@ -31,12 +85,6 @@
       "veroeffentlicht": "2026-08-17T07:36:00+00:00"
     },
     {
-      "titel": "Waldbrand in Belgien: Feuer rückt nicht weiter Richtung Deutschland vor",
-      "link": "https://www.spiegel.de/panorama/waldbrand-in-belgien-feuer-rueckt-nicht-weiter-richtung-deutschland-vor-a-f8bc85e8-d74d-40b9-b30e-6bf13b6f8755#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T07:32:00+00:00"
-    },
-    {
       "titel": "Umweltverbände unterstützen Hitzeschutz-Pläne der SPD",
       "link": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
       "quelle": "Tagesschau",
@@ -49,40 +97,10 @@
       "veroeffentlicht": "2026-08-17T07:21:23+00:00"
     },
     {
-      "titel": "USA unter Trump: Wie der Kampf gegen KI Demokraten und Republikaner spaltet",
-      "link": "https://www.spiegel.de/ausland/usa-unter-trump-wie-der-kampf-gegen-ki-demokraten-und-republikaner-spaltet-a-b48e49d1-142d-4d17-8692-95dbdd81a390#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T07:17:00+00:00"
-    },
-    {
       "titel": "Malaika Mihambo: Erst „Arschbombe“, dann Tränen",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-weitsprung-mihambo-li.3532570",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T07:11:42+00:00"
-    },
-    {
-      "titel": "Fast jeder zehnte Euro der Haushalte fließt in Freizeitausgaben",
-      "link": "https://www.spiegel.de/wirtschaft/fast-jeder-zehnte-euro-der-haushalte-fliesst-in-freizeitausgaben-a-5b4f5066-6ce5-4ad8-9dcd-3fe64ea1d2a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T07:02:00+00:00"
-    },
-    {
-      "titel": "Immobilien-Krise: Ifo-Studie meldet mehr Baugenehmigungen und mehr Stornos",
-      "link": "https://www.spiegel.de/wirtschaft/immobilien-krise-ifo-studie-meldet-mehr-baugenehmigungen-und-mehr-stornos-a-c440f289-f691-4d07-831c-11c110585c3f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T06:35:00+00:00"
-    },
-    {
-      "titel": "Waldbrände in Deutschland und Belgien: Feuer bei Schramberg weitet sich aus, leichtes Aufatmen im Westerwald",
-      "link": "https://www.spiegel.de/panorama/waldbraende-in-deutschland-und-belgien-feuer-bei-schramberg-weitet-sich-aus-leichtes-aufatmen-im-westerwald-a-e0d4e708-cd40-40b7-a823-44a9ac5f66fa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T06:33:00+00:00"
-    },
-    {
-      "titel": "Todd Blanche und Donald Trump: Minister weicht Frage nach Unabhängigkeit aus",
-      "link": "https://www.spiegel.de/politik/todd-blanche-und-donald-trump-minister-weicht-frage-nach-unabhaengigkeit-aus-a-dbf8ea45-05de-4927-af9c-61ef8f53a0fb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T06:00:00+00:00"
     },
     {
       "titel": "Mehr abgelehnte Asylbewerber reisten im ersten Halbjahr freiwillig aus",
@@ -95,18 +113,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T05:50:46+00:00"
-    },
-    {
-      "titel": "Marktbericht: Anleger halten DAX in Reichweite des Rekords",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T05:43:24+00:00"
-    },
-    {
-      "titel": "US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/hayden-panettiere-134.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T05:20:23+00:00"
     },
     {
       "titel": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
@@ -125,12 +131,6 @@
       "link": "https://www.sueddeutsche.de/medien/gruene-banaszak-sommerinterview-wahl-sachsen-anhalt-mecklenburg-vorpommern-fuenf-prozent-huerde-li.3531356",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T21:35:48+00:00"
-    },
-    {
-      "titel": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T21:22:36+00:00"
     },
     {
       "titel": "Leichtathletik-EM: Deutscher Medaillenregen am Schlusstag",
