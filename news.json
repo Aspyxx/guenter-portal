@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-17T04:07:06+00:00",
+  "aktualisiert": "2026-08-17T04:59:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "SPD: Sigmar Gabriel kritisiert Sozialstaatspolitik seiner Partei",
+      "link": "https://www.spiegel.de/wirtschaft/spd-sigmar-gabriel-kritisiert-sozialstaatspolitik-seiner-partei-a-957b879d-b1d4-4f2b-bfb3-23f1a0d8fd71#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T04:55:00+00:00"
+    },
+    {
+      "titel": "Heidenau: Bombe in der Elbe gefunden – Anwohner müssen Wohungen verlassen",
+      "link": "https://www.spiegel.de/panorama/heidenau-bombe-in-der-elbe-gefunden-anwohner-muessen-wohungen-verlassen-a-47d47bc3-c476-48af-9d6b-31ed303dfe20#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T04:49:00+00:00"
+    },
+    {
+      "titel": "SPD in der Krise: In der Partei kursiert bereits das Szenario Manuela Schwesig",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-in-der-krise-in-der-partei-kursiert-bereits-das-szenario-manuela-schwesig-a-227d6ce3-5ab7-47df-95a9-dadf1de2e250#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T04:36:00+00:00"
+    },
+    {
+      "titel": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/unternehmen-abwanderung-ungarn-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T04:24:17+00:00"
+    },
     {
       "titel": "Hayden Panettiere ist tot: Schauspielerin im Alter von 36 Jahren gestorben",
       "link": "https://www.spiegel.de/panorama/hayden-panettiere-ist-tot-schauspielerin-im-alter-von-36-jahren-gestorben-a-116528aa-d2e0-4ffe-9d0d-47dea22047b5#ref=rss",
@@ -43,13 +67,7 @@
       "veroeffentlicht": "2026-08-17T02:27:00+00:00"
     },
     {
-      "titel": "Ukraine: EU-Chefdiplomatin Kaja Kallas will Russland-Sanktionen deutlich ausweiten",
-      "link": "https://www.spiegel.de/ausland/ukraine-eu-chefdiplomatin-kaja-kallas-will-russland-sanktionen-deutlich-ausweiten-a-b1be4f9f-1b8f-4291-993e-a41bc63554f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T01:54:00+00:00"
-    },
-    {
-      "titel": "Südkorea und USA beginnen gemeinsame Militärübung",
+      "titel": "Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
       "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T01:53:36+00:00"
@@ -61,19 +79,7 @@
       "veroeffentlicht": "2026-08-17T00:53:26+00:00"
     },
     {
-      "titel": "Brasilien: Luiz Inácio Lula da Silva und Flávio Bolsonaro starten in den Wahlkampf",
-      "link": "https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-und-flavio-bolsonaro-starten-in-den-wahlkampf-a-93851793-8c02-4920-8a59-471158262955#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T00:49:00+00:00"
-    },
-    {
-      "titel": "Donald Trump fährt Militärübungen mit Südkorea zurück - und lobt Beziehung zu Kim Jong Un aus Nordkorea",
-      "link": "https://www.spiegel.de/ausland/donald-trump-faehrt-militaeruebungen-mit-suedkorea-zurueck-und-lobt-beziehung-zu-kim-jong-un-aus-nordkorea-a-e2212050-66a9-485f-96ba-9d9f47f391e3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T23:54:00+00:00"
-    },
-    {
-      "titel": "Sommerinterview mit Felix Banaszak: Grüne Chancen oder Ende der Euphorie?",
+      "titel": "Grünen-Chef im Sommerinterview: „Frei von Fatalismus und Resignation“",
       "link": "https://www.sueddeutsche.de/medien/gruene-banaszak-sommerinterview-wahl-sachsen-anhalt-mecklenburg-vorpommern-fuenf-prozent-huerde-li.3531356",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T21:35:48+00:00"
@@ -119,12 +125,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T16:40:31+00:00"
-    },
-    {
-      "titel": "Waldbrand im Hohen Venn: Aktuell keine Evakuierungen in Monschau geplant",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T16:05:13+00:00"
     },
     {
       "titel": "Glosse: Das Streiflicht",
