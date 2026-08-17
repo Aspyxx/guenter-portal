@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-17T07:17:43+00:00",
+  "aktualisiert": "2026-08-17T08:25:19+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Dortmund: 13-Jähriger angefahren – Polizei ermittelt gegen Fahrer wegen Verdachts auf illegales Autorennen",
+      "link": "https://www.spiegel.de/panorama/justiz/dortmund-13-jaehriger-angefahren-polizei-ermittelt-gegen-fahrer-wegen-verdachts-auf-illegales-autorennen-a-8daa775c-353b-4850-b439-0b76d51f5675#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T08:02:00+00:00"
+    },
+    {
+      "titel": "USA: Protest und Zerstörungswut gegen Flock-Kameras",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-widerstand-flock-kameras-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T07:58:19+00:00"
+    },
+    {
+      "titel": "Migration und das Drama von Ceuta: Wenn Mitgefühl als Sicherheitsrisiko gilt",
+      "link": "https://www.spiegel.de/ausland/migration-und-das-drama-von-ceuta-wenn-mitgefuehl-als-sicherheitsrisiko-gilt-a-31b50940-60ad-4ff9-8b6d-cbb6af02a0c1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T07:49:00+00:00"
+    },
+    {
+      "titel": "Tony Marshall: Was bleibt heute von der Schlagerikone und der Unterhaltungswelt, in der er sich bewegte?",
+      "link": "https://www.spiegel.de/kultur/musik/tony-marshall-was-bleibt-heute-von-der-schlagerikone-und-der-unterhaltungswelt-in-der-er-sich-bewegte-a-9f2fbb29-43cb-4d52-9133-b8f7f5a3d4e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T07:36:00+00:00"
+    },
+    {
+      "titel": "Waldbrand in Belgien: Feuer rückt nicht weiter Richtung Deutschland vor",
+      "link": "https://www.spiegel.de/panorama/waldbrand-in-belgien-feuer-rueckt-nicht-weiter-richtung-deutschland-vor-a-f8bc85e8-d74d-40b9-b30e-6bf13b6f8755#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T07:32:00+00:00"
+    },
+    {
+      "titel": "Umweltverbände unterstützen Hitzeschutz-Pläne der SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T07:25:30+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Lässt das BSW heute die Koalition in Thüringen platzen?",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T07:21:23+00:00"
+    },
+    {
+      "titel": "USA unter Trump: Wie der Kampf gegen KI Demokraten und Republikaner spaltet",
+      "link": "https://www.spiegel.de/ausland/usa-unter-trump-wie-der-kampf-gegen-ki-demokraten-und-republikaner-spaltet-a-b48e49d1-142d-4d17-8692-95dbdd81a390#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T07:17:00+00:00"
+    },
+    {
+      "titel": "Malaika Mihambo: Erst „Arschbombe“, dann Tränen",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-weitsprung-mihambo-li.3532570",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T07:11:42+00:00"
+    },
     {
       "titel": "Fast jeder zehnte Euro der Haushalte fließt in Freizeitausgaben",
       "link": "https://www.spiegel.de/wirtschaft/fast-jeder-zehnte-euro-der-haushalte-fliesst-in-freizeitausgaben-a-5b4f5066-6ce5-4ad8-9dcd-3fe64ea1d2a7#ref=rss",
@@ -37,12 +91,6 @@
       "veroeffentlicht": "2026-08-17T05:59:22+00:00"
     },
     {
-      "titel": "Niklas Süle: Ex-Nationalspieler verliert deutlich bei seinem Kreisliga-Debüt für den SV Tiefenbach",
-      "link": "https://www.spiegel.de/sport/fussball/niklas-suele-ex-nationalspieler-verliert-deutlich-bei-seinem-kreisliga-debuet-fuer-den-sv-tiefenbach-a-83bdd837-598f-4586-aae5-cef7bf370db9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T05:52:00+00:00"
-    },
-    {
       "titel": "US-Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
       "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
       "quelle": "Tagesschau",
@@ -55,34 +103,10 @@
       "veroeffentlicht": "2026-08-17T05:43:24+00:00"
     },
     {
-      "titel": "Migration: Zahl freiwilliger Ausreisen abgelehnter Asylbewerber gestiegen",
-      "link": "https://www.spiegel.de/politik/migration-zahl-freiwilliger-ausreisen-abgelehnter-asylbewerber-gestiegen-a-75164e7a-e443-4cca-8d1e-435f9f08d6ee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T05:33:00+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Frederik Ruppert und die neue deutsche Stärke auf der Laufbahn",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-frederik-ruppert-und-die-neue-deutsche-staerke-auf-der-laufbahn-a-00ee2816-2873-443c-b787-11ea09cb1a39#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T05:28:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Mecklenburg-Vorpommern: Marteria hat »keinen Bock« auf AfD-Regierung",
-      "link": "https://www.spiegel.de/panorama/leute/landtagswahl-in-mecklenburg-vorpommern-marteria-hat-keinen-bock-auf-afd-regierung-a-698e77ea-3bdb-41f1-9cad-748d476e1c82#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T05:21:00+00:00"
-    },
-    {
       "titel": "US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/hayden-panettiere-134.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T05:20:23+00:00"
-    },
-    {
-      "titel": "Israel: Itamar Ben-Gvir ruft zu deutlich mehr Gewalt im Gazastreifen auf",
-      "link": "https://www.spiegel.de/politik/israel-itamar-ben-gvir-ruft-zu-deutlich-mehr-gewalt-im-gazastreifen-auf-a-2c691f79-2dba-4e0b-9c09-7467e0b2adb8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T05:17:00+00:00"
     },
     {
       "titel": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
@@ -109,22 +133,10 @@
       "veroeffentlicht": "2026-08-16T21:22:36+00:00"
     },
     {
-      "titel": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
-      "link": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T20:24:50+00:00"
-    },
-    {
-      "titel": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
-      "link": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T19:44:47+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Banaszak fordert CDU zu Gesprächsbereitschaft mit Linken auf",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
+      "titel": "Leichtathletik-EM: Deutscher Medaillenregen am Schlusstag",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-3000m-hindernis-ruppert-gold-staffel-mixed-silber-lueckenkemper-speerwurf-ulbricht-mihambo-li.3532456",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T18:03:56+00:00"
+      "veroeffentlicht": "2026-08-16T20:52:29+00:00"
     },
     {
       "titel": "Glosse: Das Streiflicht",
@@ -134,7 +146,7 @@
     },
     {
       "titel": "Sachsen-Anhalt: AfD-Politiker attackiert 14-Jährigen",
-      "link": "https://www.sueddeutsche.de/politik/afd-politiker-gewalt-jugendliche-li.3531808",
+      "link": "https://www.sueddeutsche.de/politik/afd-politiker-arno-bausemer-stendal-gewalt-jugendliche-wahlplakat-li.3531808",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T15:01:00+00:00"
     },
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-vorbereitung-zeltvergabe-streit-transparenz-wirtesprecher-peter-inselkammer-li.3529684",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T14:17:27+00:00"
-    },
-    {
-      "titel": "Reit-WM: Wenn Pferd und Reiter eins werden",
-      "link": "https://www.sueddeutsche.de/sport/reit-wm-vielseitigkeit-michael-jung-chipmunk-weltmeister-li.3532240",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T13:04:48+00:00"
-    },
-    {
-      "titel": "Bundespolitik: SPD will Klimaanpassung im Grundgesetz verankern",
-      "link": "https://www.sueddeutsche.de/politik/waldbraende-deutschland-lage-massnahmen-li.3532099",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T13:02:23+00:00"
     }
   ]
 }
