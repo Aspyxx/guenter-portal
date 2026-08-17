@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-17T14:46:15+00:00",
+  "aktualisiert": "2026-08-17T15:41:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Flughafen München: Vorfall mit Vietnam-Airlines-Flug - »Haarscharf an Katastrophe vorbei«",
+      "link": "https://www.spiegel.de/wissenschaft/technik/flughafen-muenchen-vorfall-mit-vietnam-airlines-flug-haarscharf-an-katastrophe-vorbei-a-734ac9d8-3b68-4853-9192-85f8e8e9d408#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:37:00+00:00"
+    },
+    {
+      "titel": "\"Zombiefeuer\": Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
+      "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T15:29:47+00:00"
+    },
+    {
+      "titel": "USA reduzieren Manöver mit Südkorea: Was hat Donald Trump im Indopazifik vor?",
+      "link": "https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:26:00+00:00"
+    },
+    {
+      "titel": "News des Tages: US-Militärübung mit Südkorea, Sigmar Gabriel, Jugend ohne Arbeit",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:18:00+00:00"
+    },
+    {
+      "titel": "Russland: Kremlkritiker Lew Schlosberg zu elf Jahren Haft verurteilt",
+      "link": "https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt-a-84304db7-1bb3-4c51-be4d-75f6e1d8a480#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:17:00+00:00"
+    },
+    {
+      "titel": "Rhein-Niedrigwasser: BASF drosselt in Ludwigshafen erste Anlagen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen-a-8ebeb799-f07b-4c23-aa2a-9f02bb55876e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:10:00+00:00"
+    },
+    {
+      "titel": "»Spider-Man: Brand New Day« überwindet Zwei-Milliarden-Dollar-Marke",
+      "link": "https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke-a-7d7a6785-0f0c-461d-af9b-08288e6d56fa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:00:00+00:00"
+    },
+    {
+      "titel": "3D-Hirngewebemodell soll Alzheimer-Forschung verbessern",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/alzheimer-modelle-hirn-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T14:57:53+00:00"
+    },
     {
       "titel": "Neuenburg am Rhein: Passanten retten Schwimmer mit Menschenkette – und geraten selbst in Gefahr",
       "link": "https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr-a-346df5eb-019c-4143-b65a-1e69b93f0658#ref=rss",
@@ -25,34 +73,10 @@
       "veroeffentlicht": "2026-08-17T14:28:00+00:00"
     },
     {
-      "titel": "Elfriede Jelinek: »Unter Tieren« in Salzburg mit KI-Fake von Peter Thiel",
-      "link": "https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel-a-f59f416c-289e-4f87-955f-ac09ba7d8998#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T14:25:00+00:00"
-    },
-    {
       "titel": "Ukraine: Russland legt Internet-Warenlager in Trümmer",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-warenlager-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T14:13:56+00:00"
-    },
-    {
-      "titel": "Tupac-Bruder Mopreme Shakur glaubt nicht an Gerechtigkeit",
-      "link": "https://www.spiegel.de/panorama/justiz/tupac-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T13:49:00+00:00"
-    },
-    {
-      "titel": "Gelsenkirchen: Nachwuchs bei seltenen McCords Schlangenhalsschildkröten",
-      "link": "https://www.spiegel.de/wissenschaft/natur/gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten-a-f5529a7a-67d3-465b-9f69-9fd925321081#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T13:42:00+00:00"
-    },
-    {
-      "titel": "Thüringen: BSW hält an Brombeerkoalition fest",
-      "link": "https://www.spiegel.de/politik/thueringen-bsw-haelt-an-brombeerkoalition-fest-a-1abb5df5-0901-46b2-b13b-e45600768aea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T13:35:00+00:00"
     },
     {
       "titel": "Fazit der Leichtathletik-EM: Mehr Masse, mehr Klasse",
@@ -109,18 +133,6 @@
       "veroeffentlicht": "2026-08-17T13:00:34+00:00"
     },
     {
-      "titel": "Transfer-News: Rodri vor Wechsel zum FC Barcelona, Gerüchte um Füllkrug-Rückkher nach Bremen",
-      "link": "https://www.spiegel.de/sport/fussball/transfer-news-rodri-vor-wechsel-zum-fc-barcelona-geruechte-um-fuellkrug-rueckkher-nach-bremen-a-4757e591-22ed-4918-92e7-58b5b94d7a73#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T13:00:00+00:00"
-    },
-    {
-      "titel": "Jason Arday: Cambridge-Rektor verurteilt »rassistischen Wahn« nach Tod",
-      "link": "https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T12:53:00+00:00"
-    },
-    {
       "titel": "Deutschland: Wir können ja doch noch was",
       "link": "https://www.sueddeutsche.de/meinung/leichtathletik-em-birmingham-sportler-medaillen-kommentar-li.3532629",
       "quelle": "Süddeutsche",
@@ -143,18 +155,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ventilatorenspezialist-ebm-papst-verkauf-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T12:39:42+00:00"
-    },
-    {
-      "titel": "Die politischen Risse hinter der Militärparade in Warschau",
-      "link": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T12:19:02+00:00"
-    },
-    {
-      "titel": "Wie gerecht ist die deutsche Klimapolitik?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klimaschutz-sozialer-ausgleich-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T12:14:08+00:00"
     },
     {
       "titel": "Bundespolitik: Thüringer BSW-Fraktion hält an „Brombeer-Koalition“ fest",
