@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-17T19:04:45+00:00",
+  "aktualisiert": "2026-08-17T19:47:29+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Hohen Neuendorf",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Elf Jahre Haft für Oppositionellen Schlosberg",
       "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
       "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Deutsch-belgische Grenzregion: Waldbrand-Lage stabil - doch es droht Wind",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
