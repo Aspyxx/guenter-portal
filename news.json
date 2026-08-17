@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-17T13:54:36+00:00",
+  "aktualisiert": "2026-08-17T14:46:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Neuenburg am Rhein: Passanten retten Schwimmer mit Menschenkette – und geraten selbst in Gefahr",
+      "link": "https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr-a-346df5eb-019c-4143-b65a-1e69b93f0658#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T14:32:00+00:00"
+    },
+    {
+      "titel": "Iran: Eine frühere US-Geheimdienstmitarbeiterin preist das iranische Regime. Dann verschwindet sie",
+      "link": "https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie-a-53029d24-33b8-48cf-855b-5f234b8617e4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T14:31:00+00:00"
+    },
+    {
+      "titel": "Hamburg, Bremen: Ver.di ruft an sechs Seehäfen zu Warnstreiks auf",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf-a-a17c54ab-db55-4c66-95bb-86bb2a5faae9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T14:28:00+00:00"
+    },
+    {
+      "titel": "Elfriede Jelinek: »Unter Tieren« in Salzburg mit KI-Fake von Peter Thiel",
+      "link": "https://www.spiegel.de/kultur/elfriede-jelinek-unter-tieren-in-salzburg-mit-ki-fake-von-peter-thiel-a-f59f416c-289e-4f87-955f-ac09ba7d8998#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T14:25:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Russland legt Internet-Warenlager in Trümmer",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-warenlager-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T14:13:56+00:00"
+    },
     {
       "titel": "Tupac-Bruder Mopreme Shakur glaubt nicht an Gerechtigkeit",
       "link": "https://www.spiegel.de/panorama/justiz/tupac-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss",
@@ -29,6 +59,12 @@
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-deutschland-bilanz-medaillen-li.3532613",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T13:30:29+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Die deutsche Leichtathletik hat sich aus ihrem Tief gearbeitet",
+      "link": "https://www.sueddeutsche.de/sport/leichtahtletik-em-medaillen-deutschland-kommentar-li.3532638",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T13:22:59+00:00"
     },
     {
       "titel": "Salzburger Festspiele: Konferenz der Tiere",
@@ -85,12 +121,6 @@
       "veroeffentlicht": "2026-08-17T12:53:00+00:00"
     },
     {
-      "titel": "Hayden Panettiere: Schon als Baby aufs Showsgeschäft getrimmt - Nachruf",
-      "link": "https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf-a-24519cd6-32db-4649-8059-8b8e83545a28#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T12:52:00+00:00"
-    },
-    {
       "titel": "Deutschland: Wir können ja doch noch was",
       "link": "https://www.sueddeutsche.de/meinung/leichtathletik-em-birmingham-sportler-medaillen-kommentar-li.3532629",
       "quelle": "Süddeutsche",
@@ -109,7 +139,7 @@
       "veroeffentlicht": "2026-08-17T12:40:50+00:00"
     },
     {
-      "titel": "Ventilatorenspezialist EBM-Papst wird an US-Konzern verkauft",
+      "titel": "Ventilatorenspezialist ebm-papst wird an US-Konzern verkauft",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ventilatorenspezialist-ebm-papst-verkauf-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T12:39:42+00:00"
@@ -127,30 +157,6 @@
       "veroeffentlicht": "2026-08-17T12:14:08+00:00"
     },
     {
-      "titel": "Studieren in Gera: Campus, Wohnviertel, WG-Zimmer-Preise, Kneipen",
-      "link": "https://www.spiegel.de/start/studieren-in-gera-campus-wohnviertel-wg-zimmer-preise-kneipen-a-a3f832dd-80b3-44bf-b919-578a919a1e38#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T12:03:00+00:00"
-    },
-    {
-      "titel": "Sizilien: Tourist am Ätna von Blitz getötet",
-      "link": "https://www.spiegel.de/panorama/sizilien-tourist-am-aetna-von-blitz-getoetet-a-77dee739-7af5-4707-a742-e90aae9e7fa0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T11:57:00+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Wie Forensiker den Toten ihre Namen zurückgeben",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-forensik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T11:51:10+00:00"
-    },
-    {
-      "titel": "Hayden Panettiere: US-Stars zeigen sich schockiert über Tod der Schauspielerin",
-      "link": "https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T11:38:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Thüringer BSW-Fraktion hält an „Brombeer-Koalition“ fest",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-gaza-netanjahu-kushner-hamas-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T11:28:53+00:00"
-    },
-    {
-      "titel": "Klimaschutz: Recht haben sie, die Sozialdemokraten",
-      "link": "https://www.sueddeutsche.de/meinung/klimaschutz-hitze-deutschland-spd-kommentar-li.3532592",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T11:16:03+00:00"
     }
   ]
 }
