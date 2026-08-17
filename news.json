@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-17T01:55:56+00:00",
+  "aktualisiert": "2026-08-17T03:14:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "»Pulp Fiction«: Warum schlafe ich ausgerechnet bei diesem Film immer ein?",
+      "link": "https://www.spiegel.de/kultur/pulp-fiction-warum-schlafe-ich-ausgerechnet-bei-diesem-film-immer-ein-a-531daca5-a90d-4a3b-90c7-84a5276869b8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T03:11:00+00:00"
+    },
+    {
+      "titel": "News: Streit um Klima-Aktionsplan der SPD, Russische Antikriegspartei Jabloko, Bärbel Bas unter Druck",
+      "link": "https://www.spiegel.de/politik/deutschland/news-streit-um-klima-aktionsplan-der-spd-russische-antikriegspartei-jabloko-baerbel-bas-unter-druck-a-abd07771-7a37-4bdc-aec7-7b70dcadd61c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T03:10:00+00:00"
+    },
+    {
+      "titel": "Monschau: Flammen rücken auf Ort in Nordrhein-Westfalen zu - Häuser evakuiert, Feuerwehr im Nachteinsatz",
+      "link": "https://www.spiegel.de/panorama/monschau-flammen-ruecken-auf-ort-in-nordrhein-westfalen-zu-haeuser-evakuiert-feuerwehr-im-nachteinsatz-a-d8d4608a-a3a2-4e12-9283-d209eb8daf83#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T02:27:00+00:00"
+    },
+    {
+      "titel": "Ukraine: EU-Chefdiplomatin Kaja Kallas will Russland-Sanktionen deutlich ausweiten",
+      "link": "https://www.spiegel.de/ausland/ukraine-eu-chefdiplomatin-kaja-kallas-will-russland-sanktionen-deutlich-ausweiten-a-b1be4f9f-1b8f-4291-993e-a41bc63554f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T01:54:00+00:00"
+    },
     {
       "titel": "Südkorea und USA beginnen gemeinsame Militärübung",
       "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
@@ -61,34 +85,10 @@
       "veroeffentlicht": "2026-08-16T21:07:00+00:00"
     },
     {
-      "titel": "Leichtathletik-EM: Julia Ulbricht gewinnt sensationell Silber im Speerwurf",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-julia-ulbricht-gewinnt-sensationell-silber-im-speerwurf-a-cdc7a9ac-9389-4cf9-9e00-ceb178a7aeb8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T20:47:00+00:00"
-    },
-    {
       "titel": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
       "link": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T20:24:50+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Frederik Ruppert läuft zu Gold über 3000 Meter Hindernis",
-      "link": "https://www.spiegel.de/sport/leichtathletik-em-frederik-ruppert-laeuft-zu-gold-ueber-3000-meter-hindernis-a-850a7e51-38c8-432a-9586-3b982ff720dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T20:06:00+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM in Birmingham: Deutsche 4x100-Mixed-Staffel holt Silber",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-deutsche-4x100-mixed-staffel-holt-silber-a-8ba0fa5f-6ef9-4de6-bc57-f1e4289e19e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T20:01:00+00:00"
-    },
-    {
-      "titel": "Waldbrände: Drei Tote bei Bränden auf griechischer Insel und in Spanien",
-      "link": "https://www.spiegel.de/panorama/griechenland-zwei-tote-bei-waldbraenden-auf-insel-salamis-a-497d145d-a49e-4c0e-abac-b0f49145f485#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T19:58:00+00:00"
     },
     {
       "titel": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
