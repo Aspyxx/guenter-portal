@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-17T17:46:32+00:00",
+  "aktualisiert": "2026-08-17T18:58:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Haus in Hamburg-Altona abgerissen: »Alle raus hier« – wie elf Menschen von einem Moment auf den anderen ihr Zuhause verloren",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/haus-in-hamburg-altona-abgerissen-alle-raus-hier-wie-elf-menschen-von-einem-moment-auf-den-anderen-ihr-zuhause-verloren-a-7223f812-cf2f-49e7-b808-c8333ac5ab05#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T18:52:00+00:00"
+    },
+    {
+      "titel": "Tübingen: Eine nicht aufgestellte Tischtennisplatte sorgte für Aufstand in JVA",
+      "link": "https://www.spiegel.de/panorama/justiz/tuebingen-eine-nicht-aufgestellte-tischtennisplatte-sorgte-fuer-aufstand-in-jva-a-0a2c8cea-e74c-4028-abc4-b089d5692871#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T18:20:00+00:00"
+    },
+    {
+      "titel": "Gaza: Dill, Chili, Knoblauch – Mona Al-Ghalayini kocht in Kairo gegen den Krieg",
+      "link": "https://www.spiegel.de/ausland/gaza-dill-chili-knoblauch-mona-al-ghalayini-kocht-in-kairo-gegen-den-krieg-a-1462f903-de78-4422-8116-4e75b3170d51#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T18:05:00+00:00"
+    },
+    {
+      "titel": "Aggression im Straßenverkehr: Warum die Straße immer mehr zur Kampfzone wird",
+      "link": "https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird-a-17a15ffd-1e72-4544-bc71-7a8003cddb8a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T18:01:00+00:00"
+    },
+    {
+      "titel": "Grünenfraktionschefin in Mecklenburg-Vorpommern räumt Posten",
+      "link": "https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten-a-999b8c36-83be-4935-b159-a24a32c58a2c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T17:54:00+00:00"
+    },
     {
       "titel": "USA reduzieren Manöver mit Südkorea: Was hat Donald Trump im Indopazifik vor?",
       "link": "https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss",
@@ -55,18 +85,6 @@
       "veroeffentlicht": "2026-08-17T16:39:00+00:00"
     },
     {
-      "titel": "Mont Blanc: Bergsteiger ignorieren Sperrung wegen gefährlichem Steinschlag – kostenlose Heli-Rettung verweigert",
-      "link": "https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert-a-3ffadf28-da45-499d-ab42-087b8d54972a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T16:35:00+00:00"
-    },
-    {
-      "titel": "Iran-Krieg: Donald Trump droht mit Bomben auf Oman",
-      "link": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman-a-62a56c45-4e83-4a28-bb9b-c1cfeb89ef5e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T16:35:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX startet schwächer in die Woche",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
       "quelle": "Tagesschau",
@@ -77,24 +95,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T15:59:09+00:00"
-    },
-    {
-      "titel": "Ikkimel veröffentlicht neuen Song »Miss Universe« – mit Anspielung auf ihren Auftritt im »Moma«",
-      "link": "https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:53:00+00:00"
-    },
-    {
-      "titel": "Russland: Offenbar deutscher Staatsbürger wegen Spende festgenommen",
-      "link": "https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:48:00+00:00"
-    },
-    {
-      "titel": "Hitze in Deutschland: Unionspolitiker lehnen Hitzeschutz im Grundgesetz ab",
-      "link": "https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:40:00+00:00"
     },
     {
       "titel": "\"Zombiefeuer\": Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
@@ -113,6 +113,12 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-warenlager-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T14:13:56+00:00"
+    },
+    {
+      "titel": "Verteidigung: Söder und Pistorius streiten um Rüstungsmesse",
+      "link": "https://www.sueddeutsche.de/wirtschaft/sicherheitsmessen-deutschland-nuernberg-hannover-li.3529393",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T13:39:37+00:00"
     },
     {
       "titel": "Fazit der Leichtathletik-EM: Mehr Masse, mehr Klasse",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/berlin-enteignen-deutsche-wohnen-vonovia-linke-li.3532653",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T12:47:52+00:00"
-    },
-    {
-      "titel": "Verteidigung: Trump lässt jetzt auch noch Südkorea im Stich",
-      "link": "https://www.sueddeutsche.de/meinung/usa-donald-trump-suedkorea-manoever-nordkorea-li.3532585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T12:25:59+00:00"
     }
   ]
 }
