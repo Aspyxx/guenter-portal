@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-17T15:41:56+00:00",
+  "aktualisiert": "2026-08-17T16:01:44+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Für Kritik am Ukraine-Krieg: Elf Jahre Haft für Oppositionellen Schlosberg",
+      "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T15:59:09+00:00"
+    },
+    {
+      "titel": "Ikkimel veröffentlicht neuen Song »Miss Universe« – mit Anspielung auf ihren Auftritt im »Moma«",
+      "link": "https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:53:00+00:00"
+    },
+    {
+      "titel": "Russland: Offenbar deutscher Staatsbürger wegen Spende festgenommen",
+      "link": "https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:48:00+00:00"
+    },
+    {
+      "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T15:41:56+00:00"
+    },
+    {
+      "titel": "Hitze in Deutschland: Unionspolitiker lehnen Hitzeschutz im Grundgesetz ab",
+      "link": "https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T15:40:00+00:00"
+    },
     {
       "titel": "Flughafen München: Vorfall mit Vietnam-Airlines-Flug - »Haarscharf an Katastrophe vorbei«",
       "link": "https://www.spiegel.de/wissenschaft/technik/flughafen-muenchen-vorfall-mit-vietnam-airlines-flug-haarscharf-an-katastrophe-vorbei-a-734ac9d8-3b68-4853-9192-85f8e8e9d408#ref=rss",
@@ -53,24 +83,6 @@
       "link": "https://www.tagesschau.de/wissen/gesundheit/alzheimer-modelle-hirn-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T14:57:53+00:00"
-    },
-    {
-      "titel": "Neuenburg am Rhein: Passanten retten Schwimmer mit Menschenkette – und geraten selbst in Gefahr",
-      "link": "https://www.spiegel.de/panorama/neuenburg-am-rhein-passanten-retten-schwimmer-mit-menschenkette-und-geraten-selbst-in-gefahr-a-346df5eb-019c-4143-b65a-1e69b93f0658#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T14:32:00+00:00"
-    },
-    {
-      "titel": "Iran: Eine frühere US-Geheimdienstmitarbeiterin preist das iranische Regime. Dann verschwindet sie",
-      "link": "https://www.spiegel.de/ausland/iran-eine-fruehere-us-geheimdienstmitarbeiterin-preist-das-iranische-regime-dann-verschwindet-sie-a-53029d24-33b8-48cf-855b-5f234b8617e4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T14:31:00+00:00"
-    },
-    {
-      "titel": "Hamburg, Bremen: Ver.di ruft an sechs Seehäfen zu Warnstreiks auf",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/hamburg-bremen-ver-di-ruft-an-sechs-seehaefen-zu-warnstreiks-auf-a-a17c54ab-db55-4c66-95bb-86bb2a5faae9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T14:28:00+00:00"
     },
     {
       "titel": "Ukraine: Russland legt Internet-Warenlager in Trümmer",
@@ -145,28 +157,16 @@
       "veroeffentlicht": "2026-08-17T12:47:52+00:00"
     },
     {
-      "titel": "100 Tagen Magyar - Wo Ungarn mit seinem neuen Regierungschef steht",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-ministerpraesident-magyar-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T12:40:50+00:00"
-    },
-    {
-      "titel": "Ventilatorenspezialist ebm-papst wird an US-Konzern verkauft",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ventilatorenspezialist-ebm-papst-verkauf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T12:39:42+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Thüringer BSW-Fraktion hält an „Brombeer-Koalition“ fest",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
+      "titel": "Verteidigung: Trump verscherzt es sich auch noch mit Südkorea",
+      "link": "https://www.sueddeutsche.de/meinung/usa-donald-trump-suedkorea-manoever-nordkorea-li.3532585",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T11:32:57+00:00"
+      "veroeffentlicht": "2026-08-17T12:25:59+00:00"
     },
     {
-      "titel": "USA: Kushner wirbt bei Netanjahu für Gaza-Friedensplan",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-gaza-netanjahu-kushner-hamas-li.3530667",
+      "titel": "Indopazifik: Trumps Rache trifft Südkorea",
+      "link": "https://www.sueddeutsche.de/politik/usa-militaeruebungen-suedkorea-trump-kim-beziehung-li.3532581",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T11:28:53+00:00"
+      "veroeffentlicht": "2026-08-17T11:36:02+00:00"
     }
   ]
 }
