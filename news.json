@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-17T20:03:40+00:00",
+  "aktualisiert": "2026-08-17T20:45:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T20:10:26+00:00"
+    },
     {
       "titel": "Donald Trump: Zustimmungswerte in den USA fallen in Umfrage auf Tiefpunkt",
       "link": "https://www.spiegel.de/ausland/donald-trump-zustimmungswerte-in-den-usa-fallen-in-umfrage-auf-tiefpunkt-a-99a34801-efff-4afd-87d5-2d206c028cdd#ref=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T17:39:00+00:00"
-    },
-    {
-      "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T17:28:31+00:00"
     },
     {
       "titel": "Experte über Notlandung in München: \"Es war wirklich knapp\"",
