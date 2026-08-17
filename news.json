@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-17T16:01:44+00:00",
+  "aktualisiert": "2026-08-17T16:47:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "ESTA: Wie die Einreisegenehmigung für USA-Besucher zur Kostenfalle werden kann",
+      "link": "https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T16:44:00+00:00"
+    },
+    {
+      "titel": "Spyra: Wie eine Münchner Firma die stärkste Wasserpistole der Welt bauen will",
+      "link": "https://www.spiegel.de/deinspiegel/spyra-wie-eine-muenchner-firma-die-staerkste-wasserpistole-der-welt-bauen-will-a-7d10aa9a-4fc5-4963-bdda-9528035c020d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T16:39:00+00:00"
+    },
+    {
+      "titel": "Mont Blanc: Bergsteiger ignorieren Sperrung wegen gefährlichem Steinschlag – kostenlose Heli-Rettung verweigert",
+      "link": "https://www.spiegel.de/sport/mont-blanc-bergsteiger-ignorieren-sperrung-wegen-gefaehrlichem-steinschlag-kostenlose-heli-rettung-verweigert-a-3ffadf28-da45-499d-ab42-087b8d54972a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T16:35:00+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Donald Trump droht mit Bomben auf Oman",
+      "link": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-mit-bomben-auf-oman-a-62a56c45-4e83-4a28-bb9b-c1cfeb89ef5e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T16:35:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX startet schwächer in die Woche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T16:13:52+00:00"
+    },
     {
       "titel": "Für Kritik am Ukraine-Krieg: Elf Jahre Haft für Oppositionellen Schlosberg",
       "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
@@ -53,30 +83,6 @@
       "link": "https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T15:26:00+00:00"
-    },
-    {
-      "titel": "News des Tages: US-Militärübung mit Südkorea, Sigmar Gabriel, Jugend ohne Arbeit",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-us-militaeruebung-mit-suedkorea-sigmar-gabriel-jugend-ohne-arbeit-a-6c1204c3-e0cd-4f1e-aaff-1605381d0214#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:18:00+00:00"
-    },
-    {
-      "titel": "Russland: Kremlkritiker Lew Schlosberg zu elf Jahren Haft verurteilt",
-      "link": "https://www.spiegel.de/ausland/russland-kremlkritiker-lew-schlosberg-zu-elf-jahren-haft-verurteilt-a-84304db7-1bb3-4c51-be4d-75f6e1d8a480#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:17:00+00:00"
-    },
-    {
-      "titel": "Rhein-Niedrigwasser: BASF drosselt in Ludwigshafen erste Anlagen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-basf-drosselt-in-ludwigshafen-erste-anlagen-a-8ebeb799-f07b-4c23-aa2a-9f02bb55876e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:10:00+00:00"
-    },
-    {
-      "titel": "»Spider-Man: Brand New Day« überwindet Zwei-Milliarden-Dollar-Marke",
-      "link": "https://www.spiegel.de/kultur/kino/spider-man-brand-new-day-ueberwindet-zwei-milliarden-dollar-marke-a-7d7a6785-0f0c-461d-af9b-08288e6d56fa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:00:00+00:00"
     },
     {
       "titel": "3D-Hirngewebemodell soll Alzheimer-Forschung verbessern",
@@ -139,10 +145,10 @@
       "veroeffentlicht": "2026-08-17T13:08:23+00:00"
     },
     {
-      "titel": "25 Jahre Miniatur Wunderland: \"In ganz vielen Menschen schlummern verrückteste Ideen\"",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/miniatur-wunderland-gruendergeist-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T13:00:34+00:00"
+      "titel": "Gaza: Jetzt versucht Jared Kushner, den US-Friedensplan zu retten",
+      "link": "https://www.sueddeutsche.de/politik/nahost-us-friedensplan-hamas-israel-li.3532646",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T12:51:57+00:00"
     },
     {
       "titel": "Deutschland: Wir können ja doch noch was",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/usa-donald-trump-suedkorea-manoever-nordkorea-li.3532585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T12:25:59+00:00"
-    },
-    {
-      "titel": "Indopazifik: Trumps Rache trifft Südkorea",
-      "link": "https://www.sueddeutsche.de/politik/usa-militaeruebungen-suedkorea-trump-kim-beziehung-li.3532581",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T11:36:02+00:00"
     }
   ]
 }
