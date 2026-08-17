@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-17T09:24:21+00:00",
+  "aktualisiert": "2026-08-17T10:16:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Gillian Anderson spricht über ihre Liebesbeziehungen zu Frauen",
+      "link": "https://www.spiegel.de/kultur/gillian-anderson-spricht-ueber-ihre-liebesbeziehungen-zu-frauen-a-05f05341-9a5c-432f-98a4-b864883989b2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T10:06:00+00:00"
+    },
+    {
+      "titel": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T09:57:30+00:00"
+    },
+    {
+      "titel": "Hilfe für minderjährige Mädchen in der Ungewissheit von Ceuta",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-spanien-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T09:39:57+00:00"
+    },
+    {
+      "titel": "Was hinter dem Erfolg der rechten One Nation Party in Australien steckt",
+      "link": "https://www.tagesschau.de/ausland/asien/one-nation-party-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T09:28:12+00:00"
+    },
     {
       "titel": "Deutschland: Jeder zehnte junge Erwachsene ist ohne Job oder Ausbildung",
       "link": "https://www.spiegel.de/start/deutschland-jeder-zehnte-junge-erwachsene-ist-ohne-job-oder-ausbildung-a-a37b7513-b57c-4a88-a5d2-95f50179a440#ref=rss",
@@ -43,12 +67,6 @@
       "veroeffentlicht": "2026-08-17T08:58:00+00:00"
     },
     {
-      "titel": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T08:54:09+00:00"
-    },
-    {
       "titel": "Tropensturm »Lala« sorgt für Zerstörung auf Hawaii",
       "link": "https://www.spiegel.de/panorama/tropensturm-lala-sorgt-fuer-zerstoerung-auf-hawaii-a-1111827d-bd9f-42d5-bc11-1270720d4b0b#ref=rss",
       "quelle": "SPIEGEL",
@@ -59,6 +77,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T08:34:25+00:00"
+    },
+    {
+      "titel": "Nachruf: Kleine Rückschläge, große Traumata",
+      "link": "https://www.sueddeutsche.de/kultur/hayden-panettiere-tot-nachruf-li.3532577",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T08:07:58+00:00"
     },
     {
       "titel": "Dortmund: 13-Jähriger angefahren – Polizei ermittelt gegen Fahrer wegen Verdachts auf illegales Autorennen",
@@ -77,12 +101,6 @@
       "link": "https://www.spiegel.de/ausland/migration-und-das-drama-von-ceuta-wenn-mitgefuehl-als-sicherheitsrisiko-gilt-a-31b50940-60ad-4ff9-8b6d-cbb6af02a0c1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T07:49:00+00:00"
-    },
-    {
-      "titel": "Tony Marshall: Was bleibt heute von der Schlagerikone und der Unterhaltungswelt, in der er sich bewegte?",
-      "link": "https://www.spiegel.de/kultur/musik/tony-marshall-was-bleibt-heute-von-der-schlagerikone-und-der-unterhaltungswelt-in-der-er-sich-bewegte-a-9f2fbb29-43cb-4d52-9133-b8f7f5a3d4e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T07:36:00+00:00"
     },
     {
       "titel": "Umweltverbände unterstützen Hitzeschutz-Pläne der SPD",
@@ -113,18 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T05:50:46+00:00"
-    },
-    {
-      "titel": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/unternehmen-abwanderung-ungarn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T04:24:17+00:00"
-    },
-    {
-      "titel": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T00:53:26+00:00"
     },
     {
       "titel": "Grünen-Chef im Sommerinterview: „Frei von Fatalismus und Resignation“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/zweiter-weltkrieg-huertgenwald-hemingway-feuerwehr-waldbrand-li.3532074",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T14:38:45+00:00"
-    },
-    {
-      "titel": "Streit um das Oktoberfest: „Ich mag mir das nicht vorstellen“",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-vorbereitung-zeltvergabe-streit-transparenz-wirtesprecher-peter-inselkammer-li.3529684",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T14:17:27+00:00"
     }
   ]
 }
