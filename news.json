@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-17T11:04:11+00:00",
+  "aktualisiert": "2026-08-17T11:42:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hayden Panettiere: US-Stars zeigen sich schockiert über Tod der Schauspielerin",
+      "link": "https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T11:38:00+00:00"
+    },
+    {
+      "titel": "Andy Burnham schrieb mit falscher Trump-Beraterin",
+      "link": "https://www.spiegel.de/politik/andy-burnham-schrieb-mit-falscher-trump-beraterin-a-4bbf916d-cf73-4533-9f92-bc1fd0fb91c1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T11:33:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Thüringer BSW-Fraktion hält an „Brombeer-Koalition“ fest",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T11:32:57+00:00"
+    },
+    {
+      "titel": "USA: Kushner wirbt bei Netanjahu für Gaza-Friedensplan",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-gaza-netanjahu-kushner-hamas-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T11:28:53+00:00"
+    },
+    {
+      "titel": "Wahl in Berlin: Wohnungslose können erstmals in Tagesstätte wählen",
+      "link": "https://www.spiegel.de/panorama/wahl-in-berlin-wohnungslose-koennen-erstmals-in-tagesstaette-waehlen-a-dddc7cdb-3562-4fb1-9518-42f3a97a5c12#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T11:16:00+00:00"
+    },
+    {
+      "titel": "Apple streicht das Wort »Tracking« aus seiner Anti-Tracking-Abfrage",
+      "link": "https://www.spiegel.de/netzwelt/apps/apple-streicht-das-wort-tracking-aus-seiner-anti-tracking-abfrage-a-1b002d39-718e-47c1-8897-1718ddee5790#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T11:14:00+00:00"
+    },
+    {
+      "titel": "Alkohol: Drei Frauen berichten über ihre Sucht – und wie sie davon loskamen",
+      "link": "https://www.spiegel.de/wissenschaft/alkohol-drei-frauen-berichten-ueber-ihre-sucht-und-wie-sie-davon-loskamen-a-15469123-bb9e-410e-80e3-380042d47d49#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T11:09:00+00:00"
+    },
     {
       "titel": "Zwischenzeugnis: Wie Sie bei Stellenabbau klug nach einem Zeugnis fragen",
       "link": "https://www.spiegel.de/karriere/zwischenzeugnis-wie-sie-bei-stellenabbau-klug-nach-einem-zeugnis-fragen-a-005fed64-b281-4493-a6a3-d0d6807223ad#ref=rss",
@@ -37,12 +79,6 @@
       "veroeffentlicht": "2026-08-17T10:34:00+00:00"
     },
     {
-      "titel": "Gillian Anderson spricht über ihre Liebesbeziehungen zu Frauen",
-      "link": "https://www.spiegel.de/kultur/gillian-anderson-spricht-ueber-ihre-liebesbeziehungen-zu-frauen-a-05f05341-9a5c-432f-98a4-b864883989b2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T10:06:00+00:00"
-    },
-    {
       "titel": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
       "quelle": "Tagesschau",
@@ -61,34 +97,10 @@
       "veroeffentlicht": "2026-08-17T09:28:12+00:00"
     },
     {
-      "titel": "Deutschland: Jeder zehnte junge Erwachsene ist ohne Job oder Ausbildung",
-      "link": "https://www.spiegel.de/start/deutschland-jeder-zehnte-junge-erwachsene-ist-ohne-job-oder-ausbildung-a-a37b7513-b57c-4a88-a5d2-95f50179a440#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T09:19:00+00:00"
-    },
-    {
       "titel": "US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/hayden-panettiere-134.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T09:17:38+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM in Birmingham: Das deutsche Team liefert, der Veranstalter nicht",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-in-birmingham-das-deutsche-team-liefert-der-veranstalter-nicht-a-bd8b597c-d793-421b-b074-6a900eb2fbe7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T09:17:00+00:00"
-    },
-    {
-      "titel": "Südkorea: Regierung setzt trotz Trump-Kritik auf enge Kooperation mit USA",
-      "link": "https://www.spiegel.de/politik/suedkorea-regierung-setzt-trotz-trump-kritik-auf-enge-kooperation-mit-usa-a-7d654fb2-4394-42af-acc6-9d160a0352b3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T09:12:00+00:00"
-    },
-    {
-      "titel": "AstraZeneca: Pharmakonzern stoppt wichtige Studie zu Lungenkrebs-Mittel",
-      "link": "https://www.spiegel.de/wirtschaft/astrazeneca-pharmakonzern-stoppt-wichtige-studie-zu-lungenkrebs-mittel-a-323863f3-29ac-4a95-a26d-c454d2226f93#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T08:59:00+00:00"
     },
     {
       "titel": "Marktbericht: Anleger blicken gelassen in den Nahen Osten",
@@ -113,12 +125,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T07:25:30+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Lässt das BSW heute die Koalition in Thüringen platzen?",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T07:21:23+00:00"
     },
     {
       "titel": "Malaika Mihambo: Erst „Arschbombe“, dann Tränen",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ralf-nolten-huertgenwald-gey-waldbrand-li.3532077",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T14:51:52+00:00"
-    },
-    {
-      "titel": "Aktuelles Lexikon: Hürtgenwald",
-      "link": "https://www.sueddeutsche.de/meinung/zweiter-weltkrieg-huertgenwald-hemingway-feuerwehr-waldbrand-li.3532074",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T14:38:45+00:00"
     }
   ]
 }
