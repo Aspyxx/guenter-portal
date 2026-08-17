@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-16T23:57:45+00:00",
+  "aktualisiert": "2026-08-17T01:55:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Südkorea und USA beginnen gemeinsame Militärübung",
+      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T01:53:36+00:00"
+    },
+    {
+      "titel": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T00:53:26+00:00"
+    },
+    {
+      "titel": "Brasilien: Luiz Inácio Lula da Silva und Flávio Bolsonaro starten in den Wahlkampf",
+      "link": "https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-und-flavio-bolsonaro-starten-in-den-wahlkampf-a-93851793-8c02-4920-8a59-471158262955#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T00:49:00+00:00"
+    },
     {
       "titel": "Donald Trump fährt Militärübungen mit Südkorea zurück - und lobt Beziehung zu Kim Jong Un aus Nordkorea",
       "link": "https://www.spiegel.de/ausland/donald-trump-faehrt-militaeruebungen-mit-suedkorea-zurueck-und-lobt-beziehung-zu-kim-jong-un-aus-nordkorea-a-e2212050-66a9-485f-96ba-9d9f47f391e3#ref=rss",
@@ -17,6 +35,12 @@
       "link": "https://www.spiegel.de/panorama/monschau-17-haeuser-wegen-waldbrand-im-hohen-venn-evakuiert-a-bc07db55-d5f3-425e-85c7-7cbae1f2db11#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-16T22:16:00+00:00"
+    },
+    {
+      "titel": "Sommerinterview mit Felix Banaszak: Grüne Chancen oder Ende der Euphorie?",
+      "link": "https://www.sueddeutsche.de/medien/gruene-banaszak-sommerinterview-wahl-sachsen-anhalt-mecklenburg-vorpommern-fuenf-prozent-huerde-li.3531356",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-16T21:35:48+00:00"
     },
     {
       "titel": "Jason Arday: Zehntausende fordern Untersuchung nach Tod des Cambridge-Professors",
@@ -73,12 +97,6 @@
       "veroeffentlicht": "2026-08-16T19:44:47+00:00"
     },
     {
-      "titel": "Russland: Diese Codes verwenden Soldaten, wenn sie vom Tod sprechen",
-      "link": "https://www.spiegel.de/ausland/russland-diese-codes-verwenden-soldaten-wenn-sie-vom-tod-sprechen-a-4f75d5b1-9842-46ae-8a6f-c8d6fb1f1330#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-16T19:39:00+00:00"
-    },
-    {
       "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
       "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
       "quelle": "Tagesschau",
@@ -107,18 +125,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T16:05:13+00:00"
-    },
-    {
-      "titel": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
-      "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T15:25:54+00:00"
-    },
-    {
-      "titel": "Dieser Sommer ist selbst für Italien extrem",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-hitze-staedte-landwirtschaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T15:16:26+00:00"
     },
     {
       "titel": "Glosse: Das Streiflicht",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/waldbraende-deutschland-lage-massnahmen-li.3532099",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T13:02:23+00:00"
-    },
-    {
-      "titel": "Salzburger Festspiele: Das gibt Beef",
-      "link": "https://www.sueddeutsche.de/kultur/moliere-menschenfeind-salzburger-festspiele-jette-steckel-thalia-theater-li.3531553",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T12:52:45+00:00"
     }
   ]
 }
