@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-17T16:47:40+00:00",
+  "aktualisiert": "2026-08-17T17:46:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA reduzieren Manöver mit Südkorea: Was hat Donald Trump im Indopazifik vor?",
+      "link": "https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T17:39:00+00:00"
+    },
+    {
+      "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T17:28:31+00:00"
+    },
+    {
+      "titel": "Experte über Notlandung in München: \"Es war wirklich knapp\"",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/notlandung-flughafen-muenchen-interview-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T17:23:54+00:00"
+    },
+    {
+      "titel": "Deutsch-belgische Grenzregion: Waldbrand-Lage stabil - doch es droht Wind",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T17:04:10+00:00"
+    },
+    {
+      "titel": "Marina di Chieuti in Italien: Urne aus Deutschland an italienischem Strand gefunden",
+      "link": "https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T17:01:00+00:00"
+    },
+    {
+      "titel": "Vorstoß zu Klimaanpassung: Rückt eine Grundgesetzänderung näher?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimaaktionsplan-union-grundgesetzaenderung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T16:47:30+00:00"
+    },
     {
       "titel": "ESTA: Wie die Einreisegenehmigung für USA-Besucher zur Kostenfalle werden kann",
       "link": "https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss",
@@ -55,34 +91,16 @@
       "veroeffentlicht": "2026-08-17T15:48:00+00:00"
     },
     {
-      "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T15:41:56+00:00"
-    },
-    {
       "titel": "Hitze in Deutschland: Unionspolitiker lehnen Hitzeschutz im Grundgesetz ab",
       "link": "https://www.spiegel.de/politik/deutschland/hitze-in-deutschland-unionspolitiker-lehnen-hitzeschutz-im-grundgesetz-ab-a-5fa396ca-da6f-4fd5-9aa3-65dd3f160d51#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T15:40:00+00:00"
     },
     {
-      "titel": "Flughafen München: Vorfall mit Vietnam-Airlines-Flug - »Haarscharf an Katastrophe vorbei«",
-      "link": "https://www.spiegel.de/wissenschaft/technik/flughafen-muenchen-vorfall-mit-vietnam-airlines-flug-haarscharf-an-katastrophe-vorbei-a-734ac9d8-3b68-4853-9192-85f8e8e9d408#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:37:00+00:00"
-    },
-    {
       "titel": "\"Zombiefeuer\": Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
       "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T15:29:47+00:00"
-    },
-    {
-      "titel": "USA reduzieren Manöver mit Südkorea: Was hat Donald Trump im Indopazifik vor?",
-      "link": "https://www.spiegel.de/ausland/usa-reduzieren-manoever-mit-suedkorea-was-hat-donald-trump-im-indopazifik-vor-a-1d658e43-0dc0-48c9-8429-1b02809bd79f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T15:26:00+00:00"
     },
     {
       "titel": "3D-Hirngewebemodell soll Alzheimer-Forschung verbessern",
@@ -121,28 +139,10 @@
       "veroeffentlicht": "2026-08-17T13:17:21+00:00"
     },
     {
-      "titel": "Amthor gegen Grundgesetzänderung für Klimaanpassung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/amthor-klimaanpassung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T13:16:24+00:00"
-    },
-    {
       "titel": "Hitzewelle: Herrmann hält SPD-Vorschlag zu Klimaanpassung für Bürokratie",
       "link": "https://www.sueddeutsche.de/panorama/hermann-klimaanpassung-umweltverbaende-li.3522772",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T13:14:08+00:00"
-    },
-    {
-      "titel": "Bundeswehr erreicht Personalziel für das Jahr 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-personalziel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T13:12:15+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Russland greift erneut Region Odessa an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-odessa-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T13:08:23+00:00"
     },
     {
       "titel": "Gaza: Jetzt versucht Jared Kushner, den US-Friedensplan zu retten",
@@ -163,7 +163,7 @@
       "veroeffentlicht": "2026-08-17T12:47:52+00:00"
     },
     {
-      "titel": "Verteidigung: Trump verscherzt es sich auch noch mit Südkorea",
+      "titel": "Verteidigung: Trump lässt jetzt auch noch Südkorea im Stich",
       "link": "https://www.sueddeutsche.de/meinung/usa-donald-trump-suedkorea-manoever-nordkorea-li.3532585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T12:25:59+00:00"
