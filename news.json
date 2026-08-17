@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-17T05:51:56+00:00",
+  "aktualisiert": "2026-08-17T07:17:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Fast jeder zehnte Euro der Haushalte fließt in Freizeitausgaben",
+      "link": "https://www.spiegel.de/wirtschaft/fast-jeder-zehnte-euro-der-haushalte-fliesst-in-freizeitausgaben-a-5b4f5066-6ce5-4ad8-9dcd-3fe64ea1d2a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T07:02:00+00:00"
+    },
+    {
+      "titel": "Immobilien-Krise: Ifo-Studie meldet mehr Baugenehmigungen und mehr Stornos",
+      "link": "https://www.spiegel.de/wirtschaft/immobilien-krise-ifo-studie-meldet-mehr-baugenehmigungen-und-mehr-stornos-a-c440f289-f691-4d07-831c-11c110585c3f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T06:35:00+00:00"
+    },
+    {
+      "titel": "Waldbrände in Deutschland und Belgien: Feuer bei Schramberg weitet sich aus, leichtes Aufatmen im Westerwald",
+      "link": "https://www.spiegel.de/panorama/waldbraende-in-deutschland-und-belgien-feuer-bei-schramberg-weitet-sich-aus-leichtes-aufatmen-im-westerwald-a-e0d4e708-cd40-40b7-a823-44a9ac5f66fa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T06:33:00+00:00"
+    },
+    {
+      "titel": "Todd Blanche und Donald Trump: Minister weicht Frage nach Unabhängigkeit aus",
+      "link": "https://www.spiegel.de/politik/todd-blanche-und-donald-trump-minister-weicht-frage-nach-unabhaengigkeit-aus-a-dbf8ea45-05de-4927-af9c-61ef8f53a0fb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T06:00:00+00:00"
+    },
+    {
+      "titel": "Mehr abgelehnte Asylbewerber reisten im ersten Halbjahr freiwillig aus",
+      "link": "https://www.tagesschau.de/inland/asylsuchende-freiwillige-ausreise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T05:59:22+00:00"
+    },
+    {
+      "titel": "Niklas Süle: Ex-Nationalspieler verliert deutlich bei seinem Kreisliga-Debüt für den SV Tiefenbach",
+      "link": "https://www.spiegel.de/sport/fussball/niklas-suele-ex-nationalspieler-verliert-deutlich-bei-seinem-kreisliga-debuet-fuer-den-sv-tiefenbach-a-83bdd837-598f-4586-aae5-cef7bf370db9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T05:52:00+00:00"
+    },
     {
       "titel": "US-Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
       "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
@@ -49,36 +85,6 @@
       "veroeffentlicht": "2026-08-17T05:17:00+00:00"
     },
     {
-      "titel": "Schulfotografen: Worauf Eltern bei Preis und Qualität achten sollten",
-      "link": "https://www.spiegel.de/panorama/bildung/schulfotografen-worauf-eltern-bei-preis-und-qualitaet-achten-sollten-a-8a63fb21-f485-416e-90a0-4d154f5ce21e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T05:06:00+00:00"
-    },
-    {
-      "titel": "70 Jahre KPD-Verbot: Konrad Adenauers Verfassungsfeinde",
-      "link": "https://www.spiegel.de/geschichte/70-jahre-kpd-verbot-konrad-adenauers-verfassungsfeinde-a-476159f9-9796-4ce8-98e4-b93b1743e7fe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T05:00:00+00:00"
-    },
-    {
-      "titel": "SPD: Sigmar Gabriel kritisiert Sozialstaatspolitik seiner Partei",
-      "link": "https://www.spiegel.de/wirtschaft/spd-sigmar-gabriel-kritisiert-sozialstaatspolitik-seiner-partei-a-957b879d-b1d4-4f2b-bfb3-23f1a0d8fd71#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T04:55:00+00:00"
-    },
-    {
-      "titel": "Heidenau: Bombe in der Elbe gefunden – Anwohner müssen Wohungen verlassen",
-      "link": "https://www.spiegel.de/panorama/heidenau-bombe-in-der-elbe-gefunden-anwohner-muessen-wohungen-verlassen-a-47d47bc3-c476-48af-9d6b-31ed303dfe20#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T04:49:00+00:00"
-    },
-    {
-      "titel": "SPD in der Krise: In der Partei kursiert bereits das Szenario Manuela Schwesig",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-in-der-krise-in-der-partei-kursiert-bereits-das-szenario-manuela-schwesig-a-227d6ce3-5ab7-47df-95a9-dadf1de2e250#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T04:36:00+00:00"
-    },
-    {
       "titel": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/unternehmen-abwanderung-ungarn-100.html",
       "quelle": "Tagesschau",
@@ -113,12 +119,6 @@
       "link": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-16T19:44:47+00:00"
-    },
-    {
-      "titel": "Russland greift Kiew erneut mit ballistischen Raketen an",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T18:09:53+00:00"
     },
     {
       "titel": "Bundespolitik: Banaszak fordert CDU zu Gesprächsbereitschaft mit Linken auf",
