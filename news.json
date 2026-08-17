@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-17T22:02:59+00:00",
+  "aktualisiert": "2026-08-17T22:43:07+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Wahl in Brasilien: Präsident Lula droht Ärger wegen Hommage auf Karnevalsumzug",
+      "link": "https://www.spiegel.de/ausland/wahl-in-brasilien-praesident-lula-droht-aerger-wegen-hommage-auf-karnevalsumzug-a-53891b78-a760-4012-8eb8-084b9f64899b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T22:24:00+00:00"
+    },
     {
       "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
@@ -71,12 +77,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T17:04:10+00:00"
-    },
-    {
-      "titel": "Marina di Chieuti in Italien: Urne aus Deutschland an italienischem Strand gefunden",
-      "link": "https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T17:01:00+00:00"
     },
     {
       "titel": "Vorstoß zu Klimaanpassung: Rückt eine Grundgesetzänderung näher?",
