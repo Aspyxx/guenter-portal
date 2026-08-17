@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-17T11:46:22+00:00",
+  "aktualisiert": "2026-08-17T12:16:29+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Wie gerecht ist die deutsche Klimapolitik?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klimaschutz-sozialer-ausgleich-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
+      "titel": "Wie Forensiker den Toten ihre Namen zurückgeben",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-forensik-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 3,
       "titel": "Unwetter in Deutschland",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
       "quelle": "Tagesschau",
       "icon": "⛈️"
-    },
-    {
-      "rang": 2,
-      "titel": "Deutsche verreisen häufiger im Inland",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-privat-geschaeftlich-deutschland-ausland-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Hilfe für minderjährige Mädchen in der Ungewissheit von Ceuta",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-spanien-106.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
