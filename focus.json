@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-17T13:12:03+00:00",
+  "aktualisiert": "2026-08-17T13:57:45+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Russland greift erneut Region Odessa an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-odessa-102.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
-      "rang": 2,
       "titel": "100 Tagen Magyar - Wo Ungarn mit seinem neuen Regierungschef steht",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-ministerpraesident-magyar-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Russland greift erneut Region Odessa an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-odessa-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
       "rang": 3,
-      "titel": "Unwetter in Deutschland",
+      "titel": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
       "quelle": "Tagesschau",
-      "icon": "⛈️"
+      "icon": "🔎"
     }
   ]
 }
