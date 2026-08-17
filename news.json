@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-17T11:42:35+00:00",
+  "aktualisiert": "2026-08-17T12:02:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ukraine-Krieg: Wie Forensiker den Toten ihre Namen zurückgeben",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-forensik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T11:51:10+00:00"
+    },
+    {
+      "titel": "Wachstum verlangsamt: Chinas Strukturkrise hält an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-wachstum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T11:42:49+00:00"
+    },
     {
       "titel": "Hayden Panettiere: US-Stars zeigen sich schockiert über Tod der Schauspielerin",
       "link": "https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss",
@@ -41,6 +53,12 @@
       "link": "https://www.spiegel.de/netzwelt/apps/apple-streicht-das-wort-tracking-aus-seiner-anti-tracking-abfrage-a-1b002d39-718e-47c1-8897-1718ddee5790#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T11:14:00+00:00"
+    },
+    {
+      "titel": "Leute: „Ich wäre fast gestorben“",
+      "link": "https://www.sueddeutsche.de/panorama/courtney-love-gesundheit-krise-promis-li.3532626",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T11:09:35+00:00"
     },
     {
       "titel": "Alkohol: Drei Frauen berichten über ihre Sucht – und wie sie davon loskamen",
@@ -79,10 +97,22 @@
       "veroeffentlicht": "2026-08-17T10:34:00+00:00"
     },
     {
+      "titel": "Italien: Der Anti-Mafia-Journalist und sein seltsamer Freund",
+      "link": "https://www.sueddeutsche.de/politik/sigfrido-ranucci-bombenattentat-mafia-valter-lavitola-li.3530804",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T10:01:45+00:00"
+    },
+    {
       "titel": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T09:57:30+00:00"
+    },
+    {
+      "titel": "Bahnverkehr am Rhein: Baustellen bremsen Güterzüge aus",
+      "link": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-rhein-hitze-niedrigwasser-gueterverkehr-li.3529379",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T09:46:19+00:00"
     },
     {
       "titel": "Hilfe für minderjährige Mädchen in der Ungewissheit von Ceuta",
@@ -103,6 +133,12 @@
       "veroeffentlicht": "2026-08-17T09:17:38+00:00"
     },
     {
+      "titel": "Marodes Schienennetz in Bayern: Sollte der Freistaat die regionalen Bahntrassen sanieren?",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-bahn-sanierung-regionalstrecken-zug-li.3532645",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T09:13:55+00:00"
+    },
+    {
       "titel": "Marktbericht: Anleger blicken gelassen in den Nahen Osten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
       "quelle": "Tagesschau",
@@ -121,52 +157,16 @@
       "veroeffentlicht": "2026-08-17T07:58:19+00:00"
     },
     {
-      "titel": "Umweltverbände unterstützen Hitzeschutz-Pläne der SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hitzeschutz-plaene-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T07:25:30+00:00"
-    },
-    {
       "titel": "Malaika Mihambo: Erst „Arschbombe“, dann Tränen",
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-weitsprung-mihambo-li.3532570",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T07:11:42+00:00"
     },
     {
-      "titel": "Mehr abgelehnte Asylbewerber reisten im ersten Halbjahr freiwillig aus",
-      "link": "https://www.tagesschau.de/inland/asylsuchende-freiwillige-ausreise-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T05:59:22+00:00"
-    },
-    {
       "titel": "Grünen-Chef im Sommerinterview: „Frei von Fatalismus und Resignation“",
       "link": "https://www.sueddeutsche.de/medien/gruene-banaszak-sommerinterview-wahl-sachsen-anhalt-mecklenburg-vorpommern-fuenf-prozent-huerde-li.3531356",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T21:35:48+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Deutscher Medaillenregen am Schlusstag",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-3000m-hindernis-ruppert-gold-staffel-mixed-silber-lueckenkemper-speerwurf-ulbricht-mihambo-li.3532456",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T20:52:29+00:00"
-    },
-    {
-      "titel": "Glosse: Das Streiflicht",
-      "link": "https://www.sueddeutsche.de/meinung/streiflicht-spitzbergen-ordnungsstrafen-nordpol-li.3532111",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T15:10:18+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: AfD-Politiker attackiert 14-Jährigen",
-      "link": "https://www.sueddeutsche.de/politik/afd-politiker-arno-bausemer-stendal-gewalt-jugendliche-wahlplakat-li.3531808",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T15:01:00+00:00"
-    },
-    {
-      "titel": "Waldbrände: Wie ein Landrat beim Kampf gegen das Feuer hilft",
-      "link": "https://www.sueddeutsche.de/politik/ralf-nolten-huertgenwald-gey-waldbrand-li.3532077",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-16T14:51:52+00:00"
     }
   ]
 }
