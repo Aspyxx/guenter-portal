@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-17T04:59:29+00:00",
+  "aktualisiert": "2026-08-17T05:51:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "US-Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
+      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T05:50:46+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger halten DAX in Reichweite des Rekords",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T05:43:24+00:00"
+    },
+    {
+      "titel": "Migration: Zahl freiwilliger Ausreisen abgelehnter Asylbewerber gestiegen",
+      "link": "https://www.spiegel.de/politik/migration-zahl-freiwilliger-ausreisen-abgelehnter-asylbewerber-gestiegen-a-75164e7a-e443-4cca-8d1e-435f9f08d6ee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T05:33:00+00:00"
+    },
+    {
+      "titel": "Leichtathletik-EM: Frederik Ruppert und die neue deutsche Stärke auf der Laufbahn",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-frederik-ruppert-und-die-neue-deutsche-staerke-auf-der-laufbahn-a-00ee2816-2873-443c-b787-11ea09cb1a39#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T05:28:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl in Mecklenburg-Vorpommern: Marteria hat »keinen Bock« auf AfD-Regierung",
+      "link": "https://www.spiegel.de/panorama/leute/landtagswahl-in-mecklenburg-vorpommern-marteria-hat-keinen-bock-auf-afd-regierung-a-698e77ea-3bdb-41f1-9cad-748d476e1c82#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T05:21:00+00:00"
+    },
+    {
+      "titel": "US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/hayden-panettiere-134.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T05:20:23+00:00"
+    },
+    {
+      "titel": "Israel: Itamar Ben-Gvir ruft zu deutlich mehr Gewalt im Gazastreifen auf",
+      "link": "https://www.spiegel.de/politik/israel-itamar-ben-gvir-ruft-zu-deutlich-mehr-gewalt-im-gazastreifen-auf-a-2c691f79-2dba-4e0b-9c09-7467e0b2adb8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T05:17:00+00:00"
+    },
+    {
+      "titel": "Schulfotografen: Worauf Eltern bei Preis und Qualität achten sollten",
+      "link": "https://www.spiegel.de/panorama/bildung/schulfotografen-worauf-eltern-bei-preis-und-qualitaet-achten-sollten-a-8a63fb21-f485-416e-90a0-4d154f5ce21e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T05:06:00+00:00"
+    },
+    {
+      "titel": "70 Jahre KPD-Verbot: Konrad Adenauers Verfassungsfeinde",
+      "link": "https://www.spiegel.de/geschichte/70-jahre-kpd-verbot-konrad-adenauers-verfassungsfeinde-a-476159f9-9796-4ce8-98e4-b93b1743e7fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T05:00:00+00:00"
+    },
     {
       "titel": "SPD: Sigmar Gabriel kritisiert Sozialstaatspolitik seiner Partei",
       "link": "https://www.spiegel.de/wirtschaft/spd-sigmar-gabriel-kritisiert-sozialstaatspolitik-seiner-partei-a-957b879d-b1d4-4f2b-bfb3-23f1a0d8fd71#ref=rss",
@@ -29,48 +83,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/unternehmen-abwanderung-ungarn-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T04:24:17+00:00"
-    },
-    {
-      "titel": "Hayden Panettiere ist tot: Schauspielerin im Alter von 36 Jahren gestorben",
-      "link": "https://www.spiegel.de/panorama/hayden-panettiere-ist-tot-schauspielerin-im-alter-von-36-jahren-gestorben-a-116528aa-d2e0-4ffe-9d0d-47dea22047b5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T03:33:00+00:00"
-    },
-    {
-      "titel": "Zwischenzeugnis: Wie Sie bei Stellenabbau klug nach einem Zeugnis fragen",
-      "link": "https://www.spiegel.de/karriere/zwischenzeugnis-wie-sie-bei-stellenabbau-klug-nach-einem-zeugnis-fragen-a-005fed64-b281-4493-a6a3-d0d6807223ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T03:30:00+00:00"
-    },
-    {
-      "titel": "Krisen und Kündigung: Wie Angestellte nach Stellenabbau mit Mehrarbeit umgehen können",
-      "link": "https://www.spiegel.de/karriere/krisen-und-kuendigung-wie-angestellte-nach-stellenabbau-mit-mehrarbeit-umgehen-koennen-a-b821caed-c312-4d3b-8c68-5b5c50a3bdec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T03:14:00+00:00"
-    },
-    {
-      "titel": "»Pulp Fiction«: Warum schlafe ich ausgerechnet bei diesem Film immer ein?",
-      "link": "https://www.spiegel.de/kultur/pulp-fiction-warum-schlafe-ich-ausgerechnet-bei-diesem-film-immer-ein-a-531daca5-a90d-4a3b-90c7-84a5276869b8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T03:11:00+00:00"
-    },
-    {
-      "titel": "News: Streit um Klima-Aktionsplan der SPD, Russische Antikriegspartei Jabloko, Bärbel Bas unter Druck",
-      "link": "https://www.spiegel.de/politik/deutschland/news-streit-um-klima-aktionsplan-der-spd-russische-antikriegspartei-jabloko-baerbel-bas-unter-druck-a-abd07771-7a37-4bdc-aec7-7b70dcadd61c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T03:10:00+00:00"
-    },
-    {
-      "titel": "Monschau: Flammen rücken auf Ort in Nordrhein-Westfalen zu - Häuser evakuiert, Feuerwehr im Nachteinsatz",
-      "link": "https://www.spiegel.de/panorama/monschau-flammen-ruecken-auf-ort-in-nordrhein-westfalen-zu-haeuser-evakuiert-feuerwehr-im-nachteinsatz-a-d8d4608a-a3a2-4e12-9283-d209eb8daf83#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T02:27:00+00:00"
-    },
-    {
-      "titel": "Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
-      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T01:53:36+00:00"
     },
     {
       "titel": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
@@ -113,18 +125,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-16T18:03:56+00:00"
-    },
-    {
-      "titel": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T17:10:26+00:00"
-    },
-    {
-      "titel": "Überblick: Waldbrände in Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-16T16:40:31+00:00"
     },
     {
       "titel": "Glosse: Das Streiflicht",
