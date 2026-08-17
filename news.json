@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-17T13:07:48+00:00",
+  "aktualisiert": "2026-08-17T13:54:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tupac-Bruder Mopreme Shakur glaubt nicht an Gerechtigkeit",
+      "link": "https://www.spiegel.de/panorama/justiz/tupac-bruder-mopreme-shakur-glaubt-nicht-an-gerechtigkeit-a-3456b5ad-fbf5-44a4-b02f-52709a44f445#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T13:49:00+00:00"
+    },
+    {
+      "titel": "Gelsenkirchen: Nachwuchs bei seltenen McCords Schlangenhalsschildkröten",
+      "link": "https://www.spiegel.de/wissenschaft/natur/gelsenkirchen-nachwuchs-bei-seltenen-mccords-schlangenhalsschildkroeten-a-f5529a7a-67d3-465b-9f69-9fd925321081#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T13:42:00+00:00"
+    },
+    {
+      "titel": "Thüringen: BSW hält an Brombeerkoalition fest",
+      "link": "https://www.spiegel.de/politik/thueringen-bsw-haelt-an-brombeerkoalition-fest-a-1abb5df5-0901-46b2-b13b-e45600768aea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-17T13:35:00+00:00"
+    },
+    {
+      "titel": "Fazit der Leichtathletik-EM: Mehr Masse, mehr Klasse",
+      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-deutschland-bilanz-medaillen-li.3532613",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T13:30:29+00:00"
+    },
+    {
+      "titel": "Salzburger Festspiele: Konferenz der Tiere",
+      "link": "https://www.sueddeutsche.de/kultur/elfriede-jelinek-nicolas-stemann-salzburger-festspiele-unter-tieren-li.3528773",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T13:22:38+00:00"
+    },
+    {
+      "titel": "Zwischenfall am Münchner Flughafen: Knapp vorbei an der Katastrophe?",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-boeing-dreamliner-start-li.3532620",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T13:17:21+00:00"
+    },
+    {
+      "titel": "Amthor gegen Grundgesetzänderung für Klimaanpassung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/amthor-klimaanpassung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T13:16:24+00:00"
+    },
+    {
+      "titel": "Hitzewelle: Herrmann hält SPD-Vorschlag zu Klimaanpassung für Bürokratie",
+      "link": "https://www.sueddeutsche.de/panorama/hermann-klimaanpassung-umweltverbaende-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T13:14:08+00:00"
+    },
+    {
+      "titel": "Bundeswehr erreicht Personalziel für das Jahr 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-personalziel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T13:12:15+00:00"
+    },
+    {
+      "titel": "Krieg gegen die Ukraine: Russland greift erneut Region Odessa an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-odessa-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-17T13:08:23+00:00"
+    },
     {
       "titel": "25 Jahre Miniatur Wunderland: \"In ganz vielen Menschen schlummern verrückteste Ideen\"",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/miniatur-wunderland-gruendergeist-100.html",
@@ -19,8 +79,8 @@
       "veroeffentlicht": "2026-08-17T13:00:00+00:00"
     },
     {
-      "titel": "Nach Tod von Professor verurteilt Cambridge-Rektor »rassistischen Wahn«",
-      "link": "https://www.spiegel.de/politik/nach-tod-von-professor-verurteilt-cambridge-rektor-rassistischen-wahn-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss",
+      "titel": "Jason Arday: Cambridge-Rektor verurteilt »rassistischen Wahn« nach Tod",
+      "link": "https://www.spiegel.de/politik/jason-arday-cambridge-rektor-verurteilt-rassistischen-wahn-nach-tod-a-b7443ec6-0d6f-4fe5-b8fb-20a5afaeff26#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T12:53:00+00:00"
     },
@@ -29,6 +89,18 @@
       "link": "https://www.spiegel.de/kultur/tv/hayden-panettiere-schon-als-baby-aufs-showsgeschaeft-getrimmt-nachruf-a-24519cd6-32db-4649-8059-8b8e83545a28#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T12:52:00+00:00"
+    },
+    {
+      "titel": "Deutschland: Wir können ja doch noch was",
+      "link": "https://www.sueddeutsche.de/meinung/leichtathletik-em-birmingham-sportler-medaillen-kommentar-li.3532629",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T12:49:35+00:00"
+    },
+    {
+      "titel": "Mieten: Enteignen schafft keine einzige neue Wohnung",
+      "link": "https://www.sueddeutsche.de/wirtschaft/berlin-enteignen-deutsche-wohnen-vonovia-linke-li.3532653",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T12:47:52+00:00"
     },
     {
       "titel": "100 Tagen Magyar - Wo Ungarn mit seinem neuen Regierungschef steht",
@@ -43,7 +115,7 @@
       "veroeffentlicht": "2026-08-17T12:39:42+00:00"
     },
     {
-      "titel": "Die politische Risse hinter der Militärparade in Warschau",
+      "titel": "Die politischen Risse hinter der Militärparade in Warschau",
       "link": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T12:19:02+00:00"
@@ -73,22 +145,10 @@
       "veroeffentlicht": "2026-08-17T11:51:10+00:00"
     },
     {
-      "titel": "Wachstum verlangsamt: Chinas Strukturkrise hält an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-wachstum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T11:42:49+00:00"
-    },
-    {
       "titel": "Hayden Panettiere: US-Stars zeigen sich schockiert über Tod der Schauspielerin",
       "link": "https://www.spiegel.de/kultur/kino/hayden-panettiere-us-stars-zeigen-sich-schockiert-ueber-tod-der-schauspielerin-a-57a984aa-3cde-44db-b24d-aedc1606fd17#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T11:38:00+00:00"
-    },
-    {
-      "titel": "Andy Burnham schrieb mit falscher Trump-Beraterin",
-      "link": "https://www.spiegel.de/ausland/andy-burnham-schrieb-mit-falscher-trump-beraterin-a-4bbf916d-cf73-4533-9f92-bc1fd0fb91c1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T11:33:00+00:00"
     },
     {
       "titel": "Bundespolitik: Thüringer BSW-Fraktion hält an „Brombeer-Koalition“ fest",
@@ -103,70 +163,10 @@
       "veroeffentlicht": "2026-08-17T11:28:53+00:00"
     },
     {
-      "titel": "Wahl in Berlin: Wohnungslose können erstmals in Tagesstätte wählen",
-      "link": "https://www.spiegel.de/panorama/wahl-in-berlin-wohnungslose-koennen-erstmals-in-tagesstaette-waehlen-a-dddc7cdb-3562-4fb1-9518-42f3a97a5c12#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T11:16:00+00:00"
-    },
-    {
-      "titel": "Supercup in England: Der Einstand des Guardiola-Doppelgängers misslingt",
-      "link": "https://www.sueddeutsche.de/sport/premier-league-supercup-mancity-arsenal-maresca-li.3532552",
+      "titel": "Klimaschutz: Recht haben sie, die Sozialdemokraten",
+      "link": "https://www.sueddeutsche.de/meinung/klimaschutz-hitze-deutschland-spd-kommentar-li.3532592",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T11:15:34+00:00"
-    },
-    {
-      "titel": "Apple streicht das Wort »Tracking« aus seiner Anti-Tracking-Abfrage",
-      "link": "https://www.spiegel.de/netzwelt/apps/apple-streicht-das-wort-tracking-aus-seiner-anti-tracking-abfrage-a-1b002d39-718e-47c1-8897-1718ddee5790#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T11:14:00+00:00"
-    },
-    {
-      "titel": "Leute: „Ich wäre fast gestorben“",
-      "link": "https://www.sueddeutsche.de/panorama/courtney-love-gesundheit-krise-promis-li.3532626",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T11:09:35+00:00"
-    },
-    {
-      "titel": "Deutsche verreisen häufiger im Inland",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-privat-geschaeftlich-deutschland-ausland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T10:46:23+00:00"
-    },
-    {
-      "titel": "Italien: Der Anti-Mafia-Journalist und sein seltsamer Freund",
-      "link": "https://www.sueddeutsche.de/politik/sigfrido-ranucci-bombenattentat-mafia-valter-lavitola-li.3530804",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T10:01:45+00:00"
-    },
-    {
-      "titel": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T09:57:30+00:00"
-    },
-    {
-      "titel": "Bahnverkehr am Rhein: Baustellen bremsen Güterzüge aus",
-      "link": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-rhein-hitze-niedrigwasser-gueterverkehr-li.3529379",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T09:46:19+00:00"
-    },
-    {
-      "titel": "Debatte: Das ballert",
-      "link": "https://www.sueddeutsche.de/medien/ulrich-siegmund-afd-spiegel-bild-am-sonntag-ben-berndt-mickey-beisenherz-li.3532261",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T09:31:26+00:00"
-    },
-    {
-      "titel": "Marodes Schienennetz in Bayern: Sollte der Freistaat die regionalen Bahntrassen sanieren?",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-bahn-sanierung-regionalstrecken-zug-li.3532645",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T09:13:55+00:00"
-    },
-    {
-      "titel": "Nachruf: Kleine Rückschläge, große Traumata",
-      "link": "https://www.sueddeutsche.de/kultur/hayden-panettiere-tot-nachruf-li.3532577",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T08:07:58+00:00"
+      "veroeffentlicht": "2026-08-17T11:16:03+00:00"
     }
   ]
 }
