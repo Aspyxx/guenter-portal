@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-08-17T17:51:04+00:00",
+  "aktualisiert": "2026-08-17T18:18:52+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Deutsche Telekom",
-      "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Elf Jahre Haft für Oppositionellen Schlosberg",
       "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
+    },
+    {
+      "rang": 2,
+      "titel": "Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
+      "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     },
     {
       "rang": 3,
