@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-18T23:38:16+00:00",
+  "aktualisiert": "2026-08-18T23:59:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T23:43:27+00:00"
+    },
     {
       "titel": "Leichnam eines seit 44 Jahren vermissten israelischen Soldaten geborgen",
       "link": "https://www.spiegel.de/ausland/leichnam-eines-seit-44-jahren-vermissten-israelischen-soldaten-geborgen-a-5f4e5c51-175f-4a29-8df8-aa8120cbb5f2#ref=rss",
@@ -131,12 +137,6 @@
       "link": "https://www.tagesschau.de/investigativ/report-mainz/sanifair-tank-und-rast-raststaette-toilette-arbeitsbedingungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T15:44:40+00:00"
-    },
-    {
-      "titel": "Deutsche Politiker entsetzt über Äußerungen von Israels Polizeiminister Ben-Gvir",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-deutsche-reaktionen-aeusserungen-ben-gvir-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T15:40:22+00:00"
     },
     {
       "titel": "Soziale Medien: Gender Studies für Anfänger",
