@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-18T21:03:03+00:00",
+  "aktualisiert": "2026-08-18T21:39:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "ZZ-Top-Schlagzeuger Frank Beard ist tot",
+      "link": "https://www.spiegel.de/kultur/musik/zz-top-schlagzeuger-frank-beard-ist-tot-a-9d5de078-b876-4e15-b56b-18043f464ef9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T21:09:00+00:00"
+    },
     {
       "titel": "Russland: Menschen heben offenbar Milliarden von ihren Konten ab",
       "link": "https://www.spiegel.de/ausland/russland-menschen-heben-offenbar-milliarden-von-ihren-konten-ab-a-d4cf3491-4fc8-4135-b5b5-7d99814c1f88#ref=rss",
@@ -83,12 +89,6 @@
       "link": "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-grenzkontrollen-bis-maerz-2027-verlaengern-a-34387214-103b-4092-8c0a-613982794435#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T17:57:00+00:00"
-    },
-    {
-      "titel": "China: Comedian Guo Degang macht Witz – und darf nicht mehr auftreten",
-      "link": "https://www.spiegel.de/ausland/china-comedian-guo-degang-macht-witz-und-darf-nicht-mehr-auftreten-a-131b6ade-b897-4736-93f3-508130782cb2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T17:54:00+00:00"
     },
     {
       "titel": "Marokkos Jugend sieht zu Hause keine Perspektive",
