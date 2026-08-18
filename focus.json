@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-18T04:22:15+00:00",
+  "aktualisiert": "2026-08-18T04:57:57+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Usa Donald Trump",
+      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Elf Jahre Haft für Oppositionellen Schlosberg",
       "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
       "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
