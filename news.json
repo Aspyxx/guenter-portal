@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-18T11:42:43+00:00",
+  "aktualisiert": "2026-08-18T12:14:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ukraine-Krieg: Fehlende Patriot-Raketen sind Kyjiws größte Schwachstelle",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-fehlende-patriot-raketen-sind-kyjiws-groesste-schwachstelle-a-6f3eac80-fe32-436d-9d65-f1e96a5d4107#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T12:03:00+00:00"
+    },
+    {
+      "titel": "Frasers verfehlt Mehrheit bei Hugo Boss knapp",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hugo-boss-frasers-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T12:02:46+00:00"
+    },
+    {
+      "titel": "Erstes Verliebtsein: Gibt es die erste Liebe zwischen Teenagern noch?",
+      "link": "https://www.spiegel.de/kultur/erstes-verliebtsein-gibt-es-die-erste-liebe-zwischen-teenagern-noch-a-2bffeecb-64e4-4f96-937c-6ed3671fe68c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T11:56:00+00:00"
+    },
+    {
+      "titel": "USA: Wie Superreiche in Kalifornien gegen die Milliardärssteuer kämpfen",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/usa-wie-superreiche-in-kalifornien-gegen-die-milliardaerssteuer-kaempfen-a-91ba3760-d1b6-44aa-8a0e-4fa88207caa7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T11:42:00+00:00"
+    },
     {
       "titel": "Syrien: Wassim al-Assad zum Tode verurteilt",
       "link": "https://www.spiegel.de/ausland/syrien-wassim-al-assad-zum-tode-verurteilt-a-a94e2f54-bd11-490b-8803-5d3fd4157701#ref=rss",
@@ -17,6 +41,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/warnung-china-shops-deutsche-tarnung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T11:18:28+00:00"
+    },
+    {
+      "titel": "Versprechen von Söder und Reiter: Warum aus Münchens zweiter offizieller Eisbachwelle bisher nichts wurde",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-surfen-zweite-eisbachwelle-dianabadschwelle-verzoegerungen-li.3529686",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T11:16:21+00:00"
     },
     {
       "titel": "Frankreich: Justizminister Darmanin verzichtet auf Kandidatur bei Präsidentschaftswahl",
@@ -73,22 +103,16 @@
       "veroeffentlicht": "2026-08-18T10:38:52+00:00"
     },
     {
-      "titel": "Alexandra Popp: Der glückliche Abstieg in die Regionalliga",
-      "link": "https://www.spiegel.de/sport/alexandra-popp-der-glueckliche-abstieg-in-die-regionalliga-a-f2aba919-0ac3-4f6b-949c-5236589a58e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:31:00+00:00"
+      "titel": "Hörspiel: Wie man einen Herrscher bezwingt",
+      "link": "https://www.sueddeutsche.de/medien/1001-nacht-deutschlandradio-hoerspiel-kritik-li.3527522",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T09:53:56+00:00"
     },
     {
-      "titel": "Spirit Airlines: Google kauft interne Daten von insolventer US-Airline, um seine KI zu trainieren",
-      "link": "https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren-a-26cb6ba6-d7fa-4e03-9b85-59a486257720#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:23:00+00:00"
-    },
-    {
-      "titel": "Sudan: Letzte Zufluchtsorte im Süden geraten unter Druck",
-      "link": "https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:04:00+00:00"
+      "titel": "Klimakrise: Als vor 56 Millionen Jahren die Bäume starben",
+      "link": "https://www.sueddeutsche.de/wissen/kohlendioxid-waldveraenderungen-erdgeschichte-li.3533177",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T09:51:34+00:00"
     },
     {
       "titel": "Leute: Endlich Oma!",
@@ -133,40 +157,16 @@
       "veroeffentlicht": "2026-08-18T08:30:20+00:00"
     },
     {
-      "titel": "Stärkster Anstieg der Baugenehmigungen seit 2016",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugenehmigungen-wohngebaeude-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T08:13:25+00:00"
+      "titel": "Pop: Gekommen, um uns zu retten",
+      "link": "https://www.sueddeutsche.de/kultur/phoebe-bridgers-album-kritik-li.3526793",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T08:18:35+00:00"
     },
     {
       "titel": "Natur: Klimaschutz gegen Panzer",
       "link": "https://www.sueddeutsche.de/wissen/litauen-moore-schutz-panzer-klima-li.3508034",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T05:03:42+00:00"
-    },
-    {
-      "titel": "Thüringen: BSW bleibt gegen Wagenknechts Willen in der Landesregierung – Sonderparteitag",
-      "link": "https://www.sueddeutsche.de/politik/thueringen-bsw-landesregierung-wagenknecht-li.3532593",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T19:00:00+00:00"
-    },
-    {
-      "titel": "FC Barcelona: Wir können Rodri haben? Her mit ihm!",
-      "link": "https://www.sueddeutsche.de/sport/rodri-fc-barcelona-manchester-city-real-madrid-li.3532639",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T14:04:13+00:00"
-    },
-    {
-      "titel": "Wahlen in Sachsen-Anhalt: „Ich mache mir große Sorgen“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/vdma-maschinenbau-ostdeutschland-li.3529462",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T13:42:26+00:00"
-    },
-    {
-      "titel": "Verteidigung: Söder und Pistorius streiten um Rüstungsmesse",
-      "link": "https://www.sueddeutsche.de/wirtschaft/sicherheitsmessen-deutschland-nuernberg-hannover-li.3529393",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T13:39:37+00:00"
     }
   ]
 }
