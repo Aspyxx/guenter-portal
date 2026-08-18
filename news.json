@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-18T08:54:17+00:00",
+  "aktualisiert": "2026-08-18T09:50:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "US-Basketball: Fans sollten trans-Botschaften bei Spiel von Sophie Cunningham bedecken",
+      "link": "https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken-a-45ac2798-7b2b-4e1b-8252-7de04bd4e32b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T09:29:00+00:00"
+    },
+    {
+      "titel": "Großbrände in der Natur: Interview mit Experte Cimolino",
+      "link": "https://www.spiegel.de/panorama/grossbraende-in-der-natur-interview-mit-experte-cimolino-a-3e208df5-9a62-4524-87c8-e3e2690cdabd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T09:11:00+00:00"
+    },
+    {
+      "titel": "Taylor Swift, Drake und Co.: Sorgen neue Alben für mehr Verkehrsunfälle?",
+      "link": "https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle-a-0b59fcd9-c332-4f88-bf2e-7f25d592afcd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T09:10:00+00:00"
+    },
+    {
+      "titel": "Berlin: Ausmaß nach Hackerangriff auf Landesnetz unbekannt",
+      "link": "https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T09:07:00+00:00"
+    },
+    {
+      "titel": "Stuttgart: Haftstrafe im Prozess gegen Agenten Russlands",
+      "link": "https://www.spiegel.de/panorama/justiz/stuttgart-haftstrafe-im-prozess-gegen-mutmasslichen-agenten-russlands-a-0bde92a2-a99a-4ddd-a5b5-0f7e676a3669#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T09:05:00+00:00"
+    },
+    {
+      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T09:05:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX-Schwäche hält bislang an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T09:01:14+00:00"
+    },
+    {
+      "titel": "Dürre: Bauern melden große Einbrüche bei der Ernte",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte-a-3105c80f-eb44-4ec2-9bcf-1098fe4fd080#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T08:59:00+00:00"
+    },
     {
       "titel": "Hayden Panettiere: Wladimir Klitschko erinnert an Ex-Partnerin",
       "link": "https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss",
@@ -49,46 +97,10 @@
       "veroeffentlicht": "2026-08-18T07:59:47+00:00"
     },
     {
-      "titel": "Hessen: Innenministerium verbietet extremistischen Verein »Palästina e.V.«",
-      "link": "https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v-a-793bb425-cd78-4b7f-a7e7-fdd4a5a3f1cb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T07:59:00+00:00"
-    },
-    {
-      "titel": "A2 bei Kamen: Schwertransporter umgekippt – Autobahn in beide Richtungen gesperrt",
-      "link": "https://www.spiegel.de/panorama/a2-bei-kamen-schwertransporter-umgekippt-autobahn-in-beide-richtungen-gesperrt-a-17c58c55-d3c4-4559-a6e4-37af6a619b56#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T07:53:00+00:00"
-    },
-    {
       "titel": "Verhandlungsbeginn im Mordfall Tupac Shakur - war es Rache?",
       "link": "https://www.tagesschau.de/ausland/amerika/tupac-shakur-prozess-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T07:48:55+00:00"
-    },
-    {
-      "titel": "Italien: Nonnen und Gemeinde streiten um ein Strandbad",
-      "link": "https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad-a-142e04ae-8bff-4dc0-a0da-4751befda22a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T07:40:00+00:00"
-    },
-    {
-      "titel": "XPeng X9 im Test: Raumfahrt auf Rädern im Elektroauto-Van",
-      "link": "https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van-a-b50835f5-8f02-4dac-af31-84e848393d8f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T07:34:00+00:00"
-    },
-    {
-      "titel": "Dürre, Niedrigwasser, Krieg: »Salate und Möhren sind jetzt schon im Preis gestiegen«",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen-a-cc802450-36a4-46d4-9698-c0a0333e8983#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T07:20:00+00:00"
-    },
-    {
-      "titel": "Destatis: Baugenehmigungen mit stärkstem Anstieg seit zehn Jahren",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren-a-3384b0cf-73e5-4d2e-8d28-fd64956f5d08#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T07:16:00+00:00"
     },
     {
       "titel": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
@@ -103,22 +115,10 @@
       "veroeffentlicht": "2026-08-18T06:13:05+00:00"
     },
     {
-      "titel": "Marktbericht: Ölpreise ziehen an, DAX fällt zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T05:38:07+00:00"
-    },
-    {
       "titel": "Natur: Klimaschutz gegen Panzer",
       "link": "https://www.sueddeutsche.de/wissen/litauen-moore-schutz-panzer-klima-li.3508034",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T05:03:42+00:00"
-    },
-    {
-      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T04:56:00+00:00"
     },
     {
       "titel": "Thüringen: BSW bleibt gegen Wagenknechts Willen in der Landesregierung – Sonderparteitag",
