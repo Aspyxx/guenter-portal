@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-18T13:12:37+00:00",
+  "aktualisiert": "2026-08-18T13:59:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "China: Animationsfilm »Niu Lai« wird zum Megaerfolg – weil er so schlecht ist",
+      "link": "https://www.spiegel.de/kultur/kino/china-animationsfilm-niu-lai-wird-zum-megaerfolg-weil-er-so-schlecht-ist-a-bfceaadb-66e5-4ede-b25f-e4ef246d67b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T13:53:00+00:00"
+    },
+    {
+      "titel": "Deutschland stockt Ebola-Hilfe für Demokratische Republik Kongo auf",
+      "link": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T13:50:36+00:00"
+    },
+    {
+      "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T13:48:43+00:00"
+    },
+    {
+      "titel": "Thüringen: Voigt betont Zusammenhalt seiner Brombeerkoalition",
+      "link": "https://www.spiegel.de/politik/thueringen-voigt-betont-zusammenhalt-seiner-brombeerkoalition-a-26ebe033-6b00-47d7-b0b6-f10593f6da9f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T13:41:00+00:00"
+    },
+    {
+      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T13:36:00+00:00"
+    },
+    {
+      "titel": "Stiftung Denkmalschutz: Mehr als 1.000 Denkmale binnen zwei Jahren verloren",
+      "link": "https://www.tagesschau.de/kultur/denkmalschutz-schwarzbuch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T13:33:14+00:00"
+    },
+    {
+      "titel": "Thüringen: BSW will die Mitglieder entscheiden lassen",
+      "link": "https://www.sueddeutsche.de/politik/bsw-thueringen-wagenknecht-li.3533156",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T13:13:04+00:00"
+    },
+    {
+      "titel": "BVR-Prognose: Niedrigwasser bremst Konjunktur nur vorübergehend",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/genossenschaftsbankenverband-wachstumsprognose-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T13:12:38+00:00"
+    },
     {
       "titel": "Fußball: Niclas Füllkrug kehrt zurück zu Werder Bremen",
       "link": "https://www.spiegel.de/sport/fussball/fussball-niclas-fuellkrug-kehrt-zurueck-zu-werder-bremen-a-8bf7a94e-2ac3-4f13-ab5b-2553c3be2528#ref=rss",
@@ -17,6 +65,12 @@
       "link": "https://www.spiegel.de/panorama/nordrhein-westfalen-grossbrand-in-belgien-stinkt-bis-koeln-a-84494c96-875f-4d90-85ff-23f063c02eba#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T12:51:00+00:00"
+    },
+    {
+      "titel": "Parteien: Niemanden bekämpft die BSW-Gründerin so sehr wie die eigenen Leute",
+      "link": "https://www.sueddeutsche.de/meinung/bsw-wagenknecht-thueringen-kommentar-li.3533067",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T12:44:24+00:00"
     },
     {
       "titel": "Löscharbeiten im deutsch-belgischen Grenzgebiet - Brandgeruch in Köln",
@@ -73,18 +127,6 @@
       "veroeffentlicht": "2026-08-18T11:56:00+00:00"
     },
     {
-      "titel": "USA: Wie Superreiche in Kalifornien gegen die Milliardärssteuer kämpfen",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/usa-wie-superreiche-in-kalifornien-gegen-die-milliardaerssteuer-kaempfen-a-91ba3760-d1b6-44aa-8a0e-4fa88207caa7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T11:42:00+00:00"
-    },
-    {
-      "titel": "Syrien: Wassim al-Assad zum Tode verurteilt",
-      "link": "https://www.spiegel.de/ausland/syrien-wassim-al-assad-zum-tode-verurteilt-a-a94e2f54-bd11-490b-8803-5d3fd4157701#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T11:32:00+00:00"
-    },
-    {
       "titel": "China-Shops mit deutscher Tarnung täuschen Verbraucher",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/warnung-china-shops-deutsche-tarnung-100.html",
       "quelle": "Tagesschau",
@@ -95,30 +137,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-surfen-zweite-eisbachwelle-dianabadschwelle-verzoegerungen-li.3529686",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T11:16:21+00:00"
-    },
-    {
-      "titel": "Forschungszentrum soll Drohnenabwehr verbessern",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-forschungszentrum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T10:59:09+00:00"
-    },
-    {
-      "titel": "Schlechte Erntebilanz wegen Hitze und Trockenheit",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/erntebilanz-120.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T10:54:37+00:00"
-    },
-    {
-      "titel": "Angriffe über queere Datingplattformen",
-      "link": "https://www.tagesschau.de/investigativ/fake-dates-angriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T10:39:00+00:00"
-    },
-    {
-      "titel": "Jobverluste jetzt auch bei Dienstleistungen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dienstleistungen-jobverlust-firmensterben-deutschland-zew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T10:38:52+00:00"
     },
     {
       "titel": "Hörspiel: Wie man einen Herrscher bezwingt",
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-08-18T09:46:11+00:00"
     },
     {
-      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T09:45:00+00:00"
-    },
-    {
       "titel": "Storys: Das ist die Männerliteratur, die es jetzt braucht",
       "link": "https://www.sueddeutsche.de/kultur/maennerliteratur-empfehlung-tony-tulathimutte-clemens-setz-storys-fiasko-noiseband-kritik-buchempfehlungen-li.3529804",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T09:15:13+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Erdoğan ruft Trump zu Diplomatie im Iran-Krieg auf",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-erdogan-frieden-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T08:37:58+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: „KI steht im Brennpunkt der geopolitischen Konfrontation“",
-      "link": "https://www.sueddeutsche.de/politik/kuenstliche-intelligenz-ki-regulierung-urs-gasser-experte-tum-interview-li.3521114",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T08:34:17+00:00"
     }
   ]
 }
