@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-18T22:43:08+00:00",
+  "aktualisiert": "2026-08-18T23:03:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Syrien: Experten der IAEA entdecken tonnenweise nukleares Material aus der Ära Assad",
+      "link": "https://www.spiegel.de/ausland/syrien-experten-der-iaea-entdecken-tonnenweise-nukleares-material-aus-der-aera-assad-a-82a90101-3d61-491a-8fda-069d4061db13#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T22:45:00+00:00"
+    },
     {
       "titel": "Krieg in der Ukraine: Herausforderung für Selenskij: Ex-Verteidigungsminister fordert Wahlen",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-fedorow-selenskij-neuwahlen-li.3524928",
@@ -89,12 +95,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-wagenknecht-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T18:00:13+00:00"
-    },
-    {
-      "titel": "Alexander Dobrindt will Grenzkontrollen bis März 2027 verlängern",
-      "link": "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-grenzkontrollen-bis-maerz-2027-verlaengern-a-34387214-103b-4092-8c0a-613982794435#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T17:57:00+00:00"
     },
     {
       "titel": "Marokkos Jugend sieht zu Hause keine Perspektive",
