@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-18T17:45:19+00:00",
+  "aktualisiert": "2026-08-18T18:57:58+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T18:50:31+00:00"
+    },
+    {
+      "titel": "Karolina-Burger-Realschule plus: »Deutschlands gefährlichste Schule« bekommt neue Schulleitung",
+      "link": "https://www.spiegel.de/panorama/bildung/karolina-burger-realschule-plus-deutschlands-gefaehrlichste-schule-bekommt-neue-schulleitung-a-d553dac6-7977-4344-b499-fffdad53cafa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T18:49:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Wolodymyr Selenskyj nimmt an Staatsbegräbnis für 1938 ermordeten Nationalisten teil",
+      "link": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-nimmt-an-staatsbegraebnis-fuer-1938-ermordeten-nationalisten-teil-a-e8677db8-1084-4e73-b4d3-cb3b6db5f1c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T18:31:00+00:00"
+    },
+    {
+      "titel": "Nächster Zwischenfall in München: A380 der Lufthansa setzt zu früh auf",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/a380-zwischenfall-flughafen-muenchen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T18:12:26+00:00"
+    },
+    {
+      "titel": "Strümpfe: Farbig, aber heikel – ein Sockenpaar und die Kleiderordnung in London",
+      "link": "https://www.spiegel.de/ausland/struempfe-farbig-aber-heikel-ein-sockenpaar-und-die-kleiderordnung-in-london-a-de5c68f1-5e3b-4cb7-afcf-ae71026f9631#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T18:07:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: Die Tragödie um den Cambridge-Professor Jason Arday",
+      "link": "https://www.spiegel.de/ausland/grossbritannien-die-tragoedie-um-den-cambridge-professor-jason-arday-a-7a45d8d9-614f-4b6a-9e0e-a125b7a07d37#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T18:01:00+00:00"
+    },
+    {
+      "titel": "Wagenknecht und das BSW: Mit Schlagzeilen in den Überlebenskampf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-wagenknecht-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T18:00:13+00:00"
+    },
+    {
+      "titel": "Alexander Dobrindt will Grenzkontrollen bis März 2027 verlängern",
+      "link": "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-grenzkontrollen-bis-maerz-2027-verlaengern-a-34387214-103b-4092-8c0a-613982794435#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T17:57:00+00:00"
+    },
+    {
+      "titel": "China: Komiker Guo Degang steht Untersuchung bevor",
+      "link": "https://www.spiegel.de/ausland/china-komiker-guo-degang-steht-untersuchung-bevor-a-131b6ade-b897-4736-93f3-508130782cb2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T17:54:00+00:00"
+    },
     {
       "titel": "Hayden Panettiere: Ex-Freund Brian Hickerson soll bei ihr gewesen sein, als sie starb",
       "link": "https://www.spiegel.de/panorama/hayden-panettiere-ex-freund-brian-hickerson-soll-bei-ihr-gewesen-sein-als-sie-starb-a-84efcae6-f631-4885-b274-11b1597119c1#ref=rss",
@@ -31,58 +85,16 @@
       "veroeffentlicht": "2026-08-18T17:02:00+00:00"
     },
     {
-      "titel": "Kerosinablass bei Notfall in München: Wie gefährlich ist es, wenn ein Flugzeug 60 Tonnen Treibstoff versprüht?",
-      "link": "https://www.spiegel.de/wissenschaft/kerosinablass-bei-notfall-in-muenchen-wie-gefaehrlich-ist-es-wenn-ein-flugzeug-60-tonnen-treibstoff-versprueht-a-ec0d055c-8709-4d80-82fc-ca343fd831e1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T16:59:00+00:00"
-    },
-    {
-      "titel": "Sri Lanka: Ärzte entfernen Mann kiloschweren Blasenstein",
-      "link": "https://www.spiegel.de/panorama/sri-lanka-aerzte-entfernen-mann-kiloschweren-blasenstein-a-084e9c69-d253-4acb-95fd-dd5d01ad4cb8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T16:43:00+00:00"
-    },
-    {
-      "titel": "Nächster Zwischenfall in München: A380 der Lufthansa setzt zu früh auf",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/a380-zwischenfall-flughafen-muenchen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T16:40:58+00:00"
-    },
-    {
-      "titel": "Wahl in Berlin: Onlineportal für Briefwahlunterlagen gestört",
-      "link": "https://www.spiegel.de/politik/wahl-in-berlin-onlineportal-fuer-briefwahlunterlagen-gestoert-a-511e871c-b199-4a6f-80cb-c7c99b82fbec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T16:33:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: US-Präsident veröffentlicht Karte mit Straße von Hormus als US-Territorium",
-      "link": "https://www.spiegel.de/ausland/donald-trump-us-praesident-veroeffentlicht-karte-mit-strasse-von-hormus-als-us-territorium-a-d2fd1fae-160a-45be-917f-058aa8068f37#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T16:24:00+00:00"
-    },
-    {
       "titel": "Fairphone 6 Plus: Das Handy, das nicht gleich auf dem Müll landen soll",
       "link": "https://www.sueddeutsche.de/wirtschaft/fairphone-plus-smartphone-recht-reparatur-li.3530899",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T16:19:15+00:00"
     },
     {
-      "titel": "Lars Klingbeil und Josef Schuster kritisieren Itamar Ben-Gvir für Gaza-Aussagen",
-      "link": "https://www.spiegel.de/politik/lars-klingbeil-und-josef-schuster-kritisieren-itamar-ben-gvir-fuer-gaza-aussagen-a-e14b1cae-f607-4be7-9a25-9c7c286a35c9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T16:14:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Den DAX verlassen die Kräfte",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T16:13:29+00:00"
-    },
-    {
-      "titel": "Drohnen-Abwehr in Deutschland: Was Alexander Dobrindt gegen Russlands Sprengdrohnen plant",
-      "link": "https://www.spiegel.de/politik/deutschland/drohnen-abwehr-in-deutschland-was-alexander-dobrindt-gegen-russlands-sprengdrohnen-plant-a-32242630-554a-4572-b8c6-9e53c6f7f19d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T16:07:00+00:00"
     },
     {
       "titel": "Assad-Cousin in Syrien zum Tode verurteilt",
@@ -109,16 +121,10 @@
       "veroeffentlicht": "2026-08-18T15:40:22+00:00"
     },
     {
-      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T15:11:00+00:00"
-    },
-    {
-      "titel": "Deutschland stockt Ebola-Hilfe für Demokratische Republik Kongo auf",
-      "link": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T14:48:33+00:00"
+      "titel": "Soziale Medien: Gender Studies für Anfänger",
+      "link": "https://www.sueddeutsche.de/medien/zdf-alpha-wann-ist-ein-mann-ein-mann-dating-coach-gangster-rap-37-grad-groenemeyer-gender-studies-li.3524596",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T13:31:25+00:00"
     },
     {
       "titel": "Fifa: Eine Trennung, die zeigt, wie verzweifelt Infantino um sein Amt kämpft",
@@ -151,22 +157,16 @@
       "veroeffentlicht": "2026-08-18T12:52:31+00:00"
     },
     {
+      "titel": "Vermisstenfälle: Der Krimi um Mali und Liel Yahalomi",
+      "link": "https://www.sueddeutsche.de/panorama/mali-liel-yahalomi-touristinnen-israel-wien-vermisst-krimi-li.3532903",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T12:51:28+00:00"
+    },
+    {
       "titel": "Parteien: Der AfD-Politiker mit dem Baseballschläger",
       "link": "https://www.sueddeutsche.de/meinung/arno-bausemer-afd-sachsen-anhalt-europaabgeordneter-wahlplakat-li.3533075",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T12:48:05+00:00"
-    },
-    {
-      "titel": "Parteien: Niemanden bekämpft die BSW-Gründerin so sehr wie die eigenen Leute",
-      "link": "https://www.sueddeutsche.de/meinung/bsw-wagenknecht-thueringen-kommentar-li.3533067",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T12:44:24+00:00"
-    },
-    {
-      "titel": "US-Präsidentschaft: Ballast abwerfen, vorsorgen, durchstarten",
-      "link": "https://www.sueddeutsche.de/kultur/alexandria-ocasio-cortez-woke-haltung-usa-li.3532105",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T12:39:48+00:00"
     }
   ]
 }
