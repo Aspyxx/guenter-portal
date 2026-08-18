@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-18T19:41:53+00:00",
+  "aktualisiert": "2026-08-18T20:00:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kanye West: Ye plant Shows in Russland und will Wladimirt Putin treffen",
+      "link": "https://www.spiegel.de/panorama/leute/kanye-west-ye-plant-shows-in-russland-und-will-wladimirt-putin-treffen-a-affaa5cc-4573-40b5-b090-0fafe299c20e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T19:45:00+00:00"
+    },
     {
       "titel": "FC Bayern München: Jamal Musiala gibt nach erneutem Kollaps neurologische Diagnose bekannt",
       "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jamal-musiala-gibt-nach-erneutem-kollaps-neurologische-diagnose-bekannt-a-bbc4a010-b09d-4945-b238-c14a754d83fc#ref=rss",
@@ -77,12 +83,6 @@
       "link": "https://www.tagesschau.de/ausland/afrika/marokko-jugend-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T17:13:05+00:00"
-    },
-    {
-      "titel": "München: Verletzter nach Schuss von Polizei in Schwabing",
-      "link": "https://www.spiegel.de/panorama/justiz/muenchen-verletzter-nach-schuss-von-polizei-in-schwabing-a-70e54250-aca3-478f-af72-f7b617fe8485#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T17:08:00+00:00"
     },
     {
       "titel": "Fairphone 6 Plus: Das Handy, das nicht gleich auf dem Müll landen soll",
