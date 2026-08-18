@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-18T18:57:58+00:00",
+  "aktualisiert": "2026-08-18T19:41:53+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "FC Bayern München: Jamal Musiala gibt nach erneutem Kollaps neurologische Diagnose bekannt",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jamal-musiala-gibt-nach-erneutem-kollaps-neurologische-diagnose-bekannt-a-bbc4a010-b09d-4945-b238-c14a754d83fc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T19:15:00+00:00"
+    },
     {
       "titel": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
@@ -55,14 +61,14 @@
       "veroeffentlicht": "2026-08-18T17:57:00+00:00"
     },
     {
-      "titel": "China: Komiker Guo Degang steht Untersuchung bevor",
-      "link": "https://www.spiegel.de/ausland/china-komiker-guo-degang-steht-untersuchung-bevor-a-131b6ade-b897-4736-93f3-508130782cb2#ref=rss",
+      "titel": "China: Comedian Guo Degang macht Witz – und darf nicht mehr auftreten",
+      "link": "https://www.spiegel.de/ausland/china-comedian-guo-degang-macht-witz-und-darf-nicht-mehr-auftreten-a-131b6ade-b897-4736-93f3-508130782cb2#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T17:54:00+00:00"
     },
     {
-      "titel": "Hayden Panettiere: Ex-Freund Brian Hickerson soll bei ihr gewesen sein, als sie starb",
-      "link": "https://www.spiegel.de/panorama/hayden-panettiere-ex-freund-brian-hickerson-soll-bei-ihr-gewesen-sein-als-sie-starb-a-84efcae6-f631-4885-b274-11b1597119c1#ref=rss",
+      "titel": "Hayden Panettiere: Ex Brian Hickerson soll bei ihr gewesen sein, als sie starb",
+      "link": "https://www.spiegel.de/panorama/hayden-panettiere-ex-brian-hickerson-soll-bei-ihr-gewesen-sein-als-sie-starb-a-84efcae6-f631-4885-b274-11b1597119c1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T17:26:00+00:00"
     },
@@ -77,12 +83,6 @@
       "link": "https://www.spiegel.de/panorama/justiz/muenchen-verletzter-nach-schuss-von-polizei-in-schwabing-a-70e54250-aca3-478f-af72-f7b617fe8485#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T17:08:00+00:00"
-    },
-    {
-      "titel": "Hohes Venn, Belgien: Warum sich das Feuer kaum löschen lässt",
-      "link": "https://www.spiegel.de/wissenschaft/natur/hohes-venn-belgien-warum-sich-das-feuer-kaum-loeschen-laesst-a-b1745518-e04c-4d81-ae83-b1ed2670edd2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T17:02:00+00:00"
     },
     {
       "titel": "Fairphone 6 Plus: Das Handy, das nicht gleich auf dem Müll landen soll",
