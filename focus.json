@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-18T07:59:08+00:00",
+  "aktualisiert": "2026-08-18T08:33:41+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Moskau",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-drohnen-100.html",
+      "titel": "Bundesumweltminister Schneider besucht Ukraine: Wiederaufbau im Fokus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
       "rang": 2,
-      "titel": "Fremdenfeindlichkeit schadet Südafrikas Ansehen",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gipfel-fremdenfeindlichkkeit-100.html",
+      "titel": "Landwirtschaftsminister will Bauern helfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/agrarminister-bauern-trockenheit-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
-      "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
+      "titel": "Ölpreise ziehen an, DAX fällt zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
