@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-18T03:09:24+00:00",
+  "aktualisiert": "2026-08-18T03:59:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Account-Teilen bei ChatGPT, Claude, Gemini: Ist das erlaubt und sinnvoll? Was kann passieren?",
+      "link": "https://www.spiegel.de/netzwelt/web/account-teilen-bei-chatgpt-claude-gemini-ist-das-erlaubt-und-sinnvoll-was-kann-passieren-a-cb42966e-ce2b-47c0-ba9a-ce792a646cab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T03:43:00+00:00"
+    },
+    {
+      "titel": "News: Dürre und Gemüsepreise, Schutz vor Drohnen, Deutschlands Top-Rating wackelt",
+      "link": "https://www.spiegel.de/politik/deutschland/news-duerre-und-gemuesepreise-schutz-vor-drohnen-deutschlands-top-rating-wackelt-a-71a55e89-6bb1-47a6-a376-688dcda7b7de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T03:39:00+00:00"
+    },
+    {
+      "titel": "Hunde und Fitness: Warum Hundehalter gesünder leben – und was sie beachten müssen",
+      "link": "https://www.spiegel.de/fitness/hunde-und-fitness-warum-hundehalter-gesuender-leben-und-was-sie-beachten-muessen-a-2ba79ac4-d4e1-49d7-9d00-86e498542749#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T03:30:00+00:00"
+    },
+    {
+      "titel": "Fitness: Eine KI kann Ihr Training planen. Aber ist das gut genug?",
+      "link": "https://www.spiegel.de/fitness/fitness-eine-ki-kann-ihr-training-planen-aber-ist-das-gut-genug-a-2a581485-f8e4-4732-9a92-56f8d911f6e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T03:30:00+00:00"
+    },
+    {
+      "titel": "Norwegen: König Harald V. muss wieder im Krankenhaus behandelt werden",
+      "link": "https://www.spiegel.de/panorama/norwegen-koenig-harald-v-muss-wieder-im-krankenhaus-behandelt-werden-a-36e0a948-5682-4d13-9be3-977c54685f23#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T03:30:00+00:00"
+    },
+    {
+      "titel": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T03:27:51+00:00"
+    },
+    {
+      "titel": "Einsatz britischer Drohnen in Russland: Russland reagiert empört",
+      "link": "https://www.spiegel.de/ausland/einsatz-britischer-drohnen-in-russland-russland-reagiert-empoert-a-0a667fa8-7c0f-4765-96e3-59e01bba381d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T03:16:00+00:00"
+    },
     {
       "titel": "Unfälle mit E-Scootern: \"Jeder Helm ist eine Hilfe\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-helmpflicht-100.html",
@@ -55,46 +97,10 @@
       "veroeffentlicht": "2026-08-18T00:30:00+00:00"
     },
     {
-      "titel": "Jason Arday: Tausende gedenken Ex-Cambridge-Professor bei Mahnwache",
-      "link": "https://www.spiegel.de/panorama/jason-arday-tausende-gedenken-ex-cambridge-professor-bei-mahnwache-a-a9944a8e-6a05-44a3-b57f-8366e413ca2f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T23:34:00+00:00"
-    },
-    {
-      "titel": "Wahl in Brasilien: Präsident Lula droht Ärger wegen Hommage auf Karnevalsumzug",
-      "link": "https://www.spiegel.de/ausland/wahl-in-brasilien-praesident-lula-droht-aerger-wegen-hommage-auf-karnevalsumzug-a-53891b78-a760-4012-8eb8-084b9f64899b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T22:24:00+00:00"
-    },
-    {
       "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T20:10:26+00:00"
-    },
-    {
-      "titel": "Donald Trump: Zustimmungswerte in den USA fallen in Umfrage auf Tiefpunkt",
-      "link": "https://www.spiegel.de/ausland/donald-trump-zustimmungswerte-in-den-usa-fallen-in-umfrage-auf-tiefpunkt-a-99a34801-efff-4afd-87d5-2d206c028cdd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T20:03:00+00:00"
-    },
-    {
-      "titel": "Fifa feuert Infantino-Kritiker Kevin Lamour",
-      "link": "https://www.spiegel.de/sport/fussball/fifa-feuert-infantino-kritiker-kevin-lamour-a-2092f499-8ab9-4ecd-af23-1e1770768429#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T19:49:00+00:00"
-    },
-    {
-      "titel": "Haus in Hamburg-Altona abgerissen: »Alle raus hier« – wie elf Menschen von einem Moment auf den anderen ihr Zuhause verloren",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/haus-in-hamburg-altona-abgerissen-alle-raus-hier-wie-elf-menschen-von-einem-moment-auf-den-anderen-ihr-zuhause-verloren-a-7223f812-cf2f-49e7-b808-c8333ac5ab05#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T18:52:00+00:00"
-    },
-    {
-      "titel": "Tübingen: Eine nicht aufgestellte Tischtennisplatte sorgte für Aufstand in JVA",
-      "link": "https://www.spiegel.de/panorama/justiz/tuebingen-eine-nicht-aufgestellte-tischtennisplatte-sorgte-fuer-aufstand-in-jva-a-0a2c8cea-e74c-4028-abc4-b089d5692871#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T18:20:00+00:00"
     },
     {
       "titel": "Experte über Notlandung in München: \"Es war wirklich knapp\"",
@@ -107,12 +113,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T17:04:10+00:00"
-    },
-    {
-      "titel": "Vorstoß zu Klimaanpassung: Rückt eine Grundgesetzänderung näher?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimaaktionsplan-union-grundgesetzaenderung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T16:47:30+00:00"
     },
     {
       "titel": "Verteidigung: Söder und Pistorius streiten um Rüstungsmesse",
