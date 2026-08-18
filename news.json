@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-17T23:38:31+00:00",
+  "aktualisiert": "2026-08-18T01:51:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tupac Shakur: Im Mord-Prozess gegen Duane Davis hält Anklage ihr Eröffnungsplädoyer",
+      "link": "https://www.spiegel.de/panorama/tupac-shakur-im-mord-prozess-gegen-duane-davis-haelt-anklage-ihr-eroeffnungsplaedoyer-a-357227e7-fbf4-4b30-a0d9-8cd184bcebca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T00:47:00+00:00"
+    },
+    {
+      "titel": "Schwesig will nicht SPD-Chefin werden",
+      "link": "https://www.spiegel.de/politik/schwesig-will-nicht-spd-chefin-werden-a-9904dd2b-673f-4707-b1d1-0510c5d825d8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T00:30:00+00:00"
+    },
     {
       "titel": "Jason Arday: Tausende gedenken Ex-Cambridge-Professor bei Mahnwache",
       "link": "https://www.spiegel.de/panorama/jason-arday-tausende-gedenken-ex-cambridge-professor-bei-mahnwache-a-a9944a8e-6a05-44a3-b57f-8366e413ca2f#ref=rss",
@@ -53,18 +65,6 @@
       "link": "https://www.spiegel.de/ausland/gaza-dill-chili-knoblauch-mona-al-ghalayini-kocht-in-kairo-gegen-den-krieg-a-1462f903-de78-4422-8116-4e75b3170d51#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-17T18:05:00+00:00"
-    },
-    {
-      "titel": "Aggression im Straßenverkehr: Warum die Straße immer mehr zur Kampfzone wird",
-      "link": "https://www.spiegel.de/mobilitaet/auto/aggression-im-strassenverkehr-warum-die-strasse-immer-mehr-zur-kampfzone-wird-a-17a15ffd-1e72-4544-bc71-7a8003cddb8a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T18:01:00+00:00"
-    },
-    {
-      "titel": "Grünenfraktionschefin in Mecklenburg-Vorpommern räumt Posten",
-      "link": "https://www.spiegel.de/politik/deutschland/gruenen-fraktionschefin-in-mecklenburg-vorpommern-raeumt-posten-a-999b8c36-83be-4935-b159-a24a32c58a2c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T17:54:00+00:00"
     },
     {
       "titel": "Experte über Notlandung in München: \"Es war wirklich knapp\"",
