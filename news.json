@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-18T16:49:24+00:00",
+  "aktualisiert": "2026-08-18T17:45:19+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hayden Panettiere: Ex-Freund Brian Hickerson soll bei ihr gewesen sein, als sie starb",
+      "link": "https://www.spiegel.de/panorama/hayden-panettiere-ex-freund-brian-hickerson-soll-bei-ihr-gewesen-sein-als-sie-starb-a-84efcae6-f631-4885-b274-11b1597119c1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T17:26:00+00:00"
+    },
+    {
+      "titel": "Marokkos Jugend sieht zu Hause keine Perspektive",
+      "link": "https://www.tagesschau.de/ausland/afrika/marokko-jugend-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T17:13:05+00:00"
+    },
+    {
+      "titel": "München: Verletzter nach Schuss von Polizei in Schwabing",
+      "link": "https://www.spiegel.de/panorama/justiz/muenchen-verletzter-nach-schuss-von-polizei-in-schwabing-a-70e54250-aca3-478f-af72-f7b617fe8485#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T17:08:00+00:00"
+    },
+    {
+      "titel": "Hohes Venn, Belgien: Warum sich das Feuer kaum löschen lässt",
+      "link": "https://www.spiegel.de/wissenschaft/natur/hohes-venn-belgien-warum-sich-das-feuer-kaum-loeschen-laesst-a-b1745518-e04c-4d81-ae83-b1ed2670edd2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T17:02:00+00:00"
+    },
+    {
+      "titel": "Kerosinablass bei Notfall in München: Wie gefährlich ist es, wenn ein Flugzeug 60 Tonnen Treibstoff versprüht?",
+      "link": "https://www.spiegel.de/wissenschaft/kerosinablass-bei-notfall-in-muenchen-wie-gefaehrlich-ist-es-wenn-ein-flugzeug-60-tonnen-treibstoff-versprueht-a-ec0d055c-8709-4d80-82fc-ca343fd831e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T16:59:00+00:00"
+    },
     {
       "titel": "Sri Lanka: Ärzte entfernen Mann kiloschweren Blasenstein",
       "link": "https://www.spiegel.de/panorama/sri-lanka-aerzte-entfernen-mann-kiloschweren-blasenstein-a-084e9c69-d253-4acb-95fd-dd5d01ad4cb8#ref=rss",
@@ -31,6 +61,12 @@
       "veroeffentlicht": "2026-08-18T16:24:00+00:00"
     },
     {
+      "titel": "Fairphone 6 Plus: Das Handy, das nicht gleich auf dem Müll landen soll",
+      "link": "https://www.sueddeutsche.de/wirtschaft/fairphone-plus-smartphone-recht-reparatur-li.3530899",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T16:19:15+00:00"
+    },
+    {
       "titel": "Lars Klingbeil und Josef Schuster kritisieren Itamar Ben-Gvir für Gaza-Aussagen",
       "link": "https://www.spiegel.de/politik/lars-klingbeil-und-josef-schuster-kritisieren-itamar-ben-gvir-fuer-gaza-aussagen-a-e14b1cae-f607-4be7-9a25-9c7c286a35c9#ref=rss",
       "quelle": "SPIEGEL",
@@ -53,30 +89,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-cousin-todesurteil-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T16:03:42+00:00"
-    },
-    {
-      "titel": "Backen: Macht Sauerteig das Brot besser?",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/backen-macht-sauerteig-das-brot-besser-a-be83b39a-562a-476d-acb7-18d78ad04709#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T16:03:00+00:00"
-    },
-    {
-      "titel": "Südkorea: Donald Trump kürzt Militärübungen und verlangt höhere Zahlungen",
-      "link": "https://www.spiegel.de/ausland/suedkorea-donald-trump-kuerzt-militaeruebungen-und-verlangt-hoehere-zahlungen-a-325610ac-8459-465b-a140-bee6d75612dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T16:01:00+00:00"
-    },
-    {
-      "titel": "Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus",
-      "link": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-oman-mit-vernichtung-wegen-strasse-von-hormus-a-f836aa9d-a6af-4209-9750-b8ef882511ff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T15:57:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Segeljacht treibt führerlos vor Küste",
-      "link": "https://www.spiegel.de/panorama/frankreich-segeljacht-treibt-fuehrerlos-vor-kueste-a-1e9d612f-4397-4e66-9cd7-27341b635551#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T15:52:00+00:00"
     },
     {
       "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
@@ -107,12 +119,6 @@
       "link": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T14:48:33+00:00"
-    },
-    {
-      "titel": "Alpen: Wie gestiegene Temperaturen zur Gefahr für Wanderer werden",
-      "link": "https://www.tagesschau.de/ausland/europa/matterhorn-gletscherschmelze-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T14:43:58+00:00"
     },
     {
       "titel": "Fifa: Eine Trennung, die zeigt, wie verzweifelt Infantino um sein Amt kämpft",
@@ -157,16 +163,10 @@
       "veroeffentlicht": "2026-08-18T12:44:24+00:00"
     },
     {
-      "titel": "Werder Bremen: Der hässliche Vogel kehrt zurück",
-      "link": "https://www.sueddeutsche.de/sport/werder-transfer-fuellkrug-rueckkehr-li.3533111",
+      "titel": "US-Präsidentschaft: Ballast abwerfen, vorsorgen, durchstarten",
+      "link": "https://www.sueddeutsche.de/kultur/alexandria-ocasio-cortez-woke-haltung-usa-li.3532105",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T12:09:25+00:00"
-    },
-    {
-      "titel": "Kinodrama aus China: Peking tischt Hollywood Antikriegsfilm auf",
-      "link": "https://www.sueddeutsche.de/politik/china-kino-nahost-antikriegsfilm-usa-propaganda-li.3532657",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T11:55:50+00:00"
+      "veroeffentlicht": "2026-08-18T12:39:48+00:00"
     }
   ]
 }
