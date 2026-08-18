@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-18T23:03:17+00:00",
+  "aktualisiert": "2026-08-18T23:38:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Leichnam eines seit 44 Jahren vermissten israelischen Soldaten geborgen",
+      "link": "https://www.spiegel.de/ausland/leichnam-eines-seit-44-jahren-vermissten-israelischen-soldaten-geborgen-a-5f4e5c51-175f-4a29-8df8-aa8120cbb5f2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T23:10:00+00:00"
+    },
     {
       "titel": "Syrien: Experten der IAEA entdecken tonnenweise nukleares Material aus der Ära Assad",
       "link": "https://www.spiegel.de/ausland/syrien-experten-der-iaea-entdecken-tonnenweise-nukleares-material-aus-der-aera-assad-a-82a90101-3d61-491a-8fda-069d4061db13#ref=rss",
@@ -83,12 +89,6 @@
       "link": "https://www.spiegel.de/ausland/struempfe-farbig-aber-heikel-ein-sockenpaar-und-die-kleiderordnung-in-london-a-de5c68f1-5e3b-4cb7-afcf-ae71026f9631#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T18:07:00+00:00"
-    },
-    {
-      "titel": "Großbritannien: Die Tragödie um den Cambridge-Professor Jason Arday",
-      "link": "https://www.spiegel.de/ausland/grossbritannien-die-tragoedie-um-den-cambridge-professor-jason-arday-a-7a45d8d9-614f-4b6a-9e0e-a125b7a07d37#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T18:01:00+00:00"
     },
     {
       "titel": "Wagenknecht und das BSW: Mit Schlagzeilen in den Überlebenskampf",
