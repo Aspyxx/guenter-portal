@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-18T13:59:28+00:00",
+  "aktualisiert": "2026-08-18T14:53:44+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,64 @@
   },
   "meldungen": [
     {
+      "titel": "Deutschland stockt Ebola-Hilfe für Demokratische Republik Kongo auf",
+      "link": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T14:48:33+00:00"
+    },
+    {
+      "titel": "Diana: Charles Spencer schreibt Biografie über seine Schwester",
+      "link": "https://www.spiegel.de/panorama/diana-charles-spencer-schreibt-biografie-ueber-seine-schwester-a-11409eac-5eb9-4668-ba82-2c015e0aa0cb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T14:44:00+00:00"
+    },
+    {
+      "titel": "Alpen: Wie gestiegene Temperaturen zur Gefahr für Wanderer werden",
+      "link": "https://www.tagesschau.de/ausland/europa/matterhorn-gletscherschmelze-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T14:43:58+00:00"
+    },
+    {
+      "titel": "Boeing am Flughafen München: Flugzeug von Vietnam Airlines hatte offenbar Beschleunigungsprobleme",
+      "link": "https://www.spiegel.de/wissenschaft/technik/boeing-am-flughafen-muenchen-flugzeug-von-vietnam-airlines-hatte-offenbar-beschleunigungsprobleme-a-96691fc6-a849-4377-9006-118d74f1be4e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T14:37:00+00:00"
+    },
+    {
+      "titel": "Niclas Füllkrug: Rückkehr zu Werder Bremen als Rettungsmission",
+      "link": "https://www.spiegel.de/sport/fussball/niclas-fuellkrug-rueckkehr-zu-werder-bremen-als-rettungsmission-a-0493de1a-b8af-4ed7-82f6-b0686d389799#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T14:36:00+00:00"
+    },
+    {
+      "titel": "BSW: Was hat die offene Rebellion gegen Sahra Wagenknecht zu bedeuten?",
+      "link": "https://www.spiegel.de/politik/deutschland/bsw-was-hat-die-offene-rebellion-gegen-sahra-wagenknecht-zu-bedeuten-a-7f25be05-ab5d-41d5-90a7-c0fc266881a2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T14:26:00+00:00"
+    },
+    {
+      "titel": "Rosie O’Donnell teilt bei »Jimmy Kimmel Live« gegen Donald Trump aus",
+      "link": "https://www.spiegel.de/panorama/leute/rosie-odonnell-teilt-bei-jimmy-kimmel-live-gegen-donald-trump-aus-a-b0a5ac21-0d6d-4f18-8a75-b0d462e88ec2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T14:26:00+00:00"
+    },
+    {
+      "titel": "Streik: Ver.di droht mit Arbeitskampf im Supermarkt",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/streik-ver-di-droht-mit-arbeitskampf-im-supermarkt-a-5c78aa44-45f1-49ae-9e8a-2488022ccdbd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T14:16:00+00:00"
+    },
+    {
+      "titel": "2Pac – Tupac Shakur: Prozess startet in Las Vegas – Die Nacht, in der die Hölle losbrach",
+      "link": "https://www.spiegel.de/kultur/musik/2pac-tupac-shakur-prozess-startet-in-las-vegas-die-nacht-in-der-die-hoelle-losbrach-a-fd3f063f-85ab-4911-8cf5-45c8324abeaa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T14:03:00+00:00"
+    },
+    {
       "titel": "China: Animationsfilm »Niu Lai« wird zum Megaerfolg – weil er so schlecht ist",
       "link": "https://www.spiegel.de/kultur/kino/china-animationsfilm-niu-lai-wird-zum-megaerfolg-weil-er-so-schlecht-ist-a-bfceaadb-66e5-4ede-b25f-e4ef246d67b1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T13:53:00+00:00"
-    },
-    {
-      "titel": "Deutschland stockt Ebola-Hilfe für Demokratische Republik Kongo auf",
-      "link": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T13:50:36+00:00"
     },
     {
       "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
@@ -43,6 +91,18 @@
       "veroeffentlicht": "2026-08-18T13:33:14+00:00"
     },
     {
+      "titel": "Fifa: Eine Trennung, die zeigt, wie verzweifelt Infantino um sein Amt kämpft",
+      "link": "https://www.sueddeutsche.de/sport/fussball-fifa-infantino-trennung-lamour-mitarbeiter-li.3533130",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T13:13:47+00:00"
+    },
+    {
+      "titel": "Fifa: Wer Infantino widerspricht, der fliegt",
+      "link": "https://www.sueddeutsche.de/sport/infantino-amtszeit-wahlen-compliance-gegner-li.3533131",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T13:13:26+00:00"
+    },
+    {
       "titel": "Thüringen: BSW will die Mitglieder entscheiden lassen",
       "link": "https://www.sueddeutsche.de/politik/bsw-thueringen-wagenknecht-li.3533156",
       "quelle": "Süddeutsche",
@@ -55,16 +115,16 @@
       "veroeffentlicht": "2026-08-18T13:12:38+00:00"
     },
     {
-      "titel": "Fußball: Niclas Füllkrug kehrt zurück zu Werder Bremen",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-niclas-fuellkrug-kehrt-zurueck-zu-werder-bremen-a-8bf7a94e-2ac3-4f13-ab5b-2553c3be2528#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T13:03:00+00:00"
+      "titel": "Libanon: Israels Kampf um die Burg",
+      "link": "https://www.sueddeutsche.de/politik/libanon-konflikt-beaufort-burg-hisbollah-kampf-li.3532771",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T12:52:31+00:00"
     },
     {
-      "titel": "Nordrhein-Westfalen: Großbrand in Belgien stinkt bis Köln",
-      "link": "https://www.spiegel.de/panorama/nordrhein-westfalen-grossbrand-in-belgien-stinkt-bis-koeln-a-84494c96-875f-4d90-85ff-23f063c02eba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T12:51:00+00:00"
+      "titel": "Parteien: Der AfD-Politiker mit dem Baseballschläger",
+      "link": "https://www.sueddeutsche.de/meinung/arno-bausemer-afd-sachsen-anhalt-europaabgeordneter-wahlplakat-li.3533075",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T12:48:05+00:00"
     },
     {
       "titel": "Parteien: Niemanden bekämpft die BSW-Gründerin so sehr wie die eigenen Leute",
@@ -79,28 +139,10 @@
       "veroeffentlicht": "2026-08-18T12:41:51+00:00"
     },
     {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T12:39:00+00:00"
-    },
-    {
       "titel": "Ukraine: Schneider sagt weitere deutsche Unterstützung zu",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T12:32:54+00:00"
-    },
-    {
-      "titel": "Koblenz: Angeklagter gesteht Mord an US-Studentin Amy Lopez",
-      "link": "https://www.spiegel.de/panorama/justiz/koblenz-angeklagter-gesteht-mord-an-us-studentin-amy-lopez-a-71c83eef-4389-4bdb-b7ad-35f9abff8367#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T12:23:00+00:00"
-    },
-    {
-      "titel": "Pflegegrad schnell beantragen, empfiehlt der Sozialverband",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/pflegegrad-schnell-beantragen-empfiehlt-der-sozialverband-a-44f0250c-05f7-48b4-8130-06111353e9b9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T12:16:00+00:00"
     },
     {
       "titel": "Werder Bremen: Der hässliche Vogel kehrt zurück",
@@ -109,64 +151,22 @@
       "veroeffentlicht": "2026-08-18T12:09:25+00:00"
     },
     {
-      "titel": "Ukraine-Krieg: Fehlende Patriot-Raketen sind Kyjiws größte Schwachstelle",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-fehlende-patriot-raketen-sind-kyjiws-groesste-schwachstelle-a-6f3eac80-fe32-436d-9d65-f1e96a5d4107#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T12:03:00+00:00"
-    },
-    {
       "titel": "Frasers verfehlt Mehrheit bei Hugo Boss knapp",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hugo-boss-frasers-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T12:02:46+00:00"
     },
     {
-      "titel": "Erstes Verliebtsein: Gibt es die erste Liebe zwischen Teenagern noch?",
-      "link": "https://www.spiegel.de/kultur/erstes-verliebtsein-gibt-es-die-erste-liebe-zwischen-teenagern-noch-a-2bffeecb-64e4-4f96-937c-6ed3671fe68c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T11:56:00+00:00"
-    },
-    {
-      "titel": "China-Shops mit deutscher Tarnung täuschen Verbraucher",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/warnung-china-shops-deutsche-tarnung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T11:18:28+00:00"
-    },
-    {
-      "titel": "Versprechen von Söder und Reiter: Warum aus Münchens zweiter offizieller Eisbachwelle bisher nichts wurde",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-surfen-zweite-eisbachwelle-dianabadschwelle-verzoegerungen-li.3529686",
+      "titel": "Nahostkonflikt: Israelischer Minister fordert gezielte Tötung von Palästinensern in Gaza",
+      "link": "https://www.sueddeutsche.de/politik/sicherheitsminister-ben-gvir-toetungen-gaza-li.3533122",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T11:16:21+00:00"
+      "veroeffentlicht": "2026-08-18T11:45:02+00:00"
     },
     {
-      "titel": "Hörspiel: Wie man einen Herrscher bezwingt",
-      "link": "https://www.sueddeutsche.de/medien/1001-nacht-deutschlandradio-hoerspiel-kritik-li.3527522",
+      "titel": "Nahost: Sanktionen gegen Israels Sicherheitsminister Ben-Gvir sind überfällig",
+      "link": "https://www.sueddeutsche.de/meinung/israel-kritik-sicherheitsminister-ben-gvir-reaktionen-kommentar-li.3533081",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T09:53:56+00:00"
-    },
-    {
-      "titel": "Klimakrise: Als vor 56 Millionen Jahren die Bäume starben",
-      "link": "https://www.sueddeutsche.de/wissen/kohlendioxid-waldveraenderungen-erdgeschichte-li.3533177",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T09:51:34+00:00"
-    },
-    {
-      "titel": "Leute: Endlich Oma!",
-      "link": "https://www.sueddeutsche.de/panorama/salma-hayek-oma-stiefenkel-pinault-donnersmarck-promis-li.3533093",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T09:48:39+00:00"
-    },
-    {
-      "titel": "Krieg am Golf: Der US-Präsident bellt, weil er nicht beißen kann",
-      "link": "https://www.sueddeutsche.de/meinung/usa-trump-oman-iran-krieg-kommentar-li.3533069",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T09:46:11+00:00"
-    },
-    {
-      "titel": "Storys: Das ist die Männerliteratur, die es jetzt braucht",
-      "link": "https://www.sueddeutsche.de/kultur/maennerliteratur-empfehlung-tony-tulathimutte-clemens-setz-storys-fiasko-noiseband-kritik-buchempfehlungen-li.3529804",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T09:15:13+00:00"
+      "veroeffentlicht": "2026-08-18T11:27:50+00:00"
     }
   ]
 }
