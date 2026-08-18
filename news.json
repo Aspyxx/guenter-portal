@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-18T12:14:10+00:00",
+  "aktualisiert": "2026-08-18T13:12:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Fußball: Niclas Füllkrug kehrt zurück zu Werder Bremen",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-niclas-fuellkrug-kehrt-zurueck-zu-werder-bremen-a-8bf7a94e-2ac3-4f13-ab5b-2553c3be2528#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T13:03:00+00:00"
+    },
+    {
+      "titel": "Nordrhein-Westfalen: Großbrand in Belgien stinkt bis Köln",
+      "link": "https://www.spiegel.de/panorama/nordrhein-westfalen-grossbrand-in-belgien-stinkt-bis-koeln-a-84494c96-875f-4d90-85ff-23f063c02eba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T12:51:00+00:00"
+    },
+    {
+      "titel": "Löscharbeiten im deutsch-belgischen Grenzgebiet - Brandgeruch in Köln",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-hohesvenn-belgien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T12:41:51+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T12:39:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Schneider sagt weitere deutsche Unterstützung zu",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T12:32:54+00:00"
+    },
+    {
+      "titel": "Koblenz: Angeklagter gesteht Mord an US-Studentin Amy Lopez",
+      "link": "https://www.spiegel.de/panorama/justiz/koblenz-angeklagter-gesteht-mord-an-us-studentin-amy-lopez-a-71c83eef-4389-4bdb-b7ad-35f9abff8367#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T12:23:00+00:00"
+    },
+    {
+      "titel": "Pflegegrad schnell beantragen, empfiehlt der Sozialverband",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/pflegegrad-schnell-beantragen-empfiehlt-der-sozialverband-a-44f0250c-05f7-48b4-8130-06111353e9b9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T12:16:00+00:00"
+    },
+    {
+      "titel": "Werder Bremen: Der hässliche Vogel kehrt zurück",
+      "link": "https://www.sueddeutsche.de/sport/werder-transfer-fuellkrug-rueckkehr-li.3533111",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T12:09:25+00:00"
+    },
     {
       "titel": "Ukraine-Krieg: Fehlende Patriot-Raketen sind Kyjiws größte Schwachstelle",
       "link": "https://www.spiegel.de/ausland/ukraine-krieg-fehlende-patriot-raketen-sind-kyjiws-groesste-schwachstelle-a-6f3eac80-fe32-436d-9d65-f1e96a5d4107#ref=rss",
@@ -49,18 +97,6 @@
       "veroeffentlicht": "2026-08-18T11:16:21+00:00"
     },
     {
-      "titel": "Frankreich: Justizminister Darmanin verzichtet auf Kandidatur bei Präsidentschaftswahl",
-      "link": "https://www.spiegel.de/ausland/frankreich-justizminister-darmanin-verzichtet-auf-kandidatur-bei-praesidentschaftswahl-a-d9d52d1a-543c-4f12-b7fe-f1ef81f7d0d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T11:11:00+00:00"
-    },
-    {
-      "titel": "Gianni Infantino: Niersbach sieht Concacaf-Chef Victor Montagliani als Alternative",
-      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative-a-7c62dc91-6293-4059-9ecc-78fb1b00bce3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T11:03:00+00:00"
-    },
-    {
       "titel": "Forschungszentrum soll Drohnenabwehr verbessern",
       "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-forschungszentrum-100.html",
       "quelle": "Tagesschau",
@@ -71,24 +107,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/erntebilanz-120.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T10:54:37+00:00"
-    },
-    {
-      "titel": "Sifnos: Brautpaar stirbt nach Hubschrauberabsturz auf griechischer Insel",
-      "link": "https://www.spiegel.de/panorama/justiz/sifnos-brautpaar-stirbt-nach-hubschrauberabsturz-auf-griechischer-insel-a-9d08192c-5cdb-4c58-9b2c-32fdd1fefbbf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:48:00+00:00"
-    },
-    {
-      "titel": "Drohnenabwehr in Deutschland: Forschungszentrum in Sachsen-Anhalt nimmt Arbeit auf",
-      "link": "https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf-a-cbad6d68-e356-41b2-9883-0aa470e30df5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:47:00+00:00"
-    },
-    {
-      "titel": "Lena Headey: Schauspielerin aus »Game of Thrones« fand Sexszenen »wirklich erschreckend«",
-      "link": "https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend-a-17588def-b44f-4ead-a8f0-e7427cc4a238#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:46:00+00:00"
     },
     {
       "titel": "Angriffe über queere Datingplattformen",
@@ -133,10 +151,10 @@
       "veroeffentlicht": "2026-08-18T09:45:00+00:00"
     },
     {
-      "titel": "Marktbericht: DAX-Schwäche hält bislang an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T09:01:14+00:00"
+      "titel": "Storys: Das ist die Männerliteratur, die es jetzt braucht",
+      "link": "https://www.sueddeutsche.de/kultur/maennerliteratur-empfehlung-tony-tulathimutte-clemens-setz-storys-fiasko-noiseband-kritik-buchempfehlungen-li.3529804",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T09:15:13+00:00"
     },
     {
       "titel": "Krieg in Nahost: Erdoğan ruft Trump zu Diplomatie im Iran-Krieg auf",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/kuenstliche-intelligenz-ki-regulierung-urs-gasser-experte-tum-interview-li.3521114",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T08:34:17+00:00"
-    },
-    {
-      "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T08:30:20+00:00"
-    },
-    {
-      "titel": "Pop: Gekommen, um uns zu retten",
-      "link": "https://www.sueddeutsche.de/kultur/phoebe-bridgers-album-kritik-li.3526793",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T08:18:35+00:00"
-    },
-    {
-      "titel": "Natur: Klimaschutz gegen Panzer",
-      "link": "https://www.sueddeutsche.de/wissen/litauen-moore-schutz-panzer-klima-li.3508034",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T05:03:42+00:00"
     }
   ]
 }
