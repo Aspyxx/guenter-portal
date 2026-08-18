@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-18T01:51:43+00:00",
+  "aktualisiert": "2026-08-18T03:09:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Unfälle mit E-Scootern: \"Jeder Helm ist eine Hilfe\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-helmpflicht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T02:59:10+00:00"
+    },
+    {
+      "titel": "Dänemark reglementiert Nutzung Künstlicher Intelligenz an Schulen",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-kuenstliche-intelligenz-schulen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T02:58:39+00:00"
+    },
+    {
+      "titel": "So können Drohnen im Katastrophenfall helfen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-testzentrum-katastrophenschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T02:57:57+00:00"
+    },
+    {
+      "titel": "Wie sich Nordkoreas Diktator Kim aus der Isolation löst",
+      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-russland-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T02:57:34+00:00"
+    },
+    {
+      "titel": "London: Tausende bei Mahnwache für tot aufgefundenen Arday",
+      "link": "https://www.tagesschau.de/ausland/europa/mahnwache-london-arday-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T02:57:30+00:00"
+    },
+    {
+      "titel": "Reit-WM in Aachen: Warum Christian Kukuk zu spät zum Tierarzt-Termin kam",
+      "link": "https://www.spiegel.de/sport/reit-wm-in-aachen-warum-christian-kukuk-zu-spaet-zum-tierarzt-termin-kam-a-db43245c-d9bf-4a76-8253-fb4a635fd1a5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T01:57:00+00:00"
+    },
     {
       "titel": "Tupac Shakur: Im Mord-Prozess gegen Duane Davis hält Anklage ihr Eröffnungsplädoyer",
       "link": "https://www.spiegel.de/panorama/tupac-shakur-im-mord-prozess-gegen-duane-davis-haelt-anklage-ihr-eroeffnungsplaedoyer-a-357227e7-fbf4-4b30-a0d9-8cd184bcebca#ref=rss",
@@ -61,12 +97,6 @@
       "veroeffentlicht": "2026-08-17T18:20:00+00:00"
     },
     {
-      "titel": "Gaza: Dill, Chili, Knoblauch – Mona Al-Ghalayini kocht in Kairo gegen den Krieg",
-      "link": "https://www.spiegel.de/ausland/gaza-dill-chili-knoblauch-mona-al-ghalayini-kocht-in-kairo-gegen-den-krieg-a-1462f903-de78-4422-8116-4e75b3170d51#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-17T18:05:00+00:00"
-    },
-    {
       "titel": "Experte über Notlandung in München: \"Es war wirklich knapp\"",
       "link": "https://www.tagesschau.de/inland/regional/bayern/notlandung-flughafen-muenchen-interview-100.html",
       "quelle": "Tagesschau",
@@ -83,36 +113,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimaaktionsplan-union-grundgesetzaenderung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T16:47:30+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX startet schwächer in die Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-oelpreis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T16:13:52+00:00"
-    },
-    {
-      "titel": "Für Kritik am Ukraine-Krieg: Elf Jahre Haft für Oppositionellen Schlosberg",
-      "link": "https://www.tagesschau.de/ausland/asien/urteil-russland-schlosberg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T15:59:09+00:00"
-    },
-    {
-      "titel": "\"Zombiefeuer\": Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
-      "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T15:29:47+00:00"
-    },
-    {
-      "titel": "3D-Hirngewebemodell soll Alzheimer-Forschung verbessern",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/alzheimer-modelle-hirn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T14:57:53+00:00"
-    },
-    {
-      "titel": "Ukraine: Russland legt Internet-Warenlager in Trümmer",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-warenlager-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T14:13:56+00:00"
     },
     {
       "titel": "Verteidigung: Söder und Pistorius streiten um Rüstungsmesse",
