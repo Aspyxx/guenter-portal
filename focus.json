@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-18T21:11:07+00:00",
+  "aktualisiert": "2026-08-18T21:43:23+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Goodbye Deutschland! Die Auswanderer",
+      "link": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Deutsche Politiker entsetzt über Äußerungen von Israels Polizeiminister Ben-Gvir",
       "link": "https://www.tagesschau.de/ausland/asien/israel-deutsche-reaktionen-aeusserungen-ben-gvir-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Marokkos Jugend sieht zu Hause keine Perspektive",
       "link": "https://www.tagesschau.de/ausland/afrika/marokko-jugend-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
