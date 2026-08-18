@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-18T10:47:55+00:00",
+  "aktualisiert": "2026-08-18T11:42:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Syrien: Wassim al-Assad zum Tode verurteilt",
+      "link": "https://www.spiegel.de/ausland/syrien-wassim-al-assad-zum-tode-verurteilt-a-a94e2f54-bd11-490b-8803-5d3fd4157701#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T11:32:00+00:00"
+    },
+    {
+      "titel": "China-Shops mit deutscher Tarnung täuschen Verbraucher",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/warnung-china-shops-deutsche-tarnung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T11:18:28+00:00"
+    },
+    {
+      "titel": "Frankreich: Justizminister Darmanin verzichtet auf Kandidatur bei Präsidentschaftswahl",
+      "link": "https://www.spiegel.de/ausland/frankreich-justizminister-darmanin-verzichtet-auf-kandidatur-bei-praesidentschaftswahl-a-d9d52d1a-543c-4f12-b7fe-f1ef81f7d0d1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T11:11:00+00:00"
+    },
+    {
+      "titel": "Gianni Infantino: Niersbach sieht Concacaf-Chef Victor Montagliani als Alternative",
+      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-niersbach-sieht-concacaf-chef-victor-montagliani-als-alternative-a-7c62dc91-6293-4059-9ecc-78fb1b00bce3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T11:03:00+00:00"
+    },
+    {
+      "titel": "Forschungszentrum soll Drohnenabwehr verbessern",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-forschungszentrum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T10:59:09+00:00"
+    },
+    {
+      "titel": "Schlechte Erntebilanz wegen Hitze und Trockenheit",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/erntebilanz-120.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T10:54:37+00:00"
+    },
+    {
+      "titel": "Sifnos: Brautpaar stirbt nach Hubschrauberabsturz auf griechischer Insel",
+      "link": "https://www.spiegel.de/panorama/justiz/sifnos-brautpaar-stirbt-nach-hubschrauberabsturz-auf-griechischer-insel-a-9d08192c-5cdb-4c58-9b2c-32fdd1fefbbf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:48:00+00:00"
+    },
+    {
+      "titel": "Drohnenabwehr in Deutschland: Forschungszentrum in Sachsen-Anhalt nimmt Arbeit auf",
+      "link": "https://www.spiegel.de/politik/drohnenabwehr-in-deutschland-forschungszentrum-in-sachsen-anhalt-nimmt-arbeit-auf-a-cbad6d68-e356-41b2-9883-0aa470e30df5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:47:00+00:00"
+    },
+    {
+      "titel": "Lena Headey: Schauspielerin aus »Game of Thrones« fand Sexszenen »wirklich erschreckend«",
+      "link": "https://www.spiegel.de/panorama/leute/lena-headey-schauspielerin-aus-game-of-thrones-fand-sexszenen-wirklich-erschreckend-a-17588def-b44f-4ead-a8f0-e7427cc4a238#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:46:00+00:00"
+    },
     {
       "titel": "Angriffe über queere Datingplattformen",
       "link": "https://www.tagesschau.de/investigativ/fake-dates-angriffe-100.html",
@@ -37,24 +91,6 @@
       "veroeffentlicht": "2026-08-18T10:04:00+00:00"
     },
     {
-      "titel": "Unternehmen schließen: Firmensterben so hoch wie seit fast 20 Jahren nicht",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/unternehmen-schliessen-firmensterben-so-hoch-wie-seit-fast-20-jahren-nicht-a-688b4185-d0b1-435a-b9bd-d69d162cf4ba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:02:00+00:00"
-    },
-    {
-      "titel": "Hamburg: Frau gesteht Messerstiche gegen Ex-Partner",
-      "link": "https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner-a-6f24e287-9d67-4218-9e09-ab2c3a799216#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:02:00+00:00"
-    },
-    {
-      "titel": "Stuttgart 21: Video der Deutschen Bahn sorgt für Erheiterung im Internet",
-      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T10:00:00+00:00"
-    },
-    {
       "titel": "Leute: Endlich Oma!",
       "link": "https://www.sueddeutsche.de/panorama/salma-hayek-oma-stiefenkel-pinault-donnersmarck-promis-li.3533093",
       "quelle": "Süddeutsche",
@@ -73,24 +109,6 @@
       "veroeffentlicht": "2026-08-18T09:45:00+00:00"
     },
     {
-      "titel": "US-Basketball: Fans sollten trans-Botschaften bei Spiel von Sophie Cunningham bedecken",
-      "link": "https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken-a-45ac2798-7b2b-4e1b-8252-7de04bd4e32b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T09:29:00+00:00"
-    },
-    {
-      "titel": "Großbrände in der Natur: Interview mit Experte Cimolino",
-      "link": "https://www.spiegel.de/panorama/grossbraende-in-der-natur-interview-mit-experte-cimolino-a-3e208df5-9a62-4524-87c8-e3e2690cdabd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T09:11:00+00:00"
-    },
-    {
-      "titel": "Taylor Swift, Drake und Co.: Sorgen neue Alben für mehr Verkehrsunfälle?",
-      "link": "https://www.spiegel.de/mobilitaet/auto/taylor-swift-drake-und-co-sorgen-neue-alben-fuer-mehr-verkehrsunfaelle-a-0b59fcd9-c332-4f88-bf2e-7f25d592afcd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T09:10:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX-Schwäche hält bislang an",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
       "quelle": "Tagesschau",
@@ -103,6 +121,12 @@
       "veroeffentlicht": "2026-08-18T08:37:58+00:00"
     },
     {
+      "titel": "Künstliche Intelligenz: „KI steht im Brennpunkt der geopolitischen Konfrontation“",
+      "link": "https://www.sueddeutsche.de/politik/kuenstliche-intelligenz-ki-regulierung-urs-gasser-experte-tum-interview-li.3521114",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T08:34:17+00:00"
+    },
+    {
       "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
       "quelle": "Tagesschau",
@@ -113,24 +137,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugenehmigungen-wohngebaeude-deutschland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T08:13:25+00:00"
-    },
-    {
-      "titel": "Ernteeinbußen erwartet: Landwirtschaftsminister will Bauern helfen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/agrarminister-bauern-trockenheit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T08:12:04+00:00"
-    },
-    {
-      "titel": "Bundesumweltminister Schneider besucht Ukraine: Wiederaufbau im Fokus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T07:59:47+00:00"
-    },
-    {
-      "titel": "Verhandlungsbeginn im Mordfall Tupac Shakur - war es Rache?",
-      "link": "https://www.tagesschau.de/ausland/amerika/tupac-shakur-prozess-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T07:48:55+00:00"
     },
     {
       "titel": "Natur: Klimaschutz gegen Panzer",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/sicherheitsmessen-deutschland-nuernberg-hannover-li.3529393",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T13:39:37+00:00"
-    },
-    {
-      "titel": "Fazit der Leichtathletik-EM: Mehr Masse, mehr Klasse",
-      "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-deutschland-bilanz-medaillen-li.3532613",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T13:30:29+00:00"
     }
   ]
 }
