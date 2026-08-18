@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-18T14:01:56+00:00",
+  "aktualisiert": "2026-08-18T14:57:55+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Papst",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ventilatorenspezialist-ebm-papst-verkauf-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Schneider sagt weitere deutsche Unterstützung zu",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Deutschland stockt Ebola-Hilfe für Demokratische Republik Kongo auf",
       "link": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Löscharbeiten im deutsch-belgischen Grenzgebiet - Brandgeruch in Köln",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-hohesvenn-belgien-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
