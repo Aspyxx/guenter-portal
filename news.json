@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-18T03:59:17+00:00",
+  "aktualisiert": "2026-08-18T04:53:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Sozialpolitik in den USA: Der »New Deal« als Wendepunkt in der Sozialversicherung",
+      "link": "https://www.spiegel.de/geschichte/sozialpolitik-in-den-usa-der-new-deal-als-wendepunkt-in-der-sozialversicherung-a-f95d90db-0935-4e04-b065-5c29d7afca31#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T04:35:00+00:00"
+    },
+    {
+      "titel": "»Freche Mädchen, freche Bücher«, brave Rollenbilder. War die Reihe nicht total sexistisch?",
+      "link": "https://www.spiegel.de/kultur/freche-maedchen-freche-buecher-brave-rollenbilder-war-die-reihe-nicht-total-sexistisch-a-53c07169-c6dc-4416-b5fc-7327d18e67df#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T04:32:00+00:00"
+    },
     {
       "titel": "Account-Teilen bei ChatGPT, Claude, Gemini: Ist das erlaubt und sinnvoll? Was kann passieren?",
       "link": "https://www.spiegel.de/netzwelt/web/account-teilen-bei-chatgpt-claude-gemini-ist-das-erlaubt-und-sinnvoll-was-kann-passieren-a-cb42966e-ce2b-47c0-ba9a-ce792a646cab#ref=rss",
@@ -19,14 +31,14 @@
       "veroeffentlicht": "2026-08-18T03:39:00+00:00"
     },
     {
-      "titel": "Hunde und Fitness: Warum Hundehalter gesünder leben – und was sie beachten müssen",
-      "link": "https://www.spiegel.de/fitness/hunde-und-fitness-warum-hundehalter-gesuender-leben-und-was-sie-beachten-muessen-a-2ba79ac4-d4e1-49d7-9d00-86e498542749#ref=rss",
+      "titel": "Fitness: Eine KI kann Ihr Training planen. Aber ist das gut genug?",
+      "link": "https://www.spiegel.de/fitness/fitness-eine-ki-kann-ihr-training-planen-aber-ist-das-gut-genug-a-2a581485-f8e4-4732-9a92-56f8d911f6e8#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T03:30:00+00:00"
     },
     {
-      "titel": "Fitness: Eine KI kann Ihr Training planen. Aber ist das gut genug?",
-      "link": "https://www.spiegel.de/fitness/fitness-eine-ki-kann-ihr-training-planen-aber-ist-das-gut-genug-a-2a581485-f8e4-4732-9a92-56f8d911f6e8#ref=rss",
+      "titel": "Hunde und Fitness: Warum Hundehalter gesünder leben – und was sie beachten müssen",
+      "link": "https://www.spiegel.de/fitness/hunde-und-fitness-warum-hundehalter-gesuender-leben-und-was-sie-beachten-muessen-a-2ba79ac4-d4e1-49d7-9d00-86e498542749#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T03:30:00+00:00"
     },
@@ -83,18 +95,6 @@
       "link": "https://www.spiegel.de/sport/reit-wm-in-aachen-warum-christian-kukuk-zu-spaet-zum-tierarzt-termin-kam-a-db43245c-d9bf-4a76-8253-fb4a635fd1a5#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T01:57:00+00:00"
-    },
-    {
-      "titel": "Tupac Shakur: Im Mord-Prozess gegen Duane Davis hält Anklage ihr Eröffnungsplädoyer",
-      "link": "https://www.spiegel.de/panorama/tupac-shakur-im-mord-prozess-gegen-duane-davis-haelt-anklage-ihr-eroeffnungsplaedoyer-a-357227e7-fbf4-4b30-a0d9-8cd184bcebca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T00:47:00+00:00"
-    },
-    {
-      "titel": "Schwesig will nicht SPD-Chefin werden",
-      "link": "https://www.spiegel.de/politik/schwesig-will-nicht-spd-chefin-werden-a-9904dd2b-673f-4707-b1d1-0510c5d825d8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T00:30:00+00:00"
     },
     {
       "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
