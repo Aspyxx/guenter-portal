@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-18T07:11:00+00:00",
+  "aktualisiert": "2026-08-18T07:59:08+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Gebhardshain Waldbrand",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
       "titel": "Fremdenfeindlichkeit schadet Südafrikas Ansehen",
       "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gipfel-fremdenfeindlichkkeit-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
+    },
+    {
+      "rang": 3,
+      "titel": "Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
+      "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
