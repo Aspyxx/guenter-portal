@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-18T04:53:39+00:00",
+  "aktualisiert": "2026-08-18T05:46:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Marktbericht: Ölpreise ziehen an, DAX fällt zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T05:38:07+00:00"
+    },
+    {
+      "titel": "Tennis: Serena und Venus Williams verlieren Doppel-Comeback in Cincinnati",
+      "link": "https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T05:32:00+00:00"
+    },
+    {
+      "titel": "Erdbeben in Kolumbien: Shakira will beim Wiederaufbau von Schulen helfen",
+      "link": "https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen-a-8f870687-8c6e-46ff-bf08-4fc06899f2c4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T05:30:00+00:00"
+    },
+    {
+      "titel": "Russland: Bürgermeister von Moskau meldet Angriffswelle mit Hunderten Drohnen aus der Ukraine",
+      "link": "https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T04:52:00+00:00"
+    },
     {
       "titel": "Sozialpolitik in den USA: Der »New Deal« als Wendepunkt in der Sozialversicherung",
       "link": "https://www.spiegel.de/geschichte/sozialpolitik-in-den-usa-der-new-deal-als-wendepunkt-in-der-sozialversicherung-a-f95d90db-0935-4e04-b065-5c29d7afca31#ref=rss",
@@ -31,20 +55,14 @@
       "veroeffentlicht": "2026-08-18T03:39:00+00:00"
     },
     {
-      "titel": "Fitness: Eine KI kann Ihr Training planen. Aber ist das gut genug?",
-      "link": "https://www.spiegel.de/fitness/fitness-eine-ki-kann-ihr-training-planen-aber-ist-das-gut-genug-a-2a581485-f8e4-4732-9a92-56f8d911f6e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T03:30:00+00:00"
-    },
-    {
       "titel": "Hunde und Fitness: Warum Hundehalter gesünder leben – und was sie beachten müssen",
       "link": "https://www.spiegel.de/fitness/hunde-und-fitness-warum-hundehalter-gesuender-leben-und-was-sie-beachten-muessen-a-2ba79ac4-d4e1-49d7-9d00-86e498542749#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T03:30:00+00:00"
     },
     {
-      "titel": "Norwegen: König Harald V. muss wieder im Krankenhaus behandelt werden",
-      "link": "https://www.spiegel.de/panorama/norwegen-koenig-harald-v-muss-wieder-im-krankenhaus-behandelt-werden-a-36e0a948-5682-4d13-9be3-977c54685f23#ref=rss",
+      "titel": "Fitness: Eine KI kann Ihr Training planen. Aber ist das gut genug?",
+      "link": "https://www.spiegel.de/fitness/fitness-eine-ki-kann-ihr-training-planen-aber-ist-das-gut-genug-a-2a581485-f8e4-4732-9a92-56f8d911f6e8#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T03:30:00+00:00"
     },
@@ -53,12 +71,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T03:27:51+00:00"
-    },
-    {
-      "titel": "Einsatz britischer Drohnen in Russland: Russland reagiert empört",
-      "link": "https://www.spiegel.de/ausland/einsatz-britischer-drohnen-in-russland-russland-reagiert-empoert-a-0a667fa8-7c0f-4765-96e3-59e01bba381d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T03:16:00+00:00"
     },
     {
       "titel": "Unfälle mit E-Scootern: \"Jeder Helm ist eine Hilfe\"",
@@ -91,12 +103,6 @@
       "veroeffentlicht": "2026-08-18T02:57:30+00:00"
     },
     {
-      "titel": "Reit-WM in Aachen: Warum Christian Kukuk zu spät zum Tierarzt-Termin kam",
-      "link": "https://www.spiegel.de/sport/reit-wm-in-aachen-warum-christian-kukuk-zu-spaet-zum-tierarzt-termin-kam-a-db43245c-d9bf-4a76-8253-fb4a635fd1a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T01:57:00+00:00"
-    },
-    {
       "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
       "quelle": "Tagesschau",
@@ -107,12 +113,6 @@
       "link": "https://www.tagesschau.de/inland/regional/bayern/notlandung-flughafen-muenchen-interview-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-17T17:23:54+00:00"
-    },
-    {
-      "titel": "Deutsch-belgische Grenzregion: Waldbrand-Lage stabil - doch es droht Wind",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T17:04:10+00:00"
     },
     {
       "titel": "Verteidigung: Söder und Pistorius streiten um Rüstungsmesse",
