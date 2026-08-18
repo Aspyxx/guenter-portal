@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-18T21:59:30+00:00",
+  "aktualisiert": "2026-08-18T22:43:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Krieg in der Ukraine: Herausforderung für Selenskij: Ex-Verteidigungsminister fordert Wahlen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-fedorow-selenskij-neuwahlen-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T22:21:32+00:00"
+    },
     {
       "titel": "ZZ-Top-Schlagzeuger Frank Beard ist tot",
       "link": "https://www.spiegel.de/kultur/musik/zz-top-schlagzeuger-frank-beard-ist-tot-a-9d5de078-b876-4e15-b56b-18043f464ef9#ref=rss",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/cold-case-amy-lopez-koblenz-prozess-mord-li.3532625",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T13:05:34+00:00"
-    },
-    {
-      "titel": "Libanon: Israels Kampf um die Burg",
-      "link": "https://www.sueddeutsche.de/politik/libanon-konflikt-beaufort-burg-hisbollah-kampf-li.3532771",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T12:52:31+00:00"
     }
   ]
 }
