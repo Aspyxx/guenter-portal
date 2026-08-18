@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-18T14:53:44+00:00",
+  "aktualisiert": "2026-08-18T15:47:51+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ausgebeutet für Sanifair? Schmutzige Geschäfte mit sauberen Toiletten",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/sanifair-tank-und-rast-raststaette-toilette-arbeitsbedingungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T15:44:40+00:00"
+    },
+    {
+      "titel": "Deutsche Politiker entsetzt über Äußerungen von Israels Polizeiminister Ben-Gvir",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-deutsche-reaktionen-aeusserungen-ben-gvir-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T15:40:22+00:00"
+    },
+    {
+      "titel": "München: Lufthansa-Maschine setzt zu früh auf bei Landung am Flughafen München",
+      "link": "https://www.spiegel.de/panorama/muenchen-lufthansa-maschine-setzt-zu-frueh-auf-bei-landung-am-flughafen-muenchen-a-069a415f-e0fc-4885-a671-4484ee23a1e3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T15:30:00+00:00"
+    },
+    {
+      "titel": "Saporischschja: AKW-Personal bei Drohnenexplosion getötet und verletzt",
+      "link": "https://www.spiegel.de/ausland/saporischschja-akw-personal-bei-drohnenexplosion-getoetet-und-verletzt-a-e9666ac3-2e0d-4f58-a3e3-b85fc76fb407#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T15:29:00+00:00"
+    },
+    {
+      "titel": "News des Tages: BSW, Sahra Wagenknecht, Gianni Infantino, Raketenabwehr der Ukraine",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-sahra-wagenknecht-gianni-infantino-raketenabwehr-der-ukraine-a-debda4ed-6eb0-4ed2-b486-bfbd9dfc97da#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T15:22:00+00:00"
+    },
+    {
+      "titel": "KZ Mauthausen – Leobersdorf: In Österreich wird auf einem ehemaligen KZ-Außenlager ein Supermarkt gebaut",
+      "link": "https://www.spiegel.de/wirtschaft/kz-mauthausen-leobersdorf-in-oesterreich-wird-auf-einem-ehemaligen-kz-aussenlager-ein-supermarkt-gebaut-a-88310cf8-eebc-4907-b132-ddfa2e816318#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T15:12:00+00:00"
+    },
+    {
+      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T15:11:00+00:00"
+    },
+    {
+      "titel": "Lettland: Hacker erbeuten Daten von mehr als 1,2 Millionen Letten",
+      "link": "https://www.spiegel.de/netzwelt/lettland-hacker-erbeuten-daten-von-mehr-als-1-2-millionen-letten-a-617a0090-88b8-4f48-8b9d-56017f0c3a80#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T15:04:00+00:00"
+    },
     {
       "titel": "Deutschland stockt Ebola-Hilfe für Demokratische Republik Kongo auf",
       "link": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
@@ -37,52 +85,22 @@
       "veroeffentlicht": "2026-08-18T14:36:00+00:00"
     },
     {
-      "titel": "BSW: Was hat die offene Rebellion gegen Sahra Wagenknecht zu bedeuten?",
-      "link": "https://www.spiegel.de/politik/deutschland/bsw-was-hat-die-offene-rebellion-gegen-sahra-wagenknecht-zu-bedeuten-a-7f25be05-ab5d-41d5-90a7-c0fc266881a2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T14:26:00+00:00"
-    },
-    {
       "titel": "Rosie O’Donnell teilt bei »Jimmy Kimmel Live« gegen Donald Trump aus",
       "link": "https://www.spiegel.de/panorama/leute/rosie-odonnell-teilt-bei-jimmy-kimmel-live-gegen-donald-trump-aus-a-b0a5ac21-0d6d-4f18-8a75-b0d462e88ec2#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T14:26:00+00:00"
     },
     {
-      "titel": "Streik: Ver.di droht mit Arbeitskampf im Supermarkt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/streik-ver-di-droht-mit-arbeitskampf-im-supermarkt-a-5c78aa44-45f1-49ae-9e8a-2488022ccdbd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T14:16:00+00:00"
-    },
-    {
-      "titel": "2Pac – Tupac Shakur: Prozess startet in Las Vegas – Die Nacht, in der die Hölle losbrach",
-      "link": "https://www.spiegel.de/kultur/musik/2pac-tupac-shakur-prozess-startet-in-las-vegas-die-nacht-in-der-die-hoelle-losbrach-a-fd3f063f-85ab-4911-8cf5-45c8324abeaa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T14:03:00+00:00"
-    },
-    {
-      "titel": "China: Animationsfilm »Niu Lai« wird zum Megaerfolg – weil er so schlecht ist",
-      "link": "https://www.spiegel.de/kultur/kino/china-animationsfilm-niu-lai-wird-zum-megaerfolg-weil-er-so-schlecht-ist-a-bfceaadb-66e5-4ede-b25f-e4ef246d67b1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T13:53:00+00:00"
+      "titel": "Kölns ehemaliger Oberbürgermeister Fritz Schramma gestorben",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/tod-schramma-koeln-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T13:57:00+00:00"
     },
     {
       "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T13:48:43+00:00"
-    },
-    {
-      "titel": "Thüringen: Voigt betont Zusammenhalt seiner Brombeerkoalition",
-      "link": "https://www.spiegel.de/politik/thueringen-voigt-betont-zusammenhalt-seiner-brombeerkoalition-a-26ebe033-6b00-47d7-b0b6-f10593f6da9f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T13:41:00+00:00"
-    },
-    {
-      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T13:36:00+00:00"
     },
     {
       "titel": "Stiftung Denkmalschutz: Mehr als 1.000 Denkmale binnen zwei Jahren verloren",
@@ -115,6 +133,12 @@
       "veroeffentlicht": "2026-08-18T13:12:38+00:00"
     },
     {
+      "titel": "Prozess um Tod von Amy Lopez: Ihr mutmaßlicher Mörder steht vor Gericht, nach 31 Jahren",
+      "link": "https://www.sueddeutsche.de/panorama/cold-case-amy-lopez-koblenz-prozess-mord-li.3532625",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T13:05:34+00:00"
+    },
+    {
       "titel": "Libanon: Israels Kampf um die Burg",
       "link": "https://www.sueddeutsche.de/politik/libanon-konflikt-beaufort-burg-hisbollah-kampf-li.3532771",
       "quelle": "Süddeutsche",
@@ -133,40 +157,16 @@
       "veroeffentlicht": "2026-08-18T12:44:24+00:00"
     },
     {
-      "titel": "Löscharbeiten im deutsch-belgischen Grenzgebiet - Brandgeruch in Köln",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-hohesvenn-belgien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T12:41:51+00:00"
-    },
-    {
-      "titel": "Ukraine: Schneider sagt weitere deutsche Unterstützung zu",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T12:32:54+00:00"
-    },
-    {
       "titel": "Werder Bremen: Der hässliche Vogel kehrt zurück",
       "link": "https://www.sueddeutsche.de/sport/werder-transfer-fuellkrug-rueckkehr-li.3533111",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T12:09:25+00:00"
     },
     {
-      "titel": "Frasers verfehlt Mehrheit bei Hugo Boss knapp",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hugo-boss-frasers-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T12:02:46+00:00"
-    },
-    {
       "titel": "Nahostkonflikt: Israelischer Minister fordert gezielte Tötung von Palästinensern in Gaza",
       "link": "https://www.sueddeutsche.de/politik/sicherheitsminister-ben-gvir-toetungen-gaza-li.3533122",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T11:45:02+00:00"
-    },
-    {
-      "titel": "Nahost: Sanktionen gegen Israels Sicherheitsminister Ben-Gvir sind überfällig",
-      "link": "https://www.sueddeutsche.de/meinung/israel-kritik-sicherheitsminister-ben-gvir-reaktionen-kommentar-li.3533081",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T11:27:50+00:00"
     }
   ]
 }
