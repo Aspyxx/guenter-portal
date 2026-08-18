@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-18T05:51:27+00:00",
+  "aktualisiert": "2026-08-18T06:19:46+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Gebhardshain Waldbrand",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Ukraine greift Moskau mit Hunderten Drohnen an",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-drohnen-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
-      "titel": "Donald Trump Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Warum Brände im ausgetrockneten Moor schwer bekämpfbar sind",
-      "link": "https://www.tagesschau.de/wissen/klima/zombiefeuer-moore-100.html",
+      "titel": "Fremdenfeindlichkeit schadet Südafrikas Ansehen",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gipfel-fremdenfeindlichkkeit-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     }
   ]
 }
