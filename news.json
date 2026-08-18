@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-18T05:46:22+00:00",
+  "aktualisiert": "2026-08-18T07:05:44+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "SADC-Gipfel: Fremdenfeindlichkeit schadet Südafrikas Ansehen",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gipfel-fremdenfeindlichkkeit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T06:13:05+00:00"
+    },
+    {
+      "titel": "Niedrigwasser im Rhein: Bislang kaum mehr Lkw-Verkehr trotz ausgesetzten Fahrverbots",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots-a-cdc3ccc1-dc6f-400c-8ee9-6d586f935646#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T06:01:00+00:00"
+    },
+    {
+      "titel": "Ukraine greift Moskau mit Hunderten Drohnen an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-drohnen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T05:44:31+00:00"
+    },
     {
       "titel": "Marktbericht: Ölpreise ziehen an, DAX fällt zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
@@ -55,14 +73,8 @@
       "veroeffentlicht": "2026-08-18T03:39:00+00:00"
     },
     {
-      "titel": "Hunde und Fitness: Warum Hundehalter gesünder leben – und was sie beachten müssen",
-      "link": "https://www.spiegel.de/fitness/hunde-und-fitness-warum-hundehalter-gesuender-leben-und-was-sie-beachten-muessen-a-2ba79ac4-d4e1-49d7-9d00-86e498542749#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T03:30:00+00:00"
-    },
-    {
-      "titel": "Fitness: Eine KI kann Ihr Training planen. Aber ist das gut genug?",
-      "link": "https://www.spiegel.de/fitness/fitness-eine-ki-kann-ihr-training-planen-aber-ist-das-gut-genug-a-2a581485-f8e4-4732-9a92-56f8d911f6e8#ref=rss",
+      "titel": "Norwegen: König Harald V. muss wieder im Krankenhaus behandelt werden",
+      "link": "https://www.spiegel.de/panorama/norwegen-koenig-harald-v-muss-wieder-im-krankenhaus-behandelt-werden-a-36e0a948-5682-4d13-9be3-977c54685f23#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T03:30:00+00:00"
     },
@@ -103,16 +115,10 @@
       "veroeffentlicht": "2026-08-18T02:57:30+00:00"
     },
     {
-      "titel": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-usa-kushner-ben-gvir-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T20:10:26+00:00"
-    },
-    {
-      "titel": "Experte über Notlandung in München: \"Es war wirklich knapp\"",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/notlandung-flughafen-muenchen-interview-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-17T17:23:54+00:00"
+      "titel": "FC Barcelona: Wir können Rodri haben? Her mit ihm!",
+      "link": "https://www.sueddeutsche.de/sport/rodri-fc-barcelona-manchester-city-real-madrid-li.3532639",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T14:04:13+00:00"
     },
     {
       "titel": "Verteidigung: Söder und Pistorius streiten um Rüstungsmesse",
@@ -157,16 +163,10 @@
       "veroeffentlicht": "2026-08-17T12:51:57+00:00"
     },
     {
-      "titel": "Deutschland: Wir können ja doch noch was",
-      "link": "https://www.sueddeutsche.de/meinung/leichtathletik-em-birmingham-sportler-medaillen-kommentar-li.3532629",
+      "titel": "Brückenspringen im Oberland: „Das Risiko ist zu groß“",
+      "link": "https://www.sueddeutsche.de/muenchen/wolfratshausen/bruecken-springen-sylvensteinspeicher-gefahr-risiko-li.3530555",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T12:49:35+00:00"
-    },
-    {
-      "titel": "Mieten: Enteignen schafft keine einzige neue Wohnung",
-      "link": "https://www.sueddeutsche.de/wirtschaft/berlin-enteignen-deutsche-wohnen-vonovia-linke-li.3532653",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T12:47:52+00:00"
+      "veroeffentlicht": "2026-08-17T12:50:20+00:00"
     }
   ]
 }
