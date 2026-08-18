@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-18T07:05:44+00:00",
+  "aktualisiert": "2026-08-18T07:55:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Verhandlungsbeginn im Mordfall Tupac Shakur - war es Rache?",
+      "link": "https://www.tagesschau.de/ausland/amerika/tupac-shakur-prozess-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T07:48:55+00:00"
+    },
+    {
+      "titel": "Italien: Nonnen und Gemeinde streiten um ein Strandbad",
+      "link": "https://www.spiegel.de/panorama/italien-nonnen-und-gemeinde-streiten-um-ein-strandbad-a-142e04ae-8bff-4dc0-a0da-4751befda22a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T07:40:00+00:00"
+    },
+    {
+      "titel": "XPeng X9 im Test: Raumfahrt auf Rädern im Elektroauto-Van",
+      "link": "https://www.spiegel.de/mobilitaet/auto/xpeng-x9-im-test-raumfahrt-auf-raedern-im-elektroauto-van-a-b50835f5-8f02-4dac-af31-84e848393d8f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T07:34:00+00:00"
+    },
+    {
+      "titel": "Dürre, Niedrigwasser, Krieg: »Salate und Möhren sind jetzt schon im Preis gestiegen«",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/duerre-niedrigwasser-krieg-salate-und-moehren-sind-jetzt-schon-im-preis-gestiegen-a-cc802450-36a4-46d4-9698-c0a0333e8983#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T07:20:00+00:00"
+    },
+    {
+      "titel": "Destatis: Baugenehmigungen mit stärkstem Anstieg seit zehn Jahren",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/destatis-baugenehmigungen-mit-staerkstem-anstieg-seit-zehn-jahren-a-3384b0cf-73e5-4d2e-8d28-fd64956f5d08#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T07:16:00+00:00"
+    },
+    {
+      "titel": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T07:10:44+00:00"
+    },
     {
       "titel": "SADC-Gipfel: Fremdenfeindlichkeit schadet Südafrikas Ansehen",
       "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gipfel-fremdenfeindlichkkeit-100.html",
@@ -43,6 +79,12 @@
       "veroeffentlicht": "2026-08-18T05:30:00+00:00"
     },
     {
+      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T04:56:00+00:00"
+    },
+    {
       "titel": "Russland: Bürgermeister von Moskau meldet Angriffswelle mit Hunderten Drohnen aus der Ukraine",
       "link": "https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss",
       "quelle": "SPIEGEL",
@@ -53,36 +95,6 @@
       "link": "https://www.spiegel.de/geschichte/sozialpolitik-in-den-usa-der-new-deal-als-wendepunkt-in-der-sozialversicherung-a-f95d90db-0935-4e04-b065-5c29d7afca31#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T04:35:00+00:00"
-    },
-    {
-      "titel": "»Freche Mädchen, freche Bücher«, brave Rollenbilder. War die Reihe nicht total sexistisch?",
-      "link": "https://www.spiegel.de/kultur/freche-maedchen-freche-buecher-brave-rollenbilder-war-die-reihe-nicht-total-sexistisch-a-53c07169-c6dc-4416-b5fc-7327d18e67df#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T04:32:00+00:00"
-    },
-    {
-      "titel": "Account-Teilen bei ChatGPT, Claude, Gemini: Ist das erlaubt und sinnvoll? Was kann passieren?",
-      "link": "https://www.spiegel.de/netzwelt/web/account-teilen-bei-chatgpt-claude-gemini-ist-das-erlaubt-und-sinnvoll-was-kann-passieren-a-cb42966e-ce2b-47c0-ba9a-ce792a646cab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T03:43:00+00:00"
-    },
-    {
-      "titel": "News: Dürre und Gemüsepreise, Schutz vor Drohnen, Deutschlands Top-Rating wackelt",
-      "link": "https://www.spiegel.de/politik/deutschland/news-duerre-und-gemuesepreise-schutz-vor-drohnen-deutschlands-top-rating-wackelt-a-71a55e89-6bb1-47a6-a376-688dcda7b7de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T03:39:00+00:00"
-    },
-    {
-      "titel": "Norwegen: König Harald V. muss wieder im Krankenhaus behandelt werden",
-      "link": "https://www.spiegel.de/panorama/norwegen-koenig-harald-v-muss-wieder-im-krankenhaus-behandelt-werden-a-36e0a948-5682-4d13-9be3-977c54685f23#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T03:30:00+00:00"
-    },
-    {
-      "titel": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T03:27:51+00:00"
     },
     {
       "titel": "Unfälle mit E-Scootern: \"Jeder Helm ist eine Hilfe\"",
@@ -103,16 +115,10 @@
       "veroeffentlicht": "2026-08-18T02:57:57+00:00"
     },
     {
-      "titel": "Wie sich Nordkoreas Diktator Kim aus der Isolation löst",
-      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-russland-usa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T02:57:34+00:00"
-    },
-    {
-      "titel": "London: Tausende bei Mahnwache für tot aufgefundenen Arday",
-      "link": "https://www.tagesschau.de/ausland/europa/mahnwache-london-arday-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T02:57:30+00:00"
+      "titel": "Thüringen: BSW bleibt gegen Wagenknechts Willen in der Landesregierung – Sonderparteitag",
+      "link": "https://www.sueddeutsche.de/politik/thueringen-bsw-landesregierung-wagenknecht-li.3532593",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T19:00:00+00:00"
     },
     {
       "titel": "FC Barcelona: Wir können Rodri haben? Her mit ihm!",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/nahost-us-friedensplan-hamas-israel-li.3532646",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T12:51:57+00:00"
-    },
-    {
-      "titel": "Brückenspringen im Oberland: „Das Risiko ist zu groß“",
-      "link": "https://www.sueddeutsche.de/muenchen/wolfratshausen/bruecken-springen-sylvensteinspeicher-gefahr-risiko-li.3530555",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T12:50:20+00:00"
     }
   ]
 }
