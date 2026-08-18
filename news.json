@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-18T07:55:40+00:00",
+  "aktualisiert": "2026-08-18T08:54:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hayden Panettiere: Wladimir Klitschko erinnert an Ex-Partnerin",
+      "link": "https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T08:48:00+00:00"
+    },
+    {
+      "titel": "Sahra Wagenknecht: Warum sie politisch nicht tiefer sinken kann",
+      "link": "https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann-a-dd8ca864-b703-40f6-9091-bab9cac09baa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T08:31:00+00:00"
+    },
+    {
+      "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T08:30:20+00:00"
+    },
+    {
+      "titel": "Stärkster Anstieg der Baugenehmigungen seit 2016",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugenehmigungen-wohngebaeude-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T08:13:25+00:00"
+    },
+    {
+      "titel": "Ernteeinbußen erwartet: Landwirtschaftsminister will Bauern helfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/agrarminister-bauern-trockenheit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T08:12:04+00:00"
+    },
+    {
+      "titel": "Social Design Award 2026: Jetzt noch schnell mitmachen beim Leserwettbewerb!",
+      "link": "https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb-a-f0ab74c2-981b-4663-8011-0ff4b8304bcd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T08:10:00+00:00"
+    },
+    {
+      "titel": "Bundesumweltminister Schneider besucht Ukraine: Wiederaufbau im Fokus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T07:59:47+00:00"
+    },
+    {
+      "titel": "Hessen: Innenministerium verbietet extremistischen Verein »Palästina e.V.«",
+      "link": "https://www.spiegel.de/politik/deutschland/hessen-innenministerium-verbietet-extremistischen-verein-palaestina-e-v-a-793bb425-cd78-4b7f-a7e7-fdd4a5a3f1cb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T07:59:00+00:00"
+    },
+    {
+      "titel": "A2 bei Kamen: Schwertransporter umgekippt – Autobahn in beide Richtungen gesperrt",
+      "link": "https://www.spiegel.de/panorama/a2-bei-kamen-schwertransporter-umgekippt-autobahn-in-beide-richtungen-gesperrt-a-17c58c55-d3c4-4559-a6e4-37af6a619b56#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T07:53:00+00:00"
+    },
     {
       "titel": "Verhandlungsbeginn im Mordfall Tupac Shakur - war es Rache?",
       "link": "https://www.tagesschau.de/ausland/amerika/tupac-shakur-prozess-100.html",
@@ -49,70 +103,22 @@
       "veroeffentlicht": "2026-08-18T06:13:05+00:00"
     },
     {
-      "titel": "Niedrigwasser im Rhein: Bislang kaum mehr Lkw-Verkehr trotz ausgesetzten Fahrverbots",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-im-rhein-bislang-kaum-mehr-lkw-verkehr-trotz-ausgesetzten-fahrverbots-a-cdc3ccc1-dc6f-400c-8ee9-6d586f935646#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T06:01:00+00:00"
-    },
-    {
-      "titel": "Ukraine greift Moskau mit Hunderten Drohnen an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-drohnen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T05:44:31+00:00"
-    },
-    {
       "titel": "Marktbericht: Ölpreise ziehen an, DAX fällt zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T05:38:07+00:00"
     },
     {
-      "titel": "Tennis: Serena und Venus Williams verlieren Doppel-Comeback in Cincinnati",
-      "link": "https://www.spiegel.de/sport/tennis/tennis-serena-und-venus-williams-verlieren-doppel-comeback-in-cincinnati-a-bd6fd5a3-1944-4efd-93ab-2e1b6866b307#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T05:32:00+00:00"
-    },
-    {
-      "titel": "Erdbeben in Kolumbien: Shakira will beim Wiederaufbau von Schulen helfen",
-      "link": "https://www.spiegel.de/panorama/leute/erdbeben-in-kolumbien-shakira-will-beim-wiederaufbau-von-schulen-helfen-a-8f870687-8c6e-46ff-bf08-4fc06899f2c4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T05:30:00+00:00"
+      "titel": "Natur: Klimaschutz gegen Panzer",
+      "link": "https://www.sueddeutsche.de/wissen/litauen-moore-schutz-panzer-klima-li.3508034",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T05:03:42+00:00"
     },
     {
       "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T04:56:00+00:00"
-    },
-    {
-      "titel": "Russland: Bürgermeister von Moskau meldet Angriffswelle mit Hunderten Drohnen aus der Ukraine",
-      "link": "https://www.spiegel.de/ausland/russland-buergermeister-von-moskau-meldet-angriffswelle-mit-hunderten-drohnen-aus-der-ukraine-a-e533d3ae-d3a5-4f16-9362-b283b9a9b4cb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T04:52:00+00:00"
-    },
-    {
-      "titel": "Sozialpolitik in den USA: Der »New Deal« als Wendepunkt in der Sozialversicherung",
-      "link": "https://www.spiegel.de/geschichte/sozialpolitik-in-den-usa-der-new-deal-als-wendepunkt-in-der-sozialversicherung-a-f95d90db-0935-4e04-b065-5c29d7afca31#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T04:35:00+00:00"
-    },
-    {
-      "titel": "Unfälle mit E-Scootern: \"Jeder Helm ist eine Hilfe\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-helmpflicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T02:59:10+00:00"
-    },
-    {
-      "titel": "Dänemark reglementiert Nutzung Künstlicher Intelligenz an Schulen",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-kuenstliche-intelligenz-schulen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T02:58:39+00:00"
-    },
-    {
-      "titel": "So können Drohnen im Katastrophenfall helfen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-testzentrum-katastrophenschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T02:57:57+00:00"
     },
     {
       "titel": "Thüringen: BSW bleibt gegen Wagenknechts Willen in der Landesregierung – Sonderparteitag",
@@ -125,6 +131,12 @@
       "link": "https://www.sueddeutsche.de/sport/rodri-fc-barcelona-manchester-city-real-madrid-li.3532639",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T14:04:13+00:00"
+    },
+    {
+      "titel": "Wahlen in Sachsen-Anhalt: „Ich mache mir große Sorgen“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vdma-maschinenbau-ostdeutschland-li.3529462",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-17T13:42:26+00:00"
     },
     {
       "titel": "Verteidigung: Söder und Pistorius streiten um Rüstungsmesse",
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-08-17T13:22:38+00:00"
     },
     {
-      "titel": "Zwischenfall am Münchner Flughafen: Knapp vorbei an der Katastrophe?",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-boeing-dreamliner-start-li.3532620",
+      "titel": "Landtagswahl in Sachsen-Anhalt: AfD-Gegner rufen zum taktischen Wählen auf",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-afd-spd-gruene-waehlen-li.3531409",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T13:17:21+00:00"
-    },
-    {
-      "titel": "Hitzewelle: Herrmann hält SPD-Vorschlag zu Klimaanpassung für Bürokratie",
-      "link": "https://www.sueddeutsche.de/panorama/hermann-klimaanpassung-umweltverbaende-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T13:14:08+00:00"
-    },
-    {
-      "titel": "Gaza: Jetzt versucht Jared Kushner, den US-Friedensplan zu retten",
-      "link": "https://www.sueddeutsche.de/politik/nahost-us-friedensplan-hamas-israel-li.3532646",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T12:51:57+00:00"
+      "veroeffentlicht": "2026-08-17T13:19:49+00:00"
     }
   ]
 }
