@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-18T20:41:54+00:00",
+  "aktualisiert": "2026-08-18T21:03:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Russland: Menschen heben offenbar Milliarden von ihren Konten ab",
+      "link": "https://www.spiegel.de/ausland/russland-menschen-heben-offenbar-milliarden-von-ihren-konten-ab-a-d4cf3491-4fc8-4135-b5b5-7d99814c1f88#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T20:58:00+00:00"
+    },
+    {
+      "titel": "Musiala beim FC Bayern: Der FC Bayern wusste schon länger Bescheid",
+      "link": "https://www.sueddeutsche.de/sport/musiala-fc-bayern-zusammengebrochen-heidenheim-li.3533461",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T20:36:15+00:00"
+    },
     {
       "titel": "Kanye West: Ye plant Shows in Russland und will Wladimirt Putin treffen",
       "link": "https://www.spiegel.de/panorama/leute/kanye-west-ye-plant-shows-in-russland-und-will-wladimirt-putin-treffen-a-affaa5cc-4573-40b5-b090-0fafe299c20e#ref=rss",
@@ -35,6 +47,12 @@
       "link": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-nimmt-an-staatsbegraebnis-fuer-1938-ermordeten-nationalisten-teil-a-e8677db8-1084-4e73-b4d3-cb3b6db5f1c3#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T18:31:00+00:00"
+    },
+    {
+      "titel": "Fußball: Musiala sinkt erneut zu Boden - „neurologische Dysfunktion“",
+      "link": "https://www.sueddeutsche.de/sport/bayern-muenchen-musiala-testspiel-heidenheim-li.3533456",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T18:15:33+00:00"
     },
     {
       "titel": "Nächster Zwischenfall in München: A380 der Lufthansa setzt zu früh auf",
@@ -71,12 +89,6 @@
       "link": "https://www.spiegel.de/ausland/china-comedian-guo-degang-macht-witz-und-darf-nicht-mehr-auftreten-a-131b6ade-b897-4736-93f3-508130782cb2#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-18T17:54:00+00:00"
-    },
-    {
-      "titel": "Hayden Panettiere: Ex Brian Hickerson soll bei ihr gewesen sein, als sie starb",
-      "link": "https://www.spiegel.de/panorama/hayden-panettiere-ex-brian-hickerson-soll-bei-ihr-gewesen-sein-als-sie-starb-a-84efcae6-f631-4885-b274-11b1597119c1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T17:26:00+00:00"
     },
     {
       "titel": "Marokkos Jugend sieht zu Hause keine Perspektive",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/libanon-konflikt-beaufort-burg-hisbollah-kampf-li.3532771",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T12:52:31+00:00"
-    },
-    {
-      "titel": "Vermisstenfälle: Der Krimi um Mali und Liel Yahalomi",
-      "link": "https://www.sueddeutsche.de/panorama/mali-liel-yahalomi-touristinnen-israel-wien-vermisst-krimi-li.3532903",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T12:51:28+00:00"
-    },
-    {
-      "titel": "Parteien: Der AfD-Politiker mit dem Baseballschläger",
-      "link": "https://www.sueddeutsche.de/meinung/arno-bausemer-afd-sachsen-anhalt-europaabgeordneter-wahlplakat-li.3533075",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T12:48:05+00:00"
     }
   ]
 }
