@@ -1,11 +1,77 @@
 {
-  "aktualisiert": "2026-08-18T09:50:02+00:00",
+  "aktualisiert": "2026-08-18T10:47:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Angriffe über queere Datingplattformen",
+      "link": "https://www.tagesschau.de/investigativ/fake-dates-angriffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T10:39:00+00:00"
+    },
+    {
+      "titel": "Jobverluste jetzt auch bei Dienstleistungen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dienstleistungen-jobverlust-firmensterben-deutschland-zew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T10:38:52+00:00"
+    },
+    {
+      "titel": "Alexandra Popp: Der glückliche Abstieg in die Regionalliga",
+      "link": "https://www.spiegel.de/sport/alexandra-popp-der-glueckliche-abstieg-in-die-regionalliga-a-f2aba919-0ac3-4f6b-949c-5236589a58e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:31:00+00:00"
+    },
+    {
+      "titel": "Spirit Airlines: Google kauft interne Daten von insolventer US-Airline, um seine KI zu trainieren",
+      "link": "https://www.spiegel.de/netzwelt/spirit-airlines-google-kauft-interne-daten-von-insolventer-us-airline-um-seine-ki-zu-trainieren-a-26cb6ba6-d7fa-4e03-9b85-59a486257720#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:23:00+00:00"
+    },
+    {
+      "titel": "Sudan: Letzte Zufluchtsorte im Süden geraten unter Druck",
+      "link": "https://www.spiegel.de/ausland/sudan-letzte-zufluchtsorte-im-sueden-geraten-unter-druck-a-299cd27a-1bf6-4e18-a635-ab5a774164f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:04:00+00:00"
+    },
+    {
+      "titel": "Unternehmen schließen: Firmensterben so hoch wie seit fast 20 Jahren nicht",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/unternehmen-schliessen-firmensterben-so-hoch-wie-seit-fast-20-jahren-nicht-a-688b4185-d0b1-435a-b9bd-d69d162cf4ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:02:00+00:00"
+    },
+    {
+      "titel": "Hamburg: Frau gesteht Messerstiche gegen Ex-Partner",
+      "link": "https://www.spiegel.de/panorama/justiz/hamburg-frau-gesteht-messerstiche-gegen-ex-partner-a-6f24e287-9d67-4218-9e09-ab2c3a799216#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:02:00+00:00"
+    },
+    {
+      "titel": "Stuttgart 21: Video der Deutschen Bahn sorgt für Erheiterung im Internet",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/stuttgart-21-video-der-deutschen-bahn-sorgt-fuer-erheiterung-im-internet-a-a3655eea-0c92-47ed-ad70-eb64d69a371d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-18T10:00:00+00:00"
+    },
+    {
+      "titel": "Leute: Endlich Oma!",
+      "link": "https://www.sueddeutsche.de/panorama/salma-hayek-oma-stiefenkel-pinault-donnersmarck-promis-li.3533093",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T09:48:39+00:00"
+    },
+    {
+      "titel": "Krieg am Golf: Der US-Präsident bellt, weil er nicht beißen kann",
+      "link": "https://www.sueddeutsche.de/meinung/usa-trump-oman-iran-krieg-kommentar-li.3533069",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T09:46:11+00:00"
+    },
+    {
+      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-18T09:45:00+00:00"
+    },
     {
       "titel": "US-Basketball: Fans sollten trans-Botschaften bei Spiel von Sophie Cunningham bedecken",
       "link": "https://www.spiegel.de/sport/basketball/us-basketball-fans-sollten-trans-botschaften-bei-spiel-von-sophie-cunningham-bedecken-a-45ac2798-7b2b-4e1b-8252-7de04bd4e32b#ref=rss",
@@ -25,46 +91,16 @@
       "veroeffentlicht": "2026-08-18T09:10:00+00:00"
     },
     {
-      "titel": "Berlin: Ausmaß nach Hackerangriff auf Landesnetz unbekannt",
-      "link": "https://www.spiegel.de/netzwelt/berlin-ausmass-nach-hackerangriff-auf-landesnetz-unbekannt-a-c2d02d82-c29e-413d-b7a8-91d354863f81#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T09:07:00+00:00"
-    },
-    {
-      "titel": "Stuttgart: Haftstrafe im Prozess gegen Agenten Russlands",
-      "link": "https://www.spiegel.de/panorama/justiz/stuttgart-haftstrafe-im-prozess-gegen-mutmasslichen-agenten-russlands-a-0bde92a2-a99a-4ddd-a5b5-0f7e676a3669#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T09:05:00+00:00"
-    },
-    {
-      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T09:05:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX-Schwäche hält bislang an",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T09:01:14+00:00"
     },
     {
-      "titel": "Dürre: Bauern melden große Einbrüche bei der Ernte",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/duerre-bauern-melden-grosse-einbrueche-bei-der-ernte-a-3105c80f-eb44-4ec2-9bcf-1098fe4fd080#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T08:59:00+00:00"
-    },
-    {
-      "titel": "Hayden Panettiere: Wladimir Klitschko erinnert an Ex-Partnerin",
-      "link": "https://www.spiegel.de/panorama/leute/hayden-panettiere-wladimir-klitschko-erinnert-an-ex-partnerin-a-7934008c-32c7-4964-a03c-87e8f10b55d9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T08:48:00+00:00"
-    },
-    {
-      "titel": "Sahra Wagenknecht: Warum sie politisch nicht tiefer sinken kann",
-      "link": "https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-warum-sie-politisch-nicht-tiefer-sinken-kann-a-dd8ca864-b703-40f6-9091-bab9cac09baa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T08:31:00+00:00"
+      "titel": "Krieg in Nahost: Erdoğan ruft Trump zu Diplomatie im Iran-Krieg auf",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-erdogan-frieden-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T08:37:58+00:00"
     },
     {
       "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
@@ -85,12 +121,6 @@
       "veroeffentlicht": "2026-08-18T08:12:04+00:00"
     },
     {
-      "titel": "Social Design Award 2026: Jetzt noch schnell mitmachen beim Leserwettbewerb!",
-      "link": "https://www.spiegel.de/stil/social-design-award-2026-jetzt-noch-schnell-mitmachen-beim-leserwettbewerb-a-f0ab74c2-981b-4663-8011-0ff4b8304bcd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T08:10:00+00:00"
-    },
-    {
       "titel": "Bundesumweltminister Schneider besucht Ukraine: Wiederaufbau im Fokus",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-bundesumweltminister-schneider-besuch-kiew-100.html",
       "quelle": "Tagesschau",
@@ -101,18 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/tupac-shakur-prozess-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T07:48:55+00:00"
-    },
-    {
-      "titel": "US-Verhandler Kushner sieht \"sehr positive Gespräche\" mit Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/kushner-iran-gaza-netanjahu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T07:10:44+00:00"
-    },
-    {
-      "titel": "SADC-Gipfel: Fremdenfeindlichkeit schadet Südafrikas Ansehen",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gipfel-fremdenfeindlichkkeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T06:13:05+00:00"
     },
     {
       "titel": "Natur: Klimaschutz gegen Panzer",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-deutschland-bilanz-medaillen-li.3532613",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-17T13:30:29+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Die deutsche Leichtathletik hat sich aus ihrem Tief gearbeitet",
-      "link": "https://www.sueddeutsche.de/sport/leichtahtletik-em-medaillen-deutschland-kommentar-li.3532638",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T13:22:59+00:00"
-    },
-    {
-      "titel": "Salzburger Festspiele: Konferenz der Tiere",
-      "link": "https://www.sueddeutsche.de/kultur/elfriede-jelinek-nicolas-stemann-salzburger-festspiele-unter-tieren-li.3528773",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T13:22:38+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Sachsen-Anhalt: AfD-Gegner rufen zum taktischen Wählen auf",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-afd-spd-gruene-waehlen-li.3531409",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-17T13:19:49+00:00"
     }
   ]
 }
