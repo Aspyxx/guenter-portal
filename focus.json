@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-19T16:52:25+00:00",
+  "aktualisiert": "2026-08-19T17:15:21+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Arbeiterwohlfahrt will Bündelung von Sozialleistungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
+      "titel": "Fast jeder vierte Erwachsene schläft zu wenig",
+      "link": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Was steckt hinter Musialas Zusammenbrüchen?",
-      "link": "https://www.tagesschau.de/wissen/absencen-epilepsie-wissenschaft-100.html",
+      "titel": "DAX tritt auf der Stelle",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-steigende-renditen-belasten-aktienmarkt-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
