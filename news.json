@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-19T03:12:18+00:00",
+  "aktualisiert": "2026-08-19T04:02:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-carney-zoelle-kanada-oel-pipeline-keystone-xl-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T03:56:48+00:00"
+    },
+    {
+      "titel": "Geldanlage: Die 50 wichtigsten Tipps für Ihr Erspartes",
+      "link": "https://www.spiegel.de/wirtschaft/service/geldanlage-die-50-wichtigsten-tipps-fuer-ihr-erspartes-a-16a23af4-cfab-422e-9224-0d6029c4dbad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T03:49:00+00:00"
+    },
+    {
+      "titel": "Migranten in Ceuta treten im Kampf um Asyl in Hungerstreik",
+      "link": "https://www.tagesschau.de/ausland/afrika/ceuta-migranten-128.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T03:39:01+00:00"
+    },
+    {
+      "titel": "Bundesjustizministerin Hubig will Mietern Einbau von Klimaanlagen erleichtern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-mieter-klimaanlagen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T03:35:51+00:00"
+    },
+    {
+      "titel": "USA: 29 Bundesstaaten gegen Meta",
+      "link": "https://www.sueddeutsche.de/politik/meta-prozess-kalifornien-instagram-facebook-kinder-jugendliche-li.3533316",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T03:30:09+00:00"
+    },
+    {
+      "titel": "Geldanlage: So hätten Sie mit uns ein (kleines) Vermögen gemacht",
+      "link": "https://www.spiegel.de/wirtschaft/service/geldanlage-so-haetten-sie-mit-uns-ein-kleines-vermoegen-gemacht-a-63859854-cec9-41b0-867a-fc083fd09072#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T03:30:00+00:00"
+    },
+    {
+      "titel": "News: Roboter, China, Gasspeicher, Sahra Wagenknecht, Sachsen-Anhalt",
+      "link": "https://www.spiegel.de/politik/deutschland/news-roboter-china-gasspeicher-sahra-wagenknecht-sachsen-anhalt-a-42b95818-58d2-4ef5-bff7-dc09cee498f8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T03:27:00+00:00"
+    },
+    {
+      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T03:24:00+00:00"
+    },
     {
       "titel": "Wie sich die EU von einem Milizenführer erpressen lässt",
       "link": "https://www.tagesschau.de/investigativ/report-mainz/migration-mittelmeer-eu-libyen-miliz-100.html",
@@ -19,7 +67,7 @@
       "veroeffentlicht": "2026-08-19T02:55:00+00:00"
     },
     {
-      "titel": "Blackouts des Bayern-Stars: Was sind Absencen?",
+      "titel": "Blackouts des Bayern-Stars – was sind Absencen?",
       "link": "https://www.spiegel.de/wissenschaft/medizin/blackouts-des-bayern-stars-was-sind-absencen-a-b5895791-efdb-4480-ae2a-3fa22bce978b#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T02:30:00+00:00"
@@ -67,28 +115,10 @@
       "veroeffentlicht": "2026-08-18T22:21:32+00:00"
     },
     {
-      "titel": "ZZ-Top-Schlagzeuger Frank Beard ist tot",
-      "link": "https://www.spiegel.de/kultur/musik/zz-top-schlagzeuger-frank-beard-ist-tot-a-9d5de078-b876-4e15-b56b-18043f464ef9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T21:09:00+00:00"
-    },
-    {
-      "titel": "Russland: Menschen heben offenbar Milliarden von ihren Konten ab",
-      "link": "https://www.spiegel.de/ausland/russland-menschen-heben-offenbar-milliarden-von-ihren-konten-ab-a-d4cf3491-4fc8-4135-b5b5-7d99814c1f88#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T20:58:00+00:00"
-    },
-    {
       "titel": "Musiala beim FC Bayern: Der FC Bayern wusste schon länger Bescheid",
       "link": "https://www.sueddeutsche.de/sport/musiala-fc-bayern-zusammengebrochen-heidenheim-li.3533461",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T20:36:15+00:00"
-    },
-    {
-      "titel": "Kanye West: Ye plant Shows in Russland und will Wladimirt Putin treffen",
-      "link": "https://www.spiegel.de/panorama/leute/kanye-west-ye-plant-shows-in-russland-und-will-wladimirt-putin-treffen-a-affaa5cc-4573-40b5-b090-0fafe299c20e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T19:45:00+00:00"
     },
     {
       "titel": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
@@ -115,28 +145,10 @@
       "veroeffentlicht": "2026-08-18T18:00:13+00:00"
     },
     {
-      "titel": "Marokkos Jugend sieht zu Hause keine Perspektive",
-      "link": "https://www.tagesschau.de/ausland/afrika/marokko-jugend-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T17:13:05+00:00"
-    },
-    {
       "titel": "Fairphone 6 Plus: Das Handy, das nicht gleich auf dem Müll landen soll",
       "link": "https://www.sueddeutsche.de/wirtschaft/fairphone-plus-smartphone-recht-reparatur-li.3530899",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T16:19:15+00:00"
-    },
-    {
-      "titel": "Marktbericht: Den DAX verlassen die Kräfte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T16:13:29+00:00"
-    },
-    {
-      "titel": "Assad-Cousin in Syrien zum Tode verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-cousin-todesurteil-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T16:03:42+00:00"
     },
     {
       "titel": "Soziale Medien: Gender Studies für Anfänger",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/infantino-amtszeit-wahlen-compliance-gegner-kommentar-li.3533131",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T13:13:26+00:00"
-    },
-    {
-      "titel": "Thüringen: BSW will die Mitglieder entscheiden lassen",
-      "link": "https://www.sueddeutsche.de/politik/bsw-thueringen-wagenknecht-li.3533156",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T13:13:04+00:00"
-    },
-    {
-      "titel": "Prozess um Tod von Amy Lopez: Ihr mutmaßlicher Mörder steht vor Gericht, nach 31 Jahren",
-      "link": "https://www.sueddeutsche.de/panorama/cold-case-amy-lopez-koblenz-prozess-mord-li.3532625",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T13:05:34+00:00"
     }
   ]
 }
