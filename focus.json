@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-19T05:24:37+00:00",
+  "aktualisiert": "2026-08-19T05:52:15+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Noch hält die 26.000er-Marke im DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
+      "rang": 2,
       "titel": "Erinnerung an ein etwas freieres China",
       "link": "https://www.tagesschau.de/ausland/asien/china-beisetzung-zhu-zeitenwende-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Waldbrand in Belgien weiter nicht unter Kontrolle - Hoffnung auf Regen",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
