@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-19T18:02:06+00:00",
+  "aktualisiert": "2026-08-19T18:54:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T18:48:36+00:00"
+    },
+    {
+      "titel": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T18:29:18+00:00"
+    },
+    {
+      "titel": "FC Bayern: Kane über Musiala: „Unterstützen ihn zu 100 Prozent“",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-jamal-musiala-zusammenbrueche-li.3534011",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T18:27:22+00:00"
+    },
+    {
+      "titel": "Moderna: Erfolgreiche Studie zu Hautkrebs-Impfstoff beflügelt Börsenkurs",
+      "link": "https://www.spiegel.de/wirtschaft/moderna-erfolgreiche-studie-zu-hautkrebs-impfstoff-befluegelt-boersenkurs-a-ecb35755-9bbc-4cb3-a4af-facf7b9d0f02#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T18:27:00+00:00"
+    },
+    {
+      "titel": "Frauenleiche in Wald entdeckt: Verdächtiger stellt sich der Polizei",
+      "link": "https://www.spiegel.de/panorama/frauenleiche-in-wald-entdeckt-verdaechtiger-stellt-sich-der-polizei-a-7f3fd43e-0f12-4d14-a76a-987bbe4e7146#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T18:27:00+00:00"
+    },
+    {
+      "titel": "Tschernobyl: Bundesregierung verspricht 50 Millionen Euro für Reparatur der Hülle",
+      "link": "https://www.spiegel.de/ausland/tschernobyl-bundesregierung-verspricht-50-millionen-euro-fuer-reparatur-der-huelle-a-e3d8128d-c4b2-4653-8c74-8c43bf190738#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T18:26:00+00:00"
+    },
+    {
+      "titel": "Russland: Plündern die Russen wirklich ihre Bankkonten?",
+      "link": "https://www.spiegel.de/wirtschaft/russland-pluendern-die-russen-wirklich-ihre-bankkonten-a-9b0b009d-2ee5-47d8-8f7b-c27e3f34cb29#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T18:15:00+00:00"
+    },
     {
       "titel": "Gaza-Friedensplan: »Mit Israels Regierung wird es keinen Durchbruch geben«",
       "link": "https://www.spiegel.de/ausland/gaza-friedensplan-mit-israels-regierung-wird-es-keinen-durchbruch-geben-a-c619cf91-a3f1-4ed1-8bdd-1ec79752cd9f#ref=rss",
@@ -31,14 +73,14 @@
       "veroeffentlicht": "2026-08-19T16:56:00+00:00"
     },
     {
-      "titel": "Eklat um Itamar Ben-Gvir: Deutschlands neue Schärfe gegen Israel",
-      "link": "https://www.spiegel.de/politik/deutschland/eklat-um-itamar-ben-gvir-deutschlands-neue-schaerfe-gegen-israel-a-185abe3a-8e6c-41c6-bc1a-2ba716a71abd#ref=rss",
+      "titel": "Berlin-Wahl 2026: »... und das ist auch gut so« – CDU und SPD ringen um Deutung des berühmten Satzes",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-2026-und-das-ist-auch-gut-so-cdu-und-spd-ringen-um-deutung-des-beruehmten-satzes-a-1a8232b6-aba0-47cf-ba99-028cfb2e3b86#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T16:55:00+00:00"
     },
     {
-      "titel": "Berlin-Wahl 2026: »... und das ist auch gut so« – CDU und SPD ringen um Deutung des berühmten Satzes",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-2026-und-das-ist-auch-gut-so-cdu-und-spd-ringen-um-deutung-des-beruehmten-satzes-a-1a8232b6-aba0-47cf-ba99-028cfb2e3b86#ref=rss",
+      "titel": "Eklat um Itamar Ben-Gvir: Deutschlands neue Schärfe gegen Israel",
+      "link": "https://www.spiegel.de/politik/deutschland/eklat-um-itamar-ben-gvir-deutschlands-neue-schaerfe-gegen-israel-a-185abe3a-8e6c-41c6-bc1a-2ba716a71abd#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T16:55:00+00:00"
     },
@@ -65,30 +107,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T16:40:30+00:00"
-    },
-    {
-      "titel": "AfD – Friesland: Hospizmitarbeiterin verliert Job wegen AfD-Kandidatur in Niedersachsen",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-friesland-hospizmitarbeiterin-verliert-job-wegen-afd-kandidatur-in-niedersachsen-a-31c2ea0e-1955-4129-825b-e475eb216c8b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T16:34:00+00:00"
-    },
-    {
-      "titel": "Feuer im Hohen Venn: Evakuierte aus Monschau dürfen zurück in ihre Häuser",
-      "link": "https://www.spiegel.de/panorama/feuer-im-hohen-fenn-evakuierte-aus-monschau-duerfen-zurueck-in-ihre-haeuser-a-70316aa2-418f-4481-a946-501acb052601#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T16:31:00+00:00"
-    },
-    {
-      "titel": "»Neinhorn«: Carlsen Verlag kämpft wegen Kinderbuchs gegen die KI ChatGPT von OpenAI",
-      "link": "https://www.spiegel.de/kultur/neinhorn-carlsen-verlag-kaempft-wegen-kinderbuch-gegen-die-ki-chatgpt-von-openai-a-797b7bf7-6a3e-4074-ab7d-e1fb4d86be1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T16:29:00+00:00"
-    },
-    {
-      "titel": "Pixel 11 Pro XL und Pixel 11 Pro Fold im Test: Googles neue Modelle mit HiLight im Check",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/pixel-11-pro-xl-und-pixel-11-pro-fold-im-test-googles-neue-modelle-mit-hilight-im-check-a-74efcb9e-9ded-4d72-a591-f5e9544dbf35#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T16:19:00+00:00"
     },
     {
       "titel": "Erkrankung des Bayern-Profis: Was steckt hinter Musialas Zusammenbrüchen?",
@@ -127,18 +145,6 @@
       "veroeffentlicht": "2026-08-19T14:59:32+00:00"
     },
     {
-      "titel": "SPD-Ministerinnen legen bei Klimaplänen nach",
-      "link": "https://www.tagesschau.de/inland/hitze-aktionsplan-spd-hubig-hubertz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T14:44:17+00:00"
-    },
-    {
-      "titel": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T14:39:03+00:00"
-    },
-    {
       "titel": "Stadtsanierung in München: Wie Haidhausen sich vom Glasscherbenviertel zum hippen Stadtteil wandelte",
       "link": "https://www.sueddeutsche.de/muenchen/stadtsanierung-haidhausen-muenchen-gentrifizierung-li.3529301",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/bahn-fernverkehr-anbieter-staedte-gruene-li.3533637",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T13:57:15+00:00"
-    },
-    {
-      "titel": "Trauerfeier für Werner Brombach: Abschied von einem „Brauer mit Leib und Seele“",
-      "link": "https://www.sueddeutsche.de/muenchen/erdinger-weissbraeu-trauerfeier-werner-brombach-li.3531353",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T13:54:50+00:00"
     }
   ]
 }
