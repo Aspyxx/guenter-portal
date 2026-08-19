@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-19T11:42:27+00:00",
+  "aktualisiert": "2026-08-19T12:03:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Merz kritisiert Ben Gvirs Aussagen zu Tötung von Palästinensern",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T11:54:17+00:00"
+    },
+    {
+      "titel": "Schweiz: Leichen von seit 1992 vermissten Bergsteigern gefunden",
+      "link": "https://www.spiegel.de/panorama/schweiz-leichen-von-seit-1992-vermissten-bergsteigern-gefunden-a-56120440-20d0-4a56-bb63-9d168f820e28#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T11:52:00+00:00"
+    },
+    {
+      "titel": "Vincent Gross: Schlagersänger warnt Fans vor Falschmeldungen über seinen Tod",
+      "link": "https://www.spiegel.de/panorama/leute/vincent-gross-schlagersaenger-warnt-fans-vor-falschmeldungen-ueber-seinen-tod-a-b93d189f-567d-4753-9bc2-1118985d220c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T11:51:00+00:00"
+    },
+    {
+      "titel": "Jane Schoenbrun: Wenn Filme schöner und schrecklicher sind als das Leben",
+      "link": "https://www.spiegel.de/kultur/kino/jane-schoenbrun-wenn-filme-schoener-und-schrecklicher-sind-als-das-leben-a-69eff387-ce60-4ea8-b9fe-12db20dc80e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T11:46:00+00:00"
+    },
+    {
+      "titel": "Tunnel in die EU: Frontex erhebt schwere Vorwürfe gegen Belarus",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/belarus-tunnel-frontex-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T11:44:38+00:00"
+    },
     {
       "titel": "Israel: Bundeskanzler Friedrich Merz verurteilt Aussagen von Itamar Ben-Gvir",
       "link": "https://www.spiegel.de/politik/deutschland/israel-bundeskanzler-friedrich-merz-verurteilt-aussagen-von-itamar-ben-gvir-a-0cf6031a-b01b-40d9-96df-116a8d2a5719#ref=rss",
@@ -55,22 +85,10 @@
       "veroeffentlicht": "2026-08-19T10:45:00+00:00"
     },
     {
-      "titel": "Kamerun: Viele Tote bei Unglück in Goldmine",
-      "link": "https://www.spiegel.de/panorama/kamerun-viele-tote-bei-unglueck-in-goldmine-a-d744de5b-120d-4231-832a-a1c95288bbb5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T10:32:00+00:00"
-    },
-    {
       "titel": "SPD-Ministerinnen legen bei Klimaplänen nach",
       "link": "https://www.tagesschau.de/inland/hitze-aktionsplan-spd-hubig-hubertz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T10:26:32+00:00"
-    },
-    {
-      "titel": "Nostalgie bei Diddl, Rotkäppchen und Pülleken: Der neue Hype um Retro-Marken",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nostalgie-bei-diddl-rotkaeppchen-und-puelleken-der-neue-hype-um-retro-marken-a-cca50971-a3ef-4b05-bae1-943a86218507#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T10:24:00+00:00"
     },
     {
       "titel": "Leute: „Ohne uns wäre Musik auf diesem Planeten gar nicht möglich“",
@@ -79,19 +97,13 @@
       "veroeffentlicht": "2026-08-19T10:18:36+00:00"
     },
     {
-      "titel": "Tennis: Nick Kyrgios nach positivem Kokaintest vorläufig suspendiert",
-      "link": "https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-nach-positivem-kokaintest-vorlaeufig-suspendiert-a-b8e771f9-d767-4256-a672-01340b15a068#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T10:12:00+00:00"
-    },
-    {
       "titel": "Japans Kampf gegen Kriminalität auf dem Milliardenmarkt Pokémon",
       "link": "https://www.tagesschau.de/ausland/asien/pokemon-karten-geldwaesche-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T10:09:27+00:00"
     },
     {
-      "titel": "Nach Anschlägen auf Pipeline: Generalbundesanwalt lässt weiteren Verdächtigen festnehmen",
+      "titel": "Nord-Stream-Anschlag: Mutmaßlicher Saboteur in Kroatien verhaftet",
       "link": "https://www.sueddeutsche.de/politik/nord-stream-anschlag-verdaechtiger-festgenommen-li.3533630",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T09:30:01+00:00"
@@ -139,12 +151,6 @@
       "veroeffentlicht": "2026-08-19T08:16:36+00:00"
     },
     {
-      "titel": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T08:13:12+00:00"
-    },
-    {
       "titel": "Kolumne „Schön Doof“: Budenzauber mit Georgina und Cristiano",
       "link": "https://www.sueddeutsche.de/leben/cristiano-ronaldo-hochzeit-zuhause-cascais-georgina-rodriguez-li.3530806",
       "quelle": "Süddeutsche",
@@ -155,12 +161,6 @@
       "link": "https://www.sueddeutsche.de/politik/russisches-haus-berlin-spionage-bundesregierung-kritik-li.3533078",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T07:58:44+00:00"
-    },
-    {
-      "titel": "Marktbericht: Anleihen machen Aktien Konkurrenz",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T07:40:43+00:00"
     },
     {
       "titel": "Alpen: „Richtige Bergsteiger sind in der Minderheit. Heute sind es Städter und Touristen“",
