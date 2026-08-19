@@ -1,11 +1,83 @@
 {
-  "aktualisiert": "2026-08-19T13:59:20+00:00",
+  "aktualisiert": "2026-08-19T14:53:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Harvard: US-Universität zahlt Millionenabfindung für Handel mit Leichenteilen",
+      "link": "https://www.spiegel.de/panorama/harvard-us-universitaet-zahlt-millionenabfindung-fuer-handel-mit-leichenteilen-a-4af28de9-800b-41b5-823e-1768483ee70d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T14:46:00+00:00"
+    },
+    {
+      "titel": "SPD-Ministerinnen legen bei Klimaplänen nach",
+      "link": "https://www.tagesschau.de/inland/hitze-aktionsplan-spd-hubig-hubertz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T14:44:17+00:00"
+    },
+    {
+      "titel": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T14:39:03+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn: Mutter macht Raucherpause – ICE fährt mit ihrem Baby weiter",
+      "link": "https://www.spiegel.de/panorama/deutsche-bahn-mutter-macht-raucherpause-ice-faehrt-mit-ihrem-baby-weiter-a-f3ea11ab-7f86-462c-abfa-8b8548638ff9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T14:38:00+00:00"
+    },
+    {
+      "titel": "Wie KI in der öffentlichen Verwaltung helfen kann",
+      "link": "https://www.tagesschau.de/wissen/technologie/ki-oeffentliche-verwaltung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T14:37:16+00:00"
+    },
+    {
+      "titel": "Waldbrände in Europa: Feuer in Belgien ist \"eingekreist\"",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T14:30:09+00:00"
+    },
+    {
+      "titel": "Kenia: Sechs Touristen und der Pilot sterben bei Hubschrauberabsturz in Samburu",
+      "link": "https://www.spiegel.de/panorama/kenia-sechs-touristen-und-der-pilot-sterben-bei-hubschrauberabsturz-in-samburu-a-a396837f-7b37-4721-8ab7-3cd8605fe92a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T14:28:00+00:00"
+    },
+    {
+      "titel": "Obdachlosigkeit in Großbritannien: Burnham will Obdachlose von Straße holen",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-obdachlosigkeit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T14:21:24+00:00"
+    },
+    {
+      "titel": "Unitree Robotics in China: Was hinter dem Hype um die Roboter-Aktie steckt",
+      "link": "https://www.spiegel.de/wirtschaft/unitree-robotics-in-china-was-hinter-dem-hype-um-die-roboter-aktie-steckt-a-6063620e-5089-424f-b932-4b650348d0ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T14:12:00+00:00"
+    },
+    {
+      "titel": "Gespräche über Politik: Wie souverän diskutieren Sie? – der Test",
+      "link": "https://www.spiegel.de/psychologie/gespraeche-ueber-politik-wie-souveraen-diskutieren-sie-der-test-a-1983f629-3065-4ca3-89a5-346e66262a0d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T14:07:00+00:00"
+    },
+    {
+      "titel": "Deutschland spricht: Diese Themen einen Deutschland – und diese entzweien uns",
+      "link": "https://www.spiegel.de/backstage/deutschland-spricht-diese-themen-einen-deutschland-und-diese-entzweien-uns-a-cf75f496-d128-42c4-aefb-e877d822e6e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T14:07:00+00:00"
+    },
+    {
+      "titel": "Trauerfeier für Werner Brombach: Abschied von einem „Brauer mit Leib und Seele“",
+      "link": "https://www.sueddeutsche.de/muenchen/erdinger-weissbraeu-trauerfeier-werner-brombach-li.3531353",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T13:54:50+00:00"
+    },
     {
       "titel": "Großbrand im Hohen Venn, Ausnahmezustand in Monschau: Zehn Minuten, zwei Hosen, drei T-Shirts",
       "link": "https://www.spiegel.de/panorama/grossbrand-im-hohen-venn-ausnahmezustand-in-monschau-zehn-minuten-zwei-hosen-drei-t-shirts-a-48094d53-d737-4805-ac37-ed57c6b40e76#ref=rss",
@@ -19,28 +91,10 @@
       "veroeffentlicht": "2026-08-19T13:28:00+00:00"
     },
     {
-      "titel": "Hayden Panettiere: Ex-Freund war wohl am Todesort – was wir über den Fall wissen",
+      "titel": "Hayden Panettiere: Ex-Freund Brian Hickerson war wohl am Todesort – was bekannt ist",
       "link": "https://www.spiegel.de/panorama/leute/hayden-panettiere-ex-freund-war-wohl-am-todesort-was-wir-ueber-den-fall-wissen-a-44f23045-0fcf-4355-ac51-97011a82ba40#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T13:27:00+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn beklagt Vandalismusschäden in Höhe von über 30 Millionen Euro",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-beklagt-vandalismusschaeden-in-hoehe-von-ueber-30-millionen-euro-a-ebabd8d8-3393-4d92-a5f7-9368f787418f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T13:20:00+00:00"
-    },
-    {
-      "titel": "Gazakrieg: Israelische Armee ermittelt zu Tod von Hind Rajab und Sanitätern",
-      "link": "https://www.spiegel.de/ausland/gazakrieg-israelische-armee-ermittelt-zu-tod-von-hind-rajab-und-sanitaetern-a-41bbf0a8-22fe-46fd-afe5-d85c81e8789e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T13:14:00+00:00"
-    },
-    {
-      "titel": "Depression nach Missbrauchskandal: Kraft Speyerer Bischof Karl-Heinz Wiesemann tritt zurück",
-      "link": "https://www.spiegel.de/panorama/leute/depression-nach-missbrauchskandal-kraft-speyerer-bischof-karl-heinz-wiesemann-tritt-zurueck-a-3af7d29d-4ec5-444c-9091-8f07d85460a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T13:10:00+00:00"
     },
     {
       "titel": "Wie Kürzungen die humanitäre Hilfe verändern",
@@ -53,12 +107,6 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-jamal-musiala-dysfunktion-behandlung-li.3533635",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T13:01:00+00:00"
-    },
-    {
-      "titel": "Königin Camilla fiel es schwer, über Krebserkrankung von Charles III. zu schweigen",
-      "link": "https://www.spiegel.de/panorama/leute/koenigin-camilla-fiel-es-schwer-ueber-krebserkrankung-von-charles-iii-zu-schweigen-a-8e70d2c1-d90b-41b0-b417-4dd0bdde21b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T12:59:00+00:00"
     },
     {
       "titel": "Prozess gegen Narkosearzt: Warum starb eine Vierjährige beim Zahnarzt?",
@@ -79,12 +127,6 @@
       "veroeffentlicht": "2026-08-19T12:54:13+00:00"
     },
     {
-      "titel": "FC Bayern München: Uli Hoeneß spricht über Jamal Musialas Blackouts",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-spricht-ueber-jamal-musialas-blackouts-a-9f8796ba-3212-4423-aa19-f827cd1f5639#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T12:46:00+00:00"
-    },
-    {
       "titel": "USA: Neue Vorwürfe gegen Tochter von Bill Gates",
       "link": "https://www.sueddeutsche.de/wirtschaft/phoebe-gates-start-up-phia-li.3533142",
       "quelle": "Süddeutsche",
@@ -97,40 +139,16 @@
       "veroeffentlicht": "2026-08-19T12:30:40+00:00"
     },
     {
-      "titel": "Empörung und Kritik nach US-Entscheidung zu Strafgerichtshof",
-      "link": "https://www.tagesschau.de/ausland/amerika/reaktionen-usa-sanktionen-internationaler-strafgerichtshof-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T12:27:31+00:00"
+      "titel": "Ukraine: Beliebter Ex-Verteidigungsminister fordert Wahlen mitten im Krieg",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-ex-verteidigungsminister-wahlen-krieg-li.3533593",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T12:15:26+00:00"
     },
     {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T12:26:00+00:00"
-    },
-    {
-      "titel": "Waldbrände in Europa: Waldbrand in Belgien ist \"eingekreist\"",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T12:23:42+00:00"
-    },
-    {
-      "titel": "Autofahrer könnten beim Wechsel der Kfz-Versicherung besonders viel sparen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verivox-kfz-versicherungen-billiger-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T12:19:18+00:00"
-    },
-    {
-      "titel": "Hoffnungsschimmer: Auftragsbücher gut gefüllt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-auftragsbestand-hoffnungsschimmer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T12:11:23+00:00"
-    },
-    {
-      "titel": "Merz kritisiert Ben Gvirs Aussagen zu Tötung von Palästinensern",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T11:54:17+00:00"
+      "titel": "Ukraine: Kiew trägt den Krieg nach Moskau – mehr aber auch nicht",
+      "link": "https://www.sueddeutsche.de/meinung/ukraine-russland-angriffskrieg-drohnen-korruption-li.3533382",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T12:13:55+00:00"
     },
     {
       "titel": "FC Bayern: Welche Ursachen die Ausfälle von Jamal Musiala haben können",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-korruption-ermittlungen-selenskij-vize-praesidialamtschefin-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T10:45:00+00:00"
-    },
-    {
-      "titel": "Leute: „Ohne uns wäre Musik auf diesem Planeten gar nicht möglich“",
-      "link": "https://www.sueddeutsche.de/panorama/promis-afrika-angelique-kidjo-hollywood-stern-li.3533602",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T10:18:36+00:00"
-    },
-    {
-      "titel": "Nord-Stream-Anschlag: Mutmaßlicher Saboteur in Kroatien verhaftet",
-      "link": "https://www.sueddeutsche.de/politik/nord-stream-anschlag-verdaechtiger-festgenommen-li.3533630",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T09:30:01+00:00"
-    },
-    {
-      "titel": "Garmisch-Partenkirchen: Kind wird bei Forstarbeiten von Baum erschlagen",
-      "link": "https://www.sueddeutsche.de/bayern/garmisch-partenkirchen-kind-unfall-forstarbeiten-baum-li.3533643",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T09:07:18+00:00"
     }
   ]
 }
