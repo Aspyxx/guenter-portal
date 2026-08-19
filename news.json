@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-19T16:47:39+00:00",
+  "aktualisiert": "2026-08-19T17:42:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Cyberattacke in Berlin: „Der Angriff auf unser Landesnetz war ernst“",
+      "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-li.3533570",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T17:06:55+00:00"
+    },
+    {
+      "titel": "Karolina-Burger-Realschule in Ludwigshafen: Bildungsministerin Ute Eiling-Hütig greift durch",
+      "link": "https://www.spiegel.de/panorama/bildung/karolina-burger-realschule-in-ludwigshafen-bildungsministerin-ute-eilig-hueting-greift-durch-a-fe7e693d-080e-4fa4-aa7d-e408c4f64373#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T17:03:00+00:00"
+    },
+    {
+      "titel": "Sandra Hüller und Bill Kaulitz: Gegen die AfD aufzustehen, ist längst kein »Gratismut« mehr",
+      "link": "https://www.spiegel.de/politik/deutschland/sandra-hueller-und-bill-kaulitz-gegen-die-afd-aufzustehen-ist-laengst-kein-gratismut-mehr-a-ed810463-82f3-4f67-b459-c4a7c0f08e9e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T16:56:00+00:00"
+    },
+    {
+      "titel": "Berlin-Wahl 2026: »... und das ist auch gut so« – CDU und SPD ringen um Deutung des berühmten Satzes",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-2026-und-das-ist-auch-gut-so-cdu-und-spd-ringen-um-deutung-des-beruehmten-satzes-a-1a8232b6-aba0-47cf-ba99-028cfb2e3b86#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T16:55:00+00:00"
+    },
+    {
+      "titel": "Eklat um Itamar Ben-Gvir: Deutschlands neue Schärfe gegen Israel",
+      "link": "https://www.spiegel.de/politik/deutschland/eklat-um-itamar-ben-gvir-deutschlands-neue-schaerfe-gegen-israel-a-185abe3a-8e6c-41c6-bc1a-2ba716a71abd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T16:55:00+00:00"
+    },
+    {
+      "titel": "Fast jeder vierte Erwachsene schläft zu wenig",
+      "link": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T16:54:15+00:00"
+    },
+    {
+      "titel": "Kaufzurückhaltung: DAX tritt auf der Stelle",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-steigende-renditen-belasten-aktienmarkt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T16:53:35+00:00"
+    },
     {
       "titel": "Merz kritisiert Ben-Gvirs Aussagen zu Tötung von Palästinensern",
       "link": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
@@ -25,7 +67,7 @@
       "veroeffentlicht": "2026-08-19T16:34:00+00:00"
     },
     {
-      "titel": "Feuer im Hohen Fenn: Evakuierte aus Monschau dürfen zurück in ihre Häuser",
+      "titel": "Feuer im Hohen Venn: Evakuierte aus Monschau dürfen zurück in ihre Häuser",
       "link": "https://www.spiegel.de/panorama/feuer-im-hohen-fenn-evakuierte-aus-monschau-duerfen-zurueck-in-ihre-haeuser-a-70316aa2-418f-4481-a946-501acb052601#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T16:31:00+00:00"
@@ -55,18 +97,6 @@
       "veroeffentlicht": "2026-08-19T15:58:21+00:00"
     },
     {
-      "titel": "Alexandria Ocasio-Cortez und das Social Freezing: Können Frauen in der Politik wirklich alles haben?",
-      "link": "https://www.spiegel.de/ausland/alexandria-ocasio-cortez-und-das-social-freezing-koennen-frauen-in-der-politik-wirklich-alles-haben-a-1a86cc2e-f756-4b59-8a23-cea7ee47c639#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T15:58:00+00:00"
-    },
-    {
-      "titel": "Verteidigung: Moritz Schularick fordert Armee der Zukunft statt teurer Alttechnik",
-      "link": "https://www.spiegel.de/politik/deutschland/verteidigung-moritz-schularick-fordert-armee-der-zukunft-statt-teurer-alttechnik-a-e6c3f28a-8cdf-4ace-8eab-d7271db232c8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T15:34:00+00:00"
-    },
-    {
       "titel": "Sieben weitere Gesundheitszonen in der DR Kongo von Ebola betroffen",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-neue-regionen-update-100.html",
       "quelle": "Tagesschau",
@@ -91,22 +121,10 @@
       "veroeffentlicht": "2026-08-19T15:04:19+00:00"
     },
     {
-      "titel": "Astronomie: Das ist der schnellste Stern der Milchstraße",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/astronomie-das-ist-der-schnellste-stern-der-milchstrasse-a-629587dd-5793-4c57-b8bb-f1b71d9e55e9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T15:00:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Dobrindt zu Leipzig: Russland macht Verdacht leicht, aber Beweisführung schwer",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-dobrindt-leipzig-anschlag-russland-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T14:59:32+00:00"
-    },
-    {
-      "titel": "Nordkorea – Donald Trump: Schwester von Kim Jong Un beschwert sich über feindselige US-Politik",
-      "link": "https://www.spiegel.de/ausland/nordkorea-donald-trump-schwester-von-kim-jong-un-beschwert-sich-ueber-feindselige-us-politik-a-7363e4bb-0350-4129-9c7a-a7bd57807f39#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T14:50:00+00:00"
     },
     {
       "titel": "SPD-Ministerinnen legen bei Klimaplänen nach",
@@ -121,12 +139,6 @@
       "veroeffentlicht": "2026-08-19T14:39:03+00:00"
     },
     {
-      "titel": "Wie KI in der öffentlichen Verwaltung helfen kann",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-oeffentliche-verwaltung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T14:37:16+00:00"
-    },
-    {
       "titel": "Stadtsanierung in München: Wie Haidhausen sich vom Glasscherbenviertel zum hippen Stadtteil wandelte",
       "link": "https://www.sueddeutsche.de/muenchen/stadtsanierung-haidhausen-muenchen-gentrifizierung-li.3529301",
       "quelle": "Süddeutsche",
@@ -137,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/sparkasse-manager-gehaelter-li.3533652",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T14:32:22+00:00"
-    },
-    {
-      "titel": "Waldbrände in Europa: Feuer in Belgien ist \"eingekreist\"",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T14:30:09+00:00"
     },
     {
       "titel": "Zwischenfälle am Flughafen München: Wenn der Landeanflug auf dem Acker endet",
@@ -157,16 +163,10 @@
       "veroeffentlicht": "2026-08-19T13:54:50+00:00"
     },
     {
-      "titel": "Jamal Musiala: Nach dem zweiten Zusammenbruch stellen sich wuchtige Fragen",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-jamal-musiala-dysfunktion-behandlung-li.3533635",
+      "titel": "Pop: Hauptsache, es geht ihm besser",
+      "link": "https://www.sueddeutsche.de/kultur/mike-d-beastie-boys-album-5d-li.3533065",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T13:01:00+00:00"
-    },
-    {
-      "titel": "Prozess gegen Narkosearzt: Warum starb eine Vierjährige beim Zahnarzt?",
-      "link": "https://www.sueddeutsche.de/panorama/narkosearzt-frankfurt-tod-emilia-revision-prozess-li.3528082",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T12:58:40+00:00"
+      "veroeffentlicht": "2026-08-19T13:12:41+00:00"
     }
   ]
 }
