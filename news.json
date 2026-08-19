@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-19T17:42:16+00:00",
+  "aktualisiert": "2026-08-19T18:02:06+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Gaza-Friedensplan: »Mit Israels Regierung wird es keinen Durchbruch geben«",
+      "link": "https://www.spiegel.de/ausland/gaza-friedensplan-mit-israels-regierung-wird-es-keinen-durchbruch-geben-a-c619cf91-a3f1-4ed1-8bdd-1ec79752cd9f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T17:55:00+00:00"
+    },
     {
       "titel": "Cyberattacke in Berlin: „Der Angriff auf unser Landesnetz war ernst“",
       "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-li.3533570",
@@ -25,14 +31,14 @@
       "veroeffentlicht": "2026-08-19T16:56:00+00:00"
     },
     {
-      "titel": "Berlin-Wahl 2026: »... und das ist auch gut so« – CDU und SPD ringen um Deutung des berühmten Satzes",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-2026-und-das-ist-auch-gut-so-cdu-und-spd-ringen-um-deutung-des-beruehmten-satzes-a-1a8232b6-aba0-47cf-ba99-028cfb2e3b86#ref=rss",
+      "titel": "Eklat um Itamar Ben-Gvir: Deutschlands neue Schärfe gegen Israel",
+      "link": "https://www.spiegel.de/politik/deutschland/eklat-um-itamar-ben-gvir-deutschlands-neue-schaerfe-gegen-israel-a-185abe3a-8e6c-41c6-bc1a-2ba716a71abd#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T16:55:00+00:00"
     },
     {
-      "titel": "Eklat um Itamar Ben-Gvir: Deutschlands neue Schärfe gegen Israel",
-      "link": "https://www.spiegel.de/politik/deutschland/eklat-um-itamar-ben-gvir-deutschlands-neue-schaerfe-gegen-israel-a-185abe3a-8e6c-41c6-bc1a-2ba716a71abd#ref=rss",
+      "titel": "Berlin-Wahl 2026: »... und das ist auch gut so« – CDU und SPD ringen um Deutung des berühmten Satzes",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-2026-und-das-ist-auch-gut-so-cdu-und-spd-ringen-um-deutung-des-beruehmten-satzes-a-1a8232b6-aba0-47cf-ba99-028cfb2e3b86#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T16:55:00+00:00"
     },
@@ -73,7 +79,7 @@
       "veroeffentlicht": "2026-08-19T16:31:00+00:00"
     },
     {
-      "titel": "»Neinhorn«: Carlsen-Verlag kämpft wegen Kinderbuch gegen die KI ChatGPT von OpenAI",
+      "titel": "»Neinhorn«: Carlsen Verlag kämpft wegen Kinderbuchs gegen die KI ChatGPT von OpenAI",
       "link": "https://www.spiegel.de/kultur/neinhorn-carlsen-verlag-kaempft-wegen-kinderbuch-gegen-die-ki-chatgpt-von-openai-a-797b7bf7-6a3e-4074-ab7d-e1fb4d86be1a#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T16:29:00+00:00"
@@ -83,12 +89,6 @@
       "link": "https://www.spiegel.de/netzwelt/gadgets/pixel-11-pro-xl-und-pixel-11-pro-fold-im-test-googles-neue-modelle-mit-hilight-im-check-a-74efcb9e-9ded-4d72-a591-f5e9544dbf35#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T16:19:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Wie fit ist Jamal Musiala? Und wie hat sich Wolodymyr Selenskyj einen neuen Feind geschaffen?",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-jamal-musiala-a-11296890-36fe-43bf-ae13-508c804f610e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T16:00:00+00:00"
     },
     {
       "titel": "Erkrankung des Bayern-Profis: Was steckt hinter Musialas Zusammenbrüchen?",
@@ -157,16 +157,16 @@
       "veroeffentlicht": "2026-08-19T14:14:18+00:00"
     },
     {
+      "titel": "Schienenverkehr: Wenn der ICE nicht mehr in Jena oder Münster stoppt",
+      "link": "https://www.sueddeutsche.de/wirtschaft/bahn-fernverkehr-anbieter-staedte-gruene-li.3533637",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T13:57:15+00:00"
+    },
+    {
       "titel": "Trauerfeier für Werner Brombach: Abschied von einem „Brauer mit Leib und Seele“",
       "link": "https://www.sueddeutsche.de/muenchen/erdinger-weissbraeu-trauerfeier-werner-brombach-li.3531353",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T13:54:50+00:00"
-    },
-    {
-      "titel": "Pop: Hauptsache, es geht ihm besser",
-      "link": "https://www.sueddeutsche.de/kultur/mike-d-beastie-boys-album-5d-li.3533065",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T13:12:41+00:00"
     }
   ]
 }
