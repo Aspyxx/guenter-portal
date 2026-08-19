@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-19T20:46:52+00:00",
+  "aktualisiert": "2026-08-19T21:42:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,14 +7,32 @@
   },
   "meldungen": [
     {
-      "titel": "Céline Dion bereitet sich mit Pilates und Ballett auf Bühnen-Comeback vor",
-      "link": "https://www.spiegel.de/panorama/leute/celine-dion-bereitet-sich-mit-pilates-und-ballett-auf-buehnen-comeback-vor-a-808771d5-5c22-424c-8190-9c7c9a42a9b9#ref=rss",
+      "titel": "Joël Le Scouarnec: Neue Vorwürfe des Kindesmissbrauchs gegen bereits verurteilten Ex-Chirurgen",
+      "link": "https://www.spiegel.de/ausland/joel-le-scouarnec-neue-vorwuerfe-des-kindesmissbrauchs-gegen-bereits-verurteilten-ex-chirurgen-a-420acd77-3c52-4c65-a471-21f1d61810ea#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T19:35:00+00:00"
+      "veroeffentlicht": "2026-08-19T21:06:00+00:00"
+    },
+    {
+      "titel": "Zwei Schwerverletzte bei Unwetter in Rheinland-Pfalz",
+      "link": "https://www.spiegel.de/panorama/zwei-schwerverletzte-bei-unwetter-in-rheinland-pfalz-a-8dc01795-12db-46fa-8c8a-bef1b1834ebd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T20:51:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: CDU-Mann spendet 10 000 Euro an die AfD",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-afd-spende-li.3534018",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T20:45:13+00:00"
     },
     {
       "titel": "Jens Spahn kandidiert nach Leihmutterschafts-Debatte nicht mehr für CDU-Bezirksvorsitz im Münsterland",
       "link": "https://www.spiegel.de/politik/jens-spahn-kandidiert-nach-leihmutterschafts-debatte-nicht-mehr-fuer-cdu-bezirksvorsitz-im-muensterland-a-356899ef-c989-49e3-869f-137eba31ff42#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T19:35:00+00:00"
+    },
+    {
+      "titel": "Céline Dion bereitet sich mit Pilates und Ballett auf Bühnen-Comeback vor",
+      "link": "https://www.spiegel.de/panorama/leute/celine-dion-bereitet-sich-mit-pilates-und-ballett-auf-buehnen-comeback-vor-a-808771d5-5c22-424c-8190-9c7c9a42a9b9#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T19:35:00+00:00"
     },
@@ -77,18 +95,6 @@
       "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-li.3533570",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T17:06:55+00:00"
-    },
-    {
-      "titel": "Karolina-Burger-Realschule in Ludwigshafen: Bildungsministerin Ute Eiling-Hütig greift durch",
-      "link": "https://www.spiegel.de/panorama/bildung/karolina-burger-realschule-in-ludwigshafen-bildungsministerin-ute-eilig-hueting-greift-durch-a-fe7e693d-080e-4fa4-aa7d-e408c4f64373#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T17:03:00+00:00"
-    },
-    {
-      "titel": "Sandra Hüller und Bill Kaulitz: Gegen die AfD aufzustehen, ist längst kein »Gratismut« mehr",
-      "link": "https://www.spiegel.de/politik/deutschland/sandra-hueller-und-bill-kaulitz-gegen-die-afd-aufzustehen-ist-laengst-kein-gratismut-mehr-a-ed810463-82f3-4f67-b459-c4a7c0f08e9e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T16:56:00+00:00"
     },
     {
       "titel": "Fast jeder vierte Erwachsene schläft zu wenig",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/sparkasse-manager-gehaelter-li.3533652",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T14:32:22+00:00"
-    },
-    {
-      "titel": "Zwischenfälle am Flughafen München: Wenn der Landeanflug auf dem Acker endet",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-vietnam-airlines-lufthansa-zwischenfall-chronologie-li.3533594",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T14:14:18+00:00"
     }
   ]
 }
