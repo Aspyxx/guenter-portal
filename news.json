@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-19T07:55:14+00:00",
+  "aktualisiert": "2026-08-19T08:55:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mehr als 5000 Ebolafälle im Kongo – tödlichster Ausbruch in der Geschichte des Landes",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/mehr-als-5000-ebolafaelle-im-kongo-toedlichster-ausbruch-in-der-geschichte-des-landes-a-c8080b9a-a99a-4b9b-96ad-e5652019d101#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T08:48:00+00:00"
+    },
+    {
+      "titel": "Warum Italien und Deutschland wieder über Migranten streiten",
+      "link": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T08:28:54+00:00"
+    },
+    {
+      "titel": "»Zhuque-3«: Chinesische Rakete nach Orbitalstart erstmals auf Beinen gelandet",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/zhuque-3-chinesische-rakete-nach-orbitalstart-erstmals-auf-beinen-gelandet-a-46ff40b7-1dfe-4410-9d5b-7278bf1590f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T08:19:00+00:00"
+    },
+    {
+      "titel": "Hilfsorganisationen: Angriffe auf Helfer erreichen Höchstwert",
+      "link": "https://www.tagesschau.de/ausland/europa/un-helfer-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T08:17:27+00:00"
+    },
+    {
+      "titel": "Hitze: Rekordwärme in Europas Meeren geht auf Klimawandel zurück",
+      "link": "https://www.sueddeutsche.de/wissen/europa-meer-rekord-li.3533564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T08:16:36+00:00"
+    },
+    {
+      "titel": "Debattenkultur: Wenn Fakten nicht mehr für politischen Wandel reichen",
+      "link": "https://www.spiegel.de/politik/debattenkultur-wenn-fakten-nicht-mehr-fuer-politischen-wandel-reichen-a-bde8ad37-2b41-4009-b380-8f2288863d5f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T08:16:00+00:00"
+    },
+    {
+      "titel": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T08:13:12+00:00"
+    },
+    {
+      "titel": "Lüdinghausen: Schaf fährt im Bus durch Waschanlage – mit Polizeibegleitung",
+      "link": "https://www.spiegel.de/panorama/luedinghausen-schaf-faehrt-im-bus-durch-waschanlage-mit-polizeibegleitung-a-2dda5121-27b0-40a1-a0d2-7eaec5fd612f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T08:11:00+00:00"
+    },
+    {
+      "titel": "Russisches Haus: Warum Russland in Berlin spionieren kann – und Deutschland auch noch dafür zahlt",
+      "link": "https://www.sueddeutsche.de/politik/russisches-haus-berlin-spionage-bundesregierung-kritik-li.3533078",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T07:58:44+00:00"
+    },
+    {
+      "titel": "Angélique Kidjo: »Die fleißigste Frau im Showbusiness« – Sängerin bekommt einen Stern",
+      "link": "https://www.spiegel.de/kultur/musik/angelique-kidjo-die-fleissigste-frau-im-showbusiness-saengerin-bekommt-einen-stern-a-7bffddc8-57a2-415c-8d97-d5479cacf789#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T07:55:00+00:00"
+    },
     {
       "titel": "Marktbericht: Anleihen machen Aktien Konkurrenz",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
@@ -25,7 +85,7 @@
       "veroeffentlicht": "2026-08-19T07:28:00+00:00"
     },
     {
-      "titel": "Phänomen »Agentic flooding«: Wie Behörden mit der KI-Anfragenflut umgehen sollten",
+      "titel": "Künstliche Intelligenz: Wie KI-Anträge Gerichte und Behörden überfordern",
       "link": "https://www.spiegel.de/wirtschaft/phaenomen-agentic-flooding-wie-behoerden-mit-der-ki-anfragenflut-umgehen-sollten-a-5fa0a330-4573-4694-a752-3d37ac2c6ecb#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T07:26:00+00:00"
@@ -43,7 +103,7 @@
       "veroeffentlicht": "2026-08-19T07:07:52+00:00"
     },
     {
-      "titel": "Hitze in der Wohnung: Justizministerin Hubig plant Erleichterungen für Mieter",
+      "titel": "Hitze in der Wohnung: Justizministerin Stefanie Hubig plant Erleichterungen für Mieter",
       "link": "https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-justizministerin-hubig-plant-erleichterungen-fuer-mieter-a-031b093f-e372-4ab2-bbf1-df4c20526260#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T06:59:00+00:00"
@@ -55,20 +115,8 @@
       "veroeffentlicht": "2026-08-19T06:56:37+00:00"
     },
     {
-      "titel": "USS Benfold: US-Zerstörer war vier Tage ohne Strom im Pazifik",
-      "link": "https://www.spiegel.de/ausland/uss-benfold-us-zerstoerer-war-vier-tage-ohne-strom-im-pazifik-a-559902a5-b554-41c7-80a5-24550ff16039#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T06:52:00+00:00"
-    },
-    {
-      "titel": "England: Drei Mitglieder einer Familie ertrinken bei Shoreham-by-Sea",
-      "link": "https://www.spiegel.de/panorama/england-drei-mitglieder-einer-familie-ertrinken-bei-shoreham-by-sea-a-db9beb34-1b07-45ba-accf-dd801df98e05#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T06:42:00+00:00"
-    },
-    {
-      "titel": "Alkohol im Homeoffice: 60-Jähriger schläft in der Video-Konferenz ein – Kollegen alarmieren die Feuerwehr",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-grassau-homeoffice-feuerwehr-li.3533558",
+      "titel": "Alkohol im Home-Office: 60-Jähriger schläft in Videokonferenz ein – Kollegen alarmieren die Feuerwehr",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-grassau-homeoffice-feuerwehr-alkohol-li.3533558",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T06:30:56+00:00"
     },
@@ -79,28 +127,10 @@
       "veroeffentlicht": "2026-08-19T06:23:58+00:00"
     },
     {
-      "titel": "Unitree Robotics in China: Börsendebüt mit mehr als 600 Prozent Kursplus",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/unitree-robotics-in-china-boersendebuet-mit-mehr-als-600-prozent-kursplus-a-7a671982-d195-42ee-be53-7ea2f070c608#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T06:11:00+00:00"
-    },
-    {
       "titel": "Astronomie: Kleiner roter Punkt ganz groß",
       "link": "https://www.sueddeutsche.de/wissen/james-webb-teleskop-little-red-dots-schwarzes-loch-schwarzlochstern-li.3530811",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T06:09:33+00:00"
-    },
-    {
-      "titel": "Waldbrand in Belgien: Einsatzkräfte kämpfen darum, Brände zurückzudrängen",
-      "link": "https://www.spiegel.de/panorama/waldbrand-in-belgien-einsatzkraefte-kaempfen-darum-braende-zurueckzudraengen-a-399399a0-ccab-4985-9aa7-528bd5431c04#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T06:06:00+00:00"
-    },
-    {
-      "titel": "Strafgerichtshof: USA verhängen Sanktionen gegen Präsidentin Tomoko Akane",
-      "link": "https://www.spiegel.de/ausland/strafgerichtshof-usa-verhaengen-sanktionen-gegen-praesidentin-tomoko-akane-a-cbad7bea-3d22-49bb-8327-df8ac9fbdc10#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T05:51:00+00:00"
     },
     {
       "titel": "Prozess in Oakland: US-Staaten werfen Meta Gefährdung junger Nutzer vor",
@@ -113,24 +143,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-hubig-klimaanlagen-sonnenblenden-hitzeschutz-mietrecht-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T05:06:22+00:00"
-    },
-    {
-      "titel": "Gedenken an Zhu und Jiang: Erinnerung an ein etwas freieres China",
-      "link": "https://www.tagesschau.de/ausland/asien/china-beisetzung-zhu-zeitenwende-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T05:06:12+00:00"
-    },
-    {
-      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T04:45:00+00:00"
-    },
-    {
-      "titel": "Waldbrand in Belgien weiter nicht unter Kontrolle - Hoffnung auf Regen",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T04:40:29+00:00"
     },
     {
       "titel": "USA: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/zz-top-schlagzeuger-frank-beard-texas-li.3533475",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T21:07:14+00:00"
-    },
-    {
-      "titel": "Musiala beim FC Bayern: Der FC Bayern wusste schon länger Bescheid",
-      "link": "https://www.sueddeutsche.de/sport/jamal-musiala-absencen-fc-bayern-zusammenbruch-heidenheim-leipzig-erkrankung-li.3533461",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T20:36:15+00:00"
-    },
-    {
-      "titel": "Fußball: Musiala sinkt erneut zu Boden - „neurologische Dysfunktion“",
-      "link": "https://www.sueddeutsche.de/sport/bayern-muenchen-musiala-testspiel-heidenheim-li.3533456",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T18:15:33+00:00"
     }
   ]
 }
