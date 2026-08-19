@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-19T10:47:27+00:00",
+  "aktualisiert": "2026-08-19T11:42:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Israel: Bundeskanzler Friedrich Merz verurteilt Aussagen von Itamar Ben-Gvir",
+      "link": "https://www.spiegel.de/politik/deutschland/israel-bundeskanzler-friedrich-merz-verurteilt-aussagen-von-itamar-ben-gvir-a-0cf6031a-b01b-40d9-96df-116a8d2a5719#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T11:29:00+00:00"
+    },
+    {
+      "titel": "Vorstandsgehälter der öffentlichen Hand: Studie zeigt kräftige Vergütungsplus für Sparkassenchefs",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/vorstandsgehaelter-der-oeffentlichen-hand-studie-zeigt-kraeftige-verguetungsplus-fuer-sparkassenchefs-a-1f67eeea-c73c-4e26-bbd7-01e19dc2c3ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T11:27:00+00:00"
+    },
+    {
+      "titel": "Constantin Films: »Die Päpstin«-Serie offenbar kurz vor Drehbeginn gestoppt",
+      "link": "https://www.spiegel.de/kultur/constantin-films-die-paepstin-serie-offenbar-kurz-vor-drehbeginn-gestoppt-a-1470c6a0-8d68-45d4-99fa-c637e93ca544#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T11:20:00+00:00"
+    },
+    {
+      "titel": "Ukraine – Cherson: Wolodymyr Selenskyj spricht nach tödlichem Angriff von »Drohnen-Safari«",
+      "link": "https://www.spiegel.de/ausland/ukraine-cherson-wolodymyr-selenskyj-spricht-nach-toedlichem-angriff-von-drohnen-safari-a-c965270e-447a-47c0-bff7-b2d2222aadad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T10:59:00+00:00"
+    },
     {
       "titel": "Bayern: Kind bei Forstarbeiten von Baum erschlagen",
       "link": "https://www.spiegel.de/panorama/bayern-kind-bei-forstarbeiten-von-baum-erschlagen-a-697e6722-ad6b-44b8-9f03-2ee70de06cf3#ref=rss",
@@ -23,6 +47,12 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-sommerpause-schweigen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T10:45:36+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Korruptionsermittlungen in der Ukraine – Selenskij entlässt Vize-Präsidialamtschefin",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-korruption-ermittlungen-selenskij-vize-praesidialamtschefin-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T10:45:00+00:00"
     },
     {
       "titel": "Kamerun: Viele Tote bei Unglück in Goldmine",
@@ -61,24 +91,6 @@
       "veroeffentlicht": "2026-08-19T10:09:27+00:00"
     },
     {
-      "titel": "Kreta: Gänsegeier sorgt für verspäteten Abflug",
-      "link": "https://www.spiegel.de/panorama/kreta-gaensegeier-sorgt-fuer-verspaeteten-abflug-a-7c6f5a0f-eac2-48a9-94de-7d0bfe7adce1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T09:43:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Korruptionsermittlungen in der Ukraine vor Votum zu Verteidigungsminister",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-korruption-ermittlungen-verteidigungsminister-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T09:41:48+00:00"
-    },
-    {
-      "titel": "Hockey-WM: Ministerpräsident Rob Jetten jubelt für die Niederlande und küsst Verlobten Nicolás Keenan",
-      "link": "https://www.spiegel.de/sport/hockey-wm-ministerpraesident-rob-jetten-jubelt-fuer-die-niederlande-und-kuesst-verlobten-nicolas-keenan-a-705eed26-172d-419e-9f62-4985ad14e8e0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T09:35:00+00:00"
-    },
-    {
       "titel": "Nach Anschlägen auf Pipeline: Generalbundesanwalt lässt weiteren Verdächtigen festnehmen",
       "link": "https://www.sueddeutsche.de/politik/nord-stream-anschlag-verdaechtiger-festgenommen-li.3533630",
       "quelle": "Süddeutsche",
@@ -91,22 +103,16 @@
       "veroeffentlicht": "2026-08-19T09:26:04+00:00"
     },
     {
-      "titel": "Israel: Regierung treibt umstrittenes Siedlungsprojekt voran",
-      "link": "https://www.spiegel.de/ausland/israel-regierung-treibt-umstrittenes-siedlungsprojekt-voran-a-3ed014bb-7055-49b0-b422-a345902ec0a4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T09:22:00+00:00"
-    },
-    {
       "titel": "Weiterer Verdächtiger wegen Nord-Stream-Anschlägen festgenommen",
       "link": "https://www.tagesschau.de/investigativ/ermittlungen-nordstream-generalbundesanwalt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T09:15:44+00:00"
     },
     {
-      "titel": "Anschlag auf Nord-Stream-Pipelines – Ermittler nehmen mutmaßlichen Mittäter fest",
-      "link": "https://www.spiegel.de/panorama/justiz/anschlag-auf-nordstream-pipelines-ermittler-nehmen-mutmasslichen-mittaeter-fest-a-84394a82-6a03-4f94-b9a8-add2a35def9e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T09:15:00+00:00"
+      "titel": "Garmisch-Partenkirchen: Kind wird bei Forstarbeiten von Baum erschlagen",
+      "link": "https://www.sueddeutsche.de/bayern/garmisch-partenkirchen-kind-unfall-forstarbeiten-baum-li.3533643",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T09:07:18+00:00"
     },
     {
       "titel": "Pop: Stoischer Shuffle-Großmeister",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/mont-blanc-buergermeister-huetten-sperrung-streit-li.3531665",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T07:30:27+00:00"
-    },
-    {
-      "titel": "Alkohol im Home-Office: 60-Jähriger schläft in Videokonferenz ein – Kollegen alarmieren die Feuerwehr",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-grassau-homeoffice-feuerwehr-alkohol-li.3533558",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T06:30:56+00:00"
     }
   ]
 }
