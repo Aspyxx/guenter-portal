@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-19T21:42:48+00:00",
+  "aktualisiert": "2026-08-19T22:03:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Harry und Meghan ziehen offenbar zurück nach Großbritannien",
+      "link": "https://www.spiegel.de/panorama/harry-und-meghan-ziehen-offenbar-zurueck-nach-grossbritannien-a-55161b14-922d-4575-8c9b-338f23e24227#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T21:46:00+00:00"
+    },
     {
       "titel": "Joël Le Scouarnec: Neue Vorwürfe des Kindesmissbrauchs gegen bereits verurteilten Ex-Chirurgen",
       "link": "https://www.spiegel.de/ausland/joel-le-scouarnec-neue-vorwuerfe-des-kindesmissbrauchs-gegen-bereits-verurteilten-ex-chirurgen-a-420acd77-3c52-4c65-a471-21f1d61810ea#ref=rss",
@@ -83,12 +89,6 @@
       "link": "https://www.spiegel.de/wirtschaft/russland-pluendern-die-russen-wirklich-ihre-bankkonten-a-9b0b009d-2ee5-47d8-8f7b-c27e3f34cb29#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T18:15:00+00:00"
-    },
-    {
-      "titel": "Gaza-Friedensplan: »Mit Israels Regierung wird es keinen Durchbruch geben«",
-      "link": "https://www.spiegel.de/ausland/gaza-friedensplan-mit-israels-regierung-wird-es-keinen-durchbruch-geben-a-c619cf91-a3f1-4ed1-8bdd-1ec79752cd9f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T17:55:00+00:00"
     },
     {
       "titel": "Cyberattacke in Berlin: „Der Angriff auf unser Landesnetz war ernst“",
