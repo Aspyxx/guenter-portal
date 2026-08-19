@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-19T08:55:26+00:00",
+  "aktualisiert": "2026-08-19T09:50:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kreta: Gänsegeier sorgt für verspäteten Abflug",
+      "link": "https://www.spiegel.de/panorama/kreta-gaensegeier-sorgt-fuer-verspaeteten-abflug-a-7c6f5a0f-eac2-48a9-94de-7d0bfe7adce1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T09:43:00+00:00"
+    },
+    {
+      "titel": "Hockey-WM: Ministerpräsident Rob Jetten jubelt für die Niederlande und küsst Verlobten Nicolás Keenan",
+      "link": "https://www.spiegel.de/sport/hockey-wm-ministerpraesident-rob-jetten-jubelt-fuer-die-niederlande-und-kuesst-verlobten-nicolas-keenan-a-705eed26-172d-419e-9f62-4985ad14e8e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T09:35:00+00:00"
+    },
+    {
+      "titel": "Nach Anschlägen auf Pipeline: Generalbundesanwalt lässt weiteren Verdächtigen festnehmen",
+      "link": "https://www.sueddeutsche.de/politik/nord-stream-anschlag-verdaechtiger-festgenommen-li.3533630",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T09:30:01+00:00"
+    },
+    {
+      "titel": "Prozess gegen İmamoğlu: Wenn der Angeklagte nur per Fernglas zu sehen ist",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T09:26:04+00:00"
+    },
+    {
+      "titel": "Israel: Regierung treibt umstrittenes Siedlungsprojekt voran",
+      "link": "https://www.spiegel.de/ausland/israel-regierung-treibt-umstrittenes-siedlungsprojekt-voran-a-3ed014bb-7055-49b0-b422-a345902ec0a4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T09:22:00+00:00"
+    },
+    {
+      "titel": "Weiterer Verdächtiger wegen Nord-Stream-Anschlägen festgenommen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ermittlungen-nordstream-generalbundesanwalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T09:15:44+00:00"
+    },
+    {
+      "titel": "Anschlag auf Nordstream-Pipelines – Ermittler nehmen mutmaßlichen Mittäter fest",
+      "link": "https://www.spiegel.de/panorama/justiz/anschlag-auf-nordstream-pipelines-ermittler-nehmen-mutmasslichen-mittaeter-fest-a-84394a82-6a03-4f94-b9a8-add2a35def9e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T09:15:00+00:00"
+    },
+    {
+      "titel": "Karlsruhe: Bahnmitarbeiter aus Zug gestürzt – Landgericht bestätigt Ablehnung des Haftbefehls für Verdächtigen",
+      "link": "https://www.spiegel.de/panorama/justiz/karlsruhe-bahnmitarbeiter-aus-zug-gestuerzt-landgericht-bestaetigt-ablehnung-des-haftbefehls-fuer-verdaechtigen-a-370d4e7c-744b-4b61-af5a-abfae928d017#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T09:03:00+00:00"
+    },
+    {
+      "titel": "Pop: Stoischer Shuffle-Großmeister",
+      "link": "https://www.sueddeutsche.de/kultur/frank-beard-zz-top-tot-nachruf-li.3533540",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T09:02:33+00:00"
+    },
     {
       "titel": "Mehr als 5000 Ebolafälle im Kongo – tödlichster Ausbruch in der Geschichte des Landes",
       "link": "https://www.spiegel.de/wissenschaft/medizin/mehr-als-5000-ebolafaelle-im-kongo-toedlichster-ausbruch-in-der-geschichte-des-landes-a-c8080b9a-a99a-4b9b-96ad-e5652019d101#ref=rss",
@@ -49,6 +103,12 @@
       "veroeffentlicht": "2026-08-19T08:13:12+00:00"
     },
     {
+      "titel": "Kolumne „Schön Doof“: Budenzauber mit Georgina und Cristiano",
+      "link": "https://www.sueddeutsche.de/leben/cristiano-ronaldo-hochzeit-zuhause-cascais-georgina-rodriguez-li.3530806",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T08:12:01+00:00"
+    },
+    {
       "titel": "Lüdinghausen: Schaf fährt im Bus durch Waschanlage – mit Polizeibegleitung",
       "link": "https://www.spiegel.de/panorama/luedinghausen-schaf-faehrt-im-bus-durch-waschanlage-mit-polizeibegleitung-a-2dda5121-27b0-40a1-a0d2-7eaec5fd612f#ref=rss",
       "quelle": "SPIEGEL",
@@ -61,34 +121,10 @@
       "veroeffentlicht": "2026-08-19T07:58:44+00:00"
     },
     {
-      "titel": "Angélique Kidjo: »Die fleißigste Frau im Showbusiness« – Sängerin bekommt einen Stern",
-      "link": "https://www.spiegel.de/kultur/musik/angelique-kidjo-die-fleissigste-frau-im-showbusiness-saengerin-bekommt-einen-stern-a-7bffddc8-57a2-415c-8d97-d5479cacf789#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T07:55:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Anleihen machen Aktien Konkurrenz",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T07:40:43+00:00"
-    },
-    {
-      "titel": "A7 in Hamburg: Laster verliert Klärschlamm – lange Staus",
-      "link": "https://www.spiegel.de/panorama/a7-in-hamburg-laster-verliert-klaerschlamm-lange-staus-a-25db7e6b-7644-4b43-b35e-24dea4c14ee2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T07:36:00+00:00"
-    },
-    {
-      "titel": "Erziehung: Männer können nicht verlieren. Vor allem nicht gegen Frauen. Sind die Mütter schuld?",
-      "link": "https://www.spiegel.de/familie/erziehung-maenner-koennen-nicht-verlieren-vor-allem-nicht-gegen-frauen-sind-die-muetter-schuld-a-290a693b-b46c-40b7-9d50-bdddb5ad5558#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T07:28:00+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Wie KI-Anträge Gerichte und Behörden überfordern",
-      "link": "https://www.spiegel.de/wirtschaft/phaenomen-agentic-flooding-wie-behoerden-mit-der-ki-anfragenflut-umgehen-sollten-a-5fa0a330-4573-4694-a752-3d37ac2c6ecb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T07:26:00+00:00"
     },
     {
       "titel": "Zollstreit in Nordamerika: USA stoppen Zölle gegen Kanada im letzten Moment",
@@ -103,12 +139,6 @@
       "veroeffentlicht": "2026-08-19T07:07:52+00:00"
     },
     {
-      "titel": "Hitze in der Wohnung: Justizministerin Stefanie Hubig plant Erleichterungen für Mieter",
-      "link": "https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-justizministerin-hubig-plant-erleichterungen-fuer-mieter-a-031b093f-e372-4ab2-bbf1-df4c20526260#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T06:59:00+00:00"
-    },
-    {
       "titel": "USA und Südkorea verkürzen Militärmanöver um fast eine Woche",
       "link": "https://www.tagesschau.de/ausland/asien/usa-suedkorea-verkuerzen-militaermanoever-100.html",
       "quelle": "Tagesschau",
@@ -121,22 +151,10 @@
       "veroeffentlicht": "2026-08-19T06:30:56+00:00"
     },
     {
-      "titel": "Roboterbauer Unitree startet erfolgreich an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ipo-boersengang-unitree-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T06:23:58+00:00"
-    },
-    {
       "titel": "Astronomie: Kleiner roter Punkt ganz groß",
       "link": "https://www.sueddeutsche.de/wissen/james-webb-teleskop-little-red-dots-schwarzes-loch-schwarzlochstern-li.3530811",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T06:09:33+00:00"
-    },
-    {
-      "titel": "Prozess in Oakland: US-Staaten werfen Meta Gefährdung junger Nutzer vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/meta-prozess-eroeffnungsplaedoyers-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T05:40:45+00:00"
     },
     {
       "titel": "Bundespolitik: Hubig will Mietern Einbau von Klimaanlagen und Sonnenblenden erleichtern",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-carney-zoelle-kanada-oel-pipeline-keystone-xl-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T03:56:48+00:00"
-    },
-    {
-      "titel": "USA: 29 Bundesstaaten gegen Meta",
-      "link": "https://www.sueddeutsche.de/politik/meta-prozess-kalifornien-instagram-facebook-kinder-jugendliche-li.3533316",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T03:30:09+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Herausforderung für Selenskij: Ex-Verteidigungsminister fordert Wahlen",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-fedorow-selenskij-neuwahlen-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T22:21:32+00:00"
-    },
-    {
-      "titel": "Kultband: ZZ-Top-Schlagzeuger Frank Beard gestorben",
-      "link": "https://www.sueddeutsche.de/kultur/zz-top-schlagzeuger-frank-beard-texas-li.3533475",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T21:07:14+00:00"
     }
   ]
 }
