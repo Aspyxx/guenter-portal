@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-19T07:06:48+00:00",
+  "aktualisiert": "2026-08-19T07:55:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Marktbericht: Anleihen machen Aktien Konkurrenz",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T07:40:43+00:00"
+    },
+    {
+      "titel": "A7 in Hamburg: Laster verliert Klärschlamm – lange Staus",
+      "link": "https://www.spiegel.de/panorama/a7-in-hamburg-laster-verliert-klaerschlamm-lange-staus-a-25db7e6b-7644-4b43-b35e-24dea4c14ee2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T07:36:00+00:00"
+    },
+    {
+      "titel": "Erziehung: Männer können nicht verlieren. Vor allem nicht gegen Frauen. Sind die Mütter schuld?",
+      "link": "https://www.spiegel.de/familie/erziehung-maenner-koennen-nicht-verlieren-vor-allem-nicht-gegen-frauen-sind-die-muetter-schuld-a-290a693b-b46c-40b7-9d50-bdddb5ad5558#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T07:28:00+00:00"
+    },
+    {
+      "titel": "Phänomen »Agentic flooding«: Wie Behörden mit der KI-Anfragenflut umgehen sollten",
+      "link": "https://www.spiegel.de/wirtschaft/phaenomen-agentic-flooding-wie-behoerden-mit-der-ki-anfragenflut-umgehen-sollten-a-5fa0a330-4573-4694-a752-3d37ac2c6ecb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T07:26:00+00:00"
+    },
+    {
+      "titel": "Zollstreit in Nordamerika: USA stoppen Zölle gegen Kanada im letzten Moment",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kanada-zollstreit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T07:10:04+00:00"
+    },
+    {
+      "titel": "Bundesanleihen: Hohe Zinsen treffen Staat, Hauskäufer und Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesanleihen-renditen-bauzinsen-staat-anleger-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T07:07:52+00:00"
+    },
     {
       "titel": "Hitze in der Wohnung: Justizministerin Hubig plant Erleichterungen für Mieter",
       "link": "https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-justizministerin-hubig-plant-erleichterungen-fuer-mieter-a-031b093f-e372-4ab2-bbf1-df4c20526260#ref=rss",
@@ -29,6 +65,12 @@
       "link": "https://www.spiegel.de/panorama/england-drei-mitglieder-einer-familie-ertrinken-bei-shoreham-by-sea-a-db9beb34-1b07-45ba-accf-dd801df98e05#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T06:42:00+00:00"
+    },
+    {
+      "titel": "Alkohol im Homeoffice: 60-Jähriger schläft in der Video-Konferenz ein – Kollegen alarmieren die Feuerwehr",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-grassau-homeoffice-feuerwehr-li.3533558",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T06:30:56+00:00"
     },
     {
       "titel": "Roboterbauer Unitree startet erfolgreich an der Börse",
@@ -62,33 +104,9 @@
     },
     {
       "titel": "Prozess in Oakland: US-Staaten werfen Meta Gefährdung junger Nutzer vor",
-      "link": "https://www.tagesschau.de/ausland/meta-prozess-eroeffnungsplaedoyers-100.html",
+      "link": "https://www.tagesschau.de/ausland/amerika/meta-prozess-eroeffnungsplaedoyers-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T05:40:45+00:00"
-    },
-    {
-      "titel": "Bundeswehr-Flugbereitschaft: Hälfte der Regierungsflüge hebt ohne Passagiere ab",
-      "link": "https://www.spiegel.de/politik/bundeswehr-flugbereitschaft-haelfte-der-regierungsfluege-hebt-ohne-passagiere-ab-a-09db0a5b-7c30-4052-99be-981e639b221a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T05:40:00+00:00"
-    },
-    {
-      "titel": "Gasspeicher halb leer: Wie die Gasbranche Katherina Reiche unter Druck setzt",
-      "link": "https://www.spiegel.de/wirtschaft/service/gasspeicher-halb-leer-wie-die-gasbranche-katherina-reiche-unter-druck-setzt-a-7844ff6b-cb8c-4896-9a45-f0f233f926b4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T05:36:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Noch hält die 26.000er-Marke im DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T05:31:17+00:00"
-    },
-    {
-      "titel": "Österreich: 27-Jährige verklagt Wien wegen Toilettengebühr für Frauen",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/oesterreich-27-jaehrige-verklagt-wien-wegen-toilettengebuehr-fuer-frauen-a-643eedd6-c2ba-435e-9dee-29aea9d4fbd5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T05:28:00+00:00"
     },
     {
       "titel": "Bundespolitik: Hubig will Mietern Einbau von Klimaanlagen und Sonnenblenden erleichtern",
@@ -115,22 +133,10 @@
       "veroeffentlicht": "2026-08-19T04:40:29+00:00"
     },
     {
-      "titel": "Fehlinvestitionen auch bei Kirchenbezirken, Pensionskassen und TÜV",
-      "link": "https://www.tagesschau.de/investigativ/fehlinvestments-kirchen-sterbekassen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T04:03:01+00:00"
-    },
-    {
       "titel": "USA: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-carney-zoelle-kanada-oel-pipeline-keystone-xl-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T03:56:48+00:00"
-    },
-    {
-      "titel": "Migranten in Ceuta treten im Kampf um Asyl in Hungerstreik",
-      "link": "https://www.tagesschau.de/ausland/afrika/ceuta-migranten-128.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T03:39:01+00:00"
     },
     {
       "titel": "USA: 29 Bundesstaaten gegen Meta",
@@ -145,8 +151,14 @@
       "veroeffentlicht": "2026-08-18T22:21:32+00:00"
     },
     {
+      "titel": "Kultband: ZZ-Top-Schlagzeuger Frank Beard gestorben",
+      "link": "https://www.sueddeutsche.de/kultur/zz-top-schlagzeuger-frank-beard-texas-li.3533475",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-18T21:07:14+00:00"
+    },
+    {
       "titel": "Musiala beim FC Bayern: Der FC Bayern wusste schon länger Bescheid",
-      "link": "https://www.sueddeutsche.de/sport/musiala-fc-bayern-zusammengebrochen-heidenheim-li.3533461",
+      "link": "https://www.sueddeutsche.de/sport/jamal-musiala-absencen-fc-bayern-zusammenbruch-heidenheim-leipzig-erkrankung-li.3533461",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T20:36:15+00:00"
     },
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/bayern-muenchen-musiala-testspiel-heidenheim-li.3533456",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T18:15:33+00:00"
-    },
-    {
-      "titel": "Nahostkonflikt: Israelischer Minister fordert gezielte Tötung von Palästinensern in Gaza",
-      "link": "https://www.sueddeutsche.de/politik/sicherheitsminister-ben-gvir-toetungen-gaza-li.3533122",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T17:24:00+00:00"
-    },
-    {
-      "titel": "Fairphone 6 Plus: Das Handy, das nicht gleich auf dem Müll landen soll",
-      "link": "https://www.sueddeutsche.de/wirtschaft/fairphone-plus-smartphone-recht-reparatur-li.3530899",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T16:19:15+00:00"
     }
   ]
 }
