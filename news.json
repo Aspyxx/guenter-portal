@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-19T14:53:57+00:00",
+  "aktualisiert": "2026-08-19T15:47:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Verteidigung: Moritz Schularick fordert Armee der Zukunft statt teurer Alttechnik",
+      "link": "https://www.spiegel.de/politik/deutschland/verteidigung-moritz-schularick-fordert-armee-der-zukunft-statt-teurer-alttechnik-a-e6c3f28a-8cdf-4ace-8eab-d7271db232c8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T15:34:00+00:00"
+    },
+    {
+      "titel": "Sieben weitere Gesundheitszonen in der DR Kongo von Ebola betroffen",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-neue-regionen-update-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T15:16:24+00:00"
+    },
+    {
+      "titel": "Landtagswahl in Sachsen-Anhalt: Gefälschte Webseite der SZ für Desinformation missbraucht",
+      "link": "https://www.sueddeutsche.de/medien/desinformation-fake-news-sachsen-anhalt-russland-wahlen-sz-li.3526779",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T15:12:24+00:00"
+    },
+    {
+      "titel": "UV-Strahlung hat in Europa deutlich zugenommen",
+      "link": "https://www.tagesschau.de/wissen/klima/uv-strahlung-europa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T15:04:19+00:00"
+    },
+    {
+      "titel": "Astronomie: Das ist der schnellste Stern der Milchstraße",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/astronomie-das-ist-der-schnellste-stern-der-milchstrasse-a-629587dd-5793-4c57-b8bb-f1b71d9e55e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T15:00:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Dobrindt zu Leipzig: Russland macht Verdacht leicht, aber Beweisführung schwer",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-dobrindt-leipzig-anschlag-russland-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T14:59:32+00:00"
+    },
+    {
+      "titel": "Nordkorea – Donald Trump: Schwester von Kim Jong Un beschwert sich über feindselige US-Politik",
+      "link": "https://www.spiegel.de/ausland/nordkorea-donald-trump-schwester-von-kim-jong-un-beschwert-sich-ueber-feindselige-us-politik-a-7363e4bb-0350-4129-9c7a-a7bd57807f39#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T14:50:00+00:00"
+    },
     {
       "titel": "Harvard: US-Universität zahlt Millionenabfindung für Handel mit Leichenteilen",
       "link": "https://www.spiegel.de/panorama/harvard-us-universitaet-zahlt-millionenabfindung-fuer-handel-mit-leichenteilen-a-4af28de9-800b-41b5-823e-1768483ee70d#ref=rss",
@@ -79,24 +121,6 @@
       "veroeffentlicht": "2026-08-19T13:54:50+00:00"
     },
     {
-      "titel": "Großbrand im Hohen Venn, Ausnahmezustand in Monschau: Zehn Minuten, zwei Hosen, drei T-Shirts",
-      "link": "https://www.spiegel.de/panorama/grossbrand-im-hohen-venn-ausnahmezustand-in-monschau-zehn-minuten-zwei-hosen-drei-t-shirts-a-48094d53-d737-4805-ac37-ed57c6b40e76#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T13:37:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Der entlassene Verteidigungsminister Mychajlo Fedorow fordert Wahlen",
-      "link": "https://www.spiegel.de/ausland/ukraine-der-entlassene-verteidigungsminister-mychajlo-fedorow-fordert-wahlen-a-08e5fa07-8ac4-4ce7-8ec9-35f2b13805bc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T13:28:00+00:00"
-    },
-    {
-      "titel": "Hayden Panettiere: Ex-Freund Brian Hickerson war wohl am Todesort – was bekannt ist",
-      "link": "https://www.spiegel.de/panorama/leute/hayden-panettiere-ex-freund-war-wohl-am-todesort-was-wir-ueber-den-fall-wissen-a-44f23045-0fcf-4355-ac51-97011a82ba40#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T13:27:00+00:00"
-    },
-    {
       "titel": "Wie Kürzungen die humanitäre Hilfe verändern",
       "link": "https://www.tagesschau.de/inland/innenpolitik/humanitaere-hilfe-bundesregierung-100.html",
       "quelle": "Tagesschau",
@@ -121,22 +145,10 @@
       "veroeffentlicht": "2026-08-19T12:58:09+00:00"
     },
     {
-      "titel": "Nach Waldbrand in Südfrankreich: Wie kann der Wald resilienter werden?",
-      "link": "https://www.tagesschau.de/ausland/europa/nach-waldbrand-frankreich-bordeaux-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T12:54:13+00:00"
-    },
-    {
       "titel": "USA: Neue Vorwürfe gegen Tochter von Bill Gates",
       "link": "https://www.sueddeutsche.de/wirtschaft/phoebe-gates-start-up-phia-li.3533142",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T12:37:20+00:00"
-    },
-    {
-      "titel": "Die Spritpreise sind wegen Niedrigwassers erneut gestiegen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tanken-spritpreise-steigen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T12:30:40+00:00"
     },
     {
       "titel": "Ukraine: Beliebter Ex-Verteidigungsminister fordert Wahlen mitten im Krieg",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/jamal-musiala-fc-bayern-ausfaelle-ursachen-verlauf-li.3533557",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T11:52:37+00:00"
-    },
-    {
-      "titel": "Israel: Dieser Polizeiminister ist ein Extremist. Und kaum einer regt sich darüber auf",
-      "link": "https://www.sueddeutsche.de/politik/israel-polizeiminister-itamar-ben-gvir-portraet-li.3533590",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T11:22:50+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Korruptionsermittlungen in der Ukraine – Selenskij entlässt Vize-Präsidialamtschefin",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-korruption-ermittlungen-selenskij-vize-praesidialamtschefin-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T10:45:00+00:00"
     }
   ]
 }
