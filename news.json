@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-19T01:54:15+00:00",
+  "aktualisiert": "2026-08-19T03:12:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Wie sich die EU von einem Milizenführer erpressen lässt",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/migration-mittelmeer-eu-libyen-miliz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T03:05:10+00:00"
+    },
+    {
+      "titel": "USA streichen Manöver mit Südkorea nach Trumps Machtwort zusammen",
+      "link": "https://www.spiegel.de/ausland/usa-streichen-manoever-mit-suedkorea-nach-trumps-machtwort-zusammen-a-18c04537-34f8-4df0-bf86-56733abc0387#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T02:55:00+00:00"
+    },
+    {
+      "titel": "Blackouts des Bayern-Stars: Was sind Absencen?",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/blackouts-des-bayern-stars-was-sind-absencen-a-b5895791-efdb-4480-ae2a-3fa22bce978b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T02:30:00+00:00"
+    },
     {
       "titel": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
@@ -73,22 +91,10 @@
       "veroeffentlicht": "2026-08-18T19:45:00+00:00"
     },
     {
-      "titel": "FC Bayern München: Jamal Musiala gibt nach erneutem Kollaps neurologische Diagnose bekannt",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jamal-musiala-gibt-nach-erneutem-kollaps-neurologische-diagnose-bekannt-a-bbc4a010-b09d-4945-b238-c14a754d83fc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T19:15:00+00:00"
-    },
-    {
       "titel": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T18:50:31+00:00"
-    },
-    {
-      "titel": "Karolina-Burger-Realschule plus: »Deutschlands gefährlichste Schule« bekommt neue Schulleitung",
-      "link": "https://www.spiegel.de/panorama/bildung/karolina-burger-realschule-plus-deutschlands-gefaehrlichste-schule-bekommt-neue-schulleitung-a-d553dac6-7977-4344-b499-fffdad53cafa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T18:49:00+00:00"
     },
     {
       "titel": "Fußball: Musiala sinkt erneut zu Boden - „neurologische Dysfunktion“",
@@ -131,12 +137,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-cousin-todesurteil-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T16:03:42+00:00"
-    },
-    {
-      "titel": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T15:48:11+00:00"
     },
     {
       "titel": "Soziale Medien: Gender Studies für Anfänger",
