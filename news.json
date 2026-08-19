@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-18T23:59:26+00:00",
+  "aktualisiert": "2026-08-19T01:54:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T01:30:14+00:00"
+    },
+    {
+      "titel": "Schwere Vorwürfe gegen Meta zum Auftakt von Milliardenprozess",
+      "link": "https://www.spiegel.de/netzwelt/schwere-vorwuerfe-gegen-meta-zum-auftakt-von-milliardenprozess-a-c64dd140-b8eb-4fad-ba9c-d4e13973baca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T01:16:00+00:00"
+    },
+    {
+      "titel": "Vorher-Nachher-Fotos zeigen Einschlag der SpaceX-Raketenstufe auf Mond",
+      "link": "https://www.spiegel.de/wissenschaft/vorher-nachher-fotos-zeigen-einschlag-der-spacex-raketenstufe-auf-mond-a-1d4ed89b-a47f-4bf8-8947-dd2d9e13e4b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T00:13:00+00:00"
+    },
     {
       "titel": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
@@ -73,12 +91,6 @@
       "veroeffentlicht": "2026-08-18T18:49:00+00:00"
     },
     {
-      "titel": "Ukraine: Wolodymyr Selenskyj nimmt an Staatsbegräbnis für 1938 ermordeten Nationalisten teil",
-      "link": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-nimmt-an-staatsbegraebnis-fuer-1938-ermordeten-nationalisten-teil-a-e8677db8-1084-4e73-b4d3-cb3b6db5f1c3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T18:31:00+00:00"
-    },
-    {
       "titel": "Fußball: Musiala sinkt erneut zu Boden - „neurologische Dysfunktion“",
       "link": "https://www.sueddeutsche.de/sport/bayern-muenchen-musiala-testspiel-heidenheim-li.3533456",
       "quelle": "Süddeutsche",
@@ -89,12 +101,6 @@
       "link": "https://www.tagesschau.de/inland/regional/bayern/a380-zwischenfall-flughafen-muenchen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T18:12:26+00:00"
-    },
-    {
-      "titel": "Strümpfe: Farbig, aber heikel – ein Sockenpaar und die Kleiderordnung in London",
-      "link": "https://www.spiegel.de/ausland/struempfe-farbig-aber-heikel-ein-sockenpaar-und-die-kleiderordnung-in-london-a-de5c68f1-5e3b-4cb7-afcf-ae71026f9631#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T18:07:00+00:00"
     },
     {
       "titel": "Wagenknecht und das BSW: Mit Schlagzeilen in den Überlebenskampf",
@@ -131,12 +137,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T15:48:11+00:00"
-    },
-    {
-      "titel": "Ausgebeutet für Sanifair? Schmutzige Geschäfte mit sauberen Toiletten",
-      "link": "https://www.tagesschau.de/investigativ/report-mainz/sanifair-tank-und-rast-raststaette-toilette-arbeitsbedingungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T15:44:40+00:00"
     },
     {
       "titel": "Soziale Medien: Gender Studies für Anfänger",
