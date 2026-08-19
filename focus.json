@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-19T18:14:43+00:00",
+  "aktualisiert": "2026-08-19T18:58:46+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Fast jeder vierte Erwachsene schläft zu wenig",
-      "link": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
+      "titel": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "DAX tritt auf der Stelle",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-steigende-renditen-belasten-aktienmarkt-100.html",
+      "titel": "Problemlösung könnte noch Tage dauern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     }
   ]
 }
