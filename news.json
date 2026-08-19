@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-19T04:02:24+00:00",
+  "aktualisiert": "2026-08-19T04:53:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T04:45:00+00:00"
+    },
+    {
+      "titel": "Waldbrand in Belgien weiter nicht unter Kontrolle - Hoffnung auf Regen",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T04:40:29+00:00"
+    },
+    {
+      "titel": "Zusammenarbeit mit Haftars: Wie die EU sich von Warlords erpressen lässt",
+      "link": "https://www.spiegel.de/ausland/zusammenarbeit-mit-haftars-wie-die-eu-sich-von-warlords-erpressen-laesst-a-bbfc77b8-134b-4213-9574-a4cf6e127913#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T04:38:00+00:00"
+    },
+    {
+      "titel": "Donald Trump pausiert Zölle gegen Kanada – und will dafür Öl-Pipeline",
+      "link": "https://www.spiegel.de/wirtschaft/donald-trump-pausiert-zoelle-gegen-kanada-und-will-dafuer-oel-pipeline-a-bbdfe3d9-8d21-47ae-9343-ecd3c907d8f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T04:35:00+00:00"
+    },
+    {
+      "titel": "Berlin-Karlshorst: Ein Museum gemeinsam mit dem Kreml zu betreiben – wie sinnvoll ist das?",
+      "link": "https://www.spiegel.de/geschichte/museum-karlshorst-die-geschichte-holt-uns-immer-wieder-ein-a-8e378936-ba8c-4b22-a3e6-0353403a21c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T04:29:00+00:00"
+    },
+    {
+      "titel": "»SOKO Leipzig«: Was lernt man hier über Leipzig?",
+      "link": "https://www.spiegel.de/kultur/tv/soko-leipzig-was-lernt-man-hier-ueber-leipzig-a-13f08003-8e43-48d5-be76-6b17f218707d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T04:24:00+00:00"
+    },
+    {
+      "titel": "Fehlinvestitionen auch bei Kirchenbezirken, Pensionskassen und TÜV",
+      "link": "https://www.tagesschau.de/investigativ/fehlinvestments-kirchen-sterbekassen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T04:03:01+00:00"
+    },
     {
       "titel": "USA: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-carney-zoelle-kanada-oel-pipeline-keystone-xl-li.3530667",
@@ -49,12 +91,6 @@
       "veroeffentlicht": "2026-08-19T03:27:00+00:00"
     },
     {
-      "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T03:24:00+00:00"
-    },
-    {
       "titel": "Wie sich die EU von einem Milizenführer erpressen lässt",
       "link": "https://www.tagesschau.de/investigativ/report-mainz/migration-mittelmeer-eu-libyen-miliz-100.html",
       "quelle": "Tagesschau",
@@ -79,34 +115,10 @@
       "veroeffentlicht": "2026-08-19T01:30:14+00:00"
     },
     {
-      "titel": "Schwere Vorwürfe gegen Meta zum Auftakt von Milliardenprozess",
-      "link": "https://www.spiegel.de/netzwelt/schwere-vorwuerfe-gegen-meta-zum-auftakt-von-milliardenprozess-a-c64dd140-b8eb-4fad-ba9c-d4e13973baca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T01:16:00+00:00"
-    },
-    {
-      "titel": "Vorher-Nachher-Fotos zeigen Einschlag der SpaceX-Raketenstufe auf Mond",
-      "link": "https://www.spiegel.de/wissenschaft/vorher-nachher-fotos-zeigen-einschlag-der-spacex-raketenstufe-auf-mond-a-1d4ed89b-a47f-4bf8-8947-dd2d9e13e4b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T00:13:00+00:00"
-    },
-    {
       "titel": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-18T23:43:27+00:00"
-    },
-    {
-      "titel": "Leichnam eines seit 44 Jahren vermissten israelischen Soldaten geborgen",
-      "link": "https://www.spiegel.de/ausland/leichnam-eines-seit-44-jahren-vermissten-israelischen-soldaten-geborgen-a-5f4e5c51-175f-4a29-8df8-aa8120cbb5f2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T23:10:00+00:00"
-    },
-    {
-      "titel": "Syrien: Experten der IAEA entdecken tonnenweise nukleares Material aus der Ära Assad",
-      "link": "https://www.spiegel.de/ausland/syrien-experten-der-iaea-entdecken-tonnenweise-nukleares-material-aus-der-aera-assad-a-82a90101-3d61-491a-8fda-069d4061db13#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-18T22:45:00+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Herausforderung für Selenskij: Ex-Verteidigungsminister fordert Wahlen",
@@ -131,18 +143,6 @@
       "link": "https://www.sueddeutsche.de/sport/bayern-muenchen-musiala-testspiel-heidenheim-li.3533456",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T18:15:33+00:00"
-    },
-    {
-      "titel": "Nächster Zwischenfall in München: A380 der Lufthansa setzt zu früh auf",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/a380-zwischenfall-flughafen-muenchen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T18:12:26+00:00"
-    },
-    {
-      "titel": "Wagenknecht und das BSW: Mit Schlagzeilen in den Überlebenskampf",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-wagenknecht-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T18:00:13+00:00"
     },
     {
       "titel": "Fairphone 6 Plus: Das Handy, das nicht gleich auf dem Müll landen soll",
