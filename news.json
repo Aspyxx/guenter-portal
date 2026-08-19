@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-19T12:03:43+00:00",
+  "aktualisiert": "2026-08-19T13:11:04+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,100 @@
   },
   "meldungen": [
     {
+      "titel": "Depression nach Missbrauchskandal: Kraft Speyerer Bischof Karl-Heinz Wiesemann tritt zurück",
+      "link": "https://www.spiegel.de/panorama/leute/depression-nach-missbrauchskandal-kraft-speyerer-bischof-karl-heinz-wiesemann-tritt-zurueck-a-3af7d29d-4ec5-444c-9091-8f07d85460a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T13:10:00+00:00"
+    },
+    {
+      "titel": "Wie Kürzungen die humanitäre Hilfe verändern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/humanitaere-hilfe-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T13:05:26+00:00"
+    },
+    {
+      "titel": "Königin Camilla fiel es schwer, über Krebserkrankung von Charles III. zu schweigen",
+      "link": "https://www.spiegel.de/panorama/leute/koenigin-camilla-fiel-es-schwer-ueber-krebserkrankung-von-charles-iii-zu-schweigen-a-8e70d2c1-d90b-41b0-b417-4dd0bdde21b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T12:59:00+00:00"
+    },
+    {
+      "titel": "Weiterer Verdächtiger wegen Nord-Stream-Anschlägen festgenommen",
+      "link": "https://www.tagesschau.de/investigativ/ermittlungen-nordstream-generalbundesanwalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T12:58:09+00:00"
+    },
+    {
+      "titel": "Nach Waldbrand in Südfrankreich: Wie kann der Wald resilienter werden?",
+      "link": "https://www.tagesschau.de/ausland/europa/nach-waldbrand-frankreich-bordeaux-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T12:54:13+00:00"
+    },
+    {
+      "titel": "FC Bayern München: Uli Hoeneß spricht über Jamal Musialas Blackouts",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-spricht-ueber-jamal-musialas-blackouts-a-9f8796ba-3212-4423-aa19-f827cd1f5639#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T12:46:00+00:00"
+    },
+    {
+      "titel": "Die Spritpreise sind wegen Niedrigwassers erneut gestiegen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tanken-spritpreise-steigen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T12:30:40+00:00"
+    },
+    {
+      "titel": "Empörung und Kritik nach US-Entscheidung zu Strafgerichtshof",
+      "link": "https://www.tagesschau.de/ausland/amerika/reaktionen-usa-sanktionen-internationaler-strafgerichtshof-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T12:27:31+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T12:26:00+00:00"
+    },
+    {
+      "titel": "Gaspreis: Europäischer Gaspreis steigt auf höchsten Stand seit März",
+      "link": "https://www.spiegel.de/wirtschaft/gaspreis-europaeischer-gaspreis-steigt-auf-hoechsten-stand-seit-maerz-a-c9c932f0-8f4a-46df-82c2-4ce391243ba6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T12:24:00+00:00"
+    },
+    {
+      "titel": "Waldbrände in Europa: Waldbrand in Belgien ist \"eingekreist\"",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T12:23:42+00:00"
+    },
+    {
+      "titel": "Autofahrer könnten beim Wechsel der Kfz-Versicherung besonders viel sparen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verivox-kfz-versicherungen-billiger-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T12:19:18+00:00"
+    },
+    {
+      "titel": "Hoffnungsschimmer: Auftragsbücher gut gefüllt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-auftragsbestand-hoffnungsschimmer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T12:11:23+00:00"
+    },
+    {
+      "titel": "Jamal Musiala: Der Musiala-Schock und die Sorge um den Star des FC Bayern München",
+      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-der-musiala-schock-und-die-sorge-um-den-star-des-fc-bayern-muenchen-a-f9fff872-6bf3-4fdd-b120-6528949a68c9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T12:08:00+00:00"
+    },
+    {
       "titel": "Merz kritisiert Ben Gvirs Aussagen zu Tötung von Palästinensern",
       "link": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T11:54:17+00:00"
+    },
+    {
+      "titel": "FC Bayern: Welche Ursachen die Ausfälle von Jamal Musiala haben können",
+      "link": "https://www.sueddeutsche.de/sport/jamal-musiala-fc-bayern-ausfaelle-ursachen-verlauf-li.3533557",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T11:52:37+00:00"
     },
     {
       "titel": "Schweiz: Leichen von seit 1992 vermissten Bergsteigern gefunden",
@@ -31,52 +121,10 @@
       "veroeffentlicht": "2026-08-19T11:46:00+00:00"
     },
     {
-      "titel": "Tunnel in die EU: Frontex erhebt schwere Vorwürfe gegen Belarus",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/belarus-tunnel-frontex-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T11:44:38+00:00"
-    },
-    {
-      "titel": "Israel: Bundeskanzler Friedrich Merz verurteilt Aussagen von Itamar Ben-Gvir",
-      "link": "https://www.spiegel.de/politik/deutschland/israel-bundeskanzler-friedrich-merz-verurteilt-aussagen-von-itamar-ben-gvir-a-0cf6031a-b01b-40d9-96df-116a8d2a5719#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T11:29:00+00:00"
-    },
-    {
-      "titel": "Vorstandsgehälter der öffentlichen Hand: Studie zeigt kräftige Vergütungsplus für Sparkassenchefs",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/vorstandsgehaelter-der-oeffentlichen-hand-studie-zeigt-kraeftige-verguetungsplus-fuer-sparkassenchefs-a-1f67eeea-c73c-4e26-bbd7-01e19dc2c3ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T11:27:00+00:00"
-    },
-    {
-      "titel": "Constantin Films: »Die Päpstin«-Serie offenbar kurz vor Drehbeginn gestoppt",
-      "link": "https://www.spiegel.de/kultur/constantin-films-die-paepstin-serie-offenbar-kurz-vor-drehbeginn-gestoppt-a-1470c6a0-8d68-45d4-99fa-c637e93ca544#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T11:20:00+00:00"
-    },
-    {
-      "titel": "Ukraine – Cherson: Wolodymyr Selenskyj spricht nach tödlichem Angriff von »Drohnen-Safari«",
-      "link": "https://www.spiegel.de/ausland/ukraine-cherson-wolodymyr-selenskyj-spricht-nach-toedlichem-angriff-von-drohnen-safari-a-c965270e-447a-47c0-bff7-b2d2222aadad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T10:59:00+00:00"
-    },
-    {
-      "titel": "Bayern: Kind bei Forstarbeiten von Baum erschlagen",
-      "link": "https://www.spiegel.de/panorama/bayern-kind-bei-forstarbeiten-von-baum-erschlagen-a-697e6722-ad6b-44b8-9f03-2ee70de06cf3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T10:47:00+00:00"
-    },
-    {
-      "titel": "Großbritannien – Obdachlosigkeit: Andy Burnham will das Problem bis Weihnachten lösen",
-      "link": "https://www.spiegel.de/ausland/grossbritannien-obdachlosigkeit-andy-burnham-will-das-problem-bis-weihnachten-loesen-a-147e3d54-7877-4e77-9b20-e37a6f15e0ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T10:46:00+00:00"
-    },
-    {
-      "titel": "Merz in der Sommerpause: Das Schweigen des Kanzlers",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-sommerpause-schweigen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T10:45:36+00:00"
+      "titel": "Israel: Dieser Polizeiminister ist ein Extremist. Und kaum einer regt sich darüber auf",
+      "link": "https://www.sueddeutsche.de/politik/israel-polizeiminister-itamar-ben-gvir-portraet-li.3533590",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T11:22:50+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Korruptionsermittlungen in der Ukraine – Selenskij entlässt Vize-Präsidialamtschefin",
@@ -85,40 +133,16 @@
       "veroeffentlicht": "2026-08-19T10:45:00+00:00"
     },
     {
-      "titel": "SPD-Ministerinnen legen bei Klimaplänen nach",
-      "link": "https://www.tagesschau.de/inland/hitze-aktionsplan-spd-hubig-hubertz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T10:26:32+00:00"
-    },
-    {
       "titel": "Leute: „Ohne uns wäre Musik auf diesem Planeten gar nicht möglich“",
       "link": "https://www.sueddeutsche.de/panorama/promis-afrika-angelique-kidjo-hollywood-stern-li.3533602",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T10:18:36+00:00"
     },
     {
-      "titel": "Japans Kampf gegen Kriminalität auf dem Milliardenmarkt Pokémon",
-      "link": "https://www.tagesschau.de/ausland/asien/pokemon-karten-geldwaesche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T10:09:27+00:00"
-    },
-    {
       "titel": "Nord-Stream-Anschlag: Mutmaßlicher Saboteur in Kroatien verhaftet",
       "link": "https://www.sueddeutsche.de/politik/nord-stream-anschlag-verdaechtiger-festgenommen-li.3533630",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T09:30:01+00:00"
-    },
-    {
-      "titel": "Prozess gegen İmamoğlu: Wenn der Angeklagte nur per Fernglas zu sehen ist",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T09:26:04+00:00"
-    },
-    {
-      "titel": "Weiterer Verdächtiger wegen Nord-Stream-Anschlägen festgenommen",
-      "link": "https://www.tagesschau.de/investigativ/ermittlungen-nordstream-generalbundesanwalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T09:15:44+00:00"
     },
     {
       "titel": "Garmisch-Partenkirchen: Kind wird bei Forstarbeiten von Baum erschlagen",
@@ -133,18 +157,6 @@
       "veroeffentlicht": "2026-08-19T09:02:33+00:00"
     },
     {
-      "titel": "Warum Italien und Deutschland wieder über Migranten streiten",
-      "link": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T08:28:54+00:00"
-    },
-    {
-      "titel": "Hilfsorganisationen: Angriffe auf Helfer erreichen Höchstwert",
-      "link": "https://www.tagesschau.de/ausland/europa/un-helfer-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T08:17:27+00:00"
-    },
-    {
       "titel": "Hitze: Rekordwärme in Europas Meeren geht auf Klimawandel zurück",
       "link": "https://www.sueddeutsche.de/wissen/europa-meer-rekord-li.3533564",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/leben/cristiano-ronaldo-hochzeit-zuhause-cascais-georgina-rodriguez-li.3530806",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T08:12:01+00:00"
-    },
-    {
-      "titel": "Russisches Haus: Warum Russland in Berlin spionieren kann – und Deutschland auch noch dafür zahlt",
-      "link": "https://www.sueddeutsche.de/politik/russisches-haus-berlin-spionage-bundesregierung-kritik-li.3533078",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T07:58:44+00:00"
-    },
-    {
-      "titel": "Alpen: „Richtige Bergsteiger sind in der Minderheit. Heute sind es Städter und Touristen“",
-      "link": "https://www.sueddeutsche.de/panorama/mont-blanc-buergermeister-huetten-sperrung-streit-li.3531665",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T07:30:27+00:00"
     }
   ]
 }
