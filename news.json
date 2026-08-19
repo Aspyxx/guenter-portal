@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-19T09:50:35+00:00",
+  "aktualisiert": "2026-08-19T10:47:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,70 @@
   },
   "meldungen": [
     {
+      "titel": "Bayern: Kind bei Forstarbeiten von Baum erschlagen",
+      "link": "https://www.spiegel.de/panorama/bayern-kind-bei-forstarbeiten-von-baum-erschlagen-a-697e6722-ad6b-44b8-9f03-2ee70de06cf3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T10:47:00+00:00"
+    },
+    {
+      "titel": "Großbritannien – Obdachlosigkeit: Andy Burnham will das Problem bis Weihnachten lösen",
+      "link": "https://www.spiegel.de/ausland/grossbritannien-obdachlosigkeit-andy-burnham-will-das-problem-bis-weihnachten-loesen-a-147e3d54-7877-4e77-9b20-e37a6f15e0ad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T10:46:00+00:00"
+    },
+    {
+      "titel": "Merz in der Sommerpause: Das Schweigen des Kanzlers",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-sommerpause-schweigen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T10:45:36+00:00"
+    },
+    {
+      "titel": "Kamerun: Viele Tote bei Unglück in Goldmine",
+      "link": "https://www.spiegel.de/panorama/kamerun-viele-tote-bei-unglueck-in-goldmine-a-d744de5b-120d-4231-832a-a1c95288bbb5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T10:32:00+00:00"
+    },
+    {
+      "titel": "SPD-Ministerinnen legen bei Klimaplänen nach",
+      "link": "https://www.tagesschau.de/inland/hitze-aktionsplan-spd-hubig-hubertz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T10:26:32+00:00"
+    },
+    {
+      "titel": "Nostalgie bei Diddl, Rotkäppchen und Pülleken: Der neue Hype um Retro-Marken",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nostalgie-bei-diddl-rotkaeppchen-und-puelleken-der-neue-hype-um-retro-marken-a-cca50971-a3ef-4b05-bae1-943a86218507#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T10:24:00+00:00"
+    },
+    {
+      "titel": "Leute: „Ohne uns wäre Musik auf diesem Planeten gar nicht möglich“",
+      "link": "https://www.sueddeutsche.de/panorama/promis-afrika-angelique-kidjo-hollywood-stern-li.3533602",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T10:18:36+00:00"
+    },
+    {
+      "titel": "Tennis: Nick Kyrgios nach positivem Kokaintest vorläufig suspendiert",
+      "link": "https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-nach-positivem-kokaintest-vorlaeufig-suspendiert-a-b8e771f9-d767-4256-a672-01340b15a068#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T10:12:00+00:00"
+    },
+    {
+      "titel": "Japans Kampf gegen Kriminalität auf dem Milliardenmarkt Pokémon",
+      "link": "https://www.tagesschau.de/ausland/asien/pokemon-karten-geldwaesche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T10:09:27+00:00"
+    },
+    {
       "titel": "Kreta: Gänsegeier sorgt für verspäteten Abflug",
       "link": "https://www.spiegel.de/panorama/kreta-gaensegeier-sorgt-fuer-verspaeteten-abflug-a-7c6f5a0f-eac2-48a9-94de-7d0bfe7adce1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T09:43:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Korruptionsermittlungen in der Ukraine vor Votum zu Verteidigungsminister",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-korruption-ermittlungen-verteidigungsminister-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T09:41:48+00:00"
     },
     {
       "titel": "Hockey-WM: Ministerpräsident Rob Jetten jubelt für die Niederlande und küsst Verlobten Nicolás Keenan",
@@ -38,21 +98,15 @@
     },
     {
       "titel": "Weiterer Verdächtiger wegen Nord-Stream-Anschlägen festgenommen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ermittlungen-nordstream-generalbundesanwalt-100.html",
+      "link": "https://www.tagesschau.de/investigativ/ermittlungen-nordstream-generalbundesanwalt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T09:15:44+00:00"
     },
     {
-      "titel": "Anschlag auf Nordstream-Pipelines – Ermittler nehmen mutmaßlichen Mittäter fest",
+      "titel": "Anschlag auf Nord-Stream-Pipelines – Ermittler nehmen mutmaßlichen Mittäter fest",
       "link": "https://www.spiegel.de/panorama/justiz/anschlag-auf-nordstream-pipelines-ermittler-nehmen-mutmasslichen-mittaeter-fest-a-84394a82-6a03-4f94-b9a8-add2a35def9e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T09:15:00+00:00"
-    },
-    {
-      "titel": "Karlsruhe: Bahnmitarbeiter aus Zug gestürzt – Landgericht bestätigt Ablehnung des Haftbefehls für Verdächtigen",
-      "link": "https://www.spiegel.de/panorama/justiz/karlsruhe-bahnmitarbeiter-aus-zug-gestuerzt-landgericht-bestaetigt-ablehnung-des-haftbefehls-fuer-verdaechtigen-a-370d4e7c-744b-4b61-af5a-abfae928d017#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T09:03:00+00:00"
     },
     {
       "titel": "Pop: Stoischer Shuffle-Großmeister",
@@ -61,22 +115,10 @@
       "veroeffentlicht": "2026-08-19T09:02:33+00:00"
     },
     {
-      "titel": "Mehr als 5000 Ebolafälle im Kongo – tödlichster Ausbruch in der Geschichte des Landes",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/mehr-als-5000-ebolafaelle-im-kongo-toedlichster-ausbruch-in-der-geschichte-des-landes-a-c8080b9a-a99a-4b9b-96ad-e5652019d101#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T08:48:00+00:00"
-    },
-    {
       "titel": "Warum Italien und Deutschland wieder über Migranten streiten",
       "link": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T08:28:54+00:00"
-    },
-    {
-      "titel": "»Zhuque-3«: Chinesische Rakete nach Orbitalstart erstmals auf Beinen gelandet",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/zhuque-3-chinesische-rakete-nach-orbitalstart-erstmals-auf-beinen-gelandet-a-46ff40b7-1dfe-4410-9d5b-7278bf1590f7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T08:19:00+00:00"
     },
     {
       "titel": "Hilfsorganisationen: Angriffe auf Helfer erreichen Höchstwert",
@@ -91,12 +133,6 @@
       "veroeffentlicht": "2026-08-19T08:16:36+00:00"
     },
     {
-      "titel": "Debattenkultur: Wenn Fakten nicht mehr für politischen Wandel reichen",
-      "link": "https://www.spiegel.de/politik/debattenkultur-wenn-fakten-nicht-mehr-fuer-politischen-wandel-reichen-a-bde8ad37-2b41-4009-b380-8f2288863d5f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T08:16:00+00:00"
-    },
-    {
       "titel": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
       "quelle": "Tagesschau",
@@ -107,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/leben/cristiano-ronaldo-hochzeit-zuhause-cascais-georgina-rodriguez-li.3530806",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T08:12:01+00:00"
-    },
-    {
-      "titel": "Lüdinghausen: Schaf fährt im Bus durch Waschanlage – mit Polizeibegleitung",
-      "link": "https://www.spiegel.de/panorama/luedinghausen-schaf-faehrt-im-bus-durch-waschanlage-mit-polizeibegleitung-a-2dda5121-27b0-40a1-a0d2-7eaec5fd612f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T08:11:00+00:00"
     },
     {
       "titel": "Russisches Haus: Warum Russland in Berlin spionieren kann – und Deutschland auch noch dafür zahlt",
@@ -127,46 +157,16 @@
       "veroeffentlicht": "2026-08-19T07:40:43+00:00"
     },
     {
-      "titel": "Zollstreit in Nordamerika: USA stoppen Zölle gegen Kanada im letzten Moment",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kanada-zollstreit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T07:10:04+00:00"
-    },
-    {
-      "titel": "Bundesanleihen: Hohe Zinsen treffen Staat, Hauskäufer und Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesanleihen-renditen-bauzinsen-staat-anleger-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T07:07:52+00:00"
-    },
-    {
-      "titel": "USA und Südkorea verkürzen Militärmanöver um fast eine Woche",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-suedkorea-verkuerzen-militaermanoever-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T06:56:37+00:00"
+      "titel": "Alpen: „Richtige Bergsteiger sind in der Minderheit. Heute sind es Städter und Touristen“",
+      "link": "https://www.sueddeutsche.de/panorama/mont-blanc-buergermeister-huetten-sperrung-streit-li.3531665",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T07:30:27+00:00"
     },
     {
       "titel": "Alkohol im Home-Office: 60-Jähriger schläft in Videokonferenz ein – Kollegen alarmieren die Feuerwehr",
       "link": "https://www.sueddeutsche.de/bayern/bayern-grassau-homeoffice-feuerwehr-alkohol-li.3533558",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T06:30:56+00:00"
-    },
-    {
-      "titel": "Astronomie: Kleiner roter Punkt ganz groß",
-      "link": "https://www.sueddeutsche.de/wissen/james-webb-teleskop-little-red-dots-schwarzes-loch-schwarzlochstern-li.3530811",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T06:09:33+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Hubig will Mietern Einbau von Klimaanlagen und Sonnenblenden erleichtern",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-hubig-klimaanlagen-sonnenblenden-hitzeschutz-mietrecht-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T05:06:22+00:00"
-    },
-    {
-      "titel": "USA: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-carney-zoelle-kanada-oel-pipeline-keystone-xl-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T03:56:48+00:00"
     }
   ]
 }
