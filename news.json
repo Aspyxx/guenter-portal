@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-19T15:47:30+00:00",
+  "aktualisiert": "2026-08-19T16:47:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Merz kritisiert Ben-Gvirs Aussagen zu Tötung von Palästinensern",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T16:41:47+00:00"
+    },
+    {
+      "titel": "Arbeiterwohlfahrt will Bündelung von Sozialleistungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T16:40:30+00:00"
+    },
+    {
+      "titel": "AfD – Friesland: Hospizmitarbeiterin verliert Job wegen AfD-Kandidatur in Niedersachsen",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-friesland-hospizmitarbeiterin-verliert-job-wegen-afd-kandidatur-in-niedersachsen-a-31c2ea0e-1955-4129-825b-e475eb216c8b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T16:34:00+00:00"
+    },
+    {
+      "titel": "Feuer im Hohen Fenn: Evakuierte aus Monschau dürfen zurück in ihre Häuser",
+      "link": "https://www.spiegel.de/panorama/feuer-im-hohen-fenn-evakuierte-aus-monschau-duerfen-zurueck-in-ihre-haeuser-a-70316aa2-418f-4481-a946-501acb052601#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T16:31:00+00:00"
+    },
+    {
+      "titel": "»Neinhorn«: Carlsen-Verlag kämpft wegen Kinderbuch gegen die KI ChatGPT von OpenAI",
+      "link": "https://www.spiegel.de/kultur/neinhorn-carlsen-verlag-kaempft-wegen-kinderbuch-gegen-die-ki-chatgpt-von-openai-a-797b7bf7-6a3e-4074-ab7d-e1fb4d86be1a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T16:29:00+00:00"
+    },
+    {
+      "titel": "Pixel 11 Pro XL und Pixel 11 Pro Fold im Test: Googles neue Modelle mit HiLight im Check",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/pixel-11-pro-xl-und-pixel-11-pro-fold-im-test-googles-neue-modelle-mit-hilight-im-check-a-74efcb9e-9ded-4d72-a591-f5e9544dbf35#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T16:19:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Wie fit ist Jamal Musiala? Und wie hat sich Wolodymyr Selenskyj einen neuen Feind geschaffen?",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-jamal-musiala-a-11296890-36fe-43bf-ae13-508c804f610e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "titel": "Erkrankung des Bayern-Profis: Was steckt hinter Musialas Zusammenbrüchen?",
+      "link": "https://www.tagesschau.de/wissen/absencen-epilepsie-wissenschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T15:58:21+00:00"
+    },
+    {
+      "titel": "Alexandria Ocasio-Cortez und das Social Freezing: Können Frauen in der Politik wirklich alles haben?",
+      "link": "https://www.spiegel.de/ausland/alexandria-ocasio-cortez-und-das-social-freezing-koennen-frauen-in-der-politik-wirklich-alles-haben-a-1a86cc2e-f756-4b59-8a23-cea7ee47c639#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T15:58:00+00:00"
+    },
     {
       "titel": "Verteidigung: Moritz Schularick fordert Armee der Zukunft statt teurer Alttechnik",
       "link": "https://www.spiegel.de/politik/deutschland/verteidigung-moritz-schularick-fordert-armee-der-zukunft-statt-teurer-alttechnik-a-e6c3f28a-8cdf-4ace-8eab-d7271db232c8#ref=rss",
@@ -23,6 +77,12 @@
       "link": "https://www.sueddeutsche.de/medien/desinformation-fake-news-sachsen-anhalt-russland-wahlen-sz-li.3526779",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T15:12:24+00:00"
+    },
+    {
+      "titel": "Debatte über Kanzler-Urlaub: Wer nicht weg ist, kann auch nicht wiederkommen",
+      "link": "https://www.sueddeutsche.de/politik/kanzler-merz-urlaub-krise-li.3533785",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T15:07:43+00:00"
     },
     {
       "titel": "UV-Strahlung hat in Europa deutlich zugenommen",
@@ -49,12 +109,6 @@
       "veroeffentlicht": "2026-08-19T14:50:00+00:00"
     },
     {
-      "titel": "Harvard: US-Universität zahlt Millionenabfindung für Handel mit Leichenteilen",
-      "link": "https://www.spiegel.de/panorama/harvard-us-universitaet-zahlt-millionenabfindung-fuer-handel-mit-leichenteilen-a-4af28de9-800b-41b5-823e-1768483ee70d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T14:46:00+00:00"
-    },
-    {
       "titel": "SPD-Ministerinnen legen bei Klimaplänen nach",
       "link": "https://www.tagesschau.de/inland/hitze-aktionsplan-spd-hubig-hubertz-100.html",
       "quelle": "Tagesschau",
@@ -67,16 +121,22 @@
       "veroeffentlicht": "2026-08-19T14:39:03+00:00"
     },
     {
-      "titel": "Deutsche Bahn: Mutter macht Raucherpause – ICE fährt mit ihrem Baby weiter",
-      "link": "https://www.spiegel.de/panorama/deutsche-bahn-mutter-macht-raucherpause-ice-faehrt-mit-ihrem-baby-weiter-a-f3ea11ab-7f86-462c-abfa-8b8548638ff9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T14:38:00+00:00"
-    },
-    {
       "titel": "Wie KI in der öffentlichen Verwaltung helfen kann",
       "link": "https://www.tagesschau.de/wissen/technologie/ki-oeffentliche-verwaltung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T14:37:16+00:00"
+    },
+    {
+      "titel": "Stadtsanierung in München: Wie Haidhausen sich vom Glasscherbenviertel zum hippen Stadtteil wandelte",
+      "link": "https://www.sueddeutsche.de/muenchen/stadtsanierung-haidhausen-muenchen-gentrifizierung-li.3529301",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T14:35:29+00:00"
+    },
+    {
+      "titel": "Public-Pay-Studie: Was Sparkassen-Vorstände verdienen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/sparkasse-manager-gehaelter-li.3533652",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T14:32:22+00:00"
     },
     {
       "titel": "Waldbrände in Europa: Feuer in Belgien ist \"eingekreist\"",
@@ -85,46 +145,16 @@
       "veroeffentlicht": "2026-08-19T14:30:09+00:00"
     },
     {
-      "titel": "Kenia: Sechs Touristen und der Pilot sterben bei Hubschrauberabsturz in Samburu",
-      "link": "https://www.spiegel.de/panorama/kenia-sechs-touristen-und-der-pilot-sterben-bei-hubschrauberabsturz-in-samburu-a-a396837f-7b37-4721-8ab7-3cd8605fe92a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T14:28:00+00:00"
-    },
-    {
-      "titel": "Obdachlosigkeit in Großbritannien: Burnham will Obdachlose von Straße holen",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-obdachlosigkeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T14:21:24+00:00"
-    },
-    {
-      "titel": "Unitree Robotics in China: Was hinter dem Hype um die Roboter-Aktie steckt",
-      "link": "https://www.spiegel.de/wirtschaft/unitree-robotics-in-china-was-hinter-dem-hype-um-die-roboter-aktie-steckt-a-6063620e-5089-424f-b932-4b650348d0ba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T14:12:00+00:00"
-    },
-    {
-      "titel": "Gespräche über Politik: Wie souverän diskutieren Sie? – der Test",
-      "link": "https://www.spiegel.de/psychologie/gespraeche-ueber-politik-wie-souveraen-diskutieren-sie-der-test-a-1983f629-3065-4ca3-89a5-346e66262a0d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T14:07:00+00:00"
-    },
-    {
-      "titel": "Deutschland spricht: Diese Themen einen Deutschland – und diese entzweien uns",
-      "link": "https://www.spiegel.de/backstage/deutschland-spricht-diese-themen-einen-deutschland-und-diese-entzweien-uns-a-cf75f496-d128-42c4-aefb-e877d822e6e5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T14:07:00+00:00"
+      "titel": "Zwischenfälle am Flughafen München: Wenn der Landeanflug auf dem Acker endet",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-vietnam-airlines-lufthansa-zwischenfall-chronologie-li.3533594",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T14:14:18+00:00"
     },
     {
       "titel": "Trauerfeier für Werner Brombach: Abschied von einem „Brauer mit Leib und Seele“",
       "link": "https://www.sueddeutsche.de/muenchen/erdinger-weissbraeu-trauerfeier-werner-brombach-li.3531353",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T13:54:50+00:00"
-    },
-    {
-      "titel": "Wie Kürzungen die humanitäre Hilfe verändern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/humanitaere-hilfe-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T13:05:26+00:00"
     },
     {
       "titel": "Jamal Musiala: Nach dem zweiten Zusammenbruch stellen sich wuchtige Fragen",
@@ -137,36 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/narkosearzt-frankfurt-tod-emilia-revision-prozess-li.3528082",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T12:58:40+00:00"
-    },
-    {
-      "titel": "Weiterer Verdächtiger wegen Nord-Stream-Anschlägen festgenommen",
-      "link": "https://www.tagesschau.de/investigativ/ermittlungen-nordstream-generalbundesanwalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T12:58:09+00:00"
-    },
-    {
-      "titel": "USA: Neue Vorwürfe gegen Tochter von Bill Gates",
-      "link": "https://www.sueddeutsche.de/wirtschaft/phoebe-gates-start-up-phia-li.3533142",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T12:37:20+00:00"
-    },
-    {
-      "titel": "Ukraine: Beliebter Ex-Verteidigungsminister fordert Wahlen mitten im Krieg",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-ex-verteidigungsminister-wahlen-krieg-li.3533593",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T12:15:26+00:00"
-    },
-    {
-      "titel": "Ukraine: Kiew trägt den Krieg nach Moskau – mehr aber auch nicht",
-      "link": "https://www.sueddeutsche.de/meinung/ukraine-russland-angriffskrieg-drohnen-korruption-li.3533382",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T12:13:55+00:00"
-    },
-    {
-      "titel": "FC Bayern: Welche Ursachen die Ausfälle von Jamal Musiala haben können",
-      "link": "https://www.sueddeutsche.de/sport/jamal-musiala-fc-bayern-ausfaelle-ursachen-verlauf-li.3533557",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T11:52:37+00:00"
     }
   ]
 }
