@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-19T04:53:09+00:00",
+  "aktualisiert": "2026-08-19T05:47:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Prozess in Oakland: US-Staaten werfen Meta Gefährdung junger Nutzer vor",
+      "link": "https://www.tagesschau.de/ausland/meta-prozess-eroeffnungsplaedoyers-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T05:40:45+00:00"
+    },
+    {
+      "titel": "Bundeswehr-Flugbereitschaft: Hälfte der Regierungsflüge hebt ohne Passagiere ab",
+      "link": "https://www.spiegel.de/politik/bundeswehr-flugbereitschaft-haelfte-der-regierungsfluege-hebt-ohne-passagiere-ab-a-09db0a5b-7c30-4052-99be-981e639b221a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T05:40:00+00:00"
+    },
+    {
+      "titel": "Gasspeicher halb leer: Wie die Gasbranche Katherina Reiche unter Druck setzt",
+      "link": "https://www.spiegel.de/wirtschaft/service/gasspeicher-halb-leer-wie-die-gasbranche-katherina-reiche-unter-druck-setzt-a-7844ff6b-cb8c-4896-9a45-f0f233f926b4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T05:36:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Noch hält die 26.000er-Marke im DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T05:31:17+00:00"
+    },
+    {
+      "titel": "Österreich: 27-Jährige verklagt Wien wegen Toilettengebühr für Frauen",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/oesterreich-27-jaehrige-verklagt-wien-wegen-toilettengebuehr-fuer-frauen-a-643eedd6-c2ba-435e-9dee-29aea9d4fbd5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T05:28:00+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: OpenAI verlangsamt KI-Entwicklung nach Sicherheitsvorfall",
+      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-openai-verlangsamt-ki-entwicklung-nach-sicherheitsvorfall-a-8cf07bd9-227e-4c4b-99dc-6953095d9bff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T05:25:00+00:00"
+    },
+    {
+      "titel": "ChatGPT: Ab Montag erwartet Millionen Nutzer Werbung",
+      "link": "https://www.spiegel.de/netzwelt/apps/chatgpt-ab-montag-erwartet-millionen-nutzer-werbung-a-eda06cda-9558-478b-adf7-53eeb41ffd66#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T05:11:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Hubig will Mietern Einbau von Klimaanlagen und Sonnenblenden erleichtern",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-hubig-klimaanlagen-sonnenblenden-hitzeschutz-mietrecht-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T05:06:22+00:00"
+    },
+    {
+      "titel": "Gedenken an Zhu und Jiang: Erinnerung an ein etwas freieres China",
+      "link": "https://www.tagesschau.de/ausland/asien/china-beisetzung-zhu-zeitenwende-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-19T05:06:12+00:00"
+    },
+    {
+      "titel": "AfD: Charlotte Knobloch sieht in »vielen Bereichen kein Unterschied mehr zur NSDAP«",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-charlotte-knobloch-sieht-in-vielen-bereichen-kein-unterschied-mehr-zur-nsdap-a-ac88d108-8d57-494a-9557-0bcc201ac1e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T04:55:00+00:00"
+    },
     {
       "titel": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
@@ -37,12 +97,6 @@
       "veroeffentlicht": "2026-08-19T04:29:00+00:00"
     },
     {
-      "titel": "»SOKO Leipzig«: Was lernt man hier über Leipzig?",
-      "link": "https://www.spiegel.de/kultur/tv/soko-leipzig-was-lernt-man-hier-ueber-leipzig-a-13f08003-8e43-48d5-be76-6b17f218707d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T04:24:00+00:00"
-    },
-    {
       "titel": "Fehlinvestitionen auch bei Kirchenbezirken, Pensionskassen und TÜV",
       "link": "https://www.tagesschau.de/investigativ/fehlinvestments-kirchen-sterbekassen-100.html",
       "quelle": "Tagesschau",
@@ -53,12 +107,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-carney-zoelle-kanada-oel-pipeline-keystone-xl-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T03:56:48+00:00"
-    },
-    {
-      "titel": "Geldanlage: Die 50 wichtigsten Tipps für Ihr Erspartes",
-      "link": "https://www.spiegel.de/wirtschaft/service/geldanlage-die-50-wichtigsten-tipps-fuer-ihr-erspartes-a-16a23af4-cfab-422e-9224-0d6029c4dbad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T03:49:00+00:00"
     },
     {
       "titel": "Migranten in Ceuta treten im Kampf um Asyl in Hungerstreik",
@@ -79,46 +127,10 @@
       "veroeffentlicht": "2026-08-19T03:30:09+00:00"
     },
     {
-      "titel": "Geldanlage: So hätten Sie mit uns ein (kleines) Vermögen gemacht",
-      "link": "https://www.spiegel.de/wirtschaft/service/geldanlage-so-haetten-sie-mit-uns-ein-kleines-vermoegen-gemacht-a-63859854-cec9-41b0-867a-fc083fd09072#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T03:30:00+00:00"
-    },
-    {
-      "titel": "News: Roboter, China, Gasspeicher, Sahra Wagenknecht, Sachsen-Anhalt",
-      "link": "https://www.spiegel.de/politik/deutschland/news-roboter-china-gasspeicher-sahra-wagenknecht-sachsen-anhalt-a-42b95818-58d2-4ef5-bff7-dc09cee498f8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T03:27:00+00:00"
-    },
-    {
       "titel": "Wie sich die EU von einem Milizenführer erpressen lässt",
       "link": "https://www.tagesschau.de/investigativ/report-mainz/migration-mittelmeer-eu-libyen-miliz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T03:05:10+00:00"
-    },
-    {
-      "titel": "USA streichen Manöver mit Südkorea nach Trumps Machtwort zusammen",
-      "link": "https://www.spiegel.de/ausland/usa-streichen-manoever-mit-suedkorea-nach-trumps-machtwort-zusammen-a-18c04537-34f8-4df0-bf86-56733abc0387#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T02:55:00+00:00"
-    },
-    {
-      "titel": "Blackouts des Bayern-Stars – was sind Absencen?",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/blackouts-des-bayern-stars-was-sind-absencen-a-b5895791-efdb-4480-ae2a-3fa22bce978b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T02:30:00+00:00"
-    },
-    {
-      "titel": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T01:30:14+00:00"
-    },
-    {
-      "titel": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T23:43:27+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Herausforderung für Selenskij: Ex-Verteidigungsminister fordert Wahlen",
@@ -131,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/sport/musiala-fc-bayern-zusammengebrochen-heidenheim-li.3533461",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T20:36:15+00:00"
-    },
-    {
-      "titel": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-18T18:50:31+00:00"
     },
     {
       "titel": "Fußball: Musiala sinkt erneut zu Boden - „neurologische Dysfunktion“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/fussball-fifa-infantino-trennung-lamour-mitarbeiter-li.3533130",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-18T13:13:47+00:00"
-    },
-    {
-      "titel": "Fifa: Wer Infantino widerspricht, der fliegt",
-      "link": "https://www.sueddeutsche.de/sport/infantino-amtszeit-wahlen-compliance-gegner-kommentar-li.3533131",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-18T13:13:26+00:00"
     }
   ]
 }
