@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-19T18:54:40+00:00",
+  "aktualisiert": "2026-08-19T19:41:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Céline Dion bereitet sich mit Pilates und Ballett auf Bühnen-Comeback vor",
+      "link": "https://www.spiegel.de/panorama/leute/celine-dion-bereitet-sich-mit-pilates-und-ballett-auf-buehnen-comeback-vor-a-808771d5-5c22-424c-8190-9c7c9a42a9b9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T19:35:00+00:00"
+    },
+    {
+      "titel": "Jens Spahn kandidiert nach Leihmutterschafts-Debatte nicht mehr für CDU-Bezirksvorsitz im Münsterland",
+      "link": "https://www.spiegel.de/politik/jens-spahn-kandidiert-nach-leihmutterschafts-debatte-nicht-mehr-fuer-cdu-bezirksvorsitz-im-muensterland-a-356899ef-c989-49e3-869f-137eba31ff42#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-19T19:35:00+00:00"
+    },
+    {
+      "titel": "USA: Trump will sich dieses Jahr noch mit Kim treffen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kim-treffen-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T19:05:59+00:00"
+    },
     {
       "titel": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
@@ -25,14 +43,14 @@
       "veroeffentlicht": "2026-08-19T18:27:22+00:00"
     },
     {
-      "titel": "Moderna: Erfolgreiche Studie zu Hautkrebs-Impfstoff beflügelt Börsenkurs",
-      "link": "https://www.spiegel.de/wirtschaft/moderna-erfolgreiche-studie-zu-hautkrebs-impfstoff-befluegelt-boersenkurs-a-ecb35755-9bbc-4cb3-a4af-facf7b9d0f02#ref=rss",
+      "titel": "Frauenleiche in Wald entdeckt: Verdächtiger stellt sich der Polizei",
+      "link": "https://www.spiegel.de/panorama/frauenleiche-in-wald-entdeckt-verdaechtiger-stellt-sich-der-polizei-a-7f3fd43e-0f12-4d14-a76a-987bbe4e7146#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T18:27:00+00:00"
     },
     {
-      "titel": "Frauenleiche in Wald entdeckt: Verdächtiger stellt sich der Polizei",
-      "link": "https://www.spiegel.de/panorama/frauenleiche-in-wald-entdeckt-verdaechtiger-stellt-sich-der-polizei-a-7f3fd43e-0f12-4d14-a76a-987bbe4e7146#ref=rss",
+      "titel": "Moderna: Erfolgreiche Studie zu Hautkrebs-Impfstoff beflügelt Börsenkurs",
+      "link": "https://www.spiegel.de/wirtschaft/moderna-erfolgreiche-studie-zu-hautkrebs-impfstoff-befluegelt-boersenkurs-a-ecb35755-9bbc-4cb3-a4af-facf7b9d0f02#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T18:27:00+00:00"
     },
@@ -71,18 +89,6 @@
       "link": "https://www.spiegel.de/politik/deutschland/sandra-hueller-und-bill-kaulitz-gegen-die-afd-aufzustehen-ist-laengst-kein-gratismut-mehr-a-ed810463-82f3-4f67-b459-c4a7c0f08e9e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-19T16:56:00+00:00"
-    },
-    {
-      "titel": "Berlin-Wahl 2026: »... und das ist auch gut so« – CDU und SPD ringen um Deutung des berühmten Satzes",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-2026-und-das-ist-auch-gut-so-cdu-und-spd-ringen-um-deutung-des-beruehmten-satzes-a-1a8232b6-aba0-47cf-ba99-028cfb2e3b86#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T16:55:00+00:00"
-    },
-    {
-      "titel": "Eklat um Itamar Ben-Gvir: Deutschlands neue Schärfe gegen Israel",
-      "link": "https://www.spiegel.de/politik/deutschland/eklat-um-itamar-ben-gvir-deutschlands-neue-schaerfe-gegen-israel-a-185abe3a-8e6c-41c6-bc1a-2ba716a71abd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T16:55:00+00:00"
     },
     {
       "titel": "Fast jeder vierte Erwachsene schläft zu wenig",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-vietnam-airlines-lufthansa-zwischenfall-chronologie-li.3533594",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T14:14:18+00:00"
-    },
-    {
-      "titel": "Schienenverkehr: Wenn der ICE nicht mehr in Jena oder Münster stoppt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/bahn-fernverkehr-anbieter-staedte-gruene-li.3533637",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T13:57:15+00:00"
     }
   ]
 }
