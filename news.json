@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-20T17:46:46+00:00",
+  "aktualisiert": "2026-08-20T19:01:21+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,76 @@
   },
   "meldungen": [
     {
+      "titel": "Bauhaus – Sachsen-Anhalt: »Bauhaus-Manifest« – Institutionen erinnern an Anfeindungen durch das Naziregime",
+      "link": "https://www.spiegel.de/kultur/bauhaus-sachsen-anhalt-bauhaus-manifest-institutionen-erinnern-an-anfeindungen-durch-das-naziregime-a-b6ec2b91-8ff5-45bb-8347-9f13e31ec7a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T18:47:00+00:00"
+    },
+    {
+      "titel": "Europäer fordern Israel auf, umstrittene Siedlungspläne zurückzunehmen",
+      "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T18:40:23+00:00"
+    },
+    {
+      "titel": "Auf Baustelle entdeckt: Wem gehört der Goldschatz von Dendermonde?",
+      "link": "https://www.tagesschau.de/ausland/belgien-dendermonde-goldschatz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T18:31:09+00:00"
+    },
+    {
+      "titel": "Rede zu den „Tagen des Exils“: Als würden sie zum Mars fliegen",
+      "link": "https://www.sueddeutsche.de/kultur/irina-scherbakowa-russland-tage-des-exils-li.3532894",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T18:30:50+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Kaufen und vernichten KI-Firmen massenhaft seltene Bücher?",
+      "link": "https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-kaufen-und-vernichten-ki-firmen-massenhaft-seltene-buecher-a-ea793a1f-77d9-4b47-bc01-abd04da70bcf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T18:28:00+00:00"
+    },
+    {
+      "titel": "Ballett: Tanzen unter Druck an deutschen Theatern",
+      "link": "https://www.tagesschau.de/kultur/ballett-staatstheater-saarbruecken-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T18:21:48+00:00"
+    },
+    {
+      "titel": "Saïd El Mala – 1. FC Köln: Umworbenes Supertalent verlängert überraschend",
+      "link": "https://www.spiegel.de/sport/fussball/said-el-mala-1-fc-koeln-umworbenes-supertalent-verlaengert-ueberraschend-a-7239494c-7f40-456d-a8e3-9b5305fce3b5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T18:12:00+00:00"
+    },
+    {
+      "titel": "Iran: Weiterer US-Flugzeugträger erreicht den Nahen Osten",
+      "link": "https://www.spiegel.de/ausland/iran-weiterer-us-flugzeugtraeger-erreicht-den-nahen-osten-a-6b7dcbf4-f931-43e4-80cf-1c95a4f66d5c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T18:08:00+00:00"
+    },
+    {
+      "titel": "Jugend-Droge: Wie gefährlich das synthetische »Baller-Liquid« ist - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/justiz/jugend-droge-wie-gefaehrlich-das-synthetische-baller-liquid-ist-spiegel-tv-a-fe0ebb91-ef79-4efd-8828-66ca1c365134#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T17:48:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz im Urlaub: Ein Kanzler, der gar nichts sagt, sagt auch nichts Dummes",
+      "link": "https://www.spiegel.de/kultur/friedrich-merz-im-urlaub-ein-kanzler-der-gar-nichts-sagt-sagt-auch-nichts-dummes-a-c64a655b-5d18-4f19-8c39-d834e8ea9345#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T17:46:00+00:00"
+    },
+    {
       "titel": "Israel – Westjordanland: Deutschland, Frankreich, Großbritannien und Italien verurteilen »E1«-Pläne",
       "link": "https://www.spiegel.de/politik/deutschland/israel-westjordanland-deutschland-frankreich-grossbritannien-und-italien-verurteilen-e1-plaene-a-36bd066b-9780-44e6-8b48-ac8371ed93ff#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T17:36:00+00:00"
+    },
+    {
+      "titel": "Nordrhein-Westfalen: Waldbrand in Hürtgenwald bei Aachen endgültig gelöscht",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-huertgenwald-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T17:34:00+00:00"
     },
     {
       "titel": "Spanien richtet Unterkünfte für Migranten in Exklave Ceuta ein",
@@ -49,30 +115,6 @@
       "veroeffentlicht": "2026-08-20T16:49:58+00:00"
     },
     {
-      "titel": "New York: ICE nimmt Fahrer von gekentertem Boot fest",
-      "link": "https://www.spiegel.de/panorama/new-york-ice-nimmt-fahrer-von-gekentertem-boot-fest-a-84a5e764-8009-4bcb-9564-7ea01cb411fb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T16:48:00+00:00"
-    },
-    {
-      "titel": "Donald Trump und das Weiße Haus: Neuer Landeplatz für Hubschrauber vorgesehen",
-      "link": "https://www.spiegel.de/ausland/donald-trump-und-das-weisse-haus-neuer-landeplatz-fuer-hubschrauber-vorgesehen-a-3106486e-5a69-4534-b5f6-459d5d23beca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T16:43:00+00:00"
-    },
-    {
-      "titel": "Wasserknappheit: Wenn der eigene Rasen vertrocknet und der des Nachbarn grünt",
-      "link": "https://www.spiegel.de/politik/deutschland/wasserknappheit-wenn-der-eigene-rasen-vertrocknet-und-der-des-nachbarn-gruent-a-351d6a70-0413-4a29-8c00-219caad9734a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T16:27:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Warum der CDU die Spaltung im Umgang mit der AfD droht",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-der-cdu-die-spaltung-im-umgang-mit-der-afd-droht-a-af825137-2d84-47a3-8ada-ab0ad1b17460#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T16:14:00+00:00"
-    },
-    {
       "titel": "Tote und Schäden nach heftigen Unwettern in Teilen Deutschlands",
       "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
       "quelle": "Tagesschau",
@@ -83,42 +125,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T16:04:55+00:00"
-    },
-    {
-      "titel": "Mehr als 100 Tote bei Einsturz von Goldmine in Zentralafrika",
-      "link": "https://www.tagesschau.de/ausland/afrika/unglueck-goldmine-tote-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T16:02:10+00:00"
-    },
-    {
-      "titel": "Hamburg – Elbphilharmonie: Mehr als 40 Menschen erkrankt",
-      "link": "https://www.spiegel.de/panorama/hamburg-elbphilharmonie-mehr-als-40-menschen-erkrankt-a-a8306872-71fd-46fb-834d-ecde00f22818#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T15:46:00+00:00"
-    },
-    {
-      "titel": "DGB-Ausbildungsreport: Jeder zweite Azubi ist psychisch belastet",
-      "link": "https://www.tagesschau.de/wirtschaft/dgb-ausbildungsreport-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T15:43:10+00:00"
-    },
-    {
-      "titel": "Spende an AfD – CDU prüft Ausschluss von Kommunalpolitiker Bernd Prange",
-      "link": "https://www.spiegel.de/politik/deutschland/spende-an-afd-cdu-prueft-ausschluss-von-kommunalpolitiker-bernd-prange-a-98e52e7c-5d7f-42c8-8bca-034405b44a59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T15:40:00+00:00"
-    },
-    {
-      "titel": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T15:19:46+00:00"
-    },
-    {
-      "titel": "Hitzetote in Deutschland: Warum Experten mehr Prävention fordern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hitze-gesundheit-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T15:12:43+00:00"
     },
     {
       "titel": "Bundespolitik: Knobloch: „Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/china-haft-evergrande-chef-hui-ka-yan-li.3534140",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T13:19:39+00:00"
-    },
-    {
-      "titel": "Weltwirtschaft: Weniger Kinder für mehr Wachstum?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/deutschland-wachstum-geburtenraten-li.3532873",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T12:47:15+00:00"
     }
   ]
 }
