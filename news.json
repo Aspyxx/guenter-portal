@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-20T13:34:20+00:00",
+  "aktualisiert": "2026-08-20T14:21:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,58 @@
   },
   "meldungen": [
     {
+      "titel": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
+      "link": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T14:08:49+00:00"
+    },
+    {
+      "titel": "Urlaub in Dänemark boomt - vor allem bei Deutschen",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-tourismus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T14:03:48+00:00"
+    },
+    {
+      "titel": "Rumänischer Kampfjet zerstört offenbar Seedrohne nahe Gasplattform im Schwarzen Meer",
+      "link": "https://www.spiegel.de/ausland/rumaenischer-kampfjet-zerstoert-offenbar-seedrohne-nahe-gasplattform-im-schwarzen-meer-a-1960f383-87d1-45a8-85b2-e42fa3c00c52#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T14:03:00+00:00"
+    },
+    {
+      "titel": "Jamal Musiala: Neurologin über Absencen, Epilepsie und die Risiken von Kopfballtraining",
+      "link": "https://www.spiegel.de/gesundheit/jamal-musiala-neurologin-ueber-absencen-epilepsie-und-die-risiken-von-kopfballtraining-a-e859febd-058e-4975-b175-a1010b94f5ed#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T13:54:00+00:00"
+    },
+    {
+      "titel": "Robin Williams: Kinder aktivieren Instagram-Kanal des verstorbenen Schauspielers",
+      "link": "https://www.spiegel.de/wirtschaft/robin-williams-kinder-aktivieren-instagram-kanal-des-verstorbenen-schauspielers-a-ecbff783-fc86-4192-9724-73b1dffa01e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T13:51:00+00:00"
+    },
+    {
+      "titel": "Baden-Baden: Katze soll Wasserhahn aufgedreht und setzt Wohnung unter Wasser gesetzt haben",
+      "link": "https://www.spiegel.de/panorama/baden-baden-katze-soll-wasserhahn-aufgedreht-und-setzt-wohnung-unter-wasser-gesetzt-haben-a-1470b5c8-4da1-4a1c-ab67-7ba56d516ca4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T13:41:00+00:00"
+    },
+    {
+      "titel": "»Spaziergang nach Syrakus« mit Charly Hübner: Er entkam der DDR, obwohl er das gar nicht wollte",
+      "link": "https://www.spiegel.de/kultur/spaziergang-nach-syrakus-mit-charly-huebner-er-entkam-der-ddr-obwohl-er-das-gar-nicht-wollte-a-508026b6-2f53-4ee0-85be-551901cdfe57#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T13:37:00+00:00"
+    },
+    {
       "titel": "Prinz Harry und Meghan Markle kehren nach Großbritannien zurück: Die Megxit-Chronik",
       "link": "https://www.spiegel.de/panorama/leute/prinz-harry-und-meghan-markle-kehren-nach-grossbritannien-zurueck-die-megxit-chronik-a-1055828c-f72b-4a3a-8bbc-1134eec85828#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T13:30:00+00:00"
+    },
+    {
+      "titel": "Umzug von Harry und Meghan: Ist jetzt alles wieder gut?",
+      "link": "https://www.sueddeutsche.de/panorama/harry-meghan-markle-royals-umzug-rueckkehr-london-grossbritannien-koenigshaus-li.3534160",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T13:27:47+00:00"
     },
     {
       "titel": "Harry und Meghan zurück in England: Comeback der royalen Rebellen",
@@ -31,7 +79,7 @@
       "veroeffentlicht": "2026-08-20T12:49:48+00:00"
     },
     {
-      "titel": "T2 in Hangzhou: Dieser »Polizist« zieht Helmsünder aus dem Verkehr",
+      "titel": "China: Roboter-»Polizist« T2 zieht Helmsünder in Hangzhou aus dem Verkehr",
       "link": "https://www.spiegel.de/mobilitaet/t2-in-hangzhou-dieser-polizist-zieht-helmsuender-aus-dem-verkehr-a-ed6c7b9f-4263-481c-ad7d-890d6ba149c9#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T12:37:00+00:00"
@@ -41,18 +89,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/moderna-merck-impfstoff-hautkrebs-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T12:34:28+00:00"
-    },
-    {
-      "titel": "Bremen: Mutmaßlicher Bestechungsfall in JVA aufgedeckt",
-      "link": "https://www.spiegel.de/panorama/justiz/bremen-mutmasslicher-bestechungsfall-in-jva-aufgedeckt-a-e5b0cfa3-49d7-46a3-a63b-4fce93b35d57#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T12:31:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T12:28:00+00:00"
     },
     {
       "titel": "Medizinischer Dienst: Mehr Todesfälle durch Behandlungsfehler",
@@ -67,34 +103,22 @@
       "veroeffentlicht": "2026-08-20T12:14:11+00:00"
     },
     {
-      "titel": "Startklar-Newsletter: Wie werde ich Windenergieingenieur und verdiene 65.000 brutto?",
-      "link": "https://www.spiegel.de/start/startklar-newsletter-wie-werde-ich-windenergieingenieur-und-verdiene-65-000-brutto-a-d03ae241-5a9f-4116-9aa7-443f9456d018#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T12:13:00+00:00"
-    },
-    {
       "titel": "Kampfjet schießt in Rumänien mit Sprengstoff versehene Drohne ab",
       "link": "https://www.tagesschau.de/ausland/europa/rumaenien-abschuss-drohne-sprengstoff-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T12:10:48+00:00"
     },
     {
-      "titel": "Ausbildung: In diesen Berufen sind Azubis am zufriedensten",
-      "link": "https://www.spiegel.de/start/ausbildung-in-diesen-berufen-sind-azubis-am-zufriedensten-a-7be812f6-f675-4b7c-a15c-96baa6f22914#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T12:02:00+00:00"
-    },
-    {
-      "titel": "Frauke Brosius-Gersdorf: »Es ging wohl auch darum, einen Keil in die Regierung zu treiben«",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/frauke-brosius-gersdorf-ein-jahr-nach-der-gescheiterten-richterwahl-es-ging-wohl-auch-darum-einen-keil-in-die-regierung-zu-treiben-a-7bbe19e6-bebe-43a2-8e8c-170f63e00303#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T11:59:00+00:00"
-    },
-    {
       "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T11:57:49+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Jetzt droht Trump den Mullahs mit einem „Wirtschaftskrieg“",
+      "link": "https://www.sueddeutsche.de/politik/usa-iran-trump-konflikt-wirtschaftskrieg-sanktionen-li.3534145",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T11:48:44+00:00"
     },
     {
       "titel": "Fernsehen: Frisch vom Kartoffelacker",
@@ -109,6 +133,12 @@
       "veroeffentlicht": "2026-08-20T11:29:57+00:00"
     },
     {
+      "titel": "Donald Trump und Afrika: Warum Liberia den USA 1200 Migranten abnehmen will",
+      "link": "https://www.sueddeutsche.de/politik/liberia-abschiebungen-usa-migranten-trump-li.3534124",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T11:23:51+00:00"
+    },
+    {
       "titel": "Razzia in Bremer Gefängnis - Beschäftigte bestechlich?",
       "link": "https://www.tagesschau.de/inland/regional/bremen/bremen-jva-ermittlungen-bestechlichkeit-100.html",
       "quelle": "Tagesschau",
@@ -121,16 +151,10 @@
       "veroeffentlicht": "2026-08-20T11:12:59+00:00"
     },
     {
-      "titel": "Anschlag auf jüdisches Altenheim in München nach 56 Jahren offenbar aufgeklärt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/anschlag-muenchen-1970-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T11:01:59+00:00"
-    },
-    {
-      "titel": "Viele Babyboomer übergeben in den kommenden Jahren ihr Eigenheim",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilien-preise-babyboomer-angebot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T10:58:31+00:00"
+      "titel": "Debatte: Wo bleibt der runde Tisch?",
+      "link": "https://www.sueddeutsche.de/kultur/afd-trump-putin-demokratie-klimakrise-edgar-selge-li.3533592",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T10:59:06+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Massiver russischer Angriff auf Kiew",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/trump-kim-jong-un-atomwaffen-li.3534127",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T10:27:33+00:00"
-    },
-    {
-      "titel": "Digitale Welt: Wie sich soziale Medien regulieren lassen? Schaut auf die Tütensuppe",
-      "link": "https://www.sueddeutsche.de/meinung/social-media-meta-sucht-verbot-kommentar-li.3533278",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T09:40:43+00:00"
-    },
-    {
-      "titel": "Uli Hoeneß: „Man darf nicht glauben, dass Klopp der Messias ist“",
-      "link": "https://www.sueddeutsche.de/sport/hoeness-klopp-bundestrainer-aussagen-kritik-li.3534244",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T09:20:44+00:00"
-    },
-    {
-      "titel": "Kuriose Bergrettung: Smartwatch meldet falschen Flugzeugabsturz",
-      "link": "https://www.sueddeutsche.de/bayern/oberstdorf-smartwatch-flugzeugabsturz-alarm-wanderer-allgaeu-li.3534184",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T09:07:36+00:00"
-    },
-    {
-      "titel": "Wirtschaftskriminalität: Cum-Ex: Anklage gegen frühere Commerzbank-Mitarbeiter",
-      "link": "https://www.sueddeutsche.de/wirtschaft/cum-ex-commerzbank-li.3533972",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T07:30:00+00:00"
     }
   ]
 }
