@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-20T05:48:01+00:00",
+  "aktualisiert": "2026-08-20T07:07:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,58 @@
   },
   "meldungen": [
     {
+      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T07:03:37+00:00"
+    },
+    {
+      "titel": "Nordkorea: Seoul schätzt nordkoreanisches Arsenal auf bis zu 120 Atomwaffen",
+      "link": "https://www.spiegel.de/ausland/nordkorea-seoul-schaetzt-nordkoreanisches-arsenal-auf-bis-zu-120-atomwaffen-a-e6ed4e46-9835-4abd-9f1e-8acb96050110#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T06:59:00+00:00"
+    },
+    {
+      "titel": "Evergrande-Gründer Xu in China zu lebenslanger Haft verurteilt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/urteil-evergrande-insolvenz-xu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T06:57:14+00:00"
+    },
+    {
+      "titel": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T06:56:39+00:00"
+    },
+    {
+      "titel": "Terrorismusverdacht: Bundesanwaltschaft ermittelt im Fall der \"Com\"-Gruppen",
+      "link": "https://www.tagesschau.de/investigativ/swr/com-gruppen-bundesanwaltschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T06:45:33+00:00"
+    },
+    {
+      "titel": "Syrien: Nach Angriff auf Militärflugplatz – Netanyahu spricht von »Warnung« an die Türkei",
+      "link": "https://www.spiegel.de/ausland/syrien-nach-angriff-auf-militaerflugplatz-netanyahu-spricht-von-warnung-an-die-tuerkei-a-73456297-187d-4f06-a481-fac736c65882#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T06:45:00+00:00"
+    },
+    {
+      "titel": "Prinz Harry und Meghan: »Harry kommt nach Hause« – britische Pressestimmen",
+      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-und-meghan-harry-kommt-nach-hause-britische-pressestimmen-a-7b975b54-6c1e-4df3-b5f4-f46d7f8d256e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T06:15:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Steigende Zinserwartungen machen Anlegern Sorgen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T05:47:37+00:00"
+    },
+    {
       "titel": "Gewitter in Deutschland: Heftige Unwetter mit Starkregen – eine Tote",
       "link": "https://www.spiegel.de/panorama/gewitter-in-deutschland-heftige-unwetter-mit-starkregen-eine-tote-a-dfccd6d4-53b3-4066-8970-05795212ed43#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T05:33:00+00:00"
-    },
-    {
-      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T05:31:24+00:00"
     },
     {
       "titel": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
@@ -61,24 +103,6 @@
       "veroeffentlicht": "2026-08-20T04:16:00+00:00"
     },
     {
-      "titel": "Bücher: Wofür brauchen wir eigentlich Literaturpreise?",
-      "link": "https://www.spiegel.de/kultur/literatur/buecher-wofuer-brauchen-wir-eigentlich-literaturpreise-a-0faefad0-91c3-4edb-a8aa-fa9dbc86a054#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T03:49:00+00:00"
-    },
-    {
-      "titel": "News: AfD, Österreich, KI-Datenzentren, Bernie Sanders, María Corina Machado, Venezuela",
-      "link": "https://www.spiegel.de/politik/deutschland/news-afd-oesterreich-ki-datenzentren-bernie-sanders-maria-corina-machado-venezuela-a-056557e1-7fe9-41f6-84ae-d2c92514aaff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T03:45:00+00:00"
-    },
-    {
-      "titel": "Kaiserschnitt: Was Mütter und Väter zur neuen Leitlinie wissen müssen",
-      "link": "https://www.spiegel.de/gesundheit/kaiserschnitt-was-muetter-und-vaeter-zur-neuen-leitlinie-wissen-muessen-a-407d7b10-ff68-4f8c-bd60-ab7430443086#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T03:30:00+00:00"
-    },
-    {
       "titel": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html",
       "quelle": "Tagesschau",
@@ -115,12 +139,6 @@
       "veroeffentlicht": "2026-08-19T18:48:36+00:00"
     },
     {
-      "titel": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T18:29:18+00:00"
-    },
-    {
       "titel": "FC Bayern: Kane über Musiala: „Unterstützen ihn zu 100 Prozent“",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-jamal-musiala-zusammenbrueche-li.3534011",
       "quelle": "Süddeutsche",
@@ -131,24 +149,6 @@
       "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-li.3533570",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T17:06:55+00:00"
-    },
-    {
-      "titel": "Fast jeder vierte Erwachsene schläft zu wenig",
-      "link": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T16:54:15+00:00"
-    },
-    {
-      "titel": "Kaufzurückhaltung: DAX tritt auf der Stelle",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-steigende-renditen-belasten-aktienmarkt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T16:53:35+00:00"
-    },
-    {
-      "titel": "Merz kritisiert Ben-Gvirs Aussagen zu Tötung von Palästinensern",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T16:41:47+00:00"
     },
     {
       "titel": "Wahlkämpfe: Wer die AfD ausgrenzt, hilft ihr. Wer sich selber torpediert, auch",
