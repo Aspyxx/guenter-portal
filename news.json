@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-20T19:46:50+00:00",
+  "aktualisiert": "2026-08-20T20:47:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hürtgenwald: Größter Waldbrand in NRW-Geschichte vollständig gelöscht",
+      "link": "https://www.spiegel.de/panorama/huertgenwald-groesster-waldbrand-in-nrw-geschichte-vollstaendig-geloescht-a-26b2b1fc-1c84-4166-ae9a-d1ffa840f21a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T20:26:00+00:00"
+    },
+    {
+      "titel": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
+      "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T20:15:53+00:00"
+    },
+    {
+      "titel": "Georgenthal – Thüringen: Vater auf dem Weg zur Kita von Baum erschlagen",
+      "link": "https://www.spiegel.de/panorama/georgenthal-thueringen-vater-auf-dem-weg-zur-kita-von-baum-erschlagen-a-173f4c14-0b98-4b48-88f4-2181f5bdaae8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T20:09:00+00:00"
+    },
+    {
+      "titel": "Baden-Württemberg: Innenminister leistet Erste Hilfe nach Unfall auf A8",
+      "link": "https://www.spiegel.de/politik/baden-wuerttemberg-innenminister-leistet-erste-hilfe-nach-unfall-auf-a8-a-2144943c-160a-4c41-bf09-208ac1cc0737#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T20:00:00+00:00"
+    },
     {
       "titel": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
       "link": "https://www.tagesschau.de/kommentar/ceuta-migranten-kommentar-100.html",
@@ -37,12 +61,6 @@
       "veroeffentlicht": "2026-08-20T18:47:00+00:00"
     },
     {
-      "titel": "Europäer fordern Israel auf, umstrittene Siedlungspläne zurückzunehmen",
-      "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T18:40:23+00:00"
-    },
-    {
       "titel": "Auf Baustelle entdeckt: Wem gehört der Goldschatz von Dendermonde?",
       "link": "https://www.tagesschau.de/ausland/belgien-dendermonde-goldschatz-100.html",
       "quelle": "Tagesschau",
@@ -71,24 +89,6 @@
       "link": "https://www.spiegel.de/sport/fussball/said-el-mala-1-fc-koeln-umworbenes-supertalent-verlaengert-ueberraschend-a-7239494c-7f40-456d-a8e3-9b5305fce3b5#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T18:12:00+00:00"
-    },
-    {
-      "titel": "Iran: Weiterer US-Flugzeugträger erreicht den Nahen Osten",
-      "link": "https://www.spiegel.de/ausland/iran-weiterer-us-flugzeugtraeger-erreicht-den-nahen-osten-a-6b7dcbf4-f931-43e4-80cf-1c95a4f66d5c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T18:08:00+00:00"
-    },
-    {
-      "titel": "Jugend-Droge: Wie gefährlich das synthetische »Baller-Liquid« ist - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/justiz/jugend-droge-wie-gefaehrlich-das-synthetische-baller-liquid-ist-spiegel-tv-a-fe0ebb91-ef79-4efd-8828-66ca1c365134#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T17:48:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz im Urlaub: Ein Kanzler, der gar nichts sagt, sagt auch nichts Dummes",
-      "link": "https://www.spiegel.de/kultur/friedrich-merz-im-urlaub-ein-kanzler-der-gar-nichts-sagt-sagt-auch-nichts-dummes-a-c64a655b-5d18-4f19-8c39-d834e8ea9345#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T17:46:00+00:00"
     },
     {
       "titel": "Nordrhein-Westfalen: Waldbrand in Hürtgenwald bei Aachen endgültig gelöscht",
