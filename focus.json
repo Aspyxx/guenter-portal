@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-20T04:59:54+00:00",
+  "aktualisiert": "2026-08-20T05:35:36+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/harry-meghan-rueckkehr-grossbritannien-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "UV-Strahlung hat in Europa  deutlich zugenommen",
       "link": "https://www.tagesschau.de/wissen/klima/uv-strahlung-europa-100.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
-    },
-    {
-      "rang": 3,
-      "titel": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
