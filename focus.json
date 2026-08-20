@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-20T05:35:36+00:00",
+  "aktualisiert": "2026-08-20T06:21:34+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Steigende Zinserwartungen machen Anlegern Sorgen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
       "link": "https://www.tagesschau.de/ausland/europa/harry-meghan-rueckkehr-grossbritannien-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "UV-Strahlung hat in Europa  deutlich zugenommen",
-      "link": "https://www.tagesschau.de/wissen/klima/uv-strahlung-europa-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔥"
     }
   ]
 }
