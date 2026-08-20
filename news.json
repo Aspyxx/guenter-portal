@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-20T07:07:37+00:00",
+  "aktualisiert": "2026-08-20T07:58:06+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "München: Tatverdacht gegen Neonazi Bernd V. nach Brandschlag auf jüdisches Wohnheim 1970 erhärtet",
+      "link": "https://www.spiegel.de/panorama/justiz/muenchen-tatverdacht-gegen-neonazi-bernd-v-nach-brandschlag-auf-juedisches-wohnheim-1970-erhaertet-a-f3aafae8-0ce4-452e-9e7e-543a9d32d6fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T07:39:00+00:00"
+    },
+    {
+      "titel": "Wirtschaftskriminalität: Cum-Ex: Anklage gegen frühere Commerzbank-Mitarbeiter",
+      "link": "https://www.sueddeutsche.de/wirtschaft/cum-ex-commerzbank-li.3533972",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T07:30:00+00:00"
+    },
+    {
+      "titel": "China: Evergrande-Gründer zu lebenslanger Haft verurteilt",
+      "link": "https://www.spiegel.de/wirtschaft/china-evergrande-gruender-zu-lebenslanger-haft-verurteilt-a-95056f97-d1b2-459c-abe9-4fd7845a001d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T07:30:00+00:00"
+    },
+    {
+      "titel": "Umweltminister Schneider in Tschernobyl: „Das ist eine ernsthafte Gefahr für Deutschland“",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-tschernobyl-umweltminister-schneider-besuch-gefahr-li.3533097",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T07:27:00+00:00"
+    },
+    {
+      "titel": "\"Beispielloser Wirtschaftskrieg\" - was steckt hinter Trumps Drohung?",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T07:25:53+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: Immer mehr Israelis verlassen das Land",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-krieg-nahost-auswanderer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T07:22:10+00:00"
+    },
+    {
+      "titel": "Tote und Schäden nach heftigen Unwettern in Teilen Deutschland",
+      "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T07:21:07+00:00"
+    },
+    {
+      "titel": "USA: US-Staatsschulden überschreiten erstmals Marke von 40 Billionen Dollar",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-staatsschulden-40-billionen-dollar-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T07:18:00+00:00"
+    },
+    {
+      "titel": "Volksbühne in Berlin: Im Volksbad bekam der Hass die größte Bühne",
+      "link": "https://www.spiegel.de/kultur/volksbuehne-in-berlin-im-volksbad-bekam-der-hass-die-groesste-buehne-a-d3a954b9-6d9a-4f6b-992f-eae7a93fb8f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T07:16:00+00:00"
+    },
+    {
+      "titel": "Ost-West-Debatte: Wie alte Klischees neue Gräben aufreißen",
+      "link": "https://www.spiegel.de/politik/deutschland/ost-west-debatte-wie-alte-klischees-neue-graeben-aufreissen-a-dd02ded3-5391-4f81-a1b7-6d89f919e3d4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T07:15:00+00:00"
+    },
     {
       "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
@@ -73,46 +133,10 @@
       "veroeffentlicht": "2026-08-20T05:23:00+00:00"
     },
     {
-      "titel": "Gaspreis: Verbraucherschützer warnen vor Anstieg wegen niedriger Speicherstände",
-      "link": "https://www.spiegel.de/wirtschaft/service/gaspreis-verbraucherschuetzer-warnen-vor-anstieg-wegen-niedriger-speicherstaende-a-e4d7ec2a-a31c-447d-a96e-7c17ab4787dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T05:16:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Massiver russischer Angriff auf Kiew",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kiew-angriff-tote-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T05:04:06+00:00"
-    },
-    {
-      "titel": "Natalie Harp und Donald Trump: Das ist seine ergebenste Dienerin",
-      "link": "https://www.spiegel.de/ausland/natalie-harp-und-donald-trump-das-ist-seine-ergebenste-dienerin-a-d87f5fc5-50fa-4456-85a5-f686b9dcb04d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T04:41:00+00:00"
-    },
-    {
-      "titel": "Windenergieingenieur über seinen Berufseinstieg: »Gegenwind nehme ich inzwischen sportlich«",
-      "link": "https://www.spiegel.de/start/windenergieingenieur-ueber-seinen-berufseinstieg-gegenwind-nehme-ich-inzwischen-sportlich-a-7eb308c4-d571-41a7-9cf9-c13c6ae41645#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T04:21:00+00:00"
-    },
-    {
-      "titel": "Longevity: So leben Sie lange und gesund – ohne sich allzu sehr anstrengen zu müssen",
-      "link": "https://www.spiegel.de/gesundheit/ernaehrung/longevity-so-leben-sie-lange-und-gesund-ohne-sich-allzu-sehr-anstrengen-zu-muessen-a-65864ad4-b9b0-414a-b3a2-7f761dcab095#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T04:16:00+00:00"
-    },
-    {
-      "titel": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T03:05:04+00:00"
-    },
-    {
-      "titel": "Ernährungssicherheit: Wie sinnvoll sind die Maßnahmen der Politik?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T03:04:50+00:00"
     },
     {
       "titel": "Krieg in Nahost: Trump droht Iran mit „Wirtschaftskrieg“",
@@ -122,21 +146,9 @@
     },
     {
       "titel": "Sachsen-Anhalt: CDU-Mann spendet 10 000 Euro an die AfD",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-afd-spende-li.3534018",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-buergermeister-bernd-prange-afd-spende-li.3534018",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T20:45:13+00:00"
-    },
-    {
-      "titel": "USA: Trump will sich dieses Jahr noch mit Kim treffen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kim-treffen-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T19:05:59+00:00"
-    },
-    {
-      "titel": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T18:48:36+00:00"
     },
     {
       "titel": "FC Bayern: Kane über Musiala: „Unterstützen ihn zu 100 Prozent“",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/afd-mitte-deutschland-umgang-wahlkampf-kommentar-li.3532902",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T15:20:42+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Sachsen-Anhalt: Gefälschte Webseite der SZ für Desinformation missbraucht",
-      "link": "https://www.sueddeutsche.de/medien/desinformation-fake-news-sachsen-anhalt-russland-wahlen-sz-li.3526779",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T15:12:24+00:00"
-    },
-    {
-      "titel": "Debatte über Kanzler-Urlaub: Wer nicht weg ist, kann auch nicht wiederkommen",
-      "link": "https://www.sueddeutsche.de/politik/kanzler-merz-urlaub-krise-li.3533785",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T15:07:43+00:00"
     }
   ]
 }
