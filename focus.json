@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-20T11:14:58+00:00",
+  "aktualisiert": "2026-08-20T11:48:40+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Füchse Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "China bleibt Deutschlands Top-Handelspartner",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-china-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Studie warnt vor deutlich mehr Waldbränden in Europa",
       "link": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
-    },
-    {
-      "rang": 3,
-      "titel": "Viele Babyboomer übergeben in den kommenden Jahren ihr Eigenheim",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilien-preise-babyboomer-angebot-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
