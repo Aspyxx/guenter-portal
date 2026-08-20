@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-20T12:16:40+00:00",
+  "aktualisiert": "2026-08-20T13:34:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,70 @@
   },
   "meldungen": [
     {
+      "titel": "Prinz Harry und Meghan Markle kehren nach Großbritannien zurück: Die Megxit-Chronik",
+      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-und-meghan-markle-kehren-nach-grossbritannien-zurueck-die-megxit-chronik-a-1055828c-f72b-4a3a-8bbc-1134eec85828#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T13:30:00+00:00"
+    },
+    {
+      "titel": "Harry und Meghan zurück in England: Comeback der royalen Rebellen",
+      "link": "https://www.spiegel.de/ausland/harry-und-meghan-zurueck-in-england-comeback-der-royalen-rebellen-a-e095d5ed-6bfb-437a-941b-8866df995ad1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T13:26:00+00:00"
+    },
+    {
+      "titel": "Kinderarztbesuch: Neue Untersuchung für Kinder – welcher Anspruch bald gilt",
+      "link": "https://www.spiegel.de/wissenschaft/kinderarztbesuch-neue-untersuchung-fuer-kinder-welcher-anspruch-bald-gilt-a-b97422d3-c3ad-4917-b678-80a512d8ceae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T13:25:00+00:00"
+    },
+    {
+      "titel": "Plagiatsvorwürfe: Berliner Senatorin lässt ihre Doktorarbeit prüfen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/senatorin-badenberg-laesst-doktorarbeit-nach-plagiatsvorwuerfen-pruefen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T12:49:48+00:00"
+    },
+    {
+      "titel": "T2 in Hangzhou: Dieser »Polizist« zieht Helmsünder aus dem Verkehr",
+      "link": "https://www.spiegel.de/mobilitaet/t2-in-hangzhou-dieser-polizist-zieht-helmsuender-aus-dem-verkehr-a-ed6c7b9f-4263-481c-ad7d-890d6ba149c9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T12:37:00+00:00"
+    },
+    {
+      "titel": "Forschungserfolg treibt Aktien von Moderna & Co.",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/moderna-merck-impfstoff-hautkrebs-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T12:34:28+00:00"
+    },
+    {
+      "titel": "Bremen: Mutmaßlicher Bestechungsfall in JVA aufgedeckt",
+      "link": "https://www.spiegel.de/panorama/justiz/bremen-mutmasslicher-bestechungsfall-in-jva-aufgedeckt-a-e5b0cfa3-49d7-46a3-a63b-4fce93b35d57#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T12:31:00+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T12:28:00+00:00"
+    },
+    {
+      "titel": "Medizinischer Dienst: Mehr Todesfälle durch Behandlungsfehler",
+      "link": "https://www.tagesschau.de/inland/statistik-behandlungsfehler-patienten-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T12:22:24+00:00"
+    },
+    {
       "titel": "Nord-Stream-Pipelines: Ein Anschlag mit politischer Sprengkraft?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/nord-stream-festnahme-politik-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T12:14:11+00:00"
+    },
+    {
+      "titel": "Startklar-Newsletter: Wie werde ich Windenergieingenieur und verdiene 65.000 brutto?",
+      "link": "https://www.spiegel.de/start/startklar-newsletter-wie-werde-ich-windenergieingenieur-und-verdiene-65-000-brutto-a-d03ae241-5a9f-4116-9aa7-443f9456d018#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T12:13:00+00:00"
     },
     {
       "titel": "Kampfjet schießt in Rumänien mit Sprengstoff versehene Drohne ab",
@@ -25,13 +85,7 @@
       "veroeffentlicht": "2026-08-20T12:02:00+00:00"
     },
     {
-      "titel": "Razzia in Bremer Gefängnis - Beschäftigte bestechlich?",
-      "link": "https://www.tagesschau.de/inland/regional/bremen/bremen-jva-ermittlungen-bestechlichkeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T12:01:34+00:00"
-    },
-    {
-      "titel": "Frauke Brosius-Gersdorf ein Jahr nach der gescheiterten Richterwahl: »Es ging wohl auch darum, einen Keil in die Regierung zu treiben«",
+      "titel": "Frauke Brosius-Gersdorf: »Es ging wohl auch darum, einen Keil in die Regierung zu treiben«",
       "link": "https://www.spiegel.de/panorama/gesellschaft/frauke-brosius-gersdorf-ein-jahr-nach-der-gescheiterten-richterwahl-es-ging-wohl-auch-darum-einen-keil-in-die-regierung-zu-treiben-a-7bbe19e6-bebe-43a2-8e8c-170f63e00303#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T11:59:00+00:00"
@@ -43,22 +97,22 @@
       "veroeffentlicht": "2026-08-20T11:57:49+00:00"
     },
     {
+      "titel": "Fernsehen: Frisch vom Kartoffelacker",
+      "link": "https://www.sueddeutsche.de/medien/muenchen-beats-serie-zdf-techno-li.3524032",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T11:33:21+00:00"
+    },
+    {
       "titel": "Literatur: Dieser Mann hat es geschafft",
       "link": "https://www.sueddeutsche.de/kultur/lukas-baerfuss-koenigin-der-nacht-literatur-kritik-li.3510042",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T11:29:57+00:00"
     },
     {
-      "titel": "Marode Infrastruktur: Sondervermögen erreicht Planungsbüros bislang nicht",
-      "link": "https://www.spiegel.de/wirtschaft/marode-infrastruktur-sondervermoegen-erreicht-planungsbueros-bislang-nicht-a-9ca9167d-1f9e-402f-82a7-e42abdbe5ded#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T11:25:00+00:00"
-    },
-    {
-      "titel": "AfD in Sachsen-Anhalt: Das will die Partei laut Wahlprogramm an Schulen verändern",
-      "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-will-die-partei-laut-wahlprogramm-an-schulen-veraendern-a-5af2a5a3-2c1e-4c12-950f-5454dcece1e0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T11:21:00+00:00"
+      "titel": "Razzia in Bremer Gefängnis - Beschäftigte bestechlich?",
+      "link": "https://www.tagesschau.de/inland/regional/bremen/bremen-jva-ermittlungen-bestechlichkeit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T11:13:00+00:00"
     },
     {
       "titel": "Leute: Millionen für den Spinnenmann",
@@ -79,22 +133,10 @@
       "veroeffentlicht": "2026-08-20T10:58:31+00:00"
     },
     {
-      "titel": "Sänger ohne Cap: Mark Forster zeigt seine Frisur",
-      "link": "https://www.spiegel.de/panorama/saenger-ohne-cap-mark-forster-zeigt-seine-frisur-a-068ec416-ccfa-42ca-bac2-f0bab6c5f676#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T10:52:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Massiver russischer Angriff auf Kiew",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kiew-angriff-tote-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T10:30:00+00:00"
-    },
-    {
-      "titel": "Nordkorea: Südkorea und Japan melden neue Raketenstarts aus Nordkorea",
-      "link": "https://www.spiegel.de/ausland/nordkorea-suedkorea-und-japan-melden-neue-raketenstarts-aus-nordkorea-a-f2ca4b18-5051-4e08-a6ad-a06864a507a1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T10:28:00+00:00"
     },
     {
       "titel": "USA: Trump sucht Nähe zu Nordkorea",
@@ -103,46 +145,10 @@
       "veroeffentlicht": "2026-08-20T10:27:33+00:00"
     },
     {
-      "titel": "Hessen: Zwei Jugendliche sterben bei Unfall – 15-Jähriger am Steuer",
-      "link": "https://www.spiegel.de/panorama/hessen-zwei-jugendliche-sterben-bei-unfall-15-jaehriger-am-steuer-a-5d70b4cf-95a5-43fa-b559-7ffab0a3ec93#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T10:23:00+00:00"
-    },
-    {
-      "titel": "Katja Wolf: Thüringer BSW-Chefin distanziert sich weiter von Sahra Wagenknecht",
-      "link": "https://www.spiegel.de/politik/deutschland/katja-wolf-thueringer-bsw-chefin-distanziert-sich-weiter-von-sahra-wagenknecht-a-35716d26-791e-42a0-a5a5-e75d4059a48e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T10:21:00+00:00"
-    },
-    {
-      "titel": "Vier von zehn Erwachsenen schlafen zu wenig",
-      "link": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T10:14:08+00:00"
-    },
-    {
-      "titel": "Nach Waldbrand in Südfrankreich: Wie kann der Wald resilienter werden?",
-      "link": "https://www.tagesschau.de/ausland/europa/nach-waldbrand-frankreich-bordeaux-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T10:10:10+00:00"
-    },
-    {
-      "titel": "NSDAP-Kartei: Das sind die versteckten Mitgliedskarten von Prominenten aus dem Safe",
-      "link": "https://www.spiegel.de/panorama/nsdap-kartei-das-sind-die-versteckten-mitgliedskarten-von-prominenten-aus-dem-safe-a-109e895e-a193-4677-b224-4855cc5345ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T09:56:00+00:00"
-    },
-    {
       "titel": "Digitale Welt: Wie sich soziale Medien regulieren lassen? Schaut auf die Tütensuppe",
       "link": "https://www.sueddeutsche.de/meinung/social-media-meta-sucht-verbot-kommentar-li.3533278",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T09:40:43+00:00"
-    },
-    {
-      "titel": "China bleibt Deutschlands Top-Handelspartner",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-china-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T09:27:37+00:00"
     },
     {
       "titel": "Uli Hoeneß: „Man darf nicht glauben, dass Klopp der Messias ist“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/cum-ex-commerzbank-li.3533972",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T07:30:00+00:00"
-    },
-    {
-      "titel": "Umweltminister Schneider in Tschernobyl: „Das ist eine ernsthafte Gefahr für Deutschland“",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-tschernobyl-umweltminister-schneider-besuch-gefahr-li.3533097",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T07:27:00+00:00"
     }
   ]
 }
