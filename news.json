@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-20T08:57:41+00:00",
+  "aktualisiert": "2026-08-20T09:51:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,106 @@
   },
   "meldungen": [
     {
-      "titel": "Ceuta: Spanien will 500 unbegleitete Minderjährige aufs Festland bringen",
-      "link": "https://www.spiegel.de/ausland/ceuta-spanien-will-500-unbegleitete-minderjaehrige-aufs-festland-bringen-a-3ef426e1-0de8-4f94-9c63-b56c930f0cd3#ref=rss",
+      "titel": "Anschlag auf jüdisches Altenheim in München nach 56 Jahren offenbar aufgeklärt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/anschlag-muenchen-1970-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T09:46:39+00:00"
+    },
+    {
+      "titel": "Hamburg: Neues Zuhause für evakuierte Hausgemeinschaft",
+      "link": "https://www.spiegel.de/panorama/hamburg-neues-zuhause-fuer-evakuierte-hausgemeinschaft-a-033dd962-c9dd-486a-8055-62d647fa1dd8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T08:46:00+00:00"
+      "veroeffentlicht": "2026-08-20T09:44:00+00:00"
+    },
+    {
+      "titel": "Hamburg: Polizei schafft ihre Reiterstaffel Ende 2027 ab",
+      "link": "https://www.spiegel.de/panorama/hamburg-polizei-schafft-ihre-reiterstaffel-ende-2027-ab-a-c1e52cfd-6e2a-4282-8a5c-44f5d7b36cd2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T09:37:00+00:00"
+    },
+    {
+      "titel": "Cum-Ex-Skandal: Staatsanwaltschaft klagt vier Ex-Commerzbanker an",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-skandal-staatsanwaltschaft-klagt-vier-ex-commerzbanker-an-a-296747ce-08f6-4420-a4af-1d32aff0f7d5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T09:37:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Atomkraftwerk Saporischschja verliert letzte externe Stromleitung",
+      "link": "https://www.spiegel.de/ausland/ukraine-atomkraftwerk-saporischschja-verliert-letzte-externe-stromleitung-a-d1fddff9-8a84-4fb2-91af-db057542b76d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T09:33:00+00:00"
+    },
+    {
+      "titel": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
+      "link": "https://www.spiegel.de/international/europe/migration-wie-die-eu-sich-von-warlords-der-haftar-familie-erpressen-laesst-1787217281-a-9d6ea35f-75ce-49e2-95fc-268abe54936b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T09:31:00+00:00"
+    },
+    {
+      "titel": "China bleibt Deutschlands Top-Handelspartner",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-china-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T09:27:37+00:00"
+    },
+    {
+      "titel": "Vermögensungleichheit leicht gesunken - bleibt auf hohem Niveau",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/vermoegensungleichheit-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T09:27:34+00:00"
+    },
+    {
+      "titel": "\"Beispielloser Wirtschaftskrieg\" - was steckt hinter Trumps Drohung?",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T09:26:25+00:00"
+    },
+    {
+      "titel": "Japan: Gleisarbeiter beim Unkrautjäten von Zug überrollt",
+      "link": "https://www.spiegel.de/panorama/japan-gleisarbeiter-beim-unkrautjaeten-von-zug-ueberrollt-a-52aff4b6-074d-4bad-ba4f-6f5544d9c394#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T09:26:00+00:00"
+    },
+    {
+      "titel": "RKI meldet mehr als 14.000 hitzebedingte Todesfälle seit Jahresbeginn",
+      "link": "https://www.tagesschau.de/inland/hitze-todesfaelle-rki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T09:25:24+00:00"
+    },
+    {
+      "titel": "NSDAP-Kartei: Das sind die versteckten Mitgliedskarten von Prominenten aus dem Safe",
+      "link": "https://www.spiegel.de/panorama/nsdap-kartei-das-sind-die-versteckten-mitgliedskarten-von-prominenten-aus-dem-safe-a-109e895e-a193-4677-b224-4855cc5345ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T09:25:00+00:00"
+    },
+    {
+      "titel": "NSDAP-Kartei: Fragen und Antworten zu den Promi-Akten im Safe der Amerikaner",
+      "link": "https://www.spiegel.de/panorama/nsdap-kartei-fragen-und-antworten-zu-den-promi-akten-im-safe-der-amerikaner-a-112b6049-4f17-4166-8266-e84296131418#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T09:22:00+00:00"
+    },
+    {
+      "titel": "Felor Badenberg: Berliner Justizsenatorin bittet Uni nach Plagiatsvorwürfen um Check",
+      "link": "https://www.spiegel.de/panorama/bildung/felor-badenberg-berliner-justizsenatorin-bittet-uni-nach-plagiatsvorwuerfen-um-check-a-281785f4-35ba-48d3-96c0-3a1fa2739eac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T09:18:00+00:00"
+    },
+    {
+      "titel": "Kuriose Bergrettung: Smartwatch meldet falschen Flugzeugabsturz",
+      "link": "https://www.sueddeutsche.de/bayern/oberstdorf-smartwatch-flugzeugabsturz-alarm-wanderer-allgaeu-li.3534184",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T09:07:36+00:00"
+    },
+    {
+      "titel": "Studie warnt vor deutlich mehr Waldbränden in Europa",
+      "link": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T09:01:46+00:00"
     },
     {
       "titel": "Marktbericht: Schwacher DAX-Trend hält an",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T08:40:51+00:00"
-    },
-    {
-      "titel": "Formel 1: Max Verstappen verlängert Red-Bull-Vertrag bis 2030",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verlaengert-red-bull-vertrag-bis-2030-a-d5372503-0527-44ce-859e-f0623a5758e4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T08:36:00+00:00"
-    },
-    {
-      "titel": "Venezuela: Oppositionsführerin María Corina Machado drängt auf baldige Rückkehr",
-      "link": "https://www.spiegel.de/ausland/venezuela-oppositionsfuehrerin-maria-corina-machado-draengt-auf-baldige-rueckkehr-a-c02bbc9b-df5c-4c32-b508-74328fec3a7c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T08:32:00+00:00"
     },
     {
       "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
@@ -43,33 +121,9 @@
       "veroeffentlicht": "2026-08-20T08:10:35+00:00"
     },
     {
-      "titel": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T07:56:22+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Beliebtheitswerte sinken laut ZDF-»Politbarometer« auf neuen Tiefstand",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-beliebtheitswerte-sinken-laut-zdf-politbarometer-auf-neuen-tiefstand-a-615a7255-92ec-4c39-aefb-613147c7d28e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T07:56:00+00:00"
-    },
-    {
-      "titel": "München: Tatverdacht gegen Neonazi Bernd V. nach Brandschlag auf jüdisches Wohnheim 1970 erhärtet",
-      "link": "https://www.spiegel.de/panorama/justiz/muenchen-tatverdacht-gegen-neonazi-bernd-v-nach-brandschlag-auf-juedisches-wohnheim-1970-erhaertet-a-f3aafae8-0ce4-452e-9e7e-543a9d32d6fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T07:39:00+00:00"
-    },
-    {
       "titel": "Wirtschaftskriminalität: Cum-Ex: Anklage gegen frühere Commerzbank-Mitarbeiter",
       "link": "https://www.sueddeutsche.de/wirtschaft/cum-ex-commerzbank-li.3533972",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T07:30:00+00:00"
-    },
-    {
-      "titel": "China: Evergrande-Gründer zu lebenslanger Haft verurteilt",
-      "link": "https://www.spiegel.de/wirtschaft/china-evergrande-gruender-zu-lebenslanger-haft-verurteilt-a-95056f97-d1b2-459c-abe9-4fd7845a001d#ref=rss",
-      "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T07:30:00+00:00"
     },
     {
@@ -79,58 +133,10 @@
       "veroeffentlicht": "2026-08-20T07:27:00+00:00"
     },
     {
-      "titel": "\"Beispielloser Wirtschaftskrieg\" - was steckt hinter Trumps Drohung?",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T07:25:53+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Immer mehr Israelis verlassen das Land",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-krieg-nahost-auswanderer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T07:22:10+00:00"
-    },
-    {
-      "titel": "Tote und Schäden nach heftigen Unwettern in Teilen Deutschland",
-      "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T07:21:07+00:00"
-    },
-    {
       "titel": "USA: US-Staatsschulden überschreiten erstmals Marke von 40 Billionen Dollar",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-staatsschulden-40-billionen-dollar-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T07:18:00+00:00"
-    },
-    {
-      "titel": "Volksbühne in Berlin: Im Volksbad bekam der Hass die größte Bühne",
-      "link": "https://www.spiegel.de/kultur/volksbuehne-in-berlin-im-volksbad-bekam-der-hass-die-groesste-buehne-a-d3a954b9-6d9a-4f6b-992f-eae7a93fb8f6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T07:16:00+00:00"
-    },
-    {
-      "titel": "Ost-West-Debatte: Wie alte Klischees neue Gräben aufreißen",
-      "link": "https://www.spiegel.de/politik/deutschland/ost-west-debatte-wie-alte-klischees-neue-graeben-aufreissen-a-dd02ded3-5391-4f81-a1b7-6d89f919e3d4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T07:15:00+00:00"
-    },
-    {
-      "titel": "Nordkorea: Seoul schätzt nordkoreanisches Arsenal auf bis zu 120 Atomwaffen",
-      "link": "https://www.spiegel.de/ausland/nordkorea-seoul-schaetzt-nordkoreanisches-arsenal-auf-bis-zu-120-atomwaffen-a-e6ed4e46-9835-4abd-9f1e-8acb96050110#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T06:59:00+00:00"
-    },
-    {
-      "titel": "Evergrande-Gründer Xu in China zu lebenslanger Haft verurteilt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/urteil-evergrande-insolvenz-xu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T06:57:14+00:00"
-    },
-    {
-      "titel": "Terrorismusverdacht: Bundesanwaltschaft ermittelt im Fall der \"Com\"-Gruppen",
-      "link": "https://www.tagesschau.de/investigativ/swr/com-gruppen-bundesanwaltschaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T06:45:33+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Massiver russischer Angriff auf Kiew",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-li.3533570",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T17:06:55+00:00"
-    },
-    {
-      "titel": "Wahlkämpfe: Wer die AfD ausgrenzt, hilft ihr. Wer sich selber torpediert, auch",
-      "link": "https://www.sueddeutsche.de/meinung/afd-mitte-deutschland-umgang-wahlkampf-kommentar-li.3532902",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T15:20:42+00:00"
     }
   ]
 }
