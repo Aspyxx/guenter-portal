@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-20T15:17:23+00:00",
+  "aktualisiert": "2026-08-20T16:13:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tote und Schäden nach heftigen Unwettern in Teilen Deutschlands",
+      "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T16:06:40+00:00"
+    },
+    {
+      "titel": "Waldbrand in Belgien nahe der deutschen Grenze unter Kontrolle",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T16:04:55+00:00"
+    },
+    {
+      "titel": "Mehr als 100 Tote bei Einsturz von Goldmine in Zentralafrika",
+      "link": "https://www.tagesschau.de/ausland/afrika/unglueck-goldmine-tote-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T16:02:10+00:00"
+    },
+    {
+      "titel": "Hamburg – Elbphilharmonie: Mehr als 40 Menschen erkrankt",
+      "link": "https://www.spiegel.de/panorama/hamburg-elbphilharmonie-mehr-als-40-menschen-erkrankt-a-a8306872-71fd-46fb-834d-ecde00f22818#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T15:46:00+00:00"
+    },
+    {
+      "titel": "DGB-Ausbildungsreport: Jeder zweite Azubi ist psychisch belastet",
+      "link": "https://www.tagesschau.de/wirtschaft/dgb-ausbildungsreport-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T15:43:10+00:00"
+    },
+    {
+      "titel": "Spende an AfD – CDU prüft Ausschluss von Kommunalpolitiker Bernd Prange",
+      "link": "https://www.spiegel.de/politik/deutschland/spende-an-afd-cdu-prueft-ausschluss-von-kommunalpolitiker-bernd-prange-a-98e52e7c-5d7f-42c8-8bca-034405b44a59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T15:40:00+00:00"
+    },
+    {
+      "titel": "Belgien: Waldbrand laut Behörden weitgehend unter Kontrolle",
+      "link": "https://www.spiegel.de/panorama/belgien-waldbrand-laut-behoerden-weitgehend-unter-kontrolle-a-e1208237-369e-4d0e-baaa-3dde16f57cf7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T15:35:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Nazi-Kartei, Steuerbetrug mit Cum-Ex-Deals, Frauke Brosius-Gersdorf",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-nazi-kartei-steuerbetrug-mit-cum-ex-deals-frauke-brosius-gersdorf-a-f009ffef-b499-47ba-9aa6-76221a14ab7e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T15:29:00+00:00"
+    },
+    {
+      "titel": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T15:19:46+00:00"
+    },
+    {
+      "titel": "ADAC: Unter 20.000 Euro bekommen Sie in Deutschland kaum noch einen Neuwagen",
+      "link": "https://www.spiegel.de/mobilitaet/adac-unter-20-000-euro-bekommen-sie-in-deutschland-kaum-noch-einen-neuwagen-a-db213972-f0e6-45b6-b369-070887d49cc4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T15:18:00+00:00"
+    },
     {
       "titel": "Hitzetote in Deutschland: Warum Experten mehr Prävention fordern",
       "link": "https://www.tagesschau.de/inland/innenpolitik/hitze-gesundheit-bundesregierung-100.html",
@@ -43,12 +103,6 @@
       "veroeffentlicht": "2026-08-20T14:46:00+00:00"
     },
     {
-      "titel": "Kinderärzte: Neue U-Untersuchung für Neun- bis Zehnjährige kommt",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/u10-untersuchung-kinder-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T14:45:23+00:00"
-    },
-    {
       "titel": "Berlin: Hackerangriff bedroht Tausende Wohngeldzahlungen",
       "link": "https://www.spiegel.de/netzwelt/berlin-hackerangriff-bedroht-tausende-wohngeldzahlungen-a-a3b6114c-de59-441d-aa0c-1353194c50ef#ref=rss",
       "quelle": "SPIEGEL",
@@ -61,22 +115,22 @@
       "veroeffentlicht": "2026-08-20T14:28:28+00:00"
     },
     {
+      "titel": "Vorwürfe nach Vorfall wegen Softair-Waffe: Schuss auf 14-Jährigen: Darstellungen zum Polizeieinsatz widersprechen sich",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-polizeieinsatz-schuss-14-jaehriger-familie-vorwuerfe-li.3534189",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T14:13:50+00:00"
+    },
+    {
       "titel": "Finanzmärkte: US-Finanzminister muss Anleihemärkte stützen",
       "link": "https://www.sueddeutsche.de/wirtschaft/us-finanzminister-anleihemaerkte-staatsschulden-li.3534201",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T14:10:46+00:00"
     },
     {
-      "titel": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
-      "link": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T14:08:49+00:00"
-    },
-    {
-      "titel": "Urlaub in Dänemark boomt - vor allem bei Deutschen",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-tourismus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T14:03:48+00:00"
+      "titel": "Korruption in der Ukraine: Operation „Forrest Gump“",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-kiew-korruption-razzia-selenskij-li.3534122",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T14:06:39+00:00"
     },
     {
       "titel": "Rumänischer Kampfjet zerstört offenbar Seedrohne nahe Gasplattform im Schwarzen Meer",
@@ -85,52 +139,10 @@
       "veroeffentlicht": "2026-08-20T14:03:00+00:00"
     },
     {
-      "titel": "Jamal Musiala: Neurologin über Absencen, Epilepsie und die Risiken von Kopfballtraining",
-      "link": "https://www.spiegel.de/gesundheit/jamal-musiala-neurologin-ueber-absencen-epilepsie-und-die-risiken-von-kopfballtraining-a-e859febd-058e-4975-b175-a1010b94f5ed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T13:54:00+00:00"
-    },
-    {
-      "titel": "Robin Williams: Kinder aktivieren Instagram-Kanal des verstorbenen Schauspielers",
-      "link": "https://www.spiegel.de/wirtschaft/robin-williams-kinder-aktivieren-instagram-kanal-des-verstorbenen-schauspielers-a-ecbff783-fc86-4192-9724-73b1dffa01e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T13:51:00+00:00"
-    },
-    {
-      "titel": "Baden-Baden: Katze soll Wasserhahn aufgedreht und setzt Wohnung unter Wasser gesetzt haben",
-      "link": "https://www.spiegel.de/panorama/baden-baden-katze-soll-wasserhahn-aufgedreht-und-setzt-wohnung-unter-wasser-gesetzt-haben-a-1470b5c8-4da1-4a1c-ab67-7ba56d516ca4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T13:41:00+00:00"
-    },
-    {
-      "titel": "»Spaziergang nach Syrakus« mit Charly Hübner: Er entkam der DDR, obwohl er das gar nicht wollte",
-      "link": "https://www.spiegel.de/kultur/spaziergang-nach-syrakus-mit-charly-huebner-er-entkam-der-ddr-obwohl-er-das-gar-nicht-wollte-a-508026b6-2f53-4ee0-85be-551901cdfe57#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T13:37:00+00:00"
-    },
-    {
-      "titel": "Prinz Harry und Meghan Markle kehren nach Großbritannien zurück: Die Megxit-Chronik",
-      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-und-meghan-markle-kehren-nach-grossbritannien-zurueck-die-megxit-chronik-a-1055828c-f72b-4a3a-8bbc-1134eec85828#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T13:30:00+00:00"
-    },
-    {
       "titel": "Umzug von Harry und Meghan: Ist jetzt alles wieder gut?",
       "link": "https://www.sueddeutsche.de/panorama/harry-meghan-markle-royals-umzug-rueckkehr-london-grossbritannien-koenigshaus-li.3534160",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T13:27:47+00:00"
-    },
-    {
-      "titel": "Plagiatsvorwürfe: Berliner Senatorin lässt ihre Doktorarbeit prüfen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/senatorin-badenberg-laesst-doktorarbeit-nach-plagiatsvorwuerfen-pruefen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T12:49:48+00:00"
-    },
-    {
-      "titel": "Forschungserfolg treibt Aktien von Moderna & Co.",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/moderna-merck-impfstoff-hautkrebs-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T12:34:28+00:00"
     },
     {
       "titel": "Migration: So machen die USA arme Länder zu Komplizen einer unmenschlichen Politik",
@@ -139,34 +151,22 @@
       "veroeffentlicht": "2026-08-20T12:24:33+00:00"
     },
     {
+      "titel": "Sommertour: Dobrindts Löscheinsatz im Osten",
+      "link": "https://www.sueddeutsche.de/politik/innenminister-dobrindt-thueringen-feuerwehruebung-sicherheitslage-li.3533281",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T12:23:59+00:00"
+    },
+    {
+      "titel": "Golanhöhen: Syriens verschwundene Kinder",
+      "link": "https://www.sueddeutsche.de/politik/golan-syrien-israel-verschwundene-kinder-li.3519958",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T12:03:17+00:00"
+    },
+    {
       "titel": "Iran-Krieg: Jetzt droht Trump den Mullahs mit einem „Wirtschaftskrieg“",
       "link": "https://www.sueddeutsche.de/politik/usa-iran-trump-konflikt-wirtschaftskrieg-sanktionen-li.3534145",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T11:48:44+00:00"
-    },
-    {
-      "titel": "Fernsehen: Frisch vom Kartoffelacker",
-      "link": "https://www.sueddeutsche.de/medien/muenchen-beats-serie-zdf-techno-li.3524032",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T11:33:21+00:00"
-    },
-    {
-      "titel": "Literatur: Dieser Mann hat es geschafft",
-      "link": "https://www.sueddeutsche.de/kultur/lukas-baerfuss-koenigin-der-nacht-literatur-kritik-li.3510042",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T11:29:57+00:00"
-    },
-    {
-      "titel": "Donald Trump und Afrika: Warum Liberia den USA 1200 Migranten abnehmen will",
-      "link": "https://www.sueddeutsche.de/politik/liberia-abschiebungen-usa-migranten-trump-li.3534124",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T11:23:51+00:00"
-    },
-    {
-      "titel": "Leute: Millionen für den Spinnenmann",
-      "link": "https://www.sueddeutsche.de/panorama/promis-zendaya-tom-holland-spider-man-odyssee-li.3534204",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T11:12:59+00:00"
     }
   ]
 }
