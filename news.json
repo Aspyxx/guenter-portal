@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-20T04:00:54+00:00",
+  "aktualisiert": "2026-08-20T04:55:07+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Natalie Harp und Donald Trump: Das ist seine ergebenste Dienerin",
+      "link": "https://www.spiegel.de/ausland/natalie-harp-und-donald-trump-das-ist-seine-ergebenste-dienerin-a-d87f5fc5-50fa-4456-85a5-f686b9dcb04d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T04:41:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Mindestens drei Tote bei russischem Raketenangriff auf Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kiew-angriff-tote-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T04:39:00+00:00"
+    },
+    {
+      "titel": "Windenergieingenieur über seinen Berufseinstieg: »Gegenwind nehme ich inzwischen sportlich«",
+      "link": "https://www.spiegel.de/start/windenergieingenieur-ueber-seinen-berufseinstieg-gegenwind-nehme-ich-inzwischen-sportlich-a-7eb308c4-d571-41a7-9cf9-c13c6ae41645#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T04:21:00+00:00"
+    },
+    {
+      "titel": "Longevity: So leben Sie lange und gesund – ohne sich allzu sehr anstrengen zu müssen",
+      "link": "https://www.spiegel.de/gesundheit/ernaehrung/longevity-so-leben-sie-lange-und-gesund-ohne-sich-allzu-sehr-anstrengen-zu-muessen-a-65864ad4-b9b0-414a-b3a2-7f761dcab095#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T04:16:00+00:00"
+    },
     {
       "titel": "Bücher: Wofür brauchen wir eigentlich Literaturpreise?",
       "link": "https://www.spiegel.de/kultur/literatur/buecher-wofuer-brauchen-wir-eigentlich-literaturpreise-a-0faefad0-91c3-4edb-a8aa-fa9dbc86a054#ref=rss",
@@ -23,12 +47,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T03:35:37+00:00"
-    },
-    {
-      "titel": "Longevity: So leben Sie lange und gesund – ohne sich allzu sehr anstrengen zu müssen",
-      "link": "https://www.spiegel.de/gesundheit/ernaehrung/longevity-so-leben-sie-lange-und-gesund-ohne-sich-allzu-sehr-anstrengen-zu-muessen-a-65864ad4-b9b0-414a-b3a2-7f761dcab095#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T03:30:00+00:00"
     },
     {
       "titel": "Kaiserschnitt: Was Mütter und Väter zur neuen Leitlinie wissen müssen",
@@ -71,18 +89,6 @@
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T01:30:27+00:00"
-    },
-    {
-      "titel": "Iran: Donald Trump droht Teheran mit »Wirtschaftskrieg«",
-      "link": "https://www.spiegel.de/ausland/iran-donald-trump-droht-teheran-mit-wirtschaftskrieg-a-076c7ccf-0433-4168-9da1-8ad29d0b7d07#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T00:41:00+00:00"
-    },
-    {
-      "titel": "Unwetter in Bayern, Brandenburg und Rheinland-Pfalz: Tornado in Fürstenwalde/Spree",
-      "link": "https://www.spiegel.de/panorama/unwetter-in-bayern-brandenburg-und-rheinland-pfalz-tornado-in-fuerstenwalde-spree-a-9db05ce3-508a-454f-89b3-f6d58a658fe8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T00:23:00+00:00"
     },
     {
       "titel": "Sachsen-Anhalt: CDU-Mann spendet 10 000 Euro an die AfD",
@@ -145,6 +151,12 @@
       "veroeffentlicht": "2026-08-19T16:40:30+00:00"
     },
     {
+      "titel": "Wahlkämpfe: Wer die AfD ausgrenzt, hilft ihr. Wer sich selber torpediert, auch",
+      "link": "https://www.sueddeutsche.de/meinung/afd-mitte-deutschland-umgang-wahlkampf-kommentar-li.3532902",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-19T15:20:42+00:00"
+    },
+    {
       "titel": "Landtagswahl in Sachsen-Anhalt: Gefälschte Webseite der SZ für Desinformation missbraucht",
       "link": "https://www.sueddeutsche.de/medien/desinformation-fake-news-sachsen-anhalt-russland-wahlen-sz-li.3526779",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/kanzler-merz-urlaub-krise-li.3533785",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T15:07:43+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Dobrindt zu Leipzig: Russland macht Verdacht leicht, aber Beweisführung schwer",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-dobrindt-leipzig-anschlag-russland-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T14:59:32+00:00"
-    },
-    {
-      "titel": "Stadtsanierung in München: Wie Haidhausen sich vom Glasscherbenviertel zum hippen Stadtteil wandelte",
-      "link": "https://www.sueddeutsche.de/muenchen/stadtsanierung-haidhausen-muenchen-gentrifizierung-li.3529301",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T14:35:29+00:00"
     }
   ]
 }
