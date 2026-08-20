@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-20T20:47:57+00:00",
+  "aktualisiert": "2026-08-20T21:44:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Spende an AfD – CDU prüft Ausschluss von Kommunalpolitiker Bernd Prange",
+      "link": "https://www.spiegel.de/politik/deutschland/spende-an-afd-cdu-prueft-ausschluss-von-kommunalpolitiker-bernd-prange-a-98e52e7c-5d7f-42c8-8bca-034405b44a59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T21:08:00+00:00"
+    },
     {
       "titel": "Hürtgenwald: Größter Waldbrand in NRW-Geschichte vollständig gelöscht",
       "link": "https://www.spiegel.de/panorama/huertgenwald-groesster-waldbrand-in-nrw-geschichte-vollstaendig-geloescht-a-26b2b1fc-1c84-4166-ae9a-d1ffa840f21a#ref=rss",
@@ -83,12 +89,6 @@
       "link": "https://www.tagesschau.de/kultur/ballett-staatstheater-saarbruecken-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T18:21:48+00:00"
-    },
-    {
-      "titel": "Saïd El Mala – 1. FC Köln: Umworbenes Supertalent verlängert überraschend",
-      "link": "https://www.spiegel.de/sport/fussball/said-el-mala-1-fc-koeln-umworbenes-supertalent-verlaengert-ueberraschend-a-7239494c-7f40-456d-a8e3-9b5305fce3b5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T18:12:00+00:00"
     },
     {
       "titel": "Nordrhein-Westfalen: Waldbrand in Hürtgenwald bei Aachen endgültig gelöscht",
