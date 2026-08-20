@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-20T01:52:49+00:00",
+  "aktualisiert": "2026-08-20T03:11:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T03:08:49+00:00"
+    },
+    {
+      "titel": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T03:05:04+00:00"
+    },
+    {
+      "titel": "Ernährungssicherheit: Wie sinnvoll sind die Maßnahmen der Politik?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T03:04:50+00:00"
+    },
+    {
+      "titel": "USA: Donald Trump feiert neuen Hubschrauberlandeplatz am Weißen Haus",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-feiert-neuen-hubschrauberlandeplatz-am-weissen-haus-a-624f3e3a-20e1-47f7-b0c1-8487e81556b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T03:02:00+00:00"
+    },
+    {
+      "titel": "Sandra Bullock: Schauspielerin spricht erstmals über Tod ihres Partners Bryan Randall",
+      "link": "https://www.spiegel.de/panorama/sandra-bullock-schauspielerin-spricht-erstmals-ueber-tod-ihres-partners-bryan-randall-a-9ca5223a-54e6-45ec-8129-cb4abd666ede#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T02:58:00+00:00"
+    },
     {
       "titel": "USA: Staatsverschuldung springt erstmals über 40 Billionen US-Dollar",
       "link": "https://www.spiegel.de/wirtschaft/usa-staatsverschuldung-springt-erstmals-ueber-40-billionen-us-dollar-a-d0e8ff8b-8e8e-47aa-81cd-8a14aef423f1#ref=rss",
@@ -61,12 +91,6 @@
       "veroeffentlicht": "2026-08-19T19:35:00+00:00"
     },
     {
-      "titel": "Céline Dion bereitet sich mit Pilates und Ballett auf Bühnen-Comeback vor",
-      "link": "https://www.spiegel.de/panorama/leute/celine-dion-bereitet-sich-mit-pilates-und-ballett-auf-buehnen-comeback-vor-a-808771d5-5c22-424c-8190-9c7c9a42a9b9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T19:35:00+00:00"
-    },
-    {
       "titel": "USA: Trump will sich dieses Jahr noch mit Kim treffen",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kim-treffen-li.3530667",
       "quelle": "Süddeutsche",
@@ -89,12 +113,6 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-jamal-musiala-zusammenbrueche-li.3534011",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T18:27:22+00:00"
-    },
-    {
-      "titel": "Frauenleiche in Wald entdeckt: Verdächtiger stellt sich der Polizei",
-      "link": "https://www.spiegel.de/panorama/frauenleiche-in-wald-entdeckt-verdaechtiger-stellt-sich-der-polizei-a-7f3fd43e-0f12-4d14-a76a-987bbe4e7146#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-19T18:27:00+00:00"
     },
     {
       "titel": "Cyberattacke in Berlin: „Der Angriff auf unser Landesnetz war ernst“",
@@ -127,18 +145,6 @@
       "veroeffentlicht": "2026-08-19T16:40:30+00:00"
     },
     {
-      "titel": "Erkrankung des Bayern-Profis: Was steckt hinter Musialas Zusammenbrüchen?",
-      "link": "https://www.tagesschau.de/wissen/absencen-epilepsie-wissenschaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T15:58:21+00:00"
-    },
-    {
-      "titel": "Sieben weitere Gesundheitszonen in der DR Kongo von Ebola betroffen",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-neue-regionen-update-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T15:16:24+00:00"
-    },
-    {
       "titel": "Landtagswahl in Sachsen-Anhalt: Gefälschte Webseite der SZ für Desinformation missbraucht",
       "link": "https://www.sueddeutsche.de/medien/desinformation-fake-news-sachsen-anhalt-russland-wahlen-sz-li.3526779",
       "quelle": "Süddeutsche",
@@ -149,12 +155,6 @@
       "link": "https://www.sueddeutsche.de/politik/kanzler-merz-urlaub-krise-li.3533785",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-19T15:07:43+00:00"
-    },
-    {
-      "titel": "UV-Strahlung hat in Europa deutlich zugenommen",
-      "link": "https://www.tagesschau.de/wissen/klima/uv-strahlung-europa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T15:04:19+00:00"
     },
     {
       "titel": "Bundespolitik: Dobrindt zu Leipzig: Russland macht Verdacht leicht, aber Beweisführung schwer",
