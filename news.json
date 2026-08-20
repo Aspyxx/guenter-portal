@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-20T11:44:21+00:00",
+  "aktualisiert": "2026-08-20T12:16:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nord-Stream-Pipelines: Ein Anschlag mit politischer Sprengkraft?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nord-stream-festnahme-politik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T12:14:11+00:00"
+    },
+    {
+      "titel": "Kampfjet schießt in Rumänien mit Sprengstoff versehene Drohne ab",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-abschuss-drohne-sprengstoff-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T12:10:48+00:00"
+    },
+    {
+      "titel": "Ausbildung: In diesen Berufen sind Azubis am zufriedensten",
+      "link": "https://www.spiegel.de/start/ausbildung-in-diesen-berufen-sind-azubis-am-zufriedensten-a-7be812f6-f675-4b7c-a15c-96baa6f22914#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T12:02:00+00:00"
+    },
+    {
+      "titel": "Razzia in Bremer Gefängnis - Beschäftigte bestechlich?",
+      "link": "https://www.tagesschau.de/inland/regional/bremen/bremen-jva-ermittlungen-bestechlichkeit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T12:01:34+00:00"
+    },
+    {
+      "titel": "Frauke Brosius-Gersdorf ein Jahr nach der gescheiterten Richterwahl: »Es ging wohl auch darum, einen Keil in die Regierung zu treiben«",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/frauke-brosius-gersdorf-ein-jahr-nach-der-gescheiterten-richterwahl-es-ging-wohl-auch-darum-einen-keil-in-die-regierung-zu-treiben-a-7bbe19e6-bebe-43a2-8e8c-170f63e00303#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T11:59:00+00:00"
+    },
+    {
+      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T11:57:49+00:00"
+    },
+    {
+      "titel": "Literatur: Dieser Mann hat es geschafft",
+      "link": "https://www.sueddeutsche.de/kultur/lukas-baerfuss-koenigin-der-nacht-literatur-kritik-li.3510042",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T11:29:57+00:00"
+    },
     {
       "titel": "Marode Infrastruktur: Sondervermögen erreicht Planungsbüros bislang nicht",
       "link": "https://www.spiegel.de/wirtschaft/marode-infrastruktur-sondervermoegen-erreicht-planungsbueros-bislang-nicht-a-9ca9167d-1f9e-402f-82a7-e42abdbe5ded#ref=rss",
@@ -17,6 +59,12 @@
       "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-das-will-die-partei-laut-wahlprogramm-an-schulen-veraendern-a-5af2a5a3-2c1e-4c12-950f-5454dcece1e0#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T11:21:00+00:00"
+    },
+    {
+      "titel": "Leute: Millionen für den Spinnenmann",
+      "link": "https://www.sueddeutsche.de/panorama/promis-zendaya-tom-holland-spider-man-odyssee-li.3534204",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T11:12:59+00:00"
     },
     {
       "titel": "Anschlag auf jüdisches Altenheim in München nach 56 Jahren offenbar aufgeklärt",
@@ -85,40 +133,16 @@
       "veroeffentlicht": "2026-08-20T09:56:00+00:00"
     },
     {
-      "titel": "Hamburg: Neues Zuhause für evakuierte Hausgemeinschaft",
-      "link": "https://www.spiegel.de/panorama/hamburg-neues-zuhause-fuer-evakuierte-hausgemeinschaft-a-033dd962-c9dd-486a-8055-62d647fa1dd8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T09:44:00+00:00"
-    },
-    {
-      "titel": "Cum-Ex-Skandal: Staatsanwaltschaft klagt vier Ex-Commerzbanker an",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-skandal-staatsanwaltschaft-klagt-vier-ex-commerzbanker-an-a-296747ce-08f6-4420-a4af-1d32aff0f7d5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T09:37:00+00:00"
+      "titel": "Digitale Welt: Wie sich soziale Medien regulieren lassen? Schaut auf die Tütensuppe",
+      "link": "https://www.sueddeutsche.de/meinung/social-media-meta-sucht-verbot-kommentar-li.3533278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T09:40:43+00:00"
     },
     {
       "titel": "China bleibt Deutschlands Top-Handelspartner",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-china-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T09:27:37+00:00"
-    },
-    {
-      "titel": "Vermögensungleichheit leicht gesunken - bleibt auf hohem Niveau",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/vermoegensungleichheit-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T09:27:34+00:00"
-    },
-    {
-      "titel": "\"Beispielloser Wirtschaftskrieg\" - was steckt hinter Trumps Drohung?",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T09:26:25+00:00"
-    },
-    {
-      "titel": "RKI meldet mehr als 14.000 hitzebedingte Todesfälle seit Jahresbeginn",
-      "link": "https://www.tagesschau.de/inland/hitze-todesfaelle-rki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T09:25:24+00:00"
     },
     {
       "titel": "Uli Hoeneß: „Man darf nicht glauben, dass Klopp der Messias ist“",
@@ -133,12 +157,6 @@
       "veroeffentlicht": "2026-08-20T09:07:36+00:00"
     },
     {
-      "titel": "Studie warnt vor deutlich mehr Waldbränden in Europa",
-      "link": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T09:01:46+00:00"
-    },
-    {
       "titel": "Wirtschaftskriminalität: Cum-Ex: Anklage gegen frühere Commerzbank-Mitarbeiter",
       "link": "https://www.sueddeutsche.de/wirtschaft/cum-ex-commerzbank-li.3533972",
       "quelle": "Süddeutsche",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-tschernobyl-umweltminister-schneider-besuch-gefahr-li.3533097",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T07:27:00+00:00"
-    },
-    {
-      "titel": "USA: US-Staatsschulden überschreiten erstmals Marke von 40 Billionen Dollar",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-staatsschulden-40-billionen-dollar-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T07:18:00+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Trump droht Iran mit „Wirtschaftskrieg“",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T01:30:27+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: CDU-Mann spendet 10 000 Euro an die AfD",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-buergermeister-bernd-prange-afd-spende-li.3534018",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-19T20:45:13+00:00"
     }
   ]
 }
