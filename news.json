@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-20T07:58:06+00:00",
+  "aktualisiert": "2026-08-20T08:57:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ceuta: Spanien will 500 unbegleitete Minderjährige aufs Festland bringen",
+      "link": "https://www.spiegel.de/ausland/ceuta-spanien-will-500-unbegleitete-minderjaehrige-aufs-festland-bringen-a-3ef426e1-0de8-4f94-9c63-b56c930f0cd3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T08:46:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Schwacher DAX-Trend hält an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T08:40:51+00:00"
+    },
+    {
+      "titel": "Formel 1: Max Verstappen verlängert Red-Bull-Vertrag bis 2030",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verlaengert-red-bull-vertrag-bis-2030-a-d5372503-0527-44ce-859e-f0623a5758e4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T08:36:00+00:00"
+    },
+    {
+      "titel": "Venezuela: Oppositionsführerin María Corina Machado drängt auf baldige Rückkehr",
+      "link": "https://www.spiegel.de/ausland/venezuela-oppositionsfuehrerin-maria-corina-machado-draengt-auf-baldige-rueckkehr-a-c02bbc9b-df5c-4c32-b508-74328fec3a7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T08:32:00+00:00"
+    },
+    {
+      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T08:22:40+00:00"
+    },
+    {
+      "titel": "Hoffnung auf Impfstoff gegen schwarzen Hautkrebs",
+      "link": "https://www.tagesschau.de/ausland/amerika/medizin-hautkrebs-studi-impfstoff-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T08:10:35+00:00"
+    },
+    {
+      "titel": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T07:56:22+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Beliebtheitswerte sinken laut ZDF-»Politbarometer« auf neuen Tiefstand",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-beliebtheitswerte-sinken-laut-zdf-politbarometer-auf-neuen-tiefstand-a-615a7255-92ec-4c39-aefb-613147c7d28e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T07:56:00+00:00"
+    },
     {
       "titel": "München: Tatverdacht gegen Neonazi Bernd V. nach Brandschlag auf jüdisches Wohnheim 1970 erhärtet",
       "link": "https://www.spiegel.de/panorama/justiz/muenchen-tatverdacht-gegen-neonazi-bernd-v-nach-brandschlag-auf-juedisches-wohnheim-1970-erhaertet-a-f3aafae8-0ce4-452e-9e7e-543a9d32d6fd#ref=rss",
@@ -67,12 +115,6 @@
       "veroeffentlicht": "2026-08-20T07:15:00+00:00"
     },
     {
-      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T07:03:37+00:00"
-    },
-    {
       "titel": "Nordkorea: Seoul schätzt nordkoreanisches Arsenal auf bis zu 120 Atomwaffen",
       "link": "https://www.spiegel.de/ausland/nordkorea-seoul-schaetzt-nordkoreanisches-arsenal-auf-bis-zu-120-atomwaffen-a-e6ed4e46-9835-4abd-9f1e-8acb96050110#ref=rss",
       "quelle": "SPIEGEL",
@@ -85,52 +127,10 @@
       "veroeffentlicht": "2026-08-20T06:57:14+00:00"
     },
     {
-      "titel": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T06:56:39+00:00"
-    },
-    {
       "titel": "Terrorismusverdacht: Bundesanwaltschaft ermittelt im Fall der \"Com\"-Gruppen",
       "link": "https://www.tagesschau.de/investigativ/swr/com-gruppen-bundesanwaltschaft-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T06:45:33+00:00"
-    },
-    {
-      "titel": "Syrien: Nach Angriff auf Militärflugplatz – Netanyahu spricht von »Warnung« an die Türkei",
-      "link": "https://www.spiegel.de/ausland/syrien-nach-angriff-auf-militaerflugplatz-netanyahu-spricht-von-warnung-an-die-tuerkei-a-73456297-187d-4f06-a481-fac736c65882#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T06:45:00+00:00"
-    },
-    {
-      "titel": "Prinz Harry und Meghan: »Harry kommt nach Hause« – britische Pressestimmen",
-      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-und-meghan-harry-kommt-nach-hause-britische-pressestimmen-a-7b975b54-6c1e-4df3-b5f4-f46d7f8d256e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T06:15:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Steigende Zinserwartungen machen Anlegern Sorgen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T05:47:37+00:00"
-    },
-    {
-      "titel": "Gewitter in Deutschland: Heftige Unwetter mit Starkregen – eine Tote",
-      "link": "https://www.spiegel.de/panorama/gewitter-in-deutschland-heftige-unwetter-mit-starkregen-eine-tote-a-dfccd6d4-53b3-4066-8970-05795212ed43#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T05:33:00+00:00"
-    },
-    {
-      "titel": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/harry-meghan-rueckkehr-grossbritannien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T05:27:15+00:00"
-    },
-    {
-      "titel": "Versuchter Anschlag am Leipziger Flughafen: Grüne fordern Drohnen-Gipfel im Kanzleramt",
-      "link": "https://www.spiegel.de/politik/deutschland/versuchter-anschlag-am-leipziger-flughafen-gruene-fordern-drohnen-gipfel-im-kanzleramt-a-224357b2-4664-4365-944d-e411ca2b75d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T05:23:00+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Massiver russischer Angriff auf Kiew",
