@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-20T12:19:49+00:00",
+  "aktualisiert": "2026-08-20T13:23:42+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "China bleibt Deutschlands Top-Handelspartner",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-china-100.html",
+      "titel": "Rumänien",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-abschuss-drohne-sprengstoff-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Ein Anschlag mit politischer Sprengkraft?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nord-stream-festnahme-politik-100.html",
+      "titel": "Politik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Studie warnt vor deutlich mehr Waldbränden in Europa",
-      "link": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
+      "titel": "China bleibt Deutschlands Top-Handelspartner",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-china-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔥"
+      "icon": "🔎"
     }
   ]
 }
