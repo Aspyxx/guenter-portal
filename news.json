@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-20T22:10:16+00:00",
+  "aktualisiert": "2026-08-20T22:46:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mexiko: Fischer überleben fünf Tage in Kühlbox auf dem Meer",
+      "link": "https://www.spiegel.de/panorama/mexiko-fischer-ueberleben-fuenf-tage-in-kuehlbox-auf-dem-meer-a-ea884fc5-e4bc-4ef1-8df1-140d7e1aa67a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T22:42:00+00:00"
+    },
     {
       "titel": "Spende an AfD – CDU prüft Ausschluss von Kommunalpolitiker Bernd Prange",
       "link": "https://www.spiegel.de/politik/deutschland/spende-an-afd-cdu-prueft-ausschluss-von-kommunalpolitiker-bernd-prange-a-98e52e7c-5d7f-42c8-8bca-034405b44a59#ref=rss",
@@ -77,12 +83,6 @@
       "link": "https://www.sueddeutsche.de/kultur/irina-scherbakowa-russland-tage-des-exils-li.3532894",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T18:30:50+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Kaufen und vernichten KI-Firmen massenhaft seltene Bücher?",
-      "link": "https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-kaufen-und-vernichten-ki-firmen-massenhaft-seltene-buecher-a-ea793a1f-77d9-4b47-bc01-abd04da70bcf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T18:28:00+00:00"
     },
     {
       "titel": "Ballett: Tanzen unter Druck an deutschen Theatern",
