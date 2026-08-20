@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-20T14:21:03+00:00",
+  "aktualisiert": "2026-08-20T15:17:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hitzetote in Deutschland: Warum Experten mehr Prävention fordern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hitze-gesundheit-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T15:12:43+00:00"
+    },
+    {
+      "titel": "DR Kongo bekommt 70.000 Impfdosen gegen Ebola und hofft auf Wirksamkeit",
+      "link": "https://www.tagesschau.de/ausland/afrika/ervebo-impfstoff-ebola-kongo-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T15:12:08+00:00"
+    },
+    {
+      "titel": "Kurs der Bundesregierung: \"Klimapolitik von der Kür zur Pflicht machen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klimapolitik-bundesregierung-partzsch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T15:11:19+00:00"
+    },
+    {
+      "titel": "Ungarns öffentlich-rechtliches Fernsehen sendet wieder Nachrichten",
+      "link": "https://www.tagesschau.de/ausland/ungarn-oerr-nachrichten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T15:08:15+00:00"
+    },
+    {
+      "titel": "»How I Met Your Mother«: Josh Radnor und Kollegen sind keine Freunde fürs Leben",
+      "link": "https://www.spiegel.de/kultur/tv/how-i-met-your-mother-josh-radnor-und-kollegen-sind-keine-freunde-fuers-leben-a-82b3d747-3cf6-4a42-99df-049416c0bb31#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T14:56:00+00:00"
+    },
+    {
+      "titel": "Schlafdruck: Studie an Mäusen zeigt, wie das Gehirn Müdigkeit steuert",
+      "link": "https://www.spiegel.de/wissenschaft/schlafdruck-studie-an-maeusen-zeigt-wie-das-gehirn-muedigkeit-steuert-a-d277aecd-2a91-4532-9955-da06af6c939b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T14:46:00+00:00"
+    },
+    {
+      "titel": "Kinderärzte: Neue U-Untersuchung für Neun- bis Zehnjährige kommt",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/u10-untersuchung-kinder-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T14:45:23+00:00"
+    },
+    {
+      "titel": "Berlin: Hackerangriff bedroht Tausende Wohngeldzahlungen",
+      "link": "https://www.spiegel.de/netzwelt/berlin-hackerangriff-bedroht-tausende-wohngeldzahlungen-a-a3b6114c-de59-441d-aa0c-1353194c50ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T14:38:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Knobloch: „Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-knobloch-afd-sachsen-anhalt-juden-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T14:28:28+00:00"
+    },
+    {
+      "titel": "Finanzmärkte: US-Finanzminister muss Anleihemärkte stützen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/us-finanzminister-anleihemaerkte-staatsschulden-li.3534201",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T14:10:46+00:00"
+    },
     {
       "titel": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
       "link": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
@@ -61,28 +121,10 @@
       "veroeffentlicht": "2026-08-20T13:27:47+00:00"
     },
     {
-      "titel": "Harry und Meghan zurück in England: Comeback der royalen Rebellen",
-      "link": "https://www.spiegel.de/ausland/harry-und-meghan-zurueck-in-england-comeback-der-royalen-rebellen-a-e095d5ed-6bfb-437a-941b-8866df995ad1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T13:26:00+00:00"
-    },
-    {
-      "titel": "Kinderarztbesuch: Neue Untersuchung für Kinder – welcher Anspruch bald gilt",
-      "link": "https://www.spiegel.de/wissenschaft/kinderarztbesuch-neue-untersuchung-fuer-kinder-welcher-anspruch-bald-gilt-a-b97422d3-c3ad-4917-b678-80a512d8ceae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T13:25:00+00:00"
-    },
-    {
       "titel": "Plagiatsvorwürfe: Berliner Senatorin lässt ihre Doktorarbeit prüfen",
       "link": "https://www.tagesschau.de/inland/regional/berlin/senatorin-badenberg-laesst-doktorarbeit-nach-plagiatsvorwuerfen-pruefen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T12:49:48+00:00"
-    },
-    {
-      "titel": "China: Roboter-»Polizist« T2 zieht Helmsünder in Hangzhou aus dem Verkehr",
-      "link": "https://www.spiegel.de/mobilitaet/t2-in-hangzhou-dieser-polizist-zieht-helmsuender-aus-dem-verkehr-a-ed6c7b9f-4263-481c-ad7d-890d6ba149c9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T12:37:00+00:00"
     },
     {
       "titel": "Forschungserfolg treibt Aktien von Moderna & Co.",
@@ -91,28 +133,10 @@
       "veroeffentlicht": "2026-08-20T12:34:28+00:00"
     },
     {
-      "titel": "Medizinischer Dienst: Mehr Todesfälle durch Behandlungsfehler",
-      "link": "https://www.tagesschau.de/inland/statistik-behandlungsfehler-patienten-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T12:22:24+00:00"
-    },
-    {
-      "titel": "Nord-Stream-Pipelines: Ein Anschlag mit politischer Sprengkraft?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nord-stream-festnahme-politik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T12:14:11+00:00"
-    },
-    {
-      "titel": "Kampfjet schießt in Rumänien mit Sprengstoff versehene Drohne ab",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-abschuss-drohne-sprengstoff-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T12:10:48+00:00"
-    },
-    {
-      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T11:57:49+00:00"
+      "titel": "Migration: So machen die USA arme Länder zu Komplizen einer unmenschlichen Politik",
+      "link": "https://www.sueddeutsche.de/meinung/usa-abschiebungen-liberia-trump-kommentar-li.3534147",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T12:24:33+00:00"
     },
     {
       "titel": "Iran-Krieg: Jetzt droht Trump den Mullahs mit einem „Wirtschaftskrieg“",
@@ -139,34 +163,10 @@
       "veroeffentlicht": "2026-08-20T11:23:51+00:00"
     },
     {
-      "titel": "Razzia in Bremer Gefängnis - Beschäftigte bestechlich?",
-      "link": "https://www.tagesschau.de/inland/regional/bremen/bremen-jva-ermittlungen-bestechlichkeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T11:13:00+00:00"
-    },
-    {
       "titel": "Leute: Millionen für den Spinnenmann",
       "link": "https://www.sueddeutsche.de/panorama/promis-zendaya-tom-holland-spider-man-odyssee-li.3534204",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T11:12:59+00:00"
-    },
-    {
-      "titel": "Debatte: Wo bleibt der runde Tisch?",
-      "link": "https://www.sueddeutsche.de/kultur/afd-trump-putin-demokratie-klimakrise-edgar-selge-li.3533592",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T10:59:06+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Massiver russischer Angriff auf Kiew",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kiew-angriff-tote-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T10:30:00+00:00"
-    },
-    {
-      "titel": "USA: Trump sucht Nähe zu Nordkorea",
-      "link": "https://www.sueddeutsche.de/politik/trump-kim-jong-un-atomwaffen-li.3534127",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T10:27:33+00:00"
     }
   ]
 }
