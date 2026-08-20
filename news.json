@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-20T04:55:07+00:00",
+  "aktualisiert": "2026-08-20T05:48:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,46 @@
   },
   "meldungen": [
     {
+      "titel": "Gewitter in Deutschland: Heftige Unwetter mit Starkregen – eine Tote",
+      "link": "https://www.spiegel.de/panorama/gewitter-in-deutschland-heftige-unwetter-mit-starkregen-eine-tote-a-dfccd6d4-53b3-4066-8970-05795212ed43#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T05:33:00+00:00"
+    },
+    {
+      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T05:31:24+00:00"
+    },
+    {
+      "titel": "Prinz Harry und Meghan kehren wohl nach Großbritannien zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/harry-meghan-rueckkehr-grossbritannien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T05:27:15+00:00"
+    },
+    {
+      "titel": "Versuchter Anschlag am Leipziger Flughafen: Grüne fordern Drohnen-Gipfel im Kanzleramt",
+      "link": "https://www.spiegel.de/politik/deutschland/versuchter-anschlag-am-leipziger-flughafen-gruene-fordern-drohnen-gipfel-im-kanzleramt-a-224357b2-4664-4365-944d-e411ca2b75d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T05:23:00+00:00"
+    },
+    {
+      "titel": "Gaspreis: Verbraucherschützer warnen vor Anstieg wegen niedriger Speicherstände",
+      "link": "https://www.spiegel.de/wirtschaft/service/gaspreis-verbraucherschuetzer-warnen-vor-anstieg-wegen-niedriger-speicherstaende-a-e4d7ec2a-a31c-447d-a96e-7c17ab4787dd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T05:16:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Massiver russischer Angriff auf Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kiew-angriff-tote-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T05:04:06+00:00"
+    },
+    {
       "titel": "Natalie Harp und Donald Trump: Das ist seine ergebenste Dienerin",
       "link": "https://www.spiegel.de/ausland/natalie-harp-und-donald-trump-das-ist-seine-ergebenste-dienerin-a-d87f5fc5-50fa-4456-85a5-f686b9dcb04d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-20T04:41:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Mindestens drei Tote bei russischem Raketenangriff auf Kiew",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kiew-angriff-tote-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T04:39:00+00:00"
     },
     {
       "titel": "Windenergieingenieur über seinen Berufseinstieg: »Gegenwind nehme ich inzwischen sportlich«",
@@ -43,12 +73,6 @@
       "veroeffentlicht": "2026-08-20T03:45:00+00:00"
     },
     {
-      "titel": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T03:35:37+00:00"
-    },
-    {
       "titel": "Kaiserschnitt: Was Mütter und Väter zur neuen Leitlinie wissen müssen",
       "link": "https://www.spiegel.de/gesundheit/kaiserschnitt-was-muetter-und-vaeter-zur-neuen-leitlinie-wissen-muessen-a-407d7b10-ff68-4f8c-bd60-ab7430443086#ref=rss",
       "quelle": "SPIEGEL",
@@ -65,24 +89,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T03:04:50+00:00"
-    },
-    {
-      "titel": "USA: Donald Trump feiert neuen Hubschrauberlandeplatz am Weißen Haus",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-feiert-neuen-hubschrauberlandeplatz-am-weissen-haus-a-624f3e3a-20e1-47f7-b0c1-8487e81556b1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T03:02:00+00:00"
-    },
-    {
-      "titel": "Sandra Bullock: Schauspielerin spricht erstmals über Tod ihres Partners Bryan Randall",
-      "link": "https://www.spiegel.de/panorama/sandra-bullock-schauspielerin-spricht-erstmals-ueber-tod-ihres-partners-bryan-randall-a-9ca5223a-54e6-45ec-8129-cb4abd666ede#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T02:58:00+00:00"
-    },
-    {
-      "titel": "USA: Staatsverschuldung springt erstmals über 40 Billionen US-Dollar",
-      "link": "https://www.spiegel.de/wirtschaft/usa-staatsverschuldung-springt-erstmals-ueber-40-billionen-us-dollar-a-d0e8ff8b-8e8e-47aa-81cd-8a14aef423f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T01:31:00+00:00"
     },
     {
       "titel": "Krieg in Nahost: Trump droht Iran mit „Wirtschaftskrieg“",
@@ -143,12 +149,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-19T16:41:47+00:00"
-    },
-    {
-      "titel": "Arbeiterwohlfahrt will Bündelung von Sozialleistungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-19T16:40:30+00:00"
     },
     {
       "titel": "Wahlkämpfe: Wer die AfD ausgrenzt, hilft ihr. Wer sich selber torpediert, auch",
