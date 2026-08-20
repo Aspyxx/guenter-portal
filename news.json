@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-20T19:01:21+00:00",
+  "aktualisiert": "2026-08-20T19:46:50+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
+      "link": "https://www.tagesschau.de/kommentar/ceuta-migranten-kommentar-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T19:43:06+00:00"
+    },
+    {
+      "titel": "Itamar Ben-Gvir: Warum die Empörung über Israels Minister scheinheilig ist – Meinung",
+      "link": "https://www.spiegel.de/ausland/itamar-ben-gvir-warum-die-empoerung-ueber-israels-minister-scheinheilig-ist-meinung-a-071cc345-6205-44fe-b1be-cfe932b8cf6c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T19:35:00+00:00"
+    },
+    {
+      "titel": "Jason Arday: Suspendierung von Plagiatskritiker Cofnas nach Rassismus-Debatte",
+      "link": "https://www.spiegel.de/ausland/jason-arday-suspendierung-von-plagiatskritiker-cofnas-nach-rassismus-debatte-a-acb3a4c5-ef36-4f5d-a4a9-0e28990460b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T19:20:00+00:00"
+    },
+    {
+      "titel": "Braunschweig – Ismaning: Schüsse und verletzte Polizisten bei Verkehrskontrollen",
+      "link": "https://www.spiegel.de/panorama/justiz/braunschweig-ismaning-schuesse-und-verletzte-polizisten-bei-verkehrskontrollen-a-954ad6fb-447b-4979-8f5a-7f84197c275c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T19:11:00+00:00"
+    },
     {
       "titel": "Bauhaus – Sachsen-Anhalt: »Bauhaus-Manifest« – Institutionen erinnern an Anfeindungen durch das Naziregime",
       "link": "https://www.spiegel.de/kultur/bauhaus-sachsen-anhalt-bauhaus-manifest-institutionen-erinnern-an-anfeindungen-durch-das-naziregime-a-b6ec2b91-8ff5-45bb-8347-9f13e31ec7a7#ref=rss",
@@ -67,12 +91,6 @@
       "veroeffentlicht": "2026-08-20T17:46:00+00:00"
     },
     {
-      "titel": "Israel – Westjordanland: Deutschland, Frankreich, Großbritannien und Italien verurteilen »E1«-Pläne",
-      "link": "https://www.spiegel.de/politik/deutschland/israel-westjordanland-deutschland-frankreich-grossbritannien-und-italien-verurteilen-e1-plaene-a-36bd066b-9780-44e6-8b48-ac8371ed93ff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T17:36:00+00:00"
-    },
-    {
       "titel": "Nordrhein-Westfalen: Waldbrand in Hürtgenwald bei Aachen endgültig gelöscht",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-huertgenwald-110.html",
       "quelle": "Tagesschau",
@@ -85,22 +103,10 @@
       "veroeffentlicht": "2026-08-20T17:28:42+00:00"
     },
     {
-      "titel": "AfD und der Fall Arno Bausemer: Gewalt ist in der AfD jetzt salonfähig",
-      "link": "https://www.spiegel.de/politik/deutschland/rechtsextremismus-gewalt-ist-in-der-afd-jetzt-salonfaehig-a-9cac9f94-2a94-4e99-b8ea-3b2eb42e7328#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T17:26:00+00:00"
-    },
-    {
       "titel": "Elternkolumne „Die Erziehungsberechtigten“: So viel Zeit!",
       "link": "https://www.sueddeutsche.de/leben/eltern-sturmfrei-freie-zeit-sehnsucht-li.3530051",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T17:23:38+00:00"
-    },
-    {
-      "titel": "Kabarettist Uwe Steimle unterschreibt Unterlassung nach Stauffenberg-Aussage",
-      "link": "https://www.spiegel.de/politik/deutschland/kabarettist-uwe-steimle-unterschreibt-unterlassung-nach-stauffenberg-aussage-a-3fa3e850-650b-4db4-a010-0b558ee6ca2b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T17:06:00+00:00"
     },
     {
       "titel": "Marktbericht: DAX-Schwäche hält an",
@@ -119,12 +125,6 @@
       "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T16:06:40+00:00"
-    },
-    {
-      "titel": "Waldbrand in Belgien nahe der deutschen Grenze unter Kontrolle",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T16:04:55+00:00"
     },
     {
       "titel": "Bundespolitik: Knobloch: „Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern“",
