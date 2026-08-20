@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-20T16:13:20+00:00",
+  "aktualisiert": "2026-08-20T16:54:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "West-Nil-Virus: 157 Fälle in Griechenland gemeldet",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-infektionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-20T16:49:58+00:00"
+    },
+    {
+      "titel": "New York: ICE nimmt Fahrer von gekentertem Boot fest",
+      "link": "https://www.spiegel.de/panorama/new-york-ice-nimmt-fahrer-von-gekentertem-boot-fest-a-84a5e764-8009-4bcb-9564-7ea01cb411fb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T16:48:00+00:00"
+    },
+    {
+      "titel": "Donald Trump und das Weiße Haus: Neuer Landeplatz für Hubschrauber vorgesehen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-und-das-weisse-haus-neuer-landeplatz-fuer-hubschrauber-vorgesehen-a-3106486e-5a69-4534-b5f6-459d5d23beca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T16:43:00+00:00"
+    },
+    {
+      "titel": "Wasserknappheit: Wenn der eigene Rasen vertrocknet und der des Nachbarn grünt",
+      "link": "https://www.spiegel.de/politik/deutschland/wasserknappheit-wenn-der-eigene-rasen-vertrocknet-und-der-des-nachbarn-gruent-a-351d6a70-0413-4a29-8c00-219caad9734a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T16:27:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Warum der CDU die Spaltung im Umgang mit der AfD droht",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-der-cdu-die-spaltung-im-umgang-mit-der-afd-droht-a-af825137-2d84-47a3-8ada-ab0ad1b17460#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T16:14:00+00:00"
+    },
     {
       "titel": "Tote und Schäden nach heftigen Unwettern in Teilen Deutschlands",
       "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
@@ -85,30 +115,6 @@
       "veroeffentlicht": "2026-08-20T15:11:19+00:00"
     },
     {
-      "titel": "Ungarns öffentlich-rechtliches Fernsehen sendet wieder Nachrichten",
-      "link": "https://www.tagesschau.de/ausland/ungarn-oerr-nachrichten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T15:08:15+00:00"
-    },
-    {
-      "titel": "»How I Met Your Mother«: Josh Radnor und Kollegen sind keine Freunde fürs Leben",
-      "link": "https://www.spiegel.de/kultur/tv/how-i-met-your-mother-josh-radnor-und-kollegen-sind-keine-freunde-fuers-leben-a-82b3d747-3cf6-4a42-99df-049416c0bb31#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T14:56:00+00:00"
-    },
-    {
-      "titel": "Schlafdruck: Studie an Mäusen zeigt, wie das Gehirn Müdigkeit steuert",
-      "link": "https://www.spiegel.de/wissenschaft/schlafdruck-studie-an-maeusen-zeigt-wie-das-gehirn-muedigkeit-steuert-a-d277aecd-2a91-4532-9955-da06af6c939b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T14:46:00+00:00"
-    },
-    {
-      "titel": "Berlin: Hackerangriff bedroht Tausende Wohngeldzahlungen",
-      "link": "https://www.spiegel.de/netzwelt/berlin-hackerangriff-bedroht-tausende-wohngeldzahlungen-a-a3b6114c-de59-441d-aa0c-1353194c50ef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T14:38:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Knobloch: „Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern“",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-knobloch-afd-sachsen-anhalt-juden-li.3529564",
       "quelle": "Süddeutsche",
@@ -133,16 +139,22 @@
       "veroeffentlicht": "2026-08-20T14:06:39+00:00"
     },
     {
-      "titel": "Rumänischer Kampfjet zerstört offenbar Seedrohne nahe Gasplattform im Schwarzen Meer",
-      "link": "https://www.spiegel.de/ausland/rumaenischer-kampfjet-zerstoert-offenbar-seedrohne-nahe-gasplattform-im-schwarzen-meer-a-1960f383-87d1-45a8-85b2-e42fa3c00c52#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T14:03:00+00:00"
-    },
-    {
       "titel": "Umzug von Harry und Meghan: Ist jetzt alles wieder gut?",
       "link": "https://www.sueddeutsche.de/panorama/harry-meghan-markle-royals-umzug-rueckkehr-london-grossbritannien-koenigshaus-li.3534160",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T13:27:47+00:00"
+    },
+    {
+      "titel": "Evergrande: Lebenslange Haft für Chinas Immobilienkönig",
+      "link": "https://www.sueddeutsche.de/wirtschaft/china-haft-evergrande-chef-hui-ka-yan-li.3534140",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T13:19:39+00:00"
+    },
+    {
+      "titel": "Weltwirtschaft: Weniger Kinder für mehr Wachstum?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/deutschland-wachstum-geburtenraten-li.3532873",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T12:47:15+00:00"
     },
     {
       "titel": "Migration: So machen die USA arme Länder zu Komplizen einer unmenschlichen Politik",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/innenminister-dobrindt-thueringen-feuerwehruebung-sicherheitslage-li.3533281",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T12:23:59+00:00"
-    },
-    {
-      "titel": "Golanhöhen: Syriens verschwundene Kinder",
-      "link": "https://www.sueddeutsche.de/politik/golan-syrien-israel-verschwundene-kinder-li.3519958",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T12:03:17+00:00"
-    },
-    {
-      "titel": "Iran-Krieg: Jetzt droht Trump den Mullahs mit einem „Wirtschaftskrieg“",
-      "link": "https://www.sueddeutsche.de/politik/usa-iran-trump-konflikt-wirtschaftskrieg-sanktionen-li.3534145",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T11:48:44+00:00"
     }
   ]
 }
