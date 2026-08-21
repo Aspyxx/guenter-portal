@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-21T06:17:27+00:00",
+  "aktualisiert": "2026-08-21T07:29:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Städtetag fordert Pflegevollversicherung zur Entlastung der Kommunen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/staedtetag-pflege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T07:22:46+00:00"
+    },
+    {
+      "titel": "NATO-Ostflanke: Auch deutsche Soldaten bauen Polens \"Ostschild\"",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-nato-ostflanke-eastern-shield-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T06:56:37+00:00"
+    },
+    {
+      "titel": "Ausgaben für Sozialhilfe steigen um 6,1 Prozent",
+      "link": "https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent-a-ea6b32fc-25d5-46e8-b161-12c2482cd0e3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T06:56:00+00:00"
+    },
+    {
+      "titel": "Demografischer Wandel: Studie: Ostdeutschland gehen ohne Zuwanderung die Arbeitskräfte aus",
+      "link": "https://www.sueddeutsche.de/politik/ostdeutschland-arbeitskraefte-zuwanderung-li.3534674",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T06:51:01+00:00"
+    },
+    {
+      "titel": "Bremen: Tödliche Faustschläge von Autofahrer – Polizei ermittelt Verdächtigen",
+      "link": "https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen-a-50f61dca-8348-479b-874a-afdbb4fea1ec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T06:44:00+00:00"
+    },
+    {
+      "titel": "Dan S. Sullivan will für Alaska bei den Midterms punkten – Dan J. Sullivan auch. Jetzt treten sie gegeneinander an",
+      "link": "https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T06:32:00+00:00"
+    },
+    {
+      "titel": "USA: Donald Trump und Ex-Anwalt Michael Cohen haben sich offenbar versöhnt",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T06:32:00+00:00"
+    },
     {
       "titel": "NFL: Dallas Cowboys und New Orleans Saints nach Trainingsschlägerei bestraft",
       "link": "https://www.spiegel.de/sport/american-football/nfl-dallas-cowboys-und-new-orleans-saints-nach-trainingsschlaegerei-bestraft-a-53e11ec5-774d-48d6-aa6a-0c2043d4bae7#ref=rss",
@@ -55,30 +97,6 @@
       "veroeffentlicht": "2026-08-21T05:15:00+00:00"
     },
     {
-      "titel": "Peru: Starkes Erdbeben erschüttert Provinz Parinacochas",
-      "link": "https://www.spiegel.de/panorama/peru-starkes-erdbeben-erschuettert-provinz-parinacochas-a-25061496-1ccc-4a85-b979-b38336c239ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T05:14:00+00:00"
-    },
-    {
-      "titel": "Wie das Zollabkommen zwischen EU und USA funktioniert",
-      "link": "https://www.spiegel.de/wirtschaft/wie-das-zollabkommen-zwischen-eu-und-usa-funktioniert-a-4a249869-b14c-4adf-8642-28ff9a7b63a4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T05:07:00+00:00"
-    },
-    {
-      "titel": "China: Organisatoren von Tiananmen-Mahnwachen in Hongkong schuldig gesprochen",
-      "link": "https://www.spiegel.de/ausland/china-organisatoren-von-tiananmen-mahnwachen-in-hongkong-schuldig-gesprochen-a-15f51aec-5273-41e0-bde5-9f9bd1a70fb8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T05:01:00+00:00"
-    },
-    {
-      "titel": "Annalena Baerbock: USA und Russland kritisieren Einmischung in Auswahl des nächsten Uno-Generalsekretärs",
-      "link": "https://www.spiegel.de/politik/deutschland/annalena-baerbock-usa-und-russland-kritisieren-einmischung-in-auswahl-des-naechsten-uno-generalsekretaers-a-70ab8121-ba36-4cb8-9e72-1b3c3b9b1a80#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T04:48:00+00:00"
-    },
-    {
       "titel": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
       "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
       "quelle": "Tagesschau",
@@ -86,7 +104,7 @@
     },
     {
       "titel": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T03:31:37+00:00"
     },
@@ -109,18 +127,6 @@
       "veroeffentlicht": "2026-08-20T20:15:53+00:00"
     },
     {
-      "titel": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
-      "link": "https://www.tagesschau.de/kommentar/ceuta-migranten-kommentar-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T19:43:06+00:00"
-    },
-    {
-      "titel": "Auf Baustelle entdeckt: Wem gehört der Goldschatz von Dendermonde?",
-      "link": "https://www.tagesschau.de/ausland/belgien-dendermonde-goldschatz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T18:31:09+00:00"
-    },
-    {
       "titel": "Rede zu den „Tagen des Exils“: Als würden sie zum Mars fliegen",
       "link": "https://www.sueddeutsche.de/kultur/irina-scherbakowa-russland-tage-des-exils-li.3532894",
       "quelle": "Süddeutsche",
@@ -140,7 +146,7 @@
     },
     {
       "titel": "Vorwürfe nach Vorfall wegen Softair-Waffe: Schuss auf 14-Jährigen: Darstellungen zum Polizeieinsatz widersprechen sich",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-polizeieinsatz-schuss-14-jaehriger-familie-vorwuerfe-li.3534189",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-schwabing-polizeieinsatz-schuss-14-jaehriger-familie-vorwuerfe-li.3534189",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T14:13:50+00:00"
     },
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/paris-modegeschaefte-rueckgang-trends-li.3520087",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T13:56:23+00:00"
-    },
-    {
-      "titel": "Reden wir über Geld: „Mein Kind hat mich wohl ein paar Millionen Euro gekostet“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/finanzbildung-unternehmerin-berlin-natascha-wegelin-geld-familie-li.3495457",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T13:35:31+00:00"
     }
   ]
 }
