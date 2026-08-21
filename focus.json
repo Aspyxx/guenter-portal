@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-21T04:07:40+00:00",
+  "aktualisiert": "2026-08-21T05:00:10+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Fc Bayern München Jamal Musiala",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nord-stream-festnahme-politik-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Waldbrand in Hürtgenwald bei Aachen endgültig gelöscht",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-huertgenwald-110.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
       "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
+      "link": "https://www.tagesschau.de/kommentar/ceuta-migranten-kommentar-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
