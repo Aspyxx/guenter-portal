@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-21T00:01:43+00:00",
+  "aktualisiert": "2026-08-21T01:58:34+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Finnland vermutet Verletzung seines Luftraums durch russisches Flugzeug",
+      "link": "https://www.spiegel.de/ausland/finnland-vermutet-verletzung-seines-luftraums-durch-russisches-flugzeug-a-f62baf37-6f63-4468-95be-9d940de8d5ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T01:35:00+00:00"
+    },
+    {
+      "titel": "Diego Maradona: Nierentest soll vom toten Vater stammen - Prozess unterbrochen",
+      "link": "https://www.spiegel.de/panorama/diego-maradona-nierentest-soll-vom-toten-vater-stammen-prozess-unterbrochen-a-8605fdf8-c7b9-450e-ba61-5096977df13c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T01:09:00+00:00"
+    },
+    {
+      "titel": "Erdbeben erschüttert Andenregion in Peru",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T00:30:43+00:00"
+    },
+    {
+      "titel": "US-Bankräuber nutzt ChatGPT bei Tatplanung und verrät sich damit selbst",
+      "link": "https://www.spiegel.de/panorama/us-bankraeuber-nutzt-chatgpt-bei-tatplanung-und-verraet-sich-damit-selbst-a-451bb8ca-5700-469b-ac6c-5470ee1d58de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-20T23:57:00+00:00"
+    },
     {
       "titel": "USA: Trump will Zahl der US-Raketenstarts drastisch erhöhen",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-raumfahrt-raketenstart-li.3530667",
@@ -61,24 +85,6 @@
       "veroeffentlicht": "2026-08-20T19:35:00+00:00"
     },
     {
-      "titel": "Jason Arday: Suspendierung von Plagiatskritiker Cofnas nach Rassismus-Debatte",
-      "link": "https://www.spiegel.de/ausland/jason-arday-suspendierung-von-plagiatskritiker-cofnas-nach-rassismus-debatte-a-acb3a4c5-ef36-4f5d-a4a9-0e28990460b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T19:20:00+00:00"
-    },
-    {
-      "titel": "Braunschweig – Ismaning: Schüsse und verletzte Polizisten bei Verkehrskontrollen",
-      "link": "https://www.spiegel.de/panorama/justiz/braunschweig-ismaning-schuesse-und-verletzte-polizisten-bei-verkehrskontrollen-a-954ad6fb-447b-4979-8f5a-7f84197c275c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T19:11:00+00:00"
-    },
-    {
-      "titel": "Bauhaus – Sachsen-Anhalt: »Bauhaus-Manifest« – Institutionen erinnern an Anfeindungen durch das Naziregime",
-      "link": "https://www.spiegel.de/kultur/bauhaus-sachsen-anhalt-bauhaus-manifest-institutionen-erinnern-an-anfeindungen-durch-das-naziregime-a-b6ec2b91-8ff5-45bb-8347-9f13e31ec7a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T18:47:00+00:00"
-    },
-    {
       "titel": "Auf Baustelle entdeckt: Wem gehört der Goldschatz von Dendermonde?",
       "link": "https://www.tagesschau.de/ausland/belgien-dendermonde-goldschatz-100.html",
       "quelle": "Tagesschau",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/griechenland-infektionen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T16:49:58+00:00"
-    },
-    {
-      "titel": "Tote und Schäden nach heftigen Unwettern in Teilen Deutschlands",
-      "link": "https://www.tagesschau.de/inland/unwetter-deutschland-180.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T16:06:40+00:00"
     },
     {
       "titel": "Bundespolitik: Knobloch: „Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern“",
