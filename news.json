@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-21T19:38:58+00:00",
+  "aktualisiert": "2026-08-21T19:58:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ein Toter nach Schwertangriff an schwedischer Schule",
+      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T19:54:12+00:00"
+    },
     {
       "titel": "Zohran Mamdani: Warum der Bürgermeister von New York City plötzlich Chinesisch spricht",
       "link": "https://www.spiegel.de/ausland/zohran-mamdani-warum-der-buergermeister-von-new-york-city-ploetzlich-chinesisch-spricht-a-86883641-5def-4b63-a486-c5cd615f6adb#ref=rss",
@@ -41,12 +47,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T18:30:11+00:00"
-    },
-    {
-      "titel": "Verletzte bei Schwert-Angriff an schwedischer Schule",
-      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T18:17:45+00:00"
     },
     {
       "titel": "Katherina Reiche: Rätselhafter Schmusekurs mit China",
