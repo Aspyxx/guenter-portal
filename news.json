@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-21T20:42:46+00:00",
+  "aktualisiert": "2026-08-21T21:03:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mannheim: Pokal-Derby eskaliert – Polizei rückt mit Hundertschaft und Pferdestaffel an – Kaiserslautern siegt in der Verlängerung",
+      "link": "https://www.spiegel.de/sport/mannheim-pokal-derby-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-kaiserslautern-siegt-in-der-verlaengerung-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T20:44:00+00:00"
+    },
     {
       "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
@@ -17,12 +23,6 @@
       "link": "https://www.spiegel.de/ausland/usa-donald-trumps-ballsaal-am-weissen-haus-darf-vorerst-weiter-gebaut-werden-a-e9ab2fe4-67da-4f91-b6f7-bd97f65ac57f#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-21T20:25:00+00:00"
-    },
-    {
-      "titel": "Mannheim: Pokal-Derby eskaliert – Polizei rückt mit Hundertschaft und Pferdestaffel an – Kaiserslautern siegt in der Verlängerung",
-      "link": "https://www.spiegel.de/sport/mannheim-pokal-derby-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-kaiserslautern-siegt-in-der-verlaengerung-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T20:15:00+00:00"
     },
     {
       "titel": "Russland: Behörden schreiben FAZ-Korrespondenten Michael Mertens zur Fahndung aus",
