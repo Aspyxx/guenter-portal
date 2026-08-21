@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-21T10:12:48+00:00",
+  "aktualisiert": "2026-08-21T10:50:58+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Anthropic und OpenAI: Die dunkle Seite der neuen KI-Supermächte",
+      "link": "https://www.spiegel.de/wirtschaft/anthropic-und-openai-die-dunkle-seite-der-neuen-ki-supermaechte-a-a67a814b-cbef-4b4d-8ca3-561ba1d4f563#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T10:46:00+00:00"
+    },
+    {
+      "titel": "Lettland entdeckt weiteren Minitunnel unter Grenzzaun zu Belarus",
+      "link": "https://www.spiegel.de/ausland/lettland-entdeckt-weiteren-minitunnel-unter-grenzzaun-zu-belarus-a-8dda1400-766f-4901-8c27-77e887ede6a6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T10:37:00+00:00"
+    },
+    {
+      "titel": "Was nach einem Jahr vom EU-US-Zolldeal geblieben ist",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/jahrestag-zolldeal-usa-eu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T10:28:16+00:00"
+    },
+    {
+      "titel": "Karl-Theodor zu Guttenberg: Ex-Minister erfolgreich gegen »Correctiv«",
+      "link": "https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv-a-01b4d68e-1a8b-46ff-958d-3fafbe7451dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T10:24:00+00:00"
+    },
+    {
+      "titel": "Com-Szene: Generalbundesanwalt ermittelt gegen 19-Jährigen wegen Anstiftung zu Mord und Missbrauch",
+      "link": "https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch-a-a7a192c3-c290-4096-8e03-47c60be45bd2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T10:22:00+00:00"
+    },
+    {
+      "titel": "Russland: Zensierte »Spider-Man«-Raubkopie sorgt für Publikumsansturm in Moskauer Kinos",
+      "link": "https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T10:16:00+00:00"
+    },
+    {
+      "titel": "Stilkritik: Schlossbesitzer: Wandern im Hause Zuckerberg",
+      "link": "https://www.sueddeutsche.de/panorama/mark-zuckerberg-schloss-waterford-irland-stilkritik-li.3534856",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T10:03:12+00:00"
+    },
     {
       "titel": "Jamal Musiala: FC Bayern München erklärt »Nebenwirkungen« nach geänderter Behandlung",
       "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss",
@@ -43,36 +85,6 @@
       "veroeffentlicht": "2026-08-21T09:43:00+00:00"
     },
     {
-      "titel": "Rechtswidrige US-Zölle – deutsche Konzerne erhalten Hunderte Millionen Euro zurück",
-      "link": "https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck-a-7ec38632-78f4-46a8-a149-983ff226ad7e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T09:40:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Emmanuel Macrons letzter Sommer als Präsident",
-      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-letzter-sommer-als-praesident-a-a1ef92e7-1d87-474f-ace0-22d4ba81c0c1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T09:29:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz will Waldbrandhelfern in NRW danken",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-waldbrandhelfern-in-nrw-danken-a-f71ad687-d11b-49fd-bb51-403d8e302e37#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T09:29:00+00:00"
-    },
-    {
-      "titel": "Hohes Venn, Frankreich, Spanien, Griechenland: Warum die heutigen Feuer nur ein Vorgeschmack sein könnten",
-      "link": "https://www.spiegel.de/wissenschaft/hohes-venn-frankreich-spanien-griechenland-warum-die-heutigen-feuer-nur-ein-vorgeschmack-sein-koennten-a-cf2b1d62-1c02-460d-9e73-2739b39aa635#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T09:13:00+00:00"
-    },
-    {
-      "titel": "Bali: Feiertag verunglimpft – Schweizer zu einem Jahr Haft verurteilt",
-      "link": "https://www.spiegel.de/panorama/justiz/bali-feiertag-verunglimpft-schweizer-zu-einem-jahr-haft-verurteilt-a-c6efeba7-fc89-4660-b680-6d07ceb6e675#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T09:05:00+00:00"
-    },
-    {
       "titel": "FC Bayern: Kompany ist „total ruhig“ wegen Musiala",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-musiala-erkrankung-kompany-supercup-li.3534895",
       "quelle": "Süddeutsche",
@@ -95,6 +107,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T08:36:43+00:00"
+    },
+    {
+      "titel": "„Bauhaus-Manifest 2026“: Gropius grüßt die AfD",
+      "link": "https://www.sueddeutsche.de/kultur/bauhaus-manifest-afd-sachsen-anhalt-li.3532650",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T08:30:00+00:00"
     },
     {
       "titel": "Schneider besucht die Ukraine: Umweltschutz in Kriegszeiten",
@@ -127,12 +145,6 @@
       "veroeffentlicht": "2026-08-21T07:22:46+00:00"
     },
     {
-      "titel": "NATO-Ostflanke: Auch deutsche Soldaten bauen Polens \"Ostschild\"",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-nato-ostflanke-eastern-shield-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T06:56:37+00:00"
-    },
-    {
       "titel": "Demografischer Wandel: Studie: Ostdeutschland gehen ohne Zuwanderung die Arbeitskräfte aus",
       "link": "https://www.sueddeutsche.de/politik/ostdeutschland-arbeitskraefte-zuwanderung-li.3534674",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/leben/eltern-sturmfrei-freie-zeit-sehnsucht-li.3530051",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T17:23:38+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Knobloch: „Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern“",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-knobloch-afd-sachsen-anhalt-juden-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T14:28:28+00:00"
-    },
-    {
-      "titel": "Vorwürfe nach Vorfall wegen Softair-Waffe: Schuss auf 14-Jährigen: Darstellungen zum Polizeieinsatz widersprechen sich",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-schwabing-polizeieinsatz-schuss-14-jaehriger-familie-vorwuerfe-li.3534189",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T14:13:50+00:00"
     }
   ]
 }
