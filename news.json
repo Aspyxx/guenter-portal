@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-21T10:50:58+00:00",
+  "aktualisiert": "2026-08-21T11:43:53+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Deutsche Bahn: Wichtige Bahnstrecke zwischen Düsseldorf und Köln wochenlang gesperrt",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wichtige-bahnstrecke-zwischen-duesseldorf-und-koeln-wochenlang-gesperrt-a-65eb8c98-3a6f-48fd-b29a-09d668fc4966#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T11:35:00+00:00"
+    },
+    {
+      "titel": "Leute: „Ich hörte, ihr vermisst mich“",
+      "link": "https://www.sueddeutsche.de/panorama/melania-trump-verschwunden-38-tage-erster-auftritt-geruechte-li.3534484",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T11:33:56+00:00"
+    },
+    {
+      "titel": "Harry und Meghan zurück in Großbritannien: Zwei Konkurrenzhöfe für die Windsors",
+      "link": "https://www.spiegel.de/kultur/harry-und-meghan-zurueck-in-grossbritannien-zwei-konkurrenzhoefe-fuer-die-windsors-a-bf38fbd7-5613-4173-93f2-602ca9c8d66f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T11:31:00+00:00"
+    },
+    {
+      "titel": "»Hazel Eyes« von Sam Smith: Bitte, bitte, sagt dieses Album mit jeder Note, umarme mich",
+      "link": "https://www.spiegel.de/kultur/musik/hazel-eyes-von-sam-smith-kuschel-pop-vol-1-a-9d972f72-4655-4ce4-baab-292c3164e834#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T11:29:00+00:00"
+    },
+    {
+      "titel": "Jason Arday: Das Ende eines akademischen Märchens",
+      "link": "https://www.sueddeutsche.de/wissen/universitaet-cambridge-jason-arday-identitaet-wissenschaft-li.3524818",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T10:52:20+00:00"
+    },
+    {
+      "titel": "Nord-Stream-Verdächtiger kommt nach Festnahme in Kroatien in U-Haft",
+      "link": "https://www.tagesschau.de/ausland/europa/nord-stream-untersuchungshaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T10:52:09+00:00"
+    },
+    {
+      "titel": "Isernhagen bei Hannover: 84-Jährige stirbt nach Raubüberfall in ihrem Haus",
+      "link": "https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus-a-3b9addb8-c01f-49db-815d-56085aa8054c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T10:50:00+00:00"
+    },
     {
       "titel": "Anthropic und OpenAI: Die dunkle Seite der neuen KI-Supermächte",
       "link": "https://www.spiegel.de/wirtschaft/anthropic-und-openai-die-dunkle-seite-der-neuen-ki-supermaechte-a-a67a814b-cbef-4b4d-8ca3-561ba1d4f563#ref=rss",
@@ -49,24 +91,6 @@
       "veroeffentlicht": "2026-08-21T10:03:12+00:00"
     },
     {
-      "titel": "Jamal Musiala: FC Bayern München erklärt »Nebenwirkungen« nach geänderter Behandlung",
-      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T10:03:00+00:00"
-    },
-    {
-      "titel": "Ridley Scott: Regisseur erinnert sich an Kindheit in Deutschland 1947",
-      "link": "https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947-a-a1692d75-fcb5-44b8-a22c-c7a1c2d93771#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T09:57:00+00:00"
-    },
-    {
-      "titel": "Russlands Krieg gegen die Ukraine: Selenskyj meldet Schlag gegen russische Raffinerie in Perm",
-      "link": "https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T09:52:00+00:00"
-    },
-    {
       "titel": "Sozialhilfe: Ausgaben steigen 2025 auf 21,5 Milliarden Euro",
       "link": "https://www.tagesschau.de/inland/innenpolitik/steigende-sozialhilfeausgaben-2025-100.html",
       "quelle": "Tagesschau",
@@ -77,12 +101,6 @@
       "link": "https://www.tagesschau.de/investigativ/ndr/medikamente-faelschungen-sicherheitsluecke-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T09:47:13+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T09:43:00+00:00"
     },
     {
       "titel": "FC Bayern: Kompany ist „total ruhig“ wegen Musiala",
@@ -139,12 +157,6 @@
       "veroeffentlicht": "2026-08-21T07:54:39+00:00"
     },
     {
-      "titel": "Städtetag fordert Pflegevollversicherung zur Entlastung der Kommunen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/staedtetag-pflege-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T07:22:46+00:00"
-    },
-    {
       "titel": "Demografischer Wandel: Studie: Ostdeutschland gehen ohne Zuwanderung die Arbeitskräfte aus",
       "link": "https://www.sueddeutsche.de/politik/ostdeutschland-arbeitskraefte-zuwanderung-li.3534674",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-raumfahrt-raketenstart-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T23:40:19+00:00"
-    },
-    {
-      "titel": "Rede zu den „Tagen des Exils“: Als würden sie zum Mars fliegen",
-      "link": "https://www.sueddeutsche.de/kultur/irina-scherbakowa-russland-tage-des-exils-li.3532894",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T18:30:50+00:00"
-    },
-    {
-      "titel": "Elternkolumne „Die Erziehungsberechtigten“: So viel Zeit!",
-      "link": "https://www.sueddeutsche.de/leben/eltern-sturmfrei-freie-zeit-sehnsucht-li.3530051",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T17:23:38+00:00"
     }
   ]
 }
