@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-21T03:17:35+00:00",
+  "aktualisiert": "2026-08-21T04:23:44+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,64 @@
   },
   "meldungen": [
     {
-      "titel": "Donald Trump will deutlich mehr Raketenstarts ins All ermöglichen",
-      "link": "https://www.spiegel.de/wirtschaft/trump-will-deutlich-mehr-raketenstarts-ins-all-ermoeglichen-a-8ebb641d-d99f-4ffc-9a77-ca2c20e6598e#ref=rss",
+      "titel": "Syrien: Israel Katz warnt Türkei vor »gefährlichen Abenteuern«",
+      "link": "https://www.spiegel.de/ausland/syrien-israel-katz-warnt-tuerkei-vor-gefaehrlichen-abenteuern-a-bb1936f9-eb0c-4f0b-8179-8c64a442812b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T02:56:00+00:00"
+      "veroeffentlicht": "2026-08-21T04:11:00+00:00"
     },
     {
-      "titel": "Zu wenig Regen – Schiffsverkehr durch Panamakanal wird reduziert",
-      "link": "https://www.spiegel.de/wirtschaft/zu-wenig-regen-schiffsverkehr-durch-panamakanal-wird-reduziert-a-70cb3168-9a6f-4567-acc8-d080cf6c6f66#ref=rss",
+      "titel": "Einschulung: Warum muss der erste Schultag so teuer sein?",
+      "link": "https://www.spiegel.de/familie/einschulung-warum-muss-der-erste-schultag-so-teuer-sein-a-820f00e6-226a-4a09-b5bb-928fa7a679e2#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T02:27:00+00:00"
+      "veroeffentlicht": "2026-08-21T03:59:00+00:00"
     },
     {
-      "titel": "Finnland vermutet Verletzung seines Luftraums durch russisches Flugzeug",
-      "link": "https://www.spiegel.de/ausland/finnland-vermutet-verletzung-seines-luftraums-durch-russisches-flugzeug-a-f62baf37-6f63-4468-95be-9d940de8d5ba#ref=rss",
+      "titel": "Fahrrad-Zubehör: Können ABS, Radarsensoren oder Blinklichter das E-Bike sicherer machen?",
+      "link": "https://www.spiegel.de/mobilitaet/fahrrad/fahrrad-zubehoer-koennen-abs-radarsensoren-oder-blinklichter-das-e-bike-sicherer-machen-a-1bc46b98-6a06-4161-a83b-3d1548489cd8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T01:35:00+00:00"
+      "veroeffentlicht": "2026-08-21T03:58:00+00:00"
     },
     {
-      "titel": "Diego Maradona: Nierentest soll vom toten Vater stammen - Prozess unterbrochen",
-      "link": "https://www.spiegel.de/panorama/diego-maradona-nierentest-soll-vom-toten-vater-stammen-prozess-unterbrochen-a-8605fdf8-c7b9-450e-ba61-5096977df13c#ref=rss",
+      "titel": "Kochen für Kinder: Was die beste Köchin der Welt ihrem Kind serviert",
+      "link": "https://www.spiegel.de/effilee/kochen-fuer-kinder-was-die-beste-koechin-der-welt-ihrem-kind-serviert-a-44f20683-598c-4fc5-8921-4a2b99825007#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T01:09:00+00:00"
+      "veroeffentlicht": "2026-08-21T03:51:00+00:00"
+    },
+    {
+      "titel": "Rhein: Niedrigwasser setzt Ausflugsschiffen zu – Ausbau weiter vor Problemen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-setzt-ausflugsschiffen-zu-ausbau-weiter-vor-problemen-a-9388f6ee-29fc-4760-91c0-971a29a9d4e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T03:50:00+00:00"
+    },
+    {
+      "titel": "Zendaya, Pattinson, Hathaway, überall dieselben Gesichter. Können zu viele Stars einen Film kaputtmachen?",
+      "link": "https://www.spiegel.de/kultur/kino/zendaya-pattinson-hathaway-ueberall-dieselben-gesichter-koennen-zu-viele-stars-einen-film-kaputtmachen-a-271314da-8597-41c2-8c2f-d51f8afcef13#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T03:49:00+00:00"
+    },
+    {
+      "titel": "News: CDU in Sachsen-Anhalt, SPD, Manuela Schwesig, Russisches Haus, Berlin",
+      "link": "https://www.spiegel.de/politik/deutschland/news-cdu-in-sachsen-anhalt-spd-manuela-schwesig-russisches-haus-berlin-a-1a9e5865-6cca-4f71-b404-4b97e1fa0082#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T03:46:00+00:00"
+    },
+    {
+      "titel": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T03:31:37+00:00"
+    },
+    {
+      "titel": "Gastronomie: Warum Sternekoch Marcel Kazda Kinder ausdrücklich einlädt",
+      "link": "https://www.spiegel.de/effilee/gastronomie-warum-sternekoch-marcel-kazda-kinder-ausdruecklich-einlaedt-a-7b6bdd06-b259-4e57-80cc-e2c354a3575a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T03:30:00+00:00"
+    },
+    {
+      "titel": "Familienurlaub: Warum mein Sohn nicht ins Zwei-Sterne-Restaurant wollte",
+      "link": "https://www.spiegel.de/effilee/familienurlaub-warum-mein-sohn-nicht-ins-zwei-sterne-restaurant-wollte-a-ce3088b3-d63f-498f-b98b-90edd978538e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T03:30:00+00:00"
     },
     {
       "titel": "Erdbeben erschüttert Andenregion in Peru",
@@ -37,46 +73,16 @@
       "veroeffentlicht": "2026-08-21T00:30:43+00:00"
     },
     {
-      "titel": "US-Bankräuber nutzt ChatGPT bei Tatplanung und verrät sich damit selbst",
-      "link": "https://www.spiegel.de/panorama/us-bankraeuber-nutzt-chatgpt-bei-tatplanung-und-verraet-sich-damit-selbst-a-451bb8ca-5700-469b-ac6c-5470ee1d58de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T23:57:00+00:00"
-    },
-    {
       "titel": "USA: Trump will Zahl der US-Raketenstarts drastisch erhöhen",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-raumfahrt-raketenstart-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T23:40:19+00:00"
     },
     {
-      "titel": "Mexiko: Fischer überleben fünf Tage in Kühlbox auf dem Meer",
-      "link": "https://www.spiegel.de/panorama/mexiko-fischer-ueberleben-fuenf-tage-in-kuehlbox-auf-dem-meer-a-ea884fc5-e4bc-4ef1-8df1-140d7e1aa67a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T22:42:00+00:00"
-    },
-    {
-      "titel": "Spende an AfD – CDU prüft Ausschluss von Kommunalpolitiker Bernd Prange",
-      "link": "https://www.spiegel.de/politik/deutschland/spende-an-afd-cdu-prueft-ausschluss-von-kommunalpolitiker-bernd-prange-a-98e52e7c-5d7f-42c8-8bca-034405b44a59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T21:08:00+00:00"
-    },
-    {
-      "titel": "Hürtgenwald: Größter Waldbrand in NRW-Geschichte vollständig gelöscht",
-      "link": "https://www.spiegel.de/panorama/huertgenwald-groesster-waldbrand-in-nrw-geschichte-vollstaendig-geloescht-a-26b2b1fc-1c84-4166-ae9a-d1ffa840f21a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T20:26:00+00:00"
-    },
-    {
       "titel": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
       "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T20:15:53+00:00"
-    },
-    {
-      "titel": "Georgenthal – Thüringen: Vater auf dem Weg zur Kita von Baum erschlagen",
-      "link": "https://www.spiegel.de/panorama/georgenthal-thueringen-vater-auf-dem-weg-zur-kita-von-baum-erschlagen-a-173f4c14-0b98-4b48-88f4-2181f5bdaae8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T20:09:00+00:00"
     },
     {
       "titel": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T17:04:25+00:00"
-    },
-    {
-      "titel": "West-Nil-Virus: 157 Fälle in Griechenland gemeldet",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-infektionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T16:49:58+00:00"
     },
     {
       "titel": "Bundespolitik: Knobloch: „Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern“",
