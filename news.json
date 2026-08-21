@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-21T09:19:43+00:00",
+  "aktualisiert": "2026-08-21T10:12:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Jamal Musiala: FC Bayern München erklärt »Nebenwirkungen« nach geänderter Behandlung",
+      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-muenchen-erklaert-nebenwirkungen-nach-geaenderter-behandlung-a-dbebd350-4768-4d34-83ba-ed7ce1f8780f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T10:03:00+00:00"
+    },
+    {
+      "titel": "Ridley Scott: Regisseur erinnert sich an Kindheit in Deutschland 1947",
+      "link": "https://www.spiegel.de/kultur/kino/ridley-scott-regisseur-erinnert-sich-an-kindheit-in-deutschland-1947-a-a1692d75-fcb5-44b8-a22c-c7a1c2d93771#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T09:57:00+00:00"
+    },
+    {
+      "titel": "Russlands Krieg gegen die Ukraine: Selenskyj meldet Schlag gegen russische Raffinerie in Perm",
+      "link": "https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-meldet-schlag-gegen-russische-raffinerie-in-perm-a-6d5a6f54-43e4-4d9e-8a25-f428ef5a69d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T09:52:00+00:00"
+    },
+    {
+      "titel": "Sozialhilfe: Ausgaben steigen 2025 auf 21,5 Milliarden Euro",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steigende-sozialhilfeausgaben-2025-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T09:50:49+00:00"
+    },
+    {
+      "titel": "Gefährliche Sicherheitslücke bei Arzneimittelpackungen",
+      "link": "https://www.tagesschau.de/investigativ/ndr/medikamente-faelschungen-sicherheitsluecke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T09:47:13+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T09:43:00+00:00"
+    },
+    {
+      "titel": "Rechtswidrige US-Zölle – deutsche Konzerne erhalten Hunderte Millionen Euro zurück",
+      "link": "https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck-a-7ec38632-78f4-46a8-a149-983ff226ad7e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T09:40:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Emmanuel Macrons letzter Sommer als Präsident",
+      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-letzter-sommer-als-praesident-a-a1ef92e7-1d87-474f-ace0-22d4ba81c0c1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T09:29:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz will Waldbrandhelfern in NRW danken",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-waldbrandhelfern-in-nrw-danken-a-f71ad687-d11b-49fd-bb51-403d8e302e37#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T09:29:00+00:00"
+    },
     {
       "titel": "Hohes Venn, Frankreich, Spanien, Griechenland: Warum die heutigen Feuer nur ein Vorgeschmack sein könnten",
       "link": "https://www.spiegel.de/wissenschaft/hohes-venn-frankreich-spanien-griechenland-warum-die-heutigen-feuer-nur-ein-vorgeschmack-sein-koennten-a-cf2b1d62-1c02-460d-9e73-2739b39aa635#ref=rss",
@@ -31,18 +85,6 @@
       "veroeffentlicht": "2026-08-21T08:51:43+00:00"
     },
     {
-      "titel": "Gracie Abrams wollte sich wegen eines Songs »die Augen auskratzen«",
-      "link": "https://www.spiegel.de/kultur/musik/gracie-abrams-wollte-sich-wegen-eines-songs-die-augen-auskratzen-a-25d4e19d-c97d-48b6-b270-72f8a5e2de2d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T08:49:00+00:00"
-    },
-    {
-      "titel": "Jamal Musiala: FC Bayern erklärt Absencen mit Medikamenten-Umstellung",
-      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T08:47:00+00:00"
-    },
-    {
       "titel": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
       "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
       "quelle": "Tagesschau",
@@ -55,40 +97,10 @@
       "veroeffentlicht": "2026-08-21T08:36:43+00:00"
     },
     {
-      "titel": "Donald Trump: U.S. Navy will in Bau befindlichen Flugzeugträger womöglich zu Ehren des US-Präsidenten benennen",
-      "link": "https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T08:35:00+00:00"
-    },
-    {
-      "titel": "USA: Acht Tote bei Flugzeugabsturz an Militärflugplatz in Alaska",
-      "link": "https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T08:24:00+00:00"
-    },
-    {
-      "titel": "Wirtschaft ruft Bundesregierung zu raschen Reformen auf",
-      "link": "https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf-a-13bd5a9f-fcb7-4301-adab-ac95f6df6782#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T08:20:00+00:00"
-    },
-    {
-      "titel": "Russland: Ermittler entdecken mutmaßliches Waffendepot bei Berlin",
-      "link": "https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt-a-a6692948-7293-44c3-85f8-eb75b323b42e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T08:16:00+00:00"
-    },
-    {
       "titel": "Schneider besucht die Ukraine: Umweltschutz in Kriegszeiten",
       "link": "https://www.tagesschau.de/ausland/europa/schneider-ukraine-umweltschutz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T08:12:16+00:00"
-    },
-    {
-      "titel": "Mobilfunk: Rechnungshof rügt ineffiziente Förder-GmbH des Bundes",
-      "link": "https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes-a-61bb46c8-53e1-44a0-87d0-b51d51c3a408#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T08:04:00+00:00"
     },
     {
       "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
@@ -125,18 +137,6 @@
       "link": "https://www.sueddeutsche.de/politik/ostdeutschland-arbeitskraefte-zuwanderung-li.3534674",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T06:51:01+00:00"
-    },
-    {
-      "titel": "Behindertenbeauftragter fordert besseren Schutz für Frauen mit Behinderung",
-      "link": "https://www.tagesschau.de/investigativ/swr/gewalt-frauen-behinderung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T06:01:23+00:00"
-    },
-    {
-      "titel": "Schiffsverkehr durch Panamakanal wird wegen Trockenheit reduziert",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/panamakanal-schiffsverkehr-trockenheit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T05:27:24+00:00"
     },
     {
       "titel": "USA: Trump will Zahl der US-Raketenstarts drastisch erhöhen",
