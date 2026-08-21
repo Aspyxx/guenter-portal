@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-20T23:41:46+00:00",
+  "aktualisiert": "2026-08-21T00:01:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: Trump will Zahl der US-Raketenstarts drastisch erhöhen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-raumfahrt-raketenstart-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-20T23:40:19+00:00"
+    },
     {
       "titel": "Mexiko: Fischer überleben fünf Tage in Kühlbox auf dem Meer",
       "link": "https://www.spiegel.de/panorama/mexiko-fischer-ueberleben-fuenf-tage-in-kuehlbox-auf-dem-meer-a-ea884fc5-e4bc-4ef1-8df1-140d7e1aa67a#ref=rss",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/harry-meghan-markle-royals-umzug-rueckkehr-london-grossbritannien-koenigshaus-li.3534160",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T13:27:47+00:00"
-    },
-    {
-      "titel": "Evergrande: Lebenslange Haft für Chinas Immobilienkönig",
-      "link": "https://www.sueddeutsche.de/wirtschaft/china-haft-evergrande-chef-hui-ka-yan-li.3534140",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T13:19:39+00:00"
     }
   ]
 }
