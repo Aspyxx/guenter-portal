@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-21T16:04:56+00:00",
+  "aktualisiert": "2026-08-21T16:52:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T16:43:39+00:00"
+    },
+    {
+      "titel": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T16:35:44+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX geht mit Gewinn aus der Woche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T16:27:50+00:00"
+    },
+    {
+      "titel": "Tatjana Kim: Die Ukraine bombardiert Wildberries-Lager - das ist die Gründerin",
+      "link": "https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T16:25:00+00:00"
+    },
+    {
+      "titel": "Nathan Cofnas: Wer ist der Mann, der den Fall Jason Arday ins Rollen brachte?",
+      "link": "https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T16:19:00+00:00"
+    },
+    {
+      "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
+      "link": "https://www.sueddeutsche.de/politik/desinformation-landtagswahl-sachsen-anhalt-sven-schulze-russland-fake-news-doppelgaenger-matrjoschka-li.3535102",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T16:16:22+00:00"
+    },
+    {
+      "titel": "Mehrere Verletzte bei Angriff an schwedischer Schule",
+      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T16:12:38+00:00"
+    },
+    {
+      "titel": "Uber soll wegen Verstoß gegen Datenschutzregeln in den Niederlanden 825 Millionen Euro Strafe zahlen",
+      "link": "https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T16:08:00+00:00"
+    },
     {
       "titel": "Jahrhundertsommer? Warum Forschende neu denken müssen",
       "link": "https://www.tagesschau.de/wissen/klima/wetter-klima-jahrhundertsommer-100.html",
@@ -17,6 +65,12 @@
       "link": "https://www.tagesschau.de/ausland/europa/daily-mail-prozesskosten-harry-elton-john-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T16:00:40+00:00"
+    },
+    {
+      "titel": "AfD: Deutschland ist krank. Die Medizin? Kultur!",
+      "link": "https://www.sueddeutsche.de/kultur/sachsen-anhalt-wahlprogramm-kulturpolitik-melanie-amann-unframed-li.3529977",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T15:57:06+00:00"
     },
     {
       "titel": "Swift: Forschungssatellit droht nach gescheiterter Nasa-Rettung abzustürzen",
@@ -73,40 +127,10 @@
       "veroeffentlicht": "2026-08-21T15:20:00+00:00"
     },
     {
-      "titel": "News des Tages: Annalena Baerbock, Waffenversteck bei Berlin, Jamal Musiala",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T15:06:00+00:00"
-    },
-    {
-      "titel": "Lyon: Katze entwischt - Familie verbringt Urlaub an Raststätte",
-      "link": "https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette-a-ef3d49ae-1e0b-40e1-a34f-0f22e0661ca7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T14:55:00+00:00"
-    },
-    {
       "titel": "Tätlichkeit im WM-Finale: Argentinier Paredes für zehn Länderspiele gesperrt",
       "link": "https://www.sueddeutsche.de/sport/wm-finale-argentinien-parades-foul-sperre-fifa-li.3535111",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T14:45:51+00:00"
-    },
-    {
-      "titel": "Borussia Dortmund macht 21,7 Millionen Euro Verlust",
-      "link": "https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust-a-67a0be49-d212-4efd-ba16-9236bdc18570#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T14:39:00+00:00"
-    },
-    {
-      "titel": "Mehrere Verletzte bei Angriff an schwedischer Schule",
-      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T14:19:32+00:00"
-    },
-    {
-      "titel": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T13:53:16+00:00"
     },
     {
       "titel": "Said El Mala beim 1. FC Köln: Beförderung zur Nummer 10",
@@ -115,22 +139,10 @@
       "veroeffentlicht": "2026-08-21T13:44:19+00:00"
     },
     {
-      "titel": "Südkorea und USA beenden Militärübung vorzeitig",
-      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaermanoever-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T13:35:51+00:00"
-    },
-    {
       "titel": "Künstliche Intelligenz: Die Angst vor der Wahrheit",
       "link": "https://www.sueddeutsche.de/medien/ki-synthid-anthropic-openai-ai-act-li.3533658",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:35:17+00:00"
-    },
-    {
-      "titel": "Wo Cannabis boomt und wo es Probleme gibt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-teillegalisierung-debatte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T13:34:40+00:00"
     },
     {
       "titel": "Gasversorgung: Engpass? Welcher Engpass?",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/real-madrid-jose-mourinho-la-liga-auftakt-fc-barcelona-li.3534855",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:10:30+00:00"
-    },
-    {
-      "titel": "Bundesregierung: Angeschlagen in den Herbst",
-      "link": "https://www.sueddeutsche.de/politik/berlin-koalition-herausforderungen-herbst-li.3534702",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T12:52:35+00:00"
-    },
-    {
-      "titel": "„Schandfleck“ auf dem Wasser: Warum am Tegernsee ein alter Ausflugsdampfer vergammelt",
-      "link": "https://www.sueddeutsche.de/bayern/tegernsee-dampfer-schiff-schandfleck-li.3534361",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T12:52:10+00:00"
     }
   ]
 }
