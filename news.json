@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-21T07:43:28+00:00",
+  "aktualisiert": "2026-08-21T08:20:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Russland: Ermittler entdecken mutmaßliches Waffendepot bei Berlin",
+      "link": "https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt-a-a6692948-7293-44c3-85f8-eb75b323b42e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T08:16:00+00:00"
+    },
+    {
+      "titel": "Schneider besucht die Ukraine: Umweltschutz in Kriegszeiten",
+      "link": "https://www.tagesschau.de/ausland/europa/schneider-ukraine-umweltschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T08:12:16+00:00"
+    },
+    {
+      "titel": "Mobilfunk: Rechnungshof rügt ineffiziente Förder-GmbH des Bundes",
+      "link": "https://www.spiegel.de/politik/mobilfunk-rechnungshof-ruegt-ineffiziente-foerder-gmbh-des-bundes-a-61bb46c8-53e1-44a0-87d0-b51d51c3a408#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T08:04:00+00:00"
+    },
+    {
+      "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T08:00:22+00:00"
+    },
+    {
+      "titel": "Hybrider Krieg: Brisantes Waffenversteck am Rand von Berlin",
+      "link": "https://www.sueddeutsche.de/politik/berlin-waffendepot-russland-geheimdienst-anschlaege-verfassungsschutz-hybrider-krieg-li.3534556",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T08:00:07+00:00"
+    },
+    {
+      "titel": "Studie: Aufmerksamkeit kann Juckreiz lindern",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T07:54:39+00:00"
+    },
     {
       "titel": "Städtetag fordert Pflegevollversicherung zur Entlastung der Kommunen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/staedtetag-pflege-100.html",
@@ -73,12 +109,6 @@
       "veroeffentlicht": "2026-08-21T05:54:00+00:00"
     },
     {
-      "titel": "Pflegeversicherung: Kommunen fordern eine Vollversicherung",
-      "link": "https://www.spiegel.de/wirtschaft/pflegeversicherung-kommunen-fordern-eine-vollversicherung-a-c744a500-0edf-4579-891a-a3d7adf20bc1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T05:37:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Anleger finden keine Kaufgründe",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
       "quelle": "Tagesschau",
@@ -91,40 +121,16 @@
       "veroeffentlicht": "2026-08-21T05:27:24+00:00"
     },
     {
-      "titel": "Nordkorea verhöhnt Südkoreas Streitkräfte als »Marionettenarmee«",
-      "link": "https://www.spiegel.de/ausland/nordkorea-verhoehnt-suedkoreas-streitkraefte-als-marionettenarmee-a-c4bd07e5-9bd8-46de-aac0-98c179452678#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T05:15:00+00:00"
-    },
-    {
       "titel": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
       "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T04:45:28+00:00"
     },
     {
-      "titel": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T03:31:37+00:00"
-    },
-    {
-      "titel": "Erdbeben erschüttert Andenregion in Peru",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T00:30:43+00:00"
-    },
-    {
       "titel": "USA: Trump will Zahl der US-Raketenstarts drastisch erhöhen",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-raumfahrt-raketenstart-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T23:40:19+00:00"
-    },
-    {
-      "titel": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
-      "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-20T20:15:53+00:00"
     },
     {
       "titel": "Rede zu den „Tagen des Exils“: Als würden sie zum Mars fliegen",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-kiew-korruption-razzia-selenskij-li.3534122",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T14:06:39+00:00"
-    },
-    {
-      "titel": "Paris: Die Stadt der Mode verliert ihre Modeläden",
-      "link": "https://www.sueddeutsche.de/wirtschaft/paris-modegeschaefte-rueckgang-trends-li.3520087",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T13:56:23+00:00"
     }
   ]
 }
