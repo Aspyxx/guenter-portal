@@ -1,11 +1,77 @@
 {
-  "aktualisiert": "2026-08-21T08:20:01+00:00",
+  "aktualisiert": "2026-08-21T09:19:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hohes Venn, Frankreich, Spanien, Griechenland: Warum die heutigen Feuer nur ein Vorgeschmack sein könnten",
+      "link": "https://www.spiegel.de/wissenschaft/hohes-venn-frankreich-spanien-griechenland-warum-die-heutigen-feuer-nur-ein-vorgeschmack-sein-koennten-a-cf2b1d62-1c02-460d-9e73-2739b39aa635#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T09:13:00+00:00"
+    },
+    {
+      "titel": "Bali: Feiertag verunglimpft – Schweizer zu einem Jahr Haft verurteilt",
+      "link": "https://www.spiegel.de/panorama/justiz/bali-feiertag-verunglimpft-schweizer-zu-einem-jahr-haft-verurteilt-a-c6efeba7-fc89-4660-b680-6d07ceb6e675#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T09:05:00+00:00"
+    },
+    {
+      "titel": "FC Bayern: Kompany ist „total ruhig“ wegen Musiala",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-musiala-erkrankung-kompany-supercup-li.3534895",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T09:04:01+00:00"
+    },
+    {
+      "titel": "Weißes Haus: Sie schreibt dem Präsidenten: „Du bist alles, was für mich zählt“",
+      "link": "https://www.sueddeutsche.de/politik/usa-weisses-haus-trump-natalie-harp-portraet-li.3534445",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T08:51:43+00:00"
+    },
+    {
+      "titel": "Gracie Abrams wollte sich wegen eines Songs »die Augen auskratzen«",
+      "link": "https://www.spiegel.de/kultur/musik/gracie-abrams-wollte-sich-wegen-eines-songs-die-augen-auskratzen-a-25d4e19d-c97d-48b6-b270-72f8a5e2de2d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T08:49:00+00:00"
+    },
+    {
+      "titel": "Jamal Musiala: FC Bayern erklärt Absencen mit Medikamenten-Umstellung",
+      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-erklaert-absencen-mit-medikamenten-umstellung-a-7051bc0b-e1b9-4a61-90b0-101f03c0eb42#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T08:47:00+00:00"
+    },
+    {
+      "titel": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
+      "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T08:44:16+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger ringen um die Marke von 26.000 Punkten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T08:36:43+00:00"
+    },
+    {
+      "titel": "Donald Trump: U.S. Navy will in Bau befindlichen Flugzeugträger womöglich zu Ehren des US-Präsidenten benennen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-u-s-navy-will-in-bau-befindlichen-flugzeugtraeger-womoeglich-zu-ehren-des-us-praesidenten-benennen-a-524a6e6e-d607-4f8d-9809-40c6480ff506#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T08:35:00+00:00"
+    },
+    {
+      "titel": "USA: Acht Tote bei Flugzeugabsturz an Militärflugplatz in Alaska",
+      "link": "https://www.spiegel.de/panorama/usa-acht-tote-bei-flugzeugabsturz-an-militaerflugplatz-in-alaska-a-7419aa69-a9fb-4a3e-b54f-c526c88a2e66#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T08:24:00+00:00"
+    },
+    {
+      "titel": "Wirtschaft ruft Bundesregierung zu raschen Reformen auf",
+      "link": "https://www.spiegel.de/wirtschaft/wirtschaft-ruft-bundesregierung-zu-raschen-reformen-auf-a-13bd5a9f-fcb7-4301-adab-ac95f6df6782#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T08:20:00+00:00"
+    },
     {
       "titel": "Russland: Ermittler entdecken mutmaßliches Waffendepot bei Berlin",
       "link": "https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt-a-a6692948-7293-44c3-85f8-eb75b323b42e#ref=rss",
@@ -31,7 +97,7 @@
       "veroeffentlicht": "2026-08-21T08:00:22+00:00"
     },
     {
-      "titel": "Hybrider Krieg: Brisantes Waffenversteck am Rand von Berlin",
+      "titel": "Russischer Geheimdienst: Brisantes Waffenversteck am Rand von Berlin",
       "link": "https://www.sueddeutsche.de/politik/berlin-waffendepot-russland-geheimdienst-anschlaege-verfassungsschutz-hybrider-krieg-li.3534556",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T08:00:07+00:00"
@@ -55,46 +121,10 @@
       "veroeffentlicht": "2026-08-21T06:56:37+00:00"
     },
     {
-      "titel": "Ausgaben für Sozialhilfe steigen um 6,1 Prozent",
-      "link": "https://www.spiegel.de/wirtschaft/ausgaben-fuer-sozialhilfe-steigen-um-6-1-prozent-a-ea6b32fc-25d5-46e8-b161-12c2482cd0e3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T06:56:00+00:00"
-    },
-    {
       "titel": "Demografischer Wandel: Studie: Ostdeutschland gehen ohne Zuwanderung die Arbeitskräfte aus",
       "link": "https://www.sueddeutsche.de/politik/ostdeutschland-arbeitskraefte-zuwanderung-li.3534674",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T06:51:01+00:00"
-    },
-    {
-      "titel": "Bremen: Tödliche Faustschläge von Autofahrer – Polizei ermittelt Verdächtigen",
-      "link": "https://www.spiegel.de/panorama/justiz/bremen-toedliche-faustschlaege-von-autofahrer-polizei-ermittelt-verdaechtigen-a-50f61dca-8348-479b-874a-afdbb4fea1ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T06:44:00+00:00"
-    },
-    {
-      "titel": "Dan S. Sullivan will für Alaska bei den Midterms punkten – Dan J. Sullivan auch. Jetzt treten sie gegeneinander an",
-      "link": "https://www.spiegel.de/ausland/dan-s-sullivan-will-fuer-alaska-bei-den-midterms-punkten-dan-j-sullivan-auch-jetzt-treten-sie-gegeneinander-an-a-25ea203e-a096-44e0-9333-f0a28e901b4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T06:32:00+00:00"
-    },
-    {
-      "titel": "USA: Donald Trump und Ex-Anwalt Michael Cohen haben sich offenbar versöhnt",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-und-ex-anwalt-michael-cohen-haben-sich-offenbar-versoehnt-a-c40a6a5b-44fd-4bf4-9d85-3c4b51ff9f02#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T06:32:00+00:00"
-    },
-    {
-      "titel": "NFL: Dallas Cowboys und New Orleans Saints nach Trainingsschlägerei bestraft",
-      "link": "https://www.spiegel.de/sport/american-football/nfl-dallas-cowboys-und-new-orleans-saints-nach-trainingsschlaegerei-bestraft-a-53e11ec5-774d-48d6-aa6a-0c2043d4bae7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T06:12:00+00:00"
-    },
-    {
-      "titel": "Plug-In-Hybride und die deutsche Autoindustrie: »Die Glanzzeiten sind vorbei«",
-      "link": "https://www.spiegel.de/wirtschaft/plug-in-hybride-und-die-deutsche-autoindustrie-die-glanzzeiten-sind-vorbei-a-8a291798-e4ab-49fd-b544-9b90c27c3d22#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T06:07:00+00:00"
     },
     {
       "titel": "Behindertenbeauftragter fordert besseren Schutz für Frauen mit Behinderung",
@@ -103,28 +133,10 @@
       "veroeffentlicht": "2026-08-21T06:01:23+00:00"
     },
     {
-      "titel": "Berlin ist für die meisten laut einer Umfrage keine faszinierende Metropole",
-      "link": "https://www.spiegel.de/panorama/berlin-ist-fuer-die-meisten-laut-einer-umfrage-keine-faszinierende-metropole-a-856099a6-09a9-482b-a4e5-c29a5d6bc827#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T05:54:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Anleger finden keine Kaufgründe",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T05:28:58+00:00"
-    },
-    {
       "titel": "Schiffsverkehr durch Panamakanal wird wegen Trockenheit reduziert",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/panamakanal-schiffsverkehr-trockenheit-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T05:27:24+00:00"
-    },
-    {
-      "titel": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
-      "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T04:45:28+00:00"
     },
     {
       "titel": "USA: Trump will Zahl der US-Raketenstarts drastisch erhöhen",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-schwabing-polizeieinsatz-schuss-14-jaehriger-familie-vorwuerfe-li.3534189",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-20T14:13:50+00:00"
-    },
-    {
-      "titel": "Finanzmärkte: US-Finanzminister muss Anleihemärkte stützen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/us-finanzminister-anleihemaerkte-staatsschulden-li.3534201",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T14:10:46+00:00"
-    },
-    {
-      "titel": "Korruption in der Ukraine: Operation „Forrest Gump“",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-kiew-korruption-razzia-selenskij-li.3534122",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T14:06:39+00:00"
     }
   ]
 }
