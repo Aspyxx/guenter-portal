@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-21T14:19:41+00:00",
+  "aktualisiert": "2026-08-21T15:15:42+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "News des Tages: Annalena Baerbock, Waffenversteck bei Berlin, Jamal Musiala",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T15:06:00+00:00"
+    },
+    {
+      "titel": "Lyon: Katze entwischt - Familie verbringt Urlaub an Raststätte",
+      "link": "https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette-a-ef3d49ae-1e0b-40e1-a34f-0f22e0661ca7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T14:55:00+00:00"
+    },
+    {
+      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T14:46:26+00:00"
+    },
+    {
+      "titel": "Tätlichkeit im WM-Finale: Argentinier Paredes für zehn Länderspiele gesperrt",
+      "link": "https://www.sueddeutsche.de/sport/wm-finale-argentinien-parades-foul-sperre-fifa-li.3535111",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T14:45:51+00:00"
+    },
+    {
+      "titel": "Borussia Dortmund macht 21,7 Millionen Euro Verlust",
+      "link": "https://www.spiegel.de/wirtschaft/borussia-dortmund-macht-21-7-millionen-euro-verlust-a-67a0be49-d212-4efd-ba16-9236bdc18570#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T14:39:00+00:00"
+    },
+    {
+      "titel": "Klage gegen »Daily Mail«: Harry, Elton John und Co. müssen Prozesskosten in Millionenhöhe zahlen",
+      "link": "https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen-a-bf4d2daa-0fd3-4764-b477-e01f30f62632#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T14:36:00+00:00"
+    },
+    {
+      "titel": "Gerichtsentscheid: Unfallflucht mit Carsharing-Auto – wann ist der Führerschein weg?",
+      "link": "https://www.spiegel.de/mobilitaet/auto/gerichtsentscheid-unfallflucht-mit-carsharing-auto-wann-ist-der-fuehrerschein-weg-a-38d9be71-6e88-4e6e-be48-5ca0a31357a9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T14:34:00+00:00"
+    },
+    {
+      "titel": "Mehrere Verletzte bei Angriff an schwedischer Schule",
+      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T14:19:32+00:00"
+    },
+    {
+      "titel": "Uno: Annalena Baerbock und der seltsame Schulterschluss von Russland und den USA",
+      "link": "https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T14:17:00+00:00"
+    },
     {
       "titel": "»Mascha und der Bär« im Kika : Ukraine sanktioniert Kinderserie wegen angeblicher russischer Propaganda",
       "link": "https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss",
@@ -44,7 +98,7 @@
     },
     {
       "titel": "Künstliche Intelligenz: Die Angst vor der Wahrheit",
-      "link": "https://www.sueddeutsche.de/medien/ki-wasserzeichen-anthropic-li.3533658",
+      "link": "https://www.sueddeutsche.de/medien/ki-synthid-anthropic-openai-ai-act-li.3533658",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:35:17+00:00"
     },
@@ -73,18 +127,6 @@
       "veroeffentlicht": "2026-08-21T13:29:30+00:00"
     },
     {
-      "titel": "Gräfenhainichen: Frau von durchfahrendem ICE tödlich verletzt",
-      "link": "https://www.spiegel.de/panorama/graefenhainichen-frau-von-durchfahrendem-ice-toedlich-verletzt-a-38a001cf-096f-42c4-b75d-1f5d2cc75d00#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T13:18:00+00:00"
-    },
-    {
-      "titel": "Rostock: Angeklagter gesteht Kokain-Schmuggel auf Segeljacht",
-      "link": "https://www.spiegel.de/panorama/rostock-angeklagter-gesteht-kokain-schmuggel-auf-segeljacht-a-8cfaecaf-da66-4c41-9ac4-d15a455467c6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T13:13:00+00:00"
-    },
-    {
       "titel": "Bundesregierung: Auch ein Kanzler braucht mal Urlaub",
       "link": "https://www.sueddeutsche.de/wirtschaft/merz-urlaub-debatte-li.3534524",
       "quelle": "Süddeutsche",
@@ -97,22 +139,10 @@
       "veroeffentlicht": "2026-08-21T13:11:16+00:00"
     },
     {
-      "titel": "Start in der spanischen Fußball-Liga: Mourinho kämpft um seinen Ruf",
+      "titel": "Start in der spanischen Fußball-Liga: Mourinho kämpft um sein Image",
       "link": "https://www.sueddeutsche.de/sport/real-madrid-jose-mourinho-la-liga-auftakt-fc-barcelona-li.3534855",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:10:30+00:00"
-    },
-    {
-      "titel": "Berlin: Bundesanwaltschaft ermittelt gegen Verdächtigen wegen eines geheimen Waffendepots",
-      "link": "https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot-a-83347454-3f97-4a7b-876a-e1da67837f17#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T12:59:00+00:00"
-    },
-    {
-      "titel": "Israel: Ein Aussteiger berichtet über den rechtsextremen Minister Itamar Ben-Gvir",
-      "link": "https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir-a-6b265332-f836-48e9-82f5-52be3354bbc1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T12:57:00+00:00"
     },
     {
       "titel": "Bundesregierung: Angeschlagen in den Herbst",
@@ -133,40 +163,10 @@
       "veroeffentlicht": "2026-08-21T12:50:12+00:00"
     },
     {
-      "titel": "Erfurt: Statue von Bernd das Brot mit Farbe attackiert",
-      "link": "https://www.spiegel.de/kultur/tv/erfurt-statue-von-bernd-das-brot-mit-farbe-attackiert-a-803812ab-0346-437c-8935-30d80c172ea7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T12:48:00+00:00"
-    },
-    {
-      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T12:46:54+00:00"
-    },
-    {
       "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T12:42:47+00:00"
-    },
-    {
-      "titel": "Nord Stream: Actionfilm über Pipeline-Sprengung – Dreharbeiten in Kroatien",
-      "link": "https://www.spiegel.de/panorama/nord-stream-goes-hollywood-a-75197033-08c7-4720-8329-601783649830#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T12:35:00+00:00"
-    },
-    {
-      "titel": "Aktivisten von Tiananmen-Mahnwachen in Hongkong verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/hongkong-urteil-aktivisten-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T12:28:59+00:00"
-    },
-    {
-      "titel": "Klingbeil und die SPD: Im Überlebenskampf",
-      "link": "https://www.sueddeutsche.de/politik/spd-klingbeil-sachsen-anhalt-ueberleben-li.3533285",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T12:09:52+00:00"
     }
   ]
 }
