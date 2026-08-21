@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-21T13:32:46+00:00",
+  "aktualisiert": "2026-08-21T14:19:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "»Mascha und der Bär« im Kika : Ukraine sanktioniert Kinderserie wegen angeblicher russischer Propaganda",
+      "link": "https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T14:11:00+00:00"
+    },
+    {
+      "titel": "Uno: Das sind die acht Bewerber für den Posten des Uno-Generalsekretärs",
+      "link": "https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers-a-924dabfb-a4a5-48f7-b944-9e5dd62d258d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T14:03:00+00:00"
+    },
+    {
+      "titel": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T13:53:16+00:00"
+    },
+    {
+      "titel": "Said El Mala beim 1. FC Köln: Beförderung zur Nummer 10",
+      "link": "https://www.sueddeutsche.de/sport/said-el-mala-1-fc-koeln-nummer-10-li.3534850",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T13:44:19+00:00"
+    },
+    {
+      "titel": "Schweden: Mehrere Verletzte bei Schwertangriff an schwedischer Schule",
+      "link": "https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T13:36:00+00:00"
+    },
+    {
+      "titel": "Südkorea und USA beenden Militärübung vorzeitig",
+      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaermanoever-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T13:35:51+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Die Angst vor der Wahrheit",
+      "link": "https://www.sueddeutsche.de/medien/ki-wasserzeichen-anthropic-li.3533658",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T13:35:17+00:00"
+    },
+    {
+      "titel": "Wo Cannabis boomt und wo es Probleme gibt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/cannabis-teillegalisierung-debatte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T13:34:40+00:00"
+    },
+    {
+      "titel": "Gasversorgung: Engpass? Welcher Engpass?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/gas-gasmangel-speicher-fuellstaende-reiche-li.3534704",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T13:34:31+00:00"
+    },
+    {
+      "titel": "FC Bayern: Im Fall Musiala fallen die Puzzlestücke ins Bild",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-musiala-krankheit-zusammenbruch-kompany-li.3534851",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T13:31:30+00:00"
+    },
     {
       "titel": "Europäisches Asylsystem: Italien fordert Kompensation für Asylsuchende",
       "link": "https://www.tagesschau.de/ausland/europa/geas-asylsuchende-dublin-italien-100.html",
@@ -37,7 +97,13 @@
       "veroeffentlicht": "2026-08-21T13:11:16+00:00"
     },
     {
-      "titel": "Berlin: Bundesanwaltschaft ermittelt gegen Verdächtigen wegen geheimem Waffendepot",
+      "titel": "Start in der spanischen Fußball-Liga: Mourinho kämpft um seinen Ruf",
+      "link": "https://www.sueddeutsche.de/sport/real-madrid-jose-mourinho-la-liga-auftakt-fc-barcelona-li.3534855",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T13:10:30+00:00"
+    },
+    {
+      "titel": "Berlin: Bundesanwaltschaft ermittelt gegen Verdächtigen wegen eines geheimen Waffendepots",
       "link": "https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot-a-83347454-3f97-4a7b-876a-e1da67837f17#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-21T12:59:00+00:00"
@@ -49,7 +115,7 @@
       "veroeffentlicht": "2026-08-21T12:57:00+00:00"
     },
     {
-      "titel": "Bundesregierung: Koalition steht vor stürmischem Herbst",
+      "titel": "Bundesregierung: Angeschlagen in den Herbst",
       "link": "https://www.sueddeutsche.de/politik/berlin-koalition-herausforderungen-herbst-li.3534702",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T12:52:35+00:00"
@@ -97,76 +163,10 @@
       "veroeffentlicht": "2026-08-21T12:28:59+00:00"
     },
     {
-      "titel": "Volkenshagen: Bulle auf Koppel enthauptet – Polizei sucht Zeugen",
-      "link": "https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen-a-35e0ee90-69d2-4464-8f4d-2426db5ba71a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T12:19:00+00:00"
-    },
-    {
-      "titel": "Katzen-Urin: Forschende entschlüsseln, wie sich die Tiere an Duftmarken erkennen",
-      "link": "https://www.spiegel.de/wissenschaft/natur/katzen-urin-forschende-entschluesseln-wie-sich-die-tiere-an-duftmarken-erkennen-a-cbee698e-18fa-4146-9992-ce40ca10737b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T12:15:00+00:00"
-    },
-    {
-      "titel": "Kunst vs. KI: Ist ein Bild ohne Kamera noch ein Foto?",
-      "link": "https://www.tagesschau.de/kultur/fotografie-ki-kuenstliche-intelligenz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T12:11:09+00:00"
-    },
-    {
       "titel": "Klingbeil und die SPD: Im Überlebenskampf",
       "link": "https://www.sueddeutsche.de/politik/spd-klingbeil-sachsen-anhalt-ueberleben-li.3533285",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T12:09:52+00:00"
-    },
-    {
-      "titel": "Neuer SPIEGEL-Politik-Podcast »MAD KINGS: Machtprobe für Deutschland«: Hier den Trailer hören",
-      "link": "https://www.spiegel.de/politik/neuer-spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-hier-den-trailer-hoeren-a-4953795f-1096-4253-b450-83e7100d04d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T12:01:00+00:00"
-    },
-    {
-      "titel": "Deutsche Industrie wächst so stark wie zuletzt 2022",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-mittagsschwerpunkt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T11:53:00+00:00"
-    },
-    {
-      "titel": "Leute: „Ich hörte, ihr vermisst mich“",
-      "link": "https://www.sueddeutsche.de/panorama/melania-trump-verschwunden-38-tage-erster-auftritt-geruechte-li.3534484",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T11:33:56+00:00"
-    },
-    {
-      "titel": "Syrien: Israels Bomben sind eine Warnung an den türkischen Präsidenten",
-      "link": "https://www.sueddeutsche.de/politik/syrien-israel-tuerkei-luftangriffe-warnung-li.3534134",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T11:30:25+00:00"
-    },
-    {
-      "titel": "Jason Arday: Das Ende eines akademischen Märchens",
-      "link": "https://www.sueddeutsche.de/wissen/universitaet-cambridge-jason-arday-identitaet-wissenschaft-li.3524818",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T10:52:20+00:00"
-    },
-    {
-      "titel": "Nord-Stream-Verdächtiger kommt nach Festnahme in Kroatien in U-Haft",
-      "link": "https://www.tagesschau.de/ausland/europa/nord-stream-untersuchungshaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T10:52:09+00:00"
-    },
-    {
-      "titel": "Medizin: Der Fall eines Fußballers",
-      "link": "https://www.sueddeutsche.de/kultur/jamal-musiala-zusammenbrueche-epilepsie-verdacht-diagnose-li.3533944",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T10:11:47+00:00"
-    },
-    {
-      "titel": "Stilkritik: Schlossbesitzer: Wandern im Hause Zuckerberg",
-      "link": "https://www.sueddeutsche.de/panorama/mark-zuckerberg-schloss-waterford-irland-stilkritik-li.3534856",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T10:03:12+00:00"
     }
   ]
 }
