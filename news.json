@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-21T23:03:28+00:00",
+  "aktualisiert": "2026-08-21T23:40:59+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "TikTok: Vergleich über 400 Millionen Dollar nach Verstößen bei Kinderdaten",
+      "link": "https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten-a-c2c71748-9f98-430f-aef9-730a510e1f3d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T23:33:00+00:00"
+    },
+    {
+      "titel": "Mindestens 32.000 zusätzliche Todesfälle in Europa seit Sommerbeginn",
+      "link": "https://www.spiegel.de/wissenschaft/mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn-a-6f3b986e-e440-4b61-9b8a-bdd91a098d9f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T23:18:00+00:00"
+    },
     {
       "titel": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
       "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
@@ -67,22 +79,10 @@
       "veroeffentlicht": "2026-08-21T19:35:00+00:00"
     },
     {
-      "titel": "Infektionskrankheit: West-Nil-Virus aus zwölf europäischen Ländern gemeldet",
-      "link": "https://www.spiegel.de/wissenschaft/infektionskrankheit-west-nil-virus-aus-zwoelf-europaeischen-laendern-gemeldet-a-55b368c9-0bb6-4723-87a5-d09e28063523#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T19:34:00+00:00"
-    },
-    {
       "titel": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
       "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T19:27:17+00:00"
-    },
-    {
-      "titel": "Glücksspiel: Merkur-Gründer Paul Gauselmann ist tot",
-      "link": "https://www.spiegel.de/wirtschaft/glueckspiel-merkur-gruender-paul-gauselmann-ist-tot-a-75438b07-8e00-4b22-b73c-c3065aa810a1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T18:44:00+00:00"
     },
     {
       "titel": "Korruptionsskandal in der Ukraine weitet sich aus",
