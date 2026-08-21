@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-21T11:43:53+00:00",
+  "aktualisiert": "2026-08-21T12:15:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kunst vs. KI: Ist ein Bild ohne Kamera noch ein Foto?",
+      "link": "https://www.tagesschau.de/kultur/fotografie-ki-kuenstliche-intelligenz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T12:11:09+00:00"
+    },
+    {
+      "titel": "Neuer SPIEGEL-Politik-Podcast »MAD KINGS: Machtprobe für Deutschland«: Hier den Trailer hören",
+      "link": "https://www.spiegel.de/politik/neuer-spiegel-politik-podcast-mad-kings-machtprobe-fuer-deutschland-hier-den-trailer-hoeren-a-4953795f-1096-4253-b450-83e7100d04d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T12:01:00+00:00"
+    },
+    {
+      "titel": "Deutsche Industrie wächst so stark wie zuletzt 2022",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-mittagsschwerpunkt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T11:53:00+00:00"
+    },
+    {
+      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T11:44:08+00:00"
+    },
+    {
+      "titel": "Hofgeismar: Autofahrer verletzt acht Passanten",
+      "link": "https://www.spiegel.de/panorama/justiz/hofgeismar-autofahrer-verletzt-acht-passanten-a-0c6f2058-0329-4735-b160-d2bb35475185#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T11:44:00+00:00"
+    },
     {
       "titel": "Deutsche Bahn: Wichtige Bahnstrecke zwischen Düsseldorf und Köln wochenlang gesperrt",
       "link": "https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wichtige-bahnstrecke-zwischen-duesseldorf-und-koeln-wochenlang-gesperrt-a-65eb8c98-3a6f-48fd-b29a-09d668fc4966#ref=rss",
@@ -73,18 +103,6 @@
       "veroeffentlicht": "2026-08-21T10:24:00+00:00"
     },
     {
-      "titel": "Com-Szene: Generalbundesanwalt ermittelt gegen 19-Jährigen wegen Anstiftung zu Mord und Missbrauch",
-      "link": "https://www.spiegel.de/netzwelt/com-szene-generalbundesanwalt-ermittelt-gegen-19-jaehrigen-wegen-anstiftung-zu-mord-und-missbrauch-a-a7a192c3-c290-4096-8e03-47c60be45bd2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T10:22:00+00:00"
-    },
-    {
-      "titel": "Russland: Zensierte »Spider-Man«-Raubkopie sorgt für Publikumsansturm in Moskauer Kinos",
-      "link": "https://www.spiegel.de/kultur/kino/russland-zensierte-spider-man-raubkopie-sorgt-fuer-publikumsansturm-in-moskauer-kinos-a-4a872769-708e-4f38-8839-d30531838e60#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T10:16:00+00:00"
-    },
-    {
       "titel": "Stilkritik: Schlossbesitzer: Wandern im Hause Zuckerberg",
       "link": "https://www.sueddeutsche.de/panorama/mark-zuckerberg-schloss-waterford-irland-stilkritik-li.3534856",
       "quelle": "Süddeutsche",
@@ -133,28 +151,10 @@
       "veroeffentlicht": "2026-08-21T08:30:00+00:00"
     },
     {
-      "titel": "Schneider besucht die Ukraine: Umweltschutz in Kriegszeiten",
-      "link": "https://www.tagesschau.de/ausland/europa/schneider-ukraine-umweltschutz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T08:12:16+00:00"
-    },
-    {
-      "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T08:00:22+00:00"
-    },
-    {
       "titel": "Russischer Geheimdienst: Brisantes Waffenversteck am Rand von Berlin",
       "link": "https://www.sueddeutsche.de/politik/berlin-waffendepot-russland-geheimdienst-anschlaege-verfassungsschutz-hybrider-krieg-li.3534556",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T08:00:07+00:00"
-    },
-    {
-      "titel": "Studie: Aufmerksamkeit kann Juckreiz lindern",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T07:54:39+00:00"
     },
     {
       "titel": "Demografischer Wandel: Studie: Ostdeutschland gehen ohne Zuwanderung die Arbeitskräfte aus",
