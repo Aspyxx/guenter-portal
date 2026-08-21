@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-21T22:01:30+00:00",
+  "aktualisiert": "2026-08-21T22:43:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
+      "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T22:04:29+00:00"
+    },
     {
       "titel": "Ukraine: Viele Tote nach russischem Angriff auf Einkaufszentrum",
       "link": "https://www.spiegel.de/ausland/ukraine-viele-tote-nach-russischem-angriff-auf-einkaufszentrum-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss",
@@ -125,12 +131,6 @@
       "link": "https://www.sueddeutsche.de/kultur/sachsen-anhalt-wahlprogramm-kulturpolitik-melanie-amann-unframed-li.3529977",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T15:57:06+00:00"
-    },
-    {
-      "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T15:30:09+00:00"
     },
     {
       "titel": "Tätlichkeit im WM-Finale: Argentinier Paredes für zehn Länderspiele gesperrt",
