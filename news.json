@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-21T17:46:37+00:00",
+  "aktualisiert": "2026-08-21T18:57:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T18:55:18+00:00"
+    },
+    {
+      "titel": "Glücksspiel: Merkur-Gründer Paul Gauselmann ist tot",
+      "link": "https://www.spiegel.de/wirtschaft/glueckspiel-merkur-gruender-paul-gauselmann-ist-tot-a-75438b07-8e00-4b22-b73c-c3065aa810a1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T18:44:00+00:00"
+    },
+    {
+      "titel": "Korruptionsskandal in der Ukraine weitet sich aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T18:30:11+00:00"
+    },
+    {
+      "titel": "Verletzte bei Schwert-Angriff an schwedischer Schule",
+      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T18:17:45+00:00"
+    },
+    {
+      "titel": "Katherina Reiche: Rätselhafter Schmusekurs mit China",
+      "link": "https://www.spiegel.de/politik/deutschland/katherina-reiches-raetselhafter-schmusekurs-mit-peking-a-439c931c-e7da-4f5b-8477-73feb2e3e1d3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T18:07:00+00:00"
+    },
+    {
+      "titel": "Frankreich: »Löchrig« oder »platzen leicht« – Behörden warnen vor schadhaften Kondomen",
+      "link": "https://www.spiegel.de/panorama/frankreich-loechrig-oder-platzen-leicht-behoerden-warnen-vor-schadhaften-kondomen-a-27b0a537-79c8-41af-b5cb-36d432ea05b8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T17:48:00+00:00"
+    },
     {
       "titel": "Krieg in der Ukraine: Tote und Verletzte nach russischem Angriff auf Einkaufszentrum",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krywyj-rih-angriff-tote-li.3524928",
@@ -23,12 +59,6 @@
       "link": "https://www.spiegel.de/politik/deutschland/heizungsgesetz-gutachter-halten-gebaeudemodernisierungsgesetz-weiter-fuer-potenziell-verfassungswidrig-a-ff0c335b-7cf0-458f-aab2-01b9104c75f1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-21T17:23:00+00:00"
-    },
-    {
-      "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T17:20:18+00:00"
     },
     {
       "titel": "Dürre in Europa: Österreich hilft Landwirten mit mehr als 240 Millionen Euro",
@@ -67,28 +97,10 @@
       "veroeffentlicht": "2026-08-21T16:25:00+00:00"
     },
     {
-      "titel": "Nathan Cofnas: Wer ist der Mann, der den Fall Jason Arday ins Rollen brachte?",
-      "link": "https://www.spiegel.de/ausland/nathan-cofnas-wer-ist-der-mann-der-den-fall-jason-arday-ins-rollen-brachte-a-d549ac11-13a7-4377-a43b-98a214d38858#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T16:19:00+00:00"
-    },
-    {
       "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
       "link": "https://www.sueddeutsche.de/politik/desinformation-landtagswahl-sachsen-anhalt-sven-schulze-russland-fake-news-doppelgaenger-matrjoschka-li.3535102",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T16:16:22+00:00"
-    },
-    {
-      "titel": "Mehrere Verletzte bei Angriff an schwedischer Schule",
-      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T16:12:38+00:00"
-    },
-    {
-      "titel": "Uber soll wegen Verstoßes gegen Datenschutzregeln in den Niederlanden 825 Millionen Euro Strafe zahlen",
-      "link": "https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T16:08:00+00:00"
     },
     {
       "titel": "Jahrhundertsommer? Warum Forschende neu denken müssen",
@@ -109,12 +121,6 @@
       "veroeffentlicht": "2026-08-21T15:57:06+00:00"
     },
     {
-      "titel": "WM-Finale 2026: Argentiniens Leandro Paredes zehn Spiele gesperrt",
-      "link": "https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T15:47:00+00:00"
-    },
-    {
       "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
       "quelle": "Tagesschau",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T15:22:16+00:00"
-    },
-    {
-      "titel": "Irans Präsident sieht guten Zeitpunkt für Kriegsende mit den USA",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-peseschkian-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T15:21:40+00:00"
     },
     {
       "titel": "Tätlichkeit im WM-Finale: Argentinier Paredes für zehn Länderspiele gesperrt",
