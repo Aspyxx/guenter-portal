@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-21T12:15:20+00:00",
+  "aktualisiert": "2026-08-21T13:32:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,118 @@
   },
   "meldungen": [
     {
+      "titel": "Europäisches Asylsystem: Italien fordert Kompensation für Asylsuchende",
+      "link": "https://www.tagesschau.de/ausland/europa/geas-asylsuchende-dublin-italien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T13:29:30+00:00"
+    },
+    {
+      "titel": "Gräfenhainichen: Frau von durchfahrendem ICE tödlich verletzt",
+      "link": "https://www.spiegel.de/panorama/graefenhainichen-frau-von-durchfahrendem-ice-toedlich-verletzt-a-38a001cf-096f-42c4-b75d-1f5d2cc75d00#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T13:18:00+00:00"
+    },
+    {
+      "titel": "Rostock: Angeklagter gesteht Kokain-Schmuggel auf Segeljacht",
+      "link": "https://www.spiegel.de/panorama/rostock-angeklagter-gesteht-kokain-schmuggel-auf-segeljacht-a-8cfaecaf-da66-4c41-9ac4-d15a455467c6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T13:13:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung: Auch ein Kanzler braucht mal Urlaub",
+      "link": "https://www.sueddeutsche.de/wirtschaft/merz-urlaub-debatte-li.3534524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T13:12:15+00:00"
+    },
+    {
+      "titel": "USA erstatten deutschen Firmen Hunderte Millionen Euro an Zöllen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/us-zoelle-rueckzahlungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T13:11:16+00:00"
+    },
+    {
+      "titel": "Berlin: Bundesanwaltschaft ermittelt gegen Verdächtigen wegen geheimem Waffendepot",
+      "link": "https://www.spiegel.de/panorama/berlin-bundesanwaltschaft-ermittelt-gegen-verdaechtigen-wegen-geheimem-waffendepot-a-83347454-3f97-4a7b-876a-e1da67837f17#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T12:59:00+00:00"
+    },
+    {
+      "titel": "Israel: Ein Aussteiger berichtet über den rechtsextremen Minister Itamar Ben-Gvir",
+      "link": "https://www.spiegel.de/ausland/israel-ein-aussteiger-berichtet-ueber-den-rechtsextremen-minister-itamar-ben-gvir-a-6b265332-f836-48e9-82f5-52be3354bbc1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T12:57:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung: Koalition steht vor stürmischem Herbst",
+      "link": "https://www.sueddeutsche.de/politik/berlin-koalition-herausforderungen-herbst-li.3534702",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T12:52:35+00:00"
+    },
+    {
+      "titel": "„Schandfleck“ auf dem Wasser: Warum am Tegernsee ein alter Ausflugsdampfer vergammelt",
+      "link": "https://www.sueddeutsche.de/bayern/tegernsee-dampfer-schiff-schandfleck-li.3534361",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T12:52:10+00:00"
+    },
+    {
+      "titel": "Acht Tote bei Flugzeugabsturz auf US-Luftwaffenstützpunkt in Alaska",
+      "link": "https://www.tagesschau.de/ausland/amerika/alaska-flugzeugabsturz-luftwaffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T12:50:12+00:00"
+    },
+    {
+      "titel": "Erfurt: Statue von Bernd das Brot mit Farbe attackiert",
+      "link": "https://www.spiegel.de/kultur/tv/erfurt-statue-von-bernd-das-brot-mit-farbe-attackiert-a-803812ab-0346-437c-8935-30d80c172ea7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T12:48:00+00:00"
+    },
+    {
+      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T12:46:54+00:00"
+    },
+    {
+      "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T12:42:47+00:00"
+    },
+    {
+      "titel": "Nord Stream: Actionfilm über Pipeline-Sprengung – Dreharbeiten in Kroatien",
+      "link": "https://www.spiegel.de/panorama/nord-stream-goes-hollywood-a-75197033-08c7-4720-8329-601783649830#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T12:35:00+00:00"
+    },
+    {
+      "titel": "Aktivisten von Tiananmen-Mahnwachen in Hongkong verurteilt",
+      "link": "https://www.tagesschau.de/ausland/asien/hongkong-urteil-aktivisten-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T12:28:59+00:00"
+    },
+    {
+      "titel": "Volkenshagen: Bulle auf Koppel enthauptet – Polizei sucht Zeugen",
+      "link": "https://www.spiegel.de/panorama/justiz/volkenshagen-bulle-auf-koppel-enthauptet-polizei-sucht-zeugen-a-35e0ee90-69d2-4464-8f4d-2426db5ba71a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T12:19:00+00:00"
+    },
+    {
+      "titel": "Katzen-Urin: Forschende entschlüsseln, wie sich die Tiere an Duftmarken erkennen",
+      "link": "https://www.spiegel.de/wissenschaft/natur/katzen-urin-forschende-entschluesseln-wie-sich-die-tiere-an-duftmarken-erkennen-a-cbee698e-18fa-4146-9992-ce40ca10737b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T12:15:00+00:00"
+    },
+    {
       "titel": "Kunst vs. KI: Ist ein Bild ohne Kamera noch ein Foto?",
       "link": "https://www.tagesschau.de/kultur/fotografie-ki-kuenstliche-intelligenz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T12:11:09+00:00"
+    },
+    {
+      "titel": "Klingbeil und die SPD: Im Überlebenskampf",
+      "link": "https://www.sueddeutsche.de/politik/spd-klingbeil-sachsen-anhalt-ueberleben-li.3533285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T12:09:52+00:00"
     },
     {
       "titel": "Neuer SPIEGEL-Politik-Podcast »MAD KINGS: Machtprobe für Deutschland«: Hier den Trailer hören",
@@ -25,40 +133,16 @@
       "veroeffentlicht": "2026-08-21T11:53:00+00:00"
     },
     {
-      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T11:44:08+00:00"
-    },
-    {
-      "titel": "Hofgeismar: Autofahrer verletzt acht Passanten",
-      "link": "https://www.spiegel.de/panorama/justiz/hofgeismar-autofahrer-verletzt-acht-passanten-a-0c6f2058-0329-4735-b160-d2bb35475185#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T11:44:00+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn: Wichtige Bahnstrecke zwischen Düsseldorf und Köln wochenlang gesperrt",
-      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-wichtige-bahnstrecke-zwischen-duesseldorf-und-koeln-wochenlang-gesperrt-a-65eb8c98-3a6f-48fd-b29a-09d668fc4966#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T11:35:00+00:00"
-    },
-    {
       "titel": "Leute: „Ich hörte, ihr vermisst mich“",
       "link": "https://www.sueddeutsche.de/panorama/melania-trump-verschwunden-38-tage-erster-auftritt-geruechte-li.3534484",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T11:33:56+00:00"
     },
     {
-      "titel": "Harry und Meghan zurück in Großbritannien: Zwei Konkurrenzhöfe für die Windsors",
-      "link": "https://www.spiegel.de/kultur/harry-und-meghan-zurueck-in-grossbritannien-zwei-konkurrenzhoefe-fuer-die-windsors-a-bf38fbd7-5613-4173-93f2-602ca9c8d66f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T11:31:00+00:00"
-    },
-    {
-      "titel": "»Hazel Eyes« von Sam Smith: Bitte, bitte, sagt dieses Album mit jeder Note, umarme mich",
-      "link": "https://www.spiegel.de/kultur/musik/hazel-eyes-von-sam-smith-kuschel-pop-vol-1-a-9d972f72-4655-4ce4-baab-292c3164e834#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T11:29:00+00:00"
+      "titel": "Syrien: Israels Bomben sind eine Warnung an den türkischen Präsidenten",
+      "link": "https://www.sueddeutsche.de/politik/syrien-israel-tuerkei-luftangriffe-warnung-li.3534134",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T11:30:25+00:00"
     },
     {
       "titel": "Jason Arday: Das Ende eines akademischen Märchens",
@@ -73,100 +157,16 @@
       "veroeffentlicht": "2026-08-21T10:52:09+00:00"
     },
     {
-      "titel": "Isernhagen bei Hannover: 84-Jährige stirbt nach Raubüberfall in ihrem Haus",
-      "link": "https://www.spiegel.de/panorama/isernhagen-bei-hannover-84-jaehrige-stirbt-nach-raubueberfall-in-ihrem-haus-a-3b9addb8-c01f-49db-815d-56085aa8054c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T10:50:00+00:00"
-    },
-    {
-      "titel": "Anthropic und OpenAI: Die dunkle Seite der neuen KI-Supermächte",
-      "link": "https://www.spiegel.de/wirtschaft/anthropic-und-openai-die-dunkle-seite-der-neuen-ki-supermaechte-a-a67a814b-cbef-4b4d-8ca3-561ba1d4f563#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T10:46:00+00:00"
-    },
-    {
-      "titel": "Lettland entdeckt weiteren Minitunnel unter Grenzzaun zu Belarus",
-      "link": "https://www.spiegel.de/ausland/lettland-entdeckt-weiteren-minitunnel-unter-grenzzaun-zu-belarus-a-8dda1400-766f-4901-8c27-77e887ede6a6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T10:37:00+00:00"
-    },
-    {
-      "titel": "Was nach einem Jahr vom EU-US-Zolldeal geblieben ist",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/jahrestag-zolldeal-usa-eu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T10:28:16+00:00"
-    },
-    {
-      "titel": "Karl-Theodor zu Guttenberg: Ex-Minister erfolgreich gegen »Correctiv«",
-      "link": "https://www.spiegel.de/kultur/karl-theodor-zu-guttenberg-ex-minister-erfolgreich-gegen-correctiv-a-01b4d68e-1a8b-46ff-958d-3fafbe7451dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T10:24:00+00:00"
+      "titel": "Medizin: Der Fall eines Fußballers",
+      "link": "https://www.sueddeutsche.de/kultur/jamal-musiala-zusammenbrueche-epilepsie-verdacht-diagnose-li.3533944",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T10:11:47+00:00"
     },
     {
       "titel": "Stilkritik: Schlossbesitzer: Wandern im Hause Zuckerberg",
       "link": "https://www.sueddeutsche.de/panorama/mark-zuckerberg-schloss-waterford-irland-stilkritik-li.3534856",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T10:03:12+00:00"
-    },
-    {
-      "titel": "Sozialhilfe: Ausgaben steigen 2025 auf 21,5 Milliarden Euro",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steigende-sozialhilfeausgaben-2025-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T09:50:49+00:00"
-    },
-    {
-      "titel": "Gefährliche Sicherheitslücke bei Arzneimittelpackungen",
-      "link": "https://www.tagesschau.de/investigativ/ndr/medikamente-faelschungen-sicherheitsluecke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T09:47:13+00:00"
-    },
-    {
-      "titel": "FC Bayern: Kompany ist „total ruhig“ wegen Musiala",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-musiala-erkrankung-kompany-supercup-li.3534895",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T09:04:01+00:00"
-    },
-    {
-      "titel": "Weißes Haus: Sie schreibt dem Präsidenten: „Du bist alles, was für mich zählt“",
-      "link": "https://www.sueddeutsche.de/politik/usa-weisses-haus-trump-natalie-harp-portraet-li.3534445",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T08:51:43+00:00"
-    },
-    {
-      "titel": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
-      "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T08:44:16+00:00"
-    },
-    {
-      "titel": "Marktbericht: Anleger ringen um die Marke von 26.000 Punkten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T08:36:43+00:00"
-    },
-    {
-      "titel": "„Bauhaus-Manifest 2026“: Gropius grüßt die AfD",
-      "link": "https://www.sueddeutsche.de/kultur/bauhaus-manifest-afd-sachsen-anhalt-li.3532650",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T08:30:00+00:00"
-    },
-    {
-      "titel": "Russischer Geheimdienst: Brisantes Waffenversteck am Rand von Berlin",
-      "link": "https://www.sueddeutsche.de/politik/berlin-waffendepot-russland-geheimdienst-anschlaege-verfassungsschutz-hybrider-krieg-li.3534556",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T08:00:07+00:00"
-    },
-    {
-      "titel": "Demografischer Wandel: Studie: Ostdeutschland gehen ohne Zuwanderung die Arbeitskräfte aus",
-      "link": "https://www.sueddeutsche.de/politik/ostdeutschland-arbeitskraefte-zuwanderung-li.3534674",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T06:51:01+00:00"
-    },
-    {
-      "titel": "USA: Trump will Zahl der US-Raketenstarts drastisch erhöhen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-raumfahrt-raketenstart-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-20T23:40:19+00:00"
     }
   ]
 }
