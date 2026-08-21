@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-21T21:44:09+00:00",
+  "aktualisiert": "2026-08-21T22:10:08+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
+      "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Korruptionsskandal in der Ukraine weitet sich aus",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "USA erstatten deutschen Firmen Hunderte Millionen Euro an Zöllen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/us-zoelle-rueckzahlungen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "DAX geht mit Gewinn aus der Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
     }
   ]
 }
