@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-21T14:03:35+00:00",
+  "aktualisiert": "2026-08-21T14:59:08+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Italien",
+      "link": "https://www.tagesschau.de/ausland/europa/geas-asylsuchende-dublin-italien-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "USA erstatten deutschen Firmen Hunderte Millionen Euro an Zöllen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/us-zoelle-rueckzahlungen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Lübecker Nachrichten",
-      "link": "https://www.tagesschau.de/ausland/ungarn-oerr-nachrichten-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Italien fordert Kompensation für Asylsuchende",
-      "link": "https://www.tagesschau.de/ausland/europa/geas-asylsuchende-dublin-italien-100.html",
+      "titel": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
