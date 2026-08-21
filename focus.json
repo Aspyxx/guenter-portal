@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-21T09:04:16+00:00",
+  "aktualisiert": "2026-08-21T09:56:40+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🗳️"
-    },
-    {
-      "rang": 2,
       "titel": "Geheimes Waffendepot bei Berlin entdeckt",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Anleger ringen um die Marke von 26.000 Punkten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
+    },
+    {
+      "rang": 3,
+      "titel": "Städtetag fordert Pflegevollversicherung zur Entlastung der Kommunen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/staedtetag-pflege-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
