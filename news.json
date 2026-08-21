@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-21T01:58:34+00:00",
+  "aktualisiert": "2026-08-21T03:17:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump will deutlich mehr Raketenstarts ins All ermöglichen",
+      "link": "https://www.spiegel.de/wirtschaft/trump-will-deutlich-mehr-raketenstarts-ins-all-ermoeglichen-a-8ebb641d-d99f-4ffc-9a77-ca2c20e6598e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T02:56:00+00:00"
+    },
+    {
+      "titel": "Zu wenig Regen – Schiffsverkehr durch Panamakanal wird reduziert",
+      "link": "https://www.spiegel.de/wirtschaft/zu-wenig-regen-schiffsverkehr-durch-panamakanal-wird-reduziert-a-70cb3168-9a6f-4567-acc8-d080cf6c6f66#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T02:27:00+00:00"
+    },
     {
       "titel": "Finnland vermutet Verletzung seines Luftraums durch russisches Flugzeug",
       "link": "https://www.spiegel.de/ausland/finnland-vermutet-verletzung-seines-luftraums-durch-russisches-flugzeug-a-f62baf37-6f63-4468-95be-9d940de8d5ba#ref=rss",
@@ -67,22 +79,10 @@
       "veroeffentlicht": "2026-08-20T20:09:00+00:00"
     },
     {
-      "titel": "Baden-Württemberg: Innenminister leistet Erste Hilfe nach Unfall auf A8",
-      "link": "https://www.spiegel.de/politik/baden-wuerttemberg-innenminister-leistet-erste-hilfe-nach-unfall-auf-a8-a-2144943c-160a-4c41-bf09-208ac1cc0737#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T20:00:00+00:00"
-    },
-    {
       "titel": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
       "link": "https://www.tagesschau.de/kommentar/ceuta-migranten-kommentar-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-20T19:43:06+00:00"
-    },
-    {
-      "titel": "Itamar Ben-Gvir: Warum die Empörung über Israels Minister scheinheilig ist – Meinung",
-      "link": "https://www.spiegel.de/ausland/itamar-ben-gvir-warum-die-empoerung-ueber-israels-minister-scheinheilig-ist-meinung-a-071cc345-6205-44fe-b1be-cfe932b8cf6c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-20T19:35:00+00:00"
     },
     {
       "titel": "Auf Baustelle entdeckt: Wem gehört der Goldschatz von Dendermonde?",
