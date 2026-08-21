@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-21T07:13:43+00:00",
+  "aktualisiert": "2026-08-21T08:02:31+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html",
+      "titel": "Geheimes Waffendepot bei Berlin entdeckt",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
       "quelle": "Tagesschau",
-      "icon": "🗳️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Panamakanal",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/panamakanal-schiffsverkehr-trockenheit-100.html",
+      "titel": "Aufmerksamkeit kann Juckreiz lindern",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Waldbrand in Hürtgenwald bei Aachen endgültig gelöscht",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-huertgenwald-110.html",
+      "titel": "Städtetag fordert Pflegevollversicherung zur Entlastung der Kommunen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/staedtetag-pflege-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
