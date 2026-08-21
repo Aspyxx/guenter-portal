@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-21T18:57:33+00:00",
+  "aktualisiert": "2026-08-21T19:38:58+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Zohran Mamdani: Warum der Bürgermeister von New York City plötzlich Chinesisch spricht",
+      "link": "https://www.spiegel.de/ausland/zohran-mamdani-warum-der-buergermeister-von-new-york-city-ploetzlich-chinesisch-spricht-a-86883641-5def-4b63-a486-c5cd615f6adb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T19:35:00+00:00"
+    },
+    {
+      "titel": "Infektionskrankheit: West-Nil-Virus aus zwölf europäischen Ländern gemeldet",
+      "link": "https://www.spiegel.de/wissenschaft/infektionskrankheit-west-nil-virus-aus-zwoelf-europaeischen-laendern-gemeldet-a-55b368c9-0bb6-4723-87a5-d09e28063523#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T19:34:00+00:00"
+    },
+    {
+      "titel": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T19:27:17+00:00"
+    },
     {
       "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
@@ -73,12 +91,6 @@
       "veroeffentlicht": "2026-08-21T17:15:00+00:00"
     },
     {
-      "titel": "Migration: Deutschland verhandelt mit EU-Staaten über Abschiebezentren in Ruanda",
-      "link": "https://www.spiegel.de/ausland/migration-deutschland-verhandelt-mit-eu-staaten-ueber-abschiebezentren-in-ruanda-a-ffcd7720-2b79-48bd-8c51-971e2f572832#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T16:50:00+00:00"
-    },
-    {
       "titel": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html",
       "quelle": "Tagesschau",
@@ -89,12 +101,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T16:27:50+00:00"
-    },
-    {
-      "titel": "Tatjana Kim: Die Ukraine bombardiert Wildberries-Lager - das ist die Gründerin",
-      "link": "https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T16:25:00+00:00"
     },
     {
       "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T15:30:09+00:00"
-    },
-    {
-      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T15:22:16+00:00"
     },
     {
       "titel": "Tätlichkeit im WM-Finale: Argentinier Paredes für zehn Länderspiele gesperrt",
