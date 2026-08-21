@@ -25,6 +25,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Remote-Stand synchronisieren
+        run: |
+          # Vor der Pipeline synchronisieren, solange der Checkout sauber ist.
+          git fetch origin main
+          git rebase origin/main
+
       - name: Nachrichten ermitteln
         run: python scripts/update_news.py
 
@@ -35,11 +41,6 @@ jobs:
 
       - name: Geänderte Daten veröffentlichen
         run: |
-          # Den Remote-Stand unmittelbar vor der Änderung einholen. Dadurch
-          # wird ein zwischenzeitlich veröffentlichter Commit nicht übergangen.
-          git fetch origin main
-          git rebase origin/main
-
           if git diff --quiet -- news.json; then
             echo "news.json ist unverändert."
             exit 0
@@ -60,7 +61,7 @@ jobs:
               echo "Push nach 3 Versuchen fehlgeschlagen."
               exit 1
             fi
-            echo "Push fehlgeschlagen; synchronisiere vor Versuch $((attempt + 1))."
+            echo "Push fehlgeschlagen; synchronisiere Commit vor Versuch $((attempt + 1))."
             git fetch origin main
             git rebase origin/main
           done
