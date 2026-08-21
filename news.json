@@ -1,11 +1,77 @@
 {
-  "aktualisiert": "2026-08-21T15:15:42+00:00",
+  "aktualisiert": "2026-08-21T16:04:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Jahrhundertsommer? Warum Forschende neu denken müssen",
+      "link": "https://www.tagesschau.de/wissen/klima/wetter-klima-jahrhundertsommer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T16:00:46+00:00"
+    },
+    {
+      "titel": "Prinz Harry und Elton John müssen Prozesskosten in Millionenhöhe begleichen",
+      "link": "https://www.tagesschau.de/ausland/europa/daily-mail-prozesskosten-harry-elton-john-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T16:00:40+00:00"
+    },
+    {
+      "titel": "Swift: Forschungssatellit droht nach gescheiterter Nasa-Rettung abzustürzen",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/swift-forschungssatellit-droht-nach-gescheiterter-nasa-rettung-abzustuerzen-a-3c533d19-fbb3-41db-bd65-be197c9656bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T15:47:00+00:00"
+    },
+    {
+      "titel": "WM-Finale 2026: Argentiniens Leandro Paredes zehn Spiele gesperrt",
+      "link": "https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T15:47:00+00:00"
+    },
+    {
+      "titel": "Schweden: Mehrere Verletzte bei Schwertangriff an schwedischer Schule",
+      "link": "https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T15:40:00+00:00"
+    },
+    {
+      "titel": "FPÖ in Österreich: Wie verändern Rechtspopulisten in den Landesregierungen das Land - Podcast",
+      "link": "https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T15:37:00+00:00"
+    },
+    {
+      "titel": "Eugen Block streitet in Dänemark um Umgangsrecht mit Enkeln",
+      "link": "https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln-a-060c8066-94ac-4a89-a40f-315d69f68b0d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T15:31:00+00:00"
+    },
+    {
+      "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T15:30:09+00:00"
+    },
+    {
+      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T15:22:16+00:00"
+    },
+    {
+      "titel": "Irans Präsident sieht guten Zeitpunkt für Kriegsende mit den USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-peseschkian-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T15:21:40+00:00"
+    },
+    {
+      "titel": "US Open 2026: Jannik Sinner sagt verletzt ab",
+      "link": "https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T15:20:00+00:00"
+    },
     {
       "titel": "News des Tages: Annalena Baerbock, Waffenversteck bei Berlin, Jamal Musiala",
       "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss",
@@ -17,12 +83,6 @@
       "link": "https://www.spiegel.de/panorama/lyon-katze-entwischt-familie-verbringt-urlaub-an-raststaette-a-ef3d49ae-1e0b-40e1-a34f-0f22e0661ca7#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-21T14:55:00+00:00"
-    },
-    {
-      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T14:46:26+00:00"
     },
     {
       "titel": "Tätlichkeit im WM-Finale: Argentinier Paredes für zehn Länderspiele gesperrt",
@@ -37,40 +97,10 @@
       "veroeffentlicht": "2026-08-21T14:39:00+00:00"
     },
     {
-      "titel": "Klage gegen »Daily Mail«: Harry, Elton John und Co. müssen Prozesskosten in Millionenhöhe zahlen",
-      "link": "https://www.spiegel.de/panorama/klage-gegen-daily-mail-harry-elton-john-und-co-muessen-prozesskosten-in-millionenhoehe-zahlen-a-bf4d2daa-0fd3-4764-b477-e01f30f62632#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T14:36:00+00:00"
-    },
-    {
-      "titel": "Gerichtsentscheid: Unfallflucht mit Carsharing-Auto – wann ist der Führerschein weg?",
-      "link": "https://www.spiegel.de/mobilitaet/auto/gerichtsentscheid-unfallflucht-mit-carsharing-auto-wann-ist-der-fuehrerschein-weg-a-38d9be71-6e88-4e6e-be48-5ca0a31357a9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T14:34:00+00:00"
-    },
-    {
       "titel": "Mehrere Verletzte bei Angriff an schwedischer Schule",
       "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T14:19:32+00:00"
-    },
-    {
-      "titel": "Uno: Annalena Baerbock und der seltsame Schulterschluss von Russland und den USA",
-      "link": "https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T14:17:00+00:00"
-    },
-    {
-      "titel": "»Mascha und der Bär« im Kika : Ukraine sanktioniert Kinderserie wegen angeblicher russischer Propaganda",
-      "link": "https://www.spiegel.de/ausland/mascha-und-der-baer-im-kika-ukraine-sanktioniert-kinderserie-wegen-angeblicher-russischer-propaganda-a-f021ac81-4eeb-48c5-9128-6b3140f61cf7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T14:11:00+00:00"
-    },
-    {
-      "titel": "Uno: Das sind die acht Bewerber für den Posten des Uno-Generalsekretärs",
-      "link": "https://www.spiegel.de/ausland/uno-das-sind-die-acht-bewerber-fuer-den-posten-des-uno-generalsekretaers-a-924dabfb-a4a5-48f7-b944-9e5dd62d258d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T14:03:00+00:00"
     },
     {
       "titel": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
@@ -83,12 +113,6 @@
       "link": "https://www.sueddeutsche.de/sport/said-el-mala-1-fc-koeln-nummer-10-li.3534850",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:44:19+00:00"
-    },
-    {
-      "titel": "Schweden: Mehrere Verletzte bei Schwertangriff an schwedischer Schule",
-      "link": "https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T13:36:00+00:00"
     },
     {
       "titel": "Südkorea und USA beenden Militärübung vorzeitig",
@@ -121,22 +145,10 @@
       "veroeffentlicht": "2026-08-21T13:31:30+00:00"
     },
     {
-      "titel": "Europäisches Asylsystem: Italien fordert Kompensation für Asylsuchende",
-      "link": "https://www.tagesschau.de/ausland/europa/geas-asylsuchende-dublin-italien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T13:29:30+00:00"
-    },
-    {
       "titel": "Bundesregierung: Auch ein Kanzler braucht mal Urlaub",
       "link": "https://www.sueddeutsche.de/wirtschaft/merz-urlaub-debatte-li.3534524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:12:15+00:00"
-    },
-    {
-      "titel": "USA erstatten deutschen Firmen Hunderte Millionen Euro an Zöllen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/us-zoelle-rueckzahlungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T13:11:16+00:00"
     },
     {
       "titel": "Start in der spanischen Fußball-Liga: Mourinho kämpft um sein Image",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/tegernsee-dampfer-schiff-schandfleck-li.3534361",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T12:52:10+00:00"
-    },
-    {
-      "titel": "Acht Tote bei Flugzeugabsturz auf US-Luftwaffenstützpunkt in Alaska",
-      "link": "https://www.tagesschau.de/ausland/amerika/alaska-flugzeugabsturz-luftwaffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T12:50:12+00:00"
-    },
-    {
-      "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T12:42:47+00:00"
     }
   ]
 }
