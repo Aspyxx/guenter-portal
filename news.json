@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-21T19:58:55+00:00",
+  "aktualisiert": "2026-08-21T20:42:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,34 @@
   },
   "meldungen": [
     {
+      "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-21T20:26:30+00:00"
+    },
+    {
+      "titel": "USA: Donald Trumps Ballsaal am Weißen Haus darf vorerst weiter gebaut werden",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trumps-ballsaal-am-weissen-haus-darf-vorerst-weiter-gebaut-werden-a-e9ab2fe4-67da-4f91-b6f7-bd97f65ac57f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T20:25:00+00:00"
+    },
+    {
+      "titel": "Mannheim: Pokal-Derby eskaliert – Polizei rückt mit Hundertschaft und Pferdestaffel an – Kaiserslautern siegt in der Verlängerung",
+      "link": "https://www.spiegel.de/sport/mannheim-pokal-derby-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-kaiserslautern-siegt-in-der-verlaengerung-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T20:15:00+00:00"
+    },
+    {
+      "titel": "Russland: Behörden schreiben FAZ-Korrespondenten Michael Mertens zur Fahndung aus",
+      "link": "https://www.spiegel.de/ausland/russland-behoerden-schreiben-faz-korrespondenten-michael-mertens-zur-fahndung-aus-a-c00e3c0c-d2b3-4437-b6f3-84441a225e60#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T20:07:00+00:00"
+    },
+    {
       "titel": "Ein Toter nach Schwertangriff an schwedischer Schule",
       "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T19:54:12+00:00"
+      "veroeffentlicht": "2026-08-21T20:01:48+00:00"
     },
     {
       "titel": "Zohran Mamdani: Warum der Bürgermeister von New York City plötzlich Chinesisch spricht",
@@ -29,12 +53,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T19:27:17+00:00"
-    },
-    {
-      "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T18:55:18+00:00"
     },
     {
       "titel": "Glücksspiel: Merkur-Gründer Paul Gauselmann ist tot",
@@ -71,24 +89,6 @@
       "link": "https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise-a-8ccdb3b7-4b75-42e0-8644-33e2024b0433#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-21T17:25:00+00:00"
-    },
-    {
-      "titel": "Heizungsgesetz: Gutachter halten Gebäudemodernisierungsgesetz weiter für potenziell verfassungswidrig",
-      "link": "https://www.spiegel.de/politik/deutschland/heizungsgesetz-gutachter-halten-gebaeudemodernisierungsgesetz-weiter-fuer-potenziell-verfassungswidrig-a-ff0c335b-7cf0-458f-aab2-01b9104c75f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T17:23:00+00:00"
-    },
-    {
-      "titel": "Dürre in Europa: Österreich hilft Landwirten mit mehr als 240 Millionen Euro",
-      "link": "https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro-a-af35713e-8e41-4e39-a9e7-4ae820673353#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T17:19:00+00:00"
-    },
-    {
-      "titel": "Rheinland-Pfalz, Brandenburg, Hessen: Mindestens drei Tornados am Mittwochabend",
-      "link": "https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend-a-4e4a314b-57d6-4571-b569-9f0cfe66be08#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T17:15:00+00:00"
     },
     {
       "titel": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
