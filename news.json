@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-21T16:52:29+00:00",
+  "aktualisiert": "2026-08-21T17:46:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,46 @@
   },
   "meldungen": [
     {
+      "titel": "Krieg in der Ukraine: Tote und Verletzte nach russischem Angriff auf Einkaufszentrum",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krywyj-rih-angriff-tote-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-21T17:39:35+00:00"
+    },
+    {
+      "titel": "Constantin Film: Absage der Serie »Die Päpstin« - Riese in der Krise",
+      "link": "https://www.spiegel.de/kultur/kino/constantin-film-absage-der-serie-die-paepstin-riese-in-der-krise-a-8ccdb3b7-4b75-42e0-8644-33e2024b0433#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T17:25:00+00:00"
+    },
+    {
+      "titel": "Heizungsgesetz: Gutachter halten Gebäudemodernisierungsgesetz weiter für potenziell verfassungswidrig",
+      "link": "https://www.spiegel.de/politik/deutschland/heizungsgesetz-gutachter-halten-gebaeudemodernisierungsgesetz-weiter-fuer-potenziell-verfassungswidrig-a-ff0c335b-7cf0-458f-aab2-01b9104c75f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T17:23:00+00:00"
+    },
+    {
       "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T16:43:39+00:00"
+      "veroeffentlicht": "2026-08-21T17:20:18+00:00"
+    },
+    {
+      "titel": "Dürre in Europa: Österreich hilft Landwirten mit mehr als 240 Millionen Euro",
+      "link": "https://www.spiegel.de/ausland/duerre-in-europa-oesterreich-hilft-landwirten-mit-mehr-als-240-millionen-euro-a-af35713e-8e41-4e39-a9e7-4ae820673353#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T17:19:00+00:00"
+    },
+    {
+      "titel": "Rheinland-Pfalz, Brandenburg, Hessen: Mindestens drei Tornados am Mittwochabend",
+      "link": "https://www.spiegel.de/panorama/rheinland-pfalz-brandenburg-hessen-mindestens-drei-tornados-am-mittwochabend-a-4e4a314b-57d6-4571-b569-9f0cfe66be08#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T17:15:00+00:00"
+    },
+    {
+      "titel": "Migration: Deutschland verhandelt mit EU-Staaten über Abschiebezentren in Ruanda",
+      "link": "https://www.spiegel.de/ausland/migration-deutschland-verhandelt-mit-eu-staaten-ueber-abschiebezentren-in-ruanda-a-ffcd7720-2b79-48bd-8c51-971e2f572832#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-21T16:50:00+00:00"
     },
     {
       "titel": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
@@ -49,7 +85,7 @@
       "veroeffentlicht": "2026-08-21T16:12:38+00:00"
     },
     {
-      "titel": "Uber soll wegen Verstoß gegen Datenschutzregeln in den Niederlanden 825 Millionen Euro Strafe zahlen",
+      "titel": "Uber soll wegen Verstoßes gegen Datenschutzregeln in den Niederlanden 825 Millionen Euro Strafe zahlen",
       "link": "https://www.spiegel.de/wirtschaft/uber-soll-wegen-verstoss-gegen-datenschutzregeln-in-den-niederlanden-825-millionen-euro-strafe-zahlen-a-bd90c794-7bf9-4e75-812c-89ce80dffe38#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-21T16:08:00+00:00"
@@ -73,34 +109,10 @@
       "veroeffentlicht": "2026-08-21T15:57:06+00:00"
     },
     {
-      "titel": "Swift: Forschungssatellit droht nach gescheiterter Nasa-Rettung abzustürzen",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/swift-forschungssatellit-droht-nach-gescheiterter-nasa-rettung-abzustuerzen-a-3c533d19-fbb3-41db-bd65-be197c9656bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T15:47:00+00:00"
-    },
-    {
       "titel": "WM-Finale 2026: Argentiniens Leandro Paredes zehn Spiele gesperrt",
       "link": "https://www.spiegel.de/sport/wm-finale-2026-argentiniens-leandro-paredes-zehn-spiele-gesperrt-a-9281739e-d2ba-4cd9-a810-c5824810316d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-21T15:47:00+00:00"
-    },
-    {
-      "titel": "Schweden: Mehrere Verletzte bei Schwertangriff an schwedischer Schule",
-      "link": "https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T15:40:00+00:00"
-    },
-    {
-      "titel": "FPÖ in Österreich: Wie verändern Rechtspopulisten in den Landesregierungen das Land - Podcast",
-      "link": "https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T15:37:00+00:00"
-    },
-    {
-      "titel": "Eugen Block streitet in Dänemark um Umgangsrecht mit Enkeln",
-      "link": "https://www.spiegel.de/panorama/eugen-block-streitet-in-daenemark-um-umgangsrecht-mit-enkeln-a-060c8066-94ac-4a89-a40f-315d69f68b0d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T15:31:00+00:00"
     },
     {
       "titel": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
@@ -119,12 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-peseschkian-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T15:21:40+00:00"
-    },
-    {
-      "titel": "US Open 2026: Jannik Sinner sagt verletzt ab",
-      "link": "https://www.spiegel.de/sport/tennis/us-open-2026-jannik-sinner-sagt-verletzt-ab-a-a79b8ae4-a41d-4bc8-9e91-d68bd03e92eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T15:20:00+00:00"
     },
     {
       "titel": "Tätlichkeit im WM-Finale: Argentinier Paredes für zehn Länderspiele gesperrt",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/merz-urlaub-debatte-li.3534524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:12:15+00:00"
-    },
-    {
-      "titel": "Start in der spanischen Fußball-Liga: Mourinho kämpft um sein Image",
-      "link": "https://www.sueddeutsche.de/sport/real-madrid-jose-mourinho-la-liga-auftakt-fc-barcelona-li.3534855",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T13:10:30+00:00"
     }
   ]
 }
