@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-22T15:36:31+00:00",
+  "aktualisiert": "2026-08-22T15:58:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rosemondy: Die Miss Germany, die gegen Sexismus in der Streaming-Welt kämpft",
+      "link": "https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft-a-a16261b5-912a-4b3b-9eac-77ea9446a92a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T15:47:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz in Hürtgenwald mit Pfiffen empfangen: »Schauen Sie sich das ​genau an, was hier passiert ist«",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist-a-e91f1e28-f3e8-49a1-846c-fbed7a27cd73#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T15:41:00+00:00"
+    },
     {
       "titel": "Rüstungsstaatssekretär Plötner antwortet auf Schularick: »Das läuft leider nicht so wie bei Ikea«",
       "link": "https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss",
@@ -77,18 +89,6 @@
       "link": "https://www.spiegel.de/politik/mario-voigt-ministerpraesident-in-thueringen-als-landesparteivorsitzender-wiedergewaehlt-a-2e01f698-fd86-4187-b5f7-b02539ce68db#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T13:23:00+00:00"
-    },
-    {
-      "titel": "Fuji in Japan: Vater lässt Siebenjährigen auf dem Fuji allein",
-      "link": "https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T13:00:00+00:00"
-    },
-    {
-      "titel": "Großbritannien: Niederschläge beenden lange Trockenperiode",
-      "link": "https://www.spiegel.de/wissenschaft/natur/grossbritannien-niederschlaege-beenden-lange-trockenperiode-a-35a92950-b29c-48b5-9966-cb4b7c727989#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T12:43:00+00:00"
     },
     {
       "titel": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
