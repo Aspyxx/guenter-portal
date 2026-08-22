@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-22T08:14:18+00:00",
+  "aktualisiert": "2026-08-22T08:53:06+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,15 +10,15 @@
     },
     {
       "rang": 2,
-      "titel": "Handelsgespräche gescheitert - USA verhängen Strafzölle gegen Kanada",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
+      "titel": "Zahl der Todesopfer nach Angriff auf ukrainisches Einkaufszentrum gestiegen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-ozon-krywyj-rih-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     },
     {
       "rang": 3,
-      "titel": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html",
+      "titel": "Handelsgespräche gescheitert - USA verhängen Strafzölle gegen Kanada",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
