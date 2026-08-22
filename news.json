@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-22T15:00:11+00:00",
+  "aktualisiert": "2026-08-22T15:36:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rüstungsstaatssekretär Plötner antwortet auf Schularick: »Das läuft leider nicht so wie bei Ikea«",
+      "link": "https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T15:23:00+00:00"
+    },
+    {
+      "titel": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T15:09:13+00:00"
+    },
+    {
+      "titel": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T15:06:54+00:00"
+    },
+    {
+      "titel": "FPÖ in Österreich: Wie verändern Rechtspopulisten in den Landesregierungen das Land? - Podcast",
+      "link": "https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T15:05:00+00:00"
+    },
+    {
+      "titel": "England: Sieben Menschen sterben bei Verfolgungsjagd mit der Polizei",
+      "link": "https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei-a-36534ed1-6f06-4847-be6b-796fcc2d7861#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T15:01:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T14:57:02+00:00"
+    },
     {
       "titel": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
       "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
@@ -79,24 +115,6 @@
       "veroeffentlicht": "2026-08-22T12:10:42+00:00"
     },
     {
-      "titel": "Rhein/Niedrigwasser: Wiederaufnahme des Fährbetriebs mit Einschränkungen",
-      "link": "https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-wiederaufnahme-des-faehrbetriebs-mit-einschraenkungen-a-a07b9613-0ef2-4713-a461-a548818eaa4f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T12:09:00+00:00"
-    },
-    {
-      "titel": "USA: Pentagon entlässt Führungsriege von Militärzeitung »Stars and Stripes«",
-      "link": "https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes-a-958afa9c-b3ae-428c-9a7d-8bde272029ff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T12:00:00+00:00"
-    },
-    {
-      "titel": "Ukraine attackiert russische Raffinerie und Onlinehändler Ozon",
-      "link": "https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon-a-0880ebad-f9db-4373-9866-49505c9c5a3b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T11:43:00+00:00"
-    },
-    {
       "titel": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
       "quelle": "Tagesschau",
@@ -121,22 +139,10 @@
       "veroeffentlicht": "2026-08-22T11:05:00+00:00"
     },
     {
-      "titel": "Humanoide Roboter: Kann Deutschland beim Boom mithalten?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T11:02:46+00:00"
-    },
-    {
       "titel": "Ausschreitungen im DFB-Pokal: „So darf ein Derby nicht ausarten“",
       "link": "https://www.sueddeutsche.de/sport/dfb-pokal-mannheim-kaiserslautern-ausschreitungen-polizei-verletzte-li.3535277",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T10:20:13+00:00"
-    },
-    {
-      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T10:00:03+00:00"
     },
     {
       "titel": "Stargeiger David Garrett in München: Alle nass und trotzdem glücklich",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/merz-eifel-waldbrand-helfer-auftritt-li.3522772",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T02:54:52+00:00"
-    },
-    {
-      "titel": "USA: US-Bundesrichterin kippt Trumps Visa-Stopp für 75 Länder",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-einwanderung-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T02:37:09+00:00"
     }
   ]
 }
