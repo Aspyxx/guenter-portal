@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-22T13:02:27+00:00",
+  "aktualisiert": "2026-08-22T13:45:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T13:34:42+00:00"
+    },
+    {
+      "titel": "Mario Voigt: Ministerpräsident in Thüringen als Landesparteivorsitzender wiedergewählt",
+      "link": "https://www.spiegel.de/politik/mario-voigt-ministerpraesident-in-thueringen-als-landesparteivorsitzender-wiedergewaehlt-a-2e01f698-fd86-4187-b5f7-b02539ce68db#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T13:23:00+00:00"
+    },
     {
       "titel": "Fuji in Japan: Vater lässt Siebenjährigen auf dem Fuji allein",
       "link": "https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss",
@@ -115,12 +127,6 @@
       "veroeffentlicht": "2026-08-22T10:20:13+00:00"
     },
     {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T10:11:00+00:00"
-    },
-    {
       "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
       "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
       "quelle": "Tagesschau",
@@ -137,12 +143,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-rybakow-wahlausschluss-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T09:15:40+00:00"
-    },
-    {
-      "titel": "Justizministerin Hubig will mehr Schutz für queere Menschen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-queere-menschen-grundgesetz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T09:07:06+00:00"
     },
     {
       "titel": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
