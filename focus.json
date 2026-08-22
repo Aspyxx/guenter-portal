@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-22T17:41:33+00:00",
+  "aktualisiert": "2026-08-22T18:10:33+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Super Cup Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 3,
-      "titel": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
-      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
