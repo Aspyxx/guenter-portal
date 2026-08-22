@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-22T11:36:42+00:00",
+  "aktualisiert": "2026-08-22T11:59:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ukraine attackiert russische Raffinerie und Onlinehändler Ozon",
+      "link": "https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon-a-0880ebad-f9db-4373-9866-49505c9c5a3b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T11:43:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: Zwischenwahlen rücken näher, Erfolge bleiben aus",
+      "link": "https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus-a-3a486bd8-a9aa-49d1-8a3a-0bb3d2b79eb3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T11:40:00+00:00"
+    },
     {
       "titel": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
@@ -107,18 +119,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-queere-menschen-grundgesetz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T09:07:06+00:00"
-    },
-    {
-      "titel": "Harry und Meghans Rückkehr nach Großbritannien: Rolle in Netflix-Serie?",
-      "link": "https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie-a-282ccdfb-2b6f-4078-8f85-80ee612814db#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T09:05:00+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Klug und kreativ bleiben mit ChatGPT und Co.",
-      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co-a-2292259d-7a96-4c54-82a9-bb3c4332c4de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T08:18:00+00:00"
     },
     {
       "titel": "Zahl der Todesopfer nach Angriff auf ukrainisches Einkaufszentrum gestiegen",
