@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-22T11:59:18+00:00",
+  "aktualisiert": "2026-08-22T13:02:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Fuji in Japan: Vater lässt Siebenjährigen auf dem Fuji allein",
+      "link": "https://www.spiegel.de/panorama/fuji-in-japan-vater-laesst-siebenjaehrigen-auf-dem-fuji-allein-a-9119e7c3-6512-4671-8292-51acc4150020#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T13:00:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: Niederschläge beenden lange Trockenperiode",
+      "link": "https://www.spiegel.de/wissenschaft/natur/grossbritannien-niederschlaege-beenden-lange-trockenperiode-a-35a92950-b29c-48b5-9966-cb4b7c727989#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T12:43:00+00:00"
+    },
+    {
+      "titel": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
+      "link": "https://www.sueddeutsche.de/sport/klara-buehl-fc-bayern-bundesliga-fussball-saisonstart-li.3535275",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T12:19:47+00:00"
+    },
+    {
+      "titel": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T12:19:28+00:00"
+    },
+    {
+      "titel": "Kanzler Merz besucht Waldbrandgebiet in NRW",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T12:12:54+00:00"
+    },
+    {
+      "titel": "Klingbeil macht Vorstoß für Übergewinnsteuer bei Ölkonzernen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T12:10:42+00:00"
+    },
+    {
+      "titel": "Rhein/Niedrigwasser: Wiederaufnahme des Fährbetriebs mit Einschränkungen",
+      "link": "https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-wiederaufnahme-des-faehrbetriebs-mit-einschraenkungen-a-a07b9613-0ef2-4713-a461-a548818eaa4f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T12:09:00+00:00"
+    },
+    {
+      "titel": "USA: Pentagon entlässt Führungsriege von Militärzeitung »Stars and Stripes«",
+      "link": "https://www.spiegel.de/ausland/usa-pentagon-entlaesst-fuehrungsriege-von-militaerzeitung-stars-and-stripes-a-958afa9c-b3ae-428c-9a7d-8bde272029ff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T12:00:00+00:00"
+    },
     {
       "titel": "Ukraine attackiert russische Raffinerie und Onlinehändler Ozon",
       "link": "https://www.spiegel.de/ausland/ukraine-attackiert-russische-raffinerie-und-onlinehaendler-ozon-a-0880ebad-f9db-4373-9866-49505c9c5a3b#ref=rss",
@@ -79,30 +127,6 @@
       "veroeffentlicht": "2026-08-22T10:00:03+00:00"
     },
     {
-      "titel": "Ausländerbehörde Köln und die »Coesfelder Liste«: Streit um angeblich verhinderte Abschiebungen",
-      "link": "https://www.spiegel.de/panorama/auslaenderbehoerde-koeln-und-die-coesfelder-liste-streit-um-angeblich-verhinderte-abschiebungen-a-9e531f57-c016-4914-9f3b-b0a3db8177a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T09:55:00+00:00"
-    },
-    {
-      "titel": "Volkswagen: Blume bezeichnet Situation bei VW als »mehr als kritisch«",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch-a-245cc562-3f56-4df7-b522-db226df6b9f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T09:52:00+00:00"
-    },
-    {
-      "titel": "Messer im Test: Kochmesser von Hensslers, Culilux, WMF, F. Dick und Chroma",
-      "link": "https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma-a-40bdc150-406e-4fe4-9c9c-d47b7ed747d5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T09:41:00+00:00"
-    },
-    {
-      "titel": "Rätsel des Alltags: Warum bekommt man im Flugzeug Druck auf den Ohren?",
-      "link": "https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren-a-7723dc46-36ed-4969-b1ad-52101db29f46#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T09:29:00+00:00"
-    },
-    {
       "titel": "Stargeiger David Garrett in München: Alle nass und trotzdem glücklich",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-konzert-koenigsplatz-david-garrett-li.3533235",
       "quelle": "Süddeutsche",
@@ -119,24 +143,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-queere-menschen-grundgesetz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T09:07:06+00:00"
-    },
-    {
-      "titel": "Zahl der Todesopfer nach Angriff auf ukrainisches Einkaufszentrum gestiegen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-ozon-krywyj-rih-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T08:16:59+00:00"
-    },
-    {
-      "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T07:23:20+00:00"
-    },
-    {
-      "titel": "Diebstahl in der Pflege: Wie sich Betroffene schützen können",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/diebstahl-senioren-pflege-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T06:47:35+00:00"
     },
     {
       "titel": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-einwanderung-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T02:37:09+00:00"
-    },
-    {
-      "titel": "Kals am Großglockner: 19-jähriger Deutscher stirbt bei Kletterunfall",
-      "link": "https://www.sueddeutsche.de/panorama/oesterreich-deutscher-kletterunfall-tod-grossglockner-li.3535216",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T02:04:09+00:00"
     }
   ]
 }
