@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-22T10:02:20+00:00",
+  "aktualisiert": "2026-08-22T10:42:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ausschreitungen im DFB-Pokal: „So darf ein Derby nicht ausarten“",
+      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-mannheim-kaiserslautern-ausschreitungen-polizei-verletzte-li.3535277",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T10:20:13+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T10:11:00+00:00"
+    },
+    {
+      "titel": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T10:00:03+00:00"
+    },
     {
       "titel": "Ausländerbehörde Köln und die »Coesfelder Liste«: Streit um angeblich verhinderte Abschiebungen",
       "link": "https://www.spiegel.de/panorama/auslaenderbehoerde-koeln-und-die-coesfelder-liste-streit-um-angeblich-verhinderte-abschiebungen-a-9e531f57-c016-4914-9f3b-b0a3db8177a7#ref=rss",
@@ -79,13 +97,7 @@
       "veroeffentlicht": "2026-08-22T07:40:00+00:00"
     },
     {
-      "titel": "Apple: Konzern legt Steuerzahlungen in Deutschland offen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen-a-6495bcdf-89a1-443b-b18e-8d961115443d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T07:25:00+00:00"
-    },
-    {
-      "titel": "Handelsgespräche gescheitert - USA verhängen Strafzölle gegen Kanada",
+      "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T07:23:20+00:00"
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-08-22T02:04:09+00:00"
     },
     {
-      "titel": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T01:03:05+00:00"
-    },
-    {
       "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
       "link": "https://www.sueddeutsche.de/politik/desinformation-landtagswahl-sachsen-anhalt-sven-schulze-russland-fake-news-doppelgaenger-matrjoschka-li.3535102",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T16:16:22+00:00"
-    },
-    {
-      "titel": "AfD: Deutschland ist krank. Die Medizin? Kultur!",
-      "link": "https://www.sueddeutsche.de/kultur/sachsen-anhalt-wahlprogramm-kulturpolitik-melanie-amann-unframed-li.3529977",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T15:57:06+00:00"
     }
   ]
 }
