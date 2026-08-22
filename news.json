@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-22T21:01:57+00:00",
+  "aktualisiert": "2026-08-22T21:37:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Russlands Krieg gegen Ukraine: Wladimir Putin droht Kyjiw nach Angriffen auf Wirtschaftsziele",
+      "link": "https://www.spiegel.de/ausland/russlands-krieg-gegen-ukraine-wladimir-putin-droht-kyjiw-nach-angriffen-auf-wirtschaftsziele-a-4c53fddc-04b4-4b7c-8258-030818d4fedf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T21:10:00+00:00"
+    },
     {
       "titel": "Supercup: Der erste Titel geht nach München",
       "link": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
@@ -71,12 +77,6 @@
       "link": "https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T17:42:00+00:00"
-    },
-    {
-      "titel": "DFB-Pokal: Niclas Füllkrug trifft bei Werder-Bremen-Comeback in erster Runde",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-bremen-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T17:22:00+00:00"
     },
     {
       "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
