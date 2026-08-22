@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-22T07:03:45+00:00",
+  "aktualisiert": "2026-08-22T07:46:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "SV Elversberg: Die Bayern müssen sich im Containerdorf umziehen",
+      "link": "https://www.spiegel.de/sport/fussball/sv-elversberg-die-bayern-muessen-sich-im-containerdorf-umziehen-a-1fcd953c-351a-4536-8ccd-182858a23144#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T07:40:00+00:00"
+    },
+    {
+      "titel": "Rosemondy: Die Miss Germany, die gegen Sexismus in der Streaming-Welt kämpft",
+      "link": "https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft-a-a16261b5-912a-4b3b-9eac-77ea9446a92a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T07:33:00+00:00"
+    },
+    {
+      "titel": "Apple: Konzern legt Steuerzahlungen in Deutschland offen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/apple-konzern-legt-steuerzahlungen-in-deutschland-offen-a-6495bcdf-89a1-443b-b18e-8d961115443d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T07:25:00+00:00"
+    },
+    {
+      "titel": "Handelsgespräche gescheitert - USA verhängen Strafzölle gegen Kanada",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T07:23:20+00:00"
+    },
     {
       "titel": "Tesla ruft fast drei Millionen Autos in China zurück",
       "link": "https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss",
@@ -67,28 +91,10 @@
       "veroeffentlicht": "2026-08-22T05:21:00+00:00"
     },
     {
-      "titel": "News: Friedrich Merz im Hürtgenwald, Alexander Dobrindt, Jens Plötner, Wehrressort, Caroline Wahl plaudert über Geld",
-      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T04:48:00+00:00"
-    },
-    {
-      "titel": "Bundesrichterin kippt Trumps Visa-Stopp für Staatsangehörige aus 75 Ländern",
-      "link": "https://www.spiegel.de/ausland/bundesrichterin-kippt-trumps-visa-stopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T04:30:00+00:00"
-    },
-    {
       "titel": "Krieg in Nahost: Iran nennt Trumps „Wirtschaftskrieg“ völkerrechtswidrig",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-voelkerrecht-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T03:12:17+00:00"
-    },
-    {
-      "titel": "Mannheim-Kaiserslautern: Pokal-Derby eskaliert – 85 Verletzte nach Ausschreitungen",
-      "link": "https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T03:00:00+00:00"
     },
     {
       "titel": "Hitzewelle: Merz will Helfern im Waldbrandgebiet danken",
@@ -143,12 +149,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T20:01:48+00:00"
-    },
-    {
-      "titel": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T19:27:17+00:00"
     },
     {
       "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
