@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-22T03:57:37+00:00",
+  "aktualisiert": "2026-08-22T04:51:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "News: Friedrich Merz im Hürtgenwald, Alexander Dobrindt, Jens Plötner, Wehrressort, Caroline Wahl plaudert über Geld",
+      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T04:48:00+00:00"
+    },
+    {
+      "titel": "Bundesrichterin kippt Trumps Visa-Stopp für Staatsangehörige aus 75 Ländern",
+      "link": "https://www.spiegel.de/ausland/bundesrichterin-kippt-trumps-visa-stopp-fuer-staatsangehoerige-aus-75-laendern-a-c8b444e9-5227-45e9-9f48-31315e3c1513#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T04:30:00+00:00"
+    },
     {
       "titel": "Krieg in Nahost: Iran nennt Trumps „Wirtschaftskrieg“ völkerrechtswidrig",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-voelkerrecht-li.3530668",
@@ -95,18 +107,6 @@
       "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T22:04:29+00:00"
-    },
-    {
-      "titel": "Ukraine: Viele Tote nach russischem Angriff auf Einkaufszentrum",
-      "link": "https://www.spiegel.de/ausland/ukraine-viele-tote-nach-russischem-angriff-auf-einkaufszentrum-a-4a8d6d5c-29c9-4647-97ee-b98797530f6f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T21:39:00+00:00"
-    },
-    {
-      "titel": "Aachen: Deutsche Springreiter wieder Weltmeister – nach 16 Jahren",
-      "link": "https://www.spiegel.de/sport/aachen-deutsche-springreiter-wieder-weltmeister-nach-16-jahren-a-55a74be7-e088-4ab4-a31d-a0b5dfdb710b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T21:31:00+00:00"
     },
     {
       "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
