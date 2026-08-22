@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-22T13:06:05+00:00",
+  "aktualisiert": "2026-08-22T13:48:37+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Übergewinnsteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Kanzler Merz besucht Waldbrandgebiet in NRW",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "\"In Russland denken viele wie wir\"",
       "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-rybakow-wahlausschluss-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Trauer und Fassungslosigkeit nach Schwertangriff in Schweden",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-fagersta-schwertangriff-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
