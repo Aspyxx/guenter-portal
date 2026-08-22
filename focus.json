@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-22T10:45:15+00:00",
+  "aktualisiert": "2026-08-22T11:09:14+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Kroatien",
-      "link": "https://www.tagesschau.de/ausland/europa/nord-stream-untersuchungshaft-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "\"In Russland denken viele wie wir\"",
+      "titel": "Jabloko",
       "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-rybakow-wahlausschluss-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Justizministerin Hubig will mehr Schutz für queere Menschen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-queere-menschen-grundgesetz-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
