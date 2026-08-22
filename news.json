@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-22T09:43:43+00:00",
+  "aktualisiert": "2026-08-22T10:02:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ausländerbehörde Köln und die »Coesfelder Liste«: Streit um angeblich verhinderte Abschiebungen",
+      "link": "https://www.spiegel.de/panorama/auslaenderbehoerde-koeln-und-die-coesfelder-liste-streit-um-angeblich-verhinderte-abschiebungen-a-9e531f57-c016-4914-9f3b-b0a3db8177a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T09:55:00+00:00"
+    },
+    {
+      "titel": "Volkswagen: Blume bezeichnet Situation bei VW als »mehr als kritisch«",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-blume-bezeichnet-situation-bei-vw-als-mehr-als-kritisch-a-245cc562-3f56-4df7-b522-db226df6b9f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T09:52:00+00:00"
+    },
+    {
+      "titel": "Messer im Test: Kochmesser von Hensslers, Culilux, WMF, F. Dick und Chroma",
+      "link": "https://www.spiegel.de/tests/kueche/messer-im-test-kochmesser-von-hensslers-culilux-wmf-f-dick-und-chroma-a-40bdc150-406e-4fe4-9c9c-d47b7ed747d5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T09:41:00+00:00"
+    },
     {
       "titel": "Rätsel des Alltags: Warum bekommt man im Flugzeug Druck auf den Ohren?",
       "link": "https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren-a-7723dc46-36ed-4969-b1ad-52101db29f46#ref=rss",
@@ -73,18 +91,6 @@
       "veroeffentlicht": "2026-08-22T07:23:20+00:00"
     },
     {
-      "titel": "Tesla ruft fast drei Millionen Autos in China zurück",
-      "link": "https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T06:55:00+00:00"
-    },
-    {
-      "titel": "Österreich: Was setzt die Rechtsaußenpartei FPÖ um, wenn sie an der Macht ist?",
-      "link": "https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist-a-ac4b18f7-a069-4c90-b2be-2cdae7f0ec6b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T06:51:00+00:00"
-    },
-    {
       "titel": "Diebstahl in der Pflege: Wie sich Betroffene schützen können",
       "link": "https://www.tagesschau.de/inland/gesellschaft/diebstahl-senioren-pflege-100.html",
       "quelle": "Tagesschau",
@@ -101,12 +107,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T06:06:16+00:00"
-    },
-    {
-      "titel": "Urlaub in der Klimakrise: Wenn Hitze, Feuer und Algen die Reise verändern",
-      "link": "https://www.spiegel.de/reise/urlaub-in-der-klimakrise-wenn-hitze-feuer-und-algen-die-reise-veraendern-a-5ab116b0-2538-4d4c-94c6-8d14332a6f04#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T05:56:00+00:00"
     },
     {
       "titel": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
