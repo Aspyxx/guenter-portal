@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-22T18:49:56+00:00",
+  "aktualisiert": "2026-08-22T19:37:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
+      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T19:29:05+00:00"
+    },
+    {
+      "titel": "Bürgerfunk in der Altmark: Wie sich ein Dorf für den Ernstfall rüstet",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/buergerfunk-in-der-altmark-wie-sich-ein-dorf-fuer-den-ernstfall-ruestet-a-998acc15-6dc1-4555-b98a-ae03cf24114c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T19:25:00+00:00"
+    },
+    {
+      "titel": "Schweden: 17-jährige Schülerin ist Opfer des Schwertangriffs in Fagersta",
+      "link": "https://www.spiegel.de/ausland/schweden-17-jaehrige-schuelerin-ist-opfer-des-schwertangriffs-in-fagersta-a-2fedee15-23be-43e8-8c88-155b1cbe498c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T19:23:00+00:00"
+    },
     {
       "titel": "Kroatien: Deutscher Motorsegler stürzt im Velebit-Gebirge ab – zwei Tote",
       "link": "https://www.spiegel.de/panorama/kroatien-deutscher-motorsegler-stuerzt-im-velebit-gebirge-ab-zwei-tote-a-8990ccd9-b1a0-48ff-9f39-fbf7300a4c29#ref=rss",
@@ -73,18 +91,6 @@
       "veroeffentlicht": "2026-08-22T16:25:33+00:00"
     },
     {
-      "titel": "Friedrich Merz: Darf man den Bundeskanzler »Pinocchio« nennen?",
-      "link": "https://www.spiegel.de/kultur/darf-man-merz-pinocchio-nennen-ich-war-mir-nie-einer-schuld-bewusst-a-b5073ec9-e574-4ed7-a422-1be111a46203#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T16:03:00+00:00"
-    },
-    {
-      "titel": "Paderborn: Frühchen stirbt nach Darmkeim-Infektion in Kinderklinik",
-      "link": "https://www.spiegel.de/panorama/paderborn-fruehchen-stirbt-nach-darmkeim-infektion-in-kinderklinik-a-14cabc23-1312-4598-8987-48d4c0f64039#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T15:59:00+00:00"
-    },
-    {
       "titel": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
       "quelle": "Tagesschau",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T12:19:28+00:00"
-    },
-    {
-      "titel": "Kanzler Merz besucht Waldbrandgebiet in NRW",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T12:12:54+00:00"
     },
     {
       "titel": "Reit-WM: In Aachen beben die Tribünen",
