@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-22T17:37:30+00:00",
+  "aktualisiert": "2026-08-22T17:59:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Zugdiplomatie zwischen China und Nordkorea: In der Grünen Haut nach Nordkorea",
+      "link": "https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea-a-d216b535-3186-4a9d-9872-a6c4b34ce233#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T17:44:00+00:00"
+    },
+    {
+      "titel": "USA unter Donald Trump: »Traumschiff«-Schauspieler Nick Wilder will die USA verlassen",
+      "link": "https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T17:42:00+00:00"
+    },
     {
       "titel": "DFB-Pokal: Niclas Füllkrug trifft bei Werder-Comeback in erster Runde",
       "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss",
@@ -65,18 +77,6 @@
       "link": "https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft-a-a16261b5-912a-4b3b-9eac-77ea9446a92a#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T15:47:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz in Hürtgenwald mit Pfiffen empfangen: »Schauen Sie sich das ​genau an, was hier passiert ist«",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist-a-e91f1e28-f3e8-49a1-846c-fbed7a27cd73#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T15:41:00+00:00"
-    },
-    {
-      "titel": "Rüstungsstaatssekretär Plötner antwortet auf Schularick: »Das läuft leider nicht so wie bei Ikea«",
-      "link": "https://www.spiegel.de/politik/deutschland/ruestungsstaatssekretaer-ploetner-antwortet-auf-schularick-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T15:23:00+00:00"
     },
     {
       "titel": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
