@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-22T00:01:14+00:00",
+  "aktualisiert": "2026-08-22T01:51:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Trumps Initiative für günstiges Rinderhack erntet heftige Kritik",
+      "link": "https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik-a-b7c06e4a-4ce7-4c50-82ef-a33211ce9ad6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T01:30:00+00:00"
+    },
+    {
+      "titel": "USA: Nach 400-Millionen-Zahlung: US-Justiz stoppt Tiktok-Ermittlungen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-tiktok-ermittlungen-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T01:11:38+00:00"
+    },
+    {
+      "titel": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T01:03:05+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Magdeburger Bischof warnt Christen vor AfD-Wahl",
+      "link": "https://www.spiegel.de/politik/sachsen-anhalt-magdeburger-bischof-warnt-christen-vor-afd-wahl-a-f39648c1-2c2a-48ae-818e-8b0056bb92cc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T00:49:00+00:00"
+    },
+    {
+      "titel": "Großglockner in Österreich: 19-Jähriger stürzt im Klettergarten in den Tod",
+      "link": "https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod-a-8efefa5b-6ee5-48af-b378-950a47022153#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T00:18:00+00:00"
+    },
     {
       "titel": "TikTok: Vergleich über 400 Millionen Dollar nach Verstößen bei Kinderdaten",
       "link": "https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten-a-c2c71748-9f98-430f-aef9-730a510e1f3d#ref=rss",
@@ -55,28 +85,10 @@
       "veroeffentlicht": "2026-08-21T20:26:30+00:00"
     },
     {
-      "titel": "USA: Donald Trumps Ballsaal am Weißen Haus darf vorerst weiter gebaut werden",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trumps-ballsaal-am-weissen-haus-darf-vorerst-weiter-gebaut-werden-a-e9ab2fe4-67da-4f91-b6f7-bd97f65ac57f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T20:25:00+00:00"
-    },
-    {
-      "titel": "Russland: Behörden schreiben FAZ-Korrespondenten Michael Mertens zur Fahndung aus",
-      "link": "https://www.spiegel.de/ausland/russland-behoerden-schreiben-faz-korrespondenten-michael-mertens-zur-fahndung-aus-a-c00e3c0c-d2b3-4437-b6f3-84441a225e60#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T20:07:00+00:00"
-    },
-    {
       "titel": "Ein Toter nach Schwertangriff an schwedischer Schule",
       "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T20:01:48+00:00"
-    },
-    {
-      "titel": "Zohran Mamdani: Warum der Bürgermeister von New York City plötzlich Chinesisch spricht",
-      "link": "https://www.spiegel.de/ausland/zohran-mamdani-warum-der-buergermeister-von-new-york-city-ploetzlich-chinesisch-spricht-a-86883641-5def-4b63-a486-c5cd615f6adb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T19:35:00+00:00"
     },
     {
       "titel": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
@@ -121,12 +133,6 @@
       "veroeffentlicht": "2026-08-21T16:00:46+00:00"
     },
     {
-      "titel": "Prinz Harry und Elton John müssen Prozesskosten in Millionenhöhe begleichen",
-      "link": "https://www.tagesschau.de/ausland/europa/daily-mail-prozesskosten-harry-elton-john-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T16:00:40+00:00"
-    },
-    {
       "titel": "AfD: Deutschland ist krank. Die Medizin? Kultur!",
       "link": "https://www.sueddeutsche.de/kultur/sachsen-anhalt-wahlprogramm-kulturpolitik-melanie-amann-unframed-li.3529977",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-musiala-krankheit-zusammenbruch-kompany-li.3534851",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:31:30+00:00"
-    },
-    {
-      "titel": "Bundesregierung: Auch ein Kanzler braucht mal Urlaub",
-      "link": "https://www.sueddeutsche.de/wirtschaft/merz-urlaub-debatte-li.3534524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T13:12:15+00:00"
     }
   ]
 }
