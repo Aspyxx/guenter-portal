@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-22T17:59:00+00:00",
+  "aktualisiert": "2026-08-22T18:49:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kroatien: Deutscher Motorsegler stürzt im Velebit-Gebirge ab – zwei Tote",
+      "link": "https://www.spiegel.de/panorama/kroatien-deutscher-motorsegler-stuerzt-im-velebit-gebirge-ab-zwei-tote-a-8990ccd9-b1a0-48ff-9f39-fbf7300a4c29#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T18:23:00+00:00"
+    },
+    {
+      "titel": "Wie Künstliche Intelligenz die Justiz ausbremst",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T17:59:00+00:00"
+    },
     {
       "titel": "Zugdiplomatie zwischen China und Nordkorea: In der Grünen Haut nach Nordkorea",
       "link": "https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea-a-d216b535-3186-4a9d-9872-a6c4b34ce233#ref=rss",
@@ -19,8 +31,8 @@
       "veroeffentlicht": "2026-08-22T17:42:00+00:00"
     },
     {
-      "titel": "DFB-Pokal: Niclas Füllkrug trifft bei Werder-Comeback in erster Runde",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss",
+      "titel": "DFB-Pokal: Niclas Füllkrug trifft bei Werder-Bremen-Comeback in erster Runde",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-bremen-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T17:22:00+00:00"
     },
@@ -73,12 +85,6 @@
       "veroeffentlicht": "2026-08-22T15:59:00+00:00"
     },
     {
-      "titel": "Rosemondy: Die Miss Germany, die gegen Sexismus in der Streaming-Welt kämpft",
-      "link": "https://www.spiegel.de/netzwelt/web/rosemondy-die-miss-germany-die-gegen-sexismus-in-der-streaming-welt-kaempft-a-a16261b5-912a-4b3b-9eac-77ea9446a92a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T15:47:00+00:00"
-    },
-    {
       "titel": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
       "quelle": "Tagesschau",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T12:12:54+00:00"
-    },
-    {
-      "titel": "Klingbeil macht Vorstoß für Übergewinnsteuer bei Ölkonzernen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T12:10:42+00:00"
     },
     {
       "titel": "Reit-WM: In Aachen beben die Tribünen",
