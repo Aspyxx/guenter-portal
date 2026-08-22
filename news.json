@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-22T13:45:20+00:00",
+  "aktualisiert": "2026-08-22T14:40:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Israel: Französische und britische Ex-Diplomaten fordern härtere Linie",
+      "link": "https://www.spiegel.de/ausland/israel-franzoesische-und-britische-ex-diplomaten-fordern-haertere-linie-a-bcbf44b6-2ae3-4803-a81a-d6e40181527a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T14:24:00+00:00"
+    },
+    {
+      "titel": "Donald-Trump-Nachfolge: JD Vance, Alexandria Ocasio-Cortez und der Fluch des Opportunismus",
+      "link": "https://www.spiegel.de/ausland/donald-trump-nachfolge-jd-vance-alexandria-ocasio-cortez-und-der-fluch-des-opportunismus-a-824fe285-33e7-41d8-adac-f5e649d7d9b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T14:03:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Während Außenminister Johann Wadephul in Kyjiw Wolodymyr Selenskyj trifft, wird Luftalarm ausgelöst",
+      "link": "https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T13:55:00+00:00"
+    },
     {
       "titel": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
@@ -73,12 +91,6 @@
       "veroeffentlicht": "2026-08-22T11:43:00+00:00"
     },
     {
-      "titel": "Donald Trump: Zwischenwahlen rücken näher, Erfolge bleiben aus",
-      "link": "https://www.spiegel.de/ausland/donald-trump-zwischenwahlen-ruecken-naeher-erfolge-bleiben-aus-a-3a486bd8-a9aa-49d1-8a3a-0bb3d2b79eb3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T11:40:00+00:00"
-    },
-    {
       "titel": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
       "quelle": "Tagesschau",
@@ -107,18 +119,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T11:02:46+00:00"
-    },
-    {
-      "titel": "Potsdam: Schüler verlassen Gymnasium nach Vorfall mit heimlichen Intimfotos",
-      "link": "https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos-a-6259ed2e-70c6-4731-91f2-3c93a6735c60#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T11:01:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Video zeigt Drohnenangriff auf Einkaufszentrum in Krywyi Rih",
-      "link": "https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T10:53:00+00:00"
     },
     {
       "titel": "Ausschreitungen im DFB-Pokal: „So darf ein Derby nicht ausarten“",
