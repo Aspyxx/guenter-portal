@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-22T19:58:02+00:00",
+  "aktualisiert": "2026-08-22T20:41:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Franz-Beckenbauer-Supercup: FC Bayern München siegt im Duell mit Borussia Dortmund",
+      "link": "https://www.spiegel.de/sport/fussball/franz-beckenbauer-supercup-fc-bayern-muenchen-siegt-im-duell-mit-borussia-dortmund-a-e73673a1-307d-41eb-ad3a-328eb1d0deb7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T20:33:00+00:00"
+    },
+    {
+      "titel": "Migration: Matteo Salvini blockiert Rückführung von Geflüchteten nach Italien",
+      "link": "https://www.spiegel.de/ausland/migration-matteo-salvini-blockiert-rueckfuehrung-von-gefluechteten-nach-italien-a-390ad9fe-1a59-4b4a-8646-e3afd1c74446#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T20:04:00+00:00"
+    },
     {
       "titel": "Debatten um Nahost: Essay zu den Grenzen des Sagbaren",
       "link": "https://www.spiegel.de/kultur/debatten-um-nahost-essay-zu-den-grenzen-des-sagbaren-a-15cd6369-4bd1-4901-aefb-f7b11ce62e19#ref=rss",
@@ -61,12 +73,6 @@
       "veroeffentlicht": "2026-08-22T17:22:00+00:00"
     },
     {
-      "titel": "Kanada: Premier Mark Carney macht den USA Vorwürfe – und spricht von einem »Angriff« auf sein land",
-      "link": "https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T17:19:00+00:00"
-    },
-    {
       "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
       "quelle": "Tagesschau",
@@ -77,12 +83,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-schaeden-wortschaft-gegenschlaege-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T17:01:42+00:00"
-    },
-    {
-      "titel": "Jugendforensik: Sie haben Geschäfte überfallen, Häuser angezündet, wollten Menschen töten",
-      "link": "https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten-a-d025358c-aa89-4d41-9632-e8de2b8b0249#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T16:36:00+00:00"
     },
     {
       "titel": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
