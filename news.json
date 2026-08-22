@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-22T08:49:16+00:00",
+  "aktualisiert": "2026-08-22T09:43:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rätsel des Alltags: Warum bekommt man im Flugzeug Druck auf den Ohren?",
+      "link": "https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-bekommt-man-im-flugzeug-druck-auf-den-ohren-a-7723dc46-36ed-4969-b1ad-52101db29f46#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T09:29:00+00:00"
+    },
+    {
+      "titel": "Stargeiger David Garrett in München: Alle nass und trotzdem glücklich",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-konzert-koenigsplatz-david-garrett-li.3533235",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T09:24:30+00:00"
+    },
+    {
+      "titel": "Jabloko-Chef Rybakow: \"In Russland denken viele wie wir\"",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-rybakow-wahlausschluss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T09:15:40+00:00"
+    },
+    {
+      "titel": "Justizministerin Hubig will mehr Schutz für queere Menschen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-queere-menschen-grundgesetz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T09:07:06+00:00"
+    },
+    {
+      "titel": "Harry und Meghans Rückkehr nach Großbritannien: Rolle in Netflix-Serie?",
+      "link": "https://www.spiegel.de/panorama/harry-und-meghans-rueckkehr-nach-grossbritannien-rolle-in-netflix-serie-a-282ccdfb-2b6f-4078-8f85-80ee612814db#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T09:05:00+00:00"
+    },
     {
       "titel": "Künstliche Intelligenz: Klug und kreativ bleiben mit ChatGPT und Co.",
       "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-klug-und-kreativ-bleiben-mit-chatgpt-und-co-a-2292259d-7a96-4c54-82a9-bb3c4332c4de#ref=rss",
@@ -79,18 +109,6 @@
       "veroeffentlicht": "2026-08-22T05:56:00+00:00"
     },
     {
-      "titel": "Beauty-Trends: Warum der No-Make-up-Look genauso viel Aufwand bedeutet",
-      "link": "https://www.spiegel.de/stil/beauty-trends-warum-der-no-make-up-look-genauso-viel-aufwand-bedeutet-a-d3b691a6-04e8-4eba-ac4f-8cba2a90b31c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T05:54:00+00:00"
-    },
-    {
-      "titel": "Russische Angriffe auf Ukraine: Johann Wadephul äußert sich erschüttert über Angriffe auf Zivilisten",
-      "link": "https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T05:31:00+00:00"
-    },
-    {
       "titel": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
       "link": "https://www.sueddeutsche.de/politik/frankreich-sommer-hitzerekorde-klimawandel-li.3534863",
       "quelle": "Süddeutsche",
@@ -139,18 +157,6 @@
       "veroeffentlicht": "2026-08-22T01:03:05+00:00"
     },
     {
-      "titel": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
-      "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T22:04:29+00:00"
-    },
-    {
-      "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T20:26:30+00:00"
-    },
-    {
       "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
       "link": "https://www.sueddeutsche.de/politik/desinformation-landtagswahl-sachsen-anhalt-sven-schulze-russland-fake-news-doppelgaenger-matrjoschka-li.3535102",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/sachsen-anhalt-wahlprogramm-kulturpolitik-melanie-amann-unframed-li.3529977",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T15:57:06+00:00"
-    },
-    {
-      "titel": "Tätlichkeit im WM-Finale: Argentinier Paredes für zehn Länderspiele gesperrt",
-      "link": "https://www.sueddeutsche.de/sport/wm-finale-argentinien-parades-foul-sperre-fifa-li.3535111",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T14:45:51+00:00"
     }
   ]
 }
