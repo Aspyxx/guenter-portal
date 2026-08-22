@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-22T06:13:29+00:00",
+  "aktualisiert": "2026-08-22T07:03:45+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tesla ruft fast drei Millionen Autos in China zurück",
+      "link": "https://www.spiegel.de/wirtschaft/tesla-ruft-fast-drei-millionen-autos-in-china-zurueck-a-0b65bcac-18e7-4439-b95d-8e2ebacfa9d0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T06:55:00+00:00"
+    },
+    {
+      "titel": "Österreich: Was setzt die Rechtsaußenpartei FPÖ um, wenn sie an der Macht ist?",
+      "link": "https://www.spiegel.de/ausland/oesterreich-was-setzt-die-rechtsaussenpartei-fpoe-um-wenn-sie-an-der-macht-ist-a-ac4b18f7-a069-4c90-b2be-2cdae7f0ec6b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T06:51:00+00:00"
+    },
+    {
+      "titel": "Diebstahl in der Pflege: Wie sich Betroffene schützen können",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/diebstahl-senioren-pflege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T06:47:35+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Tote und Verletzte nach russischem Angriff auf Einkaufszentrum",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krywyj-rih-angriff-tote-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T06:38:59+00:00"
+    },
     {
       "titel": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
@@ -85,12 +109,6 @@
       "veroeffentlicht": "2026-08-22T02:45:27+00:00"
     },
     {
-      "titel": "Karoline Leavitt: Trumps scheidende Sprecherin kehrt zu Maga Inc. zurück",
-      "link": "https://www.spiegel.de/politik/karoline-leavitt-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T02:44:00+00:00"
-    },
-    {
       "titel": "USA: US-Bundesrichterin kippt Trumps Visa-Stopp für 75 Länder",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-einwanderung-li.3530667",
       "quelle": "Süddeutsche",
@@ -101,12 +119,6 @@
       "link": "https://www.sueddeutsche.de/panorama/oesterreich-deutscher-kletterunfall-tod-grossglockner-li.3535216",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T02:04:09+00:00"
-    },
-    {
-      "titel": "Trumps Initiative für günstiges Rinderhack erntet heftige Kritik",
-      "link": "https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik-a-b7c06e4a-4ce7-4c50-82ef-a33211ce9ad6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T01:30:00+00:00"
     },
     {
       "titel": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
@@ -137,18 +149,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-21T19:27:17+00:00"
-    },
-    {
-      "titel": "Korruptionsskandal in der Ukraine weitet sich aus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T18:30:11+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Tote und Verletzte nach russischem Angriff auf Einkaufszentrum",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krywyj-rih-angriff-tote-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T17:39:35+00:00"
     },
     {
       "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
