@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-22T17:02:26+00:00",
+  "aktualisiert": "2026-08-22T17:37:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,40 @@
   },
   "meldungen": [
     {
+      "titel": "DFB-Pokal: Niclas Füllkrug trifft bei Werder-Comeback in erster Runde",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-bei-werder-comeback-in-erster-runde-a-b2e70a52-cbb3-4954-a083-a9e1d2f24125#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T17:22:00+00:00"
+    },
+    {
+      "titel": "Kanada: Premier Mark Carney macht den USA Vorwürfe – und spricht von einem »Angriff« auf sein land",
+      "link": "https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T17:19:00+00:00"
+    },
+    {
+      "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T17:04:55+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Putin räumt Schäden für Wirtschaft ein und droht Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-schaeden-wortschaft-gegenschlaege-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T17:01:42+00:00"
+    },
+    {
       "titel": "Jugendforensik: Sie haben Geschäfte überfallen, Häuser angezündet, wollten Menschen töten",
       "link": "https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten-a-d025358c-aa89-4d41-9632-e8de2b8b0249#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T16:36:00+00:00"
+    },
+    {
+      "titel": "Putschversuch in der Sowjetunion: Als SPIEGEL TV 1991 in Moskau filmte",
+      "link": "https://www.spiegel.de/ausland/putschversuch-in-der-sowjetunion-als-spiegel-tv-1991-in-moskau-filmte-a-67b6280f-89b2-4a88-a53c-b061cd3565ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T16:35:00+00:00"
     },
     {
       "titel": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
@@ -61,18 +91,6 @@
       "veroeffentlicht": "2026-08-22T15:06:54+00:00"
     },
     {
-      "titel": "FPÖ in Österreich: Wie verändern Rechtspopulisten in den Landesregierungen das Land? - Podcast",
-      "link": "https://www.spiegel.de/ausland/fpoe-in-oesterreich-wie-veraendern-rechtspopulisten-in-den-landesregierungen-das-land-podcast-a-15efdc4b-c772-4208-abba-43058d6b6aee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T15:05:00+00:00"
-    },
-    {
-      "titel": "England: Sieben Menschen sterben bei Verfolgungsjagd mit der Polizei",
-      "link": "https://www.spiegel.de/panorama/justiz/england-sieben-menschen-sterben-bei-verfolgungsjagd-mit-der-polizei-a-36534ed1-6f06-4847-be6b-796fcc2d7861#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T15:01:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
       "quelle": "Süddeutsche",
@@ -83,12 +101,6 @@
       "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T14:41:06+00:00"
-    },
-    {
-      "titel": "Israel: Französische und britische Ex-Diplomaten fordern härtere Linie",
-      "link": "https://www.spiegel.de/ausland/israel-franzoesische-und-britische-ex-diplomaten-fordern-haertere-linie-a-bcbf44b6-2ae3-4803-a81a-d6e40181527a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T14:24:00+00:00"
     },
     {
       "titel": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
@@ -121,22 +133,10 @@
       "veroeffentlicht": "2026-08-22T12:10:42+00:00"
     },
     {
-      "titel": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T11:35:22+00:00"
-    },
-    {
       "titel": "Reit-WM: In Aachen beben die Tribünen",
       "link": "https://www.sueddeutsche.de/sport/springreiten-aachen-team-gold-wm-li.3535295",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T11:06:29+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Während Wadephul-Besuch in Kiew: Russland beschießt Vorort",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wadephul-kiew-russland-angriffe-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T11:05:00+00:00"
     },
     {
       "titel": "Ausschreitungen im DFB-Pokal: „So darf ein Derby nicht ausarten“",
