@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-22T19:37:16+00:00",
+  "aktualisiert": "2026-08-22T19:58:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Debatten um Nahost: Essay zu den Grenzen des Sagbaren",
+      "link": "https://www.spiegel.de/kultur/debatten-um-nahost-essay-zu-den-grenzen-des-sagbaren-a-15cd6369-4bd1-4901-aefb-f7b11ce62e19#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T19:30:00+00:00"
+    },
     {
       "titel": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
       "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
@@ -77,12 +83,6 @@
       "link": "https://www.spiegel.de/panorama/justiz/jugendforensik-sie-haben-geschaefte-ueberfallen-haeuser-angezuendet-wollten-menschen-toeten-a-d025358c-aa89-4d41-9632-e8de2b8b0249#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T16:36:00+00:00"
-    },
-    {
-      "titel": "Putschversuch in der Sowjetunion: Als SPIEGEL TV 1991 in Moskau filmte",
-      "link": "https://www.spiegel.de/ausland/putschversuch-in-der-sowjetunion-als-spiegel-tv-1991-in-moskau-filmte-a-67b6280f-89b2-4a88-a53c-b061cd3565ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T16:35:00+00:00"
     },
     {
       "titel": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
