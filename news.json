@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-22T14:40:15+00:00",
+  "aktualisiert": "2026-08-22T15:00:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
+      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T14:41:06+00:00"
+    },
     {
       "titel": "Israel: Französische und britische Ex-Diplomaten fordern härtere Linie",
       "link": "https://www.spiegel.de/ausland/israel-franzoesische-und-britische-ex-diplomaten-fordern-haertere-linie-a-bcbf44b6-2ae3-4803-a81a-d6e40181527a#ref=rss",
@@ -137,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-konzert-koenigsplatz-david-garrett-li.3533235",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T09:24:30+00:00"
-    },
-    {
-      "titel": "Jabloko-Chef Rybakow: \"In Russland denken viele wie wir\"",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-rybakow-wahlausschluss-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T09:15:40+00:00"
     },
     {
       "titel": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
