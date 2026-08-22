@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-22T04:51:17+00:00",
+  "aktualisiert": "2026-08-22T05:44:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Russische Angriffe auf Ukraine: Johann Wadephul äußert sich erschüttert über Angriffe auf Zivilisten",
+      "link": "https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T05:31:00+00:00"
+    },
+    {
+      "titel": "Spritpreise: Klingbeil wirbt mit EU-Partnern für neue Übergewinnsteuer",
+      "link": "https://www.spiegel.de/politik/deutschland/spritpreise-klingbeil-wirbt-mit-eu-partnern-fuer-neue-uebergewinnsteuer-a-3dc198ea-af13-4b6b-b088-1f914a494c7a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T05:21:00+00:00"
+    },
     {
       "titel": "News: Friedrich Merz im Hürtgenwald, Alexander Dobrindt, Jens Plötner, Wehrressort, Caroline Wahl plaudert über Geld",
       "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss",
@@ -55,13 +67,13 @@
       "veroeffentlicht": "2026-08-22T02:44:00+00:00"
     },
     {
-      "titel": "USA: US-Bundesrichterin kippt Trumps Visa-Stopp für 75 Ländern",
+      "titel": "USA: US-Bundesrichterin kippt Trumps Visa-Stopp für 75 Länder",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-einwanderung-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T02:37:09+00:00"
     },
     {
-      "titel": "Im Klettergarten Kals: 19-jähriger Deutscher stirbt bei Kletterunfall am Großglockner",
+      "titel": "Kals am Großglockner: 19-jähriger Deutscher stirbt bei Kletterunfall",
       "link": "https://www.sueddeutsche.de/panorama/oesterreich-deutscher-kletterunfall-tod-grossglockner-li.3535216",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T02:04:09+00:00"
@@ -89,18 +101,6 @@
       "link": "https://www.spiegel.de/panorama/grossglockner-in-oesterreich-19-jaehriger-stuerzt-im-klettergarten-in-den-tod-a-8efefa5b-6ee5-48af-b378-950a47022153#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T00:18:00+00:00"
-    },
-    {
-      "titel": "TikTok: Vergleich über 400 Millionen Dollar nach Verstößen bei Kinderdaten",
-      "link": "https://www.spiegel.de/netzwelt/tiktok-vergleich-ueber-400-millionen-dollar-nach-verstoessen-bei-kinderdaten-a-c2c71748-9f98-430f-aef9-730a510e1f3d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T23:33:00+00:00"
-    },
-    {
-      "titel": "Mindestens 32.000 zusätzliche Todesfälle in Europa seit Sommerbeginn",
-      "link": "https://www.spiegel.de/wissenschaft/mindestens-32-000-zusaetzliche-todesfaelle-in-europa-seit-sommerbeginn-a-6f3b986e-e440-4b61-9b8a-bdd91a098d9f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T23:18:00+00:00"
     },
     {
       "titel": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
