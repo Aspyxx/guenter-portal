@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-22T22:40:17+00:00",
+  "aktualisiert": "2026-08-22T23:00:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Künstliche Intelligenz: Chinas Sprint-Roboter laufen schneller als Usain Bolt",
+      "link": "https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-chinas-sprint-roboter-laufen-schneller-als-usain-bolt-a-43ff06fd-afc4-4a0d-88a9-feca28344b02#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T22:50:00+00:00"
+    },
     {
       "titel": "Russlands Krieg gegen Ukraine: Wladimir Putin droht Kyjiw nach Angriffen auf Wirtschaftsziele",
       "link": "https://www.spiegel.de/ausland/russlands-krieg-gegen-ukraine-wladimir-putin-droht-kyjiw-nach-angriffen-auf-wirtschaftsziele-a-4c53fddc-04b4-4b7c-8258-030818d4fedf#ref=rss",
@@ -71,12 +77,6 @@
       "link": "https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea-a-d216b535-3186-4a9d-9872-a6c4b34ce233#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T17:44:00+00:00"
-    },
-    {
-      "titel": "USA unter Donald Trump: »Traumschiff«-Schauspieler Nick Wilder will die USA verlassen",
-      "link": "https://www.spiegel.de/panorama/leute/usa-unter-donald-trump-traumschiff-schauspieler-nick-wilder-will-die-usa-verlassen-a-45c98111-acfc-474c-992c-76e598acdad8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T17:42:00+00:00"
     },
     {
       "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
