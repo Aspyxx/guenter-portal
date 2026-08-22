@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-22T20:41:39+00:00",
+  "aktualisiert": "2026-08-22T21:01:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Supercup: Der erste Titel geht nach München",
+      "link": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T20:48:16+00:00"
+    },
     {
       "titel": "Franz-Beckenbauer-Supercup: FC Bayern München siegt im Duell mit Borussia Dortmund",
       "link": "https://www.spiegel.de/sport/fussball/franz-beckenbauer-supercup-fc-bayern-muenchen-siegt-im-duell-mit-borussia-dortmund-a-e73673a1-307d-41eb-ad3a-328eb1d0deb7#ref=rss",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-voelkerrecht-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T03:12:17+00:00"
-    },
-    {
-      "titel": "Hitzewelle: Merz will Helfern im Waldbrandgebiet danken",
-      "link": "https://www.sueddeutsche.de/panorama/merz-eifel-waldbrand-helfer-auftritt-li.3522772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T02:54:52+00:00"
     }
   ]
 }
