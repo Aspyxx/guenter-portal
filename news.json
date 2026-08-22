@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-22T10:42:03+00:00",
+  "aktualisiert": "2026-08-22T11:01:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ukraine: Video zeigt Drohnenangriff auf Einkaufszentrum in Krywyi Rih",
+      "link": "https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T10:53:00+00:00"
+    },
     {
       "titel": "Ausschreitungen im DFB-Pokal: „So darf ein Derby nicht ausarten“",
       "link": "https://www.sueddeutsche.de/sport/dfb-pokal-mannheim-kaiserslautern-ausschreitungen-polizei-verletzte-li.3535277",
@@ -89,12 +95,6 @@
       "link": "https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein-a-462736fa-b6d9-4191-beee-7e8cb5d17484#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T08:02:00+00:00"
-    },
-    {
-      "titel": "SV Elversberg: Die Bayern müssen sich im Containerdorf umziehen",
-      "link": "https://www.spiegel.de/sport/fussball/sv-elversberg-die-bayern-muessen-sich-im-containerdorf-umziehen-a-1fcd953c-351a-4536-8ccd-182858a23144#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T07:40:00+00:00"
     },
     {
       "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
