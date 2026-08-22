@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-22T01:51:29+00:00",
+  "aktualisiert": "2026-08-22T03:08:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,46 @@
   },
   "meldungen": [
     {
+      "titel": "Mannheim-Kaiserslautern: Pokal-Derby eskaliert – 85 Verletzte nach Ausschreitungen",
+      "link": "https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T03:00:00+00:00"
+    },
+    {
+      "titel": "Hitzewelle: Merz will Helfern im Waldbrandgebiet danken",
+      "link": "https://www.sueddeutsche.de/panorama/merz-eifel-waldbrand-helfer-auftritt-li.3522772",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T02:54:52+00:00"
+    },
+    {
+      "titel": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
+      "link": "https://www.tagesschau.de/kultur/kaisergrab-otto-der-grosse-magdeburger-dom-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T02:48:05+00:00"
+    },
+    {
+      "titel": "Siedlungsbau im Westjordanland: Stresstest für Israels Verhältnis zu Europa",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungspolitik-eu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T02:45:27+00:00"
+    },
+    {
+      "titel": "Karoline Leavitt: Trumps scheidende Sprecherin kehrt zu Maga Inc. zurück",
+      "link": "https://www.spiegel.de/politik/karoline-leavitt-trumps-scheidende-sprecherin-kehrt-zu-maga-inc-zurueck-a-db02f753-6183-49b3-a8a1-1d7d04e0c3e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T02:44:00+00:00"
+    },
+    {
+      "titel": "USA: US-Bundesrichterin kippt Trumps Visa-Stopp für 75 Ländern",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-einwanderung-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T02:37:09+00:00"
+    },
+    {
       "titel": "Trumps Initiative für günstiges Rinderhack erntet heftige Kritik",
       "link": "https://www.spiegel.de/ausland/trumps-initiative-fuer-guenstiges-rinderhack-erntet-heftige-kritik-a-b7c06e4a-4ce7-4c50-82ef-a33211ce9ad6#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-22T01:30:00+00:00"
-    },
-    {
-      "titel": "USA: Nach 400-Millionen-Zahlung: US-Justiz stoppt Tiktok-Ermittlungen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-tiktok-ermittlungen-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T01:11:38+00:00"
     },
     {
       "titel": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
@@ -67,18 +97,6 @@
       "veroeffentlicht": "2026-08-21T21:31:00+00:00"
     },
     {
-      "titel": "Schweden: Ein Toter und mehrere Verletzte nach Schwertangriff an schwedischer Schule",
-      "link": "https://www.spiegel.de/panorama/schweden-mehrere-verletzte-bei-schwertangriff-an-schwedischer-schule-a-2d4ef40a-0288-404f-b150-5db88399bbb5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T21:17:00+00:00"
-    },
-    {
-      "titel": "Mannheim: Pokal-Derby eskaliert – Polizei rückt mit Hundertschaft und Pferdestaffel an – Kaiserslautern siegt in der Verlängerung",
-      "link": "https://www.spiegel.de/sport/mannheim-pokal-derby-eskaliert-polizei-rueckt-mit-hundertschaft-und-pferdestaffel-an-kaiserslautern-siegt-in-der-verlaengerung-a-a8f966b6-4102-4f6c-b8db-8b06c80729b6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-21T20:44:00+00:00"
-    },
-    {
       "titel": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
       "quelle": "Tagesschau",
@@ -115,22 +133,10 @@
       "veroeffentlicht": "2026-08-21T16:35:44+00:00"
     },
     {
-      "titel": "Marktbericht: DAX geht mit Gewinn aus der Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T16:27:50+00:00"
-    },
-    {
       "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
       "link": "https://www.sueddeutsche.de/politik/desinformation-landtagswahl-sachsen-anhalt-sven-schulze-russland-fake-news-doppelgaenger-matrjoschka-li.3535102",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T16:16:22+00:00"
-    },
-    {
-      "titel": "Jahrhundertsommer? Warum Forschende neu denken müssen",
-      "link": "https://www.tagesschau.de/wissen/klima/wetter-klima-jahrhundertsommer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-21T16:00:46+00:00"
     },
     {
       "titel": "AfD: Deutschland ist krank. Die Medizin? Kultur!",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/gas-gasmangel-speicher-fuellstaende-reiche-li.3534704",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:34:31+00:00"
-    },
-    {
-      "titel": "FC Bayern: Im Fall Musiala fallen die Puzzlestücke ins Bild",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-musiala-krankheit-zusammenbruch-kompany-li.3534851",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T13:31:30+00:00"
     }
   ]
 }
