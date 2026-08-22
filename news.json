@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-22T11:01:35+00:00",
+  "aktualisiert": "2026-08-22T11:36:42+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T11:35:22+00:00"
+    },
+    {
+      "titel": "Trauer und Fassungslosigkeit nach Schwertangriff in Schweden",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-fagersta-schwertangriff-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T11:23:43+00:00"
+    },
+    {
+      "titel": "Reit-WM: In Aachen beben die Tribünen",
+      "link": "https://www.sueddeutsche.de/sport/springreiten-aachen-team-gold-wm-li.3535295",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T11:06:29+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Während Wadephul-Besuch in Kiew: Russland beschießt Vorort",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wadephul-kiew-russland-angriffe-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T11:05:00+00:00"
+    },
+    {
+      "titel": "Humanoide Roboter: Kann Deutschland beim Boom mithalten?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-22T11:02:46+00:00"
+    },
+    {
+      "titel": "Potsdam: Schüler verlassen Gymnasium nach Vorfall mit heimlichen Intimfotos",
+      "link": "https://www.spiegel.de/panorama/potsdam-schueler-verlassen-gymnasium-nach-vorfall-mit-heimlichen-intimfotos-a-6259ed2e-70c6-4731-91f2-3c93a6735c60#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-22T11:01:00+00:00"
+    },
     {
       "titel": "Ukraine: Video zeigt Drohnenangriff auf Einkaufszentrum in Krywyi Rih",
       "link": "https://www.spiegel.de/ausland/ukraine-video-zeigt-drohnenangriff-auf-einkaufszentrum-in-krywyi-rih-a-a392bc26-3430-4843-87fd-5a64b1db2b4c#ref=rss",
@@ -91,12 +127,6 @@
       "veroeffentlicht": "2026-08-22T08:16:59+00:00"
     },
     {
-      "titel": "Zölle: USA und Kanada führen neue Strafzahlungen gegeneinander ein",
-      "link": "https://www.spiegel.de/wirtschaft/zoelle-usa-und-kanada-fuehren-neue-strafzahlungen-gegeneinander-ein-a-462736fa-b6d9-4191-beee-7e8cb5d17484#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T08:02:00+00:00"
-    },
-    {
       "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
       "quelle": "Tagesschau",
@@ -107,18 +137,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/diebstahl-senioren-pflege-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T06:47:35+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Tote und Verletzte nach russischem Angriff auf Einkaufszentrum",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krywyj-rih-angriff-tote-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T06:38:59+00:00"
-    },
-    {
-      "titel": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T06:06:16+00:00"
     },
     {
       "titel": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
@@ -139,18 +157,6 @@
       "veroeffentlicht": "2026-08-22T02:54:52+00:00"
     },
     {
-      "titel": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
-      "link": "https://www.tagesschau.de/kultur/kaisergrab-otto-der-grosse-magdeburger-dom-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T02:48:05+00:00"
-    },
-    {
-      "titel": "Siedlungsbau im Westjordanland: Stresstest für Israels Verhältnis zu Europa",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungspolitik-eu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T02:45:27+00:00"
-    },
-    {
       "titel": "USA: US-Bundesrichterin kippt Trumps Visa-Stopp für 75 Länder",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-einwanderung-li.3530667",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/oesterreich-deutscher-kletterunfall-tod-grossglockner-li.3535216",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T02:04:09+00:00"
-    },
-    {
-      "titel": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
-      "link": "https://www.sueddeutsche.de/politik/desinformation-landtagswahl-sachsen-anhalt-sven-schulze-russland-fake-news-doppelgaenger-matrjoschka-li.3535102",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T16:16:22+00:00"
     }
   ]
 }
