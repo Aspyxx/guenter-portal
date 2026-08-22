@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-22T03:08:36+00:00",
+  "aktualisiert": "2026-08-22T03:57:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Krieg in Nahost: Iran nennt Trumps „Wirtschaftskrieg“ völkerrechtswidrig",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-voelkerrecht-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T03:12:17+00:00"
+    },
     {
       "titel": "Mannheim-Kaiserslautern: Pokal-Derby eskaliert – 85 Verletzte nach Ausschreitungen",
       "link": "https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss",
@@ -41,6 +47,12 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-einwanderung-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T02:37:09+00:00"
+    },
+    {
+      "titel": "Im Klettergarten Kals: 19-jähriger Deutscher stirbt bei Kletterunfall am Großglockner",
+      "link": "https://www.sueddeutsche.de/panorama/oesterreich-deutscher-kletterunfall-tod-grossglockner-li.3535216",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T02:04:09+00:00"
     },
     {
       "titel": "Trumps Initiative für günstiges Rinderhack erntet heftige Kritik",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/said-el-mala-1-fc-koeln-nummer-10-li.3534850",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-21T13:44:19+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Die Angst vor der Wahrheit",
-      "link": "https://www.sueddeutsche.de/medien/ki-synthid-anthropic-openai-ai-act-li.3533658",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T13:35:17+00:00"
-    },
-    {
-      "titel": "Gasversorgung: Engpass? Welcher Engpass?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/gas-gasmangel-speicher-fuellstaende-reiche-li.3534704",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-21T13:34:31+00:00"
     }
   ]
 }
