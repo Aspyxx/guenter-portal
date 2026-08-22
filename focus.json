@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-22T19:13:30+00:00",
+  "aktualisiert": "2026-08-22T19:42:19+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
+      "titel": "Humanoider Roboter schneller über 100 Meter als Usain Bolt",
+      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
       "titel": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 3,
-      "titel": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
-      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
