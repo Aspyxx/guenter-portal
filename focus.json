@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-23T13:50:08+00:00",
+  "aktualisiert": "2026-08-23T14:11:13+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Ludwigshafen Am Rhein",
-      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "\"Schlimmste Krise in Kosovo seit dem Krieg\"",
       "link": "https://www.tagesschau.de/ausland/europa/kosovo-suche-neuer-staatspraesident-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Gottesanbeterin breitet sich in Deutschland aus",
       "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Wie die Urlaubserholung zurück im Job möglichst lange anhält",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-erholung-arbeitsalltag-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
