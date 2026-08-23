@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-23T07:48:20+00:00",
+  "aktualisiert": "2026-08-23T08:50:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,40 @@
   },
   "meldungen": [
     {
+      "titel": "Iranische Hacker: Britische Energieanlage offenbar vier Tage außer Betrieb",
+      "link": "https://www.spiegel.de/ausland/iranische-hacker-britische-energieanlage-offenbar-vier-tage-ausser-betrieb-a-2380b124-b333-40aa-8457-38c212ae47a9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T08:41:00+00:00"
+    },
+    {
       "titel": "Gottesanbeterin breitet sich in Deutschland aus",
       "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T07:29:18+00:00"
+      "veroeffentlicht": "2026-08-23T08:28:46+00:00"
+    },
+    {
+      "titel": "Iran: Weiterer Demonstrant wegen Protesten im Januar hingerichtet",
+      "link": "https://www.spiegel.de/ausland/iran-weiterer-demonstrant-wegen-protesten-im-januar-hingerichtet-a-a440d04c-d429-4a88-a53f-14153fdfcd00#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T08:26:00+00:00"
+    },
+    {
+      "titel": "Baltikum: Heftige Stürme treffen Lettland und Litauen – mehrere Tote und Verletzte",
+      "link": "https://www.spiegel.de/panorama/baltikum-heftige-stuerme-treffen-lettland-und-litauen-mehrere-tote-und-verletzte-a-d11f6abc-12d2-4aa3-be6a-131d2390ef7b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T08:05:00+00:00"
+    },
+    {
+      "titel": "Prinz Harry und Meghan zurück in England: Schauspielpläne der Herzogin offenbar gescheitert",
+      "link": "https://www.spiegel.de/panorama/prinz-harry-und-meghan-zurueck-in-england-schauspielplaene-der-herzogin-offenbar-gescheitert-a-8f8a26a0-8788-4368-abd2-bf32e1e0c6b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T07:57:00+00:00"
+    },
+    {
+      "titel": "Kuriose Verwechslung in Sydney: Die Münchner Allianz-Arena ziert die Medaille des Sydney-Marathons",
+      "link": "https://www.sueddeutsche.de/muenchen/sydney-marathon-allianz-arena-medaille-australien-li.3535523",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T07:51:16+00:00"
     },
     {
       "titel": "Straße von Hormus: Iran erlaubt irakischen Öltankern Durchfahrt",
@@ -65,30 +95,6 @@
       "link": "https://www.spiegel.de/ausland/nordostpassage-suedkorea-testet-schifffahrtsroute-durch-die-arktis-a-32005865-8dd6-4c9a-8f24-80fca1005d59#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T06:00:00+00:00"
-    },
-    {
-      "titel": "Russland: Die Angst vor einer neuen großen Mobilmachung der Armee wächst",
-      "link": "https://www.spiegel.de/ausland/russland-die-angst-vor-einer-neuen-grossen-mobilmachung-der-armee-waechst-a-c432197d-e8b3-446a-bff5-8697c37b128a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T05:27:00+00:00"
-    },
-    {
-      "titel": "Immobilien: Sanierungsdesaster in Reinfeld treibt Eigentümer aus ihren Wohnungen - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/immobilien-sanierungsdesaster-in-reinfeld-treibt-eigentuemer-aus-ihren-wohnungen-spiegel-tv-a-55ebc6aa-c787-406a-8010-d157695e24b3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T05:24:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Kanzler nennt Wachstum und Beschäftigung als wichtigste Themen",
-      "link": "https://www.spiegel.de/politik/friedrich-merz-kanzler-nennt-wachstum-und-beschaeftigung-als-wichtigste-themen-a-edb97f16-fc83-4fb0-a60c-fcc0f92a6bea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T05:16:00+00:00"
-    },
-    {
-      "titel": "Supercup: FC Bayern schlägt den BVB - Ein überraschender Musiala-Vertreter Brown und Ruhe hinter den Kulissen",
-      "link": "https://www.spiegel.de/sport/fussball/supercup-fc-bayern-schlaegt-den-bvb-ein-ueberraschender-musiala-vertreter-brown-und-ruhe-hinter-den-kulissen-a-8b076ac2-a2ca-4bed-88c8-c6b11cc4b992#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T05:04:00+00:00"
     },
     {
       "titel": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-konzert-koenigsplatz-david-garrett-li.3533235",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T09:24:30+00:00"
-    },
-    {
-      "titel": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
-      "link": "https://www.sueddeutsche.de/politik/frankreich-sommer-hitzerekorde-klimawandel-li.3534863",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T05:30:36+00:00"
     }
   ]
 }
