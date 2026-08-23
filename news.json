@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-23T04:23:14+00:00",
+  "aktualisiert": "2026-08-23T05:13:44+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Supercup: FC Bayern schlägt den BVB - Ein überraschender Musiala-Vertreter Brown und Ruhe hinter den Kulissen",
+      "link": "https://www.spiegel.de/sport/fussball/supercup-fc-bayern-schlaegt-den-bvb-ein-ueberraschender-musiala-vertreter-brown-und-ruhe-hinter-den-kulissen-a-8b076ac2-a2ca-4bed-88c8-c6b11cc4b992#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T05:04:00+00:00"
+    },
+    {
+      "titel": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
+      "link": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T04:37:22+00:00"
+    },
     {
       "titel": "US-Zölle: US-Konzerne fordern neue Verhandlungen mit Kanada",
       "link": "https://www.spiegel.de/wirtschaft/us-zoelle-us-konzerne-fordern-neue-verhandlungen-mit-kanada-a-5500d2c7-9a09-4bcf-b7c7-077defde9848#ref=rss",
@@ -97,12 +109,6 @@
       "veroeffentlicht": "2026-08-22T19:29:05+00:00"
     },
     {
-      "titel": "Bürgerfunk in der Altmark: Wie sich ein Dorf für den Ernstfall rüstet",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/buergerfunk-in-der-altmark-wie-sich-ein-dorf-fuer-den-ernstfall-ruestet-a-998acc15-6dc1-4555-b98a-ae03cf24114c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T19:25:00+00:00"
-    },
-    {
       "titel": "Wie Künstliche Intelligenz die Justiz ausbremst",
       "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
       "quelle": "Tagesschau",
@@ -119,12 +125,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-schaeden-wortschaft-gegenschlaege-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T17:01:00+00:00"
-    },
-    {
-      "titel": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T16:25:33+00:00"
     },
     {
       "titel": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel – Buhrufe bei Statement",
