@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-23T15:02:25+00:00",
+  "aktualisiert": "2026-08-23T15:38:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Iran reagiert mit Drohungen auf US-Drohungen",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T15:25:53+00:00"
+    },
+    {
+      "titel": "UV-Strahlung: Warum mehr Sonne in Mitteleuropa zum Problem für die Haut wird",
+      "link": "https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird-a-0d0b68da-370d-453d-9e9f-b93149f21a3d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T15:21:00+00:00"
+    },
     {
       "titel": "Friedrich Merz besucht Waldbrandgebiet: Bekommen wir jetzt den Klimakanzler?",
       "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler-a-1c8c2e09-e68b-47cb-8b2b-a47498d12420#ref=rss",
@@ -49,6 +61,18 @@
       "veroeffentlicht": "2026-08-23T14:02:00+00:00"
     },
     {
+      "titel": "Handelskrieg zwischen Kanada und USA: Mark Carney zeigt, wie man sich Donald Trump entgegenstellen kann",
+      "link": "https://www.sueddeutsche.de/meinung/mark-carney-handelskrieg-zoelle-usa-kanada-trump-li.3535033",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T13:59:14+00:00"
+    },
+    {
+      "titel": "Handelsstreit zwischen Kanada und USA: „Dollar für Dollar“",
+      "link": "https://www.sueddeutsche.de/politik/handelsstreit-usa-kanada-zoelle-trump-li.3535528",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T13:54:39+00:00"
+    },
+    {
       "titel": "Wie die Urlaubserholung zurück im Job möglichst lange anhält",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-erholung-arbeitsalltag-100.html",
       "quelle": "Tagesschau",
@@ -89,12 +113,6 @@
       "link": "https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht-a-690476ca-b7f7-484f-bdc2-c397c38eef90#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T13:16:00+00:00"
-    },
-    {
-      "titel": "Philadelphia: Mann verfolgt Menschen mit Horrorfilm-Maske",
-      "link": "https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske-a-f2e43f3f-3ede-414e-9f0e-15991379ab71#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T13:13:00+00:00"
     },
     {
       "titel": "Rhein-Fähren fahren wieder - Binnenschiffe haben weiter Probleme",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/tucker-carlson-trump-maga-li.3534995",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T11:17:07+00:00"
-    },
-    {
-      "titel": "Glosse: Das Streiflicht: Ein Schilderstreich, der verbindet",
-      "link": "https://www.sueddeutsche.de/politik/ortsschild-lorch-lorsch-streich-li.3535420",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T11:16:46+00:00"
-    },
-    {
-      "titel": "Commerzbank: „Unabhängigkeit ist kein Selbstzweck“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-uebernahme-jens-weidmann-unicredit-zukunft-li.3532729",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T11:06:12+00:00"
-    },
-    {
-      "titel": "Nahverkehr auf dem Land: Wenn der Bus nur alle paar Stunden kommt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/nahverkehr-bus-land-verkehrswende-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T10:16:47+00:00"
     }
   ]
 }
