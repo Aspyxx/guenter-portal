@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-23T13:46:25+00:00",
+  "aktualisiert": "2026-08-23T14:41:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rätsel der Woche: Welche Karten müssen Sie umdrehen?",
+      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-welche-karten-muessen-sie-umdrehen-a-695b63b9-c9db-407b-beb8-bad3808f69d9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T14:32:00+00:00"
+    },
+    {
+      "titel": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T14:21:56+00:00"
+    },
+    {
+      "titel": "Russlands Schattenkrieg: „Es wird Zeit, dass Putin merkt, dass seine Aggressionen spürbare Konsequenzen haben“",
+      "link": "https://www.sueddeutsche.de/politik/sicherheitspolitik-dobrindt-waffenlager-russland-bedrohung-hybrider-krieg-drohnen-li.3535520",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T14:03:34+00:00"
+    },
+    {
+      "titel": "Weltroboterspiele in Peking: Schnell wie Usain Bolt, dann schneiden sie Gurken",
+      "link": "https://www.spiegel.de/ausland/weltroboterspiele-in-peking-schnell-wie-usain-bolt-dann-schneiden-sie-gurken-a-abb08882-f34c-4a9a-8ded-b046de88ff7d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T14:02:00+00:00"
+    },
+    {
+      "titel": "Wie die Urlaubserholung zurück im Job möglichst lange anhält",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-erholung-arbeitsalltag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T13:52:16+00:00"
+    },
+    {
+      "titel": "Borussia Dortmund: Ein Mutmacher gegen die bayerische Übermacht",
+      "link": "https://www.sueddeutsche.de/sport/supercup-dortmund-bundesliga-meisterschaft-kommentar-li.3535524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T13:52:12+00:00"
+    },
     {
       "titel": "Präsidentenwahl: \"Schlimmste Krise in Kosovo seit dem Krieg\"",
       "link": "https://www.tagesschau.de/ausland/europa/kosovo-suche-neuer-staatspraesident-100.html",
@@ -79,22 +115,16 @@
       "veroeffentlicht": "2026-08-23T12:14:00+00:00"
     },
     {
-      "titel": "Sydney-Marathon: Medaille zeigt versehentlich Münchner Allianz Arena",
-      "link": "https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena-a-498f5d8b-d4e9-4027-a766-50f070817a72#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T12:11:00+00:00"
-    },
-    {
       "titel": "Sydney-Marathon-Medaille zeigt versehentlich Münchner Allianz Arena",
       "link": "https://www.tagesschau.de/ausland/sydney-marathon-allianz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T11:54:24+00:00"
     },
     {
-      "titel": "Carsten Linnemann: Gesundheitsminister will Rentenansprüche für Pflegende sichern",
-      "link": "https://www.spiegel.de/politik/carsten-linnemann-gesundheitsminister-will-rentenansprueche-fuer-pflegende-sichern-a-f9739510-d762-43ab-ad44-3c7c1038224b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T11:41:00+00:00"
+      "titel": "Kim Jong-un: Mein Freund, der Klassenfeind",
+      "link": "https://www.sueddeutsche.de/politik/kim-jong-un-trump-nordkorea-usa-diplomatie-rodman-li.3534691",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T11:53:50+00:00"
     },
     {
       "titel": "Leute: Haare ab bei Haaland",
@@ -133,40 +163,10 @@
       "veroeffentlicht": "2026-08-23T11:04:00+00:00"
     },
     {
-      "titel": "Hybride Kriegsführung: Die richtige Antwort auf Russlands Sticheleien lautet: Gelassenheit",
-      "link": "https://www.sueddeutsche.de/meinung/drohnen-fake-news-russland-sabotage-geheimdienste-hybrider-krieg-li.3535030",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T10:52:49+00:00"
-    },
-    {
-      "titel": "Fußballer des Jahres: Kane, Gwinn und Kompany gewinnen",
-      "link": "https://www.sueddeutsche.de/sport/kane-gwinn-kompany-fc-bayern-fussballer-des-jahres-kicker-wahl-li.3535621",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T10:34:08+00:00"
-    },
-    {
-      "titel": "Wahlen in Ostdeutschland: Diese Krise ist der schlechtest mögliche Zeitpunkt, AfD zu wählen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/afd-wirtschaft-deutschland-li.3534442",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T10:26:05+00:00"
-    },
-    {
       "titel": "Nahverkehr auf dem Land: Wenn der Bus nur alle paar Stunden kommt",
       "link": "https://www.tagesschau.de/inland/gesellschaft/nahverkehr-bus-land-verkehrswende-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T10:16:47+00:00"
-    },
-    {
-      "titel": "Antisemitismusbeauftragter Klein kritisiert Israels Siedlungspolitik",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klein-antisemitismusbeauftragter-siedlungspolitik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T09:48:08+00:00"
-    },
-    {
-      "titel": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
-      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T09:37:15+00:00"
     }
   ]
 }
