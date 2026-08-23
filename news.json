@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-23T18:49:17+00:00",
+  "aktualisiert": "2026-08-23T19:37:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Demenz: Jordan und Cian Adams rennen Ultraläufe, um die Forschung zu beschleunigen",
+      "link": "https://www.spiegel.de/sport/demenz-jordan-und-cian-adams-rennen-ultralaeufe-um-die-forschung-zu-beschleunigen-a-dcc56462-5e5f-42df-8e47-60522243d510#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T19:00:00+00:00"
+    },
+    {
+      "titel": "Hockey-WM: Deutsche Männer drehen Rückstand in 62 Sekunden und stehen im Halbfinale",
+      "link": "https://www.spiegel.de/sport/hockey-wm-deutsche-maenner-drehen-rueckstand-in-62-sekunden-und-stehen-im-halbfinale-a-8e24f475-bede-4a7e-9502-bfc6ca865e06#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T18:52:00+00:00"
+    },
     {
       "titel": "Iran: Parlamentspräsident droht USA mit Bumerang-Effekt im Wirtschaftskrieg",
       "link": "https://www.spiegel.de/ausland/iran-parlamentspraesident-droht-usa-mit-bumerang-effekt-im-wirtschaftskrieg-a-940fa5b9-d231-4c84-8a18-2eb580cdf599#ref=rss",
@@ -31,7 +43,7 @@
       "veroeffentlicht": "2026-08-23T18:18:00+00:00"
     },
     {
-      "titel": "Atlantikroute: Senegal und Mauretanien stoppen Hunderte Bootsmigranten",
+      "titel": "Senegal und Mauretanien stoppen Hunderte Bootsmigranten",
       "link": "https://www.spiegel.de/ausland/atlantikroute-senegal-und-mauretanien-stoppen-hunderte-bootsmigranten-a-7be4ab35-edd5-4465-ba23-b2a8e39a980d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T18:16:00+00:00"
@@ -65,18 +77,6 @@
       "link": "https://www.spiegel.de/ausland/gaza-der-mann-der-kindern-in-kriegsgebiet-das-schwimmen-beibringt-a-1ee132e9-16f2-4a00-9d65-7f3a88fa66f1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T17:32:00+00:00"
-    },
-    {
-      "titel": "Helge Schneider: Entertainer bricht Konzert in Ellwangen genervt ab – und kehrt zurück",
-      "link": "https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T17:18:00+00:00"
-    },
-    {
-      "titel": "Formel 1: Max-Verstappen-Crash in Zandvoort - Die Abschiedsparty endet in der Streckenbegrenzung",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T17:01:00+00:00"
     },
     {
       "titel": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
