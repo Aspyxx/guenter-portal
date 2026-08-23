@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-23T22:39:33+00:00",
+  "aktualisiert": "2026-08-23T22:59:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "30 Tote nach Abrutsch einer Mülldeponie im westafrikanischen Guinea",
+      "link": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T22:44:33+00:00"
+    },
     {
       "titel": "Mehrere Leichen nach Bootsunglück vor Tunesien geborgen",
       "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootsunglueck-100.html",
@@ -143,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/sport/supercup-dortmund-bundesliga-meisterschaft-kommentar-li.3535524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T13:52:12+00:00"
-    },
-    {
-      "titel": "Präsidentenwahl: \"Schlimmste Krise in Kosovo seit dem Krieg\"",
-      "link": "https://www.tagesschau.de/ausland/europa/kosovo-suche-neuer-staatspraesident-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T13:40:30+00:00"
     },
     {
       "titel": "DFB-Pokal: Viertligist Jeddeloh II gelingt gegen Heidenheim die Sensation",
