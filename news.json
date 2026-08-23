@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-23T05:13:44+00:00",
+  "aktualisiert": "2026-08-23T05:49:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Russland: Die Angst vor einer neuen großen Mobilmachung der Armee wächst",
+      "link": "https://www.spiegel.de/ausland/russland-die-angst-vor-einer-neuen-grossen-mobilmachung-der-armee-waechst-a-c432197d-e8b3-446a-bff5-8697c37b128a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T05:27:00+00:00"
+    },
+    {
+      "titel": "Immobilien: Sanierungsdesaster in Reinfeld treibt Eigentümer aus ihren Wohnungen - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/immobilien-sanierungsdesaster-in-reinfeld-treibt-eigentuemer-aus-ihren-wohnungen-spiegel-tv-a-55ebc6aa-c787-406a-8010-d157695e24b3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T05:24:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Kanzler nennt Wachstum und Beschäftigung als wichtigste Themen",
+      "link": "https://www.spiegel.de/politik/friedrich-merz-kanzler-nennt-wachstum-und-beschaeftigung-als-wichtigste-themen-a-edb97f16-fc83-4fb0-a60c-fcc0f92a6bea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T05:16:00+00:00"
+    },
     {
       "titel": "Supercup: FC Bayern schlägt den BVB - Ein überraschender Musiala-Vertreter Brown und Ruhe hinter den Kulissen",
       "link": "https://www.spiegel.de/sport/fussball/supercup-fc-bayern-schlaegt-den-bvb-ein-ueberraschender-musiala-vertreter-brown-und-ruhe-hinter-den-kulissen-a-8b076ac2-a2ca-4bed-88c8-c6b11cc4b992#ref=rss",
@@ -83,24 +101,6 @@
       "link": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T20:48:16+00:00"
-    },
-    {
-      "titel": "Franz-Beckenbauer-Supercup: FC Bayern München siegt im Duell mit Borussia Dortmund",
-      "link": "https://www.spiegel.de/sport/fussball/franz-beckenbauer-supercup-fc-bayern-muenchen-siegt-im-duell-mit-borussia-dortmund-a-e73673a1-307d-41eb-ad3a-328eb1d0deb7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T20:33:00+00:00"
-    },
-    {
-      "titel": "Migration: Matteo Salvini blockiert Rückführung von Geflüchteten nach Italien",
-      "link": "https://www.spiegel.de/ausland/migration-matteo-salvini-blockiert-rueckfuehrung-von-gefluechteten-nach-italien-a-390ad9fe-1a59-4b4a-8646-e3afd1c74446#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T20:04:00+00:00"
-    },
-    {
-      "titel": "Debatten um Nahost: Essay zu den Grenzen des Sagbaren",
-      "link": "https://www.spiegel.de/kultur/debatten-um-nahost-essay-zu-den-grenzen-des-sagbaren-a-15cd6369-4bd1-4901-aefb-f7b11ce62e19#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T19:30:00+00:00"
     },
     {
       "titel": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
