@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-23T13:07:00+00:00",
+  "aktualisiert": "2026-08-23T13:50:08+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Urlaub unter Beschuss an Russlands Küste",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-krieg-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
-      "rang": 2,
-      "titel": "Gottesanbeterin breitet sich in Deutschland aus",
-      "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
+      "titel": "Ludwigshafen Am Rhein",
+      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
-      "titel": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
-      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
+      "rang": 2,
+      "titel": "\"Schlimmste Krise in Kosovo seit dem Krieg\"",
+      "link": "https://www.tagesschau.de/ausland/europa/kosovo-suche-neuer-staatspraesident-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
+    },
+    {
+      "rang": 3,
+      "titel": "Gottesanbeterin breitet sich in Deutschland aus",
+      "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
