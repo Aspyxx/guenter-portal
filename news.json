@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-23T08:50:08+00:00",
+  "aktualisiert": "2026-08-23T09:44:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
+      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T09:37:15+00:00"
+    },
+    {
+      "titel": "China: Low-Budget-Film »Niu Lai« wird zum Kult bei der Gen Z",
+      "link": "https://www.spiegel.de/ausland/china-low-budget-film-niu-lai-wird-zum-kult-bei-der-gen-z-a-19f7a891-eaee-4fa4-b7f1-70da4a05ad54#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T09:27:00+00:00"
+    },
+    {
+      "titel": "Grenze zum russischen Kaliningrad: Polnisch-deutsche Verteidigung – auf historischem Boden",
+      "link": "https://www.sueddeutsche.de/politik/polen-kaliningrad-grenzschutz-bundeswehr-li.3532778",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T09:16:21+00:00"
+    },
+    {
+      "titel": "Handball-Bundesliga der Frauen: Wenn Profis unter dem Mindestlohn spielen",
+      "link": "https://www.spiegel.de/sport/handball-bundesliga-der-frauen-wenn-profis-unter-dem-mindestlohn-spielen-a-d984112c-0b00-42d0-87c1-b582af87d52a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T09:09:00+00:00"
+    },
+    {
+      "titel": "Cartoons der Woche von Thomas Plaßmann, Klaus Stuttmann, Helena Baumeister",
+      "link": "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-de2126e7-83e9-4440-91a5-0fdd9a93abc1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T09:03:00+00:00"
+    },
+    {
+      "titel": "Australien: Pilzmörderin – Berufung wegen überfüllter Hotels möglich",
+      "link": "https://www.spiegel.de/panorama/australien-pilzmoerderin-berufung-wegen-ueberfuellter-hotels-moeglich-a-9bf03f4c-b8fd-4f21-a7ee-ade6d3fe6ab6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T08:55:00+00:00"
+    },
     {
       "titel": "Iranische Hacker: Britische Energieanlage offenbar vier Tage außer Betrieb",
       "link": "https://www.spiegel.de/ausland/iranische-hacker-britische-energieanlage-offenbar-vier-tage-ausser-betrieb-a-2380b124-b333-40aa-8457-38c212ae47a9#ref=rss",
@@ -61,40 +97,16 @@
       "veroeffentlicht": "2026-08-23T07:02:36+00:00"
     },
     {
-      "titel": "News: Drohnen am Leipziger Flughafen, Waffenlager bei Berlin, Fahndung in Russland nach »FAZ«-Korrespondent",
-      "link": "https://www.spiegel.de/politik/deutschland/news-drohnen-am-leipziger-flughafen-waffenlager-bei-berlin-fahndung-in-russland-nach-faz-korrespondent-a-b2419214-9277-4e23-9ad1-650b725679bf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T06:42:00+00:00"
-    },
-    {
-      "titel": "1400 Menschen in Spanien wegen Bränden und Überschwemmung in Sicherheit gebracht",
-      "link": "https://www.spiegel.de/panorama/1400-menschen-in-spanien-wegen-braenden-und-ueberschwemmung-in-sicherheit-gebracht-a-25025bee-8b1d-4fc9-bc37-4210f1c4e6cf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T06:30:00+00:00"
-    },
-    {
       "titel": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
       "link": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T06:17:34+00:00"
     },
     {
-      "titel": "Die Elevator Boys haben jetzt ihren eigenen Film. Können diese Männer mehr als sexy Aufzug fahren?",
-      "link": "https://www.spiegel.de/kultur/die-elevator-boys-haben-jetzt-ihren-eigenen-film-koennen-diese-maenner-mehr-als-sexy-aufzug-fahren-a-8d82538e-06e7-4a23-a670-5b87ef99ea04#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T06:14:00+00:00"
-    },
-    {
       "titel": "USA: Kanada kontert US-Zölle: „Wir wurden angegriffen“",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-zoelle-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T06:00:41+00:00"
-    },
-    {
-      "titel": "Nordostpassage: Südkorea testet Schifffahrtsroute durch die Arktis",
-      "link": "https://www.spiegel.de/ausland/nordostpassage-suedkorea-testet-schifffahrtsroute-durch-die-arktis-a-32005865-8dd6-4c9a-8f24-80fca1005d59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T06:00:00+00:00"
     },
     {
       "titel": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
@@ -107,12 +119,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T03:03:07+00:00"
-    },
-    {
-      "titel": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
-      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T01:29:20+00:00"
     },
     {
       "titel": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/dfb-pokal-mannheim-kaiserslautern-ausschreitungen-polizei-verletzte-li.3535277",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T10:20:13+00:00"
-    },
-    {
-      "titel": "Stargeiger David Garrett in München: Alle nass und trotzdem glücklich",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-konzert-koenigsplatz-david-garrett-li.3533235",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T09:24:30+00:00"
     }
   ]
 }
