@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-23T16:44:06+00:00",
+  "aktualisiert": "2026-08-23T17:06:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Formel 1: Max-Verstappen-Crash in Zandvoort: Die Abschiedsparty endet in der Streckenbegrenzung",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T17:01:00+00:00"
+    },
+    {
+      "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T16:53:01+00:00"
+    },
+    {
+      "titel": "Dortmund: 49-Jähriger getötet – 15-Jähriger steht unter Mordverdacht",
+      "link": "https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht-a-d96585be-0c70-4a2a-9747-4c8af2c968e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T16:45:00+00:00"
+    },
     {
       "titel": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
       "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-chrupalla-100.html",
@@ -49,12 +67,6 @@
       "veroeffentlicht": "2026-08-23T15:47:00+00:00"
     },
     {
-      "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T15:44:54+00:00"
-    },
-    {
       "titel": "Wahl zum Abgeordnetenhaus: In Berlin ist wählen wie hoffen, nur vergebens",
       "link": "https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens-a-45e8bb6f-57d8-4946-89d9-8f4c217dcf5b#ref=rss",
       "quelle": "SPIEGEL",
@@ -71,18 +83,6 @@
       "link": "https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird-a-0d0b68da-370d-453d-9e9f-b93149f21a3d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T15:21:00+00:00"
-    },
-    {
-      "titel": "Krawalle in griechischer Migrantenunterkunft Sintiki",
-      "link": "https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki-a-2aaa14c0-e0bf-45e4-8b1b-dcf54d77a47e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T14:58:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz besucht Waldbrandgebiet: Bekommen wir jetzt den Klimakanzler?",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler-a-1c8c2e09-e68b-47cb-8b2b-a47498d12420#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T14:58:00+00:00"
     },
     {
       "titel": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
