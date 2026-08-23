@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-23T20:41:29+00:00",
+  "aktualisiert": "2026-08-23T21:01:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,13 +7,25 @@
   },
   "meldungen": [
     {
+      "titel": "Frankreich: Raphaël Glucksmann kündigt Kandidatur für Präsidentschaftswahl 2027 an",
+      "link": "https://www.spiegel.de/ausland/frankreich-raphael-glucksmann-kuendigt-kandidatur-fuer-praesidentschaftswahl-2027-an-a-03ca9099-36fe-4b99-96c2-1f4f390ae551#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T20:49:00+00:00"
+    },
+    {
+      "titel": "Crans-Montana: Barbetreiber Jacques Moretti wegen häuslicher Gewalt festgenommen",
+      "link": "https://www.spiegel.de/panorama/justiz/crans-montana-barbetreiber-jacques-moretti-wegen-haeuslicher-gewalt-festgenommen-a-5ccdace1-6052-42ad-b6b4-9a17bf67499c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T20:44:00+00:00"
+    },
+    {
       "titel": "Alice Weidel und Tino Chrupalla – Sommerinterviews der AfD-Chefs bei ZDF und ARD: Schleichendes Gift, offene Hetze",
       "link": "https://www.spiegel.de/kultur/tv/alice-weidel-und-tino-chrupalla-sommerinterviews-der-afd-chefs-bei-zdf-und-ard-schleichendes-gift-offene-hetze-a-6d1c5967-a96d-4225-9e6d-4afdeac88e95#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T20:36:00+00:00"
     },
     {
-      "titel": "Sommerinterviews in ARD und ZDF: AfD-Spitzenpolitiker mit grenzenloser Siegesgewissheit",
+      "titel": "Sommerinterviews in ARD und ZDF: AfD-Spitzenpolitiker zwischen Aufstacheln und Verharmlosen",
       "link": "https://www.sueddeutsche.de/medien/afd-spitzenpolitiker-sommerinterview-chrupalla-weidel-ard-zdf-li.3533089",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T20:20:43+00:00"
@@ -61,12 +73,6 @@
       "veroeffentlicht": "2026-08-23T18:16:00+00:00"
     },
     {
-      "titel": "DFB-Pokal: FC St. Pauli scheitert in der ersten Runde an Rot-Weiss Essen",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-fc-st-pauli-scheitert-in-der-ersten-runde-an-rot-weiss-essen-a-f5842686-d96e-451a-a2bc-4d79f0699561#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T18:13:00+00:00"
-    },
-    {
       "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
       "quelle": "Tagesschau",
@@ -77,12 +83,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahlen-selenskij-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T18:05:00+00:00"
-    },
-    {
-      "titel": "Erotikshop: Warum vielen der Besuch im Sexladen noch peinlich ist",
-      "link": "https://www.spiegel.de/wirtschaft/erotikshop-warum-vielen-der-besuch-im-sexladen-noch-peinlich-ist-a-81ae18e8-a29a-476a-980d-c47b66e2c105#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T17:45:00+00:00"
     },
     {
       "titel": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
