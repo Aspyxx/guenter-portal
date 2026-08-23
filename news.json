@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-23T17:57:48+00:00",
+  "aktualisiert": "2026-08-23T18:49:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Iran: Parlamentspräsident droht USA mit Bumerang-Effekt im Wirtschaftskrieg",
+      "link": "https://www.spiegel.de/ausland/iran-parlamentspraesident-droht-usa-mit-bumerang-effekt-im-wirtschaftskrieg-a-940fa5b9-d231-4c84-8a18-2eb580cdf599#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T18:35:00+00:00"
+    },
+    {
+      "titel": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T18:34:43+00:00"
+    },
+    {
+      "titel": "Sowjetunion: Wie der SPIEGEL vor 35 Jahren die Hintergründe zum Putsch in Moskau aufdecken konnte",
+      "link": "https://www.spiegel.de/ausland/sowjetunion-wie-der-spiegel-vor-35-jahren-die-hintergruende-zum-putsch-in-moskau-aufdecken-konnte-a-a351e568-45b2-40b5-85b1-b5026ca69bed#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T18:25:00+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Wie verlässlich sind die Wahlumfragen wirklich?",
+      "link": "https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-wie-verlaesslich-sind-die-wahlumfragen-wirklich-a-a2e38560-71ec-47eb-89aa-44df7d7ef7b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T18:18:00+00:00"
+    },
+    {
+      "titel": "Atlantikroute: Senegal und Mauretanien stoppen Hunderte Bootsmigranten",
+      "link": "https://www.spiegel.de/ausland/atlantikroute-senegal-und-mauretanien-stoppen-hunderte-bootsmigranten-a-7be4ab35-edd5-4465-ba23-b2a8e39a980d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T18:16:00+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: FC St. Pauli scheitert in der ersten Runde an Rot-Weiss Essen",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-fc-st-pauli-scheitert-in-der-ersten-runde-an-rot-weiss-essen-a-f5842686-d96e-451a-a2bc-4d79f0699561#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T18:13:00+00:00"
+    },
+    {
+      "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T18:05:46+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Selenskij gegen Wahlen im Krieg - warnt vor russischer Mobilmachung",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahlen-selenskij-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T18:05:00+00:00"
+    },
     {
       "titel": "Erotikshop: Warum vielen der Besuch im Sexladen noch peinlich ist",
       "link": "https://www.spiegel.de/wirtschaft/erotikshop-warum-vielen-der-besuch-im-sexladen-noch-peinlich-ist-a-81ae18e8-a29a-476a-980d-c47b66e2c105#ref=rss",
@@ -19,28 +67,16 @@
       "veroeffentlicht": "2026-08-23T17:32:00+00:00"
     },
     {
-      "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T17:18:40+00:00"
-    },
-    {
       "titel": "Helge Schneider: Entertainer bricht Konzert in Ellwangen genervt ab – und kehrt zurück",
       "link": "https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T17:18:00+00:00"
     },
     {
-      "titel": "Formel 1: Max-Verstappen-Crash in Zandvoort: Die Abschiedsparty endet in der Streckenbegrenzung",
+      "titel": "Formel 1: Max-Verstappen-Crash in Zandvoort - Die Abschiedsparty endet in der Streckenbegrenzung",
       "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T17:01:00+00:00"
-    },
-    {
-      "titel": "Dortmund: 49-Jähriger getötet – 15-Jähriger steht unter Mordverdacht",
-      "link": "https://www.spiegel.de/panorama/justiz/dortmund-49-jaehriger-getoetet-15-jaehriger-steht-unter-mordverdacht-a-d96585be-0c70-4a2a-9747-4c8af2c968e0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T16:45:00+00:00"
     },
     {
       "titel": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
@@ -49,34 +85,10 @@
       "veroeffentlicht": "2026-08-23T16:40:57+00:00"
     },
     {
-      "titel": "Russland: So nutzt Moskau Deepfakes im Kampf gegen die Ukraine",
-      "link": "https://www.spiegel.de/ausland/russland-so-nutzt-moskau-deepfakes-im-kampf-gegen-die-ukraine-a-a9063feb-ef4e-4eb9-8a46-5fe016f78873#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T16:33:00+00:00"
-    },
-    {
-      "titel": "Johann Wadephul in der Ukraine: Die Botschaft des Außenministers an die Bürger von Charkiw – und an Putin",
-      "link": "https://www.spiegel.de/politik/deutschland/johann-wadephul-in-der-ukraine-die-botschaft-des-aussenministers-an-die-buerger-von-charkiw-und-an-putin-a-2aac02b5-d8a8-4552-b7eb-b5bc98cd25d8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T16:26:00+00:00"
-    },
-    {
-      "titel": "Düsseldorf: Skorpion sticht Reisende nach Rückkehr aus Griechenland am Flughafen",
-      "link": "https://www.spiegel.de/panorama/duesseldorf-skorpion-sticht-reisende-nach-rueckkehr-aus-griechenland-am-flughafen-a-06a3d201-e409-4ffb-9b7f-4de1a5b01469#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T16:22:00+00:00"
-    },
-    {
       "titel": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
       "link": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T16:15:18+00:00"
-    },
-    {
-      "titel": "CDU-Innenexperte Throm: Italien könnte neues EU-Asylsystem »sprengen«",
-      "link": "https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen-a-cf5d1d6c-fc08-4e4d-8045-abd390fc382b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T15:51:00+00:00"
     },
     {
       "titel": "Iran reagiert mit Drohungen auf US-Drohungen",
@@ -139,6 +151,12 @@
       "veroeffentlicht": "2026-08-23T12:51:05+00:00"
     },
     {
+      "titel": "Sport: Gute Besserung an Jamal Musiala – und an eine enthemmte Gesellschaft",
+      "link": "https://www.sueddeutsche.de/meinung/jamal-musiala-gesundheit-fussball-sport-kommentar-li.3535016",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T12:44:43+00:00"
+    },
+    {
       "titel": "Nathaniel Brown beim FC Bayern: „Nene“, der kleine Königstransfer",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-nathaniel-brown-borussia-dortmund-supercup-fussball-li.3535606",
       "quelle": "Süddeutsche",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/niedrigwasser-rhein-duisburg-pegel-reportage-li.3532881",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T12:33:57+00:00"
-    },
-    {
-      "titel": "Selenskyj rechnet mit Mobilisierung Hunderttausender russischer Soldaten",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-lage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T12:22:33+00:00"
-    },
-    {
-      "titel": "Pflegeversicherung: Linnemann verzichtet auf Kürzungen bei pflegenden Angehörigen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/rente-linnemann-pflege-li.3535659",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T12:00:57+00:00"
-    },
-    {
-      "titel": "Kim Jong-un: Mein Freund, der Klassenfeind",
-      "link": "https://www.sueddeutsche.de/politik/kim-jong-un-trump-nordkorea-usa-diplomatie-rodman-li.3534691",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T11:53:50+00:00"
     }
   ]
 }
