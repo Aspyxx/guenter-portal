@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-23T07:07:45+00:00",
+  "aktualisiert": "2026-08-23T07:52:45+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
+      "titel": "Gottesanbeterin breitet sich in Deutschland aus",
+      "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
       "titel": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
       "link": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
-    },
-    {
-      "rang": 3,
-      "titel": "Wenn plötzlich das Grauen zu spüren ist",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
