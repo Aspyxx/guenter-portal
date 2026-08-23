@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-23T22:59:48+00:00",
+  "aktualisiert": "2026-08-23T23:36:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "TV-Kritik: War es das jetzt mit der „Brandmauer“?",
+      "link": "https://www.sueddeutsche.de/medien/caren-miosga-armin-laschet-cdu-afd-brandmauer-li.3535093",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T23:17:02+00:00"
+    },
+    {
+      "titel": "Guinea: Mindestens 30 Tote nach Erdrutsch auf Müllkippe in Conakry",
+      "link": "https://www.spiegel.de/ausland/guinea-mindestens-30-tote-nach-erdrutsch-auf-muellkippe-in-conakry-a-33bcdc16-ca75-42e0-97aa-294b4184f7e4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T23:06:00+00:00"
+    },
     {
       "titel": "30 Tote nach Abrutsch einer Mülldeponie im westafrikanischen Guinea",
       "link": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
@@ -77,12 +89,6 @@
       "link": "https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-wie-verlaesslich-sind-die-wahlumfragen-wirklich-a-a2e38560-71ec-47eb-89aa-44df7d7ef7b0#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T18:18:00+00:00"
-    },
-    {
-      "titel": "Senegal und Mauretanien stoppen Hunderte Bootsmigranten",
-      "link": "https://www.spiegel.de/ausland/atlantikroute-senegal-und-mauretanien-stoppen-hunderte-bootsmigranten-a-7be4ab35-edd5-4465-ba23-b2a8e39a980d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T18:16:00+00:00"
     },
     {
       "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/jamal-musiala-gesundheit-fussball-sport-kommentar-li.3535016",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T12:44:43+00:00"
-    },
-    {
-      "titel": "Nathaniel Brown beim FC Bayern: „Nene“, der kleine Königstransfer",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-nathaniel-brown-borussia-dortmund-supercup-fussball-li.3535606",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T12:38:01+00:00"
     }
   ]
 }
