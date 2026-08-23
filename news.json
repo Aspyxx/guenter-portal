@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-23T07:02:20+00:00",
+  "aktualisiert": "2026-08-23T07:48:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,28 @@
   },
   "meldungen": [
     {
+      "titel": "Gottesanbeterin breitet sich in Deutschland aus",
+      "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T07:29:18+00:00"
+    },
+    {
+      "titel": "Straße von Hormus: Iran erlaubt irakischen Öltankern Durchfahrt",
+      "link": "https://www.spiegel.de/ausland/strasse-von-hormus-iran-erlaubt-irakischen-oeltankern-durchfahrt-a-0a925961-b5ad-41f4-9729-83fe4f15a323#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T07:23:00+00:00"
+    },
+    {
       "titel": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
       "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T06:51:06+00:00"
+      "veroeffentlicht": "2026-08-23T07:19:06+00:00"
+    },
+    {
+      "titel": "Krieg gegen die Ukraine: Urlaub unter Beschuss an Russlands Küste",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-krieg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T07:02:36+00:00"
     },
     {
       "titel": "News: Drohnen am Leipziger Flughafen, Waffenlager bei Berlin, Fahndung in Russland nach »FAZ«-Korrespondent",
@@ -79,12 +97,6 @@
       "veroeffentlicht": "2026-08-23T04:37:22+00:00"
     },
     {
-      "titel": "US-Zölle: US-Konzerne fordern neue Verhandlungen mit Kanada",
-      "link": "https://www.spiegel.de/wirtschaft/us-zoelle-us-konzerne-fordern-neue-verhandlungen-mit-kanada-a-5500d2c7-9a09-4bcf-b7c7-077defde9848#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T03:11:00+00:00"
-    },
-    {
       "titel": "Kasachstan wählt neues Parlament",
       "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
       "quelle": "Tagesschau",
@@ -113,18 +125,6 @@
       "link": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T20:48:16+00:00"
-    },
-    {
-      "titel": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
-      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T19:29:05+00:00"
-    },
-    {
-      "titel": "Wie Künstliche Intelligenz die Justiz ausbremst",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T17:59:00+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Putin räumt Schäden für Wirtschaft ein und droht Kiew",
