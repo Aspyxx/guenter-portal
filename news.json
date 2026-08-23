@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-23T14:41:57+00:00",
+  "aktualisiert": "2026-08-23T15:02:25+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Friedrich Merz besucht Waldbrandgebiet: Bekommen wir jetzt den Klimakanzler?",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-besucht-waldbrandgebiet-bekommen-wir-jetzt-den-klimakanzler-a-1c8c2e09-e68b-47cb-8b2b-a47498d12420#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T14:58:00+00:00"
+    },
+    {
+      "titel": "Krawalle in griechischer Migrantenunterkunft Sintiki",
+      "link": "https://www.spiegel.de/ausland/krawalle-in-griechischer-migrantenunterkunft-sintiki-a-2aaa14c0-e0bf-45e4-8b1b-dcf54d77a47e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T14:58:00+00:00"
+    },
+    {
+      "titel": "Alibaba: Chinesischer Onlineriese plant milliardenschwere Kapitalerhöhung für KI",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/alibaba-chinesischer-onlineriese-plant-milliardenschwere-kapitalerhoehung-fuer-ki-a-08b69070-c71d-415e-838d-9c7730bcb609#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T14:56:00+00:00"
+    },
     {
       "titel": "Rätsel der Woche: Welche Karten müssen Sie umdrehen?",
       "link": "https://www.spiegel.de/karriere/raetsel-der-woche-welche-karten-muessen-sie-umdrehen-a-695b63b9-c9db-407b-beb8-bad3808f69d9#ref=rss",
@@ -85,18 +103,6 @@
       "veroeffentlicht": "2026-08-23T12:51:05+00:00"
     },
     {
-      "titel": "Falschfahrten erschüttern Irland und England – gefährlicher TikTok-Trend?",
-      "link": "https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend-a-9b251312-99c5-404a-9c44-b62e74e80205#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T12:45:00+00:00"
-    },
-    {
-      "titel": "Fußballerin und Fußballer des Jahres: Giulia Gwinn und Harry Kane ausgezeichnet",
-      "link": "https://www.spiegel.de/sport/fussball/fussballerin-und-fussballer-des-jahres-giulia-gwinn-und-harry-kane-ausgezeichnet-a-f8e15f8e-0bae-4f30-85a9-c2ac81ac5ea4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T12:41:00+00:00"
-    },
-    {
       "titel": "Nathaniel Brown beim FC Bayern: „Nene“, der kleine Königstransfer",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-nathaniel-brown-borussia-dortmund-supercup-fussball-li.3535606",
       "quelle": "Süddeutsche",
@@ -107,12 +113,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-lage-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T12:22:33+00:00"
-    },
-    {
-      "titel": "Taunus: Katholischer Pfarrer gibt Amt für die Liebe ab",
-      "link": "https://www.spiegel.de/panorama/taunus-katholischer-pfarrer-gibt-amt-fuer-die-liebe-ab-a-b182a1d2-c66b-49a1-b77a-4ec0ed5718df#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T12:14:00+00:00"
     },
     {
       "titel": "Sydney-Marathon-Medaille zeigt versehentlich Münchner Allianz Arena",
@@ -157,10 +157,10 @@
       "veroeffentlicht": "2026-08-23T11:16:46+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Selenskij lehnt Wahlen in Kriegszeiten weiter ab: Wäre ein „Tsunami“",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahlen-selenskij-li.3524928",
+      "titel": "Commerzbank: „Unabhängigkeit ist kein Selbstzweck“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-uebernahme-jens-weidmann-unicredit-zukunft-li.3532729",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T11:04:00+00:00"
+      "veroeffentlicht": "2026-08-23T11:06:12+00:00"
     },
     {
       "titel": "Nahverkehr auf dem Land: Wenn der Bus nur alle paar Stunden kommt",
