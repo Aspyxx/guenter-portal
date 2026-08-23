@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-23T10:02:51+00:00",
+  "aktualisiert": "2026-08-23T10:43:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nigeria: Bewaffnete Angreifer überfallen offenbar Dörfer und entführen zahlreiche Menschen",
+      "link": "https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T10:23:00+00:00"
+    },
+    {
+      "titel": "Nahverkehr auf dem Land: Wenn der Bus nur alle paar Stunden kommt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/nahverkehr-bus-land-verkehrswende-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T10:16:47+00:00"
+    },
+    {
+      "titel": "Junger Mann fährt bei Mannheim auf Autodach mit",
+      "link": "https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos-a-a177b4bd-1420-4e67-a5fa-faa33aa910b5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T10:00:00+00:00"
+    },
     {
       "titel": "Antisemitismusbeauftragter Klein kritisiert Israels Siedlungspolitik",
       "link": "https://www.tagesschau.de/inland/innenpolitik/klein-antisemitismusbeauftragter-siedlungspolitik-100.html",
@@ -73,18 +91,6 @@
       "veroeffentlicht": "2026-08-23T08:26:00+00:00"
     },
     {
-      "titel": "Baltikum: Heftige Stürme treffen Lettland und Litauen – mehrere Tote und Verletzte",
-      "link": "https://www.spiegel.de/panorama/baltikum-heftige-stuerme-treffen-lettland-und-litauen-mehrere-tote-und-verletzte-a-d11f6abc-12d2-4aa3-be6a-131d2390ef7b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T08:05:00+00:00"
-    },
-    {
-      "titel": "Prinz Harry und Meghan zurück in England: Schauspielpläne der Herzogin offenbar gescheitert",
-      "link": "https://www.spiegel.de/panorama/prinz-harry-und-meghan-zurueck-in-england-schauspielplaene-der-herzogin-offenbar-gescheitert-a-8f8a26a0-8788-4368-abd2-bf32e1e0c6b6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T07:57:00+00:00"
-    },
-    {
       "titel": "Kuriose Verwechslung in Sydney: Die Münchner Allianz-Arena ziert die Medaille des Sydney-Marathons",
       "link": "https://www.sueddeutsche.de/muenchen/sydney-marathon-allianz-arena-medaille-australien-li.3535523",
       "quelle": "Süddeutsche",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T03:03:07+00:00"
-    },
-    {
-      "titel": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T00:21:07+00:00"
     },
     {
       "titel": "Supercup: Der erste Titel geht nach München",
