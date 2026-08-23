@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-23T02:00:50+00:00",
+  "aktualisiert": "2026-08-23T03:16:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "US-Zölle: US-Konzerne fordern neue Verhandlungen mit Kanada",
+      "link": "https://www.spiegel.de/wirtschaft/us-zoelle-us-konzerne-fordern-neue-verhandlungen-mit-kanada-a-5500d2c7-9a09-4bcf-b7c7-077defde9848#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T03:11:00+00:00"
+    },
+    {
+      "titel": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T03:07:24+00:00"
+    },
+    {
+      "titel": "Einkammerparlament statt Zweikammersystem",
+      "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T03:03:07+00:00"
+    },
     {
       "titel": "Bundespolitik: Merz: „Historische Beschlüsse“ so schnell wie möglich umsetzen",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-reformen-umsetzung-li.3529564",
@@ -91,12 +109,6 @@
       "veroeffentlicht": "2026-08-22T19:25:00+00:00"
     },
     {
-      "titel": "Schweden: 17-jährige Schülerin ist Opfer des Schwertangriffs in Fagersta",
-      "link": "https://www.spiegel.de/ausland/schweden-17-jaehrige-schuelerin-ist-opfer-des-schwertangriffs-in-fagersta-a-2fedee15-23be-43e8-8c88-155b1cbe498c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T19:23:00+00:00"
-    },
-    {
       "titel": "Wie Künstliche Intelligenz die Justiz ausbremst",
       "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
       "quelle": "Tagesschau",
@@ -119,18 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T16:25:33+00:00"
-    },
-    {
-      "titel": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T15:09:13+00:00"
-    },
-    {
-      "titel": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T15:06:54+00:00"
     },
     {
       "titel": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
