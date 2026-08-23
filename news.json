@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-23T11:03:07+00:00",
+  "aktualisiert": "2026-08-23T11:36:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Erling Haaland überrascht mit kurzen Haaren",
+      "link": "https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren-a-8ce81ee9-9d6a-4ebf-8a61-26520809ec79#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T11:32:00+00:00"
+    },
+    {
+      "titel": "Gottesanbeterin breitet sich in Deutschland aus",
+      "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T11:31:55+00:00"
+    },
+    {
+      "titel": "Donald Trump: Schuldenrekord vor den Midterms",
+      "link": "https://www.spiegel.de/wirtschaft/donald-trump-schuldenrekord-vor-den-midterms-a-ec3de103-8f34-4a84-a2a4-ed52abb7bea2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T11:29:00+00:00"
+    },
+    {
+      "titel": "Linnemann gegen Rentenkürzungen für pflegende Angehörige",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-rente-pflege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T11:27:04+00:00"
+    },
+    {
+      "titel": "Bergunfälle in Tirol: 19-Jähriger stirbt am Großglockner, 64-Jähriger in den Zillertaler Alpen",
+      "link": "https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe-a-31d6675e-d3b6-4f33-8e54-d78f1dc458ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T11:22:00+00:00"
+    },
+    {
+      "titel": "Pläne von Tucker Carlson: Eine neue Maga-Bewegung – ohne Krieg",
+      "link": "https://www.sueddeutsche.de/politik/tucker-carlson-trump-maga-li.3534995",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T11:17:07+00:00"
+    },
+    {
+      "titel": "Glosse: Das Streiflicht: Ein Schilderstreich, der verbindet",
+      "link": "https://www.sueddeutsche.de/politik/ortsschild-lorch-lorsch-streich-li.3535420",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T11:16:46+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Selenskij lehnt Wahlen in Kriegszeiten weiter ab: Wäre ein „Tsunami“",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahlen-selenskij-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T11:04:00+00:00"
+    },
     {
       "titel": "Wahlen in Ostdeutschland: Diese Krise ist der schlechtest mögliche Zeitpunkt, AfD zu wählen",
       "link": "https://www.sueddeutsche.de/wirtschaft/afd-wirtschaft-deutschland-li.3534442",
@@ -73,30 +121,6 @@
       "veroeffentlicht": "2026-08-23T09:03:00+00:00"
     },
     {
-      "titel": "Australien: Pilzmörderin – Berufung wegen überfüllter Hotels möglich",
-      "link": "https://www.spiegel.de/panorama/australien-pilzmoerderin-berufung-wegen-ueberfuellter-hotels-moeglich-a-9bf03f4c-b8fd-4f21-a7ee-ade6d3fe6ab6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T08:55:00+00:00"
-    },
-    {
-      "titel": "Iranische Hacker: Britische Energieanlage offenbar vier Tage außer Betrieb",
-      "link": "https://www.spiegel.de/ausland/iranische-hacker-britische-energieanlage-offenbar-vier-tage-ausser-betrieb-a-2380b124-b333-40aa-8457-38c212ae47a9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T08:41:00+00:00"
-    },
-    {
-      "titel": "Gottesanbeterin breitet sich in Deutschland aus",
-      "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T08:28:46+00:00"
-    },
-    {
-      "titel": "Iran: Weiterer Demonstrant wegen Protesten im Januar hingerichtet",
-      "link": "https://www.spiegel.de/ausland/iran-weiterer-demonstrant-wegen-protesten-im-januar-hingerichtet-a-a440d04c-d429-4a88-a53f-14153fdfcd00#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T08:26:00+00:00"
-    },
-    {
       "titel": "Kuriose Verwechslung in Sydney: Die Münchner Allianz-Arena ziert die Medaille des Sydney-Marathons",
       "link": "https://www.sueddeutsche.de/muenchen/sydney-marathon-allianz-arena-medaille-australien-li.3535523",
       "quelle": "Süddeutsche",
@@ -133,40 +157,16 @@
       "veroeffentlicht": "2026-08-23T04:37:22+00:00"
     },
     {
-      "titel": "Kasachstan wählt neues Parlament",
-      "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T03:03:07+00:00"
-    },
-    {
       "titel": "Supercup: Der erste Titel geht nach München",
       "link": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T20:48:16+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Putin räumt Schäden für Wirtschaft ein und droht Kiew",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-schaeden-wortschaft-gegenschlaege-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T17:01:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel – Buhrufe bei Statement",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T16:13:00+00:00"
-    },
-    {
-      "titel": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
-      "link": "https://www.sueddeutsche.de/sport/klara-buehl-fc-bayern-bundesliga-fussball-saisonstart-li.3535275",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T12:19:47+00:00"
-    },
-    {
-      "titel": "Reit-WM: In Aachen beben die Tribünen",
-      "link": "https://www.sueddeutsche.de/sport/springreiten-aachen-team-gold-wm-li.3535295",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T11:06:29+00:00"
     }
   ]
 }
