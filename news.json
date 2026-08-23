@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-23T10:43:16+00:00",
+  "aktualisiert": "2026-08-23T11:03:07+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Wahlen in Ostdeutschland: Diese Krise ist der schlechtest mögliche Zeitpunkt, AfD zu wählen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/afd-wirtschaft-deutschland-li.3534442",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T10:26:05+00:00"
+    },
     {
       "titel": "Nigeria: Bewaffnete Angreifer überfallen offenbar Dörfer und entführen zahlreiche Menschen",
       "link": "https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss",
@@ -49,7 +55,7 @@
       "veroeffentlicht": "2026-08-23T09:27:00+00:00"
     },
     {
-      "titel": "Exklave Kaliningrad: So befestigen polnische und deutsche Soldaten die Grenze zu Russland",
+      "titel": "Polnische Grenze zu Kaliningrad: Sie sind froh, dass die deutschen Soldaten da sind",
       "link": "https://www.sueddeutsche.de/politik/polen-kaliningrad-grenzschutz-bundeswehr-li.3532778",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T09:16:21+00:00"
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/springreiten-aachen-team-gold-wm-li.3535295",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T11:06:29+00:00"
-    },
-    {
-      "titel": "Ausschreitungen im DFB-Pokal: „So darf ein Derby nicht ausarten“",
-      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-mannheim-kaiserslautern-ausschreitungen-polizei-verletzte-li.3535277",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T10:20:13+00:00"
     }
   ]
 }
