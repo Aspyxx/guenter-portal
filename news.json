@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-22T23:58:19+00:00",
+  "aktualisiert": "2026-08-23T02:00:50+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Bundespolitik: Merz: „Historische Beschlüsse“ so schnell wie möglich umsetzen",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-reformen-umsetzung-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T01:35:55+00:00"
+    },
+    {
+      "titel": "Fifa: Gianni Infantino reist trotz Ausladung zu Jugendturnier in der Karibik",
+      "link": "https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-reist-trotz-ausladung-zu-jugendturnier-in-der-karibik-a-15dd9bb3-336f-480e-bd14-f7d69a6349d5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T01:32:00+00:00"
+    },
+    {
+      "titel": "Bahngewerkschaft macht Druck bei Gesetz zu Sicherheit",
+      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T01:29:20+00:00"
+    },
+    {
+      "titel": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T00:21:07+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn: Bahngewerkschaft fordert mehr Schutz für Zugpersonal und droht mit Streik",
+      "link": "https://www.spiegel.de/wirtschaft/deutsche-bahn-bahngewerkschaft-fordert-mehr-schutz-fuer-zugpersonal-und-droht-mit-streik-a-9b48d898-a429-4e72-b66f-ea5cc40549b4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T00:20:00+00:00"
+    },
+    {
+      "titel": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T00:04:59+00:00"
+    },
     {
       "titel": "Künstliche Intelligenz: Chinas Sprint-Roboter laufen schneller als Usain Bolt",
       "link": "https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-chinas-sprint-roboter-laufen-schneller-als-usain-bolt-a-43ff06fd-afc4-4a0d-88a9-feca28344b02#ref=rss",
@@ -61,22 +97,10 @@
       "veroeffentlicht": "2026-08-22T19:23:00+00:00"
     },
     {
-      "titel": "Kroatien: Deutscher Motorsegler stürzt im Velebit-Gebirge ab – zwei Tote",
-      "link": "https://www.spiegel.de/panorama/kroatien-deutscher-motorsegler-stuerzt-im-velebit-gebirge-ab-zwei-tote-a-8990ccd9-b1a0-48ff-9f39-fbf7300a4c29#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T18:23:00+00:00"
-    },
-    {
       "titel": "Wie Künstliche Intelligenz die Justiz ausbremst",
       "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T17:59:00+00:00"
-    },
-    {
-      "titel": "Zugdiplomatie zwischen China und Nordkorea: In der Grünen Haut nach Nordkorea",
-      "link": "https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea-a-d216b535-3186-4a9d-9872-a6c4b34ce233#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T17:44:00+00:00"
     },
     {
       "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
@@ -109,34 +133,10 @@
       "veroeffentlicht": "2026-08-22T15:06:54+00:00"
     },
     {
-      "titel": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T14:57:02+00:00"
-    },
-    {
-      "titel": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
-      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T14:41:06+00:00"
-    },
-    {
-      "titel": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T13:34:42+00:00"
-    },
-    {
       "titel": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
       "link": "https://www.sueddeutsche.de/sport/klara-buehl-fc-bayern-bundesliga-fussball-saisonstart-li.3535275",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T12:19:47+00:00"
-    },
-    {
-      "titel": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T12:19:28+00:00"
     },
     {
       "titel": "Reit-WM: In Aachen beben die Tribünen",
