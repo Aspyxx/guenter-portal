@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-23T05:49:13+00:00",
+  "aktualisiert": "2026-08-23T07:02:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T06:51:06+00:00"
+    },
+    {
+      "titel": "News: Drohnen am Leipziger Flughafen, Waffenlager bei Berlin, Fahndung in Russland nach »FAZ«-Korrespondent",
+      "link": "https://www.spiegel.de/politik/deutschland/news-drohnen-am-leipziger-flughafen-waffenlager-bei-berlin-fahndung-in-russland-nach-faz-korrespondent-a-b2419214-9277-4e23-9ad1-650b725679bf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T06:42:00+00:00"
+    },
+    {
+      "titel": "1400 Menschen in Spanien wegen Bränden und Überschwemmung in Sicherheit gebracht",
+      "link": "https://www.spiegel.de/panorama/1400-menschen-in-spanien-wegen-braenden-und-ueberschwemmung-in-sicherheit-gebracht-a-25025bee-8b1d-4fc9-bc37-4210f1c4e6cf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T06:30:00+00:00"
+    },
+    {
+      "titel": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
+      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T06:17:34+00:00"
+    },
+    {
+      "titel": "Die Elevator Boys haben jetzt ihren eigenen Film. Können diese Männer mehr als sexy Aufzug fahren?",
+      "link": "https://www.spiegel.de/kultur/die-elevator-boys-haben-jetzt-ihren-eigenen-film-koennen-diese-maenner-mehr-als-sexy-aufzug-fahren-a-8d82538e-06e7-4a23-a670-5b87ef99ea04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T06:14:00+00:00"
+    },
+    {
+      "titel": "USA: Kanada kontert US-Zölle: „Wir wurden angegriffen“",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-zoelle-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T06:00:41+00:00"
+    },
+    {
+      "titel": "Nordostpassage: Südkorea testet Schifffahrtsroute durch die Arktis",
+      "link": "https://www.spiegel.de/ausland/nordostpassage-suedkorea-testet-schifffahrtsroute-durch-die-arktis-a-32005865-8dd6-4c9a-8f24-80fca1005d59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T06:00:00+00:00"
+    },
     {
       "titel": "Russland: Die Angst vor einer neuen großen Mobilmachung der Armee wächst",
       "link": "https://www.spiegel.de/ausland/russland-die-angst-vor-einer-neuen-grossen-mobilmachung-der-armee-waechst-a-c432197d-e8b3-446a-bff5-8697c37b128a#ref=rss",
@@ -43,22 +85,10 @@
       "veroeffentlicht": "2026-08-23T03:11:00+00:00"
     },
     {
-      "titel": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T03:07:24+00:00"
-    },
-    {
       "titel": "Kasachstan wählt neues Parlament",
       "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T03:03:07+00:00"
-    },
-    {
-      "titel": "Fifa: Gianni Infantino reist trotz Ausladung zu Jugendturnier in der Karibik",
-      "link": "https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-reist-trotz-ausladung-zu-jugendturnier-in-der-karibik-a-15dd9bb3-336f-480e-bd14-f7d69a6349d5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T01:32:00+00:00"
     },
     {
       "titel": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
@@ -73,28 +103,10 @@
       "veroeffentlicht": "2026-08-23T00:21:07+00:00"
     },
     {
-      "titel": "Deutsche Bahn: Bahngewerkschaft fordert mehr Schutz für Zugpersonal und droht mit Streik",
-      "link": "https://www.spiegel.de/wirtschaft/deutsche-bahn-bahngewerkschaft-fordert-mehr-schutz-fuer-zugpersonal-und-droht-mit-streik-a-9b48d898-a429-4e72-b66f-ea5cc40549b4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T00:20:00+00:00"
-    },
-    {
       "titel": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
       "link": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T00:04:59+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Chinas Sprint-Roboter laufen schneller als Usain Bolt",
-      "link": "https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-chinas-sprint-roboter-laufen-schneller-als-usain-bolt-a-43ff06fd-afc4-4a0d-88a9-feca28344b02#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T22:50:00+00:00"
-    },
-    {
-      "titel": "Russlands Krieg gegen Ukraine: Wladimir Putin droht Kyjiw nach Angriffen auf Wirtschaftsziele",
-      "link": "https://www.spiegel.de/ausland/russlands-krieg-gegen-ukraine-wladimir-putin-droht-kyjiw-nach-angriffen-auf-wirtschaftsziele-a-4c53fddc-04b4-4b7c-8258-030818d4fedf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-22T21:10:00+00:00"
     },
     {
       "titel": "Supercup: Der erste Titel geht nach München",
@@ -115,12 +127,6 @@
       "veroeffentlicht": "2026-08-22T17:59:00+00:00"
     },
     {
-      "titel": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-22T17:04:55+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Putin räumt Schäden für Wirtschaft ein und droht Kiew",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-schaeden-wortschaft-gegenschlaege-li.3524928",
       "quelle": "Süddeutsche",
@@ -130,7 +136,7 @@
       "titel": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel – Buhrufe bei Statement",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T16:12:00+00:00"
+      "veroeffentlicht": "2026-08-22T16:13:00+00:00"
     },
     {
       "titel": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/frankreich-sommer-hitzerekorde-klimawandel-li.3534863",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T05:30:36+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Iran nennt Trumps „Wirtschaftskrieg“ völkerrechtswidrig",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-voelkerrecht-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T03:12:17+00:00"
     }
   ]
 }
