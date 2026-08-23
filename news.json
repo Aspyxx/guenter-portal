@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-23T11:59:09+00:00",
+  "aktualisiert": "2026-08-23T13:03:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rhein-Fähren fahren wieder - Binnenschiffe haben weiter Probleme",
+      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T12:51:05+00:00"
+    },
+    {
+      "titel": "Falschfahrten erschüttern Irland und England – gefährlicher TikTok-Trend?",
+      "link": "https://www.spiegel.de/panorama/justiz/falschfahrten-erschuettern-irland-und-england-gefaehrlicher-tiktok-trend-a-9b251312-99c5-404a-9c44-b62e74e80205#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T12:45:00+00:00"
+    },
+    {
+      "titel": "Fußballerin und Fußballer des Jahres: Giulia Gwinn und Harry Kane ausgezeichnet",
+      "link": "https://www.spiegel.de/sport/fussball/fussballerin-und-fussballer-des-jahres-giulia-gwinn-und-harry-kane-ausgezeichnet-a-f8e15f8e-0bae-4f30-85a9-c2ac81ac5ea4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T12:41:00+00:00"
+    },
+    {
+      "titel": "Nathaniel Brown beim FC Bayern: „Nene“, der kleine Königstransfer",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-nathaniel-brown-borussia-dortmund-supercup-fussball-li.3535606",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T12:38:01+00:00"
+    },
+    {
+      "titel": "Selenskyj rechnet mit Mobilisierung Hunderttausender russischer Soldaten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-lage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T12:22:33+00:00"
+    },
+    {
+      "titel": "Taunus: Katholischer Pfarrer gibt Amt für die Liebe ab",
+      "link": "https://www.spiegel.de/panorama/taunus-katholischer-pfarrer-gibt-amt-fuer-die-liebe-ab-a-b182a1d2-c66b-49a1-b77a-4ec0ed5718df#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T12:14:00+00:00"
+    },
+    {
+      "titel": "Sydney-Marathon: Medaille zeigt versehentlich Münchner Allianz Arena",
+      "link": "https://www.spiegel.de/sport/leichtathletik/sydney-marathon-medaille-zeigt-versehentlich-muenchner-allianz-arena-a-498f5d8b-d4e9-4027-a766-50f070817a72#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T12:11:00+00:00"
+    },
     {
       "titel": "Sydney-Marathon-Medaille zeigt versehentlich Münchner Allianz Arena",
       "link": "https://www.tagesschau.de/ausland/sydney-marathon-allianz-100.html",
@@ -19,8 +61,8 @@
       "veroeffentlicht": "2026-08-23T11:41:00+00:00"
     },
     {
-      "titel": "Leute: „Die Pferde haben sich mein Leid angehört“",
-      "link": "https://www.sueddeutsche.de/panorama/bredow-werndl-gold-slash-schlange-usain-bolt-li.3534712",
+      "titel": "Leute: Haare ab bei Haaland",
+      "link": "https://www.sueddeutsche.de/panorama/erling-haaland-haare-bredow-werndl-gold-slash-schlange-usain-bolt-li.3534712",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T11:32:29+00:00"
     },
@@ -67,6 +109,12 @@
       "veroeffentlicht": "2026-08-23T11:04:00+00:00"
     },
     {
+      "titel": "Fußballer des Jahres: Kane, Gwinn und Kompany gewinnen",
+      "link": "https://www.sueddeutsche.de/sport/kane-gwinn-kompany-fc-bayern-fussballer-des-jahres-kicker-wahl-li.3535621",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T10:34:08+00:00"
+    },
+    {
       "titel": "Wahlen in Ostdeutschland: Diese Krise ist der schlechtest mögliche Zeitpunkt, AfD zu wählen",
       "link": "https://www.sueddeutsche.de/wirtschaft/afd-wirtschaft-deutschland-li.3534442",
       "quelle": "Süddeutsche",
@@ -77,6 +125,12 @@
       "link": "https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T10:23:00+00:00"
+    },
+    {
+      "titel": "Theater: Basisdemokratie auf der Bühne",
+      "link": "https://www.sueddeutsche.de/kultur/theater-demokratie-zuerich-schweiz-li.3533948",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T10:17:10+00:00"
     },
     {
       "titel": "Nahverkehr auf dem Land: Wenn der Bus nur alle paar Stunden kommt",
@@ -97,76 +151,22 @@
       "veroeffentlicht": "2026-08-23T09:48:08+00:00"
     },
     {
-      "titel": "Vier Tonnen tote Fische – Polen kämpft gegen giftige Goldalge in Oder-Nebengewässer",
-      "link": "https://www.spiegel.de/wissenschaft/natur/vier-tonnen-tote-fische-polen-kaempft-gegen-giftige-goldalge-in-oder-nebengewaesser-a-ef5aa310-20aa-4439-a6d4-407542110942#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T09:43:00+00:00"
-    },
-    {
       "titel": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
       "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T09:37:15+00:00"
     },
     {
-      "titel": "China: Low-Budget-Film »Niu Lai« wird zum Kult bei der Gen Z",
-      "link": "https://www.spiegel.de/ausland/china-low-budget-film-niu-lai-wird-zum-kult-bei-der-gen-z-a-19f7a891-eaee-4fa4-b7f1-70da4a05ad54#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T09:27:00+00:00"
-    },
-    {
-      "titel": "Polnische Grenze zu Kaliningrad: Sie sind froh, dass die deutschen Soldaten da sind",
+      "titel": "Exklave Kaliningrad: So befestigen polnische und deutsche Soldaten die Grenze zu Russland",
       "link": "https://www.sueddeutsche.de/politik/polen-kaliningrad-grenzschutz-bundeswehr-li.3532778",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T09:16:21+00:00"
-    },
-    {
-      "titel": "Handball-Bundesliga der Frauen: Wenn Profis unter dem Mindestlohn spielen",
-      "link": "https://www.spiegel.de/sport/handball-bundesliga-der-frauen-wenn-profis-unter-dem-mindestlohn-spielen-a-d984112c-0b00-42d0-87c1-b582af87d52a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T09:09:00+00:00"
-    },
-    {
-      "titel": "Cartoons der Woche von Thomas Plaßmann, Klaus Stuttmann, Helena Baumeister",
-      "link": "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-helena-baumeister-a-de2126e7-83e9-4440-91a5-0fdd9a93abc1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T09:03:00+00:00"
-    },
-    {
-      "titel": "Kuriose Verwechslung in Sydney: Die Münchner Allianz-Arena ziert die Medaille des Sydney-Marathons",
-      "link": "https://www.sueddeutsche.de/muenchen/sydney-marathon-allianz-arena-medaille-australien-li.3535523",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T07:51:16+00:00"
     },
     {
       "titel": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
       "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T07:19:06+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Urlaub unter Beschuss an Russlands Küste",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-krieg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T07:02:36+00:00"
-    },
-    {
-      "titel": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
-      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T06:17:34+00:00"
-    },
-    {
-      "titel": "USA: Kanada kontert US-Zölle: „Wir wurden angegriffen“",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-zoelle-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T06:00:41+00:00"
-    },
-    {
-      "titel": "Supercup: Der erste Titel geht nach München",
-      "link": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T20:48:16+00:00"
     }
   ]
 }
