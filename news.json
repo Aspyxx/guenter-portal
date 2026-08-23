@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-23T13:03:23+00:00",
+  "aktualisiert": "2026-08-23T13:46:25+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Präsidentenwahl: \"Schlimmste Krise in Kosovo seit dem Krieg\"",
+      "link": "https://www.tagesschau.de/ausland/europa/kosovo-suche-neuer-staatspraesident-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T13:40:30+00:00"
+    },
+    {
+      "titel": "Formel 1 – Großer Preis der Niederlande: Heftiger Unfall von Max Verstappen",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen-a-fb139d45-b522-4490-85f9-d1e36a2e9c9b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T13:36:00+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: Viertligist Jeddeloh II gelingt gegen Heidenheim die Sensation",
+      "link": "https://www.sueddeutsche.de/sport/jeddeloh-heidenheim-dfb-pokal-sensation-fussball-li.3535698",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T13:28:26+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: 1. FC Heidenheim blamiert sich gegen Regionalligist Jeddeloh II",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii-a-12c7a94b-5889-4fb3-aa04-c05e463d21c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T13:24:00+00:00"
+    },
+    {
+      "titel": "Bodensee: Pegel erreicht neues Jahrestief – Baden wird zur Schlammschlacht",
+      "link": "https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht-a-690476ca-b7f7-484f-bdc2-c397c38eef90#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T13:16:00+00:00"
+    },
+    {
+      "titel": "Philadelphia: Mann verfolgt Menschen mit Horrorfilm-Maske",
+      "link": "https://www.spiegel.de/panorama/philadelphia-mann-verfolgt-menschen-mit-horrorfilm-maske-a-f2e43f3f-3ede-414e-9f0e-15991379ab71#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T13:13:00+00:00"
+    },
     {
       "titel": "Rhein-Fähren fahren wieder - Binnenschiffe haben weiter Probleme",
       "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
@@ -67,12 +103,6 @@
       "veroeffentlicht": "2026-08-23T11:32:29+00:00"
     },
     {
-      "titel": "Erling Haaland überrascht mit kurzen Haaren",
-      "link": "https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren-a-8ce81ee9-9d6a-4ebf-8a61-26520809ec79#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T11:32:00+00:00"
-    },
-    {
       "titel": "Gottesanbeterin breitet sich in Deutschland aus",
       "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
       "quelle": "Tagesschau",
@@ -83,12 +113,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-rente-pflege-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T11:27:04+00:00"
-    },
-    {
-      "titel": "Bergunfälle in Tirol: 19-Jähriger stirbt am Großglockner, 64-Jähriger in den Zillertaler Alpen",
-      "link": "https://www.spiegel.de/panorama/bergunfaelle-in-tirol-19-jaehriger-stirbt-am-grossglockner-64-jaehriger-in-den-zillertaler-alpe-a-31d6675e-d3b6-4f33-8e54-d78f1dc458ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T11:22:00+00:00"
     },
     {
       "titel": "Pläne von Tucker Carlson: Eine neue Maga-Bewegung – ohne Krieg",
@@ -109,6 +133,12 @@
       "veroeffentlicht": "2026-08-23T11:04:00+00:00"
     },
     {
+      "titel": "Hybride Kriegsführung: Die richtige Antwort auf Russlands Sticheleien lautet: Gelassenheit",
+      "link": "https://www.sueddeutsche.de/meinung/drohnen-fake-news-russland-sabotage-geheimdienste-hybrider-krieg-li.3535030",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T10:52:49+00:00"
+    },
+    {
       "titel": "Fußballer des Jahres: Kane, Gwinn und Kompany gewinnen",
       "link": "https://www.sueddeutsche.de/sport/kane-gwinn-kompany-fc-bayern-fussballer-des-jahres-kicker-wahl-li.3535621",
       "quelle": "Süddeutsche",
@@ -121,28 +151,10 @@
       "veroeffentlicht": "2026-08-23T10:26:05+00:00"
     },
     {
-      "titel": "Nigeria: Bewaffnete Angreifer überfallen offenbar Dörfer und entführen zahlreiche Menschen",
-      "link": "https://www.spiegel.de/ausland/nigeria-bewaffnete-angreifer-ueberfallen-offenbar-doerfer-und-entfuehren-zahlreiche-menschen-a-6c38597b-f799-445b-8086-f4dbf0f489bf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T10:23:00+00:00"
-    },
-    {
-      "titel": "Theater: Basisdemokratie auf der Bühne",
-      "link": "https://www.sueddeutsche.de/kultur/theater-demokratie-zuerich-schweiz-li.3533948",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T10:17:10+00:00"
-    },
-    {
       "titel": "Nahverkehr auf dem Land: Wenn der Bus nur alle paar Stunden kommt",
       "link": "https://www.tagesschau.de/inland/gesellschaft/nahverkehr-bus-land-verkehrswende-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T10:16:47+00:00"
-    },
-    {
-      "titel": "Junger Mann fährt bei Mannheim auf Autodach mit",
-      "link": "https://www.spiegel.de/panorama/polizei-holt-jungen-mann-vom-dach-eines-autos-a-a177b4bd-1420-4e67-a5fa-faa33aa910b5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T10:00:00+00:00"
     },
     {
       "titel": "Antisemitismusbeauftragter Klein kritisiert Israels Siedlungspolitik",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T09:37:15+00:00"
-    },
-    {
-      "titel": "Exklave Kaliningrad: So befestigen polnische und deutsche Soldaten die Grenze zu Russland",
-      "link": "https://www.sueddeutsche.de/politik/polen-kaliningrad-grenzschutz-bundeswehr-li.3532778",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T09:16:21+00:00"
-    },
-    {
-      "titel": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T07:19:06+00:00"
     }
   ]
 }
