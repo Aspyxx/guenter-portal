@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-23T09:44:16+00:00",
+  "aktualisiert": "2026-08-23T10:02:51+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Antisemitismusbeauftragter Klein kritisiert Israels Siedlungspolitik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klein-antisemitismusbeauftragter-siedlungspolitik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T09:48:08+00:00"
+    },
+    {
+      "titel": "Vier Tonnen tote Fische – Polen kämpft gegen giftige Goldalge in Oder-Nebengewässer",
+      "link": "https://www.spiegel.de/wissenschaft/natur/vier-tonnen-tote-fische-polen-kaempft-gegen-giftige-goldalge-in-oder-nebengewaesser-a-ef5aa310-20aa-4439-a6d4-407542110942#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T09:43:00+00:00"
+    },
     {
       "titel": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
       "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
@@ -19,7 +31,7 @@
       "veroeffentlicht": "2026-08-23T09:27:00+00:00"
     },
     {
-      "titel": "Grenze zum russischen Kaliningrad: Polnisch-deutsche Verteidigung – auf historischem Boden",
+      "titel": "Exklave Kaliningrad: So befestigen polnische und deutsche Soldaten die Grenze zu Russland",
       "link": "https://www.sueddeutsche.de/politik/polen-kaliningrad-grenzschutz-bundeswehr-li.3532778",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T09:16:21+00:00"
@@ -79,12 +91,6 @@
       "veroeffentlicht": "2026-08-23T07:51:16+00:00"
     },
     {
-      "titel": "Straße von Hormus: Iran erlaubt irakischen Öltankern Durchfahrt",
-      "link": "https://www.spiegel.de/ausland/strasse-von-hormus-iran-erlaubt-irakischen-oeltankern-durchfahrt-a-0a925961-b5ad-41f4-9729-83fe4f15a323#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T07:23:00+00:00"
-    },
-    {
       "titel": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
       "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
       "quelle": "Tagesschau",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T00:21:07+00:00"
-    },
-    {
-      "titel": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T00:04:59+00:00"
     },
     {
       "titel": "Supercup: Der erste Titel geht nach München",
