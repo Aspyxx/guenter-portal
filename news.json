@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-23T17:06:32+00:00",
+  "aktualisiert": "2026-08-23T17:36:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,22 @@
   },
   "meldungen": [
     {
+      "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T17:18:40+00:00"
+    },
+    {
+      "titel": "Helge Schneider: Entertainer bricht Konzert in Ellwangen genervt ab – und kehrt zurück",
+      "link": "https://www.spiegel.de/panorama/leute/helge-schneider-entertainer-bricht-konzert-in-ellwangen-genervt-ab-und-kehrt-zurueck-a-4fd9a67d-7989-4b8b-bb4e-1efb533d687e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T17:18:00+00:00"
+    },
+    {
       "titel": "Formel 1: Max-Verstappen-Crash in Zandvoort: Die Abschiedsparty endet in der Streckenbegrenzung",
       "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-crash-in-zandvoort-die-abschiedsparty-endet-in-der-streckenbegrenzung-a-c8712c68-c5a3-4316-b304-c0b3b2b90ed1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T17:01:00+00:00"
-    },
-    {
-      "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T16:53:01+00:00"
     },
     {
       "titel": "Dortmund: 49-Jähriger getötet – 15-Jähriger steht unter Mordverdacht",
@@ -77,12 +83,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T15:25:53+00:00"
-    },
-    {
-      "titel": "UV-Strahlung: Warum mehr Sonne in Mitteleuropa zum Problem für die Haut wird",
-      "link": "https://www.spiegel.de/wissenschaft/uv-strahlung-warum-mehr-sonne-in-mitteleuropa-zum-problem-fuer-die-haut-wird-a-0d0b68da-370d-453d-9e9f-b93149f21a3d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T15:21:00+00:00"
     },
     {
       "titel": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
