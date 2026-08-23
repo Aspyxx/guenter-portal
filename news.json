@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-23T17:36:00+00:00",
+  "aktualisiert": "2026-08-23T17:57:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Erotikshop: Warum vielen der Besuch im Sexladen noch peinlich ist",
+      "link": "https://www.spiegel.de/wirtschaft/erotikshop-warum-vielen-der-besuch-im-sexladen-noch-peinlich-ist-a-81ae18e8-a29a-476a-980d-c47b66e2c105#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T17:45:00+00:00"
+    },
+    {
+      "titel": "Gaza: Der Mann, der Kindern in Kriegsgebiet das Schwimmen beibringt",
+      "link": "https://www.spiegel.de/ausland/gaza-der-mann-der-kindern-in-kriegsgebiet-das-schwimmen-beibringt-a-1ee132e9-16f2-4a00-9d65-7f3a88fa66f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T17:32:00+00:00"
+    },
     {
       "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
@@ -65,18 +77,6 @@
       "link": "https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen-a-cf5d1d6c-fc08-4e4d-8045-abd390fc382b#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-23T15:51:00+00:00"
-    },
-    {
-      "titel": "Sonnenfinsternis verpasst? Jetzt kommt die Mondfinsternis",
-      "link": "https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis-a-5a83354f-21bd-45db-92dd-c802d9ac2162#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T15:47:00+00:00"
-    },
-    {
-      "titel": "Wahl zum Abgeordnetenhaus: In Berlin ist wählen wie hoffen, nur vergebens",
-      "link": "https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens-a-45e8bb6f-57d8-4946-89d9-8f4c217dcf5b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T15:42:00+00:00"
     },
     {
       "titel": "Iran reagiert mit Drohungen auf US-Drohungen",
