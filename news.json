@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-23T15:38:02+00:00",
+  "aktualisiert": "2026-08-23T15:59:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "CDU-Innenexperte Throm: Italien könnte neues EU-Asylsystem »sprengen«",
+      "link": "https://www.spiegel.de/politik/cdu-innenexperte-throm-italien-koennte-neues-eu-asylsystem-sprengen-a-cf5d1d6c-fc08-4e4d-8045-abd390fc382b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T15:51:00+00:00"
+    },
+    {
+      "titel": "Sonnenfinsternis verpasst? Jetzt kommt die Mondfinsternis",
+      "link": "https://www.spiegel.de/wissenschaft/sonnenfinsternis-verpasst-jetzt-kommt-die-mondfinsternis-a-5a83354f-21bd-45db-92dd-c802d9ac2162#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T15:47:00+00:00"
+    },
+    {
+      "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T15:44:54+00:00"
+    },
+    {
+      "titel": "Wahl zum Abgeordnetenhaus: In Berlin ist wählen wie hoffen, nur vergebens",
+      "link": "https://www.spiegel.de/panorama/wahl-zum-abgeordnetenhaus-in-berlin-ist-waehlen-wie-hoffen-nur-vergebens-a-45e8bb6f-57d8-4946-89d9-8f4c217dcf5b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T15:42:00+00:00"
+    },
     {
       "titel": "Iran reagiert mit Drohungen auf US-Drohungen",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
@@ -91,28 +115,10 @@
       "veroeffentlicht": "2026-08-23T13:40:30+00:00"
     },
     {
-      "titel": "Formel 1 – Großer Preis der Niederlande: Heftiger Unfall von Max Verstappen",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-grosser-preis-der-niederlande-heftiger-unfall-von-max-verstappen-a-fb139d45-b522-4490-85f9-d1e36a2e9c9b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T13:36:00+00:00"
-    },
-    {
       "titel": "DFB-Pokal: Viertligist Jeddeloh II gelingt gegen Heidenheim die Sensation",
       "link": "https://www.sueddeutsche.de/sport/jeddeloh-heidenheim-dfb-pokal-sensation-fussball-li.3535698",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T13:28:26+00:00"
-    },
-    {
-      "titel": "DFB-Pokal: 1. FC Heidenheim blamiert sich gegen Regionalligist Jeddeloh II",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-1-fc-heidenheim-blamiert-sich-gegen-regionalligist-jeddeloh-ii-a-12c7a94b-5889-4fb3-aa04-c05e463d21c2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T13:24:00+00:00"
-    },
-    {
-      "titel": "Bodensee: Pegel erreicht neues Jahrestief – Baden wird zur Schlammschlacht",
-      "link": "https://www.spiegel.de/panorama/bodensee-pegel-erreicht-neues-jahrestief-baden-wird-zur-schlammschlacht-a-690476ca-b7f7-484f-bdc2-c397c38eef90#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T13:16:00+00:00"
     },
     {
       "titel": "Rhein-Fähren fahren wieder - Binnenschiffe haben weiter Probleme",
@@ -125,6 +131,12 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-nathaniel-brown-borussia-dortmund-supercup-fussball-li.3535606",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T12:38:01+00:00"
+    },
+    {
+      "titel": "Hitzesommer: Gestrandet in Duisburg",
+      "link": "https://www.sueddeutsche.de/wirtschaft/niedrigwasser-rhein-duisburg-pegel-reportage-li.3532881",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T12:33:57+00:00"
     },
     {
       "titel": "Selenskyj rechnet mit Mobilisierung Hunderttausender russischer Soldaten",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T11:31:55+00:00"
-    },
-    {
-      "titel": "Linnemann gegen Rentenkürzungen für pflegende Angehörige",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-rente-pflege-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T11:27:04+00:00"
-    },
-    {
-      "titel": "Pläne von Tucker Carlson: Eine neue Maga-Bewegung – ohne Krieg",
-      "link": "https://www.sueddeutsche.de/politik/tucker-carlson-trump-maga-li.3534995",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T11:17:07+00:00"
     }
   ]
 }
