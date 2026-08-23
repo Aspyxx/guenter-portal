@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-23T21:37:14+00:00",
+  "aktualisiert": "2026-08-23T21:58:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mehrere Leichen nach Bootsunglück vor Tunesien geborgen",
+      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootsunglueck-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T21:38:32+00:00"
+    },
     {
       "titel": "Frankreich: Raphaël Glucksmann kündigt Kandidatur für Präsidentschaftswahl 2027 an",
       "link": "https://www.spiegel.de/ausland/frankreich-raphael-glucksmann-kuendigt-kandidatur-fuer-praesidentschaftswahl-2027-an-a-03ca9099-36fe-4b99-96c2-1f4f390ae551#ref=rss",
@@ -149,12 +155,6 @@
       "link": "https://www.sueddeutsche.de/sport/jeddeloh-heidenheim-dfb-pokal-sensation-fussball-li.3535698",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T13:28:26+00:00"
-    },
-    {
-      "titel": "Rhein-Fähren fahren wieder - Binnenschiffe haben weiter Probleme",
-      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T12:51:05+00:00"
     },
     {
       "titel": "Sport: Gute Besserung an Jamal Musiala – und an eine enthemmte Gesellschaft",
