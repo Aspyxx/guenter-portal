@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-23T11:36:32+00:00",
+  "aktualisiert": "2026-08-23T11:59:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Sydney-Marathon-Medaille zeigt versehentlich Münchner Allianz Arena",
+      "link": "https://www.tagesschau.de/ausland/sydney-marathon-allianz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-23T11:54:24+00:00"
+    },
+    {
+      "titel": "Carsten Linnemann: Gesundheitsminister will Rentenansprüche für Pflegende sichern",
+      "link": "https://www.spiegel.de/politik/carsten-linnemann-gesundheitsminister-will-rentenansprueche-fuer-pflegende-sichern-a-f9739510-d762-43ab-ad44-3c7c1038224b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-23T11:41:00+00:00"
+    },
+    {
+      "titel": "Leute: „Die Pferde haben sich mein Leid angehört“",
+      "link": "https://www.sueddeutsche.de/panorama/bredow-werndl-gold-slash-schlange-usain-bolt-li.3534712",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-23T11:32:29+00:00"
+    },
     {
       "titel": "Erling Haaland überrascht mit kurzen Haaren",
       "link": "https://www.spiegel.de/sport/fussball/erling-haaland-ueberrascht-mit-kurzen-haaren-a-8ce81ee9-9d6a-4ebf-8a61-26520809ec79#ref=rss",
@@ -17,12 +35,6 @@
       "link": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T11:31:55+00:00"
-    },
-    {
-      "titel": "Donald Trump: Schuldenrekord vor den Midterms",
-      "link": "https://www.spiegel.de/wirtschaft/donald-trump-schuldenrekord-vor-den-midterms-a-ec3de103-8f34-4a84-a2a4-ed52abb7bea2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T11:29:00+00:00"
     },
     {
       "titel": "Linnemann gegen Rentenkürzungen für pflegende Angehörige",
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-08-23T06:00:41+00:00"
     },
     {
-      "titel": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
-      "link": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T04:37:22+00:00"
-    },
-    {
       "titel": "Supercup: Der erste Titel geht nach München",
       "link": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-22T20:48:16+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel – Buhrufe bei Statement",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T16:13:00+00:00"
     }
   ]
 }
