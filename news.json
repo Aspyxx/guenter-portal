@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-23T03:16:41+00:00",
+  "aktualisiert": "2026-08-23T04:23:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -19,16 +19,10 @@
       "veroeffentlicht": "2026-08-23T03:07:24+00:00"
     },
     {
-      "titel": "Einkammerparlament statt Zweikammersystem",
+      "titel": "Kasachstan wählt neues Parlament",
       "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T03:03:07+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Merz: „Historische Beschlüsse“ so schnell wie möglich umsetzen",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-reformen-umsetzung-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T01:35:55+00:00"
     },
     {
       "titel": "Fifa: Gianni Infantino reist trotz Ausladung zu Jugendturnier in der Karibik",
@@ -37,7 +31,7 @@
       "veroeffentlicht": "2026-08-23T01:32:00+00:00"
     },
     {
-      "titel": "Bahngewerkschaft macht Druck bei Gesetz zu Sicherheit",
+      "titel": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
       "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T01:29:20+00:00"
@@ -124,13 +118,19 @@
       "titel": "Krieg in der Ukraine: Putin räumt Schäden für Wirtschaft ein und droht Kiew",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-schaeden-wortschaft-gegenschlaege-li.3524928",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-22T17:01:42+00:00"
+      "veroeffentlicht": "2026-08-22T17:01:00+00:00"
     },
     {
       "titel": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-22T16:25:33+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel – Buhrufe bei Statement",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-22T16:12:00+00:00"
     },
     {
       "titel": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
