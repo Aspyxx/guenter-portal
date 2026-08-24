@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-24T06:24:49+00:00",
+  "aktualisiert": "2026-08-24T07:44:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Gas: Die Gas-Strategie der Bundesregierung? Ein milder Winter – Meinung",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/gas-die-gas-strategie-der-bundesregierung-ein-milder-winter-meinung-a-2f551546-e4f1-46d5-936b-925cb1ab3edb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T07:19:00+00:00"
+    },
+    {
+      "titel": "Jeffrey Epstein: Sie waren seine Opfer – und suchten neue Frauen für ihn",
+      "link": "https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T07:17:00+00:00"
+    },
+    {
+      "titel": "Fifa: Infantino-Kritiker Aleksander Čeferin schließt Kandidatur als Präsident aus",
+      "link": "https://www.spiegel.de/sport/fussball/fifa-infantino-kritiker-aleksander-ceferin-schliesst-kandidatur-als-praesident-aus-a-560e4dbe-fcab-4e4e-9f57-4d64dd7171e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T07:14:00+00:00"
+    },
+    {
+      "titel": "Cherson: Leben mit der russischen Menschenjagd",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-130.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T07:01:49+00:00"
+    },
+    {
+      "titel": "Sanierungsprogramm: VW-Belegschaft kritisiert »desaströse Kommunikation« des Managements",
+      "link": "https://www.spiegel.de/wirtschaft/sanierungsprogramm-vw-belegschaft-kritisiert-desastroese-kommunikation-des-managements-a-f07e13b7-1a82-4f5b-aa69-cd40a425b024#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T07:00:00+00:00"
+    },
+    {
+      "titel": "Karim Adeyemi: Neuer Barça-Stürmer trifft beim deutlichen Ligasieg",
+      "link": "https://www.spiegel.de/sport/fussball/karim-adeyemi-neuer-barca-stuermer-trifft-beim-deutlichen-ligasieg-a-33e72bbf-3788-4902-a562-d69d6cc84147#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T06:46:00+00:00"
+    },
+    {
+      "titel": "Angler entdeckt Kultauto in der Donau: Manta-Wrack zieht viele Besucher in Neu-Ulm an",
+      "link": "https://www.sueddeutsche.de/bayern/neu-ulm-donau-niedrigwasser-oldtimer-li.3535861",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T06:10:18+00:00"
+    },
     {
       "titel": "Private Equity: US-Geldgeber entdecken deutsche Mittelständler",
       "link": "https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc#ref=rss",
@@ -25,8 +67,8 @@
       "veroeffentlicht": "2026-08-24T05:39:25+00:00"
     },
     {
-      "titel": "Brände in Nevada: Zehntausende fliehen vor den Flammen nahe Reno",
-      "link": "https://www.spiegel.de/panorama/braende-in-nevada-zehntausende-fliehen-vor-den-flammen-nahe-reno-a-81a2c6e4-ff5c-49a5-a1c6-422b50b8d739#ref=rss",
+      "titel": "Nevada: Zehntausende fliehen vor Bränden nahe Reno",
+      "link": "https://www.spiegel.de/panorama/nevada-zehntausende-fliehen-vor-braenden-nahe-reno-a-81a2c6e4-ff5c-49a5-a1c6-422b50b8d739#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T05:39:00+00:00"
     },
@@ -35,12 +77,6 @@
       "link": "https://www.spiegel.de/wirtschaft/verbraucherschuetzer-monieren-tricks-bei-trinkgeld-per-karte-a-33e4a31c-4a82-4e80-89d6-da25c7faaf40#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T05:34:00+00:00"
-    },
-    {
-      "titel": "Koalitionsstreit: Mittelstandsverband warnt Merz vor Bruch der Regierung",
-      "link": "https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung-a-e5162041-740b-4628-9e1f-cfac8c2bc317#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T05:24:00+00:00"
     },
     {
       "titel": "USA: Abschiebung trotz Warnstufe rot",
@@ -61,34 +97,10 @@
       "veroeffentlicht": "2026-08-24T04:00:02+00:00"
     },
     {
-      "titel": "Donald Trump, Mark Carney und die Zölle: Auge um Auge, Dollar für Dollar",
-      "link": "https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T03:59:00+00:00"
-    },
-    {
       "titel": "Krieg in Nahost: Iran warnt USA vor Wirtschaftskrieg und droht Golfstaaten",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-golfstaaten-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T03:44:19+00:00"
-    },
-    {
-      "titel": "Einsamkeit: Wenn schöne Filmstars das Alleinsein verklären",
-      "link": "https://www.spiegel.de/psychologie/einsamkeit-wenn-schoene-filmstars-das-alleinsein-verklaeren-a-8b1ad933-a591-488b-92e7-accb1a3a02fc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T03:42:00+00:00"
-    },
-    {
-      "titel": "Flachbildfernseher und aufblasbare Sofas: Was hat Camping noch mit Naturerlebnis zu tun?",
-      "link": "https://www.spiegel.de/kultur/flachbildfernseher-und-aufblasbare-sofas-was-hat-camping-noch-mit-naturerlebnis-zu-tun-a-b8f8e4a2-be84-465b-beba-2708dfa7a3b6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T03:41:00+00:00"
-    },
-    {
-      "titel": "News: Ulrich Siegmund, AfD, Kritik an Pflegereform, Hilfe für Ukraine, Italien, Bootsflüchtlinge",
-      "link": "https://www.spiegel.de/politik/deutschland/news-ulrich-siegmund-afd-kritik-an-pflegereform-hilfe-fuer-ukraine-italien-bootsfluechtlinge-a-63e9710c-f925-4bbe-9a35-dca906dc5ffc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T03:38:00+00:00"
     },
     {
       "titel": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
@@ -133,12 +145,6 @@
       "veroeffentlicht": "2026-08-23T20:20:43+00:00"
     },
     {
-      "titel": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T18:34:43+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Selenskij gegen Wahlen im Krieg - warnt vor russischer Mobilmachung",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahlen-selenskij-li.3524928",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/handelsstreit-usa-kanada-zoelle-trump-li.3535528",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T13:54:39+00:00"
-    },
-    {
-      "titel": "Borussia Dortmund: Ein Mutmacher gegen die bayerische Übermacht",
-      "link": "https://www.sueddeutsche.de/sport/supercup-dortmund-bundesliga-meisterschaft-kommentar-li.3535524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T13:52:12+00:00"
     }
   ]
 }
