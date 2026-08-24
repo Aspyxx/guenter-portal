@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-24T17:47:49+00:00",
+  "aktualisiert": "2026-08-24T19:01:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,7 +7,73 @@
   },
   "meldungen": [
     {
-      "titel": "England: Britische Polizei nimmt zwölf Menschen nach tödlichen »joyrides« fest",
+      "titel": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T18:48:39+00:00"
+    },
+    {
+      "titel": "Copernicus-Messung: Weltmeere mit 21,1 Grad Celsius so warm wie nie",
+      "link": "https://www.spiegel.de/wissenschaft/copernicus-messung-weltmeere-mit-21-1-grad-celsius-so-warm-wie-nie-a-fc8784fd-0aa0-487f-8e43-98e3c7dfadd4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T18:32:00+00:00"
+    },
+    {
+      "titel": "Prinz Harry: Rückzug aus afrikanischer Naturschutzorganisation nach Bekanntwerden von Menschenrechtsverletzungen",
+      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-rueckzug-aus-afrikanischer-naturschutzorganisation-nach-bekanntwerden-von-menschenrechtsverletzungen-a-2d14f2f9-1821-43cf-b1d5-fc8c3793eeef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T18:32:00+00:00"
+    },
+    {
+      "titel": "Donald Trump und Kim Jong Un: Kommt es bald zu einem Treffen?",
+      "link": "https://www.spiegel.de/ausland/donald-trump-und-kim-jong-un-kommt-es-bald-zu-einem-treffen-a-e710aaaa-01ee-4afe-8a0d-cc9bdd99b9ad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T18:29:00+00:00"
+    },
+    {
+      "titel": "Fall Fabian: Angeklagte Gina H. bestreitet Mord und belastet andere Person",
+      "link": "https://www.spiegel.de/panorama/fall-fabian-angeklagte-gina-h-bestreitet-mord-und-belastet-andere-person-a-13bdcefa-b641-46d8-8479-31f9e5fb0e4b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T18:28:00+00:00"
+    },
+    {
+      "titel": "Türkei: Gericht verhängt lange Haftstrafen gegen oppositionelle Bürgermeister",
+      "link": "https://www.spiegel.de/ausland/tuerkei-gericht-verhaengt-lange-haftstrafen-gegen-oppositionelle-buergermeister-a-cc34a879-8782-46b8-8ba3-db374c102794#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T18:05:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Oberstufenschüler dürfen Handys in Schulen nicht mehr nutzen",
+      "link": "https://www.spiegel.de/ausland/frankreich-oberstufenschueler-duerfen-handys-in-schulen-nicht-mehr-nutzen-a-c1c925cf-d866-4e28-92db-9be6585c6f4a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T18:04:00+00:00"
+    },
+    {
+      "titel": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T18:01:28+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: USA wollen mit neuen Sanktionen Irans Einnahmequellen trockenlegen",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-bessent-wirtschaftskrieg-sanktionen-iran-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T18:00:00+00:00"
+    },
+    {
+      "titel": "Wie Kürzungen im Bundeshaushalt die Musikbranche treffen",
+      "link": "https://www.tagesschau.de/kultur/haushaltsentwurf-musikbranche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T17:50:45+00:00"
+    },
+    {
+      "titel": "Tierschutz: Auf dem Rücken der Pferde",
+      "link": "https://www.sueddeutsche.de/kultur/pferde-polizeipferde-mannheim-kaiserslautern-fussballspiel-ausschreitungen-fussball-fans-tierschutz-li.3536228",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T17:35:14+00:00"
+    },
+    {
+      "titel": "England: Polizei nimmt zwölf Menschen nach tödlichen »joyrides« fest",
       "link": "https://www.spiegel.de/panorama/justiz/england-britische-polizei-nimmt-zwoelf-menschen-nach-toedlichen-joyrides-fest-a-d8deebbd-6520-4dcc-b075-811d9f45ea50#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T16:59:00+00:00"
@@ -19,16 +85,10 @@
       "veroeffentlicht": "2026-08-24T16:57:00+00:00"
     },
     {
-      "titel": "Angriff auf Journalisten: Der feine Herr Ulrich Siegmund und seine üble Truppe",
+      "titel": "AfD: Der feine Herr Ulrich Siegmund und seine üble Truppe",
       "link": "https://www.spiegel.de/politik/angriff-auf-journalisten-der-feine-herr-ulrich-siegmund-und-seine-ueble-truppe-a-7387ef77-b88e-4967-a47c-2072db4fc77c#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T16:50:00+00:00"
-    },
-    {
-      "titel": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T16:49:19+00:00"
     },
     {
       "titel": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
@@ -49,46 +109,22 @@
       "veroeffentlicht": "2026-08-24T16:42:05+00:00"
     },
     {
-      "titel": "Zolani Tete: Ex-Boxweltmeister in Südafrika vor eigenem Haus erschossen",
-      "link": "https://www.spiegel.de/panorama/zolani-tete-ex-boxweltmeister-in-suedafrika-vor-eigenem-haus-erschossen-a-a624c3f6-da84-4e5c-8071-ac4b7430abc5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T16:32:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Milliardär Klaus-Michael Kühne ist tot, Raphaël Glucksmann will französischer Präsident werden,Trinkgeld per Karte",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-milliardaer-klaus-michael-kuehne-ist-tot-raphael-glucksmann-will-franzoesischer-praesident-werden-trinkgeld-per-karte-a-2c7a46db-5987-4ab8-8eb8-4f86b12e5de6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T16:22:00+00:00"
-    },
-    {
-      "titel": "Tortenwerfer Noël Godin: Er rief »Gloup! Gloup!« – dann flog die Torte in das Gesicht von Bill Gates",
-      "link": "https://www.spiegel.de/panorama/leute/tortenwerfer-noel-godin-er-rief-gloup-gloup-dann-flog-die-torte-in-das-gesicht-von-bill-gates-a-d0ac7be0-29ae-494a-bcb6-b6e0d3f6dd9c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T16:18:00+00:00"
-    },
-    {
       "titel": "Kinos verzeichnen Plus bei Ticketverkäufen",
       "link": "https://www.tagesschau.de/kultur/kinos-ticketverkauf-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T16:07:35+00:00"
     },
     {
-      "titel": "»Washington Post«: Karen Attiah wurde wegen Posts zu Charlie Kirks Tod gefeuert – nun soll sie in den Job zurück",
-      "link": "https://www.spiegel.de/kultur/washington-post-karen-attiah-wurde-wegen-posts-zu-charlie-kirks-tod-gefeuert-nun-soll-sie-in-den-job-zurueck-a-985bbcda-3f9e-4d91-ad66-44ad160245d4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T15:54:00+00:00"
-    },
-    {
-      "titel": "Donald Trump kündigt weitere Zölle von 50 Prozent gegen Kanada an",
-      "link": "https://www.spiegel.de/ausland/donald-trump-kuendigt-weitere-zoelle-von-50-prozent-gegen-kanada-an-a-b550c783-bcf6-4135-a122-a8c4e66ee1cf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T15:35:00+00:00"
-    },
-    {
       "titel": "EU-Klimadienst Copernicus: 21,1 Grad - Weltmeere warm wie nie",
       "link": "https://www.tagesschau.de/wissen/weltmeere-rekordtemperatur-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T15:15:43+00:00"
+    },
+    {
+      "titel": "Literatur: Wenig zu spüren",
+      "link": "https://www.sueddeutsche.de/kultur/oezge-inan-die-dichterin-roman-literatur-rezension-li.3527905",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T15:08:22+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Putin ermächtigt Staat zur Übernahme schlecht geschützter Infrastruktur",
@@ -101,18 +137,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-equinor-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T15:04:43+00:00"
-    },
-    {
-      "titel": "Sebastian Vettel: Ex-Formel-1-Weltmeister will nun das Segeln lernen",
-      "link": "https://www.spiegel.de/sport/formel1/sebastian-vettel-ex-formel-1-weltmeister-will-nun-das-segeln-lernen-a-c924f0d1-fe9c-4aa3-b4a5-4085b0562f8c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T14:59:00+00:00"
-    },
-    {
-      "titel": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
-      "link": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T14:43:53+00:00"
     },
     {
       "titel": "Polizei: Warum konnte der 14-Jährige in Schwabing nicht getasert werden?",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/wissen/studien-reaktionen-frosch-eichel-li.3530813",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T13:46:22+00:00"
-    },
-    {
-      "titel": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
-      "link": "https://www.sueddeutsche.de/wirtschaft/china-elektroautos-tesla-rueckruf-tuergriffproblemen-li.3536024",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T13:27:30+00:00"
-    },
-    {
-      "titel": "Museen: „Wir sind Teil der Freizeitbranche“",
-      "link": "https://www.sueddeutsche.de/kultur/kunstpalast-felix-kraemer-dog-day-museen-kritik-li.3532668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T13:15:07+00:00"
-    },
-    {
-      "titel": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
-      "link": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T12:42:04+00:00"
-    },
-    {
-      "titel": "Klimawandel: Tino Chrupallas kleine, heile Welt",
-      "link": "https://www.sueddeutsche.de/meinung/chrupalla-afd-klimawandel-sommerinterview-kommentar-li.3536007",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T12:30:32+00:00"
     }
   ]
 }
