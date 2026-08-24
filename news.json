@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-24T14:06:46+00:00",
+  "aktualisiert": "2026-08-24T15:02:04+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,7 +7,37 @@
   },
   "meldungen": [
     {
-      "titel": "Böden im Trockenstress: Was Extremwetter für Kartoffeln in Deutschland bedeutet",
+      "titel": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
+      "link": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T14:43:53+00:00"
+    },
+    {
+      "titel": "Bizarrer Wahlkampf in Alaska: Dan Sullivan unterstützt Dan Sullivan – aber NICHT Dan Sullivan",
+      "link": "https://www.spiegel.de/ausland/bizarrer-wahlkampf-in-alaska-dan-sullivan-unterstuetzt-dan-sullivan-aber-nicht-dan-sullivan-a-3aaf60e9-b13f-441c-8b9f-9cc0775e2ff4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T14:33:00+00:00"
+    },
+    {
+      "titel": "Italien: Regierung plant Bußgelder für abgelenkte Smartphone-Fußgänger",
+      "link": "https://www.spiegel.de/mobilitaet/italien-regierung-plant-bussgelder-fuer-abgelenkte-smartphone-fussgaenger-a-e99381c6-37f2-44d6-98fa-e73e02d311c4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T14:28:00+00:00"
+    },
+    {
+      "titel": "Polizei: Warum konnte der 14-Jährige in Schwabing nicht getasert werden?",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-polizei-schuss-14-jaehriger-taser-li.3533865",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T14:20:42+00:00"
+    },
+    {
+      "titel": "Günzburg – Bayern: 30 Fledermäuse nisten sich in Wohnung ein",
+      "link": "https://www.spiegel.de/panorama/guenzburg-bayern-30-fledermaeuse-nisten-sich-in-wohnung-ein-a-0537c1bd-a9c2-4146-9cd6-23a4e927da35#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T14:14:00+00:00"
+    },
+    {
+      "titel": "Kartoffeln in Deutschland: Was Extremwetter und Dürre für den Anbau bedeuten",
       "link": "https://www.spiegel.de/wissenschaft/natur/boeden-im-trockenstress-was-extremwetter-fuer-kartoffeln-in-deutschland-bedeutet-a-6a332e43-9422-4902-941f-278b6f174efd#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T13:49:00+00:00"
@@ -55,16 +85,10 @@
       "veroeffentlicht": "2026-08-24T12:42:04+00:00"
     },
     {
-      "titel": "Halle Berry feiert »long ass celebrations« zu ihrem 60. Geburtstag",
-      "link": "https://www.spiegel.de/panorama/leute/halle-berry-feiert-long-ass-celebrations-zu-ihrem-60-geburtstag-a-0b2a9b0d-25ad-4875-a636-ef0ac181d8f9#ref=rss",
+      "titel": "Halle Berry feiert »long ass celebrations« zu ihrem 60. Geburtstag in Mexiko",
+      "link": "https://www.spiegel.de/panorama/leute/halle-berry-feiert-long-ass-celebrations-zu-ihrem-60-geburtstag-in-mexiko-a-0b2a9b0d-25ad-4875-a636-ef0ac181d8f9#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T12:39:00+00:00"
-    },
-    {
-      "titel": "Klaus-Michael Kühne: Wo der Milliardär in Hamburg seine Finger mit im Spiel hatte",
-      "link": "https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-wo-der-milliardaer-in-hamburg-seine-finger-mit-im-spiel-hatte-a-44123d15-0c3b-42c8-a23f-b1d3a7531647#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T12:33:00+00:00"
     },
     {
       "titel": "Klimawandel: Tino Chrupallas kleine, heile Welt",
@@ -91,18 +115,6 @@
       "veroeffentlicht": "2026-08-24T12:08:42+00:00"
     },
     {
-      "titel": "ChatGPT: So wird der Chatbot wieder werbefrei – auch ohne teures Abo",
-      "link": "https://www.spiegel.de/netzwelt/apps/chatgpt-so-wird-der-chatbot-wieder-werbefrei-auch-ohne-teures-abo-a-a5639ee9-2a6b-4f1f-8c69-3ae51cf7de81#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T12:08:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: Schuldenrekord vor den Midterms",
-      "link": "https://www.spiegel.de/wirtschaft/donald-trump-schuldenrekord-vor-den-midterms-a-ec3de103-8f34-4a84-a2a4-ed52abb7bea2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T12:07:00+00:00"
-    },
-    {
       "titel": "Literatur: Ist das wirklich der Größte?",
       "link": "https://www.sueddeutsche.de/kultur/philipp-oehmke-papenburg-schoenwald-spiegel-li.3524781",
       "quelle": "Süddeutsche",
@@ -119,12 +131,6 @@
       "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-aktivist-lindemeier-deutschlandfahne-appell-li.3535872",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T11:45:58+00:00"
-    },
-    {
-      "titel": "Klaus-Michael Kühne: Abschied von einem Unverstandenen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/klaus-michael-kuehne-hamburg-kuehne-nagel-li.3535959",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T11:18:47+00:00"
     },
     {
       "titel": "Selenskyj setzt zum Nationalfeiertag auf die \"Kraft der Gemeinschaft\"",
@@ -161,12 +167,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/kasachstan-wahl-110.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T09:34:48+00:00"
-    },
-    {
-      "titel": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T09:32:19+00:00"
     }
   ]
 }
