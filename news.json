@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-24T20:49:34+00:00",
+  "aktualisiert": "2026-08-24T21:45:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Syrien: USA streichen Land von Liste der Terrorunterstützer",
+      "link": "https://www.spiegel.de/ausland/syrien-usa-streichen-land-von-liste-der-terrorunterstuetzer-a-530db1b8-0b1d-47e2-b5a7-1282c24d0f73#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T21:11:00+00:00"
+    },
+    {
+      "titel": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T20:56:51+00:00"
+    },
     {
       "titel": "Annalena Baerbock: Nach Uno-Amt wohl Professur in New York geplant",
       "link": "https://www.spiegel.de/politik/annalena-baerbock-nach-uno-amt-wohl-professur-in-new-york-geplant-a-74a9ff31-dc69-467e-a026-214ced70b166#ref=rss",
@@ -37,12 +49,6 @@
       "veroeffentlicht": "2026-08-24T19:38:42+00:00"
     },
     {
-      "titel": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T18:48:39+00:00"
-    },
-    {
       "titel": "Copernicus-Messung: Weltmeere mit 21,1 Grad Celsius so warm wie nie",
       "link": "https://www.spiegel.de/wissenschaft/copernicus-messung-weltmeere-mit-21-1-grad-celsius-so-warm-wie-nie-a-fc8784fd-0aa0-487f-8e43-98e3c7dfadd4#ref=rss",
       "quelle": "SPIEGEL",
@@ -65,12 +71,6 @@
       "link": "https://www.spiegel.de/panorama/fall-fabian-angeklagte-gina-h-bestreitet-mord-und-belastet-andere-person-a-13bdcefa-b641-46d8-8479-31f9e5fb0e4b#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T18:28:00+00:00"
-    },
-    {
-      "titel": "Türkei: Gericht verhängt lange Haftstrafen gegen oppositionelle Bürgermeister",
-      "link": "https://www.spiegel.de/ausland/tuerkei-gericht-verhaengt-lange-haftstrafen-gegen-oppositionelle-buergermeister-a-cc34a879-8782-46b8-8ba3-db374c102794#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T18:05:00+00:00"
     },
     {
       "titel": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
