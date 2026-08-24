@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-24T09:30:09+00:00",
+  "aktualisiert": "2026-08-24T10:22:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,70 @@
   },
   "meldungen": [
     {
+      "titel": "VW-Belegschaft kritisiert Kommunikation des Vorstands in Krisenzeit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/vw-kritik-kommunikation-vorstand-sparkurs-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T10:09:10+00:00"
+    },
+    {
+      "titel": "Klaus-Michael Kühne ist tot: Der knausrige Wohltäter",
+      "link": "https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter-a-87f5c3c8-d6cb-4a81-a020-308c15f8cb71#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T10:07:00+00:00"
+    },
+    {
       "titel": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
       "link": "https://www.tagesschau.de/wirtschaft/eilmeldung-tod-kuehne-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T09:20:17+00:00"
+      "veroeffentlicht": "2026-08-24T10:01:21+00:00"
+    },
+    {
+      "titel": "ESC 2027: Avrotros aus den Niederlanden kehrt nicht zum Eurovision Song Contest zurück",
+      "link": "https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T09:52:00+00:00"
+    },
+    {
+      "titel": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-eu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T09:42:47+00:00"
+    },
+    {
+      "titel": "Waldbrände in Indonesien: Wie ein jugendlicher Superman gegen die Flammen kämpft",
+      "link": "https://www.spiegel.de/panorama/waldbraende-in-indonesien-wie-ein-jugendlicher-superman-gegen-die-flammen-kaempft-a-f7777cb6-18cc-419d-bfd6-71fe376be783#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T09:39:00+00:00"
+    },
+    {
+      "titel": "Kasachstan: Klare Mehrheit für Regierungspartei bei Parlamentswahl",
+      "link": "https://www.tagesschau.de/ausland/asien/kasachstan-wahl-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T09:34:48+00:00"
+    },
+    {
+      "titel": "Japan: Der Sommerhit in diesem Jahr? Eine Kaltwasser-Nudelsuppe",
+      "link": "https://www.sueddeutsche.de/panorama/japan-nissin-cold-water-instant-noodles-kaltwasser-nudelsuppe-li.3534858",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T09:32:23+00:00"
+    },
+    {
+      "titel": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T09:32:19+00:00"
+    },
+    {
+      "titel": "US-Basketball: Enes Kanter Freedom nach Provokation aus Arena geworfen",
+      "link": "https://www.spiegel.de/sport/basketball/us-basketball-enes-kanter-freedom-nach-provokation-aus-arena-geworfen-a-f6778586-0a3d-49f0-82c6-50b09ebd6d40#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T09:29:00+00:00"
+    },
+    {
+      "titel": "Handelsstreit: Zwei ehemalige Freunde auf Kollisionskurs",
+      "link": "https://www.sueddeutsche.de/wirtschaft/donald-trump-zoelle-kanada-usa-automobilindustrie-li.3535787",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T09:21:37+00:00"
     },
     {
       "titel": "Unternehmer: Logistikmilliardär Klaus-Michael Kühne ist tot",
@@ -29,6 +89,12 @@
       "link": "https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-2026-wen-sie-in-den-landtag-waehlen-wollen-a-5ceeeb11-1e70-46ab-b66d-5530e18d6e39#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T09:16:00+00:00"
+    },
+    {
+      "titel": "Formel 1 in den Niederlanden: „Meint ihr das ernst? Das zerstört mein Rennen!“",
+      "link": "https://www.sueddeutsche.de/sport/f1-zandvoort-hamilton-norris-grand-prix-li.3535917",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T09:14:26+00:00"
     },
     {
       "titel": "Dr. Dre: US-Rapper sieht KI als neues Werkzeug für Kreativität",
@@ -67,34 +133,10 @@
       "veroeffentlicht": "2026-08-24T08:36:00+00:00"
     },
     {
-      "titel": "Klaus-Michael Kühne ist tot",
-      "link": "https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-a-68c2b264-cc8b-48ba-a6ec-40c3feae33ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T08:34:00+00:00"
-    },
-    {
       "titel": "Tote bei Angriffen in Charkiw und Krasnodar",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T08:28:34+00:00"
-    },
-    {
-      "titel": "Formel 1 in Zandvoort: »Horror-Highspeed-Crash für Verstappen« – Pressestimmen",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-in-zandvoort-horror-highspeed-crash-fuer-verstappen-in-der-ersten-runde-pressestimmen-a-d14d7c5b-d3bf-4a76-9c9a-210feff51900#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T08:08:00+00:00"
-    },
-    {
-      "titel": "EZB-Chefin Christine Lagarde für die Leitung des Weltwirtschaftsforums im Gespräch",
-      "link": "https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-fuer-die-leitung-des-weltwirtschaftsforums-im-gespraech-a-d2ba0b26-c90b-41b8-b2dd-ef0a075734a0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T08:06:00+00:00"
-    },
-    {
-      "titel": "Niederlande: Mehrere Verletzte bei Busunglück mit deutschen Schülern",
-      "link": "https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern-a-67ebbf35-559e-432a-b2cc-1df2b61e32fb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T08:04:00+00:00"
     },
     {
       "titel": "Cherson: Leben mit der russischen Menschenjagd",
@@ -121,52 +163,10 @@
       "veroeffentlicht": "2026-08-24T04:47:37+00:00"
     },
     {
-      "titel": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T04:18:06+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Lackmustest für die Linke",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-landtagswahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T04:00:02+00:00"
-    },
-    {
       "titel": "Krieg in Nahost: Iran warnt USA vor Wirtschaftskrieg und droht Golfstaaten",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-golfstaaten-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T03:44:19+00:00"
-    },
-    {
-      "titel": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
-      "link": "https://www.tagesschau.de/wirtschaft/sammelklage-eon-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T03:00:37+00:00"
-    },
-    {
-      "titel": "Evakuierungen wegen Bränden im US-Bundesstaat Nevada",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-waldbrand-nevada-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T02:21:21+00:00"
-    },
-    {
-      "titel": "TV-Kritik: War es das jetzt mit der „Brandmauer“?",
-      "link": "https://www.sueddeutsche.de/medien/caren-miosga-armin-laschet-cdu-afd-brandmauer-li.3535093",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T23:17:02+00:00"
-    },
-    {
-      "titel": "Sommerinterviews in ARD und ZDF: Alleingelassen mit der AfD",
-      "link": "https://www.sueddeutsche.de/medien/afd-spitzenpolitiker-sommerinterview-chrupalla-weidel-ard-zdf-li.3533089",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T20:20:43+00:00"
-    },
-    {
-      "titel": "Russlands Schattenkrieg: „Es wird Zeit, dass Putin merkt, dass seine Aggressionen spürbare Konsequenzen haben“",
-      "link": "https://www.sueddeutsche.de/politik/sicherheitspolitik-dobrindt-waffenlager-russland-bedrohung-hybrider-krieg-drohnen-li.3535520",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T14:03:34+00:00"
     }
   ]
 }
