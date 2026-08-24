@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-24T16:00:47+00:00",
+  "aktualisiert": "2026-08-24T17:01:29+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
+      "titel": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Bitcoin meldet sich fulminant zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-bitcoin-100.html",
+      "titel": "Seitwärts in die neue Woche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Hitze in Deutschland",
-      "link": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
+      "titel": "Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
+      "link": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌡️"
+      "icon": "🔎"
     }
   ]
 }
