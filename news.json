@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-24T01:59:02+00:00",
+  "aktualisiert": "2026-08-24T03:17:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
+      "link": "https://www.tagesschau.de/wirtschaft/sammelklage-eon-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T03:00:37+00:00"
+    },
+    {
+      "titel": "Iran: Präsident Peseschkian räumt wirtschaftliche Probleme offen ein",
+      "link": "https://www.spiegel.de/ausland/iran-praesident-peseschkian-raeumt-wirtschaftliche-probleme-offen-ein-a-05f8d359-953f-43a7-8e30-be2621f0f6a5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T02:37:00+00:00"
+    },
+    {
+      "titel": "Evakuierungen wegen Brände im US-Bundesstaat Nevada",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-waldbrand-nevada-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T02:21:21+00:00"
+    },
     {
       "titel": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
       "link": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
@@ -85,12 +103,6 @@
       "veroeffentlicht": "2026-08-23T18:52:00+00:00"
     },
     {
-      "titel": "Iran: Parlamentspräsident droht USA mit Bumerang-Effekt im Wirtschaftskrieg",
-      "link": "https://www.spiegel.de/ausland/iran-parlamentspraesident-droht-usa-mit-bumerang-effekt-im-wirtschaftskrieg-a-940fa5b9-d231-4c84-8a18-2eb580cdf599#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T18:35:00+00:00"
-    },
-    {
       "titel": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
       "quelle": "Tagesschau",
@@ -119,18 +131,6 @@
       "link": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T16:15:18+00:00"
-    },
-    {
-      "titel": "Iran reagiert mit Drohungen auf US-Drohungen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T15:25:53+00:00"
-    },
-    {
-      "titel": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T14:21:56+00:00"
     },
     {
       "titel": "Russlands Schattenkrieg: „Es wird Zeit, dass Putin merkt, dass seine Aggressionen spürbare Konsequenzen haben“",
