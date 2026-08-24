@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-24T15:57:06+00:00",
+  "aktualisiert": "2026-08-24T16:56:45+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Angriff auf Journalisten: Der feine Herr Ulrich Siegmund und seine üble Truppe",
+      "link": "https://www.spiegel.de/politik/angriff-auf-journalisten-der-feine-herr-ulrich-siegmund-und-seine-ueble-truppe-a-7387ef77-b88e-4967-a47c-2072db4fc77c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T16:50:00+00:00"
+    },
+    {
+      "titel": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T16:49:19+00:00"
+    },
+    {
+      "titel": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T16:48:03+00:00"
+    },
+    {
+      "titel": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
+      "link": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T16:44:15+00:00"
+    },
+    {
+      "titel": "Marktbericht: Seitwärts in die neue Woche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T16:42:05+00:00"
+    },
+    {
+      "titel": "Zolani Tete: Ex-Boxweltmeister in Südafrika vor eigenem Haus erschossen",
+      "link": "https://www.spiegel.de/panorama/zolani-tete-ex-boxweltmeister-in-suedafrika-vor-eigenem-haus-erschossen-a-a624c3f6-da84-4e5c-8071-ac4b7430abc5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T16:32:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Milliardär Klaus-Michael Kühne ist tot, Raphaël Glucksmann will französischer Präsident werden,Trinkgeld per Karte",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-milliardaer-klaus-michael-kuehne-ist-tot-raphael-glucksmann-will-franzoesischer-praesident-werden-trinkgeld-per-karte-a-2c7a46db-5987-4ab8-8eb8-4f86b12e5de6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T16:22:00+00:00"
+    },
+    {
+      "titel": "Tortenwerfer Noël Godin: Er rief »Gloup! Gloup!« – dann flog die Torte in das Gesicht von Bill Gates",
+      "link": "https://www.spiegel.de/panorama/leute/tortenwerfer-noel-godin-er-rief-gloup-gloup-dann-flog-die-torte-in-das-gesicht-von-bill-gates-a-d0ac7be0-29ae-494a-bcb6-b6e0d3f6dd9c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T16:18:00+00:00"
+    },
+    {
+      "titel": "Kinos verzeichnen Plus bei Ticketverkäufen",
+      "link": "https://www.tagesschau.de/kultur/kinos-ticketverkauf-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T16:07:35+00:00"
+    },
     {
       "titel": "»Washington Post«: Karen Attiah wurde wegen Posts zu Charlie Kirks Tod gefeuert – nun soll sie in den Job zurück",
       "link": "https://www.spiegel.de/kultur/washington-post-karen-attiah-wurde-wegen-posts-zu-charlie-kirks-tod-gefeuert-nun-soll-sie-in-den-job-zurueck-a-985bbcda-3f9e-4d91-ad66-44ad160245d4#ref=rss",
@@ -49,14 +103,14 @@
       "veroeffentlicht": "2026-08-24T14:43:53+00:00"
     },
     {
-      "titel": "Bizarrer Wahlkampf in Alaska: Dan Sullivan unterstützt Dan Sullivan – aber NICHT Dan Sullivan",
-      "link": "https://www.spiegel.de/ausland/bizarrer-wahlkampf-in-alaska-dan-sullivan-unterstuetzt-dan-sullivan-aber-nicht-dan-sullivan-a-3aaf60e9-b13f-441c-8b9f-9cc0775e2ff4#ref=rss",
+      "titel": "US-Midterms: Dan Sullivan unterstützt Dan Sullivan – aber NICHT Dan Sullivan",
+      "link": "https://www.spiegel.de/ausland/us-midterms-dan-sullivan-unterstuetzt-dan-sullivan-aber-nicht-dan-sullivan-a-3aaf60e9-b13f-441c-8b9f-9cc0775e2ff4#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T14:33:00+00:00"
     },
     {
-      "titel": "Italien: Regierung plant Bußgelder für abgelenkte Smartphone-Fußgänger",
-      "link": "https://www.spiegel.de/mobilitaet/italien-regierung-plant-bussgelder-fuer-abgelenkte-smartphone-fussgaenger-a-e99381c6-37f2-44d6-98fa-e73e02d311c4#ref=rss",
+      "titel": "Italien: Regierung plant Bußgelder für abgelenkte Fußgänger mit Handy",
+      "link": "https://www.spiegel.de/mobilitaet/italien-regierung-plant-bussgelder-fuer-abgelenkte-fussgaenger-mit-handy-a-e99381c6-37f2-44d6-98fa-e73e02d311c4#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T14:28:00+00:00"
     },
@@ -67,28 +121,16 @@
       "veroeffentlicht": "2026-08-24T14:20:42+00:00"
     },
     {
-      "titel": "Günzburg: 30 Fledermäuse nisten sich während Urlaub in Wohnung ein",
-      "link": "https://www.spiegel.de/panorama/guenzburg-30-fledermaeuse-nisten-sich-waehrend-urlaub-in-wohnung-ein-a-0537c1bd-a9c2-4146-9cd6-23a4e927da35#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T14:14:00+00:00"
-    },
-    {
       "titel": "Fifa-Präsidentschaft: Warum der größte Infantino-Kritiker Infantino nicht selbst herausfordert",
       "link": "https://www.sueddeutsche.de/sport/fifa-praesidentenwahl-infantino-ceferin-fussball-li.3535915",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T14:05:25+00:00"
     },
     {
-      "titel": "Kartoffeln in Deutschland: Was Extremwetter und Dürre für den Anbau bedeuten",
-      "link": "https://www.spiegel.de/wissenschaft/natur/boeden-im-trockenstress-was-extremwetter-fuer-kartoffeln-in-deutschland-bedeutet-a-6a332e43-9422-4902-941f-278b6f174efd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T13:49:00+00:00"
-    },
-    {
-      "titel": "Immobilien: Warum es gut wäre, wenn die Mieten stärker steigen dürften",
-      "link": "https://www.spiegel.de/wirtschaft/wohnungsmarkt-warum-es-gut-waere-wenn-die-mieten-staerker-steigen-duerften-a-e9b08667-e8ad-4e7d-8c4b-342b7a1b4728#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T13:48:00+00:00"
+      "titel": "Heilquelle in Bad Abbach versiegt: Schluss mit Wunder",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-niederbayern-bad-abbach-wallfahrt-heilquelle-versiegt-li.3535939",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T13:59:02+00:00"
     },
     {
       "titel": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
@@ -103,12 +145,6 @@
       "veroeffentlicht": "2026-08-24T13:15:07+00:00"
     },
     {
-      "titel": "Pazifik: Zwei Tote bei erneutem US-Angriff gegen mutmaßliches Drogenschmuggelboot",
-      "link": "https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-erneutem-us-angriff-gegen-mutmassliches-drogenschmuggelboot-a-617803be-6588-43cf-8f89-b06011125b97#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T13:06:00+00:00"
-    },
-    {
       "titel": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
       "link": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html",
       "quelle": "Tagesschau",
@@ -121,12 +157,6 @@
       "veroeffentlicht": "2026-08-24T12:30:32+00:00"
     },
     {
-      "titel": "Marktbericht: Bitcoin meldet sich fulminant zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-bitcoin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T12:25:38+00:00"
-    },
-    {
       "titel": "Leute: Kommt er oder kommt er nicht?",
       "link": "https://www.sueddeutsche.de/panorama/johnny-depp-duesseldorf-schloss-benrath-vernissage-li.3535883",
       "quelle": "Süddeutsche",
@@ -137,36 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-buergermeister-elif-eralp-die-linke-wohnen-li.3535098",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T12:08:42+00:00"
-    },
-    {
-      "titel": "Literatur: Ist das wirklich der Größte?",
-      "link": "https://www.sueddeutsche.de/kultur/philipp-oehmke-papenburg-schoenwald-spiegel-li.3524781",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T11:58:46+00:00"
-    },
-    {
-      "titel": "Selenskyj setzt zum Nationalfeiertag auf die \"Kraft der Gemeinschaft\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-kiew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T11:12:53+00:00"
-    },
-    {
-      "titel": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T11:07:30+00:00"
-    },
-    {
-      "titel": "Studie: EU-Exporte sichern in Deutschland 7,2 Millionen Arbeitsplätze",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-exporte-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T10:52:11+00:00"
-    },
-    {
-      "titel": "VW-Belegschaft kritisiert Kommunikation des Vorstands in Krisenzeit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/vw-kritik-kommunikation-vorstand-sparkurs-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T10:09:10+00:00"
     }
   ]
 }
