@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-23T23:58:05+00:00",
+  "aktualisiert": "2026-08-24T01:59:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T01:41:08+00:00"
+    },
+    {
+      "titel": "Donald Trump legt im Zollstreit mit Kanada nach: Verbale Attacken gegen den Nachbarn",
+      "link": "https://www.spiegel.de/ausland/donald-trump-legt-im-zollstreit-mit-kanada-nach-verbale-attacken-gegen-den-nachbarn-a-0a2ec047-a381-486a-b2af-d1b8a7dc02e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T01:18:00+00:00"
+    },
+    {
+      "titel": "Gesundheitszustand des norwegischen Königs verschlechtert sich weiter",
+      "link": "https://www.spiegel.de/panorama/gesundheitszustand-des-norwegischen-koenigs-verschlechtert-sich-weiter-a-f0745ded-6fc3-4ebe-bc68-7d44e5e13685#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T00:01:00+00:00"
+    },
     {
       "titel": "TV-Kritik: War es das jetzt mit der „Brandmauer“?",
       "link": "https://www.sueddeutsche.de/medien/caren-miosga-armin-laschet-cdu-afd-brandmauer-li.3535093",
@@ -79,18 +97,6 @@
       "veroeffentlicht": "2026-08-23T18:34:43+00:00"
     },
     {
-      "titel": "Sowjetunion: Wie der SPIEGEL vor 35 Jahren die Hintergründe zum Putsch in Moskau aufdecken konnte",
-      "link": "https://www.spiegel.de/ausland/sowjetunion-wie-der-spiegel-vor-35-jahren-die-hintergruende-zum-putsch-in-moskau-aufdecken-konnte-a-a351e568-45b2-40b5-85b1-b5026ca69bed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T18:25:00+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Wie verlässlich sind die Wahlumfragen wirklich?",
-      "link": "https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-wie-verlaesslich-sind-die-wahlumfragen-wirklich-a-a2e38560-71ec-47eb-89aa-44df7d7ef7b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T18:18:00+00:00"
-    },
-    {
       "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
       "quelle": "Tagesschau",
@@ -143,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/politik/handelsstreit-usa-kanada-zoelle-trump-li.3535528",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T13:54:39+00:00"
-    },
-    {
-      "titel": "Wie die Urlaubserholung zurück im Job möglichst lange anhält",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-erholung-arbeitsalltag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T13:52:16+00:00"
     },
     {
       "titel": "Borussia Dortmund: Ein Mutmacher gegen die bayerische Übermacht",
