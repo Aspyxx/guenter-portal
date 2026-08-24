@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-24T13:14:48+00:00",
+  "aktualisiert": "2026-08-24T14:06:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Böden im Trockenstress: Was Extremwetter für Kartoffeln in Deutschland bedeutet",
+      "link": "https://www.spiegel.de/wissenschaft/natur/boeden-im-trockenstress-was-extremwetter-fuer-kartoffeln-in-deutschland-bedeutet-a-6a332e43-9422-4902-941f-278b6f174efd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T13:49:00+00:00"
+    },
+    {
+      "titel": "Immobilien: Warum es gut wäre, wenn die Mieten stärker steigen dürften",
+      "link": "https://www.spiegel.de/wirtschaft/wohnungsmarkt-warum-es-gut-waere-wenn-die-mieten-staerker-steigen-duerften-a-e9b08667-e8ad-4e7d-8c4b-342b7a1b4728#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T13:48:00+00:00"
+    },
+    {
+      "titel": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
+      "link": "https://www.sueddeutsche.de/wirtschaft/china-elektroautos-tesla-rueckruf-tuergriffproblemen-li.3536024",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T13:27:30+00:00"
+    },
+    {
+      "titel": "Museen: „Wir sind Teil der Freizeitbranche“",
+      "link": "https://www.sueddeutsche.de/kultur/kunstpalast-felix-kraemer-dog-day-museen-kritik-li.3532668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T13:15:07+00:00"
+    },
     {
       "titel": "Pazifik: Zwei Tote bei erneutem US-Angriff gegen mutmaßliches Drogenschmuggelboot",
       "link": "https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-erneutem-us-angriff-gegen-mutmassliches-drogenschmuggelboot-a-617803be-6588-43cf-8f89-b06011125b97#ref=rss",
@@ -62,7 +86,7 @@
     },
     {
       "titel": "Berlin: Das große Versprechen vom günstigen Wohnen",
-      "link": "https://www.sueddeutsche.de/politik/elif-eralp-berlin-buergermeister-wahlen-linke-wohnen-li.3535098",
+      "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-buergermeister-elif-eralp-die-linke-wohnen-li.3535098",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T12:08:42+00:00"
     },
@@ -85,12 +109,6 @@
       "veroeffentlicht": "2026-08-24T11:58:46+00:00"
     },
     {
-      "titel": "Singapur will Eltern pro Kind rund 55.000 Dollar Prämie zahlen",
-      "link": "https://www.spiegel.de/ausland/singapur-will-eltern-pro-kind-rund-55-000-dollar-praemie-zahlen-a-2e648727-6993-4cc2-89ea-39973ba94179#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T11:53:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Medienhäuser bitten Merz um Unterstützung bei US-Visaregeln",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-medien-usa-visa-regeln-li.3529564",
       "quelle": "Süddeutsche",
@@ -101,12 +119,6 @@
       "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-aktivist-lindemeier-deutschlandfahne-appell-li.3535872",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T11:45:58+00:00"
-    },
-    {
-      "titel": "Berlin - Polizei: Iris Spranger kritisiert Rheinmetall wegen fehlerhafter Schutzwesten",
-      "link": "https://www.spiegel.de/panorama/justiz/berlin-polizei-iris-spranger-kritisiert-rheinmetall-wegen-fehlerhafter-schutzwesten-a-15b95d31-253b-489b-8ed6-096d81d05aab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T11:30:00+00:00"
     },
     {
       "titel": "Klaus-Michael Kühne: Abschied von einem Unverstandenen",
@@ -127,22 +139,10 @@
       "veroeffentlicht": "2026-08-24T11:07:30+00:00"
     },
     {
-      "titel": "Premier League: Eine Partie voller sehnsüchtiger Erinnerungen",
-      "link": "https://www.sueddeutsche.de/sport/premier-league-newcastle-liverpool-li.3535995",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T10:59:19+00:00"
-    },
-    {
       "titel": "Studie: EU-Exporte sichern in Deutschland 7,2 Millionen Arbeitsplätze",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-exporte-deutschland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T10:52:11+00:00"
-    },
-    {
-      "titel": "Open Air in München: So war das Konzert von Nick Cave auf dem Königsplatz",
-      "link": "https://www.sueddeutsche.de/muenchen/nick-cave-konzert-muenchen-koenigsplatz-rock-emotionen-li.3533417",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T10:45:06+00:00"
     },
     {
       "titel": "VW-Belegschaft kritisiert Kommunikation des Vorstands in Krisenzeit",
