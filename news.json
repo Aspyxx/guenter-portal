@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-24T05:25:02+00:00",
+  "aktualisiert": "2026-08-24T06:24:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Private Equity: US-Geldgeber entdecken deutsche Mittelständler",
+      "link": "https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T05:55:00+00:00"
+    },
+    {
+      "titel": "Shein: Onlinehändler peilt Milliardenerlös mit Börsengang an",
+      "link": "https://www.spiegel.de/wirtschaft/shein-onlinehaendler-peilt-milliardenerloes-mit-boersengang-an-a-40ed3c88-42cc-4cb4-9b07-67c9bcf31ae3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T05:50:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX vor schwunglosem Wochenstart",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T05:39:25+00:00"
+    },
+    {
+      "titel": "Brände in Nevada: Zehntausende fliehen vor den Flammen nahe Reno",
+      "link": "https://www.spiegel.de/panorama/braende-in-nevada-zehntausende-fliehen-vor-den-flammen-nahe-reno-a-81a2c6e4-ff5c-49a5-a1c6-422b50b8d739#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T05:39:00+00:00"
+    },
+    {
+      "titel": "Verbraucherschützer monieren Tricks bei Trinkgeld per Karte",
+      "link": "https://www.spiegel.de/wirtschaft/verbraucherschuetzer-monieren-tricks-bei-trinkgeld-per-karte-a-33e4a31c-4a82-4e80-89d6-da25c7faaf40#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T05:34:00+00:00"
+    },
+    {
+      "titel": "Koalitionsstreit: Mittelstandsverband warnt Merz vor Bruch der Regierung",
+      "link": "https://www.spiegel.de/politik/deutschland/koalitionsstreit-mittelstandsverband-warnt-merz-vor-bruch-der-regierung-a-e5162041-740b-4628-9e1f-cfac8c2bc317#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T05:24:00+00:00"
+    },
     {
       "titel": "USA: Abschiebung trotz Warnstufe rot",
       "link": "https://www.sueddeutsche.de/politik/ice-abschiebung-haiti-li.3535100",
@@ -55,28 +91,10 @@
       "veroeffentlicht": "2026-08-24T03:38:00+00:00"
     },
     {
-      "titel": "Selbstständig machen: Geschäftsmodell steht, doch nichts passiert – was jetzt hilft",
-      "link": "https://www.spiegel.de/karriere/selbststaendig-machen-geschaeftsmodell-steht-doch-nichts-passiert-was-jetzt-hilft-a-2904a435-b94b-45a9-8185-126b68f2854e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T03:30:00+00:00"
-    },
-    {
-      "titel": "Influencer über Job-Alltag: Dickpics, psychische Belastung und falsche Freunde",
-      "link": "https://www.spiegel.de/karriere/influencer-ueber-job-alltag-dickpics-psychische-belastung-und-falsche-freunde-a-591d9845-a982-4702-9eb1-3a319bd6d464#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T03:30:00+00:00"
-    },
-    {
       "titel": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
       "link": "https://www.tagesschau.de/wirtschaft/sammelklage-eon-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T03:00:37+00:00"
-    },
-    {
-      "titel": "Iran: Präsident Peseschkian räumt wirtschaftliche Probleme offen ein",
-      "link": "https://www.spiegel.de/ausland/iran-praesident-peseschkian-raeumt-wirtschaftliche-probleme-offen-ein-a-05f8d359-953f-43a7-8e30-be2621f0f6a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T02:37:00+00:00"
     },
     {
       "titel": "Evakuierungen wegen Brände im US-Bundesstaat Nevada",
@@ -89,18 +107,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T01:41:08+00:00"
-    },
-    {
-      "titel": "Donald Trump legt im Zollstreit mit Kanada nach: Verbale Attacken gegen den Nachbarn",
-      "link": "https://www.spiegel.de/ausland/donald-trump-legt-im-zollstreit-mit-kanada-nach-verbale-attacken-gegen-den-nachbarn-a-0a2ec047-a381-486a-b2af-d1b8a7dc02e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T01:18:00+00:00"
-    },
-    {
-      "titel": "Gesundheitszustand des norwegischen Königs verschlechtert sich weiter",
-      "link": "https://www.spiegel.de/panorama/gesundheitszustand-des-norwegischen-koenigs-verschlechtert-sich-weiter-a-f0745ded-6fc3-4ebe-bc68-7d44e5e13685#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T00:01:00+00:00"
     },
     {
       "titel": "TV-Kritik: War es das jetzt mit der „Brandmauer“?",
@@ -131,12 +137,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-23T18:34:43+00:00"
-    },
-    {
-      "titel": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T18:05:46+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Selenskij gegen Wahlen im Krieg - warnt vor russischer Mobilmachung",
