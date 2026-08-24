@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-24T15:02:04+00:00",
+  "aktualisiert": "2026-08-24T15:57:06+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "»Washington Post«: Karen Attiah wurde wegen Posts zu Charlie Kirks Tod gefeuert – nun soll sie in den Job zurück",
+      "link": "https://www.spiegel.de/kultur/washington-post-karen-attiah-wurde-wegen-posts-zu-charlie-kirks-tod-gefeuert-nun-soll-sie-in-den-job-zurueck-a-985bbcda-3f9e-4d91-ad66-44ad160245d4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T15:54:00+00:00"
+    },
+    {
+      "titel": "Donald Trump kündigt weitere Zölle von 50 Prozent gegen Kanada an",
+      "link": "https://www.spiegel.de/ausland/donald-trump-kuendigt-weitere-zoelle-von-50-prozent-gegen-kanada-an-a-b550c783-bcf6-4135-a122-a8c4e66ee1cf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T15:35:00+00:00"
+    },
+    {
+      "titel": "EU-Klimadienst Copernicus: 21,1 Grad - Weltmeere warm wie nie",
+      "link": "https://www.tagesschau.de/wissen/weltmeere-rekordtemperatur-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T15:15:43+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Putin ermächtigt Staat zur Übernahme schlecht geschützter Infrastruktur",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-infrastruktur-olraffinierie-logistikzentrum-kontrolle-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T15:07:22+00:00"
+    },
+    {
+      "titel": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-equinor-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T15:04:43+00:00"
+    },
+    {
+      "titel": "Sebastian Vettel: Ex-Formel-1-Weltmeister will nun das Segeln lernen",
+      "link": "https://www.spiegel.de/sport/formel1/sebastian-vettel-ex-formel-1-weltmeister-will-nun-das-segeln-lernen-a-c924f0d1-fe9c-4aa3-b4a5-4085b0562f8c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T14:59:00+00:00"
+    },
     {
       "titel": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
       "link": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
@@ -31,10 +67,16 @@
       "veroeffentlicht": "2026-08-24T14:20:42+00:00"
     },
     {
-      "titel": "Günzburg – Bayern: 30 Fledermäuse nisten sich in Wohnung ein",
-      "link": "https://www.spiegel.de/panorama/guenzburg-bayern-30-fledermaeuse-nisten-sich-in-wohnung-ein-a-0537c1bd-a9c2-4146-9cd6-23a4e927da35#ref=rss",
+      "titel": "Günzburg: 30 Fledermäuse nisten sich während Urlaub in Wohnung ein",
+      "link": "https://www.spiegel.de/panorama/guenzburg-30-fledermaeuse-nisten-sich-waehrend-urlaub-in-wohnung-ein-a-0537c1bd-a9c2-4146-9cd6-23a4e927da35#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T14:14:00+00:00"
+    },
+    {
+      "titel": "Fifa-Präsidentschaft: Warum der größte Infantino-Kritiker Infantino nicht selbst herausfordert",
+      "link": "https://www.sueddeutsche.de/sport/fifa-praesidentenwahl-infantino-ceferin-fussball-li.3535915",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T14:05:25+00:00"
     },
     {
       "titel": "Kartoffeln in Deutschland: Was Extremwetter und Dürre für den Anbau bedeuten",
@@ -67,28 +109,10 @@
       "veroeffentlicht": "2026-08-24T13:06:00+00:00"
     },
     {
-      "titel": "Pfaffenhofen an der Ilm: Wie ein halbes Brot eine Bäckerei aus Bayern 15.000 Euro kostete",
-      "link": "https://www.spiegel.de/panorama/pfaffenhofen-an-der-ilm-wie-ein-halbes-brot-eine-baeckerei-aus-bayern-15-000-euro-kostete-a-55ebda9e-8327-4820-a07c-08f2bf934f7c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T12:52:00+00:00"
-    },
-    {
-      "titel": "Raphaël Glucksmann: Partnerin Léa Salamé gibt TV-Nachrichten wegen Präsidentschaftskandidatur ab",
-      "link": "https://www.spiegel.de/kultur/tv/raphael-glucksmann-partnerin-lea-salame-gibt-tv-nachrichten-wegen-praesidentschaftskandidatur-ab-a-533d94c7-0cd9-4822-a6e6-f11de82bc320#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T12:47:00+00:00"
-    },
-    {
       "titel": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
       "link": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T12:42:04+00:00"
-    },
-    {
-      "titel": "Halle Berry feiert »long ass celebrations« zu ihrem 60. Geburtstag in Mexiko",
-      "link": "https://www.spiegel.de/panorama/leute/halle-berry-feiert-long-ass-celebrations-zu-ihrem-60-geburtstag-in-mexiko-a-0b2a9b0d-25ad-4875-a636-ef0ac181d8f9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T12:39:00+00:00"
     },
     {
       "titel": "Klimawandel: Tino Chrupallas kleine, heile Welt",
@@ -121,18 +145,6 @@
       "veroeffentlicht": "2026-08-24T11:58:46+00:00"
     },
     {
-      "titel": "Bundespolitik: Medienhäuser bitten Merz um Unterstützung bei US-Visaregeln",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-medien-usa-visa-regeln-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T11:50:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: „Lieber Herr Banaszak, packen Sie auf Ihr Taxi eine Riesen-Deutschlandfahne“",
-      "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-aktivist-lindemeier-deutschlandfahne-appell-li.3535872",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T11:45:58+00:00"
-    },
-    {
       "titel": "Selenskyj setzt zum Nationalfeiertag auf die \"Kraft der Gemeinschaft\"",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-kiew-100.html",
       "quelle": "Tagesschau",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/vw-kritik-kommunikation-vorstand-sparkurs-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T10:09:10+00:00"
-    },
-    {
-      "titel": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-eu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T09:42:47+00:00"
-    },
-    {
-      "titel": "Kasachstan: Klare Mehrheit für Regierungspartei bei Parlamentswahl",
-      "link": "https://www.tagesschau.de/ausland/asien/kasachstan-wahl-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T09:34:48+00:00"
     }
   ]
 }
