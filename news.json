@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-24T19:01:13+00:00",
+  "aktualisiert": "2026-08-24T19:46:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Niedrigwasser am Rhein: Trockenheit gefährdet Industrie an den Ufern",
+      "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-am-rhein-trockenheit-gefaehrdet-industrie-an-den-ufern-a-615037e4-a791-4450-aec7-3aa45732a72f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T19:43:00+00:00"
+    },
+    {
+      "titel": "Kabinettsklausur der Bundesregierung: Neustart in Neuhardenberg?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T19:38:42+00:00"
+    },
     {
       "titel": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
@@ -85,12 +97,6 @@
       "veroeffentlicht": "2026-08-24T16:57:00+00:00"
     },
     {
-      "titel": "AfD: Der feine Herr Ulrich Siegmund und seine üble Truppe",
-      "link": "https://www.spiegel.de/politik/angriff-auf-journalisten-der-feine-herr-ulrich-siegmund-und-seine-ueble-truppe-a-7387ef77-b88e-4967-a47c-2072db4fc77c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T16:50:00+00:00"
-    },
-    {
       "titel": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
       "quelle": "Tagesschau",
@@ -131,12 +137,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-infrastruktur-olraffinierie-logistikzentrum-kontrolle-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T15:07:22+00:00"
-    },
-    {
-      "titel": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-equinor-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T15:04:43+00:00"
     },
     {
       "titel": "Polizei: Warum konnte der 14-Jährige in Schwabing nicht getasert werden?",
