@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-24T23:37:38+00:00",
+  "aktualisiert": "2026-08-24T23:59:45+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: Französischer Tourist stirbt nach Autopanne im Death Valley",
+      "link": "https://www.spiegel.de/panorama/usa-franzoesischer-tourist-stirbt-nach-autopanne-im-death-valley-a-6a486cdb-8786-4b06-8c57-fbf79418c42c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T23:47:00+00:00"
+    },
     {
       "titel": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
@@ -71,12 +77,6 @@
       "link": "https://www.spiegel.de/ausland/donald-trump-und-kim-jong-un-kommt-es-bald-zu-einem-treffen-a-e710aaaa-01ee-4afe-8a0d-cc9bdd99b9ad#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T18:29:00+00:00"
-    },
-    {
-      "titel": "Fall Fabian: Angeklagte Gina H. bestreitet Mord und belastet andere Person",
-      "link": "https://www.spiegel.de/panorama/fall-fabian-angeklagte-gina-h-bestreitet-mord-und-belastet-andere-person-a-13bdcefa-b641-46d8-8479-31f9e5fb0e4b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T18:28:00+00:00"
     },
     {
       "titel": "Krieg in Nahost: USA wollen mit neuen Sanktionen Irans Einnahmequellen trockenlegen",
