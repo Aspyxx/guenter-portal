@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-24T16:56:45+00:00",
+  "aktualisiert": "2026-08-24T17:47:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "England: Britische Polizei nimmt zwölf Menschen nach tödlichen »joyrides« fest",
+      "link": "https://www.spiegel.de/panorama/justiz/england-britische-polizei-nimmt-zwoelf-menschen-nach-toedlichen-joyrides-fest-a-d8deebbd-6520-4dcc-b075-811d9f45ea50#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T16:59:00+00:00"
+    },
+    {
+      "titel": "Amodei vs. Altman: How the Race for AI Dominance Is Increasing the Risks",
+      "link": "https://www.spiegel.de/international/business/amodei-vs-altman-how-the-race-for-ai-dominance-is-increasing-the-risks-a-0aa34d2c-c3a2-466f-9925-831a0e5a2213#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T16:57:00+00:00"
+    },
     {
       "titel": "Angriff auf Journalisten: Der feine Herr Ulrich Siegmund und seine üble Truppe",
       "link": "https://www.spiegel.de/politik/angriff-auf-journalisten-der-feine-herr-ulrich-siegmund-und-seine-ueble-truppe-a-7387ef77-b88e-4967-a47c-2072db4fc77c#ref=rss",
@@ -103,18 +115,6 @@
       "veroeffentlicht": "2026-08-24T14:43:53+00:00"
     },
     {
-      "titel": "US-Midterms: Dan Sullivan unterstützt Dan Sullivan – aber NICHT Dan Sullivan",
-      "link": "https://www.spiegel.de/ausland/us-midterms-dan-sullivan-unterstuetzt-dan-sullivan-aber-nicht-dan-sullivan-a-3aaf60e9-b13f-441c-8b9f-9cc0775e2ff4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T14:33:00+00:00"
-    },
-    {
-      "titel": "Italien: Regierung plant Bußgelder für abgelenkte Fußgänger mit Handy",
-      "link": "https://www.spiegel.de/mobilitaet/italien-regierung-plant-bussgelder-fuer-abgelenkte-fussgaenger-mit-handy-a-e99381c6-37f2-44d6-98fa-e73e02d311c4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T14:28:00+00:00"
-    },
-    {
       "titel": "Polizei: Warum konnte der 14-Jährige in Schwabing nicht getasert werden?",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-polizei-schuss-14-jaehriger-taser-li.3533865",
       "quelle": "Süddeutsche",
@@ -127,10 +127,22 @@
       "veroeffentlicht": "2026-08-24T14:05:25+00:00"
     },
     {
+      "titel": "Salzburger Festspiele: Das sind wirklich große Geschenke",
+      "link": "https://www.sueddeutsche.de/kultur/festspiel-erinnerungsbuero-mats-staub-oper-konzert-theater-li.3533950",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T14:01:39+00:00"
+    },
+    {
       "titel": "Heilquelle in Bad Abbach versiegt: Schluss mit Wunder",
       "link": "https://www.sueddeutsche.de/bayern/bayern-niederbayern-bad-abbach-wallfahrt-heilquelle-versiegt-li.3535939",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T13:59:02+00:00"
+    },
+    {
+      "titel": "Psychologie: Was werden wohl die anderen denken?",
+      "link": "https://www.sueddeutsche.de/wissen/studien-reaktionen-frosch-eichel-li.3530813",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T13:46:22+00:00"
     },
     {
       "titel": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/chrupalla-afd-klimawandel-sommerinterview-kommentar-li.3536007",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T12:30:32+00:00"
-    },
-    {
-      "titel": "Leute: Kommt er oder kommt er nicht?",
-      "link": "https://www.sueddeutsche.de/panorama/johnny-depp-duesseldorf-schloss-benrath-vernissage-li.3535883",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T12:24:43+00:00"
-    },
-    {
-      "titel": "Berlin: Das große Versprechen vom günstigen Wohnen",
-      "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-buergermeister-elif-eralp-die-linke-wohnen-li.3535098",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T12:08:42+00:00"
     }
   ]
 }
