@@ -1,9 +1,9 @@
 {
-  "aktualisiert": "2026-08-24T06:52:37+00:00",
+  "aktualisiert": "2026-08-24T07:46:51+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Immer Wieder Sonntags",
+      "titel": "Immer Wieder Sonntags Sendung",
       "link": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
@@ -17,10 +17,10 @@
     },
     {
       "rang": 3,
-      "titel": "DAX vor schwunglosem Wochenstart",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
+      "titel": "Leben mit der russischen Menschenjagd",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-130.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     }
   ]
 }
