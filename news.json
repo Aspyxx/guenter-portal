@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-24T10:22:37+00:00",
+  "aktualisiert": "2026-08-24T11:12:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T11:07:30+00:00"
+    },
+    {
+      "titel": "Sahra Wagenknecht über den Umgang mit der AfD: »Ich weiß, was es da für Leute gibt, aber...«",
+      "link": "https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber-a-60ddf94a-2e93-4027-97c7-ecb741f32923#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T10:53:00+00:00"
+    },
+    {
+      "titel": "Studie: EU-Exporte sichern in Deutschland 7,2 Millionen Arbeitsplätze",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-exporte-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T10:52:11+00:00"
+    },
+    {
+      "titel": "Sport bei Parkinson und Multipler Sklerose: Frau Cohrs, 82, geht boxen",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen-a-8937f629-c840-4c4f-8f1e-f6f6bd676ed6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T10:52:00+00:00"
+    },
+    {
+      "titel": "Fall Fabian - Rostock: Angeklagte Gina H. sagt erstmals vor Landgericht aus",
+      "link": "https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus-a-2a80f95e-bdcc-46ea-b885-6a873bee855a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T10:48:00+00:00"
+    },
+    {
+      "titel": "USA: Achtjährige stirbt an Infektion mit »hirnfressender« Amöbe",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/usa-achtjaehrige-stirbt-an-infektion-mit-hirnfressender-amoebe-a-eddf4a43-8e87-46a0-b8f1-bdb5ffc18ea9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T10:42:00+00:00"
+    },
+    {
+      "titel": "USA: Jüngster Flitzer der Welt? Kleinkind läuft in MLS-Partie auf den Rasen",
+      "link": "https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen-a-669b7905-d6a9-442f-9bcc-90c700224cbc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T10:31:00+00:00"
+    },
+    {
+      "titel": "Südkorea: USA sagen amphibische Militärübung wegen Irankrieg ab",
+      "link": "https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab-a-18b1991f-ddb1-4b90-95a2-17d2bd71647d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T10:26:00+00:00"
+    },
     {
       "titel": "VW-Belegschaft kritisiert Kommunikation des Vorstands in Krisenzeit",
       "link": "https://www.tagesschau.de/inland/gesellschaft/vw-kritik-kommunikation-vorstand-sparkurs-100.html",
@@ -61,12 +109,6 @@
       "veroeffentlicht": "2026-08-24T09:32:19+00:00"
     },
     {
-      "titel": "US-Basketball: Enes Kanter Freedom nach Provokation aus Arena geworfen",
-      "link": "https://www.spiegel.de/sport/basketball/us-basketball-enes-kanter-freedom-nach-provokation-aus-arena-geworfen-a-f6778586-0a3d-49f0-82c6-50b09ebd6d40#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T09:29:00+00:00"
-    },
-    {
       "titel": "Handelsstreit: Zwei ehemalige Freunde auf Kollisionskurs",
       "link": "https://www.sueddeutsche.de/wirtschaft/donald-trump-zoelle-kanada-usa-automobilindustrie-li.3535787",
       "quelle": "Süddeutsche",
@@ -85,22 +127,10 @@
       "veroeffentlicht": "2026-08-24T09:17:12+00:00"
     },
     {
-      "titel": "Wahl-O-Mat für Berlin 2026: Wen Sie in den Landtag wählen wollen",
-      "link": "https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-2026-wen-sie-in-den-landtag-waehlen-wollen-a-5ceeeb11-1e70-46ab-b66d-5530e18d6e39#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T09:16:00+00:00"
-    },
-    {
       "titel": "Formel 1 in den Niederlanden: „Meint ihr das ernst? Das zerstört mein Rennen!“",
       "link": "https://www.sueddeutsche.de/sport/f1-zandvoort-hamilton-norris-grand-prix-li.3535917",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T09:14:26+00:00"
-    },
-    {
-      "titel": "Dr. Dre: US-Rapper sieht KI als neues Werkzeug für Kreativität",
-      "link": "https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet-a-c14d1f4c-113d-4036-a0db-9db99ca8a082#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T09:11:00+00:00"
     },
     {
       "titel": "Marktbericht: Anstehende Nvidia-Zahlen machen Anleger nervös",
@@ -109,40 +139,10 @@
       "veroeffentlicht": "2026-08-24T09:09:59+00:00"
     },
     {
-      "titel": "Andy Burnham in Kyjiw: Britischer Premierminister übergibt Marschflugkörper-Baupläne an Ukraine",
-      "link": "https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine-a-9372e66b-85c7-429d-8007-6cfc1e43bd45#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T09:02:00+00:00"
-    },
-    {
-      "titel": "Chang'e 7: China verschiebt Start der Mondmission",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/change-7-china-verschiebt-start-der-mondmission-a-785c7019-9a64-4084-a914-2a8c1a4ff643#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T08:53:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Milliardenhilfe von EU und Norwegen am Unabhängigkeitstag der Ukraine",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-eu-unabhaengigkeitstag-grossbritannien-milliardenhilfe-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T08:47:33+00:00"
-    },
-    {
-      "titel": "Schauspieler: Jacob Elordi hält sich nicht für einen Überlebenskünstler",
-      "link": "https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler-a-ac49efd7-6c42-4197-85ed-36e7abfb613d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T08:36:00+00:00"
-    },
-    {
-      "titel": "Tote bei Angriffen in Charkiw und Krasnodar",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T08:28:34+00:00"
-    },
-    {
-      "titel": "Cherson: Leben mit der russischen Menschenjagd",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-130.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T07:01:49+00:00"
     },
     {
       "titel": "Fernsehen: Aus Einsamkeit ins Deep Web",
