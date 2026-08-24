@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-24T15:06:31+00:00",
+  "aktualisiert": "2026-08-24T16:00:47+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Kanada",
-      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Bitcoin meldet sich fulminant zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-bitcoin-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Hitze in Deutschland",
+      "link": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌡️"
     }
   ]
 }
