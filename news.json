@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-24T11:12:29+00:00",
+  "aktualisiert": "2026-08-24T11:46:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,64 @@
   },
   "meldungen": [
     {
+      "titel": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
+      "link": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T11:45:56+00:00"
+    },
+    {
+      "titel": "Berlin - Polizei: Iris Spranger kritisiert Rheinmetall wegen fehlerhafter Schutzwesten",
+      "link": "https://www.spiegel.de/panorama/justiz/berlin-polizei-iris-spranger-kritisiert-rheinmetall-wegen-fehlerhafter-schutzwesten-a-15b95d31-253b-489b-8ed6-096d81d05aab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T11:30:00+00:00"
+    },
+    {
+      "titel": "Pflege: SPD und CSU begrüßt Wende von Carsten Linnemann – aber Sparfrage bleibt offen",
+      "link": "https://www.spiegel.de/politik/deutschland/pflege-spd-und-csu-begruesst-wende-von-carsten-linnemann-aber-sparfrage-bleibt-offen-a-aeb055c0-349f-4803-8438-bd33eee79a3b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T11:23:00+00:00"
+    },
+    {
+      "titel": "Klaus-Michael Kühne: Abschied von einem Unverstandenen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/klaus-michael-kuehne-hamburg-kuehne-nagel-li.3535959",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T11:18:47+00:00"
+    },
+    {
+      "titel": "»Harry Potter«-Schauspielerin: Jessie Cave sagt, OnlyFans habe sie gerettet",
+      "link": "https://www.spiegel.de/panorama/leute/harry-potter-schauspielerin-jessie-cave-sagt-onlyfans-habe-sie-gerettet-a-328bbfe6-2fd9-4792-a17a-59b9f2e563b7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T11:17:00+00:00"
+    },
+    {
+      "titel": "Wahl-O-Mat für Mecklenburg-Vorpommern 2026: Wen Sie in den Landtag wählen wollen",
+      "link": "https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-mecklenburg-vorpommern-2026-wen-sie-in-den-landtag-waehlen-wollen-a-53b2325c-8dc1-45d0-9e3e-79d3d940b1e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T11:15:00+00:00"
+    },
+    {
+      "titel": "Selenskyj setzt zum Nationalfeiertag auf die \"Kraft der Gemeinschaft\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T11:12:53+00:00"
+    },
+    {
+      "titel": "Pfaffenhofen an der Ilm: Wie ein halbes Brot eine Bäckerei aus Bayern 15.000 Euro kostete",
+      "link": "https://www.spiegel.de/panorama/pfaffenhofen-an-der-ilm-wie-ein-halbes-brot-eine-baeckerei-aus-bayern-15-000-euro-kostete-a-55ebda9e-8327-4820-a07c-08f2bf934f7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T11:12:00+00:00"
+    },
+    {
       "titel": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T11:07:30+00:00"
+    },
+    {
+      "titel": "Premier League: Eine Partie voller sehnsüchtiger Erinnerungen",
+      "link": "https://www.sueddeutsche.de/sport/premier-league-newcastle-liverpool-li.3535995",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T10:59:19+00:00"
     },
     {
       "titel": "Sahra Wagenknecht über den Umgang mit der AfD: »Ich weiß, was es da für Leute gibt, aber...«",
@@ -43,52 +97,16 @@
       "veroeffentlicht": "2026-08-24T10:42:00+00:00"
     },
     {
-      "titel": "USA: Jüngster Flitzer der Welt? Kleinkind läuft in MLS-Partie auf den Rasen",
-      "link": "https://www.spiegel.de/sport/fussball/usa-juengster-flitzer-der-welt-kleinkind-laeuft-in-mls-partie-auf-den-rasen-a-669b7905-d6a9-442f-9bcc-90c700224cbc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T10:31:00+00:00"
-    },
-    {
-      "titel": "Südkorea: USA sagen amphibische Militärübung wegen Irankrieg ab",
-      "link": "https://www.spiegel.de/ausland/suedkorea-usa-sagen-amphibische-militaeruebung-wegen-irankrieg-ab-a-18b1991f-ddb1-4b90-95a2-17d2bd71647d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T10:26:00+00:00"
-    },
-    {
       "titel": "VW-Belegschaft kritisiert Kommunikation des Vorstands in Krisenzeit",
       "link": "https://www.tagesschau.de/inland/gesellschaft/vw-kritik-kommunikation-vorstand-sparkurs-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T10:09:10+00:00"
     },
     {
-      "titel": "Klaus-Michael Kühne ist tot: Der knausrige Wohltäter",
-      "link": "https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter-a-87f5c3c8-d6cb-4a81-a020-308c15f8cb71#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T10:07:00+00:00"
-    },
-    {
-      "titel": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
-      "link": "https://www.tagesschau.de/wirtschaft/eilmeldung-tod-kuehne-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T10:01:21+00:00"
-    },
-    {
-      "titel": "ESC 2027: Avrotros aus den Niederlanden kehrt nicht zum Eurovision Song Contest zurück",
-      "link": "https://www.spiegel.de/kultur/tv/esc-2027-avrotros-aus-den-niederlanden-kehrt-nicht-zum-eurovision-song-contest-zurueck-a-b8b7f69f-5063-4650-9455-0a7204c4c833#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T09:52:00+00:00"
-    },
-    {
       "titel": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-eu-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T09:42:47+00:00"
-    },
-    {
-      "titel": "Waldbrände in Indonesien: Wie ein jugendlicher Superman gegen die Flammen kämpft",
-      "link": "https://www.spiegel.de/panorama/waldbraende-in-indonesien-wie-ein-jugendlicher-superman-gegen-die-flammen-kaempft-a-f7777cb6-18cc-419d-bfd6-71fe376be783#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T09:39:00+00:00"
     },
     {
       "titel": "Kasachstan: Klare Mehrheit für Regierungspartei bei Parlamentswahl",
@@ -133,12 +151,6 @@
       "veroeffentlicht": "2026-08-24T09:14:26+00:00"
     },
     {
-      "titel": "Marktbericht: Anstehende Nvidia-Zahlen machen Anleger nervös",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T09:09:59+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Milliardenhilfe von EU und Norwegen am Unabhängigkeitstag der Ukraine",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-eu-unabhaengigkeitstag-grossbritannien-milliardenhilfe-li.3524928",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/neu-ulm-donau-niedrigwasser-oldtimer-li.3535861",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T06:10:18+00:00"
-    },
-    {
-      "titel": "USA: Abschiebung trotz Warnstufe Rot",
-      "link": "https://www.sueddeutsche.de/politik/ice-abschiebung-haiti-li.3535100",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T04:47:37+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Iran warnt USA vor Wirtschaftskrieg und droht Golfstaaten",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-golfstaaten-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T03:44:19+00:00"
     }
   ]
 }
