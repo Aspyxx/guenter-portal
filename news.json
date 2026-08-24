@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-24T04:29:50+00:00",
+  "aktualisiert": "2026-08-24T05:25:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: Abschiebung trotz Warnstufe rot",
+      "link": "https://www.sueddeutsche.de/politik/ice-abschiebung-haiti-li.3535100",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T04:47:37+00:00"
+    },
     {
       "titel": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
@@ -115,7 +121,7 @@
       "veroeffentlicht": "2026-08-23T21:38:32+00:00"
     },
     {
-      "titel": "Sommerinterviews in ARD und ZDF: AfD-Spitzenpolitiker zwischen Aufstacheln und Verharmlosen",
+      "titel": "Sommerinterviews in ARD und ZDF: Allein gelassen mit der AfD",
       "link": "https://www.sueddeutsche.de/medien/afd-spitzenpolitiker-sommerinterview-chrupalla-weidel-ard-zdf-li.3533089",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T20:20:43+00:00"
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/supercup-dortmund-bundesliga-meisterschaft-kommentar-li.3535524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T13:52:12+00:00"
-    },
-    {
-      "titel": "DFB-Pokal: Viertligist Jeddeloh II gelingt gegen Heidenheim die Sensation",
-      "link": "https://www.sueddeutsche.de/sport/jeddeloh-heidenheim-dfb-pokal-sensation-fussball-li.3535698",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T13:28:26+00:00"
     }
   ]
 }
