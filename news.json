@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-24T11:46:39+00:00",
+  "aktualisiert": "2026-08-24T13:14:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,100 @@
   },
   "meldungen": [
     {
+      "titel": "Pazifik: Zwei Tote bei erneutem US-Angriff gegen mutmaßliches Drogenschmuggelboot",
+      "link": "https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-erneutem-us-angriff-gegen-mutmassliches-drogenschmuggelboot-a-617803be-6588-43cf-8f89-b06011125b97#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T13:06:00+00:00"
+    },
+    {
+      "titel": "Pfaffenhofen an der Ilm: Wie ein halbes Brot eine Bäckerei aus Bayern 15.000 Euro kostete",
+      "link": "https://www.spiegel.de/panorama/pfaffenhofen-an-der-ilm-wie-ein-halbes-brot-eine-baeckerei-aus-bayern-15-000-euro-kostete-a-55ebda9e-8327-4820-a07c-08f2bf934f7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T12:52:00+00:00"
+    },
+    {
+      "titel": "Raphaël Glucksmann: Partnerin Léa Salamé gibt TV-Nachrichten wegen Präsidentschaftskandidatur ab",
+      "link": "https://www.spiegel.de/kultur/tv/raphael-glucksmann-partnerin-lea-salame-gibt-tv-nachrichten-wegen-praesidentschaftskandidatur-ab-a-533d94c7-0cd9-4822-a6e6-f11de82bc320#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T12:47:00+00:00"
+    },
+    {
       "titel": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
       "link": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T11:45:56+00:00"
+      "veroeffentlicht": "2026-08-24T12:42:04+00:00"
+    },
+    {
+      "titel": "Halle Berry feiert »long ass celebrations« zu ihrem 60. Geburtstag",
+      "link": "https://www.spiegel.de/panorama/leute/halle-berry-feiert-long-ass-celebrations-zu-ihrem-60-geburtstag-a-0b2a9b0d-25ad-4875-a636-ef0ac181d8f9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T12:39:00+00:00"
+    },
+    {
+      "titel": "Klaus-Michael Kühne: Wo der Milliardär in Hamburg seine Finger mit im Spiel hatte",
+      "link": "https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-wo-der-milliardaer-in-hamburg-seine-finger-mit-im-spiel-hatte-a-44123d15-0c3b-42c8-a23f-b1d3a7531647#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T12:33:00+00:00"
+    },
+    {
+      "titel": "Klimawandel: Tino Chrupallas kleine, heile Welt",
+      "link": "https://www.sueddeutsche.de/meinung/chrupalla-afd-klimawandel-sommerinterview-kommentar-li.3536007",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T12:30:32+00:00"
+    },
+    {
+      "titel": "Marktbericht: Bitcoin meldet sich fulminant zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-bitcoin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T12:25:38+00:00"
+    },
+    {
+      "titel": "Leute: Kommt er oder kommt er nicht?",
+      "link": "https://www.sueddeutsche.de/panorama/johnny-depp-duesseldorf-schloss-benrath-vernissage-li.3535883",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T12:24:43+00:00"
+    },
+    {
+      "titel": "Berlin: Das große Versprechen vom günstigen Wohnen",
+      "link": "https://www.sueddeutsche.de/politik/elif-eralp-berlin-buergermeister-wahlen-linke-wohnen-li.3535098",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T12:08:42+00:00"
+    },
+    {
+      "titel": "ChatGPT: So wird der Chatbot wieder werbefrei – auch ohne teures Abo",
+      "link": "https://www.spiegel.de/netzwelt/apps/chatgpt-so-wird-der-chatbot-wieder-werbefrei-auch-ohne-teures-abo-a-a5639ee9-2a6b-4f1f-8c69-3ae51cf7de81#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T12:08:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: Schuldenrekord vor den Midterms",
+      "link": "https://www.spiegel.de/wirtschaft/donald-trump-schuldenrekord-vor-den-midterms-a-ec3de103-8f34-4a84-a2a4-ed52abb7bea2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T12:07:00+00:00"
+    },
+    {
+      "titel": "Literatur: Ist das wirklich der Größte?",
+      "link": "https://www.sueddeutsche.de/kultur/philipp-oehmke-papenburg-schoenwald-spiegel-li.3524781",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T11:58:46+00:00"
+    },
+    {
+      "titel": "Singapur will Eltern pro Kind rund 55.000 Dollar Prämie zahlen",
+      "link": "https://www.spiegel.de/ausland/singapur-will-eltern-pro-kind-rund-55-000-dollar-praemie-zahlen-a-2e648727-6993-4cc2-89ea-39973ba94179#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T11:53:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Medienhäuser bitten Merz um Unterstützung bei US-Visaregeln",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-medien-usa-visa-regeln-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T11:50:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: „Lieber Herr Banaszak, packen Sie auf Ihr Taxi eine Riesen-Deutschlandfahne“",
+      "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-aktivist-lindemeier-deutschlandfahne-appell-li.3535872",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T11:45:58+00:00"
     },
     {
       "titel": "Berlin - Polizei: Iris Spranger kritisiert Rheinmetall wegen fehlerhafter Schutzwesten",
@@ -19,40 +109,16 @@
       "veroeffentlicht": "2026-08-24T11:30:00+00:00"
     },
     {
-      "titel": "Pflege: SPD und CSU begrüßt Wende von Carsten Linnemann – aber Sparfrage bleibt offen",
-      "link": "https://www.spiegel.de/politik/deutschland/pflege-spd-und-csu-begruesst-wende-von-carsten-linnemann-aber-sparfrage-bleibt-offen-a-aeb055c0-349f-4803-8438-bd33eee79a3b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T11:23:00+00:00"
-    },
-    {
       "titel": "Klaus-Michael Kühne: Abschied von einem Unverstandenen",
       "link": "https://www.sueddeutsche.de/wirtschaft/klaus-michael-kuehne-hamburg-kuehne-nagel-li.3535959",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T11:18:47+00:00"
     },
     {
-      "titel": "»Harry Potter«-Schauspielerin: Jessie Cave sagt, OnlyFans habe sie gerettet",
-      "link": "https://www.spiegel.de/panorama/leute/harry-potter-schauspielerin-jessie-cave-sagt-onlyfans-habe-sie-gerettet-a-328bbfe6-2fd9-4792-a17a-59b9f2e563b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T11:17:00+00:00"
-    },
-    {
-      "titel": "Wahl-O-Mat für Mecklenburg-Vorpommern 2026: Wen Sie in den Landtag wählen wollen",
-      "link": "https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-mecklenburg-vorpommern-2026-wen-sie-in-den-landtag-waehlen-wollen-a-53b2325c-8dc1-45d0-9e3e-79d3d940b1e0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T11:15:00+00:00"
-    },
-    {
       "titel": "Selenskyj setzt zum Nationalfeiertag auf die \"Kraft der Gemeinschaft\"",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-kiew-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T11:12:53+00:00"
-    },
-    {
-      "titel": "Pfaffenhofen an der Ilm: Wie ein halbes Brot eine Bäckerei aus Bayern 15.000 Euro kostete",
-      "link": "https://www.spiegel.de/panorama/pfaffenhofen-an-der-ilm-wie-ein-halbes-brot-eine-baeckerei-aus-bayern-15-000-euro-kostete-a-55ebda9e-8327-4820-a07c-08f2bf934f7c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T11:12:00+00:00"
     },
     {
       "titel": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
@@ -67,34 +133,16 @@
       "veroeffentlicht": "2026-08-24T10:59:19+00:00"
     },
     {
-      "titel": "Sahra Wagenknecht über den Umgang mit der AfD: »Ich weiß, was es da für Leute gibt, aber...«",
-      "link": "https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-ueber-den-umgang-mit-der-afd-ich-weiss-was-es-da-fuer-leute-gibt-aber-a-60ddf94a-2e93-4027-97c7-ecb741f32923#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T10:53:00+00:00"
-    },
-    {
       "titel": "Studie: EU-Exporte sichern in Deutschland 7,2 Millionen Arbeitsplätze",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-exporte-deutschland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T10:52:11+00:00"
     },
     {
-      "titel": "Sport bei Parkinson und Multipler Sklerose: Frau Cohrs, 82, geht boxen",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/sport-bei-parkinson-und-multipler-sklerose-frau-cohrs-82-geht-boxen-a-8937f629-c840-4c4f-8f1e-f6f6bd676ed6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T10:52:00+00:00"
-    },
-    {
-      "titel": "Fall Fabian - Rostock: Angeklagte Gina H. sagt erstmals vor Landgericht aus",
-      "link": "https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-angeklagte-gina-h-sagt-erstmals-vor-landgericht-aus-a-2a80f95e-bdcc-46ea-b885-6a873bee855a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T10:48:00+00:00"
-    },
-    {
-      "titel": "USA: Achtjährige stirbt an Infektion mit »hirnfressender« Amöbe",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/usa-achtjaehrige-stirbt-an-infektion-mit-hirnfressender-amoebe-a-eddf4a43-8e87-46a0-b8f1-bdb5ffc18ea9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T10:42:00+00:00"
+      "titel": "Open Air in München: So war das Konzert von Nick Cave auf dem Königsplatz",
+      "link": "https://www.sueddeutsche.de/muenchen/nick-cave-konzert-muenchen-koenigsplatz-rock-emotionen-li.3533417",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T10:45:06+00:00"
     },
     {
       "titel": "VW-Belegschaft kritisiert Kommunikation des Vorstands in Krisenzeit",
@@ -115,58 +163,10 @@
       "veroeffentlicht": "2026-08-24T09:34:48+00:00"
     },
     {
-      "titel": "Japan: Der Sommerhit in diesem Jahr? Eine Kaltwasser-Nudelsuppe",
-      "link": "https://www.sueddeutsche.de/panorama/japan-nissin-cold-water-instant-noodles-kaltwasser-nudelsuppe-li.3534858",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T09:32:23+00:00"
-    },
-    {
       "titel": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
       "link": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T09:32:19+00:00"
-    },
-    {
-      "titel": "Handelsstreit: Zwei ehemalige Freunde auf Kollisionskurs",
-      "link": "https://www.sueddeutsche.de/wirtschaft/donald-trump-zoelle-kanada-usa-automobilindustrie-li.3535787",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T09:21:37+00:00"
-    },
-    {
-      "titel": "Unternehmer: Logistikmilliardär Klaus-Michael Kühne ist tot",
-      "link": "https://www.sueddeutsche.de/wirtschaft/klaus-michael-kuehne-tot-li.3535952",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T09:19:51+00:00"
-    },
-    {
-      "titel": "Greenpeace geht von Milliardeneinbußen in Wirtschaft durch Hitze aus",
-      "link": "https://www.tagesschau.de/wirtschaft/hitze-wirtschaft-schaeden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T09:17:12+00:00"
-    },
-    {
-      "titel": "Formel 1 in den Niederlanden: „Meint ihr das ernst? Das zerstört mein Rennen!“",
-      "link": "https://www.sueddeutsche.de/sport/f1-zandvoort-hamilton-norris-grand-prix-li.3535917",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T09:14:26+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Milliardenhilfe von EU und Norwegen am Unabhängigkeitstag der Ukraine",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-eu-unabhaengigkeitstag-grossbritannien-milliardenhilfe-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T08:47:33+00:00"
-    },
-    {
-      "titel": "Fernsehen: Aus Einsamkeit ins Deep Web",
-      "link": "https://www.sueddeutsche.de/medien/sudo-vom-schueler-zum-darknet-boss-br-ard-doku-serie-kritik-li.3524750",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T06:57:33+00:00"
-    },
-    {
-      "titel": "Angler entdeckt Kultauto in der Donau: Manta-Wrack zieht viele Besucher in Neu-Ulm an",
-      "link": "https://www.sueddeutsche.de/bayern/neu-ulm-donau-niedrigwasser-oldtimer-li.3535861",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T06:10:18+00:00"
     }
   ]
 }
