@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-24T08:30:51+00:00",
+  "aktualisiert": "2026-08-24T09:30:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,13 +7,79 @@
   },
   "meldungen": [
     {
+      "titel": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
+      "link": "https://www.tagesschau.de/wirtschaft/eilmeldung-tod-kuehne-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T09:20:17+00:00"
+    },
+    {
+      "titel": "Unternehmer: Logistikmilliardär Klaus-Michael Kühne ist tot",
+      "link": "https://www.sueddeutsche.de/wirtschaft/klaus-michael-kuehne-tot-li.3535952",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T09:19:51+00:00"
+    },
+    {
+      "titel": "Greenpeace geht von Milliardeneinbußen in Wirtschaft durch Hitze aus",
+      "link": "https://www.tagesschau.de/wirtschaft/hitze-wirtschaft-schaeden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T09:17:12+00:00"
+    },
+    {
+      "titel": "Wahl-O-Mat für Berlin 2026: Wen Sie in den Landtag wählen wollen",
+      "link": "https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-2026-wen-sie-in-den-landtag-waehlen-wollen-a-5ceeeb11-1e70-46ab-b66d-5530e18d6e39#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T09:16:00+00:00"
+    },
+    {
+      "titel": "Dr. Dre: US-Rapper sieht KI als neues Werkzeug für Kreativität",
+      "link": "https://www.spiegel.de/kultur/musik/dr-dre-us-rapper-sieht-ki-als-neues-werkzeug-fuer-kreativitaet-a-c14d1f4c-113d-4036-a0db-9db99ca8a082#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T09:11:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anstehende Nvidia-Zahlen machen Anleger nervös",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T09:09:59+00:00"
+    },
+    {
+      "titel": "Andy Burnham in Kyjiw: Britischer Premierminister übergibt Marschflugkörper-Baupläne an Ukraine",
+      "link": "https://www.spiegel.de/ausland/andy-burnham-in-kyjiw-britischer-premierminister-uebergibt-marschflugkoerper-bauplaene-an-ukraine-a-9372e66b-85c7-429d-8007-6cfc1e43bd45#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T09:02:00+00:00"
+    },
+    {
+      "titel": "Chang'e 7: China verschiebt Start der Mondmission",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/change-7-china-verschiebt-start-der-mondmission-a-785c7019-9a64-4084-a914-2a8c1a4ff643#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T08:53:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Milliardenhilfe von EU und Norwegen am Unabhängigkeitstag der Ukraine",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-eu-unabhaengigkeitstag-grossbritannien-milliardenhilfe-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T08:47:33+00:00"
+    },
+    {
+      "titel": "Schauspieler: Jacob Elordi hält sich nicht für einen Überlebenskünstler",
+      "link": "https://www.spiegel.de/kultur/kino/schauspieler-jacob-elordi-haelt-sich-nicht-fuer-einen-ueberlebenskuenstler-a-ac49efd7-6c42-4197-85ed-36e7abfb613d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T08:36:00+00:00"
+    },
+    {
+      "titel": "Klaus-Michael Kühne ist tot",
+      "link": "https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-a-68c2b264-cc8b-48ba-a6ec-40c3feae33ad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T08:34:00+00:00"
+    },
+    {
       "titel": "Tote bei Angriffen in Charkiw und Krasnodar",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T08:28:34+00:00"
     },
     {
-      "titel": "Formel 1 in Zandvoort: »Horror-Highspeed-Crash für Verstappen in der ersten Runde« – Pressestimmen",
+      "titel": "Formel 1 in Zandvoort: »Horror-Highspeed-Crash für Verstappen« – Pressestimmen",
       "link": "https://www.spiegel.de/sport/formel1/formel-1-in-zandvoort-horror-highspeed-crash-fuer-verstappen-in-der-ersten-runde-pressestimmen-a-d14d7c5b-d3bf-4a76-9c9a-210feff51900#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T08:08:00+00:00"
@@ -25,28 +91,10 @@
       "veroeffentlicht": "2026-08-24T08:06:00+00:00"
     },
     {
-      "titel": "Unfall in den Niederlanden: Mehrere Verletzte bei Busunglück mit deutschen Schülern",
+      "titel": "Niederlande: Mehrere Verletzte bei Busunglück mit deutschen Schülern",
       "link": "https://www.spiegel.de/panorama/unfall-in-den-niederlanden-mehrere-verletzte-bei-busunglueck-mit-deutschen-schuelern-a-67ebbf35-559e-432a-b2cc-1df2b61e32fb#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T08:04:00+00:00"
-    },
-    {
-      "titel": "Gas: Die Gas-Strategie der Bundesregierung? Ein milder Winter – Meinung",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/gas-die-gas-strategie-der-bundesregierung-ein-milder-winter-meinung-a-2f551546-e4f1-46d5-936b-925cb1ab3edb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T07:19:00+00:00"
-    },
-    {
-      "titel": "Jeffrey Epstein: Sie waren seine Opfer – und suchten neue Frauen für ihn",
-      "link": "https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T07:17:00+00:00"
-    },
-    {
-      "titel": "Fifa: Infantino-Kritiker Aleksander Čeferin schließt Kandidatur als Präsident aus",
-      "link": "https://www.spiegel.de/sport/fussball/fifa-infantino-kritiker-aleksander-ceferin-schliesst-kandidatur-als-praesident-aus-a-560e4dbe-fcab-4e4e-9f57-4d64dd7171e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T07:14:00+00:00"
     },
     {
       "titel": "Cherson: Leben mit der russischen Menschenjagd",
@@ -55,22 +103,10 @@
       "veroeffentlicht": "2026-08-24T07:01:49+00:00"
     },
     {
-      "titel": "Sanierungsprogramm: VW-Belegschaft kritisiert »desaströse Kommunikation« des Managements",
-      "link": "https://www.spiegel.de/wirtschaft/sanierungsprogramm-vw-belegschaft-kritisiert-desastroese-kommunikation-des-managements-a-f07e13b7-1a82-4f5b-aa69-cd40a425b024#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T07:00:00+00:00"
-    },
-    {
       "titel": "Fernsehen: Aus Einsamkeit ins Deep Web",
       "link": "https://www.sueddeutsche.de/medien/sudo-vom-schueler-zum-darknet-boss-br-ard-doku-serie-kritik-li.3524750",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T06:57:33+00:00"
-    },
-    {
-      "titel": "Karim Adeyemi: Neuer Barça-Stürmer trifft beim deutlichen Ligasieg",
-      "link": "https://www.spiegel.de/sport/fussball/karim-adeyemi-neuer-barca-stuermer-trifft-beim-deutlichen-ligasieg-a-33e72bbf-3788-4902-a562-d69d6cc84147#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T06:46:00+00:00"
     },
     {
       "titel": "Angler entdeckt Kultauto in der Donau: Manta-Wrack zieht viele Besucher in Neu-Ulm an",
@@ -79,19 +115,7 @@
       "veroeffentlicht": "2026-08-24T06:10:18+00:00"
     },
     {
-      "titel": "Private Equity: US-Geldgeber entdecken deutsche Mittelständler",
-      "link": "https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T05:55:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX vor schwunglosem Wochenstart",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T05:39:25+00:00"
-    },
-    {
-      "titel": "USA: Abschiebung trotz Warnstufe rot",
+      "titel": "USA: Abschiebung trotz Warnstufe Rot",
       "link": "https://www.sueddeutsche.de/politik/ice-abschiebung-haiti-li.3535100",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T04:47:37+00:00"
@@ -127,22 +151,10 @@
       "veroeffentlicht": "2026-08-24T02:21:21+00:00"
     },
     {
-      "titel": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
-      "link": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T01:41:08+00:00"
-    },
-    {
       "titel": "TV-Kritik: War es das jetzt mit der „Brandmauer“?",
       "link": "https://www.sueddeutsche.de/medien/caren-miosga-armin-laschet-cdu-afd-brandmauer-li.3535093",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T23:17:02+00:00"
-    },
-    {
-      "titel": "Guinea: 30 Tote nach Abrutschen einer Mülldeponie",
-      "link": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T22:44:33+00:00"
     },
     {
       "titel": "Sommerinterviews in ARD und ZDF: Alleingelassen mit der AfD",
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-08-23T20:20:43+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Selenskij gegen Wahlen im Krieg - warnt vor russischer Mobilmachung",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahlen-selenskij-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T18:05:00+00:00"
-    },
-    {
       "titel": "Russlands Schattenkrieg: „Es wird Zeit, dass Putin merkt, dass seine Aggressionen spürbare Konsequenzen haben“",
       "link": "https://www.sueddeutsche.de/politik/sicherheitspolitik-dobrindt-waffenlager-russland-bedrohung-hybrider-krieg-drohnen-li.3535520",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T14:03:34+00:00"
-    },
-    {
-      "titel": "Handelskrieg zwischen Kanada und USA: Mark Carney zeigt, wie man sich Donald Trump entgegenstellen kann",
-      "link": "https://www.sueddeutsche.de/meinung/mark-carney-handelskrieg-zoelle-usa-kanada-trump-li.3535033",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T13:59:14+00:00"
     }
   ]
 }
