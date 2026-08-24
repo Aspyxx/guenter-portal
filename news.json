@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-08-24T19:46:14+00:00",
+  "aktualisiert": "2026-08-24T20:49:34+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Annalena Baerbock: Nach Uno-Amt wohl Professur in New York geplant",
+      "link": "https://www.spiegel.de/politik/annalena-baerbock-nach-uno-amt-wohl-professur-in-new-york-geplant-a-74a9ff31-dc69-467e-a026-214ced70b166#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T20:35:00+00:00"
+    },
+    {
+      "titel": "Rohingya: Save the Children warnt vor dramatischer Versorgungslage",
+      "link": "https://www.spiegel.de/ausland/rohingya-save-the-children-warnt-vor-dramatischer-versorgungslage-a-7c75cea6-e603-400b-a2bc-0e03e388b25a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T19:51:00+00:00"
+    },
+    {
+      "titel": "Hamburger SV: 16-jähriger Louis Lemke knackt Rekord von Uwe Seeler",
+      "link": "https://www.spiegel.de/sport/hamburger-sv-16-jaehriger-louis-lemke-knackt-rekord-von-uwe-seeler-a-c2855b77-951c-4073-a4d4-530c6be293f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T19:51:00+00:00"
+    },
     {
       "titel": "Niedrigwasser am Rhein: Trockenheit gefährdet Industrie an den Ufern",
       "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-am-rhein-trockenheit-gefaehrdet-industrie-an-den-ufern-a-615037e4-a791-4450-aec7-3aa45732a72f#ref=rss",
@@ -55,12 +73,6 @@
       "veroeffentlicht": "2026-08-24T18:05:00+00:00"
     },
     {
-      "titel": "Frankreich: Oberstufenschüler dürfen Handys in Schulen nicht mehr nutzen",
-      "link": "https://www.spiegel.de/ausland/frankreich-oberstufenschueler-duerfen-handys-in-schulen-nicht-mehr-nutzen-a-c1c925cf-d866-4e28-92db-9be6585c6f4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T18:04:00+00:00"
-    },
-    {
       "titel": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
       "quelle": "Tagesschau",
@@ -83,18 +95,6 @@
       "link": "https://www.sueddeutsche.de/kultur/pferde-polizeipferde-mannheim-kaiserslautern-fussballspiel-ausschreitungen-fussball-fans-tierschutz-li.3536228",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T17:35:14+00:00"
-    },
-    {
-      "titel": "England: Polizei nimmt zwölf Menschen nach tödlichen »joyrides« fest",
-      "link": "https://www.spiegel.de/panorama/justiz/england-britische-polizei-nimmt-zwoelf-menschen-nach-toedlichen-joyrides-fest-a-d8deebbd-6520-4dcc-b075-811d9f45ea50#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T16:59:00+00:00"
-    },
-    {
-      "titel": "Amodei vs. Altman: How the Race for AI Dominance Is Increasing the Risks",
-      "link": "https://www.spiegel.de/international/business/amodei-vs-altman-how-the-race-for-ai-dominance-is-increasing-the-risks-a-0aa34d2c-c3a2-466f-9925-831a0e5a2213#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T16:57:00+00:00"
     },
     {
       "titel": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
