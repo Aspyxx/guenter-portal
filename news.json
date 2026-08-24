@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-24T03:17:41+00:00",
+  "aktualisiert": "2026-08-24T04:29:50+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T04:18:06+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Lackmustest für die Linke",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-landtagswahl-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-24T04:00:02+00:00"
+    },
+    {
+      "titel": "Donald Trump, Mark Carney und die Zölle: Auge um Auge, Dollar für Dollar",
+      "link": "https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T03:59:00+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: Iran warnt USA vor Wirtschaftskrieg und droht Golfstaaten",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-golfstaaten-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-24T03:44:19+00:00"
+    },
+    {
+      "titel": "Einsamkeit: Wenn schöne Filmstars das Alleinsein verklären",
+      "link": "https://www.spiegel.de/psychologie/einsamkeit-wenn-schoene-filmstars-das-alleinsein-verklaeren-a-8b1ad933-a591-488b-92e7-accb1a3a02fc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T03:42:00+00:00"
+    },
+    {
+      "titel": "Flachbildfernseher und aufblasbare Sofas: Was hat Camping noch mit Naturerlebnis zu tun?",
+      "link": "https://www.spiegel.de/kultur/flachbildfernseher-und-aufblasbare-sofas-was-hat-camping-noch-mit-naturerlebnis-zu-tun-a-b8f8e4a2-be84-465b-beba-2708dfa7a3b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T03:41:00+00:00"
+    },
+    {
+      "titel": "News: Ulrich Siegmund, AfD, Kritik an Pflegereform, Hilfe für Ukraine, Italien, Bootsflüchtlinge",
+      "link": "https://www.spiegel.de/politik/deutschland/news-ulrich-siegmund-afd-kritik-an-pflegereform-hilfe-fuer-ukraine-italien-bootsfluechtlinge-a-63e9710c-f925-4bbe-9a35-dca906dc5ffc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T03:38:00+00:00"
+    },
+    {
+      "titel": "Selbstständig machen: Geschäftsmodell steht, doch nichts passiert – was jetzt hilft",
+      "link": "https://www.spiegel.de/karriere/selbststaendig-machen-geschaeftsmodell-steht-doch-nichts-passiert-was-jetzt-hilft-a-2904a435-b94b-45a9-8185-126b68f2854e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T03:30:00+00:00"
+    },
+    {
+      "titel": "Influencer über Job-Alltag: Dickpics, psychische Belastung und falsche Freunde",
+      "link": "https://www.spiegel.de/karriere/influencer-ueber-job-alltag-dickpics-psychische-belastung-und-falsche-freunde-a-591d9845-a982-4702-9eb1-3a319bd6d464#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-24T03:30:00+00:00"
+    },
     {
       "titel": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
       "link": "https://www.tagesschau.de/wirtschaft/sammelklage-eon-100.html",
@@ -49,12 +103,6 @@
       "veroeffentlicht": "2026-08-23T23:17:02+00:00"
     },
     {
-      "titel": "Guinea: Mindestens 30 Tote nach Erdrutsch auf Müllkippe in Conakry",
-      "link": "https://www.spiegel.de/ausland/guinea-mindestens-30-tote-nach-erdrutsch-auf-muellkippe-in-conakry-a-33bcdc16-ca75-42e0-97aa-294b4184f7e4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T23:06:00+00:00"
-    },
-    {
       "titel": "30 Tote nach Abrutsch einer Mülldeponie im westafrikanischen Guinea",
       "link": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
       "quelle": "Tagesschau",
@@ -67,40 +115,10 @@
       "veroeffentlicht": "2026-08-23T21:38:32+00:00"
     },
     {
-      "titel": "Frankreich: Raphaël Glucksmann kündigt Kandidatur für Präsidentschaftswahl 2027 an",
-      "link": "https://www.spiegel.de/ausland/frankreich-raphael-glucksmann-kuendigt-kandidatur-fuer-praesidentschaftswahl-2027-an-a-03ca9099-36fe-4b99-96c2-1f4f390ae551#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T20:49:00+00:00"
-    },
-    {
-      "titel": "Crans-Montana: Barbetreiber Jacques Moretti wegen häuslicher Gewalt festgenommen",
-      "link": "https://www.spiegel.de/panorama/justiz/crans-montana-barbetreiber-jacques-moretti-wegen-haeuslicher-gewalt-festgenommen-a-5ccdace1-6052-42ad-b6b4-9a17bf67499c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T20:44:00+00:00"
-    },
-    {
-      "titel": "Alice Weidel und Tino Chrupalla – Sommerinterviews der AfD-Chefs bei ZDF und ARD: Schleichendes Gift, offene Hetze",
-      "link": "https://www.spiegel.de/kultur/tv/alice-weidel-und-tino-chrupalla-sommerinterviews-der-afd-chefs-bei-zdf-und-ard-schleichendes-gift-offene-hetze-a-6d1c5967-a96d-4225-9e6d-4afdeac88e95#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T20:36:00+00:00"
-    },
-    {
       "titel": "Sommerinterviews in ARD und ZDF: AfD-Spitzenpolitiker zwischen Aufstacheln und Verharmlosen",
       "link": "https://www.sueddeutsche.de/medien/afd-spitzenpolitiker-sommerinterview-chrupalla-weidel-ard-zdf-li.3533089",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T20:20:43+00:00"
-    },
-    {
-      "titel": "Demenz: Jordan und Cian Adams rennen Ultraläufe, um die Forschung zu beschleunigen",
-      "link": "https://www.spiegel.de/sport/demenz-jordan-und-cian-adams-rennen-ultralaeufe-um-die-forschung-zu-beschleunigen-a-dcc56462-5e5f-42df-8e47-60522243d510#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T19:00:00+00:00"
-    },
-    {
-      "titel": "Hockey-WM: Deutsche Männer drehen Rückstand in 62 Sekunden und stehen im Halbfinale",
-      "link": "https://www.spiegel.de/sport/hockey-wm-deutsche-maenner-drehen-rueckstand-in-62-sekunden-und-stehen-im-halbfinale-a-8e24f475-bede-4a7e-9502-bfc6ca865e06#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-23T18:52:00+00:00"
     },
     {
       "titel": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
@@ -119,18 +137,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahlen-selenskij-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T18:05:00+00:00"
-    },
-    {
-      "titel": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-chrupalla-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T16:40:57+00:00"
-    },
-    {
-      "titel": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-23T16:15:18+00:00"
     },
     {
       "titel": "Russlands Schattenkrieg: „Es wird Zeit, dass Putin merkt, dass seine Aggressionen spürbare Konsequenzen haben“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/jeddeloh-heidenheim-dfb-pokal-sensation-fussball-li.3535698",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-23T13:28:26+00:00"
-    },
-    {
-      "titel": "Sport: Gute Besserung an Jamal Musiala – und an eine enthemmte Gesellschaft",
-      "link": "https://www.sueddeutsche.de/meinung/jamal-musiala-gesundheit-fussball-sport-kommentar-li.3535016",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-23T12:44:43+00:00"
     }
   ]
 }
