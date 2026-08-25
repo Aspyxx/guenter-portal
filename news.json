@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-25T05:49:14+00:00",
+  "aktualisiert": "2026-08-25T07:09:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mit neuen Ideen gegen die Not im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-wiederaufbau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T07:07:07+00:00"
+    },
+    {
+      "titel": "Merz-Regierung kommt zu zweitägiger Kabinettsklausur in Brandenburg zusammen",
+      "link": "https://www.spiegel.de/politik/deutschland/merz-regierung-kommt-zu-zweitaegiger-kabinettsklausur-in-brandenburg-zusammen-a-687c6c73-bb75-4de1-9bae-a3f3bbf1013d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T06:59:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Kanzleramtschefin spricht von „gemeinsamer Kraftanstrengung“ vor Kabinettsklausur",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-warken-kabinettsklausur-merz-landtagswahlen-afd-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T06:52:12+00:00"
+    },
+    {
+      "titel": "BIP: Deutsche Wirtschaft wächst im zweiten Quartal stärker als gedacht",
+      "link": "https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-waechst-im-zweiten-quartal-staerker-als-gedacht-a-b16bceee-2277-4b38-bdda-8e75bd304ea7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T06:43:00+00:00"
+    },
+    {
+      "titel": "Tornado zieht über Südfrankreich - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T06:31:33+00:00"
+    },
+    {
+      "titel": "Girocard: Kontaktlose Zahlungen erreichen Rekordniveau in Deutschland",
+      "link": "https://www.spiegel.de/wirtschaft/girocard-kontaktlose-zahlungen-erreichen-rekordniveau-in-deutschland-a-accbd931-dccd-46e7-b5b9-18a760c3bbaf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T06:17:00+00:00"
+    },
+    {
+      "titel": "Mette Frederiksen: Dänische Premierministerin wehrt sich gegen Kommentare zu ihrer Nase",
+      "link": "https://www.spiegel.de/panorama/mette-frederiksen-daenische-premierministerin-wehrt-sich-gegen-kommentare-zu-ihrer-nase-a-95a0db8d-ae24-4ebd-ae86-a789dca2525f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T06:06:00+00:00"
+    },
     {
       "titel": "Marktbericht: Anleger nervös in der Woche der Wahrheit",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
@@ -49,34 +91,10 @@
       "veroeffentlicht": "2026-08-25T05:00:00+00:00"
     },
     {
-      "titel": "USA wollen bis zu 200.000 B-1-Geschäftsvisa und B-2-Touristenvisa aufheben",
-      "link": "https://www.spiegel.de/ausland/usa-wollen-bis-zu-200-000-b-1-geschaeftsvisa-und-b-2-touristenvisa-aufheben-a-882660e2-e566-46ed-9e0d-770d0367532c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T04:43:00+00:00"
-    },
-    {
       "titel": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
       "link": "https://www.tagesschau.de/ausland/europa/eu-beitritt-island-referendum-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T04:36:19+00:00"
-    },
-    {
-      "titel": "Berghütten: Warum sie ein heilsamer Ort sind, obwohl alles gegen sie spricht",
-      "link": "https://www.spiegel.de/reise/europa/berghuetten-warum-sie-ein-heilsamer-ort-sind-obwohl-alles-gegen-sie-spricht-a-8d821f17-efa0-4539-8d7e-4edeaa0108d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T04:36:00+00:00"
-    },
-    {
-      "titel": "ChatGPT: Desinformationskampagne aus Russland nutzte offenbar der KI von OpenAI",
-      "link": "https://www.spiegel.de/netzwelt/chatgpt-desinformationskampagne-aus-russland-nutzte-offenbar-der-ki-von-openai-a-441243bb-fe96-4ae3-958c-51ed2b8c2b63#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T04:33:00+00:00"
-    },
-    {
-      "titel": "Volkswagen: VW-Chef Oliver Blume stellt Umbaupläne in Wolfsburg, Emden und Zwickau vor",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-stellt-umbauplaene-in-wolfsburg-emden-und-zwickau-vor-a-cd5297a6-2c98-49ea-8eb6-ee65a45c353a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T04:01:00+00:00"
     },
     {
       "titel": "Leipziger Flughafen - Ermittler finden weitere Drohne und Sprengstoff",
@@ -109,22 +127,10 @@
       "veroeffentlicht": "2026-08-25T01:36:42+00:00"
     },
     {
-      "titel": "Supreme Court macht Weg für Trumps umstrittene Briefwahl-Regeln frei",
-      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-trump-briefwahl-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T01:36:35+00:00"
-    },
-    {
       "titel": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl – Angst vor Chaos steigt",
       "link": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-briefwahl-li.3536322",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T01:23:02+00:00"
-    },
-    {
-      "titel": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T22:56:35+00:00"
     },
     {
       "titel": "Krieg in Nahost: USA wollen mit neuen Sanktionen Irans Einnahmequellen trockenlegen",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/fifa-praesidentenwahl-infantino-ceferin-fussball-li.3535915",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T14:05:25+00:00"
-    },
-    {
-      "titel": "Salzburger Festspiele: Das sind wirklich große Geschenke",
-      "link": "https://www.sueddeutsche.de/kultur/festspiel-erinnerungsbuero-mats-staub-oper-konzert-theater-li.3533950",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T14:01:39+00:00"
     }
   ]
 }
