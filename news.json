@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-25T11:45:13+00:00",
+  "aktualisiert": "2026-08-25T13:13:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,88 @@
   },
   "meldungen": [
     {
+      "titel": "Volkswagen: VW-Chef Oliver Blume stellt sich Belegschaft – Betriebsrat sieht Vertrauenskrise",
+      "link": "https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise-a-c72f4623-7479-42d9-9d27-cc8e863c77ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T12:54:00+00:00"
+    },
+    {
+      "titel": "Swiss Boeing 777 wegen Geruchs auf Azoren umgeleitet",
+      "link": "https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet-a-242bc2c3-49a2-437b-a2be-8f17c1bf2d45#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T12:51:00+00:00"
+    },
+    {
+      "titel": "Indien: Preise für Zucker verdoppelt - Knappheit droht",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-zucker-steuer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T12:40:54+00:00"
+    },
+    {
+      "titel": "Bundesregierung will Zuckersteuer auf Light-Getränke ausweiten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-zuckersteuer-ausweitung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T12:37:18+00:00"
+    },
+    {
+      "titel": "Leipzig: Friedrich Merz droht Drohnen-Angreifern mit Konsequenzen",
+      "link": "https://www.spiegel.de/politik/deutschland/leipzig-friedrich-merz-droht-drohnen-angreifern-mit-konsequenzen-a-e9e70dfc-34cb-489e-a8b3-41916d806e3e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T12:34:00+00:00"
+    },
+    {
+      "titel": "Polizei: Achtjährige wählt Notruf wegen betrunkener Mutter",
+      "link": "https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T12:24:00+00:00"
+    },
+    {
+      "titel": "Sorge um Top-Rating: Deutsches Staatsdefizit fast verdoppelt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-staatsdefizit-rentenmarkt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T12:12:42+00:00"
+    },
+    {
+      "titel": "Afghanistan: EU sucht diplomatische Kontakte zu Taliban für Abschiebungen",
+      "link": "https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen-a-e352a4bc-dee4-4c90-8e4a-6c8a90a7e737#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T12:01:00+00:00"
+    },
+    {
+      "titel": "Waffendepot bei Berlin: Mutmaßlicher Kurier soll zu Sabotage-Kommando gehört haben",
+      "link": "https://www.spiegel.de/panorama/justiz/waffendepot-bei-berlin-mutmasslicher-kurier-soll-zu-sabotage-kommando-gehoert-haben-a-bdc87696-f462-4d72-87df-487162c1bdf9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T11:56:00+00:00"
+    },
+    {
+      "titel": "Licht- und Medienkunst \"Nebula\" in den Beelitzer Heilstätten",
+      "link": "https://www.tagesschau.de/kultur/lichtkunst-in-beelitzer-heilstaetten,lichtkunst-in-beelitzer-heilstaetten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T11:47:34+00:00"
+    },
+    {
+      "titel": "Wie tief steckt VW in der Krise?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T11:46:43+00:00"
+    },
+    {
+      "titel": "Tornado zieht über Südfrankreich - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T11:45:35+00:00"
+    },
+    {
       "titel": "Künstliche Intelligenz/Drohnen: Uno warnt vor Zukunft autonomer »Killer-Roboter«",
       "link": "https://www.spiegel.de/ausland/kuenstliche-intelligenz-drohnen-uno-warnt-vor-zukunft-autonomer-killer-roboter-a-81d310cb-c438-445a-bf49-2d21d9facefe#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T11:44:00+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Chat-GPT zeigt jetzt Werbung",
+      "link": "https://www.sueddeutsche.de/wirtschaft/werbung-chatgpt-deutschland-li.3536236",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T11:41:55+00:00"
     },
     {
       "titel": "Afghanistan: Bundespolizei schiebt 23 ausreisepflichtigen Afghanen",
@@ -19,34 +97,16 @@
       "veroeffentlicht": "2026-08-25T11:41:00+00:00"
     },
     {
-      "titel": "Bundesregierung will Zuckersteuer auf Light-Getränke ausweiten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-zuckersteuer-ausweitung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T11:40:30+00:00"
-    },
-    {
       "titel": "Iran: Wirtschaftskrise? Davon will das Regime nichts wissen",
       "link": "https://www.sueddeutsche.de/politik/iran-trump-us-sanktionen-wirtschaftskrise-china-oel-li.3536164",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T11:33:45+00:00"
     },
     {
-      "titel": "Zuckersteuer soll auch Light-Getränke treffen – CSU-Ministerium widerspricht",
+      "titel": "Zuckersteuer soll auch Lightgetränke treffen – CSU-Ministerium widerspricht",
       "link": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-soll-auch-light-getraenke-treffen-csu-ministerium-widerspricht-a-85bb79b9-01cd-41b1-a918-5e45abf1d6df#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T11:27:00+00:00"
-    },
-    {
-      "titel": "Weitsprung-Star Malaika Mihambo: Verletzung doch nicht so schlimm",
-      "link": "https://www.spiegel.de/sport/leichtathletik/weitsprung-star-malaika-mihambo-verletzung-doch-nicht-so-schlimmaus-a-a96a92d6-8ed8-4af6-b462-e2eef065adc1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T11:14:00+00:00"
-    },
-    {
-      "titel": "Nepal: Regierungschef Balendra Shah darf weiter mit Sonnenbrille ins Parlament",
-      "link": "https://www.spiegel.de/ausland/nepal-regierungschef-balendra-shah-darf-weiter-mit-sonnenbrille-ins-parlament-a-9bd63de8-5620-4130-bae8-8ae081ee5347#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T11:13:00+00:00"
     },
     {
       "titel": "Bundesregierung: Der Kanzler kehrt mit einer Kampfansage aus dem Urlaub zurück",
@@ -55,28 +115,10 @@
       "veroeffentlicht": "2026-08-25T11:11:50+00:00"
     },
     {
-      "titel": "Lohn in Deutschland: Tariflöhne dürften stärker steigen als Preise",
-      "link": "https://www.spiegel.de/wirtschaft/lohn-in-deutschland-tarifloehne-duerften-staerker-steigen-als-preise-a-f2c169e0-4505-4962-9544-b551875defe6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T11:10:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T11:09:00+00:00"
-    },
-    {
-      "titel": "Backnang: Kabel an Bahnstrecke beschädigt – Staatsschutz ermittelt",
-      "link": "https://www.spiegel.de/panorama/backnang-kabel-an-bahnstrecke-beschaedigt-staatsschutz-ermittelt-a-fbbabd32-bd8e-496d-ad93-d383fc8ea298#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T10:48:00+00:00"
-    },
-    {
-      "titel": "Israel: Palästinenser-Denkmal zerstört – rechter Abgeordneter Zvi Sukkot in der Kritik",
-      "link": "https://www.spiegel.de/ausland/israel-palaestinenser-denkmal-zerstoert-rechter-abgeordneter-zvi-sukkot-in-der-kritik-a-895a38b5-09c0-4f89-a326-3bc58a1da09a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T10:40:00+00:00"
+      "titel": "Hochtechnologie: Wo die Raumfahrt von morgen ihren Ursprung hat",
+      "link": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/tu-muenchen-raumfahrt-campus-ottobrunn-li.3513824",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T10:25:51+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Selenskij sieht Zeitfenster für US-Friedensvermittlung bis Sommer 2027",
@@ -125,48 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-drohnenangriff-leipzig-flughafen-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T09:13:15+00:00"
-    },
-    {
-      "titel": "Marktbericht: Anleger erfreut über starke Konjunkturdaten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T08:59:48+00:00"
-    },
-    {
-      "titel": "Konzernumbau beim Autohersteller: Was VW in China anders macht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-136.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T08:50:16+00:00"
-    },
-    {
-      "titel": "Wahlkampf in Sachsen-Anhalt: Söder gelingt es tatsächlich, nicht belehrend zu wirken",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahlkampf-soeder-schulze-wirtschaft-afd-li.3534177",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T08:39:19+00:00"
-    },
-    {
-      "titel": "Iran: Nun will Trump vorerst doch nicht mit dem Kopf durch die Wand",
-      "link": "https://www.sueddeutsche.de/meinung/usa-iran-donald-trump-scott-bessent-sanktionen-china-diplomatie-li.3536284",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T08:20:16+00:00"
-    },
-    {
-      "titel": "Handelsstreit zwischen USA und Kanada: Trumps Zölle, Carneys Härte",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-trump-carney-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T07:20:17+00:00"
-    },
-    {
-      "titel": "Mit neuen Ideen gegen die Not im Gazastreifen",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-wiederaufbau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T07:07:07+00:00"
-    },
-    {
-      "titel": "Tornado zieht über Südfrankreich - mehrere Verletzte",
-      "link": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T06:31:33+00:00"
     }
   ]
 }
