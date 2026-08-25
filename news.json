@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-25T04:55:14+00:00",
+  "aktualisiert": "2026-08-25T05:49:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Marktbericht: Anleger nervös in der Woche der Wahrheit",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T05:31:32+00:00"
+    },
+    {
+      "titel": "Nach UN-Job: Baerbock wechselt an die Columbia-Universität",
+      "link": "https://www.tagesschau.de/ausland/amerika/baerbock-columbia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T05:30:03+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn: Jeder zwölfte Fernzug fällt im ersten Halbjahr aus",
+      "link": "https://www.spiegel.de/wirtschaft/deutsche-bahn-jeder-zwoelfte-fernzug-faellt-im-ersten-halbjahr-aus-a-deae314f-ca15-490d-806d-6741e4ddc1ab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T05:29:00+00:00"
+    },
+    {
+      "titel": "Leipzig: Ermittler finden weitere Drohne und Sprengstoff am Flughafen Leipzig/Halle",
+      "link": "https://www.spiegel.de/politik/deutschland/leipzig-ermittler-finden-weitere-drohne-und-sprengstoff-am-flughafen-leipzig-halle-a-a986f699-9891-46d9-9bee-704549cbc6f2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T05:25:00+00:00"
+    },
+    {
+      "titel": "Spanienrundfahrt Vuelta: 3. Etappe wird nach Hagelschauer abgebrochen",
+      "link": "https://www.spiegel.de/sport/radsport/spanienrundfahrt-vuelta-3-etappe-wird-nach-hagelschauer-abgebrochen-a-e0b92b16-afce-44a8-b769-42265c5d7dd8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T05:22:00+00:00"
+    },
+    {
+      "titel": "Pflegeversicherung: AOK-Chefin warnt vor Acht-Milliarden-Loch ab 2027",
+      "link": "https://www.spiegel.de/wirtschaft/pflegeversicherung-aok-chefin-warnt-vor-acht-milliarden-loch-ab-2027-a-6d3d087b-e89c-4a14-9a4b-ad22989b41c5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T05:02:00+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: Schalke 04 müht sich über die Verlängerung beim Halleschen FC in die 2. Runde",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-schalke-04-mueht-sich-ueber-die-verlaengerung-beim-halleschen-fc-in-die-2-runde-a-589b5814-5879-4717-bd3c-e3055c0b6647#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T05:00:00+00:00"
+    },
     {
       "titel": "USA wollen bis zu 200.000 B-1-Geschäftsvisa und B-2-Touristenvisa aufheben",
       "link": "https://www.spiegel.de/ausland/usa-wollen-bis-zu-200-000-b-1-geschaeftsvisa-und-b-2-touristenvisa-aufheben-a-882660e2-e566-46ed-9e0d-770d0367532c#ref=rss",
@@ -49,36 +91,6 @@
       "veroeffentlicht": "2026-08-25T04:00:00+00:00"
     },
     {
-      "titel": "Marlen Hobrack über Mutterschaft: Macht der Feminismus Mütter unglücklich?",
-      "link": "https://www.spiegel.de/kultur/marlen-hobrack-ueber-mutterschaft-macht-der-feminismus-muetter-ungluecklich-a-740b2160-bb72-48b1-9652-13f3070e4994#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T03:46:00+00:00"
-    },
-    {
-      "titel": "Grüne werfen SPD Scheinheiligkeit beim Hitzeschutz vor",
-      "link": "https://www.spiegel.de/politik/deutschland/gruene-werfen-spd-scheinheiligkeit-beim-hitzeschutz-vor-a-dfc201f8-72dc-474c-ba0e-314f9ca9bc75#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T03:43:00+00:00"
-    },
-    {
-      "titel": "Outdoor-Kleidung: Welche Funktionskleidung Sie zum Laufen, Radfahren und Wandern brauchen",
-      "link": "https://www.spiegel.de/fitness/outdoor-kleidung-welche-funktionskleidung-sie-zum-laufen-radfahren-und-wandern-brauchen-a-d5db0a42-bdbe-45d8-8893-91371c37a66d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T03:30:00+00:00"
-    },
-    {
-      "titel": "Extreme Ultraläufe wie der Last Soul Ultra: Was hinter dem Trend steckt und wann es gefährlich wird",
-      "link": "https://www.spiegel.de/fitness/extreme-ultralaeufe-wie-der-last-soul-ultra-was-hinter-dem-trend-steckt-und-wann-es-gefaehrlich-wird-a-5279fea7-79cc-4763-90c7-a5faca41aa33#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T03:30:00+00:00"
-    },
-    {
-      "titel": "News: VW-Chef Blume auf Betriebsversammlungen, Trumps Kandidaten verlieren Vorwahlen, Bundeskabinett in Klausur",
-      "link": "https://www.spiegel.de/politik/deutschland/news-vw-chef-blume-auf-betriebsversammlungen-trumps-kandidaten-verlieren-vorwahlen-bundeskabinett-in-klausur-a-53636af5-b792-4f75-99e6-214a32fcd7d5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T03:28:00+00:00"
-    },
-    {
       "titel": "Hinweise auf massive Missstände in oberbayerischer Rehaklinik",
       "link": "https://www.tagesschau.de/investigativ/report-muenchen/missstaende-rehaklinik-100.html",
       "quelle": "Tagesschau",
@@ -103,8 +115,8 @@
       "veroeffentlicht": "2026-08-25T01:36:35+00:00"
     },
     {
-      "titel": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl - Angst vor Chaos steigt",
-      "link": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-li.3536322",
+      "titel": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl – Angst vor Chaos steigt",
+      "link": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-briefwahl-li.3536322",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T01:23:02+00:00"
     },
@@ -113,18 +125,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T22:56:35+00:00"
-    },
-    {
-      "titel": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T20:56:51+00:00"
-    },
-    {
-      "titel": "Kabinettsklausur der Bundesregierung: Neustart in Neuhardenberg?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T19:38:42+00:00"
     },
     {
       "titel": "Krieg in Nahost: USA wollen mit neuen Sanktionen Irans Einnahmequellen trockenlegen",
