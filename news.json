@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-25T04:04:11+00:00",
+  "aktualisiert": "2026-08-25T04:55:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA wollen bis zu 200.000 B-1-Geschäftsvisa und B-2-Touristenvisa aufheben",
+      "link": "https://www.spiegel.de/ausland/usa-wollen-bis-zu-200-000-b-1-geschaeftsvisa-und-b-2-touristenvisa-aufheben-a-882660e2-e566-46ed-9e0d-770d0367532c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T04:43:00+00:00"
+    },
+    {
+      "titel": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-beitritt-island-referendum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T04:36:19+00:00"
+    },
+    {
+      "titel": "Berghütten: Warum sie ein heilsamer Ort sind, obwohl alles gegen sie spricht",
+      "link": "https://www.spiegel.de/reise/europa/berghuetten-warum-sie-ein-heilsamer-ort-sind-obwohl-alles-gegen-sie-spricht-a-8d821f17-efa0-4539-8d7e-4edeaa0108d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T04:36:00+00:00"
+    },
+    {
+      "titel": "ChatGPT: Desinformationskampagne aus Russland nutzte offenbar der KI von OpenAI",
+      "link": "https://www.spiegel.de/netzwelt/chatgpt-desinformationskampagne-aus-russland-nutzte-offenbar-der-ki-von-openai-a-441243bb-fe96-4ae3-958c-51ed2b8c2b63#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T04:33:00+00:00"
+    },
     {
       "titel": "Volkswagen: VW-Chef Oliver Blume stellt Umbaupläne in Wolfsburg, Emden und Zwickau vor",
       "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-stellt-umbauplaene-in-wolfsburg-emden-und-zwickau-vor-a-cd5297a6-2c98-49ea-8eb6-ee65a45c353a#ref=rss",
@@ -17,6 +41,12 @@
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohne-leipzig-110.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T04:00:46+00:00"
+    },
+    {
+      "titel": "Ukrainischer Transportflieger: Anschlagsversuch in Leipzig: Weitere Sprengstoffdrohne entdeckt",
+      "link": "https://www.sueddeutsche.de/politik/flughafen-leipzig-anschlag-ukraine-li.3536132",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T04:00:00+00:00"
     },
     {
       "titel": "Marlen Hobrack über Mutterschaft: Macht der Feminismus Mütter unglücklich?",
@@ -31,14 +61,14 @@
       "veroeffentlicht": "2026-08-25T03:43:00+00:00"
     },
     {
-      "titel": "Extreme Ultraläufe wie der Last Soul Ultra: Was hinter dem Trend steckt und wann es gefährlich wird",
-      "link": "https://www.spiegel.de/fitness/extreme-ultralaeufe-wie-der-last-soul-ultra-was-hinter-dem-trend-steckt-und-wann-es-gefaehrlich-wird-a-5279fea7-79cc-4763-90c7-a5faca41aa33#ref=rss",
+      "titel": "Outdoor-Kleidung: Welche Funktionskleidung Sie zum Laufen, Radfahren und Wandern brauchen",
+      "link": "https://www.spiegel.de/fitness/outdoor-kleidung-welche-funktionskleidung-sie-zum-laufen-radfahren-und-wandern-brauchen-a-d5db0a42-bdbe-45d8-8893-91371c37a66d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T03:30:00+00:00"
     },
     {
-      "titel": "Outdoor-Kleidung: Welche Funktionskleidung Sie zum Laufen, Radfahren und Wandern brauchen",
-      "link": "https://www.spiegel.de/fitness/outdoor-kleidung-welche-funktionskleidung-sie-zum-laufen-radfahren-und-wandern-brauchen-a-d5db0a42-bdbe-45d8-8893-91371c37a66d#ref=rss",
+      "titel": "Extreme Ultraläufe wie der Last Soul Ultra: Was hinter dem Trend steckt und wann es gefährlich wird",
+      "link": "https://www.spiegel.de/fitness/extreme-ultralaeufe-wie-der-last-soul-ultra-was-hinter-dem-trend-steckt-und-wann-es-gefaehrlich-wird-a-5279fea7-79cc-4763-90c7-a5faca41aa33#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T03:30:00+00:00"
     },
@@ -49,28 +79,10 @@
       "veroeffentlicht": "2026-08-25T03:28:00+00:00"
     },
     {
-      "titel": "Frankreich: Dutzende Verletzte durch Tornado in Pomas im Südwesten",
-      "link": "https://www.spiegel.de/panorama/frankreich-dutzende-verletzte-durch-tornado-in-pomas-im-suedwesten-a-0f86b913-d24c-45e7-b40d-11510e7286ed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T03:09:00+00:00"
-    },
-    {
-      "titel": "London und Kyjiw schließen Abkommen zur militärischen Nutzung von KI",
-      "link": "https://www.spiegel.de/ausland/london-und-kyjiw-schliessen-abkommen-zur-militaerischen-nutzung-von-ki-a-7405706d-8345-4e98-b493-4360ac941b26#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T03:02:00+00:00"
-    },
-    {
       "titel": "Hinweise auf massive Missstände in oberbayerischer Rehaklinik",
       "link": "https://www.tagesschau.de/investigativ/report-muenchen/missstaende-rehaklinik-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T03:00:27+00:00"
-    },
-    {
-      "titel": "»Hand Gottes«: Ball aus Diego Maradonas WM-Spiel bringt 3,35 Millionen Dollar bei Auktion",
-      "link": "https://www.spiegel.de/sport/hand-gottes-ball-aus-diego-maradonas-wm-spiel-bringt-3-35-millionen-dollar-bei-auktion-a-54825a84-9bcf-4c29-bff0-02e8018d6d5b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T02:32:00+00:00"
     },
     {
       "titel": "US-Krieg gegen Iran: Oman zwischen den Fronten",
@@ -121,12 +133,6 @@
       "veroeffentlicht": "2026-08-24T18:00:00+00:00"
     },
     {
-      "titel": "Wie Kürzungen im Bundeshaushalt die Musikbranche treffen",
-      "link": "https://www.tagesschau.de/kultur/haushaltsentwurf-musikbranche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T17:50:45+00:00"
-    },
-    {
       "titel": "Tierschutz: Auf dem Rücken der Pferde",
       "link": "https://www.sueddeutsche.de/kultur/pferde-polizeipferde-mannheim-kaiserslautern-fussballspiel-ausschreitungen-fussball-fans-tierschutz-li.3536228",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/festspiel-erinnerungsbuero-mats-staub-oper-konzert-theater-li.3533950",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T14:01:39+00:00"
-    },
-    {
-      "titel": "Heilquelle in Bad Abbach versiegt: Schluss mit Wunder",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-niederbayern-bad-abbach-wallfahrt-heilquelle-versiegt-li.3535939",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T13:59:02+00:00"
     }
   ]
 }
