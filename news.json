@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-08-25T03:13:26+00:00",
+  "aktualisiert": "2026-08-25T04:04:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Volkswagen: VW-Chef Oliver Blume stellt Umbaupläne in Wolfsburg, Emden und Zwickau vor",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-stellt-umbauplaene-in-wolfsburg-emden-und-zwickau-vor-a-cd5297a6-2c98-49ea-8eb6-ee65a45c353a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T04:01:00+00:00"
+    },
+    {
+      "titel": "Leipziger Flughafen - Ermittler finden weitere Drohne und Sprengstoff",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohne-leipzig-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T04:00:46+00:00"
+    },
+    {
+      "titel": "Marlen Hobrack über Mutterschaft: Macht der Feminismus Mütter unglücklich?",
+      "link": "https://www.spiegel.de/kultur/marlen-hobrack-ueber-mutterschaft-macht-der-feminismus-muetter-ungluecklich-a-740b2160-bb72-48b1-9652-13f3070e4994#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T03:46:00+00:00"
+    },
+    {
+      "titel": "Grüne werfen SPD Scheinheiligkeit beim Hitzeschutz vor",
+      "link": "https://www.spiegel.de/politik/deutschland/gruene-werfen-spd-scheinheiligkeit-beim-hitzeschutz-vor-a-dfc201f8-72dc-474c-ba0e-314f9ca9bc75#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T03:43:00+00:00"
+    },
+    {
+      "titel": "Extreme Ultraläufe wie der Last Soul Ultra: Was hinter dem Trend steckt und wann es gefährlich wird",
+      "link": "https://www.spiegel.de/fitness/extreme-ultralaeufe-wie-der-last-soul-ultra-was-hinter-dem-trend-steckt-und-wann-es-gefaehrlich-wird-a-5279fea7-79cc-4763-90c7-a5faca41aa33#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T03:30:00+00:00"
+    },
+    {
+      "titel": "Outdoor-Kleidung: Welche Funktionskleidung Sie zum Laufen, Radfahren und Wandern brauchen",
+      "link": "https://www.spiegel.de/fitness/outdoor-kleidung-welche-funktionskleidung-sie-zum-laufen-radfahren-und-wandern-brauchen-a-d5db0a42-bdbe-45d8-8893-91371c37a66d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T03:30:00+00:00"
+    },
+    {
+      "titel": "News: VW-Chef Blume auf Betriebsversammlungen, Trumps Kandidaten verlieren Vorwahlen, Bundeskabinett in Klausur",
+      "link": "https://www.spiegel.de/politik/deutschland/news-vw-chef-blume-auf-betriebsversammlungen-trumps-kandidaten-verlieren-vorwahlen-bundeskabinett-in-klausur-a-53636af5-b792-4f75-99e6-214a32fcd7d5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T03:28:00+00:00"
+    },
     {
       "titel": "Frankreich: Dutzende Verletzte durch Tornado in Pomas im Südwesten",
       "link": "https://www.spiegel.de/panorama/frankreich-dutzende-verletzte-durch-tornado-in-pomas-im-suedwesten-a-0f86b913-d24c-45e7-b40d-11510e7286ed#ref=rss",
@@ -49,22 +91,10 @@
       "veroeffentlicht": "2026-08-25T01:36:35+00:00"
     },
     {
-      "titel": "Irankrieg: USA reden von wirtschaftlichem »D-Day« gegen Iran – doch was ist mit China?",
-      "link": "https://www.spiegel.de/ausland/irankrieg-usa-reden-von-wirtschaftlichem-d-day-gegen-iran-doch-was-ist-mit-china-a-25d2be4d-afe2-427c-bde1-aa03c60d9f53#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T01:32:00+00:00"
-    },
-    {
       "titel": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl - Angst vor Chaos steigt",
       "link": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-li.3536322",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T01:23:02+00:00"
-    },
-    {
-      "titel": "USA: Französischer Tourist stirbt nach Autopanne im Death Valley",
-      "link": "https://www.spiegel.de/panorama/usa-franzoesischer-tourist-stirbt-nach-autopanne-im-death-valley-a-6a486cdb-8786-4b06-8c57-fbf79418c42c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T23:47:00+00:00"
     },
     {
       "titel": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
@@ -73,34 +103,10 @@
       "veroeffentlicht": "2026-08-24T22:56:35+00:00"
     },
     {
-      "titel": "Syrien: USA streichen Land von Liste der Terrorunterstützer",
-      "link": "https://www.spiegel.de/ausland/syrien-usa-streichen-land-von-liste-der-terrorunterstuetzer-a-530db1b8-0b1d-47e2-b5a7-1282c24d0f73#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T21:11:00+00:00"
-    },
-    {
       "titel": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T20:56:51+00:00"
-    },
-    {
-      "titel": "Annalena Baerbock: Nach Uno-Amt wohl Professur in New York geplant",
-      "link": "https://www.spiegel.de/politik/annalena-baerbock-nach-uno-amt-wohl-professur-in-new-york-geplant-a-74a9ff31-dc69-467e-a026-214ced70b166#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T20:35:00+00:00"
-    },
-    {
-      "titel": "Rohingya: Save the Children warnt vor dramatischer Versorgungslage",
-      "link": "https://www.spiegel.de/ausland/rohingya-save-the-children-warnt-vor-dramatischer-versorgungslage-a-7c75cea6-e603-400b-a2bc-0e03e388b25a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T19:51:00+00:00"
-    },
-    {
-      "titel": "Hamburger SV: 16-jähriger Louis Lemke knackt Rekord von Uwe Seeler",
-      "link": "https://www.spiegel.de/sport/hamburger-sv-16-jaehriger-louis-lemke-knackt-rekord-von-uwe-seeler-a-c2855b77-951c-4073-a4d4-530c6be293f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T19:51:00+00:00"
     },
     {
       "titel": "Kabinettsklausur der Bundesregierung: Neustart in Neuhardenberg?",
@@ -125,12 +131,6 @@
       "link": "https://www.sueddeutsche.de/kultur/pferde-polizeipferde-mannheim-kaiserslautern-fussballspiel-ausschreitungen-fussball-fans-tierschutz-li.3536228",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T17:35:14+00:00"
-    },
-    {
-      "titel": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T16:48:03+00:00"
     },
     {
       "titel": "Literatur: Wenig zu spüren",
