@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-25T15:07:11+00:00",
+  "aktualisiert": "2026-08-25T16:01:50+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-anschlag-drohnenfabrik-vereitelt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T15:42:47+00:00"
+    },
+    {
+      "titel": "Kanada verhängt Vergeltungszölle gegen USA von bis zu 50 Prozent",
+      "link": "https://www.spiegel.de/wirtschaft/kanada-verhaengt-vergeltungszoelle-gegen-usa-von-bis-zu-50-prozent-a-c10a04d1-6db8-49e2-a584-8b3c59d01fb1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:41:00+00:00"
+    },
+    {
+      "titel": "Autonomes Fahren: Waymo plant Robotaxis in München ab 2027",
+      "link": "https://www.spiegel.de/mobilitaet/autonomes-fahren-waymo-plant-robotaxis-in-muenchen-ab-2027-a-c0d74f40-21ab-47d4-8551-9fbb332c009f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:38:00+00:00"
+    },
+    {
+      "titel": "USA: Trump will Lake Ontario in „Lake America“ umbenennen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-lake-ontario-trump-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T15:36:00+00:00"
+    },
+    {
+      "titel": "Vuelta: Radprofis flüchten vor Hagelsturm in ein Hotel und loben den Service",
+      "link": "https://www.spiegel.de/sport/radsport/vuelta-radprofis-fluechten-vor-hagelsturm-in-ein-hotel-und-loben-den-service-a-d49a80fc-be00-4421-9c74-3c27a5e42b04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:28:00+00:00"
+    },
+    {
+      "titel": "Russland: CIA-Direktor John Ratcliffe zu Gesprächen in Moskau gelandet",
+      "link": "https://www.spiegel.de/ausland/russland-cia-direktor-john-ratcliffe-zu-gespraechen-in-moskau-gelandet-a-40eeb0df-79b3-444d-abbc-b7f408afcd15#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:27:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Volkswagen, Oliver Blume, Zuckersteuer, ChatGPT",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-volkswagen-oliver-blume-zuckersteuer-chatgpt-a-c615773f-4b07-4df4-9b07-e1f8944a168a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:27:00+00:00"
+    },
+    {
+      "titel": "Social Design Award 2026: Letzter Aufruf für Ihre Projektidee",
+      "link": "https://www.spiegel.de/stil/social-design-award-2026-letzter-aufruf-fuer-ihre-projektidee-a-645cdd64-8e85-4007-840f-24b35b6a184e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:13:00+00:00"
+    },
+    {
+      "titel": "Mac mini und Mac Studio: Apple stellt neue Highspeed-Macs vor – und zieht die Preise weiter an",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an-a-1ac2faf4-d688-45d3-b707-03f97c83fe3d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:07:00+00:00"
+    },
     {
       "titel": "Hannover 96 kritisiert Fans nach queerfeindlichen Beleidigungen",
       "link": "https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen-a-355566bd-833c-4a14-9f80-121be64a9f2a#ref=rss",
@@ -25,16 +79,10 @@
       "veroeffentlicht": "2026-08-25T14:55:55+00:00"
     },
     {
-      "titel": "Mannheim: Getöteter Zugbegleiter wird mit Gedenktafel geehrt",
-      "link": "https://www.spiegel.de/panorama/justiz/mannheim-getoeteter-zugbegleiter-wird-mit-gedenktafel-geehrt-a-62353539-a9fa-4372-9d9d-6078fa8724e5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T14:50:00+00:00"
-    },
-    {
-      "titel": "USA: Trump will Lake Ontario in „Lake America“ umbenennen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-lake-ontario-trump-li.3530667",
+      "titel": "Podcast „Auf den Punkt“: Die Zukunft von VW? Es ist kompliziert",
+      "link": "https://www.sueddeutsche.de/wirtschaft/podcast-nachrichten-auf-den-punkt-vw-autoindustrie-stellenabbau-werksschliessungen-li.3536467",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T14:45:00+00:00"
+      "veroeffentlicht": "2026-08-25T14:53:19+00:00"
     },
     {
       "titel": "SZ-Serie „Ein Anruf bei...“: „Er hat sich furchtbar aufgeregt, es fehlten ihm zehn Gramm“",
@@ -49,28 +97,10 @@
       "veroeffentlicht": "2026-08-25T14:28:43+00:00"
     },
     {
-      "titel": "Taylor Swift: Wie der Popstar mit Druck und Überforderung umgeht",
-      "link": "https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht-a-4bdce977-d0bd-4ce5-93be-d74c2475a671#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T14:24:00+00:00"
-    },
-    {
-      "titel": "CDU: Dennis Radtke wehrt sich gegen rechten Shitstorm nach Migrationsaussagen",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen-a-3b03919a-ddb5-49fe-8f5c-a363f5b4c3e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T14:18:00+00:00"
-    },
-    {
       "titel": "Provokative Mao-Skulpturen - drei Jahren Gefängnis für chinesischen Künstler",
       "link": "https://www.tagesschau.de/ausland/asien/china-kunst-justiz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T14:16:39+00:00"
-    },
-    {
-      "titel": "Armenien: Ex-Präsident Robert Kotscharjan wegen Korruptionsverdacht festgenommen",
-      "link": "https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen-a-68b7599c-53cd-4abc-af8e-ad0f71f12cd6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T14:16:00+00:00"
     },
     {
       "titel": "Julian Draxler in Katar: „Ich muss mich nicht verstecken“",
@@ -85,28 +115,16 @@
       "veroeffentlicht": "2026-08-25T13:48:01+00:00"
     },
     {
-      "titel": "Baden-Württemberg: Betrunkener Autofahrer verrät sich durch Schnarchen im Gebüsch",
-      "link": "https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch-a-15ddd937-0461-4b58-98a7-8a726cff4405#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T13:45:00+00:00"
+      "titel": "SPD-Krise: Miersch und die Unzufriedenen in Sachsen-Anhalt",
+      "link": "https://www.sueddeutsche.de/politik/miersch-spd-sommerreise-wahl-sachsen-anhalt-reformen-stimmung-li.3536289",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T13:36:28+00:00"
     },
     {
       "titel": "Krieg in Nahost: China hält an Iran-Kooperation fest und warnt USA vor Sanktionen",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-china-usa-news-bessent-wirtschaftskrieg-sanktionen-teheran-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T13:30:00+00:00"
-    },
-    {
-      "titel": "Florida: Mutter und Zweijährige vom Blitz erschlagen",
-      "link": "https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen-a-0dcadc63-11c1-49a8-ab46-e181705b7f4c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T13:27:00+00:00"
-    },
-    {
-      "titel": "MDR warnt mit schwarzem Bildschirm vor AfD: »Wie Sie sehen, sehen Sie nichts«",
-      "link": "https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts-a-e07447ca-69f7-42e5-90a4-d1ce9a361d1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T13:25:00+00:00"
     },
     {
       "titel": "Volkswagen: „Unser Vertrauen in diesen Konzernvorstand ist beschädigt“",
@@ -125,18 +143,6 @@
       "link": "https://www.sueddeutsche.de/panorama/jacques-moretti-haeusliche-gewalt-crans-montana-untersuchungshaft-li.3536013",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T12:55:19+00:00"
-    },
-    {
-      "titel": "Kolumne „Hin und weg“: Lieber nackt oder strickend?",
-      "link": "https://www.sueddeutsche.de/reise/kreuzfahrten-deutschland-themenreisen-fkk-urteil-li.3533282",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T12:52:48+00:00"
-    },
-    {
-      "titel": "Volkswagen: Olli muss wieder Herr Blume sein",
-      "link": "https://www.sueddeutsche.de/meinung/volkswagen-oliver-blume-krise-us-zoelle-china-li.3536409",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T12:44:32+00:00"
     },
     {
       "titel": "Indien: Preise für Zucker verdoppelt - Knappheit droht",
@@ -161,12 +167,6 @@
       "link": "https://www.tagesschau.de/kultur/lichtkunst-in-beelitzer-heilstaetten,lichtkunst-in-beelitzer-heilstaetten-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T11:47:34+00:00"
-    },
-    {
-      "titel": "Wie tief steckt VW in der Krise?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T11:46:43+00:00"
     }
   ]
 }
