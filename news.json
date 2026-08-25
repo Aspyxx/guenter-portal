@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-25T09:52:21+00:00",
+  "aktualisiert": "2026-08-25T10:50:45+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,100 @@
   },
   "meldungen": [
     {
+      "titel": "Backnang: Kabel an Bahnstrecke beschädigt – Staatsschutz ermittelt",
+      "link": "https://www.spiegel.de/panorama/backnang-kabel-an-bahnstrecke-beschaedigt-staatsschutz-ermittelt-a-fbbabd32-bd8e-496d-ad93-d383fc8ea298#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T10:48:00+00:00"
+    },
+    {
+      "titel": "Israel: Palästinenser-Denkmal zerstört – rechter Abgeordneter Zvi Sukkot in der Kritik",
+      "link": "https://www.spiegel.de/ausland/israel-palaestinenser-denkmal-zerstoert-rechter-abgeordneter-zvi-sukkot-in-der-kritik-a-895a38b5-09c0-4f89-a326-3bc58a1da09a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T10:40:00+00:00"
+    },
+    {
+      "titel": "Grambow/Mecklenburg-Vorpommern: So will ein Bürgermeister sein Dorf von Windkraft überzeugen",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/mecklenburg-vorpommern-so-will-ein-buergermeister-sein-dorf-von-windkraft-ueberzeugen-a-f1b65d50-6824-47f0-9cab-d91735fa789c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T10:36:00+00:00"
+    },
+    {
+      "titel": "Freizeit-Monitor: Freunde treffen verliert an Bedeutung",
+      "link": "https://www.spiegel.de/panorama/freizeit-monitor-freunde-treffen-verliert-an-bedeutung-a-d80abfa4-eb2a-49d1-a73c-85c263455915#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T10:32:00+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Australien verbannt KI-Songs aus den Musikcharts",
+      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-australien-verbannt-ki-songs-aus-den-musikcharts-a-e31eb193-934a-498c-894e-8243f9585f18#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T10:27:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Selenskij sieht Zeitfenster für US-Friedensvermittlung bis Sommer 2027",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-donbass-wirtschaftszone-friedensvermittlung-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T10:23:14+00:00"
+    },
+    {
+      "titel": "Streaming vs. Kino: »Spodyssey« beschert deutschen Kinos ein Comeback",
+      "link": "https://www.spiegel.de/kultur/streaming-vs-kino-spodyssey-beschert-deutschen-kinos-ein-comeback-a-39fe064b-c944-4ed3-a7a5-c70aae0e38ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T10:17:00+00:00"
+    },
+    {
+      "titel": "Warten auf Reformen: Wirtschaft will Taten sehen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschafts-forderungen-kabinett-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T10:16:15+00:00"
+    },
+    {
+      "titel": "Norovirus: Infektionen bei Hotelgästen in Unterfranken bestätigt",
+      "link": "https://www.spiegel.de/panorama/norovirus-infektionen-bei-hotelgaesten-in-unterfranken-bestaetigt-a-a42e4c83-eaa9-4246-ba2d-5451dd27cb4e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T10:15:00+00:00"
+    },
+    {
+      "titel": "ifo-Index: Die Zuversicht in der Wirtschaft wächst",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T10:06:33+00:00"
+    },
+    {
+      "titel": "GLP-1-Medikamente: Was kann die neue Abnehmpille?",
+      "link": "https://www.sueddeutsche.de/gesundheit/abnehmpille-wegovy-deutschland-semaglutid-wirkstoff-li.3531402",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T10:02:40+00:00"
+    },
+    {
+      "titel": "Kabinettsklausur: Merz will mehr Wachstum ermöglichen",
+      "link": "https://www.tagesschau.de/inland/kabinettsklausur-union-spd-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T10:00:40+00:00"
+    },
+    {
+      "titel": "Leute: Ihre Eltern: Milliardäre. Ihr Berufswunsch: Kaffee kochen bei Starbucks",
+      "link": "https://www.sueddeutsche.de/panorama/kim-kardashian-tochter-north-west-starbucks-kanye-west-promis-li.3536443",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T09:50:30+00:00"
+    },
+    {
+      "titel": "Sommerspiele 2029 in Bayern: Erding und Bamberg wollen die Special Olympics austragen",
+      "link": "https://www.sueddeutsche.de/muenchen/erding/special-olympics-bayern-erding-bamberg-sommerspiele-li.3536488",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T09:50:00+00:00"
+    },
+    {
+      "titel": "Echo, FireTV-Sticks, Kindle: Amazon erhöht Preise für Hardware erheblich",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/echo-firetv-sticks-kindle-amazon-erhoeht-preise-fuer-hardware-erheblich-a-ab43b84c-2e97-4e7c-8cd9-d1ee15033d7d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T09:50:00+00:00"
+    },
+    {
       "titel": "USA und Kanada: Kann Premier Mark Carney den Handelskrieg mit den USA gewinnen?",
       "link": "https://www.spiegel.de/wirtschaft/usa-und-kanada-kann-premier-mark-carney-den-handelskrieg-mit-den-usa-gewinnen-a-9a3375f4-f75b-46cd-9644-e1ac6ab7fff9#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T09:39:00+00:00"
-    },
-    {
-      "titel": "Volkswagen: Olaf Lies geht auf Konfrontationskurs mit Oliver Blume",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-olaf-lies-geht-auf-konfrontationskurs-mit-oliver-blume-a-ecf63f42-c117-4449-b870-35e1c704cbcb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T09:22:00+00:00"
-    },
-    {
-      "titel": "Türkei: Europas Menschenrechtsgericht verlangt Freilassung von Osman Kavala",
-      "link": "https://www.spiegel.de/ausland/tuerkei-europas-menschenrechtsgericht-verlangt-freilassung-von-osman-kavala-a-dfa5d321-f214-4daf-a3d8-46f32dd230f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T09:21:00+00:00"
     },
     {
       "titel": "Bundespolitik: Merz zu Drohnenvorfall in Leipzig: „Sie werden dafür bezahlen“",
@@ -31,28 +109,10 @@
       "veroeffentlicht": "2026-08-25T09:13:15+00:00"
     },
     {
-      "titel": "Backnang: Kabel an Bahnstrecke beschädigt – Staatsschutz ermittelt",
-      "link": "https://www.spiegel.de/panorama/backnang-kabel-an-bahnstrecke-beschaedigt-staatsschutz-ermittelt-a-fbbabd32-bd8e-496d-ad93-d383fc8ea298#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T09:05:00+00:00"
-    },
-    {
-      "titel": "Merz-Regierung kommt zu zweitägiger Kabinettsklausur in Brandenburg zusammen",
-      "link": "https://www.spiegel.de/politik/deutschland/merz-regierung-kommt-zu-zweitaegiger-kabinettsklausur-in-brandenburg-zusammen-a-687c6c73-bb75-4de1-9bae-a3f3bbf1013d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T09:01:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Anleger erfreut über starke Konjunkturdaten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T08:59:48+00:00"
-    },
-    {
-      "titel": "US-Basketball: WNBA verweigert Enes Kanter Freedom Einsatz bei den Frauen",
-      "link": "https://www.spiegel.de/sport/basketball/us-basketball-wnba-verweigert-enes-kanter-freedom-einsatz-bei-den-frauen-a-2883ade2-19d8-43d5-a7aa-83684a33ab62#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T08:58:00+00:00"
     },
     {
       "titel": "Konzernumbau beim Autohersteller: Was VW in China anders macht",
@@ -67,34 +127,16 @@
       "veroeffentlicht": "2026-08-25T08:39:19+00:00"
     },
     {
-      "titel": "Wetter in Deutschland: Sommerliche Temperaturen am Donnerstag",
-      "link": "https://www.spiegel.de/panorama/wetter-in-deutschland-sommerliche-temperaturen-am-donnerstag-a-c7fe0352-f1f1-4661-ad75-09e27567162d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T08:35:00+00:00"
-    },
-    {
-      "titel": "Deutsche Wirtschaft im Frühjahr etwas stärker gewachsen als erwartet",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T08:16:09+00:00"
+      "titel": "Iran: Nun will Trump vorerst doch nicht mit dem Kopf durch die Wand",
+      "link": "https://www.sueddeutsche.de/meinung/usa-iran-donald-trump-scott-bessent-sanktionen-china-diplomatie-li.3536284",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T08:20:16+00:00"
     },
     {
       "titel": "Literatur: Ist das wirklich der Größte?",
       "link": "https://www.sueddeutsche.de/kultur/philipp-oehmke-papenburg-schoenwald-spiegel-li.3524781",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T08:15:04+00:00"
-    },
-    {
-      "titel": "AfD in Sachsen-Anhalt: Steinmeier wirbt für Migration und warnt vor völkischer Ideologie",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-steinmeier-wirbt-fuer-migration-und-warnt-vor-voelkischer-ideologie-a-ddee7ec7-d982-41bc-91e4-5761f4da935d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T08:11:00+00:00"
-    },
-    {
-      "titel": "Bayern München: Jamal Musiala steht auch zum Saisonstart nicht im Kader",
-      "link": "https://www.spiegel.de/sport/fussball/bayern-muenchen-jamal-musiala-steht-auch-zum-saisonstart-nicht-im-kader-a-61371969-20ab-42ba-8789-9d13a4edec89#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T08:05:00+00:00"
     },
     {
       "titel": "Handelsstreit zwischen USA und Kanada: Trumps Zölle, Carneys Härte",
@@ -115,58 +157,16 @@
       "veroeffentlicht": "2026-08-25T07:00:47+00:00"
     },
     {
-      "titel": "Astronomie: Wann und wo die Mondfinsternis in Bayern zu sehen ist",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-mondfinsternis-freitag-li.3536404",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T06:37:09+00:00"
-    },
-    {
       "titel": "Tornado zieht über Südfrankreich - mehrere Verletzte",
       "link": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T06:31:33+00:00"
     },
     {
-      "titel": "US-Sanktionen gegen Iran: Operation völlige Isolation",
-      "link": "https://www.sueddeutsche.de/politik/usa-iran-krieg-sanktionen-li.3536276",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T06:13:00+00:00"
-    },
-    {
       "titel": "Baerbock wechselt an die Columbia-Universität",
       "link": "https://www.tagesschau.de/ausland/amerika/baerbock-columbia-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T05:30:03+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn: Etwa jeder zwölfte Fernzug ganz oder teilweise ausgefallen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-fernzuege-ausfaelle-2026-li.3536363",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T05:00:27+00:00"
-    },
-    {
-      "titel": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-beitritt-island-referendum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T04:36:19+00:00"
-    },
-    {
-      "titel": "Leipziger Flughafen - Ermittler finden weitere Drohne und Sprengstoff",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohne-leipzig-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T04:00:46+00:00"
-    },
-    {
-      "titel": "Ukrainischer Transportflieger: Anschlagsversuch in Leipzig: Weitere Sprengstoffdrohne entdeckt",
-      "link": "https://www.sueddeutsche.de/politik/flughafen-leipzig-anschlag-ukraine-li.3536132",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T04:00:00+00:00"
-    },
-    {
-      "titel": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl – Angst vor Chaos steigt",
-      "link": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-briefwahl-li.3536322",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T01:23:02+00:00"
     }
   ]
 }
