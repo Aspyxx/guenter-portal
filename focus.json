@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-25T10:23:19+00:00",
+  "aktualisiert": "2026-08-25T10:56:27+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Landtagswahlen In Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-landtagswahl-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
+      "rang": 2,
       "titel": "Hitze in Deutschland",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschafts-forderungen-kabinett-100.html",
       "quelle": "Tagesschau",
       "icon": "🌡️"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Konzernumbau beim Autohersteller: Was VW in China anders macht",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-136.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
-    },
-    {
-      "rang": 3,
-      "titel": "Anleger erfreut über starke Konjunkturdaten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
