@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-25T19:05:31+00:00",
+  "aktualisiert": "2026-08-25T19:51:13+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Deutscher Eishockey-Bund",
-      "link": "https://www.tagesschau.de/kultur/everytime-film-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
       "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Konjunkturdaten bringen neuen Schwung",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Die Wirtschaft schöpft wieder Hoffnung - das sind die Gründe",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturdaten-wirtschaft-faq-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
     }
   ]
 }
