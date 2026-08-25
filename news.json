@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-25T16:01:50+00:00",
+  "aktualisiert": "2026-08-25T16:57:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T16:46:12+00:00"
+    },
+    {
+      "titel": "Firmen werden optimistischer - das Beispiel des Kabelherstellers Lapp",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lapp-kabel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T16:39:48+00:00"
+    },
+    {
+      "titel": "Syrien: Warum Israel trotz US-Widerstand weiter Ziele angreift",
+      "link": "https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift-a-fbd40220-731f-4ebf-9ab3-d9a093981274#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T16:38:00+00:00"
+    },
+    {
+      "titel": "Kabinettsklausur: Friedrich Merz beschwört Teamspirit in Neuhardenberg",
+      "link": "https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg-a-9fcd1c0f-5390-4fee-9078-5ebdd5aa77c8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T16:38:00+00:00"
+    },
+    {
+      "titel": "AfD in Sachsen-Anhalt: Ulrich Siegmund und sein umstrittener Streamer",
+      "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-umstrittener-streamer-a-29ea4d95-9939-4442-93f9-9407a9bb447e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T16:28:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Konjunkturdaten bringen neuen Schwung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T16:23:57+00:00"
+    },
     {
       "titel": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
       "link": "https://www.tagesschau.de/ausland/europa/slowakei-anschlag-drohnenfabrik-vereitelt-100.html",
@@ -31,16 +67,16 @@
       "veroeffentlicht": "2026-08-25T15:36:00+00:00"
     },
     {
+      "titel": "Kunstraub in Sizilien: Die Rätsel des Ferragosto-Diebstahls",
+      "link": "https://www.sueddeutsche.de/kultur/kunstraub-messina-museumswaerter-mafia-li.3536533",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T15:33:08+00:00"
+    },
+    {
       "titel": "Vuelta: Radprofis flüchten vor Hagelsturm in ein Hotel und loben den Service",
       "link": "https://www.spiegel.de/sport/radsport/vuelta-radprofis-fluechten-vor-hagelsturm-in-ein-hotel-und-loben-den-service-a-d49a80fc-be00-4421-9c74-3c27a5e42b04#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T15:28:00+00:00"
-    },
-    {
-      "titel": "Russland: CIA-Direktor John Ratcliffe zu Gesprächen in Moskau gelandet",
-      "link": "https://www.spiegel.de/ausland/russland-cia-direktor-john-ratcliffe-zu-gespraechen-in-moskau-gelandet-a-40eeb0df-79b3-444d-abbc-b7f408afcd15#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T15:27:00+00:00"
     },
     {
       "titel": "News des Tages: Volkswagen, Oliver Blume, Zuckersteuer, ChatGPT",
@@ -49,28 +85,16 @@
       "veroeffentlicht": "2026-08-25T15:27:00+00:00"
     },
     {
+      "titel": "Russland: CIA-Direktor John Ratcliffe zu Gesprächen in Moskau gelandet",
+      "link": "https://www.spiegel.de/ausland/russland-cia-direktor-john-ratcliffe-zu-gespraechen-in-moskau-gelandet-a-40eeb0df-79b3-444d-abbc-b7f408afcd15#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:27:00+00:00"
+    },
+    {
       "titel": "Social Design Award 2026: Letzter Aufruf für Ihre Projektidee",
       "link": "https://www.spiegel.de/stil/social-design-award-2026-letzter-aufruf-fuer-ihre-projektidee-a-645cdd64-8e85-4007-840f-24b35b6a184e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T15:13:00+00:00"
-    },
-    {
-      "titel": "Mac mini und Mac Studio: Apple stellt neue Highspeed-Macs vor – und zieht die Preise weiter an",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/mac-mini-und-mac-studio-apple-stellt-neue-highspeed-macs-vor-und-zieht-die-preise-weiter-an-a-1ac2faf4-d688-45d3-b707-03f97c83fe3d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T15:07:00+00:00"
-    },
-    {
-      "titel": "Hannover 96 kritisiert Fans nach queerfeindlichen Beleidigungen",
-      "link": "https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen-a-355566bd-833c-4a14-9f80-121be64a9f2a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "titel": "CTE im Football: Untersuchung zeigt Gehirnschäden bei vielen verstorbenen NFL-Spielern",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/cte-im-football-untersuchung-zeigt-gehirnschaeden-bei-vielen-verstorbenen-nfl-spielern-a-fd626972-d07a-4313-9193-8a92d69d6590#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T14:58:00+00:00"
     },
     {
       "titel": "Rede über Zuwanderung - Steinmeier fordert Absage an völkische Ideologie",
@@ -109,10 +133,22 @@
       "veroeffentlicht": "2026-08-25T14:08:33+00:00"
     },
     {
+      "titel": "Wahlkampfhilfe in Sachsen-Anhalt: Söders Rückfall in die Fleischlastigkeit",
+      "link": "https://www.sueddeutsche.de/bayern/soeder-sachsen-anhalt-wahlkampf-schulze-wernigerode-glosse-li.3536616",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T14:05:11+00:00"
+    },
+    {
       "titel": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
       "link": "https://www.tagesschau.de/ausland/asien/usa-sanktionen-iran-handelspartner-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T13:48:01+00:00"
+    },
+    {
+      "titel": "Podcast: Richter, Rechtspopulist, Favela-Bewohner",
+      "link": "https://www.sueddeutsche.de/medien/roland-schill-hateland-louis-klamroth-ole-von-beust-bjoern-hoecke-li.3536509",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T13:43:07+00:00"
     },
     {
       "titel": "SPD-Krise: Miersch und die Unzufriedenen in Sachsen-Anhalt",
@@ -127,46 +163,10 @@
       "veroeffentlicht": "2026-08-25T13:30:00+00:00"
     },
     {
-      "titel": "Volkswagen: „Unser Vertrauen in diesen Konzernvorstand ist beschädigt“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/vw-betriebsversammlung-wolfsburg-sparplaene-jobabbau-blume-lies-cavallo-li.3536219",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T13:13:59+00:00"
-    },
-    {
-      "titel": "Deutsche Bank: Ehemaliger Mitarbeiter gesteht Veruntreuung von Kundengeldern",
-      "link": "https://www.sueddeutsche.de/wirtschaft/bank-frankfurt-veruntreuung-privatkundengeschaeft-gericht-li.3536417",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T13:13:03+00:00"
-    },
-    {
-      "titel": "Brandkatastrophe von Crans-Montana: Barbetreiber Jaques Moretti erneut in Untersuchungshaft",
-      "link": "https://www.sueddeutsche.de/panorama/jacques-moretti-haeusliche-gewalt-crans-montana-untersuchungshaft-li.3536013",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T12:55:19+00:00"
-    },
-    {
       "titel": "Indien: Preise für Zucker verdoppelt - Knappheit droht",
       "link": "https://www.tagesschau.de/ausland/asien/indien-zucker-steuer-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T12:40:54+00:00"
-    },
-    {
-      "titel": "Bundesregierung will Zuckersteuer auf Light-Getränke ausweiten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-zuckersteuer-ausweitung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T12:37:18+00:00"
-    },
-    {
-      "titel": "Sorge um Top-Rating: Deutsches Staatsdefizit fast verdoppelt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-staatsdefizit-rentenmarkt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T12:12:42+00:00"
-    },
-    {
-      "titel": "Licht- und Medienkunst \"Nebula\" in den Beelitzer Heilstätten",
-      "link": "https://www.tagesschau.de/kultur/lichtkunst-in-beelitzer-heilstaetten,lichtkunst-in-beelitzer-heilstaetten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T11:47:34+00:00"
     }
   ]
 }
