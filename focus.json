@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-25T09:04:31+00:00",
+  "aktualisiert": "2026-08-25T09:57:04+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Rehaklinik",
-      "link": "https://www.tagesschau.de/investigativ/report-muenchen/missstaende-rehaklinik-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Konzernumbau beim Autohersteller: Was VW in China anders macht",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-136.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Anleger erfreut über starke Konjunkturdaten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Hitze in Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌡️"
     }
   ]
 }
