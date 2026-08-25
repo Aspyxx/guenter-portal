@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-25T10:50:45+00:00",
+  "aktualisiert": "2026-08-25T11:45:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Künstliche Intelligenz/Drohnen: Uno warnt vor Zukunft autonomer »Killer-Roboter«",
+      "link": "https://www.spiegel.de/ausland/kuenstliche-intelligenz-drohnen-uno-warnt-vor-zukunft-autonomer-killer-roboter-a-81d310cb-c438-445a-bf49-2d21d9facefe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T11:44:00+00:00"
+    },
+    {
+      "titel": "Afghanistan: Bundespolizei schiebt 23 ausreisepflichtigen Afghanen",
+      "link": "https://www.spiegel.de/politik/deutschland/afghanistan-bundespolizei-schiebt-23-ausreisepflichtigen-afghanen-a-a90b507f-694c-4cad-91d1-924de25ee07a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T11:41:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung will Zuckersteuer auf Light-Getränke ausweiten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-zuckersteuer-ausweitung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T11:40:30+00:00"
+    },
+    {
+      "titel": "Iran: Wirtschaftskrise? Davon will das Regime nichts wissen",
+      "link": "https://www.sueddeutsche.de/politik/iran-trump-us-sanktionen-wirtschaftskrise-china-oel-li.3536164",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T11:33:45+00:00"
+    },
+    {
+      "titel": "Zuckersteuer soll auch Light-Getränke treffen – CSU-Ministerium widerspricht",
+      "link": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-soll-auch-light-getraenke-treffen-csu-ministerium-widerspricht-a-85bb79b9-01cd-41b1-a918-5e45abf1d6df#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T11:27:00+00:00"
+    },
+    {
+      "titel": "Weitsprung-Star Malaika Mihambo: Verletzung doch nicht so schlimm",
+      "link": "https://www.spiegel.de/sport/leichtathletik/weitsprung-star-malaika-mihambo-verletzung-doch-nicht-so-schlimmaus-a-a96a92d6-8ed8-4af6-b462-e2eef065adc1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T11:14:00+00:00"
+    },
+    {
+      "titel": "Nepal: Regierungschef Balendra Shah darf weiter mit Sonnenbrille ins Parlament",
+      "link": "https://www.spiegel.de/ausland/nepal-regierungschef-balendra-shah-darf-weiter-mit-sonnenbrille-ins-parlament-a-9bd63de8-5620-4130-bae8-8ae081ee5347#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T11:13:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung: Der Kanzler kehrt mit einer Kampfansage aus dem Urlaub zurück",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-berlin-kabinettsklausur-sicherheit-wirtschaft-li.3536169",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T11:11:50+00:00"
+    },
+    {
+      "titel": "Lohn in Deutschland: Tariflöhne dürften stärker steigen als Preise",
+      "link": "https://www.spiegel.de/wirtschaft/lohn-in-deutschland-tarifloehne-duerften-staerker-steigen-als-preise-a-f2c169e0-4505-4962-9544-b551875defe6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T11:10:00+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T11:09:00+00:00"
+    },
     {
       "titel": "Backnang: Kabel an Bahnstrecke beschädigt – Staatsschutz ermittelt",
       "link": "https://www.spiegel.de/panorama/backnang-kabel-an-bahnstrecke-beschaedigt-staatsschutz-ermittelt-a-fbbabd32-bd8e-496d-ad93-d383fc8ea298#ref=rss",
@@ -19,46 +79,16 @@
       "veroeffentlicht": "2026-08-25T10:40:00+00:00"
     },
     {
-      "titel": "Grambow/Mecklenburg-Vorpommern: So will ein Bürgermeister sein Dorf von Windkraft überzeugen",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/mecklenburg-vorpommern-so-will-ein-buergermeister-sein-dorf-von-windkraft-ueberzeugen-a-f1b65d50-6824-47f0-9cab-d91735fa789c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T10:36:00+00:00"
-    },
-    {
-      "titel": "Freizeit-Monitor: Freunde treffen verliert an Bedeutung",
-      "link": "https://www.spiegel.de/panorama/freizeit-monitor-freunde-treffen-verliert-an-bedeutung-a-d80abfa4-eb2a-49d1-a73c-85c263455915#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T10:32:00+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Australien verbannt KI-Songs aus den Musikcharts",
-      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-australien-verbannt-ki-songs-aus-den-musikcharts-a-e31eb193-934a-498c-894e-8243f9585f18#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T10:27:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Selenskij sieht Zeitfenster für US-Friedensvermittlung bis Sommer 2027",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-donbass-wirtschaftszone-friedensvermittlung-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T10:23:14+00:00"
     },
     {
-      "titel": "Streaming vs. Kino: »Spodyssey« beschert deutschen Kinos ein Comeback",
-      "link": "https://www.spiegel.de/kultur/streaming-vs-kino-spodyssey-beschert-deutschen-kinos-ein-comeback-a-39fe064b-c944-4ed3-a7a5-c70aae0e38ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T10:17:00+00:00"
-    },
-    {
       "titel": "Warten auf Reformen: Wirtschaft will Taten sehen",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschafts-forderungen-kabinett-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T10:16:15+00:00"
-    },
-    {
-      "titel": "Norovirus: Infektionen bei Hotelgästen in Unterfranken bestätigt",
-      "link": "https://www.spiegel.de/panorama/norovirus-infektionen-bei-hotelgaesten-in-unterfranken-bestaetigt-a-a42e4c83-eaa9-4246-ba2d-5451dd27cb4e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T10:15:00+00:00"
     },
     {
       "titel": "ifo-Index: Die Zuversicht in der Wirtschaft wächst",
@@ -91,18 +121,6 @@
       "veroeffentlicht": "2026-08-25T09:50:00+00:00"
     },
     {
-      "titel": "Echo, FireTV-Sticks, Kindle: Amazon erhöht Preise für Hardware erheblich",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/echo-firetv-sticks-kindle-amazon-erhoeht-preise-fuer-hardware-erheblich-a-ab43b84c-2e97-4e7c-8cd9-d1ee15033d7d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T09:50:00+00:00"
-    },
-    {
-      "titel": "USA und Kanada: Kann Premier Mark Carney den Handelskrieg mit den USA gewinnen?",
-      "link": "https://www.spiegel.de/wirtschaft/usa-und-kanada-kann-premier-mark-carney-den-handelskrieg-mit-den-usa-gewinnen-a-9a3375f4-f75b-46cd-9644-e1ac6ab7fff9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T09:39:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Merz zu Drohnenvorfall in Leipzig: „Sie werden dafür bezahlen“",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-drohnenangriff-leipzig-flughafen-li.3529564",
       "quelle": "Süddeutsche",
@@ -133,12 +151,6 @@
       "veroeffentlicht": "2026-08-25T08:20:16+00:00"
     },
     {
-      "titel": "Literatur: Ist das wirklich der Größte?",
-      "link": "https://www.sueddeutsche.de/kultur/philipp-oehmke-papenburg-schoenwald-spiegel-li.3524781",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T08:15:04+00:00"
-    },
-    {
       "titel": "Handelsstreit zwischen USA und Kanada: Trumps Zölle, Carneys Härte",
       "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-trump-carney-100.html",
       "quelle": "Tagesschau",
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-08-25T07:07:07+00:00"
     },
     {
-      "titel": "Nach dem Tod von Investor Kühne: Sein Geld haben sie beim HSV immer gern genommen",
-      "link": "https://www.sueddeutsche.de/sport/hsv-kuehne-investor-tod-li.3536302",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T07:00:47+00:00"
-    },
-    {
       "titel": "Tornado zieht über Südfrankreich - mehrere Verletzte",
       "link": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T06:31:33+00:00"
-    },
-    {
-      "titel": "Baerbock wechselt an die Columbia-Universität",
-      "link": "https://www.tagesschau.de/ausland/amerika/baerbock-columbia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T05:30:03+00:00"
     }
   ]
 }
