@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-25T08:00:10+00:00",
+  "aktualisiert": "2026-08-25T09:01:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Marktbericht: Anleger erfreut über starke Konjunkturdaten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T08:59:48+00:00"
+    },
+    {
+      "titel": "US-Basketball: WNBA verweigert Enes Kanter Freedom Einsatz bei den Frauen",
+      "link": "https://www.spiegel.de/sport/basketball/us-basketball-wnba-verweigert-enes-kanter-freedom-einsatz-bei-den-frauen-a-2883ade2-19d8-43d5-a7aa-83684a33ab62#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T08:58:00+00:00"
+    },
+    {
+      "titel": "Konzernumbau beim Autohersteller: Was VW in China anders macht",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-136.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T08:50:16+00:00"
+    },
+    {
+      "titel": "Wahlkampf in Sachsen-Anhalt: Söder gelingt es tatsächlich, nicht belehrend zu wirken",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahlkampf-soeder-schulze-wirtschaft-afd-li.3534177",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T08:39:19+00:00"
+    },
+    {
+      "titel": "Wetter in Deutschland: Sommerliche Temperaturen am Donnerstag",
+      "link": "https://www.spiegel.de/panorama/wetter-in-deutschland-sommerliche-temperaturen-am-donnerstag-a-c7fe0352-f1f1-4661-ad75-09e27567162d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T08:35:00+00:00"
+    },
+    {
+      "titel": "Deutsche Wirtschaft im Frühjahr etwas stärker gewachsen als erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T08:16:09+00:00"
+    },
+    {
+      "titel": "Literatur: Ist das wirklich der Größte?",
+      "link": "https://www.sueddeutsche.de/kultur/philipp-oehmke-papenburg-schoenwald-spiegel-li.3524781",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T08:15:04+00:00"
+    },
+    {
+      "titel": "AfD in Sachsen-Anhalt: Steinmeier wirbt für Migration und warnt vor völkischer Ideologie",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-steinmeier-wirbt-fuer-migration-und-warnt-vor-voelkischer-ideologie-a-ddee7ec7-d982-41bc-91e4-5761f4da935d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T08:11:00+00:00"
+    },
+    {
+      "titel": "Bayern München: Jamal Musiala steht auch zum Saisonstart nicht im Kader",
+      "link": "https://www.spiegel.de/sport/fussball/bayern-muenchen-jamal-musiala-steht-auch-zum-saisonstart-nicht-im-kader-a-61371969-20ab-42ba-8789-9d13a4edec89#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T08:05:00+00:00"
+    },
+    {
+      "titel": "Nepal: Nach Tod eines dreijährigen Mädchens gehen Menschen in Nepal auf die Straße",
+      "link": "https://www.spiegel.de/panorama/nepal-nach-tod-eines-dreijaehrigen-maedchens-gehen-menschen-in-nepal-auf-die-strasse-a-e1337fce-c451-4ad6-8e6f-2f65635e89af#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T07:57:00+00:00"
+    },
     {
       "titel": "Landtagswahl in Sachsen-Anhalt: Sven Schulze will jetzt von Markus Söder lernen",
       "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-sven-schulze-will-jetzt-von-markus-soeder-lernen-a-a46c26f6-620c-45bb-8d64-65021c04bda3#ref=rss",
@@ -31,12 +91,6 @@
       "veroeffentlicht": "2026-08-25T07:34:00+00:00"
     },
     {
-      "titel": "Donald Trump vor den Midterms: MAGA-Kandidaten setzen sich bei Republikanern nicht mehr durch",
-      "link": "https://www.spiegel.de/ausland/donald-trump-vor-den-midterms-maga-kandidaten-setzen-sich-bei-republikanern-nicht-mehr-durch-a-d9226528-60ee-4431-a030-2fa837935085#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T07:30:00+00:00"
-    },
-    {
       "titel": "Handelsstreit zwischen USA und Kanada: Trumps Zölle, Carneys Härte",
       "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-trump-carney-100.html",
       "quelle": "Tagesschau",
@@ -55,22 +109,16 @@
       "veroeffentlicht": "2026-08-25T07:00:47+00:00"
     },
     {
-      "titel": "Merz-Regierung kommt zu zweitägiger Kabinettsklausur in Brandenburg zusammen",
-      "link": "https://www.spiegel.de/politik/deutschland/merz-regierung-kommt-zu-zweitaegiger-kabinettsklausur-in-brandenburg-zusammen-a-687c6c73-bb75-4de1-9bae-a3f3bbf1013d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T06:59:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Kanzleramtschefin spricht von „gemeinsamer Kraftanstrengung“ vor Kabinettsklausur",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-warken-kabinettsklausur-merz-landtagswahlen-afd-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T06:52:12+00:00"
     },
     {
-      "titel": "BIP: Deutsche Wirtschaft wächst im zweiten Quartal stärker als gedacht",
-      "link": "https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-waechst-im-zweiten-quartal-staerker-als-gedacht-a-b16bceee-2277-4b38-bdda-8e75bd304ea7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T06:43:00+00:00"
+      "titel": "Astronomie: Wann und wo die Mondfinsternis in Bayern zu sehen ist",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-mondfinsternis-freitag-li.3536404",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T06:37:09+00:00"
     },
     {
       "titel": "Tornado zieht über Südfrankreich - mehrere Verletzte",
@@ -79,22 +127,10 @@
       "veroeffentlicht": "2026-08-25T06:31:33+00:00"
     },
     {
-      "titel": "Girocard: Kontaktlose Zahlungen erreichen Rekordniveau in Deutschland",
-      "link": "https://www.spiegel.de/wirtschaft/girocard-kontaktlose-zahlungen-erreichen-rekordniveau-in-deutschland-a-accbd931-dccd-46e7-b5b9-18a760c3bbaf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T06:17:00+00:00"
-    },
-    {
-      "titel": "Mette Frederiksen: Dänische Premierministerin wehrt sich gegen Kommentare zu ihrer Nase",
-      "link": "https://www.spiegel.de/panorama/mette-frederiksen-daenische-premierministerin-wehrt-sich-gegen-kommentare-zu-ihrer-nase-a-95a0db8d-ae24-4ebd-ae86-a789dca2525f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T06:06:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Anleger nervös in der Woche der Wahrheit",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T05:31:32+00:00"
+      "titel": "US-Sanktionen gegen Iran: Operation völlige Isolation",
+      "link": "https://www.sueddeutsche.de/politik/usa-iran-krieg-sanktionen-li.3536276",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T06:13:00+00:00"
     },
     {
       "titel": "Nach UN-Job: Baerbock wechselt an die Columbia-Universität",
@@ -127,46 +163,10 @@
       "veroeffentlicht": "2026-08-25T04:00:00+00:00"
     },
     {
-      "titel": "Hinweise auf massive Missstände in oberbayerischer Rehaklinik",
-      "link": "https://www.tagesschau.de/investigativ/report-muenchen/missstaende-rehaklinik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T03:00:27+00:00"
-    },
-    {
-      "titel": "US-Krieg gegen Iran: Oman zwischen den Fronten",
-      "link": "https://www.tagesschau.de/ausland/asien/oman-hormus-iran-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T01:38:19+00:00"
-    },
-    {
       "titel": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl – Angst vor Chaos steigt",
       "link": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-briefwahl-li.3536322",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T01:23:02+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: USA wollen mit neuen Sanktionen Irans Einnahmequellen trockenlegen",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-bessent-wirtschaftskrieg-sanktionen-iran-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T18:00:00+00:00"
-    },
-    {
-      "titel": "Tierschutz: Auf dem Rücken der Pferde",
-      "link": "https://www.sueddeutsche.de/kultur/pferde-polizeipferde-mannheim-kaiserslautern-fussballspiel-ausschreitungen-fussball-fans-tierschutz-li.3536228",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T17:35:14+00:00"
-    },
-    {
-      "titel": "Literatur: Wenig zu spüren",
-      "link": "https://www.sueddeutsche.de/kultur/oezge-inan-die-dichterin-roman-literatur-rezension-li.3527905",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T15:08:22+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Putin ermächtigt Staat zur Übernahme schlecht geschützter Infrastruktur",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-infrastruktur-olraffinierie-logistikzentrum-kontrolle-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T15:07:22+00:00"
     }
   ]
 }
