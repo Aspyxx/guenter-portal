@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-25T16:57:31+00:00",
+  "aktualisiert": "2026-08-25T17:46:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Leute: Veronica Ferres und Carsten Maschmeyer sind getrennt",
+      "link": "https://www.sueddeutsche.de/panorama/veronica-ferres-carsten-maschmeyer-kim-kardashian-tochter-north-west-starbucks-kanye-west-promis-li.3536443",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T17:20:41+00:00"
+    },
     {
       "titel": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
       "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
@@ -155,12 +161,6 @@
       "link": "https://www.sueddeutsche.de/politik/miersch-spd-sommerreise-wahl-sachsen-anhalt-reformen-stimmung-li.3536289",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T13:36:28+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: China hält an Iran-Kooperation fest und warnt USA vor Sanktionen",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-china-usa-news-bessent-wirtschaftskrieg-sanktionen-teheran-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T13:30:00+00:00"
     },
     {
       "titel": "Indien: Preise für Zucker verdoppelt - Knappheit droht",
