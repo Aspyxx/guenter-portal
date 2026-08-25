@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-25T04:26:22+00:00",
+  "aktualisiert": "2026-08-25T05:01:20+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Film Sieben Tote Hat Die Woche",
+      "titel": "Bitcoin Kurs Dollar",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Afd Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-landtagswahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 3,
       "titel": "Oman zwischen den Fronten",
       "link": "https://www.tagesschau.de/ausland/asien/oman-hormus-iran-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
+    },
+    {
+      "rang": 3,
+      "titel": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
