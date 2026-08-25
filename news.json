@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-08-25T21:45:35+00:00",
+  "aktualisiert": "2026-08-25T22:46:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Dolly Parton ist tot: Die Frau, vor der sich ganz Amerika verneigt",
+      "link": "https://www.spiegel.de/kultur/musik/dolly-parton-ist-tot-die-frau-vor-der-sich-ganz-amerika-verneigt-a-b6a84a08-9de0-4b87-87fd-6e5a98920385#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T22:24:00+00:00"
+    },
+    {
+      "titel": "Pop: Wer soll die Welt jetzt heilen?",
+      "link": "https://www.sueddeutsche.de/kultur/dolly-parton-tot-nachruf-nashville-country-li.3537172",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T21:52:31+00:00"
+    },
     {
       "titel": "Warken zu Reformvorhaben: \"Nicht im Voraus schon Dinge tot reden\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/warken-tagesthemen-100.html",
@@ -85,12 +97,6 @@
       "veroeffentlicht": "2026-08-25T18:18:00+00:00"
     },
     {
-      "titel": "Künstliche Intelligenz: Cohere-Chef Gomez sieht Deutschland als KI-Gewinner",
-      "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-cohere-chef-gomez-sieht-deutschland-als-ki-gewinner-a-fc53dd9c-5876-40db-b474-85709c0768de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T18:16:00+00:00"
-    },
-    {
       "titel": "Public Health: Jährlich sterben womöglich hunderttausende Menschen an Schlangenbissen",
       "link": "https://www.sueddeutsche.de/gesundheit/schlangenbisse-gefahr-afrika-asien-li.3534910",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/julian-draxler-fussballkarriere-schalke-psg-katar-li.3536542",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T14:08:33+00:00"
-    },
-    {
-      "titel": "Wahlkampfhilfe in Sachsen-Anhalt: Söders Rückfall in die Fleischlastigkeit",
-      "link": "https://www.sueddeutsche.de/bayern/soeder-sachsen-anhalt-wahlkampf-schulze-wernigerode-glosse-li.3536616",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T14:05:11+00:00"
     }
   ]
 }
