@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-25T16:05:14+00:00",
+  "aktualisiert": "2026-08-25T17:01:48+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-sanktionen-iran-handelspartner-100.html",
+      "titel": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
       "rang": 2,
+      "titel": "Konjunkturdaten bringen neuen Schwung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
       "titel": "Die Wirtschaft schöpft wieder Hoffnung - das sind die Gründe",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturdaten-wirtschaft-faq-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
-    },
-    {
-      "rang": 3,
-      "titel": "Bundesregierung will Zuckersteuer auf Light-Getränke ausweiten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-zuckersteuer-ausweitung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
