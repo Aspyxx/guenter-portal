@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-25T19:46:58+00:00",
+  "aktualisiert": "2026-08-25T20:47:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Warken zu Reformvorhaben: \"Nicht im Voraus schon Dinge tot reden\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-tagesthemen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T20:08:17+00:00"
+    },
+    {
+      "titel": "FC Bayern München: Max Eberl verlängert vorzeitig bis 2029",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-verlaengert-vorzeitig-bis-2029-a-7a32a0a3-6a97-4c7c-b640-02cbfbd7bda9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T20:07:00+00:00"
+    },
+    {
+      "titel": "Supreme Court der USA: Was das Urteil zur Briefwahl bedeutet",
+      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T20:01:08+00:00"
+    },
+    {
+      "titel": "Ghislaine Maxwell: Vertraute von Jeffrey Epstein muss Gefängnisstrafe weiter absitzen",
+      "link": "https://www.spiegel.de/ausland/ghislaine-maxwell-vertraute-von-jeffrey-epstein-muss-gefaengnisstrafe-weiter-absitzen-a-e686978c-083b-4131-a430-4ee99b83836a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T19:55:00+00:00"
+    },
     {
       "titel": "Oscars: »Everytime« geht für Deutschland als bester internationaler Film ins Rennen",
       "link": "https://www.spiegel.de/kultur/kino/oscars-everytime-geht-fuer-deutschland-als-bester-internationaler-film-ins-rennen-a-47941f40-e6ef-45bf-a857-27afdd8a6d6e#ref=rss",
@@ -31,14 +55,14 @@
       "veroeffentlicht": "2026-08-25T18:57:00+00:00"
     },
     {
-      "titel": "»Die Verräter« auf RTL: Ein funktionierendes Gedächtnis wäre hilfreich.",
-      "link": "https://www.spiegel.de/kultur/die-verraeter-auf-rtl-ein-funktionierendes-gedaechtnis-waere-hilfreich-a-04d9d301-13b2-498f-9de3-c81a1a4246af#ref=rss",
+      "titel": "Österreichs Eishockeynationalteam: Warum die Spielerinnen mit einem WM-Boykott drohen",
+      "link": "https://www.spiegel.de/sport/oesterreichs-eishockeynationalteam-warum-die-spielerinnen-mit-einem-wm-boykott-drohen-a-1900a31d-de0b-4111-a894-83f4fe628e77#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T18:53:00+00:00"
     },
     {
-      "titel": "Österreichs Eishockeynationalteam: Warum die Spielerinnen mit einem WM-Boykott drohen",
-      "link": "https://www.spiegel.de/sport/oesterreichs-eishockeynationalteam-warum-die-spielerinnen-mit-einem-wm-boykott-drohen-a-1900a31d-de0b-4111-a894-83f4fe628e77#ref=rss",
+      "titel": "»Die Verräter« auf RTL: Ein funktionierendes Gedächtnis wäre hilfreich.",
+      "link": "https://www.spiegel.de/kultur/die-verraeter-auf-rtl-ein-funktionierendes-gedaechtnis-waere-hilfreich-a-04d9d301-13b2-498f-9de3-c81a1a4246af#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T18:53:00+00:00"
     },
@@ -67,21 +91,9 @@
       "veroeffentlicht": "2026-08-25T18:16:00+00:00"
     },
     {
-      "titel": "EU-Migrationspakt: Warum Italien sich bei Migration wieder mit Deutschland anlegt",
-      "link": "https://www.spiegel.de/ausland/eu-migrationspakt-warum-italien-sich-bei-migration-wieder-mit-deutschland-anlegt-a-8923a4c4-caee-419e-ad15-39a626d18d20#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T18:16:00+00:00"
-    },
-    {
       "titel": "Public Health: Jährlich sterben womöglich hunderttausende Menschen an Schlangenbissen",
       "link": "https://www.sueddeutsche.de/gesundheit/schlangenbisse-gefahr-afrika-asien-li.3534910",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T18:00:00+00:00"
-    },
-    {
-      "titel": "Dolly Parton ist tot: Country-Ikone im Alter von 80 Jahren gestorben",
-      "link": "https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss",
-      "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T18:00:00+00:00"
     },
     {
@@ -143,18 +155,6 @@
       "link": "https://www.sueddeutsche.de/panorama/brot-baeckermeister-pfaffenhofen-waage-li.3537066",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T14:44:30+00:00"
-    },
-    {
-      "titel": "Die Wirtschaft schöpft wieder Hoffnung - das sind die Gründe",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturdaten-wirtschaft-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T14:28:43+00:00"
-    },
-    {
-      "titel": "Provokative Mao-Skulpturen - drei Jahren Gefängnis für chinesischen Künstler",
-      "link": "https://www.tagesschau.de/ausland/asien/china-kunst-justiz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T14:16:39+00:00"
     },
     {
       "titel": "Julian Draxler in Katar: „Ich muss mich nicht verstecken“",
