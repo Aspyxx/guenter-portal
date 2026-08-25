@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-08-24T23:59:45+00:00",
+  "aktualisiert": "2026-08-25T01:53:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "US-Krieg gegen Iran: Oman zwischen den Fronten",
+      "link": "https://www.tagesschau.de/ausland/asien/oman-hormus-iran-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T01:38:19+00:00"
+    },
+    {
+      "titel": "Erneut Tanker in Straße von Hormus angegriffen",
+      "link": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T01:36:42+00:00"
+    },
+    {
+      "titel": "Supreme Court macht Weg für Trumps umstrittene Briefwahl-Regeln frei",
+      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-trump-briefwahl-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T01:36:35+00:00"
+    },
+    {
+      "titel": "Irankrieg: USA reden von wirtschaftlichem »D-Day« gegen Iran – doch was ist mit China?",
+      "link": "https://www.spiegel.de/ausland/irankrieg-usa-reden-von-wirtschaftlichem-d-day-gegen-iran-doch-was-ist-mit-china-a-25d2be4d-afe2-427c-bde1-aa03c60d9f53#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T01:32:00+00:00"
+    },
+    {
+      "titel": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl - Angst vor Chaos steigt",
+      "link": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-li.3536322",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T01:23:02+00:00"
+    },
     {
       "titel": "USA: Französischer Tourist stirbt nach Autopanne im Death Valley",
       "link": "https://www.spiegel.de/panorama/usa-franzoesischer-tourist-stirbt-nach-autopanne-im-death-valley-a-6a486cdb-8786-4b06-8c57-fbf79418c42c#ref=rss",
@@ -61,22 +91,16 @@
       "veroeffentlicht": "2026-08-24T19:38:42+00:00"
     },
     {
-      "titel": "Copernicus-Messung: Weltmeere mit 21,1 Grad Celsius so warm wie nie",
-      "link": "https://www.spiegel.de/wissenschaft/copernicus-messung-weltmeere-mit-21-1-grad-celsius-so-warm-wie-nie-a-fc8784fd-0aa0-487f-8e43-98e3c7dfadd4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T18:32:00+00:00"
-    },
-    {
       "titel": "Prinz Harry: Rückzug aus afrikanischer Naturschutzorganisation nach Bekanntwerden von Menschenrechtsverletzungen",
       "link": "https://www.spiegel.de/panorama/leute/prinz-harry-rueckzug-aus-afrikanischer-naturschutzorganisation-nach-bekanntwerden-von-menschenrechtsverletzungen-a-2d14f2f9-1821-43cf-b1d5-fc8c3793eeef#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-24T18:32:00+00:00"
     },
     {
-      "titel": "Donald Trump und Kim Jong Un: Kommt es bald zu einem Treffen?",
-      "link": "https://www.spiegel.de/ausland/donald-trump-und-kim-jong-un-kommt-es-bald-zu-einem-treffen-a-e710aaaa-01ee-4afe-8a0d-cc9bdd99b9ad#ref=rss",
+      "titel": "Copernicus-Messung: Weltmeere mit 21,1 Grad Celsius so warm wie nie",
+      "link": "https://www.spiegel.de/wissenschaft/copernicus-messung-weltmeere-mit-21-1-grad-celsius-so-warm-wie-nie-a-fc8784fd-0aa0-487f-8e43-98e3c7dfadd4#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T18:29:00+00:00"
+      "veroeffentlicht": "2026-08-24T18:32:00+00:00"
     },
     {
       "titel": "Krieg in Nahost: USA wollen mit neuen Sanktionen Irans Einnahmequellen trockenlegen",
@@ -107,24 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T16:44:15+00:00"
-    },
-    {
-      "titel": "Marktbericht: Seitwärts in die neue Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T16:42:05+00:00"
-    },
-    {
-      "titel": "Kinos verzeichnen Plus bei Ticketverkäufen",
-      "link": "https://www.tagesschau.de/kultur/kinos-ticketverkauf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T16:07:35+00:00"
-    },
-    {
-      "titel": "EU-Klimadienst Copernicus: 21,1 Grad - Weltmeere warm wie nie",
-      "link": "https://www.tagesschau.de/wissen/weltmeere-rekordtemperatur-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T15:15:43+00:00"
     },
     {
       "titel": "Literatur: Wenig zu spüren",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/bayern-niederbayern-bad-abbach-wallfahrt-heilquelle-versiegt-li.3535939",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T13:59:02+00:00"
-    },
-    {
-      "titel": "Psychologie: Was werden wohl die anderen denken?",
-      "link": "https://www.sueddeutsche.de/wissen/studien-reaktionen-frosch-eichel-li.3530813",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T13:46:22+00:00"
     }
   ]
 }
