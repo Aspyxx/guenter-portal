@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-25T13:13:11+00:00",
+  "aktualisiert": "2026-08-25T14:08:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-sanktionen-iran-handelspartner-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T13:48:01+00:00"
+    },
+    {
+      "titel": "Baden-Württemberg: Betrunkener Autofahrer verrät sich durch Schnarchen im Gebüsch",
+      "link": "https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-betrunkener-autofahrer-verraet-sich-durch-schnarchen-im-gebuesch-a-15ddd937-0461-4b58-98a7-8a726cff4405#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T13:45:00+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: China hält an Iran-Kooperation fest und warnt USA vor Sanktionen",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-china-usa-news-bessent-wirtschaftskrieg-sanktionen-teheran-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T13:30:00+00:00"
+    },
+    {
+      "titel": "Florida: Mutter und Zweijährige vom Blitz erschlagen",
+      "link": "https://www.spiegel.de/panorama/florida-mutter-und-zweijaehrige-vom-blitz-erschlagen-a-0dcadc63-11c1-49a8-ab46-e181705b7f4c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T13:27:00+00:00"
+    },
+    {
+      "titel": "MDR warnt mit schwarzem Bildschirm vor AfD: »Wie Sie sehen, sehen Sie nichts«",
+      "link": "https://www.spiegel.de/kultur/mdr-warnt-mit-schwarzem-bildschirm-vor-afd-wie-sie-sehen-sehen-sie-nichts-a-e07447ca-69f7-42e5-90a4-d1ce9a361d1a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T13:25:00+00:00"
+    },
+    {
+      "titel": "North West hat schon mehr als ein Dutzend Piercings, doch eine Stelle ist tabu",
+      "link": "https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T13:19:00+00:00"
+    },
+    {
+      "titel": "Volkswagen: „Unser Vertrauen in diesen Konzernvorstand ist beschädigt“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vw-wolfsburg-betriebsversammlung-sparplaene-jobabbau-blume-lies-cavallo-li.3536219",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T13:13:59+00:00"
+    },
+    {
+      "titel": "Deutsche Bank: Ehemaliger Mitarbeiter gesteht Veruntreuung von Kundengeldern",
+      "link": "https://www.sueddeutsche.de/wirtschaft/bank-frankfurt-veruntreuung-privatkundengeschaeft-gericht-li.3536417",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T13:13:03+00:00"
+    },
+    {
+      "titel": "Brandkatastrophe von Crans-Montana: Barbetreiber Jaques Moretti erneut in Untersuchungshaft",
+      "link": "https://www.sueddeutsche.de/panorama/jacques-moretti-haeusliche-gewalt-crans-montana-untersuchungshaft-li.3536013",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T12:55:19+00:00"
+    },
     {
       "titel": "Volkswagen: VW-Chef Oliver Blume stellt sich Belegschaft – Betriebsrat sieht Vertrauenskrise",
       "link": "https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise-a-c72f4623-7479-42d9-9d27-cc8e863c77ce#ref=rss",
@@ -17,6 +71,12 @@
       "link": "https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet-a-242bc2c3-49a2-437b-a2be-8f17c1bf2d45#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T12:51:00+00:00"
+    },
+    {
+      "titel": "Volkswagen: Olli muss wieder Herr Blume sein",
+      "link": "https://www.sueddeutsche.de/meinung/volkswagen-oliver-blume-krise-us-zoelle-china-li.3536409",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T12:44:32+00:00"
     },
     {
       "titel": "Indien: Preise für Zucker verdoppelt - Knappheit droht",
@@ -55,12 +115,6 @@
       "veroeffentlicht": "2026-08-25T12:01:00+00:00"
     },
     {
-      "titel": "Waffendepot bei Berlin: Mutmaßlicher Kurier soll zu Sabotage-Kommando gehört haben",
-      "link": "https://www.spiegel.de/panorama/justiz/waffendepot-bei-berlin-mutmasslicher-kurier-soll-zu-sabotage-kommando-gehoert-haben-a-bdc87696-f462-4d72-87df-487162c1bdf9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T11:56:00+00:00"
-    },
-    {
       "titel": "Licht- und Medienkunst \"Nebula\" in den Beelitzer Heilstätten",
       "link": "https://www.tagesschau.de/kultur/lichtkunst-in-beelitzer-heilstaetten,lichtkunst-in-beelitzer-heilstaetten-100.html",
       "quelle": "Tagesschau",
@@ -79,34 +133,16 @@
       "veroeffentlicht": "2026-08-25T11:45:35+00:00"
     },
     {
-      "titel": "Künstliche Intelligenz/Drohnen: Uno warnt vor Zukunft autonomer »Killer-Roboter«",
-      "link": "https://www.spiegel.de/ausland/kuenstliche-intelligenz-drohnen-uno-warnt-vor-zukunft-autonomer-killer-roboter-a-81d310cb-c438-445a-bf49-2d21d9facefe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T11:44:00+00:00"
-    },
-    {
       "titel": "Künstliche Intelligenz: Chat-GPT zeigt jetzt Werbung",
       "link": "https://www.sueddeutsche.de/wirtschaft/werbung-chatgpt-deutschland-li.3536236",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T11:41:55+00:00"
     },
     {
-      "titel": "Afghanistan: Bundespolizei schiebt 23 ausreisepflichtigen Afghanen",
-      "link": "https://www.spiegel.de/politik/deutschland/afghanistan-bundespolizei-schiebt-23-ausreisepflichtigen-afghanen-a-a90b507f-694c-4cad-91d1-924de25ee07a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T11:41:00+00:00"
-    },
-    {
       "titel": "Iran: Wirtschaftskrise? Davon will das Regime nichts wissen",
       "link": "https://www.sueddeutsche.de/politik/iran-trump-us-sanktionen-wirtschaftskrise-china-oel-li.3536164",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T11:33:45+00:00"
-    },
-    {
-      "titel": "Zuckersteuer soll auch Lightgetränke treffen – CSU-Ministerium widerspricht",
-      "link": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-soll-auch-light-getraenke-treffen-csu-ministerium-widerspricht-a-85bb79b9-01cd-41b1-a918-5e45abf1d6df#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T11:27:00+00:00"
     },
     {
       "titel": "Bundesregierung: Der Kanzler kehrt mit einer Kampfansage aus dem Urlaub zurück",
@@ -121,12 +157,6 @@
       "veroeffentlicht": "2026-08-25T10:25:51+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Selenskij sieht Zeitfenster für US-Friedensvermittlung bis Sommer 2027",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-donbass-wirtschaftszone-friedensvermittlung-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T10:23:14+00:00"
-    },
-    {
       "titel": "Warten auf Reformen: Wirtschaft will Taten sehen",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschafts-forderungen-kabinett-100.html",
       "quelle": "Tagesschau",
@@ -137,36 +167,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T10:06:33+00:00"
-    },
-    {
-      "titel": "GLP-1-Medikamente: Was kann die neue Abnehmpille?",
-      "link": "https://www.sueddeutsche.de/gesundheit/abnehmpille-wegovy-deutschland-semaglutid-wirkstoff-li.3531402",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T10:02:40+00:00"
-    },
-    {
-      "titel": "Kabinettsklausur: Merz will mehr Wachstum ermöglichen",
-      "link": "https://www.tagesschau.de/inland/kabinettsklausur-union-spd-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T10:00:40+00:00"
-    },
-    {
-      "titel": "Leute: Ihre Eltern: Milliardäre. Ihr Berufswunsch: Kaffee kochen bei Starbucks",
-      "link": "https://www.sueddeutsche.de/panorama/kim-kardashian-tochter-north-west-starbucks-kanye-west-promis-li.3536443",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T09:50:30+00:00"
-    },
-    {
-      "titel": "Sommerspiele 2029 in Bayern: Erding und Bamberg wollen die Special Olympics austragen",
-      "link": "https://www.sueddeutsche.de/muenchen/erding/special-olympics-bayern-erding-bamberg-sommerspiele-li.3536488",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T09:50:00+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Merz zu Drohnenvorfall in Leipzig: „Sie werden dafür bezahlen“",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-drohnenangriff-leipzig-flughafen-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T09:13:15+00:00"
     }
   ]
 }
