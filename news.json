@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-25T18:58:49+00:00",
+  "aktualisiert": "2026-08-25T19:46:58+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Oscars: »Everytime« geht für Deutschland als bester internationaler Film ins Rennen",
+      "link": "https://www.spiegel.de/kultur/kino/oscars-everytime-geht-fuer-deutschland-als-bester-internationaler-film-ins-rennen-a-47941f40-e6ef-45bf-a857-27afdd8a6d6e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T19:38:00+00:00"
+    },
+    {
+      "titel": "Christina Block vor Gericht: »Ich bekam den Unmut meines Vaters zu spüren«",
+      "link": "https://www.spiegel.de/panorama/christina-block-vor-gericht-ich-bekam-den-unmut-meines-vaters-zu-spueren-a-54e33be8-4616-4fa2-a30e-86711a9211ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T19:07:00+00:00"
+    },
+    {
+      "titel": "Musik: US-Countrysängerin Dolly Parton ist tot",
+      "link": "https://www.sueddeutsche.de/kultur/dolly-parton-tot-li.3537170",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T18:59:23+00:00"
+    },
+    {
+      "titel": "Rio de Janeiro: Ehemaliger Bürgermeister setzt auf Sicherheits-Show im Wahlkampf",
+      "link": "https://www.spiegel.de/ausland/rio-de-janeiro-ehemaliger-buergermeister-setzt-auf-sicherheits-show-im-wahlkampf-a-c4b2af2b-30f4-4a55-a687-1e2449b7e4d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T18:57:00+00:00"
+    },
     {
       "titel": "»Die Verräter« auf RTL: Ein funktionierendes Gedächtnis wäre hilfreich.",
       "link": "https://www.spiegel.de/kultur/die-verraeter-auf-rtl-ein-funktionierendes-gedaechtnis-waere-hilfreich-a-04d9d301-13b2-498f-9de3-c81a1a4246af#ref=rss",
@@ -31,26 +55,20 @@
       "veroeffentlicht": "2026-08-25T18:42:34+00:00"
     },
     {
-      "titel": "Musik: US-Countrysängerin Dolly Parton ist tot",
-      "link": "https://www.sueddeutsche.de/kultur/dolly-parton-tot-li.3537170",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T18:33:06+00:00"
-    },
-    {
       "titel": "Schlangenbisse: Zahl wird weltweit stark unterschätzt",
       "link": "https://www.spiegel.de/wissenschaft/natur/schlangenbisse-zahl-wird-weltweit-stark-unterschaetzt-a-8ad49dda-a760-4fa9-a87b-8578f62e9e33#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T18:18:00+00:00"
     },
     {
-      "titel": "EU-Migrationspakt: Warum Italien sich bei Migration wieder mit Deutschland anlegt",
-      "link": "https://www.spiegel.de/ausland/eu-migrationspakt-warum-italien-sich-bei-migration-wieder-mit-deutschland-anlegt-a-8923a4c4-caee-419e-ad15-39a626d18d20#ref=rss",
+      "titel": "Künstliche Intelligenz: Cohere-Chef Gomez sieht Deutschland als KI-Gewinner",
+      "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-cohere-chef-gomez-sieht-deutschland-als-ki-gewinner-a-fc53dd9c-5876-40db-b474-85709c0768de#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T18:16:00+00:00"
     },
     {
-      "titel": "Künstliche Intelligenz: Cohere-Chef Gomez sieht Deutschland als KI-Gewinner",
-      "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-cohere-chef-gomez-sieht-deutschland-als-ki-gewinner-a-fc53dd9c-5876-40db-b474-85709c0768de#ref=rss",
+      "titel": "EU-Migrationspakt: Warum Italien sich bei Migration wieder mit Deutschland anlegt",
+      "link": "https://www.spiegel.de/ausland/eu-migrationspakt-warum-italien-sich-bei-migration-wieder-mit-deutschland-anlegt-a-8923a4c4-caee-419e-ad15-39a626d18d20#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T18:16:00+00:00"
     },
@@ -65,12 +83,6 @@
       "link": "https://www.spiegel.de/kultur/dolly-parton-ist-tot-country-ikone-im-alter-von-80-jahren-gestorben-a-364a3b63-92f7-40ce-84c1-dae9eb08bbcf#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-25T18:00:00+00:00"
-    },
-    {
-      "titel": "Veronica Ferres: Trennung von Carsten Maschmeyer nach mehr als 15 Jahren",
-      "link": "https://www.spiegel.de/panorama/leute/veronica-ferres-trennung-von-carsten-maschmeyer-nach-mehr-als-15-jahren-a-5475b868-b403-4145-9d6d-1d8620a6acb8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T17:45:00+00:00"
     },
     {
       "titel": "Leute: Veronica Ferres und Carsten Maschmeyer sind getrennt",
@@ -89,18 +101,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lapp-kabel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T16:39:48+00:00"
-    },
-    {
-      "titel": "Syrien: Warum Israel trotz US-Widerstand weiter Ziele angreift",
-      "link": "https://www.spiegel.de/ausland/syrien-warum-israel-trotz-us-widerstand-weiter-ziele-angreift-a-fbd40220-731f-4ebf-9ab3-d9a093981274#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T16:38:00+00:00"
-    },
-    {
-      "titel": "Kabinettsklausur: Friedrich Merz beschwört Teamspirit in Neuhardenberg",
-      "link": "https://www.spiegel.de/politik/kabinettsklausur-friedrich-merz-beschwoert-teamspirit-in-neuhardenberg-a-9fcd1c0f-5390-4fee-9078-5ebdd5aa77c8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T16:38:00+00:00"
     },
     {
       "titel": "Marktbericht: Konjunkturdaten bringen neuen Schwung",
