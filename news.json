@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-25T07:09:43+00:00",
+  "aktualisiert": "2026-08-25T08:00:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,52 @@
   },
   "meldungen": [
     {
+      "titel": "Landtagswahl in Sachsen-Anhalt: Sven Schulze will jetzt von Markus Söder lernen",
+      "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-sven-schulze-will-jetzt-von-markus-soeder-lernen-a-a46c26f6-620c-45bb-8d64-65021c04bda3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T07:45:00+00:00"
+    },
+    {
+      "titel": "Kit Harrington wird der neue Gilderoy Lockhart in der Harry-Potter-Serie",
+      "link": "https://www.spiegel.de/kultur/tv/kit-harrington-wird-der-neue-gilderoy-lockhart-in-der-harry-potter-serie-a-347b6aae-3f47-450b-b5c8-4ba1cd9416fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T07:39:00+00:00"
+    },
+    {
+      "titel": "Herbert Grönemeyer plant Chorabend in Magdeburg",
+      "link": "https://www.spiegel.de/panorama/leute/herbert-groenemeyer-plant-chorabend-in-magdeburg-a-7c4a133a-ba01-4574-bf91-8b308a49207d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T07:36:00+00:00"
+    },
+    {
+      "titel": "3,1 Prozent des BIP: Deutsches Staatsdefizit steigt im ersten Halbjahr deutlich",
+      "link": "https://www.spiegel.de/wirtschaft/3-1-prozent-des-bip-deutsches-staatsdefizit-steigt-im-ersten-halbjahr-deutlich-a-cf526e29-82c4-43a4-9b0b-632a3f233ec7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T07:34:00+00:00"
+    },
+    {
+      "titel": "Donald Trump vor den Midterms: MAGA-Kandidaten setzen sich bei Republikanern nicht mehr durch",
+      "link": "https://www.spiegel.de/ausland/donald-trump-vor-den-midterms-maga-kandidaten-setzen-sich-bei-republikanern-nicht-mehr-durch-a-d9226528-60ee-4431-a030-2fa837935085#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T07:30:00+00:00"
+    },
+    {
+      "titel": "Handelsstreit zwischen USA und Kanada: Trumps Zölle, Carneys Härte",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-trump-carney-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T07:20:17+00:00"
+    },
+    {
       "titel": "Mit neuen Ideen gegen die Not im Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-wiederaufbau-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T07:07:07+00:00"
+    },
+    {
+      "titel": "Nach dem Tod von Investor Kühne: Sein Geld haben sie beim HSV immer gern genommen",
+      "link": "https://www.sueddeutsche.de/sport/hsv-kuehne-investor-tod-li.3536302",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T07:00:47+00:00"
     },
     {
       "titel": "Merz-Regierung kommt zu zweitägiger Kabinettsklausur in Brandenburg zusammen",
@@ -61,34 +103,10 @@
       "veroeffentlicht": "2026-08-25T05:30:03+00:00"
     },
     {
-      "titel": "Deutsche Bahn: Jeder zwölfte Fernzug fällt im ersten Halbjahr aus",
-      "link": "https://www.spiegel.de/wirtschaft/deutsche-bahn-jeder-zwoelfte-fernzug-faellt-im-ersten-halbjahr-aus-a-deae314f-ca15-490d-806d-6741e4ddc1ab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T05:29:00+00:00"
-    },
-    {
-      "titel": "Leipzig: Ermittler finden weitere Drohne und Sprengstoff am Flughafen Leipzig/Halle",
-      "link": "https://www.spiegel.de/politik/deutschland/leipzig-ermittler-finden-weitere-drohne-und-sprengstoff-am-flughafen-leipzig-halle-a-a986f699-9891-46d9-9bee-704549cbc6f2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T05:25:00+00:00"
-    },
-    {
-      "titel": "Spanienrundfahrt Vuelta: 3. Etappe wird nach Hagelschauer abgebrochen",
-      "link": "https://www.spiegel.de/sport/radsport/spanienrundfahrt-vuelta-3-etappe-wird-nach-hagelschauer-abgebrochen-a-e0b92b16-afce-44a8-b769-42265c5d7dd8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T05:22:00+00:00"
-    },
-    {
-      "titel": "Pflegeversicherung: AOK-Chefin warnt vor Acht-Milliarden-Loch ab 2027",
-      "link": "https://www.spiegel.de/wirtschaft/pflegeversicherung-aok-chefin-warnt-vor-acht-milliarden-loch-ab-2027-a-6d3d087b-e89c-4a14-9a4b-ad22989b41c5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T05:02:00+00:00"
-    },
-    {
-      "titel": "DFB-Pokal: Schalke 04 müht sich über die Verlängerung beim Halleschen FC in die 2. Runde",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-schalke-04-mueht-sich-ueber-die-verlaengerung-beim-halleschen-fc-in-die-2-runde-a-589b5814-5879-4717-bd3c-e3055c0b6647#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T05:00:00+00:00"
+      "titel": "Deutsche Bahn: Etwa jeder zwölfte Fernzug ganz oder teilweise ausgefallen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-fernzuege-ausfaelle-2026-li.3536363",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T05:00:27+00:00"
     },
     {
       "titel": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
@@ -121,12 +139,6 @@
       "veroeffentlicht": "2026-08-25T01:38:19+00:00"
     },
     {
-      "titel": "Erneut Tanker in Straße von Hormus angegriffen",
-      "link": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T01:36:42+00:00"
-    },
-    {
       "titel": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl – Angst vor Chaos steigt",
       "link": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-briefwahl-li.3536322",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-infrastruktur-olraffinierie-logistikzentrum-kontrolle-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-24T15:07:22+00:00"
-    },
-    {
-      "titel": "Polizei: Warum konnte der 14-Jährige in Schwabing nicht getasert werden?",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-polizei-schuss-14-jaehriger-taser-li.3533865",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T14:20:42+00:00"
-    },
-    {
-      "titel": "Fifa-Präsidentschaft: Warum der größte Infantino-Kritiker Infantino nicht selbst herausfordert",
-      "link": "https://www.sueddeutsche.de/sport/fifa-praesidentenwahl-infantino-ceferin-fussball-li.3535915",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-24T14:05:25+00:00"
     }
   ]
 }
