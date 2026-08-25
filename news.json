@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-08-25T22:46:41+00:00",
+  "aktualisiert": "2026-08-25T23:39:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Rudi Assauer: Gericht lässt Anklage gegen Tochter nicht zu",
+      "link": "https://www.spiegel.de/panorama/justiz/rudi-assauer-gericht-laesst-anklage-gegen-tochter-nicht-zu-a-17144b9b-51ea-421c-9cb0-91b442c555b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T22:57:00+00:00"
+    },
     {
       "titel": "Dolly Parton ist tot: Die Frau, vor der sich ganz Amerika verneigt",
       "link": "https://www.spiegel.de/kultur/musik/dolly-parton-ist-tot-die-frau-vor-der-sich-ganz-amerika-verneigt-a-b6a84a08-9de0-4b87-87fd-6e5a98920385#ref=rss",
@@ -89,12 +95,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/usa-russland-cia-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T18:42:34+00:00"
-    },
-    {
-      "titel": "Schlangenbisse: Zahl wird weltweit stark unterschätzt",
-      "link": "https://www.spiegel.de/wissenschaft/natur/schlangenbisse-zahl-wird-weltweit-stark-unterschaetzt-a-8ad49dda-a760-4fa9-a87b-8578f62e9e33#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T18:18:00+00:00"
     },
     {
       "titel": "Public Health: Jährlich sterben womöglich hunderttausende Menschen an Schlangenbissen",
