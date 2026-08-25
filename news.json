@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-25T01:53:29+00:00",
+  "aktualisiert": "2026-08-25T03:13:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Frankreich: Dutzende Verletzte durch Tornado in Pomas im Südwesten",
+      "link": "https://www.spiegel.de/panorama/frankreich-dutzende-verletzte-durch-tornado-in-pomas-im-suedwesten-a-0f86b913-d24c-45e7-b40d-11510e7286ed#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T03:09:00+00:00"
+    },
+    {
+      "titel": "London und Kyjiw schließen Abkommen zur militärischen Nutzung von KI",
+      "link": "https://www.spiegel.de/ausland/london-und-kyjiw-schliessen-abkommen-zur-militaerischen-nutzung-von-ki-a-7405706d-8345-4e98-b493-4360ac941b26#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T03:02:00+00:00"
+    },
+    {
+      "titel": "Hinweise auf massive Missstände in oberbayerischer Rehaklinik",
+      "link": "https://www.tagesschau.de/investigativ/report-muenchen/missstaende-rehaklinik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T03:00:27+00:00"
+    },
+    {
+      "titel": "»Hand Gottes«: Ball aus Diego Maradonas WM-Spiel bringt 3,35 Millionen Dollar bei Auktion",
+      "link": "https://www.spiegel.de/sport/hand-gottes-ball-aus-diego-maradonas-wm-spiel-bringt-3-35-millionen-dollar-bei-auktion-a-54825a84-9bcf-4c29-bff0-02e8018d6d5b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T02:32:00+00:00"
+    },
     {
       "titel": "US-Krieg gegen Iran: Oman zwischen den Fronten",
       "link": "https://www.tagesschau.de/ausland/asien/oman-hormus-iran-100.html",
@@ -79,28 +103,10 @@
       "veroeffentlicht": "2026-08-24T19:51:00+00:00"
     },
     {
-      "titel": "Niedrigwasser am Rhein: Trockenheit gefährdet Industrie an den Ufern",
-      "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-am-rhein-trockenheit-gefaehrdet-industrie-an-den-ufern-a-615037e4-a791-4450-aec7-3aa45732a72f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T19:43:00+00:00"
-    },
-    {
       "titel": "Kabinettsklausur der Bundesregierung: Neustart in Neuhardenberg?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T19:38:42+00:00"
-    },
-    {
-      "titel": "Prinz Harry: Rückzug aus afrikanischer Naturschutzorganisation nach Bekanntwerden von Menschenrechtsverletzungen",
-      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-rueckzug-aus-afrikanischer-naturschutzorganisation-nach-bekanntwerden-von-menschenrechtsverletzungen-a-2d14f2f9-1821-43cf-b1d5-fc8c3793eeef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T18:32:00+00:00"
-    },
-    {
-      "titel": "Copernicus-Messung: Weltmeere mit 21,1 Grad Celsius so warm wie nie",
-      "link": "https://www.spiegel.de/wissenschaft/copernicus-messung-weltmeere-mit-21-1-grad-celsius-so-warm-wie-nie-a-fc8784fd-0aa0-487f-8e43-98e3c7dfadd4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-24T18:32:00+00:00"
     },
     {
       "titel": "Krieg in Nahost: USA wollen mit neuen Sanktionen Irans Einnahmequellen trockenlegen",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-24T16:48:03+00:00"
-    },
-    {
-      "titel": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
-      "link": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-24T16:44:15+00:00"
     },
     {
       "titel": "Literatur: Wenig zu spüren",
