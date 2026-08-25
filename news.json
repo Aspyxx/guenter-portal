@@ -1,11 +1,83 @@
 {
-  "aktualisiert": "2026-08-25T14:08:22+00:00",
+  "aktualisiert": "2026-08-25T15:07:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hannover 96 kritisiert Fans nach queerfeindlichen Beleidigungen",
+      "link": "https://www.spiegel.de/sport/fussball/hannover-96-kritisiert-fans-nach-queerfeindlichen-beleidigungen-a-355566bd-833c-4a14-9f80-121be64a9f2a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T15:00:00+00:00"
+    },
+    {
+      "titel": "CTE im Football: Untersuchung zeigt Gehirnschäden bei vielen verstorbenen NFL-Spielern",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/cte-im-football-untersuchung-zeigt-gehirnschaeden-bei-vielen-verstorbenen-nfl-spielern-a-fd626972-d07a-4313-9193-8a92d69d6590#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T14:58:00+00:00"
+    },
+    {
+      "titel": "Rede über Zuwanderung - Steinmeier fordert Absage an völkische Ideologie",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/steinmeier-migration-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T14:55:55+00:00"
+    },
+    {
+      "titel": "Mannheim: Getöteter Zugbegleiter wird mit Gedenktafel geehrt",
+      "link": "https://www.spiegel.de/panorama/justiz/mannheim-getoeteter-zugbegleiter-wird-mit-gedenktafel-geehrt-a-62353539-a9fa-4372-9d9d-6078fa8724e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T14:50:00+00:00"
+    },
+    {
+      "titel": "USA: Trump will Lake Ontario in „Lake America“ umbenennen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-lake-ontario-trump-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T14:45:00+00:00"
+    },
+    {
+      "titel": "SZ-Serie „Ein Anruf bei...“: „Er hat sich furchtbar aufgeregt, es fehlten ihm zehn Gramm“",
+      "link": "https://www.sueddeutsche.de/panorama/brot-baeckermeister-pfaffenhofen-waage-li.3537066",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T14:44:30+00:00"
+    },
+    {
+      "titel": "Die Wirtschaft schöpft wieder Hoffnung - das sind die Gründe",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturdaten-wirtschaft-faq-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T14:28:43+00:00"
+    },
+    {
+      "titel": "Taylor Swift: Wie der Popstar mit Druck und Überforderung umgeht",
+      "link": "https://www.spiegel.de/kultur/musik/taylor-swift-wie-der-popstar-mit-druck-und-ueberforderung-umgeht-a-4bdce977-d0bd-4ce5-93be-d74c2475a671#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T14:24:00+00:00"
+    },
+    {
+      "titel": "CDU: Dennis Radtke wehrt sich gegen rechten Shitstorm nach Migrationsaussagen",
+      "link": "https://www.spiegel.de/politik/deutschland/cdu-dennis-radtke-wehrt-sich-gegen-rechten-shitstorm-nach-migrationsaussagen-a-3b03919a-ddb5-49fe-8f5c-a363f5b4c3e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T14:18:00+00:00"
+    },
+    {
+      "titel": "Provokative Mao-Skulpturen - drei Jahren Gefängnis für chinesischen Künstler",
+      "link": "https://www.tagesschau.de/ausland/asien/china-kunst-justiz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-25T14:16:39+00:00"
+    },
+    {
+      "titel": "Armenien: Ex-Präsident Robert Kotscharjan wegen Korruptionsverdacht festgenommen",
+      "link": "https://www.spiegel.de/ausland/armenien-ex-praesident-robert-kotscharjan-wegen-korruptionsverdacht-festgenommen-a-68b7599c-53cd-4abc-af8e-ad0f71f12cd6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-25T14:16:00+00:00"
+    },
+    {
+      "titel": "Julian Draxler in Katar: „Ich muss mich nicht verstecken“",
+      "link": "https://www.sueddeutsche.de/sport/julian-draxler-fussballkarriere-schalke-psg-katar-li.3536542",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T14:08:33+00:00"
+    },
     {
       "titel": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
       "link": "https://www.tagesschau.de/ausland/asien/usa-sanktionen-iran-handelspartner-100.html",
@@ -37,14 +109,8 @@
       "veroeffentlicht": "2026-08-25T13:25:00+00:00"
     },
     {
-      "titel": "North West hat schon mehr als ein Dutzend Piercings, doch eine Stelle ist tabu",
-      "link": "https://www.spiegel.de/panorama/leute/north-west-hat-schon-mehr-als-ein-dutzend-piercings-doch-eine-stelle-ist-tabu-a-b7275817-0413-48e2-ad43-307125320f4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T13:19:00+00:00"
-    },
-    {
       "titel": "Volkswagen: „Unser Vertrauen in diesen Konzernvorstand ist beschädigt“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/vw-wolfsburg-betriebsversammlung-sparplaene-jobabbau-blume-lies-cavallo-li.3536219",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vw-betriebsversammlung-wolfsburg-sparplaene-jobabbau-blume-lies-cavallo-li.3536219",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T13:13:59+00:00"
     },
@@ -61,16 +127,10 @@
       "veroeffentlicht": "2026-08-25T12:55:19+00:00"
     },
     {
-      "titel": "Volkswagen: VW-Chef Oliver Blume stellt sich Belegschaft – Betriebsrat sieht Vertrauenskrise",
-      "link": "https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-stellt-sich-belegschaft-betriebsrat-sieht-vertrauenskrise-a-c72f4623-7479-42d9-9d27-cc8e863c77ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T12:54:00+00:00"
-    },
-    {
-      "titel": "Swiss Boeing 777 wegen Geruchs auf Azoren umgeleitet",
-      "link": "https://www.spiegel.de/panorama/swiss-boeing-777-wegen-geruchs-auf-azoren-umgeleitet-a-242bc2c3-49a2-437b-a2be-8f17c1bf2d45#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T12:51:00+00:00"
+      "titel": "Kolumne „Hin und weg“: Lieber nackt oder strickend?",
+      "link": "https://www.sueddeutsche.de/reise/kreuzfahrten-deutschland-themenreisen-fkk-urteil-li.3533282",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T12:52:48+00:00"
     },
     {
       "titel": "Volkswagen: Olli muss wieder Herr Blume sein",
@@ -91,28 +151,10 @@
       "veroeffentlicht": "2026-08-25T12:37:18+00:00"
     },
     {
-      "titel": "Leipzig: Friedrich Merz droht Drohnen-Angreifern mit Konsequenzen",
-      "link": "https://www.spiegel.de/politik/deutschland/leipzig-friedrich-merz-droht-drohnen-angreifern-mit-konsequenzen-a-e9e70dfc-34cb-489e-a8b3-41916d806e3e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T12:34:00+00:00"
-    },
-    {
-      "titel": "Polizei: Achtjährige wählt Notruf wegen betrunkener Mutter",
-      "link": "https://www.spiegel.de/panorama/justiz/polizei-achtjaehrige-waehlt-notruf-wegen-betrunkener-mutter-a-47dcbe00-eb52-4a8b-8ad2-ad26eb54ae6f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T12:24:00+00:00"
-    },
-    {
       "titel": "Sorge um Top-Rating: Deutsches Staatsdefizit fast verdoppelt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-staatsdefizit-rentenmarkt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T12:12:42+00:00"
-    },
-    {
-      "titel": "Afghanistan: EU sucht diplomatische Kontakte zu Taliban für Abschiebungen",
-      "link": "https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen-a-e352a4bc-dee4-4c90-8e4a-6c8a90a7e737#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T12:01:00+00:00"
     },
     {
       "titel": "Licht- und Medienkunst \"Nebula\" in den Beelitzer Heilstätten",
@@ -125,48 +167,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-106.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T11:46:43+00:00"
-    },
-    {
-      "titel": "Tornado zieht über Südfrankreich - mehrere Verletzte",
-      "link": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T11:45:35+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Chat-GPT zeigt jetzt Werbung",
-      "link": "https://www.sueddeutsche.de/wirtschaft/werbung-chatgpt-deutschland-li.3536236",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T11:41:55+00:00"
-    },
-    {
-      "titel": "Iran: Wirtschaftskrise? Davon will das Regime nichts wissen",
-      "link": "https://www.sueddeutsche.de/politik/iran-trump-us-sanktionen-wirtschaftskrise-china-oel-li.3536164",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T11:33:45+00:00"
-    },
-    {
-      "titel": "Bundesregierung: Der Kanzler kehrt mit einer Kampfansage aus dem Urlaub zurück",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-berlin-kabinettsklausur-sicherheit-wirtschaft-li.3536169",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T11:11:50+00:00"
-    },
-    {
-      "titel": "Hochtechnologie: Wo die Raumfahrt von morgen ihren Ursprung hat",
-      "link": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/tu-muenchen-raumfahrt-campus-ottobrunn-li.3513824",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T10:25:51+00:00"
-    },
-    {
-      "titel": "Warten auf Reformen: Wirtschaft will Taten sehen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschafts-forderungen-kabinett-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T10:16:15+00:00"
-    },
-    {
-      "titel": "ifo-Index: Die Zuversicht in der Wirtschaft wächst",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T10:06:33+00:00"
     }
   ]
 }
