@@ -1,11 +1,83 @@
 {
-  "aktualisiert": "2026-08-26T08:24:19+00:00",
+  "aktualisiert": "2026-08-26T09:25:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Zugspitze in Bayern: Betreiber drohen mit Anzeige wegen Stickern am Gipfelkreuz",
+      "link": "https://www.spiegel.de/sport/zugspitze-in-bayern-betreiber-drohen-mit-anzeige-wegen-stickern-am-gipfelkreuz-a-ef97d2b3-c6a4-47d2-9ac8-a8b3e9c8e72e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T09:18:00+00:00"
+    },
+    {
+      "titel": "Gao Zhen: Muss in China ins Gefängnis für satirische Mao-Skulpturen",
+      "link": "https://www.spiegel.de/kultur/gao-zhen-muss-in-china-ins-gefaengnis-fuer-satirische-mao-skulpturen-a-865b8d5f-499f-4b4e-9939-e91657486c5e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T09:10:00+00:00"
+    },
+    {
+      "titel": "Zuckersteuer: Lars Klingbeil verwirft Steuer auf Zero-Getränke",
+      "link": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke-a-687f724c-e1ca-40e1-b987-c7afadefb70a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T09:07:00+00:00"
+    },
+    {
+      "titel": "Verschärfter Klimakurs: Grüne planen eine Million neue Bäume für deutsche Städte",
+      "link": "https://www.sueddeutsche.de/politik/gruene-hitze-baeume-staedte-li.3534867",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T09:02:34+00:00"
+    },
+    {
+      "titel": "Günstiges Abnehmrezept: Rauchig-süße Ofenkarotten mit Feta-Frischkäse-Dip für zwei Euro",
+      "link": "https://www.spiegel.de/effilee/guenstiges-abnehmrezept-rauchig-suesse-ofenkarotten-mit-feta-frischkaese-dip-fuer-zwei-euro-a-953d1b5e-90e1-4d2c-9ddf-fa48efc251ec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T08:58:00+00:00"
+    },
+    {
+      "titel": "Wenn männliche Mäuse einsam sind, neigen sie zum Alkohol",
+      "link": "https://www.spiegel.de/wissenschaft/wenn-maennliche-maeuse-einsam-sind-neigen-sie-zum-alkohol-a-128ea40f-e6f5-4148-9ab4-2287524b7608#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T08:54:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX startet verhalten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T08:50:21+00:00"
+    },
+    {
+      "titel": "Bundesregierung berät auf Kabinettsklausur über Klimakrise und Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T08:38:53+00:00"
+    },
+    {
+      "titel": "\"Zombiefeuer\": Wie gefährlich sind diese wiederkehrenden Feuer?",
+      "link": "https://www.tagesschau.de/wissen/klima/waldbraende-zombiefeuer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T08:38:51+00:00"
+    },
+    {
+      "titel": "Nepal: Sturzflut im Himalaja spült Dörfer weg – viele Opfer befürchtet",
+      "link": "https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T08:37:00+00:00"
+    },
+    {
+      "titel": "\"Airport-Malaria\": Ein Toter nach Infektion am Frankfurter Flughafen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-am-frankfurter-flughafen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T08:36:31+00:00"
+    },
+    {
+      "titel": "Klimakrise: Thorsten Frei stemmt sich gegen Aufnahme von Hitzeschutz ins Grundgesetz",
+      "link": "https://www.spiegel.de/politik/deutschland/klimakrise-thorsten-frei-stemmt-sich-gegen-aufnahme-von-hitzeschutz-ins-grundgesetz-a-b0c29497-7d41-4bb1-aaaa-826e5a7efffa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T08:29:00+00:00"
+    },
     {
       "titel": "Manuela Schwesig über Schwarz-Rot: »Die Bundesregierung streitet, anstatt zu helfen«",
       "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss",
@@ -31,64 +103,10 @@
       "veroeffentlicht": "2026-08-26T08:06:00+00:00"
     },
     {
-      "titel": "Erbschaftsteuer: Großerben zahlen 2025 nur zwei Prozent auf Betriebsvermögen",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen-a-c69663b7-28da-4a2d-af0b-45f336f4755b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T08:05:00+00:00"
-    },
-    {
-      "titel": "Berlin: Geht das Trinkwasser aus, wenn der Kohleabbau endet?",
-      "link": "https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet-a-566c71d5-29d2-4672-a891-bc57d276abe7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T07:56:00+00:00"
-    },
-    {
-      "titel": "Champions League: Linzer ASK schafft Wunder gegen Celtic Glasgow",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T07:36:00+00:00"
-    },
-    {
-      "titel": "E-Zigaretten: Studie sieht Potenzial für Rauchentwöhnung durch Vapes",
-      "link": "https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes-a-a158d8dd-6e70-433c-97f4-74829b093aa8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T07:35:00+00:00"
-    },
-    {
-      "titel": "Jürgen Klopp: Hans-Joachim Watzke weist Vorwurf von Uli Hoeneß des »Friendly Takeover« zurück",
-      "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T07:28:00+00:00"
-    },
-    {
-      "titel": "Ingo Schulze wundert sich über DDR-Nostalgie: »Scheint mir so irreal«",
-      "link": "https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal-a-197c7eaa-0785-4715-8145-4bf9fa2e09a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T07:25:00+00:00"
-    },
-    {
-      "titel": "Exportwirtschaft: Stimmung laut Ifo so gut wie zuletzt Anfang 2022",
-      "link": "https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022-a-04c0cc69-9f9c-4623-b1b3-1948606c42af#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T06:59:00+00:00"
-    },
-    {
       "titel": "Pakistan: Tote bei Brand auf Säuglingsstation in Islamabad",
       "link": "https://www.tagesschau.de/ausland/asien/brand-kinderkrankenhaus-islamabad-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T06:36:15+00:00"
-    },
-    {
-      "titel": "Bundesregierung berät auf Kabinettsklausur über Klimakrise und Reformen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T06:05:56+00:00"
-    },
-    {
-      "titel": "Marktbericht: Gute Vorgaben für den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T05:44:55+00:00"
     },
     {
       "titel": "Trauer um Ikone Dolly Parton: \"Sie schuf Lieder und Glück\"",
@@ -113,18 +131,6 @@
       "link": "https://www.tagesschau.de/kommentar/usa-briefwahl-112.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T04:25:23+00:00"
-    },
-    {
-      "titel": "Schattendatenbank: Der Schufa droht eine Sammelklage",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-klage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T04:02:02+00:00"
-    },
-    {
-      "titel": "Beginnt in Namibia der großflächige Phosphatabbau im Meer?",
-      "link": "https://www.tagesschau.de/ausland/afrika/namibia-proteste-phosphatabbau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T03:35:12+00:00"
     },
     {
       "titel": "Markus Lanz: „Mir würde das heute Abend sehr helfen“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/veronica-ferres-carsten-maschmeyer-kim-kardashian-tochter-north-west-starbucks-kanye-west-promis-li.3536443",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T17:20:41+00:00"
-    },
-    {
-      "titel": "Kunstraub in Sizilien: Die Rätsel des Ferragosto-Diebstahls",
-      "link": "https://www.sueddeutsche.de/kultur/kunstraub-messina-museumswaerter-mafia-li.3536533",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T15:33:08+00:00"
     }
   ]
 }
