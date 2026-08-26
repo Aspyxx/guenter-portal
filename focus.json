@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-08-26T04:09:35+00:00",
+  "aktualisiert": "2026-08-26T05:01:20+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Russlands Raketen zerstören die ukrainische Wirtschaft",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
+      "rang": 2,
       "titel": "Der Schufa droht eine Sammelklage",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-klage-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
-    },
-    {
-      "rang": 2,
-      "titel": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-weltraumbahnhof-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     },
     {
       "rang": 3,
