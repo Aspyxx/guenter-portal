@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-26T11:13:10+00:00",
+  "aktualisiert": "2026-08-26T11:49:19+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:48:00+00:00"
+    },
+    {
+      "titel": "Russisches Haus in Berlin - Spionage getarnt als Kulturpflege?",
+      "link": "https://www.tagesschau.de/investigativ/wdr/russisches-haus-spionage-verdacht-russland-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T11:45:12+00:00"
+    },
+    {
+      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte Reisende vermisst",
+      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaya-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T11:44:41+00:00"
+    },
+    {
+      "titel": "Gewerkschaft der Polizei: Warum GdP-Vize Sven Hüber kurz vor dem Abschied hinschmeißt",
+      "link": "https://www.spiegel.de/panorama/gewerkschaft-der-polizei-warum-gdp-vize-sven-hueber-kurz-vor-dem-abschied-hinschmeisst-a-ce9103d5-b924-49b9-adbc-6587ff4f6abe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:40:00+00:00"
+    },
+    {
+      "titel": "Die Linke: Ferat Koçak bastelt einen Bundestags-Ausweis – und hat mächtig Ärger",
+      "link": "https://www.spiegel.de/politik/deutschland/die-linke-ferat-kocak-bastelt-einen-bundestags-ausweis-und-hat-maechtig-aerger-a-1622bf61-43e6-4e68-b274-0beedb2000e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:31:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz wirbt für Aufbruchsstimmung in Deutschland – und Ende des »Missmuts«",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wirbt-fuer-aufbruchsstimmung-in-deutschland-und-ende-des-missmuts-a-e600960d-d92f-40b0-aca2-235622d70cc8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:21:00+00:00"
+    },
+    {
+      "titel": "Dolly Parton ist tot: Bilder aus dem funkelnden Leben der Country-Ikone",
+      "link": "https://www.spiegel.de/kultur/musik/dolly-parton-ist-tot-bilder-aus-dem-funkelnden-leben-der-country-ikone-a-aa067b20-7923-4197-9f81-768167f6b087#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:19:00+00:00"
+    },
+    {
+      "titel": "Einnahmen des Staates aus Erbschaftssteuer auf Rekordniveau",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/erbschaftssteuer-staatseinnahmen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T11:14:19+00:00"
+    },
     {
       "titel": "VW will Management um ein Viertel verkleinern",
       "link": "https://www.spiegel.de/wirtschaft/unternehmen/vw-will-management-um-ein-viertel-verkleinern-a-cd43b928-7d21-4ecf-935d-01ad78b0c047#ref=rss",
@@ -55,30 +103,6 @@
       "veroeffentlicht": "2026-08-26T10:34:00+00:00"
     },
     {
-      "titel": "Ukraine: Kyjiw bemüht sich um Freigabe von Starlink – und verleiht Elon Musk höchsten Orden",
-      "link": "https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden-a-b6543323-facd-499e-9576-655ae6656a68#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T10:26:00+00:00"
-    },
-    {
-      "titel": "Koblenz: Staatsanwaltschaft fordert lebenslange Haft für mutmaßlichen Mörder von Amy Lopez",
-      "link": "https://www.spiegel.de/panorama/justiz/koblenz-staatsanwaltschaft-fordert-lebenslange-haft-fuer-mutmasslichen-moerder-von-amy-lopez-a-35e18669-73ca-45cf-9c18-ab84e6bdd805#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T10:18:00+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV.: »Vanity Fair« nimmt ihn auf die Best-Dressed-Liste",
-      "link": "https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste-a-36f74511-86b0-43b4-8a59-cdfdf2ba5f50#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T10:16:00+00:00"
-    },
-    {
-      "titel": "Frankfurt am Main: Mitarbeiter des Flughafens an Malaria gestorben – fünf weitere infiziert",
-      "link": "https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T10:10:00+00:00"
-    },
-    {
       "titel": "Feuer in Naturschutzgebiet: Erster Verdacht zur Brandursache im Hohen Venn",
       "link": "https://www.tagesschau.de/ausland/europa/brand-hohes-venn-ursache-100.html",
       "quelle": "Tagesschau",
@@ -91,10 +115,10 @@
       "veroeffentlicht": "2026-08-26T09:53:25+00:00"
     },
     {
-      "titel": "Neuhardenberg: Das sagen Friedrich Merz, Lars Klingbeil und Alexander Dobrindt – Livestream",
-      "link": "https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream-a-9bbede26-26dc-4bad-a5b9-66168d843927#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T09:53:00+00:00"
+      "titel": "Leute: Himmlischer Hipster",
+      "link": "https://www.sueddeutsche.de/panorama/papst-leo-fashion-vanity-fair-promis-li.3537308",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T09:40:20+00:00"
     },
     {
       "titel": "Medizin: Die Gürtelrose-Impfung könnte auch das Herz schützen",
@@ -127,24 +151,6 @@
       "veroeffentlicht": "2026-08-26T08:59:24+00:00"
     },
     {
-      "titel": "Marktbericht: DAX startet verhalten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T08:50:21+00:00"
-    },
-    {
-      "titel": "Bundesregierung berät auf Kabinettsklausur über Klimakrise und Reformen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T08:38:53+00:00"
-    },
-    {
-      "titel": "\"Zombiefeuer\": Wie gefährlich sind diese wiederkehrenden Feuer?",
-      "link": "https://www.tagesschau.de/wissen/klima/waldbraende-zombiefeuer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T08:38:51+00:00"
-    },
-    {
       "titel": "USA: Trump-Regierung setzt Visavergabe weltweit aus",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-li.3530667",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/spanien-ceuta-migrationskrise-regierung-marokko-konflikt-li.3535906",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T07:21:11+00:00"
-    },
-    {
-      "titel": "Neuer Beweis: Mathematiker zeigen, wie man das vieldimensionale Chaos ordnet",
-      "link": "https://www.sueddeutsche.de/wissen/mathematik-beweis-talagrand-vermutung-ordnung-chaos-li.3525392",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T06:25:25+00:00"
     }
   ]
 }
