@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-26T13:30:19+00:00",
+  "aktualisiert": "2026-08-26T14:31:52+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Meta Aktie",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-sap-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Prinz Harry und Meghan wieder zurück in England",
       "link": "https://www.tagesschau.de/ausland/europa/england-harry-meghan-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Merz fordert eine \"neue Zuversicht\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-abschluss-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Aufbruchstimmung in Syrien nach Auflösung von kurdischem Militärbündnis",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-aufbruch-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
