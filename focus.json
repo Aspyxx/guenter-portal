@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-26T11:20:32+00:00",
+  "aktualisiert": "2026-08-26T11:52:31+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
+      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte Reisende vermisst",
+      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaya-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
       "titel": "Erster Verdacht zur Brandursache im Hohen Venn",
       "link": "https://www.tagesschau.de/ausland/europa/brand-hohes-venn-ursache-100.html",
       "quelle": "Tagesschau",
       "icon": "🔥"
-    },
-    {
-      "rang": 3,
-      "titel": "Kreml bestätigt Besuch des CIA-Chefs in Moskau",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-cia-ratcliffe-russland-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
