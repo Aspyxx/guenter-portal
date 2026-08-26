@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-26T16:05:39+00:00",
+  "aktualisiert": "2026-08-26T17:41:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Volkswagen: In Zwickau wächst die Angst vor der Werksschließung",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung-a-6ec10595-15be-48ea-ba8e-4934544e0c6c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T17:38:00+00:00"
+    },
+    {
+      "titel": "Andreas Hoppe: Ehemaliger »Tatort«-Kommissar ist tot",
+      "link": "https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T17:26:00+00:00"
+    },
+    {
+      "titel": "Bundesgerichtshof hebt Urteil wegen Schusses mit Silvesterrakete in Berlin auf",
+      "link": "https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-urteil-wegen-schuss-mit-silvesterrakete-in-berlin-auf-a-70ddf1a4-c3db-441c-b609-0399190e9807#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T17:16:00+00:00"
+    },
+    {
+      "titel": "Dolly Parton ist tot: Trauer um Sängerin, Schauspielerin und Wohltäterin",
+      "link": "https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin-a-2834a46a-d04a-4d05-a1dc-86d45b7d83dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T17:05:00+00:00"
+    },
+    {
+      "titel": "Norwegen: Gericht verurteilt zwei deutsche Brandstifter zu Haftstrafen",
+      "link": "https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T16:35:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl in Sachsen-Anhalt: AfD baut Vorsprung aus, auch SPD und Grüne legen laut Umfrage zu",
+      "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu-a-5e3ecb4b-bc25-4a23-87d5-36b0602b9131#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T16:22:00+00:00"
+    },
+    {
+      "titel": "Frankfurt: Zwei Tote durch Malaria am Frankfurter Flughafen",
+      "link": "https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T16:19:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX bleibt auf hohem Niveau",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T16:17:44+00:00"
+    },
+    {
+      "titel": "News des Tages: Kabinettsklausur, Ungarns Haltung zu Russland, Streik gegen die AfD",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T16:15:00+00:00"
+    },
+    {
+      "titel": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T16:07:35+00:00"
+    },
     {
       "titel": "Frankreich: Gericht stuft Brustkrebs von Flugbegleiterin als Berufskrankheit ein",
       "link": "https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss",
@@ -25,46 +85,22 @@
       "veroeffentlicht": "2026-08-26T16:00:07+00:00"
     },
     {
+      "titel": "Tropenkrankheit: Behörde: Zwei Tote durch Malaria am Frankfurter Flughafen",
+      "link": "https://www.sueddeutsche.de/panorama/frankfurt-tote-malaria-flughafen-li.3537714",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T15:52:04+00:00"
+    },
+    {
       "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
       "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T15:49:02+00:00"
     },
     {
-      "titel": "Tim Curry ist tot: Star aus »The Rocky Horror Picture Show« mit 80 Jahren gestorben",
-      "link": "https://www.spiegel.de/kultur/kino/tim-curry-ist-tot-star-aus-the-rocky-horror-picture-show-mit-80-jahren-gestorben-a-56a239f6-a9f3-4ad4-899a-fc33b61c5bd1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T15:49:00+00:00"
-    },
-    {
-      "titel": "Deutsche Industrie: US-Käufer übernehmen immer mehr Unternehmen",
-      "link": "https://www.spiegel.de/wirtschaft/deutsche-industrie-us-kaeufer-uebernehmen-immer-mehr-unternehmen-a-68d4cdf8-fdeb-4e88-b5e6-cceb48c89d43#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T15:45:00+00:00"
-    },
-    {
-      "titel": "Geplante Anschläge auf slowakische Drohnenfabrik: Polizei nimmt mutmaßlichen Saboteur in Hamburg fest",
-      "link": "https://www.spiegel.de/panorama/justiz/geplante-anschlaege-auf-slowakische-drohnenfabrik-polizei-nimmt-mutmasslichen-saboteur-in-hamburg-fest-a-f6c5f388-f954-45cf-952c-1cb8f594b5cb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T15:43:00+00:00"
-    },
-    {
       "titel": "Meta und US-Staaten einigen sich auf Milliarden-Vergleich",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-meta-staaten-einigung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T15:39:21+00:00"
-    },
-    {
-      "titel": "Callcenter: Wie Hotline-Beschäftigte dem Hass der Kunden trotzen",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/callcenter-wie-hotline-beschaeftigte-dem-hass-der-kunden-trotzen-a-c9eb69bd-213c-47ba-adf3-44694208804f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T15:23:00+00:00"
-    },
-    {
-      "titel": "Grönland: Narwale tauchen mit Messgeräten im Eismeer. Was sie mitbringen, ist dramatisch",
-      "link": "https://www.spiegel.de/wissenschaft/groenland-narwale-tauchen-mit-messgeraeten-im-eismeer-was-sie-mitbringen-ist-dramatisch-a-0b774bb6-2386-4421-8f85-d4250e4c2895#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T15:21:00+00:00"
     },
     {
       "titel": "\"Airport-Malaria\": Zwei Tote nach Infektion am Frankfurter Flughafen",
@@ -85,28 +121,28 @@
       "veroeffentlicht": "2026-08-26T15:13:30+00:00"
     },
     {
-      "titel": "Rostock: Universitätsmedizin Rostock stellt Oberarzt wegen Posts in sozialen Netzwerken frei",
-      "link": "https://www.spiegel.de/panorama/rostock-universitaetsmedizin-rostock-stellt-oberarzt-wegen-posts-in-sozialen-netzwerken-frei-a-93378cf7-8bbf-44a7-9a4b-ef95d70dab3b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T14:57:00+00:00"
+      "titel": "Podcast: „Auf den Punkt“: Rennradeln und Rentenpaket: So lief die Klausur der Bundesregierung",
+      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-kabinettsklausur-friedrich-merz-rentenpaket-li.3537336",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T15:02:34+00:00"
     },
     {
-      "titel": "Katastrophe in Nepal: Aufnahmen zeigen Wucht der tödlichen Sturzflut im Himalaya",
-      "link": "https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T14:45:00+00:00"
-    },
-    {
-      "titel": "Streit über Gianni Infantino: Uefa zieht Boykottdrohungen gegen Fifa zurück",
-      "link": "https://www.spiegel.de/sport/fussball/streit-ueber-gianni-infantino-uefa-zieht-boykottdrohungen-gegen-fifa-zurueck-a-3e72e4f1-e0c1-45bd-b49c-46e9c9c28f53#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T14:40:00+00:00"
+      "titel": "Nachruf: Der Mann, der aus Helmut Kohl die „Birne“ machte",
+      "link": "https://www.sueddeutsche.de/kultur/hans-traxler-tot-zeichner-karikaturist-nachruf-birne-titanic-li.3537516",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T14:57:53+00:00"
     },
     {
       "titel": "Eurofurence in Hamburg: Konferenz der Kuscheltiere",
       "link": "https://www.tagesschau.de/kultur/eurofurence-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T14:27:30+00:00"
+    },
+    {
+      "titel": "Klimawandel in den Bergen: Alpenverein richtet dringenden Appell an Kanzler Merz",
+      "link": "https://www.sueddeutsche.de/bayern/dav-merz-brief-klimawandel-berge-wandern-li.3537662",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T14:24:31+00:00"
     },
     {
       "titel": "DDR-Vergangenheit: Polizeigewerkschafter tritt nach Misshandlungsvorwürfen zurück",
@@ -131,42 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/meta-klage-bundesstaaten-vergleich-social-media-facebook-instagram-li.3537606",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T13:33:17+00:00"
-    },
-    {
-      "titel": "Britisches Königshaus: Prinz Harry und Meghan wieder zurück in England",
-      "link": "https://www.tagesschau.de/ausland/europa/england-harry-meghan-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T13:26:07+00:00"
-    },
-    {
-      "titel": "Kabinettsklausur: Regierung kündigt arbeitsreichen Herbst an",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-kabinettsklausur-li.3537332",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T13:25:38+00:00"
-    },
-    {
-      "titel": "Kabinettsklausur: Wie Merz und Klingbeil ihr Heil im „Deutschland von morgen“ suchen",
-      "link": "https://www.sueddeutsche.de/politik/klausur-bundesregierung-neuhardenberg-reformen-merz-klingbeil-li.3537031",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T13:24:22+00:00"
-    },
-    {
-      "titel": "Fränkisches Seenland: Blaualgen-Krise am Franken-Beach",
-      "link": "https://www.sueddeutsche.de/bayern/blaualgen-fraenkisches-seenland-badeverbot-tourismus-li.3537070",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T13:11:55+00:00"
-    },
-    {
-      "titel": "Bundesregierung: Merz ist entschlossen. Ein Teil des Volkes aber auch",
-      "link": "https://www.sueddeutsche.de/meinung/friedrich-merz-regierungskurs-deutschland-kommentar-li.3537028",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T13:07:14+00:00"
-    },
-    {
-      "titel": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
-      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T13:04:49+00:00"
     }
   ]
 }
