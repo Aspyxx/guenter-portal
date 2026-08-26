@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-26T00:00:37+00:00",
+  "aktualisiert": "2026-08-26T01:59:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump droht Kanada mit Umbenennung von Lake Ontario",
+      "link": "https://www.spiegel.de/ausland/donald-trump-droht-kanada-mit-umbenennung-von-lake-ontario-a-047d20b5-6e20-4bbe-892f-be39e5bea88d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T01:34:00+00:00"
+    },
+    {
+      "titel": "Hamburger Dom: Menschen hängen über Stunden im Kettenkarussell fest",
+      "link": "https://www.spiegel.de/panorama/hamburger-dom-menschen-haengen-ueber-stunden-im-kettenkarussell-fest-a-9ae9e515-b9c4-4adf-8f8c-2cef75db7001#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T00:53:00+00:00"
+    },
+    {
+      "titel": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-weltraumbahnhof-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T00:43:47+00:00"
+    },
+    {
+      "titel": "Reaktionen zum Tod von Dolly Parton: So trauert die Promiwelt von Mick Jagger bis Eminem",
+      "link": "https://www.spiegel.de/kultur/musik/reaktionen-zum-tod-von-dolly-parton-so-trauert-die-promiwelt-von-mick-jagger-bis-eminem-a-30bc4675-fcb1-4918-b217-9a93dbe1d895#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T00:12:00+00:00"
+    },
     {
       "titel": "Rudi Assauer: Gericht lässt Anklage gegen Tochter nicht zu",
       "link": "https://www.spiegel.de/panorama/justiz/rudi-assauer-gericht-laesst-anklage-gegen-tochter-nicht-zu-a-17144b9b-51ea-421c-9cb0-91b442c555b0#ref=rss",
@@ -67,24 +91,6 @@
       "veroeffentlicht": "2026-08-25T18:59:23+00:00"
     },
     {
-      "titel": "Rio de Janeiro: Ehemaliger Bürgermeister setzt auf Sicherheits-Show im Wahlkampf",
-      "link": "https://www.spiegel.de/ausland/rio-de-janeiro-ehemaliger-buergermeister-setzt-auf-sicherheits-show-im-wahlkampf-a-c4b2af2b-30f4-4a55-a687-1e2449b7e4d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T18:57:00+00:00"
-    },
-    {
-      "titel": "Österreichs Eishockeynationalteam: Warum die Spielerinnen mit einem WM-Boykott drohen",
-      "link": "https://www.spiegel.de/sport/oesterreichs-eishockeynationalteam-warum-die-spielerinnen-mit-einem-wm-boykott-drohen-a-1900a31d-de0b-4111-a894-83f4fe628e77#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T18:53:00+00:00"
-    },
-    {
-      "titel": "»Die Verräter« auf RTL: Ein funktionierendes Gedächtnis wäre hilfreich.",
-      "link": "https://www.spiegel.de/kultur/die-verraeter-auf-rtl-ein-funktionierendes-gedaechtnis-waere-hilfreich-a-04d9d301-13b2-498f-9de3-c81a1a4246af#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T18:53:00+00:00"
-    },
-    {
       "titel": "Film \"Everytime\" als deutscher Beitrag für Oscar-Verleihung nominiert",
       "link": "https://www.tagesschau.de/kultur/everytime-film-100.html",
       "quelle": "Tagesschau",
@@ -143,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/kultur/kunstraub-messina-museumswaerter-mafia-li.3536533",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T15:33:08+00:00"
-    },
-    {
-      "titel": "Rede über Zuwanderung - Steinmeier fordert Absage an völkische Ideologie",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/steinmeier-migration-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T14:55:55+00:00"
     },
     {
       "titel": "Podcast „Auf den Punkt“: Die Zukunft von VW? Es ist kompliziert",
