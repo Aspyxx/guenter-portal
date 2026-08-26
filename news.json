@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-26T05:17:22+00:00",
+  "aktualisiert": "2026-08-26T06:18:44+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Austerndiebe in Australien: Muscheln im Wert von mehr als 200.000 Euro gestohlen",
+      "link": "https://www.spiegel.de/panorama/justiz/austerndiebe-in-australien-muscheln-im-wert-von-mehr-als-200-000-euro-gestohlen-a-555f5dec-c176-47d3-b5b8-4c1f55466da8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T06:16:00+00:00"
+    },
+    {
+      "titel": "Annalena Baerbock wird Professorin in New York: Jede Menge Missgunst aus Deutschland",
+      "link": "https://www.spiegel.de/politik/deutschland/annalena-baerbock-wird-professorin-in-new-york-jede-menge-missgunst-aus-deutschland-a-bccec639-5e84-4b70-8de7-ef6aa8bccedf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T06:10:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung berät auf Kabinettsklausur über Klimakrise und Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T06:05:56+00:00"
+    },
+    {
+      "titel": "Unionsfraktionschef Frei zeigt sich »irritiert« über ostdeutsche CDU-Ministerpräsidenten",
+      "link": "https://www.spiegel.de/politik/deutschland/unionsfraktionschef-frei-zeigt-sich-irritiert-ueber-ostdeutsche-cdu-ministerpraesidenten-a-efd09d15-a8a3-4063-8a60-b9f67c27a9df#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T06:00:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Gute Vorgaben für den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T05:44:55+00:00"
+    },
+    {
+      "titel": "SpaceX will 100 Milliarden Dollar in neuen Weltraumbahnhof stecken",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/spacex-will-100-milliarden-dollar-in-neuen-weltraumbahnhof-stecken-a-b1ce23e1-09cc-4614-9ece-20d46d43bdc6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T05:38:00+00:00"
+    },
+    {
+      "titel": "US Open: Serena Williams und Carlos Alcaraz begeistern – Zverev scheidet im Mixed aus",
+      "link": "https://www.spiegel.de/sport/tennis/us-open-serena-williams-und-carlos-alcaraz-begeistern-zverev-scheidet-im-mixed-aus-a-a7c65399-ad6b-4093-add6-daa247d3e13a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T05:36:00+00:00"
+    },
+    {
+      "titel": "Leverkusen: 20-Jähriger in erstochen – Täter auf der Flucht",
+      "link": "https://www.spiegel.de/panorama/justiz/leverkusen-20-jaehriger-in-erstochen-taeter-auf-der-flucht-a-419d78c9-0e45-44cc-b43b-01c6cdb5886c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T05:33:00+00:00"
+    },
+    {
+      "titel": "Donald Trump legt US-Kongress Pläne für Atomabkommen mit Saudi-Arabien vor",
+      "link": "https://www.spiegel.de/ausland/donald-trump-legt-us-kongress-plaene-fuer-atomabkommen-mit-saudi-arabien-vor-a-86d653b1-fa5e-4f68-9c7a-6f394365dba9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T05:27:00+00:00"
+    },
+    {
+      "titel": "Irankrieg: Weltwirtschaft verkraftet Energie-Schock besser als befürchtet",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/irankrieg-weltwirtschaft-verkraftet-energie-schock-besser-als-befuerchtet-a-fee46684-e70d-47cc-ab0f-d8dd7c569488#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T05:21:00+00:00"
+    },
     {
       "titel": "Trauer um Ikone Dolly Parton: \"Sie schuf Lieder und Glück\"",
       "link": "https://www.tagesschau.de/kultur/dolly-parton-nachruf-100.html",
@@ -25,28 +85,10 @@
       "veroeffentlicht": "2026-08-26T04:54:42+00:00"
     },
     {
-      "titel": "Berlin: Polizei hat zu wenig geeignete Bewerber - viele scheitern am Deutschtest",
-      "link": "https://www.spiegel.de/panorama/justiz/berlin-polizei-hat-zu-wenig-geeignete-bewerber-viele-scheitern-am-deutschtest-a-af757958-7aef-45b8-ac4a-c6652cd164ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T04:54:00+00:00"
-    },
-    {
-      "titel": "Straße von Hormus in Iran: 20 Tote und Tausende gestrandete Seeleute",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-in-iran-20-tote-und-tausende-gestrandete-seeleute-a-c43bbd5c-d456-4b11-bb39-5a7016667050#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T04:51:00+00:00"
-    },
-    {
       "titel": "Bundespolitik: Bundesregierung berät am zweiten Tag der Kabinettsklausur über Folgen der Hitzewelle",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-kabinett-klausur-neuhardenberg-hitze-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T04:46:49+00:00"
-    },
-    {
-      "titel": "Schwester von totem Senator Graham tritt jetzt tatsächlich bei der US-Kongresswahl an",
-      "link": "https://www.spiegel.de/ausland/schwester-von-totem-senator-graham-tritt-jetzt-tatsaechlich-bei-der-us-kongresswahl-an-a-064336d8-abce-4b15-8b76-93ba5f8665f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T04:42:00+00:00"
     },
     {
       "titel": "Kommentar: Die Verwirrung um die Briefwahl nützt Trump",
@@ -55,40 +97,10 @@
       "veroeffentlicht": "2026-08-26T04:25:23+00:00"
     },
     {
-      "titel": "Armut in Deutschland: Immer mehr Ältere sind wohnungslos",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/armut-in-deutschland-immer-mehr-aeltere-sind-wohnungslos-a-3191e61e-98db-40a1-a1a2-1174aa6e2ad6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T04:08:00+00:00"
-    },
-    {
-      "titel": "Neues Schuljahr: Wie Eltern, Kinder und Lehrkräfte starten können",
-      "link": "https://www.spiegel.de/familie/neues-schuljahr-wie-eltern-kinder-und-lehrkraefte-starten-koennen-a-d991a513-2422-41fe-b070-2e81c7e24977#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T04:03:00+00:00"
-    },
-    {
       "titel": "Schattendatenbank: Der Schufa droht eine Sammelklage",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-klage-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T04:02:02+00:00"
-    },
-    {
-      "titel": "Scheinselbstständigkeit: Warum die eigene GmbH oder GbR Freiberufler nicht schützt",
-      "link": "https://www.spiegel.de/karriere/scheinselbststaendigkeit-warum-die-eigene-gmbh-oder-gbr-freiberufler-nicht-schuetzt-a-a8bbba4a-bf87-4536-ba38-91aab11fcc36#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:55:00+00:00"
-    },
-    {
-      "titel": "Gamescom 2026: Teure Konsolen, Disc-Sterben, KI-Frust – doch es gibt Hoffnung",
-      "link": "https://www.spiegel.de/netzwelt/games/gamescom-2026-teure-konsolen-disc-sterben-ki-frust-doch-es-gibt-hoffnung-a-b14aeaf2-6d23-4043-9a33-f981d39bec36#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:53:00+00:00"
-    },
-    {
-      "titel": "»Die Russen machen regelrecht Jagd auf unsere fahrenden Züge«",
-      "link": "https://www.spiegel.de/ausland/die-russen-machen-regelrecht-jagd-auf-unsere-fahrenden-zuege-a-d9023b68-cf93-4fcc-be75-acc11b991dbf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:53:00+00:00"
     },
     {
       "titel": "Beginnt in Namibia der großflächige Phosphatabbau im Meer?",
@@ -119,18 +131,6 @@
       "link": "https://www.sueddeutsche.de/kultur/dolly-parton-tot-nachruf-nashville-country-li.3537172",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T21:52:31+00:00"
-    },
-    {
-      "titel": "Warken zu Reformvorhaben: \"Nicht im Voraus schon Dinge tot reden\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-tagesthemen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T20:08:17+00:00"
-    },
-    {
-      "titel": "Supreme Court der USA: Was das Urteil zur Briefwahl bedeutet",
-      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T20:01:08+00:00"
     },
     {
       "titel": "Krankheiten: Der kleine Unterschied zwischen älteren und jüngeren Geschwistern",
