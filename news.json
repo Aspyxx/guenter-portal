@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-26T03:19:34+00:00",
+  "aktualisiert": "2026-08-26T04:24:51+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "Gewaltverbrechen mit acht Todesopfern erschüttert Montana",
-      "link": "https://www.spiegel.de/panorama/gewaltverbrechen-mit-acht-todesopfern-erschuettert-montana-a-bc6e1d55-aa29-4461-881e-721cfc3ed028#ref=rss",
+      "titel": "Armut in Deutschland: Immer mehr Ältere sind wohnungslos",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/armut-in-deutschland-immer-mehr-aeltere-sind-wohnungslos-a-3191e61e-98db-40a1-a1a2-1174aa6e2ad6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:12:00+00:00"
+      "veroeffentlicht": "2026-08-26T04:08:00+00:00"
     },
     {
-      "titel": "Forscher: AfD-Regierung würde Wirtschaft in Sachsen-Anhalt bremsen",
-      "link": "https://www.spiegel.de/politik/forscher-afd-regierung-wuerde-wirtschaft-in-sachsen-anhalt-bremsen-a-f0b2c37d-50be-4e71-ba18-7b00e946e2d1#ref=rss",
+      "titel": "Neues Schuljahr: Wie Eltern, Kinder und Lehrkräfte starten können",
+      "link": "https://www.spiegel.de/familie/neues-schuljahr-wie-eltern-kinder-und-lehrkraefte-starten-koennen-a-d991a513-2422-41fe-b070-2e81c7e24977#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T02:29:00+00:00"
+      "veroeffentlicht": "2026-08-26T04:03:00+00:00"
+    },
+    {
+      "titel": "Schattendatenbank: Der Schufa droht eine Sammelklage",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-klage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T04:02:02+00:00"
+    },
+    {
+      "titel": "Scheinselbstständigkeit: Warum die eigene GmbH oder GbR Freiberufler nicht schützt",
+      "link": "https://www.spiegel.de/karriere/scheinselbststaendigkeit-warum-die-eigene-gmbh-oder-gbr-freiberufler-nicht-schuetzt-a-a8bbba4a-bf87-4536-ba38-91aab11fcc36#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T03:55:00+00:00"
+    },
+    {
+      "titel": "»Die Russen machen regelrecht Jagd auf unsere fahrenden Züge«",
+      "link": "https://www.spiegel.de/ausland/die-russen-machen-regelrecht-jagd-auf-unsere-fahrenden-zuege-a-d9023b68-cf93-4fcc-be75-acc11b991dbf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T03:53:00+00:00"
+    },
+    {
+      "titel": "Gamescom 2026: Teure Konsolen, Disc-Sterben, KI-Frust – doch es gibt Hoffnung",
+      "link": "https://www.spiegel.de/netzwelt/games/gamescom-2026-teure-konsolen-disc-sterben-ki-frust-doch-es-gibt-hoffnung-a-b14aeaf2-6d23-4043-9a33-f981d39bec36#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T03:53:00+00:00"
+    },
+    {
+      "titel": "Kino: Warum sollte man sich heute noch Stummfilme anschauen?",
+      "link": "https://www.spiegel.de/kultur/kino-warum-sollte-man-sich-heute-noch-stummfilme-anschauen-a-7ed05abd-a69d-4e86-ab7f-e054e5655b77#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T03:40:00+00:00"
+    },
+    {
+      "titel": "News: Klimakrise, Wahlkampf in Sachsen-Anhalt, Irankonflikt, Donald Trump",
+      "link": "https://www.spiegel.de/politik/deutschland/news-klimakrise-wahlkampf-in-sachsen-anhalt-irankonflikt-donald-trump-a-d3361197-7e77-49f9-b331-3d2ccd64173e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T03:40:00+00:00"
+    },
+    {
+      "titel": "Beginnt in Namibia der großflächige Phosphatabbau im Meer?",
+      "link": "https://www.tagesschau.de/ausland/afrika/namibia-proteste-phosphatabbau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T03:35:12+00:00"
+    },
+    {
+      "titel": "Wenn Sie plötzlich nicht mehr über Ihr eigenes Depot bestimmen können",
+      "link": "https://www.spiegel.de/wirtschaft/service/wenn-sie-ploetzlich-nicht-mehr-ueber-ihr-eigenes-depot-bestimmen-koennen-a-dd3a620d-0d40-4edc-bec1-ccfcae9321c8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T03:30:00+00:00"
+    },
+    {
+      "titel": "Vermögen verschenken: Wie Sie Aktien und ETFs rechtzeitig steuerfrei übertragen",
+      "link": "https://www.spiegel.de/wirtschaft/service/vermoegen-verschenken-wie-sie-aktien-und-etfs-rechtzeitig-steuerfrei-uebertragen-a-191940b5-748d-4421-b51f-73664ada2ea1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T03:30:00+00:00"
+    },
+    {
+      "titel": "Kurdische SDF in Syrien verkündet Auflösung",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T03:28:47+00:00"
     },
     {
       "titel": "Markus Lanz: „Mir würde das heute Abend sehr helfen“",
@@ -31,40 +91,10 @@
       "veroeffentlicht": "2026-08-26T02:05:36+00:00"
     },
     {
-      "titel": "Donald Trump droht Kanada mit Umbenennung von Lake Ontario",
-      "link": "https://www.spiegel.de/ausland/donald-trump-droht-kanada-mit-umbenennung-von-lake-ontario-a-047d20b5-6e20-4bbe-892f-be39e5bea88d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T01:34:00+00:00"
-    },
-    {
-      "titel": "Hamburger Dom: Menschen hängen über Stunden im Kettenkarussell fest",
-      "link": "https://www.spiegel.de/panorama/hamburger-dom-menschen-haengen-ueber-stunden-im-kettenkarussell-fest-a-9ae9e515-b9c4-4adf-8f8c-2cef75db7001#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T00:53:00+00:00"
-    },
-    {
       "titel": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-weltraumbahnhof-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T00:43:47+00:00"
-    },
-    {
-      "titel": "Reaktionen zum Tod von Dolly Parton: So trauert die Promiwelt von Mick Jagger bis Eminem",
-      "link": "https://www.spiegel.de/kultur/musik/reaktionen-zum-tod-von-dolly-parton-so-trauert-die-promiwelt-von-mick-jagger-bis-eminem-a-30bc4675-fcb1-4918-b217-9a93dbe1d895#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T00:12:00+00:00"
-    },
-    {
-      "titel": "Rudi Assauer: Gericht lässt Anklage gegen Tochter nicht zu",
-      "link": "https://www.spiegel.de/panorama/justiz/rudi-assauer-gericht-laesst-anklage-gegen-tochter-nicht-zu-a-17144b9b-51ea-421c-9cb0-91b442c555b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T22:57:00+00:00"
-    },
-    {
-      "titel": "Dolly Parton ist tot: Die Frau, vor der sich ganz Amerika verneigt",
-      "link": "https://www.spiegel.de/kultur/musik/dolly-parton-ist-tot-die-frau-vor-der-sich-ganz-amerika-verneigt-a-b6a84a08-9de0-4b87-87fd-6e5a98920385#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T22:24:00+00:00"
     },
     {
       "titel": "Pop: Wer soll die Welt jetzt heilen?",
@@ -79,22 +109,10 @@
       "veroeffentlicht": "2026-08-25T20:08:17+00:00"
     },
     {
-      "titel": "FC Bayern München: Max Eberl verlängert vorzeitig bis 2029",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-verlaengert-vorzeitig-bis-2029-a-7a32a0a3-6a97-4c7c-b640-02cbfbd7bda9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T20:07:00+00:00"
-    },
-    {
       "titel": "Supreme Court der USA: Was das Urteil zur Briefwahl bedeutet",
       "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-25T20:01:08+00:00"
-    },
-    {
-      "titel": "Ghislaine Maxwell: Vertraute von Jeffrey Epstein muss Gefängnisstrafe weiter absitzen",
-      "link": "https://www.spiegel.de/ausland/ghislaine-maxwell-vertraute-von-jeffrey-epstein-muss-gefaengnisstrafe-weiter-absitzen-a-e686978c-083b-4131-a430-4ee99b83836a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T19:55:00+00:00"
     },
     {
       "titel": "Krankheiten: Der kleine Unterschied zwischen älteren und jüngeren Geschwistern",
@@ -131,24 +149,6 @@
       "link": "https://www.sueddeutsche.de/panorama/veronica-ferres-carsten-maschmeyer-kim-kardashian-tochter-north-west-starbucks-kanye-west-promis-li.3536443",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T17:20:41+00:00"
-    },
-    {
-      "titel": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T16:46:12+00:00"
-    },
-    {
-      "titel": "Firmen werden optimistischer - das Beispiel des Kabelherstellers Lapp",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lapp-kabel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T16:39:48+00:00"
-    },
-    {
-      "titel": "Marktbericht: Konjunkturdaten bringen neuen Schwung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T16:23:57+00:00"
     },
     {
       "titel": "USA: Trump will Lake Ontario in „Lake America“ umbenennen",
