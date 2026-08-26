@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-26T07:33:29+00:00",
+  "aktualisiert": "2026-08-26T08:24:19+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Manuela Schwesig über Schwarz-Rot: »Die Bundesregierung streitet, anstatt zu helfen«",
+      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T08:22:00+00:00"
+    },
+    {
+      "titel": "USA: Trump-Regierung setzt Visavergabe weltweit aus",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T08:18:39+00:00"
+    },
+    {
+      "titel": "Migranten und Forscher warnen vor AfD-Regierung in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/protestaktion-magdeburg-migranten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T08:15:59+00:00"
+    },
+    {
+      "titel": "Ungarn stuft Russland als »Bedrohung« ein",
+      "link": "https://www.spiegel.de/ausland/ungarn-stuft-russland-als-bedrohung-ein-a-13b1b66d-1eb7-4b77-955f-75aa4bf34644#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T08:06:00+00:00"
+    },
+    {
+      "titel": "Erbschaftsteuer: Großerben zahlen 2025 nur zwei Prozent auf Betriebsvermögen",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-grosserben-zahlen-2025-nur-zwei-prozent-auf-betriebsvermoegen-a-c69663b7-28da-4a2d-af0b-45f336f4755b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T08:05:00+00:00"
+    },
+    {
+      "titel": "Berlin: Geht das Trinkwasser aus, wenn der Kohleabbau endet?",
+      "link": "https://www.spiegel.de/wissenschaft/berlin-geht-das-trinkwasser-aus-wenn-der-kohleabbau-endet-a-566c71d5-29d2-4672-a891-bc57d276abe7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T07:56:00+00:00"
+    },
+    {
+      "titel": "Champions League: Linzer ASK schafft Wunder gegen Celtic Glasgow",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-linzer-ask-schafft-wunder-gegen-celtic-glasgow-a-04feb339-bc1c-43f8-beef-4d0a47973e79#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T07:36:00+00:00"
+    },
+    {
+      "titel": "E-Zigaretten: Studie sieht Potenzial für Rauchentwöhnung durch Vapes",
+      "link": "https://www.spiegel.de/gesundheit/e-zigaretten-studie-sieht-potenzial-fuer-rauchentwoehnung-durch-vapes-a-a158d8dd-6e70-433c-97f4-74829b093aa8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T07:35:00+00:00"
+    },
     {
       "titel": "Jürgen Klopp: Hans-Joachim Watzke weist Vorwurf von Uli Hoeneß des »Friendly Takeover« zurück",
       "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss",
@@ -25,46 +73,10 @@
       "veroeffentlicht": "2026-08-26T06:59:00+00:00"
     },
     {
-      "titel": "Krankenhaus in Pakistan: Mindestens 14 sterben bei Brand in Säuglingsstation",
-      "link": "https://www.spiegel.de/panorama/krankenhaus-in-pakistan-mindestens-14-babys-sterben-bei-brand-a-03f34c74-ce57-4784-a08b-5b21a413607c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T06:42:00+00:00"
-    },
-    {
-      "titel": "AfD: Abgeordneter erhebt in internem Brief an Weidel schwere Vorwürfe",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-abgeordneter-erhebt-in-internem-brief-an-weidel-schwere-vorwuerfe-a-281c9169-1862-4e42-821e-1659516f0642#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T06:40:00+00:00"
-    },
-    {
-      "titel": "Jetzt gibt es auch aus Hessen Widerstand gegen Klingbeils Zuckersteuer",
-      "link": "https://www.spiegel.de/wirtschaft/service/jetzt-gibt-es-auch-aus-hessen-widerstand-gegen-klingbeils-zuckersteuer-a-849b5921-c1b6-4542-b349-f4339a5c4a24#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T06:37:00+00:00"
-    },
-    {
       "titel": "Pakistan: Tote bei Brand auf Säuglingsstation in Islamabad",
       "link": "https://www.tagesschau.de/ausland/asien/brand-kinderkrankenhaus-islamabad-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T06:36:15+00:00"
-    },
-    {
-      "titel": "USA: CIA-Chef John Ratcliffe für Geheimdienstkontakte in Moskau",
-      "link": "https://www.spiegel.de/ausland/usa-cia-chef-john-ratcliffe-fuer-geheimdienstkontakte-in-moskau-a-31f53155-1be5-4cec-b2bf-478c91f2f3dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T06:18:00+00:00"
-    },
-    {
-      "titel": "Austerndiebe in Australien: Muscheln im Wert von mehr als 200.000 Euro gestohlen",
-      "link": "https://www.spiegel.de/panorama/justiz/austerndiebe-in-australien-muscheln-im-wert-von-mehr-als-200-000-euro-gestohlen-a-555f5dec-c176-47d3-b5b8-4c1f55466da8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T06:16:00+00:00"
-    },
-    {
-      "titel": "Annalena Baerbock wird Professorin in New York: Jede Menge Missgunst aus Deutschland",
-      "link": "https://www.spiegel.de/politik/deutschland/annalena-baerbock-wird-professorin-in-new-york-jede-menge-missgunst-aus-deutschland-a-bccec639-5e84-4b70-8de7-ef6aa8bccedf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T06:10:00+00:00"
     },
     {
       "titel": "Bundesregierung berät auf Kabinettsklausur über Klimakrise und Reformen",
@@ -115,12 +127,6 @@
       "veroeffentlicht": "2026-08-26T03:35:12+00:00"
     },
     {
-      "titel": "Kurdische SDF in Syrien verkündet Auflösung",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T03:28:47+00:00"
-    },
-    {
       "titel": "Markus Lanz: „Mir würde das heute Abend sehr helfen“",
       "link": "https://www.sueddeutsche.de/medien/markus-lanz-thorsten-frei-streit-cdu-union-friedrich-merz-brosius-gersdorf-li.3537040",
       "quelle": "Süddeutsche",
@@ -155,12 +161,6 @@
       "link": "https://www.sueddeutsche.de/panorama/veronica-ferres-carsten-maschmeyer-kim-kardashian-tochter-north-west-starbucks-kanye-west-promis-li.3536443",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T17:20:41+00:00"
-    },
-    {
-      "titel": "USA: Trump will Lake Ontario in „Lake America“ umbenennen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-lake-ontario-trump-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T15:36:00+00:00"
     },
     {
       "titel": "Kunstraub in Sizilien: Die Rätsel des Ferragosto-Diebstahls",
