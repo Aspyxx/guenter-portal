@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-26T17:41:14+00:00",
+  "aktualisiert": "2026-08-26T19:19:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,94 @@
   },
   "meldungen": [
     {
-      "titel": "Volkswagen: In Zwickau wächst die Angst vor der Werksschließung",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung-a-6ec10595-15be-48ea-ba8e-4934544e0c6c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T17:38:00+00:00"
+      "titel": "Nepal: Viele Tote nach Sturzflut – Hunderte Einheimische und Touristen vermisst",
+      "link": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T19:08:13+00:00"
     },
     {
-      "titel": "Andreas Hoppe: Ehemaliger »Tatort«-Kommissar ist tot",
-      "link": "https://www.spiegel.de/kultur/andreas-hoppe-ehemaliger-tatort-kommissar-ist-tot-a-dbf33e03-2cb2-4db4-8784-34a152cb9559#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T17:26:00+00:00"
+      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
+      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T19:07:47+00:00"
     },
     {
-      "titel": "Bundesgerichtshof hebt Urteil wegen Schusses mit Silvesterrakete in Berlin auf",
-      "link": "https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-urteil-wegen-schuss-mit-silvesterrakete-in-berlin-auf-a-70ddf1a4-c3db-441c-b609-0399190e9807#ref=rss",
+      "titel": "Raheem Sterling: Englands Ex-Nationalspieler wegen Lachgas und Unfall",
+      "link": "https://www.spiegel.de/panorama/justiz/raheem-sterling-englands-ex-nationalspieler-wegen-lachgas-und-unfall-a-fcb42f90-a59a-4f59-85a3-852532112354#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T17:16:00+00:00"
+      "veroeffentlicht": "2026-08-26T19:03:00+00:00"
     },
     {
-      "titel": "Dolly Parton ist tot: Trauer um Sängerin, Schauspielerin und Wohltäterin",
-      "link": "https://www.spiegel.de/panorama/dolly-parton-ist-tot-trauer-um-saengerin-schauspielerin-und-wohltaeterin-a-2834a46a-d04a-4d05-a1dc-86d45b7d83dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T17:05:00+00:00"
+      "titel": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
+      "link": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T18:55:17+00:00"
     },
     {
-      "titel": "Norwegen: Gericht verurteilt zwei deutsche Brandstifter zu Haftstrafen",
-      "link": "https://www.spiegel.de/panorama/justiz/norwegen-gericht-verurteilt-zwei-deutsche-brandstifter-zu-haftstrafen-a-877cc06b-5073-4886-8d50-0b857ca56360#ref=rss",
+      "titel": "Nepal: Was die tödliche Sturzflut ausgelöst haben könnte",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/nepal-was-die-toedliche-sturzflut-ausgeloest-haben-koennte-a-71c1cdec-d0a1-4f08-94ca-7b0ef4a1391a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T16:35:00+00:00"
+      "veroeffentlicht": "2026-08-26T18:54:00+00:00"
     },
     {
-      "titel": "Landtagswahl in Sachsen-Anhalt: AfD baut Vorsprung aus, auch SPD und Grüne legen laut Umfrage zu",
-      "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-afd-baut-vorsprung-aus-auch-spd-und-gruene-legen-laut-umfrage-zu-a-5e3ecb4b-bc25-4a23-87d5-36b0602b9131#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T16:22:00+00:00"
+      "titel": "Bundespolitik: Schulze zu Siegmund im TV-Duell: „Ich habe geliefert und nicht gelabert“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-spd-gruene-schulze-siegmund-tv-duell-mdr-umfrage-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T18:44:08+00:00"
     },
     {
-      "titel": "Frankfurt: Zwei Tote durch Malaria am Frankfurter Flughafen",
-      "link": "https://www.spiegel.de/wissenschaft/frankfurt-zwei-tote-durch-malaria-am-frankfurter-flughafen-a-1d86afb1-9538-4574-873b-6d9dd863acd2#ref=rss",
+      "titel": "Wirtschaftsvertreter fordern Tempo und konkretes Handeln nach Kabinettsklausur",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T18:31:54+00:00"
+    },
+    {
+      "titel": "Avengers: Hollywoodstars fordern Freilassung palästinensischer Gefangener",
+      "link": "https://www.spiegel.de/kultur/avengers-hollywoodstars-fordern-freilassung-palaestinensischer-gefangener-a-029471a5-f56c-4a36-800e-85afb791f1b5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T16:19:00+00:00"
+      "veroeffentlicht": "2026-08-26T18:29:00+00:00"
+    },
+    {
+      "titel": "Christina Block: Angeklagte bezeichnet sich als »völlig überraschte Mutter« vor Gericht",
+      "link": "https://www.spiegel.de/panorama/christina-block-angeklagte-bezeichnet-sich-als-voellig-ueberraschte-mutter-vor-gericht-a-41b245d8-3212-4b15-80cd-6ebff427b205#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T18:28:00+00:00"
+    },
+    {
+      "titel": "Finanzminister plant Zuckersteuer: Gaga, Dada, Klingbeil - Kolumne",
+      "link": "https://www.spiegel.de/politik/deutschland/finanzminister-plant-zuckersteuer-gaga-dada-klingbeil-kolumne-a-a94479a3-efa3-4abd-83a7-5d0c92ab3e5f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T18:26:00+00:00"
+    },
+    {
+      "titel": "Russland-Ukraine-Krieg: Offenbar Tote bei Angriff auf Kleinbus im russisch besetzten Luhansk",
+      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-tote-bei-angriff-auf-kleinbus-im-russisch-besetzen-luhansk-a-d6c5cca6-1f88-4df3-bbf9-7d96a5c7f363#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T18:19:00+00:00"
+    },
+    {
+      "titel": "Dom in Hamburg: Wie ein 22-Jähriger stundenlang im Kettenkarussell festsaß",
+      "link": "https://www.spiegel.de/panorama/dom-in-hamburg-wie-ein-22-jaehriger-stundenlang-im-kettenkarussell-festsass-a-178d0baa-49dc-4965-8210-e3122cae5486#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T18:16:00+00:00"
+    },
+    {
+      "titel": "»Bravo« wird 70: Quiz zum Geburtstag des Jugendmagazins",
+      "link": "https://www.spiegel.de/kultur/bravo-wird-70-quiz-zum-geburtstag-des-jugendmagazins-a-79abd690-7ae0-4cb9-bb6e-a5a03e517be1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T18:07:00+00:00"
+    },
+    {
+      "titel": "Iran-Krise: Stimmen aus einem Land im Überlebensmodus",
+      "link": "https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus-a-44a6a57c-322a-403e-9e17-444762581de7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T17:47:00+00:00"
+    },
+    {
+      "titel": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
+      "link": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T17:45:49+00:00"
     },
     {
       "titel": "Marktbericht: DAX bleibt auf hohem Niveau",
@@ -55,28 +103,10 @@
       "veroeffentlicht": "2026-08-26T16:17:44+00:00"
     },
     {
-      "titel": "News des Tages: Kabinettsklausur, Ungarns Haltung zu Russland, Streik gegen die AfD",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T16:15:00+00:00"
-    },
-    {
       "titel": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T16:07:35+00:00"
-    },
-    {
-      "titel": "Frankreich: Gericht stuft Brustkrebs von Flugbegleiterin als Berufskrankheit ein",
-      "link": "https://www.spiegel.de/karriere/frankreich-gericht-stuft-brustkrebs-von-flugbegleiterin-als-berufskrankheit-ein-a-a0dd8137-5401-41c9-a041-75523f253d91#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T16:02:00+00:00"
-    },
-    {
-      "titel": "Nepal: Viele Tote nach Sturzflut – Hunderte Einheimische und Touristen vermisst",
-      "link": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T16:01:26+00:00"
     },
     {
       "titel": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
@@ -91,12 +121,6 @@
       "veroeffentlicht": "2026-08-26T15:52:04+00:00"
     },
     {
-      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
-      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T15:49:02+00:00"
-    },
-    {
       "titel": "Meta und US-Staaten einigen sich auf Milliarden-Vergleich",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-meta-staaten-einigung-100.html",
       "quelle": "Tagesschau",
@@ -109,18 +133,6 @@
       "veroeffentlicht": "2026-08-26T15:17:08+00:00"
     },
     {
-      "titel": "Wie Menschen in Iran unter den wirtschaftlichen Kriegsfolgen leiden",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-alltag-folgen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T15:15:31+00:00"
-    },
-    {
-      "titel": "Deutsches Kino auf dem Vormarsch bei den Oscars",
-      "link": "https://www.tagesschau.de/kultur/vorauswahl-oscars-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T15:13:30+00:00"
-    },
-    {
       "titel": "Podcast: „Auf den Punkt“: Rennradeln und Rentenpaket: So lief die Klausur der Bundesregierung",
       "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-kabinettsklausur-friedrich-merz-rentenpaket-li.3537336",
       "quelle": "Süddeutsche",
@@ -131,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/kultur/hans-traxler-tot-zeichner-karikaturist-nachruf-birne-titanic-li.3537516",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T14:57:53+00:00"
-    },
-    {
-      "titel": "Eurofurence in Hamburg: Konferenz der Kuscheltiere",
-      "link": "https://www.tagesschau.de/kultur/eurofurence-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T14:27:30+00:00"
     },
     {
       "titel": "Klimawandel in den Bergen: Alpenverein richtet dringenden Appell an Kanzler Merz",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/christina-block-aussage-prozess-entfuehrung-block-house-gerhard-delling-li.3533949",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T13:34:16+00:00"
-    },
-    {
-      "titel": "Social-Media-Prozess: Meta und US-Bundesstaaten einigen sich auf Vergleich",
-      "link": "https://www.sueddeutsche.de/wirtschaft/meta-klage-bundesstaaten-vergleich-social-media-facebook-instagram-li.3537606",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T13:33:17+00:00"
     }
   ]
 }
