@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-26T01:59:30+00:00",
+  "aktualisiert": "2026-08-26T03:19:34+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Gewaltverbrechen mit acht Todesopfern erschüttert Montana",
+      "link": "https://www.spiegel.de/panorama/gewaltverbrechen-mit-acht-todesopfern-erschuettert-montana-a-bc6e1d55-aa29-4461-881e-721cfc3ed028#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T03:12:00+00:00"
+    },
+    {
+      "titel": "Forscher: AfD-Regierung würde Wirtschaft in Sachsen-Anhalt bremsen",
+      "link": "https://www.spiegel.de/politik/forscher-afd-regierung-wuerde-wirtschaft-in-sachsen-anhalt-bremsen-a-f0b2c37d-50be-4e71-ba18-7b00e946e2d1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T02:29:00+00:00"
+    },
+    {
+      "titel": "Markus Lanz: „Mir würde das heute Abend sehr helfen“",
+      "link": "https://www.sueddeutsche.de/medien/markus-lanz-thorsten-frei-streit-cdu-union-friedrich-merz-brosius-gersdorf-li.3537040",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T02:28:43+00:00"
+    },
+    {
+      "titel": "Kommentar: Verunsicherung vor US-Briefwahl als Strategie",
+      "link": "https://www.tagesschau.de/kommentar/usa-briefwahl-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T02:05:36+00:00"
+    },
     {
       "titel": "Donald Trump droht Kanada mit Umbenennung von Lake Ontario",
       "link": "https://www.spiegel.de/ausland/donald-trump-droht-kanada-mit-umbenennung-von-lake-ontario-a-047d20b5-6e20-4bbe-892f-be39e5bea88d#ref=rss",
@@ -73,16 +97,10 @@
       "veroeffentlicht": "2026-08-25T19:55:00+00:00"
     },
     {
-      "titel": "Oscars: »Everytime« geht für Deutschland als bester internationaler Film ins Rennen",
-      "link": "https://www.spiegel.de/kultur/kino/oscars-everytime-geht-fuer-deutschland-als-bester-internationaler-film-ins-rennen-a-47941f40-e6ef-45bf-a857-27afdd8a6d6e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T19:38:00+00:00"
-    },
-    {
-      "titel": "Christina Block vor Gericht: »Ich bekam den Unmut meines Vaters zu spüren«",
-      "link": "https://www.spiegel.de/panorama/christina-block-vor-gericht-ich-bekam-den-unmut-meines-vaters-zu-spueren-a-54e33be8-4616-4fa2-a30e-86711a9211ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-25T19:07:00+00:00"
+      "titel": "Krankheiten: Der kleine Unterschied zwischen älteren und jüngeren Geschwistern",
+      "link": "https://www.sueddeutsche.de/gesundheit/geburtsreihenfolge-einfluss-gesundheit-li.3528088",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-25T19:00:37+00:00"
     },
     {
       "titel": "Musik: US-Countrysängerin Dolly Parton ist tot",
@@ -133,12 +151,6 @@
       "veroeffentlicht": "2026-08-25T16:23:57+00:00"
     },
     {
-      "titel": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-anschlag-drohnenfabrik-vereitelt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T15:42:47+00:00"
-    },
-    {
       "titel": "USA: Trump will Lake Ontario in „Lake America“ umbenennen",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-lake-ontario-trump-li.3530667",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/podcast-nachrichten-auf-den-punkt-vw-autoindustrie-stellenabbau-werksschliessungen-li.3536467",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T14:53:19+00:00"
-    },
-    {
-      "titel": "SZ-Serie „Ein Anruf bei...“: „Er hat sich furchtbar aufgeregt, es fehlten ihm zehn Gramm“",
-      "link": "https://www.sueddeutsche.de/panorama/brot-baeckermeister-pfaffenhofen-waage-li.3537066",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T14:44:30+00:00"
-    },
-    {
-      "titel": "Julian Draxler in Katar: „Ich muss mich nicht verstecken“",
-      "link": "https://www.sueddeutsche.de/sport/julian-draxler-fussballkarriere-schalke-psg-katar-li.3536542",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T14:08:33+00:00"
     }
   ]
 }
