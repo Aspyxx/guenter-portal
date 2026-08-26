@@ -1,11 +1,101 @@
 {
-  "aktualisiert": "2026-08-26T13:17:55+00:00",
+  "aktualisiert": "2026-08-26T14:27:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Meta und US-Staaten einigen sich auf Milliarden-Vergleich",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-meta-staaten-einigung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T14:10:42+00:00"
+    },
+    {
+      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
+      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T14:06:47+00:00"
+    },
+    {
+      "titel": "Donald Trump: Diese Orte hat der US-Präsident schon umbenannt",
+      "link": "https://www.spiegel.de/ausland/donald-trump-diese-orte-hat-der-us-praesident-schon-umbenannt-a-55f50548-ae5a-41db-8761-d11347866167#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T14:06:00+00:00"
+    },
+    {
+      "titel": "Péter Nádas ist tot: »Parallelgeschichten«-Autor wurde 83 Jahre alt",
+      "link": "https://www.spiegel.de/kultur/literatur/peter-nadas-ist-tot-parallelgeschichten-autor-wurde-83-jahre-alt-a-292efa0a-dae5-4a9d-8440-cac9e4003dfe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T14:04:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt und Mecklenburg-Vorpommern: Viele Bürgermeister berichten von Beleidigungen, Bedrohungen und Angriffen",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-und-mecklenburg-vorpommern-viele-buergermeister-berichten-von-beleidigungen-bedrohungen-und-angriffen-a-0e5e7e3e-a4ea-4d45-b305-05937ce9f20b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T14:04:00+00:00"
+    },
+    {
+      "titel": "Prinz Harry und Meghan zurück in England: Das Paar ist wieder in Großbritannien gelandet",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/prinz-harry-und-meghan-zurueck-in-england-das-paar-ist-wieder-in-grossbritannien-gelandet-a-d82ba7d3-8ca0-4c62-b132-51b92f2b00f4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T13:48:00+00:00"
+    },
+    {
+      "titel": "FC Bayern: Max Eberl ist ein Sportvorstand im Lasso",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-muenchen-vertrag-sportvorstand-max-eberl-li.3537350",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T13:44:29+00:00"
+    },
+    {
+      "titel": "Prozess gegen Christina Block: Sie will sich noch ein letztes Mal erklären",
+      "link": "https://www.sueddeutsche.de/panorama/christina-block-aussage-prozess-entfuehrung-block-house-gerhard-delling-li.3533949",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T13:34:16+00:00"
+    },
+    {
+      "titel": "Social-Media-Prozess: Meta und US-Bundesstaaten einigen sich auf Vergleich",
+      "link": "https://www.sueddeutsche.de/wirtschaft/meta-klage-bundesstaaten-vergleich-social-media-facebook-instagram-li.3537606",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T13:33:17+00:00"
+    },
+    {
+      "titel": "Kanada und USA: Was Europa aus Mark Carneys Konflikt mit Trump lernen kann",
+      "link": "https://www.spiegel.de/ausland/kanada-und-usa-was-europa-aus-mark-carneys-konflikt-mit-trump-lernen-kann-a-ef7c0d0f-5f57-4998-aa86-0cd93c16f2ad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T13:31:00+00:00"
+    },
+    {
+      "titel": "Britisches Königshaus: Prinz Harry und Meghan wieder zurück in England",
+      "link": "https://www.tagesschau.de/ausland/europa/england-harry-meghan-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T13:26:07+00:00"
+    },
+    {
+      "titel": "Kabinettsklausur: Regierung kündigt arbeitsreichen Herbst an",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-kabinettsklausur-li.3537332",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T13:25:38+00:00"
+    },
+    {
+      "titel": "Kabinettsklausur: Wie Merz und Klingbeil ihr Heil im „Deutschland von morgen“ suchen",
+      "link": "https://www.sueddeutsche.de/politik/klausur-bundesregierung-neuhardenberg-reformen-merz-klingbeil-li.3537031",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T13:24:22+00:00"
+    },
+    {
+      "titel": "Meta: Facebook-Konzern zahlt ‌mehr als 16 Milliarden Dollar an US-Bundesstaaten – Vergleich im Prozess um Gefahren durch Social-Media-Gefahren",
+      "link": "https://www.spiegel.de/netzwelt/meta-facebook-konzern-zahlt-mehr-als-16-milliarden-dollar-an-us-bundesstaaten-vergleich-im-prozess-um-gefahren-durch-social-media-gefahren-a-3840fffe-f181-4cbe-9567-cca76c27b9a1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T13:21:00+00:00"
+    },
+    {
+      "titel": "Fränkisches Seenland: Blaualgen-Krise am Franken-Beach",
+      "link": "https://www.sueddeutsche.de/bayern/blaualgen-fraenkisches-seenland-badeverbot-tourismus-li.3537070",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T13:11:55+00:00"
+    },
     {
       "titel": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
       "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html",
@@ -25,16 +115,16 @@
       "veroeffentlicht": "2026-08-26T13:00:00+00:00"
     },
     {
-      "titel": "GEAS: Zweifel an Alexander Dobrindts »Meilenstein« im Kampf gegen unerlaubte Zuwanderung",
+      "titel": "Linzer ASK in der Champions League: „Ein unglaubliches Spiel für eine österreichische Mannschaft“",
+      "link": "https://www.sueddeutsche.de/sport/celtic-linzer-ask-champions-league-li.3537319",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T12:48:49+00:00"
+    },
+    {
+      "titel": "Migration: Trotz EU-Asylreform weiter viele unerfasste Einreisen nach Deutschland",
       "link": "https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung-a-532d5bd8-a620-4724-bab6-920aaf5294fe#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-26T12:46:00+00:00"
-    },
-    {
-      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
-      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T12:45:09+00:00"
     },
     {
       "titel": "Zweifel wegen des KI-Booms: SAP-Aktie tief im Minus",
@@ -55,28 +145,10 @@
       "veroeffentlicht": "2026-08-26T12:22:00+00:00"
     },
     {
-      "titel": "Grüne Transformation: Wie innovative Unternehmen das Gerede vom Stillstand widerlegen",
-      "link": "https://www.spiegel.de/politik/gruene-transformation-wie-innovative-unternehmen-das-gerede-vom-stillstand-widerlegen-a-131e3c49-959c-417a-b6ad-b81d6af5a8e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T12:20:00+00:00"
-    },
-    {
       "titel": "Syrien: Die kurdische Armee gibt es nicht mehr",
       "link": "https://www.sueddeutsche.de/politik/syrien-sdf-kurden-aufloesung-li.3537377",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T12:12:54+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Merz beharrt auf Abschaffung der „Rente mit 63“",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-kabinett-klausur-neuhardenberg-rente-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T12:08:22+00:00"
-    },
-    {
-      "titel": "AfD in Sachsen-Anhalt: Warum Migranten aus Angst vor Siegmund streiken",
-      "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-warum-migranten-aus-angst-vor-siegmund-streiken-a-a14c7d63-f927-404f-a62e-709da649ead2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T12:03:00+00:00"
     },
     {
       "titel": "Aufbruchstimmung in Syrien nach Auflösung von kurdischem Militärbündnis",
@@ -85,88 +157,16 @@
       "veroeffentlicht": "2026-08-26T12:02:04+00:00"
     },
     {
-      "titel": "Goch: Gefundene Patrone explodiert in Hand – 16-Jähriger verletzt",
-      "link": "https://www.spiegel.de/panorama/goch-gefundene-patrone-explodiert-in-hand-16-jaehriger-verletzt-a-2f1cfa9b-2bc0-455d-a853-75d72b3d16a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:58:00+00:00"
-    },
-    {
-      "titel": "Zuckersteuer: Vizekanzler Klingbeil vollzieht Kehrtwende bei Zero-Getränken",
-      "link": "https://www.spiegel.de/politik/deutschland/zuckersteuer-vizekanzler-klingbeil-vollzieht-kehrtwende-bei-zero-getraenken-a-42730ecd-df25-4301-94b6-671692cc65cd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:57:00+00:00"
-    },
-    {
-      "titel": "Fußball-Transfers: João Palhinha kehrt nach Lissabon zurück – Wechsel perfekt",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-transfers-joao-palhinha-kehrt-nach-lissabon-zurueck-wechsel-perfekt-a-b0de40b9-b043-4e25-844e-c52a22f58f1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:55:00+00:00"
-    },
-    {
-      "titel": "FAZ-Korrespondent Michael Martens: Ein Haftbefehl aus Moskau, weil er in Belgrad eine Frage stellte",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-russland-faz-korrespondent-michael-martens-haftbefehl-li.3537275",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T11:52:44+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:48:00+00:00"
-    },
-    {
       "titel": "Russisches Haus in Berlin - Spionage getarnt als Kulturpflege?",
       "link": "https://www.tagesschau.de/investigativ/wdr/russisches-haus-spionage-verdacht-russland-berlin-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T11:45:12+00:00"
     },
     {
-      "titel": "Prozess um Dreifachmord in Zwiesel beginnt: Mann soll Opfer erstickt, erschlagen und teilweise zerstückelt haben",
-      "link": "https://www.sueddeutsche.de/bayern/prozessbeginn-zwiesel-dreifachmord-deggendorf-li.3537462",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T11:25:01+00:00"
-    },
-    {
       "titel": "Einnahmen des Staates aus Erbschaftssteuer auf Rekordniveau",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/erbschaftssteuer-staatseinnahmen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T11:14:19+00:00"
-    },
-    {
-      "titel": "Hybrider Krieg: Wie einst beim KGB: Warum das Russische Haus für den Kreml so nützlich sein könnte",
-      "link": "https://www.sueddeutsche.de/politik/das-russische-haus-berlin-geheimdienst-spionage-hybrider-krieg-sicherheit-russland-li.3536461",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T11:01:07+00:00"
-    },
-    {
-      "titel": "Deutschlands Exporteure fassen Mut",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-zuversicht-eu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T10:49:09+00:00"
-    },
-    {
-      "titel": "Hitze in Deutschland: Warum die Japaner die deutsche Klimaanlagen-Abstinenz nicht verstehen",
-      "link": "https://www.sueddeutsche.de/politik/hitze-deutschland-japan-klimaanlagen-li.3536043",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T10:35:42+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Nein, der MDR muss nicht still sein, wenn die AfD ihn abschaffen will",
-      "link": "https://www.sueddeutsche.de/meinung/mdr-sachsen-anhalt-afd-wahl-kommentar-li.3537344",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T10:26:44+00:00"
-    },
-    {
-      "titel": "Feuer in Naturschutzgebiet: Erster Verdacht zur Brandursache im Hohen Venn",
-      "link": "https://www.tagesschau.de/ausland/europa/brand-hohes-venn-ursache-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T10:05:59+00:00"
-    },
-    {
-      "titel": "Leute: Harry und Meghan sollen schon in Großbritannien sein",
-      "link": "https://www.sueddeutsche.de/panorama/harry-meghan-rueckkehr-grossbritannien-exil-royals-promis-li.3537308",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T09:40:20+00:00"
     }
   ]
 }
