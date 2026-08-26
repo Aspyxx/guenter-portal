@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-26T20:16:38+00:00",
+  "aktualisiert": "2026-08-26T23:47:22+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bombenentschärfung Berlin Neukölln",
-      "link": "https://www.tagesschau.de/investigativ/wdr/russisches-haus-spionage-verdacht-russland-berlin-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
       "link": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Wirtschaftsvertreter fordern Tempo und konkretes Handeln nach Kabinettsklausur",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-106.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
+      "link": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
