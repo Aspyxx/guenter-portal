@@ -1,11 +1,77 @@
 {
-  "aktualisiert": "2026-08-26T10:18:33+00:00",
+  "aktualisiert": "2026-08-26T11:13:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "VW will Management um ein Viertel verkleinern",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/vw-will-management-um-ein-viertel-verkleinern-a-cd43b928-7d21-4ecf-935d-01ad78b0c047#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:12:00+00:00"
+    },
+    {
+      "titel": "Hybrider Krieg: Wie einst beim KGB: Warum das Russische Haus für den Kreml so nützlich sein könnte",
+      "link": "https://www.sueddeutsche.de/politik/das-russische-haus-berlin-geheimdienst-spionage-hybrider-krieg-sicherheit-russland-li.3536461",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T11:01:07+00:00"
+    },
+    {
+      "titel": "Nepal: Hunderte Einheimische und Touristen nach Sturzflut vermisst",
+      "link": "https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:01:00+00:00"
+    },
+    {
+      "titel": "Deutschlands Exporteure fassen Mut",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-zuversicht-eu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T10:49:09+00:00"
+    },
+    {
+      "titel": "Belgien: Führt die Spur des Waldbrands Naturschutzgebiet Hohes Venn in die Landwirtschaft?",
+      "link": "https://www.spiegel.de/panorama/justiz/belgien-fuehrt-die-spur-des-waldbrands-naturschutzgebiet-hohes-venn-in-die-landwirtschaft-a-54760195-78ca-4848-8965-29a59f823b7f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T10:47:00+00:00"
+    },
+    {
+      "titel": "Hitze in Deutschland: Warum die Japaner die deutsche Klimaanlagen-Abstinenz nicht verstehen",
+      "link": "https://www.sueddeutsche.de/politik/hitze-deutschland-japan-klimaanlagen-li.3536043",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T10:35:42+00:00"
+    },
+    {
+      "titel": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
+      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T10:34:26+00:00"
+    },
+    {
+      "titel": "Cornwall: Forschende zeichnen Todeskampf eines Wals im Stellnetz auf",
+      "link": "https://www.spiegel.de/wissenschaft/cornwall-forschende-zeichnen-todeskampf-eines-wals-im-stellnetz-auf-a-2b941f6f-8cb2-4253-9283-6503987bda76#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T10:34:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Kyjiw bemüht sich um Freigabe von Starlink – und verleiht Elon Musk höchsten Orden",
+      "link": "https://www.spiegel.de/ausland/ukraine-kyjiw-bemueht-sich-um-freigabe-von-starlink-und-verleiht-elon-musk-hoechsten-orden-a-b6543323-facd-499e-9576-655ae6656a68#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T10:26:00+00:00"
+    },
+    {
+      "titel": "Koblenz: Staatsanwaltschaft fordert lebenslange Haft für mutmaßlichen Mörder von Amy Lopez",
+      "link": "https://www.spiegel.de/panorama/justiz/koblenz-staatsanwaltschaft-fordert-lebenslange-haft-fuer-mutmasslichen-moerder-von-amy-lopez-a-35e18669-73ca-45cf-9c18-ab84e6bdd805#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T10:18:00+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV.: »Vanity Fair« nimmt ihn auf die Best-Dressed-Liste",
+      "link": "https://www.spiegel.de/kultur/papst-leo-xiv-vanity-fair-nimmt-ihn-auf-die-best-dressed-liste-a-36f74511-86b0-43b4-8a59-cdfdf2ba5f50#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T10:16:00+00:00"
+    },
     {
       "titel": "Frankfurt am Main: Mitarbeiter des Flughafens an Malaria gestorben – fünf weitere infiziert",
       "link": "https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss",
@@ -31,22 +97,10 @@
       "veroeffentlicht": "2026-08-26T09:53:00+00:00"
     },
     {
-      "titel": "Internationalen Fahndern gelingt Schlag gegen mutmaßliche Liebesbetrüger",
-      "link": "https://www.spiegel.de/panorama/justiz/internationalen-fahndern-gelingt-schlag-gegen-mutmassliche-liebesbetrueger-a-9f096fed-88a9-401a-a47d-c4dbbd8bdbea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T09:40:00+00:00"
-    },
-    {
-      "titel": "KI-Gefahren: Bill Gates will globale KI-Regeln mit Xi Jinping diskutieren",
-      "link": "https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T09:35:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl Sachsen-Anhalt: Wie die AfD die Hochschulen umbauen will",
-      "link": "https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will-a-9fc3f5ea-1c61-4280-bafe-54b3581fb23f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T09:33:00+00:00"
+      "titel": "Medizin: Die Gürtelrose-Impfung könnte auch das Herz schützen",
+      "link": "https://www.sueddeutsche.de/gesundheit/guertelrose-impfung-schutz-herzkrankheiten-li.3536490",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T09:35:15+00:00"
     },
     {
       "titel": "Viele Opfer bei Sturzflut in Nepal und Tibet befürchtet",
@@ -61,34 +115,16 @@
       "veroeffentlicht": "2026-08-26T09:26:52+00:00"
     },
     {
-      "titel": "»Berufsverbote« in den 1970ern: Wie der Staat vermeintliche Verfassungsfeinde verfolgte",
-      "link": "https://www.spiegel.de/geschichte/berufsverbote-in-den-1970ern-der-kampf-des-joachim-kroll-a-5885abf9-7134-4ff8-bde0-c5a1c0d70512#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T09:24:00+00:00"
-    },
-    {
-      "titel": "Zugspitze in Bayern: Betreiber drohen mit Anzeige wegen Stickern am Gipfelkreuz",
-      "link": "https://www.spiegel.de/sport/zugspitze-in-bayern-betreiber-drohen-mit-anzeige-wegen-stickern-am-gipfelkreuz-a-ef97d2b3-c6a4-47d2-9ac8-a8b3e9c8e72e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T09:18:00+00:00"
-    },
-    {
-      "titel": "Gao Zhen: Muss in China ins Gefängnis für satirische Mao-Skulpturen",
-      "link": "https://www.spiegel.de/kultur/gao-zhen-muss-in-china-ins-gefaengnis-fuer-satirische-mao-skulpturen-a-865b8d5f-499f-4b4e-9939-e91657486c5e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T09:10:00+00:00"
-    },
-    {
-      "titel": "Zuckersteuer: Lars Klingbeil verwirft Steuer auf Zero-Getränke",
-      "link": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-lars-klingbeil-verwirft-steuer-auf-zero-getraenke-a-687f724c-e1ca-40e1-b987-c7afadefb70a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T09:07:00+00:00"
-    },
-    {
       "titel": "Verschärfter Klimakurs: Grüne planen eine Million neue Bäume für deutsche Städte",
       "link": "https://www.sueddeutsche.de/politik/gruene-hitze-baeume-staedte-li.3534867",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T09:02:34+00:00"
+    },
+    {
+      "titel": "Australien: Ein Wettlauf gegen die Zeit, um diese putzigen Vögel zu retten",
+      "link": "https://www.sueddeutsche.de/panorama/zwergpinguine-australien-impfung-vogelgrippe-li.3535885",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T08:59:24+00:00"
     },
     {
       "titel": "Marktbericht: DAX startet verhalten",
@@ -109,22 +145,10 @@
       "veroeffentlicht": "2026-08-26T08:38:51+00:00"
     },
     {
-      "titel": "\"Airport-Malaria\": Ein Toter nach Infektion am Frankfurter Flughafen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-am-frankfurter-flughafen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T08:36:31+00:00"
-    },
-    {
       "titel": "USA: Trump-Regierung setzt Visavergabe weltweit aus",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T08:18:39+00:00"
-    },
-    {
-      "titel": "Migranten und Forscher warnen vor AfD-Regierung in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/protestaktion-magdeburg-migranten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T08:15:59+00:00"
     },
     {
       "titel": "Ausflüge mit der Bahn: Überfüllte Züge – und man kann nichts dagegen tun?",
@@ -133,40 +157,16 @@
       "veroeffentlicht": "2026-08-26T08:06:54+00:00"
     },
     {
+      "titel": "Migration: Spanien bittet die EU um Hilfe in der Ceuta-Krise",
+      "link": "https://www.sueddeutsche.de/politik/spanien-ceuta-migrationskrise-regierung-marokko-konflikt-li.3535906",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T07:21:11+00:00"
+    },
+    {
       "titel": "Neuer Beweis: Mathematiker zeigen, wie man das vieldimensionale Chaos ordnet",
       "link": "https://www.sueddeutsche.de/wissen/mathematik-beweis-talagrand-vermutung-ordnung-chaos-li.3525392",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T06:25:25+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Bundesregierung berät am zweiten Tag der Kabinettsklausur über Folgen der Hitzewelle",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-kabinett-klausur-neuhardenberg-hitze-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T04:46:49+00:00"
-    },
-    {
-      "titel": "Markus Lanz: „Mir würde das heute Abend sehr helfen“",
-      "link": "https://www.sueddeutsche.de/medien/markus-lanz-thorsten-frei-streit-cdu-union-friedrich-merz-brosius-gersdorf-li.3537040",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T02:28:43+00:00"
-    },
-    {
-      "titel": "Pop: Wer soll die Welt jetzt heilen?",
-      "link": "https://www.sueddeutsche.de/kultur/dolly-parton-tot-nachruf-nashville-country-li.3537172",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T21:52:31+00:00"
-    },
-    {
-      "titel": "Krankheiten: Der kleine Unterschied zwischen älteren und jüngeren Geschwistern",
-      "link": "https://www.sueddeutsche.de/gesundheit/geburtsreihenfolge-einfluss-gesundheit-li.3528088",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T19:00:37+00:00"
-    },
-    {
-      "titel": "Musik: US-Countrysängerin Dolly Parton ist tot",
-      "link": "https://www.sueddeutsche.de/kultur/dolly-parton-tot-li.3537170",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T18:59:23+00:00"
     }
   ]
 }
