@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-26T19:19:46+00:00",
+  "aktualisiert": "2026-08-26T22:30:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nvidia verdoppelt innerhalb eines Jahres Umsatz und Gewinn",
+      "link": "https://www.spiegel.de/wirtschaft/nvidia-verdoppelt-innerhalb-eines-jahres-umsatz-und-gewinn-a-c33ff1ce-d12c-4c24-befb-b3f48e7798fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T22:04:00+00:00"
+    },
+    {
+      "titel": "Nach Sturzflut: Zahl der Toten in Nepal und China steigt auf mindestens 160",
+      "link": "https://www.spiegel.de/ausland/nach-sturzflut-zahl-der-toten-in-nepal-und-china-steigt-auf-mindestens-160-a-9a562b20-c0ec-4909-bf2e-3df9a1b26959#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T21:16:00+00:00"
+    },
+    {
+      "titel": "US-Präsdient Donald Trump verbietet bestimmte ausländische Technik im US-Stromnetz",
+      "link": "https://www.spiegel.de/ausland/us-praesdient-donald-trump-verbietet-bestimmte-auslaendische-technik-im-us-stromnetz-a-de995d37-48e8-465e-873a-82a4f94706e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T21:07:00+00:00"
+    },
+    {
+      "titel": "»Ausbruchs-Zauberer« in Spanien gefasst – nach vierter Flucht aus dem Gefängnis",
+      "link": "https://www.spiegel.de/panorama/ausbruchs-zauberer-in-spanien-gefasst-nach-vierter-flucht-aus-dem-gefaengnis-a-c958a11e-9e5e-471d-93b1-6906fd9ae20c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T20:32:00+00:00"
+    },
     {
       "titel": "Nepal: Viele Tote nach Sturzflut – Hunderte Einheimische und Touristen vermisst",
       "link": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
@@ -67,34 +91,16 @@
       "veroeffentlicht": "2026-08-26T18:26:00+00:00"
     },
     {
-      "titel": "Russland-Ukraine-Krieg: Offenbar Tote bei Angriff auf Kleinbus im russisch besetzten Luhansk",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-tote-bei-angriff-auf-kleinbus-im-russisch-besetzen-luhansk-a-d6c5cca6-1f88-4df3-bbf9-7d96a5c7f363#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T18:19:00+00:00"
-    },
-    {
-      "titel": "Dom in Hamburg: Wie ein 22-Jähriger stundenlang im Kettenkarussell festsaß",
-      "link": "https://www.spiegel.de/panorama/dom-in-hamburg-wie-ein-22-jaehriger-stundenlang-im-kettenkarussell-festsass-a-178d0baa-49dc-4965-8210-e3122cae5486#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T18:16:00+00:00"
-    },
-    {
-      "titel": "»Bravo« wird 70: Quiz zum Geburtstag des Jugendmagazins",
-      "link": "https://www.spiegel.de/kultur/bravo-wird-70-quiz-zum-geburtstag-des-jugendmagazins-a-79abd690-7ae0-4cb9-bb6e-a5a03e517be1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T18:07:00+00:00"
-    },
-    {
-      "titel": "Iran-Krise: Stimmen aus einem Land im Überlebensmodus",
-      "link": "https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus-a-44a6a57c-322a-403e-9e17-444762581de7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T17:47:00+00:00"
-    },
-    {
       "titel": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
       "link": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T17:45:49+00:00"
+    },
+    {
+      "titel": "Literatur: Großmeister des Erzählens",
+      "link": "https://www.sueddeutsche.de/kultur/peter-nadas-schriftsteller-tot-ungarn-literatur-li.3537567",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T17:35:29+00:00"
     },
     {
       "titel": "Marktbericht: DAX bleibt auf hohem Niveau",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-muenchen-vertrag-sportvorstand-max-eberl-li.3537350",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T13:44:29+00:00"
-    },
-    {
-      "titel": "Prozess gegen Christina Block: Sie will sich noch ein letztes Mal erklären",
-      "link": "https://www.sueddeutsche.de/panorama/christina-block-aussage-prozess-entfuehrung-block-house-gerhard-delling-li.3533949",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T13:34:16+00:00"
     }
   ]
 }
