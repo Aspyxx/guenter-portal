@@ -1,11 +1,113 @@
 {
-  "aktualisiert": "2026-08-26T11:49:19+00:00",
+  "aktualisiert": "2026-08-26T13:17:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
+      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T13:04:49+00:00"
+    },
+    {
+      "titel": "Nepal: Mehrere Tote nach Sturzflut - Hunderte Einheimische und Touristen vermisst",
+      "link": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T13:03:14+00:00"
+    },
+    {
+      "titel": "Hans Traxler ist tot: Karikaturist und »Titanic«-Mitbegründer mit 97 Jahren gestorben",
+      "link": "https://www.spiegel.de/kultur/literatur/hans-traxler-ist-tot-karikaturist-und-titanic-mitbegruender-mit-97-jahren-gestorben-a-f7f4d370-bc6c-422c-b83b-ece90e9b9d86#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "titel": "GEAS: Zweifel an Alexander Dobrindts »Meilenstein« im Kampf gegen unerlaubte Zuwanderung",
+      "link": "https://www.spiegel.de/panorama/geas-zweifel-an-alexander-dobrindts-meilenstein-im-kampf-gegen-unerlaubte-zuwanderung-a-532d5bd8-a620-4724-bab6-920aaf5294fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T12:46:00+00:00"
+    },
+    {
+      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
+      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T12:45:09+00:00"
+    },
+    {
+      "titel": "Zweifel wegen des KI-Booms: SAP-Aktie tief im Minus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-sap-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T12:43:15+00:00"
+    },
+    {
+      "titel": "Nach Kabinettsklausur: Merz fordert eine \"neue Zuversicht\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-abschluss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T12:34:29+00:00"
+    },
+    {
+      "titel": "FC Bayern München und Max Eberl: Warum der Vertrag jetzt doch verlängert wird",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-warum-der-vertrag-jetzt-doch-verlaengert-wird-a-e567c73c-309e-430e-8bb0-9321d14daf7f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T12:22:00+00:00"
+    },
+    {
+      "titel": "Grüne Transformation: Wie innovative Unternehmen das Gerede vom Stillstand widerlegen",
+      "link": "https://www.spiegel.de/politik/gruene-transformation-wie-innovative-unternehmen-das-gerede-vom-stillstand-widerlegen-a-131e3c49-959c-417a-b6ad-b81d6af5a8e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T12:20:00+00:00"
+    },
+    {
+      "titel": "Syrien: Die kurdische Armee gibt es nicht mehr",
+      "link": "https://www.sueddeutsche.de/politik/syrien-sdf-kurden-aufloesung-li.3537377",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T12:12:54+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Merz beharrt auf Abschaffung der „Rente mit 63“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-kabinett-klausur-neuhardenberg-rente-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T12:08:22+00:00"
+    },
+    {
+      "titel": "AfD in Sachsen-Anhalt: Warum Migranten aus Angst vor Siegmund streiken",
+      "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-warum-migranten-aus-angst-vor-siegmund-streiken-a-a14c7d63-f927-404f-a62e-709da649ead2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T12:03:00+00:00"
+    },
+    {
+      "titel": "Aufbruchstimmung in Syrien nach Auflösung von kurdischem Militärbündnis",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-aufbruch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T12:02:04+00:00"
+    },
+    {
+      "titel": "Goch: Gefundene Patrone explodiert in Hand – 16-Jähriger verletzt",
+      "link": "https://www.spiegel.de/panorama/goch-gefundene-patrone-explodiert-in-hand-16-jaehriger-verletzt-a-2f1cfa9b-2bc0-455d-a853-75d72b3d16a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:58:00+00:00"
+    },
+    {
+      "titel": "Zuckersteuer: Vizekanzler Klingbeil vollzieht Kehrtwende bei Zero-Getränken",
+      "link": "https://www.spiegel.de/politik/deutschland/zuckersteuer-vizekanzler-klingbeil-vollzieht-kehrtwende-bei-zero-getraenken-a-42730ecd-df25-4301-94b6-671692cc65cd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:57:00+00:00"
+    },
+    {
+      "titel": "Fußball-Transfers: João Palhinha kehrt nach Lissabon zurück – Wechsel perfekt",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-transfers-joao-palhinha-kehrt-nach-lissabon-zurueck-wechsel-perfekt-a-b0de40b9-b043-4e25-844e-c52a22f58f1a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T11:55:00+00:00"
+    },
+    {
+      "titel": "FAZ-Korrespondent Michael Martens: Ein Haftbefehl aus Moskau, weil er in Belgrad eine Frage stellte",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-russland-faz-korrespondent-michael-martens-haftbefehl-li.3537275",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T11:52:44+00:00"
+    },
     {
       "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
       "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
@@ -19,34 +121,10 @@
       "veroeffentlicht": "2026-08-26T11:45:12+00:00"
     },
     {
-      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte Reisende vermisst",
-      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaya-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T11:44:41+00:00"
-    },
-    {
-      "titel": "Gewerkschaft der Polizei: Warum GdP-Vize Sven Hüber kurz vor dem Abschied hinschmeißt",
-      "link": "https://www.spiegel.de/panorama/gewerkschaft-der-polizei-warum-gdp-vize-sven-hueber-kurz-vor-dem-abschied-hinschmeisst-a-ce9103d5-b924-49b9-adbc-6587ff4f6abe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:40:00+00:00"
-    },
-    {
-      "titel": "Die Linke: Ferat Koçak bastelt einen Bundestags-Ausweis – und hat mächtig Ärger",
-      "link": "https://www.spiegel.de/politik/deutschland/die-linke-ferat-kocak-bastelt-einen-bundestags-ausweis-und-hat-maechtig-aerger-a-1622bf61-43e6-4e68-b274-0beedb2000e1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:31:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz wirbt für Aufbruchsstimmung in Deutschland – und Ende des »Missmuts«",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wirbt-fuer-aufbruchsstimmung-in-deutschland-und-ende-des-missmuts-a-e600960d-d92f-40b0-aca2-235622d70cc8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:21:00+00:00"
-    },
-    {
-      "titel": "Dolly Parton ist tot: Bilder aus dem funkelnden Leben der Country-Ikone",
-      "link": "https://www.spiegel.de/kultur/musik/dolly-parton-ist-tot-bilder-aus-dem-funkelnden-leben-der-country-ikone-a-aa067b20-7923-4197-9f81-768167f6b087#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:19:00+00:00"
+      "titel": "Prozess um Dreifachmord in Zwiesel beginnt: Mann soll Opfer erstickt, erschlagen und teilweise zerstückelt haben",
+      "link": "https://www.sueddeutsche.de/bayern/prozessbeginn-zwiesel-dreifachmord-deggendorf-li.3537462",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T11:25:01+00:00"
     },
     {
       "titel": "Einnahmen des Staates aus Erbschaftssteuer auf Rekordniveau",
@@ -55,22 +133,10 @@
       "veroeffentlicht": "2026-08-26T11:14:19+00:00"
     },
     {
-      "titel": "VW will Management um ein Viertel verkleinern",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/vw-will-management-um-ein-viertel-verkleinern-a-cd43b928-7d21-4ecf-935d-01ad78b0c047#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:12:00+00:00"
-    },
-    {
       "titel": "Hybrider Krieg: Wie einst beim KGB: Warum das Russische Haus für den Kreml so nützlich sein könnte",
       "link": "https://www.sueddeutsche.de/politik/das-russische-haus-berlin-geheimdienst-spionage-hybrider-krieg-sicherheit-russland-li.3536461",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T11:01:07+00:00"
-    },
-    {
-      "titel": "Nepal: Hunderte Einheimische und Touristen nach Sturzflut vermisst",
-      "link": "https://www.spiegel.de/ausland/nepal-hunderte-touristen-nach-sturzflut-vermisst-a-31da589a-af62-4b2b-982f-e7cb635e6456#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T11:01:00+00:00"
     },
     {
       "titel": "Deutschlands Exporteure fassen Mut",
@@ -79,28 +145,16 @@
       "veroeffentlicht": "2026-08-26T10:49:09+00:00"
     },
     {
-      "titel": "Belgien: Führt die Spur des Waldbrands Naturschutzgebiet Hohes Venn in die Landwirtschaft?",
-      "link": "https://www.spiegel.de/panorama/justiz/belgien-fuehrt-die-spur-des-waldbrands-naturschutzgebiet-hohes-venn-in-die-landwirtschaft-a-54760195-78ca-4848-8965-29a59f823b7f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T10:47:00+00:00"
-    },
-    {
       "titel": "Hitze in Deutschland: Warum die Japaner die deutsche Klimaanlagen-Abstinenz nicht verstehen",
       "link": "https://www.sueddeutsche.de/politik/hitze-deutschland-japan-klimaanlagen-li.3536043",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T10:35:42+00:00"
     },
     {
-      "titel": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
-      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T10:34:26+00:00"
-    },
-    {
-      "titel": "Cornwall: Forschende zeichnen Todeskampf eines Wals im Stellnetz auf",
-      "link": "https://www.spiegel.de/wissenschaft/cornwall-forschende-zeichnen-todeskampf-eines-wals-im-stellnetz-auf-a-2b941f6f-8cb2-4253-9283-6503987bda76#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T10:34:00+00:00"
+      "titel": "Sachsen-Anhalt: Nein, der MDR muss nicht still sein, wenn die AfD ihn abschaffen will",
+      "link": "https://www.sueddeutsche.de/meinung/mdr-sachsen-anhalt-afd-wahl-kommentar-li.3537344",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T10:26:44+00:00"
     },
     {
       "titel": "Feuer in Naturschutzgebiet: Erster Verdacht zur Brandursache im Hohen Venn",
@@ -109,64 +163,10 @@
       "veroeffentlicht": "2026-08-26T10:05:59+00:00"
     },
     {
-      "titel": "Ungarn stuft Russland als Bedrohung ein - wegen des Ukraine-Kriegs",
-      "link": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T09:53:25+00:00"
-    },
-    {
-      "titel": "Leute: Himmlischer Hipster",
-      "link": "https://www.sueddeutsche.de/panorama/papst-leo-fashion-vanity-fair-promis-li.3537308",
+      "titel": "Leute: Harry und Meghan sollen schon in Großbritannien sein",
+      "link": "https://www.sueddeutsche.de/panorama/harry-meghan-rueckkehr-grossbritannien-exil-royals-promis-li.3537308",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T09:40:20+00:00"
-    },
-    {
-      "titel": "Medizin: Die Gürtelrose-Impfung könnte auch das Herz schützen",
-      "link": "https://www.sueddeutsche.de/gesundheit/guertelrose-impfung-schutz-herzkrankheiten-li.3536490",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T09:35:15+00:00"
-    },
-    {
-      "titel": "Viele Opfer bei Sturzflut in Nepal und Tibet befürchtet",
-      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaya-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T09:29:22+00:00"
-    },
-    {
-      "titel": "Kreml bestätigt Besuch des CIA-Chefs in Moskau",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-cia-ratcliffe-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T09:26:52+00:00"
-    },
-    {
-      "titel": "Verschärfter Klimakurs: Grüne planen eine Million neue Bäume für deutsche Städte",
-      "link": "https://www.sueddeutsche.de/politik/gruene-hitze-baeume-staedte-li.3534867",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T09:02:34+00:00"
-    },
-    {
-      "titel": "Australien: Ein Wettlauf gegen die Zeit, um diese putzigen Vögel zu retten",
-      "link": "https://www.sueddeutsche.de/panorama/zwergpinguine-australien-impfung-vogelgrippe-li.3535885",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T08:59:24+00:00"
-    },
-    {
-      "titel": "USA: Trump-Regierung setzt Visavergabe weltweit aus",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-visa-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T08:18:39+00:00"
-    },
-    {
-      "titel": "Ausflüge mit der Bahn: Überfüllte Züge – und man kann nichts dagegen tun?",
-      "link": "https://www.sueddeutsche.de/bayern/zuege-oberland-regionalbahn-bayern-sommerferien-li.3532811",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T08:06:54+00:00"
-    },
-    {
-      "titel": "Migration: Spanien bittet die EU um Hilfe in der Ceuta-Krise",
-      "link": "https://www.sueddeutsche.de/politik/spanien-ceuta-migrationskrise-regierung-marokko-konflikt-li.3535906",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T07:21:11+00:00"
     }
   ]
 }
