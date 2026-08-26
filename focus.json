@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-26T16:07:04+00:00",
+  "aktualisiert": "2026-08-26T18:10:11+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-sachsen-anhalt-100.html",
+      "titel": "Spiderman Brand New Day Box Office",
+      "link": "https://www.tagesschau.de/ausland/asien/brand-kinderkrankenhaus-islamabad-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔥"
     },
     {
       "rang": 2,
-      "titel": "Merz fordert eine \"neue Zuversicht\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-abschluss-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "DAX startet verhalten",
+      "titel": "DAX bleibt auf hohem Niveau",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
+    },
+    {
+      "rang": 3,
+      "titel": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
     }
   ]
 }
