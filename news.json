@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-26T04:24:51+00:00",
+  "aktualisiert": "2026-08-26T05:17:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Trauer um Ikone Dolly Parton: \"Sie schuf Lieder und Glück\"",
+      "link": "https://www.tagesschau.de/kultur/dolly-parton-nachruf-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T05:12:12+00:00"
+    },
+    {
+      "titel": "Syrien: Kurden-Führer Mazloum Abdi verkündet Auflösung der SDF",
+      "link": "https://www.spiegel.de/ausland/syrien-kurden-fuehrer-mazloum-abdi-verkuendet-aufloesung-der-sdf-a-287606e2-3b14-4405-8214-3075621dd9cd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T05:11:00+00:00"
+    },
+    {
+      "titel": "Russlands Raketen zerstören die ukrainische Wirtschaft",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T04:54:42+00:00"
+    },
+    {
+      "titel": "Berlin: Polizei hat zu wenig geeignete Bewerber - viele scheitern am Deutschtest",
+      "link": "https://www.spiegel.de/panorama/justiz/berlin-polizei-hat-zu-wenig-geeignete-bewerber-viele-scheitern-am-deutschtest-a-af757958-7aef-45b8-ac4a-c6652cd164ec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T04:54:00+00:00"
+    },
+    {
+      "titel": "Straße von Hormus in Iran: 20 Tote und Tausende gestrandete Seeleute",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-in-iran-20-tote-und-tausende-gestrandete-seeleute-a-c43bbd5c-d456-4b11-bb39-5a7016667050#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T04:51:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Bundesregierung berät am zweiten Tag der Kabinettsklausur über Folgen der Hitzewelle",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-kabinett-klausur-neuhardenberg-hitze-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T04:46:49+00:00"
+    },
+    {
+      "titel": "Schwester von totem Senator Graham tritt jetzt tatsächlich bei der US-Kongresswahl an",
+      "link": "https://www.spiegel.de/ausland/schwester-von-totem-senator-graham-tritt-jetzt-tatsaechlich-bei-der-us-kongresswahl-an-a-064336d8-abce-4b15-8b76-93ba5f8665f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T04:42:00+00:00"
+    },
+    {
+      "titel": "Kommentar: Die Verwirrung um die Briefwahl nützt Trump",
+      "link": "https://www.tagesschau.de/kommentar/usa-briefwahl-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T04:25:23+00:00"
+    },
     {
       "titel": "Armut in Deutschland: Immer mehr Ältere sind wohnungslos",
       "link": "https://www.spiegel.de/wirtschaft/soziales/armut-in-deutschland-immer-mehr-aeltere-sind-wohnungslos-a-3191e61e-98db-40a1-a1a2-1174aa6e2ad6#ref=rss",
@@ -31,46 +79,22 @@
       "veroeffentlicht": "2026-08-26T03:55:00+00:00"
     },
     {
-      "titel": "»Die Russen machen regelrecht Jagd auf unsere fahrenden Züge«",
-      "link": "https://www.spiegel.de/ausland/die-russen-machen-regelrecht-jagd-auf-unsere-fahrenden-zuege-a-d9023b68-cf93-4fcc-be75-acc11b991dbf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:53:00+00:00"
-    },
-    {
       "titel": "Gamescom 2026: Teure Konsolen, Disc-Sterben, KI-Frust – doch es gibt Hoffnung",
       "link": "https://www.spiegel.de/netzwelt/games/gamescom-2026-teure-konsolen-disc-sterben-ki-frust-doch-es-gibt-hoffnung-a-b14aeaf2-6d23-4043-9a33-f981d39bec36#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-26T03:53:00+00:00"
     },
     {
-      "titel": "Kino: Warum sollte man sich heute noch Stummfilme anschauen?",
-      "link": "https://www.spiegel.de/kultur/kino-warum-sollte-man-sich-heute-noch-stummfilme-anschauen-a-7ed05abd-a69d-4e86-ab7f-e054e5655b77#ref=rss",
+      "titel": "»Die Russen machen regelrecht Jagd auf unsere fahrenden Züge«",
+      "link": "https://www.spiegel.de/ausland/die-russen-machen-regelrecht-jagd-auf-unsere-fahrenden-zuege-a-d9023b68-cf93-4fcc-be75-acc11b991dbf#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:40:00+00:00"
-    },
-    {
-      "titel": "News: Klimakrise, Wahlkampf in Sachsen-Anhalt, Irankonflikt, Donald Trump",
-      "link": "https://www.spiegel.de/politik/deutschland/news-klimakrise-wahlkampf-in-sachsen-anhalt-irankonflikt-donald-trump-a-d3361197-7e77-49f9-b331-3d2ccd64173e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:40:00+00:00"
+      "veroeffentlicht": "2026-08-26T03:53:00+00:00"
     },
     {
       "titel": "Beginnt in Namibia der großflächige Phosphatabbau im Meer?",
       "link": "https://www.tagesschau.de/ausland/afrika/namibia-proteste-phosphatabbau-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T03:35:12+00:00"
-    },
-    {
-      "titel": "Wenn Sie plötzlich nicht mehr über Ihr eigenes Depot bestimmen können",
-      "link": "https://www.spiegel.de/wirtschaft/service/wenn-sie-ploetzlich-nicht-mehr-ueber-ihr-eigenes-depot-bestimmen-koennen-a-dd3a620d-0d40-4edc-bec1-ccfcae9321c8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:30:00+00:00"
-    },
-    {
-      "titel": "Vermögen verschenken: Wie Sie Aktien und ETFs rechtzeitig steuerfrei übertragen",
-      "link": "https://www.spiegel.de/wirtschaft/service/vermoegen-verschenken-wie-sie-aktien-und-etfs-rechtzeitig-steuerfrei-uebertragen-a-191940b5-748d-4421-b51f-73664ada2ea1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T03:30:00+00:00"
     },
     {
       "titel": "Kurdische SDF in Syrien verkündet Auflösung",
@@ -83,12 +107,6 @@
       "link": "https://www.sueddeutsche.de/medien/markus-lanz-thorsten-frei-streit-cdu-union-friedrich-merz-brosius-gersdorf-li.3537040",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T02:28:43+00:00"
-    },
-    {
-      "titel": "Kommentar: Verunsicherung vor US-Briefwahl als Strategie",
-      "link": "https://www.tagesschau.de/kommentar/usa-briefwahl-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T02:05:36+00:00"
     },
     {
       "titel": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
@@ -127,18 +145,6 @@
       "veroeffentlicht": "2026-08-25T18:59:23+00:00"
     },
     {
-      "titel": "Film \"Everytime\" als deutscher Beitrag für Oscar-Verleihung nominiert",
-      "link": "https://www.tagesschau.de/kultur/everytime-film-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T18:44:57+00:00"
-    },
-    {
-      "titel": "US-Medienberichte - CIA-Chef Ratcliffe zu Geheimbesuch in Moskau",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-russland-cia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-25T18:42:34+00:00"
-    },
-    {
       "titel": "Public Health: Jährlich sterben womöglich hunderttausende Menschen an Schlangenbissen",
       "link": "https://www.sueddeutsche.de/gesundheit/schlangenbisse-gefahr-afrika-asien-li.3534910",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/kunstraub-messina-museumswaerter-mafia-li.3536533",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T15:33:08+00:00"
-    },
-    {
-      "titel": "Podcast „Auf den Punkt“: Die Zukunft von VW? Es ist kompliziert",
-      "link": "https://www.sueddeutsche.de/wirtschaft/podcast-nachrichten-auf-den-punkt-vw-autoindustrie-stellenabbau-werksschliessungen-li.3536467",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T14:53:19+00:00"
     }
   ]
 }
