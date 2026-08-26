@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-26T11:52:31+00:00",
+  "aktualisiert": "2026-08-26T12:22:16+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "\"Keine Zuckersteuer auf zuckerfreie Getränke\"",
-      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 2,
-      "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte Reisende vermisst",
+      "titel": "Tibet",
       "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaya-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
-      "titel": "Erster Verdacht zur Brandursache im Hohen Venn",
-      "link": "https://www.tagesschau.de/ausland/europa/brand-hohes-venn-ursache-100.html",
+      "rang": 2,
+      "titel": "DAX startet verhalten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔥"
+      "icon": "📈"
+    },
+    {
+      "rang": 3,
+      "titel": "\"Keine Zuckersteuer auf zuckerfreie Getränke\"",
+      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
