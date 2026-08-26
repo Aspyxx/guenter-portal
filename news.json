@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-08-26T09:25:02+00:00",
+  "aktualisiert": "2026-08-26T10:18:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Frankfurt am Main: Mitarbeiter des Flughafens an Malaria gestorben – fünf weitere infiziert",
+      "link": "https://www.spiegel.de/wissenschaft/frankfurt-am-main-mitarbeiter-des-flughafens-an-malaria-gestorben-fuenf-weitere-infiziert-a-966accc6-eb12-47d4-8869-535fb2d29973#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T10:10:00+00:00"
+    },
+    {
+      "titel": "Feuer in Naturschutzgebiet: Erster Verdacht zur Brandursache im Hohen Venn",
+      "link": "https://www.tagesschau.de/ausland/europa/brand-hohes-venn-ursache-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T10:05:59+00:00"
+    },
+    {
+      "titel": "Ungarn stuft Russland als Bedrohung ein - wegen des Ukraine-Kriegs",
+      "link": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T09:53:25+00:00"
+    },
+    {
+      "titel": "Neuhardenberg: Das sagen Friedrich Merz, Lars Klingbeil und Alexander Dobrindt – Livestream",
+      "link": "https://www.spiegel.de/politik/deutschland/neuhardenberg-das-sagen-friedrich-merz-lars-klingbeil-und-alexander-dobrindt-livestream-a-9bbede26-26dc-4bad-a5b9-66168d843927#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T09:53:00+00:00"
+    },
+    {
+      "titel": "Internationalen Fahndern gelingt Schlag gegen mutmaßliche Liebesbetrüger",
+      "link": "https://www.spiegel.de/panorama/justiz/internationalen-fahndern-gelingt-schlag-gegen-mutmassliche-liebesbetrueger-a-9f096fed-88a9-401a-a47d-c4dbbd8bdbea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T09:40:00+00:00"
+    },
+    {
+      "titel": "KI-Gefahren: Bill Gates will globale KI-Regeln mit Xi Jinping diskutieren",
+      "link": "https://www.spiegel.de/netzwelt/netzpolitik/ki-gefahren-bill-gates-will-globale-ki-regeln-mit-xi-jinping-diskutieren-a-5946a8e7-f838-49f9-9ca2-d3924154af5d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T09:35:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl Sachsen-Anhalt: Wie die AfD die Hochschulen umbauen will",
+      "link": "https://www.spiegel.de/start/landtagswahl-sachsen-anhalt-wie-die-afd-die-hochschulen-umbauen-will-a-9fc3f5ea-1c61-4280-bafe-54b3581fb23f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T09:33:00+00:00"
+    },
+    {
+      "titel": "Viele Opfer bei Sturzflut in Nepal und Tibet befürchtet",
+      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaya-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T09:29:22+00:00"
+    },
+    {
+      "titel": "Kreml bestätigt Besuch des CIA-Chefs in Moskau",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-cia-ratcliffe-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T09:26:52+00:00"
+    },
+    {
+      "titel": "»Berufsverbote« in den 1970ern: Wie der Staat vermeintliche Verfassungsfeinde verfolgte",
+      "link": "https://www.spiegel.de/geschichte/berufsverbote-in-den-1970ern-der-kampf-des-joachim-kroll-a-5885abf9-7134-4ff8-bde0-c5a1c0d70512#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T09:24:00+00:00"
+    },
     {
       "titel": "Zugspitze in Bayern: Betreiber drohen mit Anzeige wegen Stickern am Gipfelkreuz",
       "link": "https://www.spiegel.de/sport/zugspitze-in-bayern-betreiber-drohen-mit-anzeige-wegen-stickern-am-gipfelkreuz-a-ef97d2b3-c6a4-47d2-9ac8-a8b3e9c8e72e#ref=rss",
@@ -31,18 +91,6 @@
       "veroeffentlicht": "2026-08-26T09:02:34+00:00"
     },
     {
-      "titel": "Günstiges Abnehmrezept: Rauchig-süße Ofenkarotten mit Feta-Frischkäse-Dip für zwei Euro",
-      "link": "https://www.spiegel.de/effilee/guenstiges-abnehmrezept-rauchig-suesse-ofenkarotten-mit-feta-frischkaese-dip-fuer-zwei-euro-a-953d1b5e-90e1-4d2c-9ddf-fa48efc251ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T08:58:00+00:00"
-    },
-    {
-      "titel": "Wenn männliche Mäuse einsam sind, neigen sie zum Alkohol",
-      "link": "https://www.spiegel.de/wissenschaft/wenn-maennliche-maeuse-einsam-sind-neigen-sie-zum-alkohol-a-128ea40f-e6f5-4148-9ab4-2287524b7608#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T08:54:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX startet verhalten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
       "quelle": "Tagesschau",
@@ -61,28 +109,10 @@
       "veroeffentlicht": "2026-08-26T08:38:51+00:00"
     },
     {
-      "titel": "Nepal: Sturzflut im Himalaja spült Dörfer weg – viele Opfer befürchtet",
-      "link": "https://www.spiegel.de/panorama/nepal-sturzflut-im-himalaja-spuelt-doerfer-weg-viele-opfer-befuerchtet-a-b309df29-a256-4764-9ac3-2a493404d28c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T08:37:00+00:00"
-    },
-    {
       "titel": "\"Airport-Malaria\": Ein Toter nach Infektion am Frankfurter Flughafen",
       "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-am-frankfurter-flughafen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T08:36:31+00:00"
-    },
-    {
-      "titel": "Klimakrise: Thorsten Frei stemmt sich gegen Aufnahme von Hitzeschutz ins Grundgesetz",
-      "link": "https://www.spiegel.de/politik/deutschland/klimakrise-thorsten-frei-stemmt-sich-gegen-aufnahme-von-hitzeschutz-ins-grundgesetz-a-b0c29497-7d41-4bb1-aaaa-826e5a7efffa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T08:29:00+00:00"
-    },
-    {
-      "titel": "Manuela Schwesig über Schwarz-Rot: »Die Bundesregierung streitet, anstatt zu helfen«",
-      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-ueber-schwarz-rot-die-bundesregierung-streitet-anstatt-zu-helfen-a-8cf76f6a-3b21-4cde-877a-2e874d71ef11#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T08:22:00+00:00"
     },
     {
       "titel": "USA: Trump-Regierung setzt Visavergabe weltweit aus",
@@ -97,40 +127,22 @@
       "veroeffentlicht": "2026-08-26T08:15:59+00:00"
     },
     {
-      "titel": "Ungarn stuft Russland als »Bedrohung« ein",
-      "link": "https://www.spiegel.de/ausland/ungarn-stuft-russland-als-bedrohung-ein-a-13b1b66d-1eb7-4b77-955f-75aa4bf34644#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T08:06:00+00:00"
+      "titel": "Ausflüge mit der Bahn: Überfüllte Züge – und man kann nichts dagegen tun?",
+      "link": "https://www.sueddeutsche.de/bayern/zuege-oberland-regionalbahn-bayern-sommerferien-li.3532811",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T08:06:54+00:00"
     },
     {
-      "titel": "Pakistan: Tote bei Brand auf Säuglingsstation in Islamabad",
-      "link": "https://www.tagesschau.de/ausland/asien/brand-kinderkrankenhaus-islamabad-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T06:36:15+00:00"
-    },
-    {
-      "titel": "Trauer um Ikone Dolly Parton: \"Sie schuf Lieder und Glück\"",
-      "link": "https://www.tagesschau.de/kultur/dolly-parton-nachruf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T05:12:12+00:00"
-    },
-    {
-      "titel": "Russlands Raketen zerstören die ukrainische Wirtschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T04:54:42+00:00"
+      "titel": "Neuer Beweis: Mathematiker zeigen, wie man das vieldimensionale Chaos ordnet",
+      "link": "https://www.sueddeutsche.de/wissen/mathematik-beweis-talagrand-vermutung-ordnung-chaos-li.3525392",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-26T06:25:25+00:00"
     },
     {
       "titel": "Bundespolitik: Bundesregierung berät am zweiten Tag der Kabinettsklausur über Folgen der Hitzewelle",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-kabinett-klausur-neuhardenberg-hitze-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T04:46:49+00:00"
-    },
-    {
-      "titel": "Kommentar: Die Verwirrung um die Briefwahl nützt Trump",
-      "link": "https://www.tagesschau.de/kommentar/usa-briefwahl-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T04:25:23+00:00"
     },
     {
       "titel": "Markus Lanz: „Mir würde das heute Abend sehr helfen“",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/dolly-parton-tot-li.3537170",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-25T18:59:23+00:00"
-    },
-    {
-      "titel": "Public Health: Jährlich sterben womöglich hunderttausende Menschen an Schlangenbissen",
-      "link": "https://www.sueddeutsche.de/gesundheit/schlangenbisse-gefahr-afrika-asien-li.3534910",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T18:00:00+00:00"
-    },
-    {
-      "titel": "Leute: Veronica Ferres und Carsten Maschmeyer sind getrennt",
-      "link": "https://www.sueddeutsche.de/panorama/veronica-ferres-carsten-maschmeyer-kim-kardashian-tochter-north-west-starbucks-kanye-west-promis-li.3536443",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-25T17:20:41+00:00"
     }
   ]
 }
