@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-08-26T06:18:44+00:00",
+  "aktualisiert": "2026-08-26T07:33:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Jürgen Klopp: Hans-Joachim Watzke weist Vorwurf von Uli Hoeneß des »Friendly Takeover« zurück",
+      "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-hans-joachim-watzke-weist-vorwurf-von-uli-hoeness-des-friendly-takeover-zurueck-a-36cde53a-e025-4ecb-a302-9c8d2b618abe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T07:28:00+00:00"
+    },
+    {
+      "titel": "Ingo Schulze wundert sich über DDR-Nostalgie: »Scheint mir so irreal«",
+      "link": "https://www.spiegel.de/kultur/literatur/ingo-schulze-wundert-sich-ueber-ddr-nostalgie-scheint-mir-so-irreal-a-197c7eaa-0785-4715-8145-4bf9fa2e09a3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T07:25:00+00:00"
+    },
+    {
+      "titel": "Exportwirtschaft: Stimmung laut Ifo so gut wie zuletzt Anfang 2022",
+      "link": "https://www.spiegel.de/wirtschaft/exportwirtschaft-stimmung-laut-ifo-so-gut-wie-zuletzt-anfang-2022-a-04c0cc69-9f9c-4623-b1b3-1948606c42af#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T06:59:00+00:00"
+    },
+    {
+      "titel": "Krankenhaus in Pakistan: Mindestens 14 sterben bei Brand in Säuglingsstation",
+      "link": "https://www.spiegel.de/panorama/krankenhaus-in-pakistan-mindestens-14-babys-sterben-bei-brand-a-03f34c74-ce57-4784-a08b-5b21a413607c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T06:42:00+00:00"
+    },
+    {
+      "titel": "AfD: Abgeordneter erhebt in internem Brief an Weidel schwere Vorwürfe",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-abgeordneter-erhebt-in-internem-brief-an-weidel-schwere-vorwuerfe-a-281c9169-1862-4e42-821e-1659516f0642#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T06:40:00+00:00"
+    },
+    {
+      "titel": "Jetzt gibt es auch aus Hessen Widerstand gegen Klingbeils Zuckersteuer",
+      "link": "https://www.spiegel.de/wirtschaft/service/jetzt-gibt-es-auch-aus-hessen-widerstand-gegen-klingbeils-zuckersteuer-a-849b5921-c1b6-4542-b349-f4339a5c4a24#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T06:37:00+00:00"
+    },
+    {
+      "titel": "Pakistan: Tote bei Brand auf Säuglingsstation in Islamabad",
+      "link": "https://www.tagesschau.de/ausland/asien/brand-kinderkrankenhaus-islamabad-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-26T06:36:15+00:00"
+    },
+    {
+      "titel": "USA: CIA-Chef John Ratcliffe für Geheimdienstkontakte in Moskau",
+      "link": "https://www.spiegel.de/ausland/usa-cia-chef-john-ratcliffe-fuer-geheimdienstkontakte-in-moskau-a-31f53155-1be5-4cec-b2bf-478c91f2f3dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T06:18:00+00:00"
+    },
     {
       "titel": "Austerndiebe in Australien: Muscheln im Wert von mehr als 200.000 Euro gestohlen",
       "link": "https://www.spiegel.de/panorama/justiz/austerndiebe-in-australien-muscheln-im-wert-von-mehr-als-200-000-euro-gestohlen-a-555f5dec-c176-47d3-b5b8-4c1f55466da8#ref=rss",
@@ -25,58 +73,16 @@
       "veroeffentlicht": "2026-08-26T06:05:56+00:00"
     },
     {
-      "titel": "Unionsfraktionschef Frei zeigt sich »irritiert« über ostdeutsche CDU-Ministerpräsidenten",
-      "link": "https://www.spiegel.de/politik/deutschland/unionsfraktionschef-frei-zeigt-sich-irritiert-ueber-ostdeutsche-cdu-ministerpraesidenten-a-efd09d15-a8a3-4063-8a60-b9f67c27a9df#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T06:00:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Gute Vorgaben für den DAX",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T05:44:55+00:00"
     },
     {
-      "titel": "SpaceX will 100 Milliarden Dollar in neuen Weltraumbahnhof stecken",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/spacex-will-100-milliarden-dollar-in-neuen-weltraumbahnhof-stecken-a-b1ce23e1-09cc-4614-9ece-20d46d43bdc6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T05:38:00+00:00"
-    },
-    {
-      "titel": "US Open: Serena Williams und Carlos Alcaraz begeistern – Zverev scheidet im Mixed aus",
-      "link": "https://www.spiegel.de/sport/tennis/us-open-serena-williams-und-carlos-alcaraz-begeistern-zverev-scheidet-im-mixed-aus-a-a7c65399-ad6b-4093-add6-daa247d3e13a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T05:36:00+00:00"
-    },
-    {
-      "titel": "Leverkusen: 20-Jähriger in erstochen – Täter auf der Flucht",
-      "link": "https://www.spiegel.de/panorama/justiz/leverkusen-20-jaehriger-in-erstochen-taeter-auf-der-flucht-a-419d78c9-0e45-44cc-b43b-01c6cdb5886c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T05:33:00+00:00"
-    },
-    {
-      "titel": "Donald Trump legt US-Kongress Pläne für Atomabkommen mit Saudi-Arabien vor",
-      "link": "https://www.spiegel.de/ausland/donald-trump-legt-us-kongress-plaene-fuer-atomabkommen-mit-saudi-arabien-vor-a-86d653b1-fa5e-4f68-9c7a-6f394365dba9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T05:27:00+00:00"
-    },
-    {
-      "titel": "Irankrieg: Weltwirtschaft verkraftet Energie-Schock besser als befürchtet",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/irankrieg-weltwirtschaft-verkraftet-energie-schock-besser-als-befuerchtet-a-fee46684-e70d-47cc-ab0f-d8dd7c569488#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T05:21:00+00:00"
-    },
-    {
       "titel": "Trauer um Ikone Dolly Parton: \"Sie schuf Lieder und Glück\"",
       "link": "https://www.tagesschau.de/kultur/dolly-parton-nachruf-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T05:12:12+00:00"
-    },
-    {
-      "titel": "Syrien: Kurden-Führer Mazloum Abdi verkündet Auflösung der SDF",
-      "link": "https://www.spiegel.de/ausland/syrien-kurden-fuehrer-mazloum-abdi-verkuendet-aufloesung-der-sdf-a-287606e2-3b14-4405-8214-3075621dd9cd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T05:11:00+00:00"
     },
     {
       "titel": "Russlands Raketen zerstören die ukrainische Wirtschaft",
@@ -119,12 +125,6 @@
       "link": "https://www.sueddeutsche.de/medien/markus-lanz-thorsten-frei-streit-cdu-union-friedrich-merz-brosius-gersdorf-li.3537040",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T02:28:43+00:00"
-    },
-    {
-      "titel": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-weltraumbahnhof-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T00:43:47+00:00"
     },
     {
       "titel": "Pop: Wer soll die Welt jetzt heilen?",
