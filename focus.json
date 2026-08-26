@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-26T07:15:41+00:00",
+  "aktualisiert": "2026-08-26T08:04:49+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "China",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-sanktionen-iran-handelspartner-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Bundesregierung berät auf Kabinettsklausur über Klimakrise und Reformen",
+      "titel": "Wirtschaft Russlands",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-112.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Der Schufa droht eine Sammelklage",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-klage-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Tote bei Brand auf Säuglingsstation in Islamabad",
+      "link": "https://www.tagesschau.de/ausland/asien/brand-kinderkrankenhaus-islamabad-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔥"
     }
   ]
 }
