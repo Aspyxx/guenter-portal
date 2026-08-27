@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-27T05:15:05+00:00",
+  "aktualisiert": "2026-08-27T16:35:15+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
-      "link": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 2,
-      "titel": "Was über die Flutwelle in Nepal bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-102.html",
+      "titel": "Nach Sturzflut im Himalaya - Mehr als 360 Tote und hunderte Vermisste",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-himalaya-flutwelle-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Der DAX kommt nicht voran",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-102.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
       "rang": 3,
-      "titel": "Klausurtagung der Fraktionsvorstände: Unter Erfolgszwang",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktion-treffen-muenster-100.html",
+      "titel": "Geberländer fordern massive Kürzungen beim EU-Budget",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-budget-erklaerung-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
