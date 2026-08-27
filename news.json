@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-26T22:30:55+00:00",
+  "aktualisiert": "2026-08-27T04:02:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,34 +7,100 @@
   },
   "meldungen": [
     {
-      "titel": "Nvidia verdoppelt innerhalb eines Jahres Umsatz und Gewinn",
-      "link": "https://www.spiegel.de/wirtschaft/nvidia-verdoppelt-innerhalb-eines-jahres-umsatz-und-gewinn-a-c33ff1ce-d12c-4c24-befb-b3f48e7798fd#ref=rss",
+      "titel": "Duden: »Das Wort ›woke‹ war nicht in Gefahr zu sterben.«",
+      "link": "https://www.spiegel.de/kultur/duden-das-wort-woke-war-nicht-in-gefahr-zu-sterben-a-46110896-a90c-422f-9b3e-e08a7198bba7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T22:04:00+00:00"
+      "veroeffentlicht": "2026-08-27T03:57:00+00:00"
     },
     {
-      "titel": "Nach Sturzflut: Zahl der Toten in Nepal und China steigt auf mindestens 160",
-      "link": "https://www.spiegel.de/ausland/nach-sturzflut-zahl-der-toten-in-nepal-und-china-steigt-auf-mindestens-160-a-9a562b20-c0ec-4909-bf2e-3df9a1b26959#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T21:16:00+00:00"
+      "titel": "Was über die Flutwelle in Nepal bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-27T03:44:20+00:00"
     },
     {
-      "titel": "US-Präsdient Donald Trump verbietet bestimmte ausländische Technik im US-Stromnetz",
-      "link": "https://www.spiegel.de/ausland/us-praesdient-donald-trump-verbietet-bestimmte-auslaendische-technik-im-us-stromnetz-a-de995d37-48e8-465e-873a-82a4f94706e1#ref=rss",
+      "titel": "News: Mini-EU-Gipfel im Kanzleramt, schwarz-roter Schwur in Münster, neuer SPIEGEL-Politikpodcast",
+      "link": "https://www.spiegel.de/politik/deutschland/news-mini-eu-gipfel-im-kanzleramt-schwarz-roter-schwur-in-muenster-neuer-spiegel-politikpodcast-a-9f6d3e7a-8e73-4d6b-b172-89bb99dc123b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T21:07:00+00:00"
+      "veroeffentlicht": "2026-08-27T03:43:00+00:00"
     },
     {
-      "titel": "»Ausbruchs-Zauberer« in Spanien gefasst – nach vierter Flucht aus dem Gefängnis",
-      "link": "https://www.spiegel.de/panorama/ausbruchs-zauberer-in-spanien-gefasst-nach-vierter-flucht-aus-dem-gefaengnis-a-c958a11e-9e5e-471d-93b1-6906fd9ae20c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T20:32:00+00:00"
-    },
-    {
-      "titel": "Nepal: Viele Tote nach Sturzflut – Hunderte Einheimische und Touristen vermisst",
+      "titel": "Nepal und Tibet: Viele Tote, Hunderte Vermisste nach Sturzflut – weitere Helfer reisen an",
       "link": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T19:08:13+00:00"
+      "veroeffentlicht": "2026-08-27T03:38:09+00:00"
+    },
+    {
+      "titel": "Magersucht oder Bulimie: Wie geht es Frauen, die eine Essstörung hinter sich haben?",
+      "link": "https://www.spiegel.de/gesundheit/magersucht-oder-bulimie-wie-geht-es-frauen-die-eine-essstoerung-hinter-sich-haben-a-8df02264-c76f-4cd4-be5d-6b07ea2a3f7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-27T03:30:00+00:00"
+    },
+    {
+      "titel": "Testosteron bei Männern: »Mangel ist in Risikogruppen tendenziell unterdiagnostiziert«",
+      "link": "https://www.spiegel.de/gesundheit/testosteron-bei-maennern-mangel-ist-in-risikogruppen-tendenziell-unterdiagnostiziert-a-6f733cba-dabd-4be5-b457-9febe78bec9a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-27T03:30:00+00:00"
+    },
+    {
+      "titel": "Klausurtagung der Fraktionsvorstände: Unter Erfolgszwang",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktion-treffen-muenster-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-27T03:21:44+00:00"
+    },
+    {
+      "titel": "Avantgarde-Künstlerin Yayoi Kusama gestorben",
+      "link": "https://www.tagesschau.de/kultur/yayoi-kusama-gestorben-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-27T03:16:56+00:00"
+    },
+    {
+      "titel": "Gletscherabbruch soll verheerende Sturzflut in Nepal ausgelöst haben",
+      "link": "https://www.spiegel.de/panorama/gletscherabbruch-soll-verheerende-sturzflut-in-nepal-ausgeloest-haben-a-bb37b13d-08f5-4660-886e-3dcea0df82e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-27T03:00:00+00:00"
+    },
+    {
+      "titel": "Donald Trump lässt mehr Importe von Rindfleisch in die USA zu und macht die Bauern wütend",
+      "link": "https://www.spiegel.de/ausland/donald-trump-laesst-mehr-importe-von-rindfleisch-in-die-usa-zu-und-macht-die-bauern-wuetend-a-04ba8ee6-752a-4edf-9391-06671dcdeb61#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-27T02:41:00+00:00"
+    },
+    {
+      "titel": "Wie Waldbrände künftig mit weniger Wasser bekämpft werden können",
+      "link": "https://www.tagesschau.de/wissen/waldbrand-ohne-wasser-loeschen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-27T01:23:58+00:00"
+    },
+    {
+      "titel": "Wetterwechsel in Deutschland: Erst wird es heiß, dann drohen vor allem im Westen Gewitter",
+      "link": "https://www.spiegel.de/panorama/wetterwechsel-in-deutschland-erst-wird-es-heiss-dann-drohen-vor-allem-im-westen-gewitter-a-539872b2-65ad-4a30-a955-0285f6a79b7f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-27T00:58:00+00:00"
+    },
+    {
+      "titel": "Iran bezeichnet US-Sanktionen als Wirtschaftsterrorismus",
+      "link": "https://www.spiegel.de/ausland/iran-bezeichnet-us-sanktionen-als-wirtschaftsterrorismus-a-e1eef5c8-2f52-4458-8168-04421673e873#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-27T00:22:00+00:00"
+    },
+    {
+      "titel": "Wie sich Uruguay auf einen \"Super-El-Niño\" vorbereitet",
+      "link": "https://www.tagesschau.de/ausland/amerika/uruguay-el-nino-ueberschwemmungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-27T00:15:31+00:00"
+    },
+    {
+      "titel": "TV-Debatte: „Die Menschen, mit denen Sie sich umgeben, sind sehr gefährliche Menschen“",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-tv-duell-debatte-schulze-siegmund-li.3537268",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-27T00:10:42+00:00"
+    },
+    {
+      "titel": "Mehrheit lehnt zentrale AfD-Forderungen ab",
+      "link": "https://www.spiegel.de/politik/mehrheit-lehnt-zentrale-afd-forderungen-ab-a-2eb00b75-d251-451c-bd45-0e1a752e45cd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-26T23:37:00+00:00"
     },
     {
       "titel": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
@@ -43,22 +109,10 @@
       "veroeffentlicht": "2026-08-26T19:07:47+00:00"
     },
     {
-      "titel": "Raheem Sterling: Englands Ex-Nationalspieler wegen Lachgas und Unfall",
-      "link": "https://www.spiegel.de/panorama/justiz/raheem-sterling-englands-ex-nationalspieler-wegen-lachgas-und-unfall-a-fcb42f90-a59a-4f59-85a3-852532112354#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T19:03:00+00:00"
-    },
-    {
       "titel": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
       "link": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-26T18:55:17+00:00"
-    },
-    {
-      "titel": "Nepal: Was die tödliche Sturzflut ausgelöst haben könnte",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/nepal-was-die-toedliche-sturzflut-ausgeloest-haben-koennte-a-71c1cdec-d0a1-4f08-94ca-7b0ef4a1391a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T18:54:00+00:00"
     },
     {
       "titel": "Bundespolitik: Schulze zu Siegmund im TV-Duell: „Ich habe geliefert und nicht gelabert“",
@@ -73,24 +127,6 @@
       "veroeffentlicht": "2026-08-26T18:31:54+00:00"
     },
     {
-      "titel": "Avengers: Hollywoodstars fordern Freilassung palästinensischer Gefangener",
-      "link": "https://www.spiegel.de/kultur/avengers-hollywoodstars-fordern-freilassung-palaestinensischer-gefangener-a-029471a5-f56c-4a36-800e-85afb791f1b5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T18:29:00+00:00"
-    },
-    {
-      "titel": "Christina Block: Angeklagte bezeichnet sich als »völlig überraschte Mutter« vor Gericht",
-      "link": "https://www.spiegel.de/panorama/christina-block-angeklagte-bezeichnet-sich-als-voellig-ueberraschte-mutter-vor-gericht-a-41b245d8-3212-4b15-80cd-6ebff427b205#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T18:28:00+00:00"
-    },
-    {
-      "titel": "Finanzminister plant Zuckersteuer: Gaga, Dada, Klingbeil - Kolumne",
-      "link": "https://www.spiegel.de/politik/deutschland/finanzminister-plant-zuckersteuer-gaga-dada-klingbeil-kolumne-a-a94479a3-efa3-4abd-83a7-5d0c92ab3e5f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-26T18:26:00+00:00"
-    },
-    {
       "titel": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
       "link": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
       "quelle": "Tagesschau",
@@ -103,40 +139,10 @@
       "veroeffentlicht": "2026-08-26T17:35:29+00:00"
     },
     {
-      "titel": "Marktbericht: DAX bleibt auf hohem Niveau",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T16:17:44+00:00"
-    },
-    {
-      "titel": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T16:07:35+00:00"
-    },
-    {
-      "titel": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T16:00:07+00:00"
-    },
-    {
       "titel": "Tropenkrankheit: Behörde: Zwei Tote durch Malaria am Frankfurter Flughafen",
       "link": "https://www.sueddeutsche.de/panorama/frankfurt-tote-malaria-flughafen-li.3537714",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T15:52:04+00:00"
-    },
-    {
-      "titel": "Meta und US-Staaten einigen sich auf Milliarden-Vergleich",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-meta-staaten-einigung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T15:39:21+00:00"
-    },
-    {
-      "titel": "\"Airport-Malaria\": Zwei Tote nach Infektion am Frankfurter Flughafen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-am-frankfurter-flughafen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-26T15:17:08+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Rennradeln und Rentenpaket: So lief die Klausur der Bundesregierung",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/sven-hueber-ruecktritt-polizeigewerkschaft-gdp-afd-li.3537382",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-26T13:44:31+00:00"
-    },
-    {
-      "titel": "FC Bayern: Max Eberl ist ein Sportvorstand im Lasso",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-muenchen-vertrag-sportvorstand-max-eberl-li.3537350",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-26T13:44:29+00:00"
     }
   ]
 }
