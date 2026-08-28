@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-28T00:36:39+00:00",
+  "aktualisiert": "2026-08-28T12:15:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "USA fordern Klartext von Nato-Partnern – und loben Deutschland",
-      "link": "https://www.spiegel.de/ausland/usa-fordern-klartext-von-nato-partnern-und-loben-deutschland-a-8fe186f0-d4b8-4288-9ac9-e665accdf62b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T00:31:00+00:00"
-    },
-    {
-      "titel": "USA: Trump verfügt Umbenennung von Lake Ontario in „Lake America“",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kanada-zoelle-lake-ontario-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-28T00:27:55+00:00"
-    },
-    {
-      "titel": "Ärztekammer: Strafen für Menschen, die sich beim Facharzt vordrängeln",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/aerztekammer-strafen-fuer-menschen-die-sich-beim-facharzt-vordraengeln-a-5ef01606-664f-4923-b32b-1f86d9d7d887#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-27T23:54:00+00:00"
-    },
-    {
-      "titel": "Collier mit 673 Diamanten aus Wiener Museum gestohlen",
-      "link": "https://www.spiegel.de/panorama/collier-mit-673-diamanten-aus-wiener-museum-gestohlen-a-7fdc05d9-37cf-4c07-82ed-dc0ee740aa3b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-27T23:21:00+00:00"
-    },
-    {
-      "titel": "Streit zwischen USA und Kanada - Trump nennt Ontariosee um",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kanada-streit-ontario-100.html",
+      "titel": "Zahl der Toten nach Sturzflut in Nepal steigt auf mehr als 500",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-erdrutsch-vermisste-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T22:26:50+00:00"
+      "veroeffentlicht": "2026-08-28T12:10:56+00:00"
     },
     {
-      "titel": "Nepal: Behörden melden fast 400 Tote und 1400 Vermisste",
-      "link": "https://www.spiegel.de/ausland/nepal-behoerden-melden-fast-400-tote-und-1400-vermisste-a-3e7f29c2-5714-4ee9-bb4a-6180a7a8a25c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-27T22:12:00+00:00"
-    },
-    {
-      "titel": "»GTA 6«-Video auf Netflix erschienen: 26 Minuten zum meisterwarteten Spiel des Jahres",
-      "link": "https://www.spiegel.de/netzwelt/games/gta-6-video-auf-netflix-erschienen-26-minuten-zum-meisterwarteten-spiel-des-jahres-a-cc9adc6a-aa88-47a8-b10b-6c83f07a1c36#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-27T21:05:00+00:00"
-    },
-    {
-      "titel": "Frankreich-Wahlkampf: Sieben Bewerber ringen um Kurs in Wirtschaft und Migration",
-      "link": "https://www.spiegel.de/ausland/frankreich-wahlkampf-sieben-bewerber-ringen-um-kurs-in-wirtschaft-und-migration-a-81d6eddd-740a-41e0-9d6e-b2ab32654bf1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-27T20:48:00+00:00"
-    },
-    {
-      "titel": "Anthropic: US-KI-Konzern lockt Investoren mit 30-Billionen-Dollar-Markt",
-      "link": "https://www.spiegel.de/netzwelt/web/anthropic-us-ki-konzern-lockt-investoren-mit-30-billionen-dollar-markt-a-554fb1e8-817b-4123-b049-5e047b45a094#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-27T20:08:00+00:00"
-    },
-    {
-      "titel": "Uli Hoeneß: Nachbar am Tegernsee klagt wegen zwei neu gepflanzten Bäumen",
-      "link": "https://www.spiegel.de/sport/fussball/uli-hoeness-nachbar-am-tegernsee-klagt-wegen-zwei-neu-gepflanzten-baeumen-a-a6ba66a3-0834-4fec-b786-7959fc06eab5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-27T20:05:00+00:00"
-    },
-    {
-      "titel": "Österreich: 64-jähriger Wanderer stürzt in Vorarlberg 70 Meter in den Tod",
-      "link": "https://www.spiegel.de/panorama/oesterreich-64-jaehriger-wanderer-stuerzt-in-vorarlberg-70-meter-in-den-tod-a-0a835104-87bc-4085-9429-9025b0ed9785#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-27T19:55:00+00:00"
-    },
-    {
-      "titel": "TV-Kritik: Friedrich Merz wird beschimpft, er schimpft zurück – und am Ende war alles vergebens",
-      "link": "https://www.sueddeutsche.de/medien/merz-rtl-atalay-tv-kritik-li.3537934",
+      "titel": "Sturzflut: Armeesprecher: Vierköpfige deutsche Familie in Nepal gerettet",
+      "link": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-deutsche-familie-gerettet-li.3538634",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-27T19:32:28+00:00"
+      "veroeffentlicht": "2026-08-28T12:00:56+00:00"
+    },
+    {
+      "titel": "Nepal: Vier Deutsche aus Katastrophengebiet gerettet",
+      "link": "https://www.spiegel.de/panorama/nepal-vier-deutsche-aus-katastrophengebiet-gerettet-a-ea751aaf-ae3a-4540-9667-a8a72e21fd74#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T11:44:00+00:00"
+    },
+    {
+      "titel": "Amerikaner besorgt wegen wirtschaftlicher Folgen des Iran-Kriegs",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-folgen-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-28T11:33:00+00:00"
+    },
+    {
+      "titel": "Zum Tod von Harald V. von Norwegen: Der König, der sich gerne unsichtbar machte",
+      "link": "https://www.sueddeutsche.de/panorama/norwegen-koenig-harald-v-tot-gestorben-nachruf-lux.PZoUdASZHKkHfe2dChcq3i",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-28T11:19:06+00:00"
+    },
+    {
+      "titel": "»Das Wasser im August« von Ingo Schulze: Immer Ärger mit der Vergangenheit",
+      "link": "https://www.spiegel.de/kultur/literatur/das-wasser-im-august-von-ingo-schulze-immer-aerger-mit-der-vergangenheit-a-f5b15eea-ff3a-4e7a-85f4-6f8bac0e67f2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T11:17:00+00:00"
+    },
+    {
+      "titel": "Volleyball-Weltrekord zwischen Deutschland und Italien: »Allen war klar, wie krass dieser Satz war. Bei Italien musste der Zuspieler mit Krämpfen vom Feld«",
+      "link": "https://www.spiegel.de/sport/volleyball-weltrekord-zwischen-deutschland-und-italien-allen-war-klar-wie-krass-dieser-satz-war-bei-italien-musste-der-zuspieler-mit-kraempfen-vom-feld-a-ffb7f20b-92e1-4e7d-b31a-7b8211497f26#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T11:16:00+00:00"
+    },
+    {
+      "titel": "Lebensmittelpreise: Wie Ernteausfälle und Klimakrise den Speiseplan verändern werden",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/lebensmittelpreise-wie-ernteausfaelle-und-klimakrise-den-speiseplan-veraendern-werden-a-56343344-a1c9-4457-82a1-43035b3f8780#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T11:15:00+00:00"
+    },
+    {
+      "titel": "AfD in Sachsen-Anhalt: Verein »Deutsche Fonds für Demokratie« will Kürzungen auffangen",
+      "link": "https://www.spiegel.de/panorama/afd-in-sachsen-anhalt-verein-deutsche-fonds-fuer-demokratie-will-kuerzungen-auffangen-a-5f4665e7-7dfe-4095-9d71-c66dd23a85f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T11:14:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Ukraine kündigt Angriffe auf alle Wildberries-Lager in Russland an",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-wildberries-angriffe-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-28T11:10:00+00:00"
+    },
+    {
+      "titel": "Amy Lopez: Mann muss nach Mord an US-Amerikanerin lebenslang in Haft",
+      "link": "https://www.spiegel.de/panorama/justiz/amy-lopez-mann-muss-nach-mord-an-us-amerikanerin-lebenslang-in-haft-a-afc9165b-801c-47d9-acd5-a57c1c4e47a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T10:45:00+00:00"
+    },
+    {
+      "titel": "Klimawandel: Deutschland droht laut Berechnung Klimaziel für 2026 zu verfehlen",
+      "link": "https://www.spiegel.de/wissenschaft/klimawandel-deutschland-droht-laut-berechnung-klimaziel-fuer-2026-zu-verfehlen-a-c7d4cc09-ca60-44c8-b88f-865036eeafab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T10:40:00+00:00"
+    },
+    {
+      "titel": "Washington: Donald Trumps Baustelle sorgte offenbar für »schwerwiegende« Panne bei Helikopterflug",
+      "link": "https://www.spiegel.de/ausland/washington-donald-trumps-baustelle-sorgte-offenbar-fuer-schwerwiegende-panne-bei-helikopterflug-a-2ec7431e-fcec-4c58-b672-c3689f8d830b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T10:38:00+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T10:34:00+00:00"
+    },
+    {
+      "titel": "Leute: „Es hat sich angefühlt, als hätte ich ein paar dieser jungen Jahre verloren“",
+      "link": "https://www.sueddeutsche.de/panorama/kylie-jenner-kinderkriegen-mutter-postnatale-depression-promis-li.3538491",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-28T10:33:11+00:00"
+    },
+    {
+      "titel": "Sturzflut Himalaja: Die Zahl der Toten in der Gebirgsregion zwischen China und Nepal steigt weiter",
+      "link": "https://www.sueddeutsche.de/panorama/china-nepal-sturzflut-himalaya-li.3538382",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-28T10:27:52+00:00"
+    },
+    {
+      "titel": "AfD scheitert mit Misstrauensvotum gegen Ministerpräsident Voigt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-scheitert-mit-misstrauensvotum-gegen-voigt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-28T10:09:49+00:00"
+    },
+    {
+      "titel": "Der Fall Owen Ansah: „Ich bin doch nicht wahnsinnig“",
+      "link": "https://www.sueddeutsche.de/sport/owen-ansah-dopingkontrolle-nada-leichtathletik-li.3537988",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-28T10:04:46+00:00"
+    },
+    {
+      "titel": "Serie: Wie hast du dich verändert: Der Aufsteiger",
+      "link": "https://www.sueddeutsche.de/leben/gianni-infantino-kindheit-aufstieg-li.3532855",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-28T09:19:30+00:00"
+    },
+    {
+      "titel": "Weinlese in Deutschland beginnt so früh wie nie zuvor",
+      "link": "https://www.tagesschau.de/wirtschaft/weinlese-winzer-ernte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-28T09:07:05+00:00"
+    },
+    {
+      "titel": "Nepal: Diese Sturzflut macht fassungslos. Aber das allein reicht nicht",
+      "link": "https://www.sueddeutsche.de/meinung/sturzflut-nepal-kommentar-li.3538433",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-28T09:07:04+00:00"
+    },
+    {
+      "titel": "Fernsehen: Ist Escort-Girl jetzt ein Traumberuf?",
+      "link": "https://www.sueddeutsche.de/medien/ard-serie-escort-selbstbestimmung-li.3533627",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-28T09:02:57+00:00"
+    },
+    {
+      "titel": "Neu Sturzflutgefahr: Behörden in Nepal und Tibet unterbrechen Suche",
+      "link": "https://www.tagesschau.de/ausland/asien/ueberflutung-nepal-tibet-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-28T08:57:59+00:00"
+    },
+    {
+      "titel": "Geheimbesuch in Moskau: Der CIA-Chef warnt, aber Trump wiegelt ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-cia-direktor-moskau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-28T08:46:41+00:00"
     },
     {
       "titel": "Zwei Tote an Schule in Gosen-Neu Zittau bei Berlin",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/gewalttat-schule-gosen-neu-zittau-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T19:12:52+00:00"
+      "veroeffentlicht": "2026-08-28T08:20:34+00:00"
     },
     {
-      "titel": "Bündnis will Opfer rechtsextremer Angriffe unterstützen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/buendnis-fuer-demokratie-100.html",
+      "titel": "Marktbericht: DAX strebt in Richtung Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-boersen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T18:48:31+00:00"
+      "veroeffentlicht": "2026-08-28T08:07:21+00:00"
     },
     {
-      "titel": "Nepal: \"Sehr großer Bergsturz\" - und obendrauf ein Gletscher",
-      "link": "https://www.tagesschau.de/ausland/asien/gletschersturz-nepal-100.html",
+      "titel": "Folgen des Iran-Kriegs: Trump hat Amerikas Macht verspielt",
+      "link": "https://www.tagesschau.de/kommentar/sechs-monate-irankrieg-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T18:47:42+00:00"
-    },
-    {
-      "titel": "Was über den Besuch von CIA-Chef Ratcliffe in Moskau bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T18:22:07+00:00"
-    },
-    {
-      "titel": "Ende der \"Rente mit 63\": Merz für Übergangszeiten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-koalitionsklausur-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T18:12:58+00:00"
-    },
-    {
-      "titel": "Klimawandel: Nach dem Super-El-Niño der Mega-El-Niño?",
-      "link": "https://www.sueddeutsche.de/wissen/el-nino-pazifik-klimawandel-li.3535935",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-27T18:00:00+00:00"
-    },
-    {
-      "titel": "Nach Sturzfluten im Himalaya: Auch Deutsche unter den Vermissten",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T17:52:05+00:00"
-    },
-    {
-      "titel": "Nach Sturzflut im Himalaya - Mehr als 380 Tote und hunderte Vermisste",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-himalaya-flutwelle-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T17:38:21+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Merz liefert sich TV-Schlagabtausch mit Kinderärztin: „Das geht zu weit“",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-rtl-kinderaerztin-kritik-amtseid-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-27T17:30:00+00:00"
-    },
-    {
-      "titel": "Die AfD und ihre Streamer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-streamer-landtagswahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-27T17:00:06+00:00"
-    },
-    {
-      "titel": "Schienenverkehr: Bahn-Manager vor dem Rauswurf",
-      "link": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-sanierung-infrastruktur-managerwechsel-li.3538123",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-27T14:30:03+00:00"
-    },
-    {
-      "titel": "EU-Finanzen: Die Koalition der Unwilligen",
-      "link": "https://www.sueddeutsche.de/politik/eu-haushalt-merz-eu-staaten-ausgabenerhoehung-li.3537664",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-27T14:21:40+00:00"
-    },
-    {
-      "titel": "„Schlächter vom Balkan“: Bosnisch-serbischer Kriegsverbrecher Ratko Mladić ist tot",
-      "link": "https://www.sueddeutsche.de/politik/ratko-mladic-tot-kriegsverbrecher-schlaechter-vom-balkan-li.3538152",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-27T14:18:38+00:00"
-    },
-    {
-      "titel": "Bayer Leverkusen: Es war einmal eine Meistermannschaft",
-      "link": "https://www.sueddeutsche.de/sport/bayer-leverkusen-meistermannschaft-weggaenge-transfers-li.3537770",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-27T13:54:57+00:00"
-    },
-    {
-      "titel": "Nachbarschaftsstreit am Landgericht München II: „Rote Linien“ und „Positionsbestimmungen“: Warum sich Uli Hoeneß plötzlich mit Bäumen beschäftigt",
-      "link": "https://www.sueddeutsche.de/muenchen/uli-hoeness-baeume-nachbarschaftsstreit-landgericht-muenchen-ii-li.3535027",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-27T13:48:16+00:00"
+      "veroeffentlicht": "2026-08-28T06:49:56+00:00"
     }
   ]
 }
