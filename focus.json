@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-29T21:20:50+00:00",
+  "aktualisiert": "2026-08-29T23:26:29+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Island Referendum",
+      "link": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
       "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Haakon hält erste emotionale Ansprache als König von Norwegen",
       "link": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
