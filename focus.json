@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-29T03:55:55+00:00",
+  "aktualisiert": "2026-08-29T10:33:39+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Der Unmut der Republikaner über Trump wird lauter",
-      "link": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
-      "rang": 2,
-      "titel": "Taliban auf Mission in Deutschland - Abschiebungen vorbereiten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-taliban-100.html",
+      "titel": "Freiburg – Union Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktionsspitzen-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Viele Tote bei Luftangriff im Raum Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
       "rang": 3,
-      "titel": "Wie China Informationen aus Tibet kontrolliert",
-      "link": "https://www.tagesschau.de/ausland/asien/china-tibet-nepal-flut-100.html",
+      "titel": "Zahl der Toten steigt über 600",
+      "link": "https://www.tagesschau.de/ausland/asien/himalaya-sturzflut-nepal-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
