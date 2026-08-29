@@ -1,11 +1,95 @@
 {
-  "aktualisiert": "2026-08-28T22:41:55+00:00",
+  "aktualisiert": "2026-08-29T03:54:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Referendum: Nimmt Island Beitrittsverhandlungen mit der EU auf?",
+      "link": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T03:43:40+00:00"
+    },
+    {
+      "titel": "Reisen trotz Klimakrise: Wie Hitze und Waldbrände das Reiseverhalten verändern",
+      "link": "https://www.spiegel.de/reise/europa/reisen-trotz-klimakrise-wie-hitze-und-waldbraende-das-reiseverhalten-veraendern-a-1e3664fa-2680-437b-aab3-41d0f9dbfd54#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T03:30:00+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Der Unmut der Republikaner über Trump wird lauter",
+      "link": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T02:54:49+00:00"
+    },
+    {
+      "titel": "Opferzahl weiter gestiegen – Schlamm erschwert Rettungsarbeiten",
+      "link": "https://www.spiegel.de/panorama/opferzahl-weiter-gestiegen-schlamm-erschwert-rettungsarbeiten-a-90a40465-c70f-47c4-9959-ef319b14148c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T02:50:00+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: Irans Revolutionsgarden: Haben volle Kontrolle über Straße von Hormus",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-strasse-von-hormus-schifffahrt-meerenge-blockade-kontrolle-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-29T02:10:42+00:00"
+    },
+    {
+      "titel": "New York City: Stadtreinigung verzeichnet weniger Ratten in der Metropole",
+      "link": "https://www.spiegel.de/panorama/new-york-city-stadtreinigung-verzeichnet-weniger-ratten-in-der-metropole-a-707982a1-bbd2-47f2-80d2-1938426e7dac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T01:58:00+00:00"
+    },
+    {
+      "titel": "USA: Trump: USA sichern sich riesige Ölvorkommen in Venezuela",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-venezuela-oelreserven-benzinpreis-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-29T01:47:15+00:00"
+    },
+    {
+      "titel": "USA: Trump verkündet Öl-Abkommen mit Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-trump-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T00:55:29+00:00"
+    },
+    {
+      "titel": "Venezuela: USA sichern sich Kontrolle über riesige Ölvorkommen",
+      "link": "https://www.spiegel.de/ausland/venezuela-usa-sichern-sich-kontrolle-ueber-riesige-oelvorkommen-a-5cd03513-1970-4722-bc92-d05abab74df6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T00:52:00+00:00"
+    },
+    {
+      "titel": "Dolly Parton: Nashville will Flughafen nach Country-Ikone benennen",
+      "link": "https://www.spiegel.de/panorama/dolly-parton-nashville-will-flughafen-nach-country-ikone-benennen-a-acb3d34d-42a9-4838-91ef-1cc465c2bfb1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T00:04:00+00:00"
+    },
+    {
+      "titel": "Unternehmen in Deutschland zahlen Rekordsumme für kranke Beschäftigte",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen-in-deutschland-zahlen-rekordsumme-fuer-kranke-beschaeftigte-a-00d0ae15-f996-44ac-a136-d7c7de971b89#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T00:01:00+00:00"
+    },
+    {
+      "titel": "Sturzflut: Wie China Informationen aus Tibet kontrolliert",
+      "link": "https://www.tagesschau.de/ausland/asien/china-tibet-nepal-flut-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-28T23:21:11+00:00"
+    },
+    {
+      "titel": "Selenskyj droht Russland mit bis zu 1000 Drohnen täglich",
+      "link": "https://www.spiegel.de/ausland/selenskyj-droht-russland-mit-bis-zu-1000-drohnen-taeglich-a-30a4726a-63f4-4684-8444-2b9c520b04c1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T23:11:00+00:00"
+    },
+    {
+      "titel": "US-Nationalparks: Trump-Regierung prüft Verkauf von Land im Yosemite",
+      "link": "https://www.spiegel.de/panorama/us-nationalparks-trump-regierung-prueft-verkauf-von-land-im-yosemite-a-9e026b0c-1d3d-405f-9ed4-255096c47f73#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-28T23:03:00+00:00"
+    },
     {
       "titel": "USA: Rechter Provokateur Milo Yiannopoulos von ICE festgenommen",
       "link": "https://www.spiegel.de/ausland/usa-rechter-provokateur-milo-yiannopoulos-von-ice-festgenommen-a-db460207-2423-4133-b3fe-db8f160c0404#ref=rss",
@@ -31,12 +115,6 @@
       "veroeffentlicht": "2026-08-28T20:45:38+00:00"
     },
     {
-      "titel": "Mychajlo Fedorow: Ukrainischer Ex-Minister wird Berater im italienischen Verteidigungsministerium",
-      "link": "https://www.spiegel.de/ausland/mychajlo-fedorow-ukrainischer-ex-minister-wird-berater-im-italienischen-verteidigungsministerium-a-3032c4cb-d75b-4454-9ad6-5c6c7489eb75#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T20:08:00+00:00"
-    },
-    {
       "titel": "Kevin Warsh: Ein Fed-Chef, der Ungewissheit zulässt",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-warsh-rede-100.html",
       "quelle": "Tagesschau",
@@ -55,76 +133,16 @@
       "veroeffentlicht": "2026-08-28T19:35:35+00:00"
     },
     {
-      "titel": "Italien: Nach Bombenanschlag – TV-Reporter Sigfrido Ranucci verliert Sendung",
-      "link": "https://www.spiegel.de/ausland/italien-nach-bombenanschlag-tv-reporter-sigfrido-ranucci-verliert-sendung-a-86dc4ca2-e599-48ca-ada2-9d8a5dcbf81a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T19:35:00+00:00"
-    },
-    {
-      "titel": "Rembrandt: Großbritannien verhängt Ausfuhrsperre für »Porträt der Catrina Hooghsaet«",
-      "link": "https://www.spiegel.de/kultur/rembrandt-grossbritannien-verhaengt-ausfuhrsperre-fuer-portraet-der-catrina-hooghsaet-a-c4cc7da9-3619-48b0-889f-d3260606d619#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T19:21:00+00:00"
-    },
-    {
       "titel": "Chinas militärische Aufrüstung: Anlage in der Wüste wirft Fragen auf",
       "link": "https://www.tagesschau.de/ausland/asien/china-militaer-aufruestung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-28T19:02:24+00:00"
     },
     {
-      "titel": "Hendrik Holt: Flüchtiger Windkraftbetrüger hinterließ Abschiedsnachricht",
-      "link": "https://www.spiegel.de/panorama/justiz/hendrik-holt-fluechtiger-windkraftbetrueger-hinterliess-abschiedsnachricht-a-9cba305d-581f-4cb4-954b-73a22dd59199#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T18:29:00+00:00"
-    },
-    {
-      "titel": "Belgien: Ermittler wegen ausufernder Waffengewalt in Brüssel alarmiert",
-      "link": "https://www.spiegel.de/panorama/justiz/belgien-ermittler-wegen-ausufernder-waffengewalt-in-bruessel-alarmiert-a-bd504297-7643-414f-9cbc-ef8e69d283dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T18:17:00+00:00"
-    },
-    {
       "titel": "Nach Betriebsversammlungen: Lauter offene Fragen bei VW",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-betriebsversammlungen-bilanz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-28T17:57:27+00:00"
-    },
-    {
-      "titel": "Wahl in Frankreich: Warum die Radikalen Marine Le Pen und Jean-Luc Mélenchon im Vorteil sind",
-      "link": "https://www.spiegel.de/ausland/wahl-in-frankreich-warum-die-radikalen-marine-le-pen-und-jean-luc-melenchon-im-vorteil-sind-a-fe87d468-3c35-4a0c-afda-911d03352d28#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T17:50:00+00:00"
-    },
-    {
-      "titel": "Bundesliga-Saisonauftakt: Bayern München stellt sofort klar, wer der Titelfavorit ist",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-saisonauftakt-fc-bayern-empfaengt-vfb-stuttgart-zum-start-a-e14d0cff-f249-44f6-b50e-6d3b6c811af0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T17:49:00+00:00"
-    },
-    {
-      "titel": "Flutwelle im Himalaya: Überlebende stehen vor Trümmern ihrer Existenz",
-      "link": "https://www.tagesschau.de/ausland/asien/china-nepal-sturzflut-geroellawine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-28T17:35:14+00:00"
-    },
-    {
-      "titel": "Spanien: Deutsche Touristin tot am Strand aufgefunden – Partner festgenommen",
-      "link": "https://www.spiegel.de/panorama/justiz/spanien-deutsche-touristin-tot-am-strand-aufgefunden-partner-festgenommen-a-2b0d674f-a6d1-4f7c-93cc-cd4244dcc4b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-28T17:22:00+00:00"
-    },
-    {
-      "titel": "Ostsee-Anrainer vereinbaren Taskforce gegen hybride Bedrohungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/treffen-ostsee-anrainer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-28T16:41:08+00:00"
-    },
-    {
-      "titel": "Marktbericht: Kurz vor dem Wochenschluss ein neues Allzeithoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-boersen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-28T16:20:42+00:00"
     },
     {
       "titel": "Norwegen: Ein Königspaar im Sturm",
@@ -139,12 +157,6 @@
       "veroeffentlicht": "2026-08-28T16:01:00+00:00"
     },
     {
-      "titel": "Özdemir und Pistorius werben für Verbotsverfahren von AfD-Landesverbänden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-und-oezdemir-fuer-afd-verbotsverfahren-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-28T15:51:40+00:00"
-    },
-    {
       "titel": "Bundesliga-Auftakt: Wo läuft FC Bayern gegen Stuttgart heute live im TV?",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-fc-bayern-vfb-stuttgart-heute-tv-live-li.3526035",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-sexismus-teufelsrad-figuren-li.3538479",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-28T13:55:22+00:00"
-    },
-    {
-      "titel": "Outback-Überlebende Carolina Wilga: „Ich dachte mir, ich muss hier sterben“",
-      "link": "https://www.sueddeutsche.de/panorama/carolina-wilga-outback-australien-ueberlebt-buch-li.3520134",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-28T13:52:57+00:00"
-    },
-    {
-      "titel": "Autoindustrie: Die große Krisen-Show bei VW",
-      "link": "https://www.sueddeutsche.de/wirtschaft/vw-zwickau-zukunft-arbeitsplaetze-sparplaene-vorstand-blume-betriebsversammlung-li.3537393",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-28T13:47:14+00:00"
     }
   ]
 }
