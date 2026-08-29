@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-08-29T18:53:36+00:00",
+  "aktualisiert": "2026-08-29T21:45:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Giannis Konstantelias: BVB befürchtet Kreuzbandriss nach Debüt gegen HSV",
+      "link": "https://www.spiegel.de/sport/fussball/giannis-konstantelias-bvb-befuerchtet-kreuzbandriss-nach-debuet-gegen-hsv-a-9083f30f-8142-4acd-9252-ea83ae006224#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T21:29:00+00:00"
+    },
+    {
+      "titel": "USA: Rechtsextremer Blogger Milo Yiannopoulos in sein Heimatland abgeschoben",
+      "link": "https://www.spiegel.de/ausland/usa-rechtsextremer-blogger-milo-yiannopoulos-in-sein-heimatland-abgeschoben-a-d2552392-50fb-44da-af80-fef6018807a9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T20:36:00+00:00"
+    },
+    {
+      "titel": "Kampf gegen Waldbrände: Was Europa von Portugal lernen kann",
+      "link": "https://www.spiegel.de/ausland/kampf-gegen-waldbraende-was-europa-von-portugal-lernen-kann-a-ba181735-32ba-4107-800b-392f5f122abb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T20:07:00+00:00"
+    },
+    {
+      "titel": "Aus für Tadej Pogačar bei der Vuelta: Es ist jetzt das passiert, was man nicht für möglich hielt",
+      "link": "https://www.spiegel.de/sport/radsport/aus-fuer-tadej-pogacar-bei-der-vuelta-es-ist-jetzt-das-passiert-was-man-nicht-fuer-moeglich-hielt-a-1db6523b-e473-4fd2-ac49-d2e554415819#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T19:51:00+00:00"
+    },
+    {
+      "titel": "Westjordanland: Netanyahu verurteilt Siedlergewalt ungewöhnlich scharf",
+      "link": "https://www.spiegel.de/ausland/westjordanland-netanyahu-verurteilt-siedlergewalt-ungewoehnlich-scharf-a-d9040194-c7a1-42d1-84ab-fbe79f1b5cd4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T19:29:00+00:00"
+    },
+    {
+      "titel": "Jonas Deichmann und Josefine Rutkowski haben Europa per Rad umrundet",
+      "link": "https://www.spiegel.de/sport/jonas-deichmann-und-josefine-rutkowski-haben-europa-per-rad-umrundet-a-2fe13396-f362-49b5-9037-50bd5f87a6dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T19:22:00+00:00"
+    },
+    {
+      "titel": "Paris: 180.000 Badegäste in einer Saison",
+      "link": "https://www.spiegel.de/ausland/paris-180-000-badegaeste-in-einer-saison-a-30f74e50-41e7-46a9-a756-2484e054c9c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T19:14:00+00:00"
+    },
+    {
+      "titel": "Haakon hält erste emotionale Ansprache als König von Norwegen",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T19:05:42+00:00"
+    },
+    {
+      "titel": "Venezuela: Wie Donald Trump sich des venezolanischen Öls bemächtigt",
+      "link": "https://www.spiegel.de/ausland/venezuela-wie-donald-trump-sich-des-venezolanischen-oels-bemaechtigt-a-ffa3426a-70dc-440d-83dc-b1c4b2f9d932#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T18:55:00+00:00"
+    },
     {
       "titel": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
       "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
@@ -19,58 +73,16 @@
       "veroeffentlicht": "2026-08-29T18:42:00+00:00"
     },
     {
-      "titel": "BVB in der Bundesliga: Zwei Griechen-Dribbler sorgen für Überschwang",
+      "titel": "BVB in der Bundesliga: Ein Sieg, begleitet von Sorgen",
       "link": "https://www.sueddeutsche.de/sport/bvb-hsv-bundesliga-li.3539120",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-29T18:38:23+00:00"
-    },
-    {
-      "titel": "Ecuadors Ex-Präsident Lenín Moreno wegen Korruption verurteilt",
-      "link": "https://www.spiegel.de/ausland/ecuadors-ex-praesident-lenin-moreno-wegen-korruption-verurteilt-a-7ff4b019-5250-4ade-a5e2-8755442e84ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T18:32:00+00:00"
-    },
-    {
-      "titel": "Pakistan: 14 Neugeborene kommen in Flammen ums Leben, jetzt werden acht Beamte suspendiert",
-      "link": "https://www.spiegel.de/ausland/pakistan-14-neugeborene-kommen-in-flammen-ums-leben-jetzt-werden-acht-beamte-suspendiert-a-11995945-fda0-4a5d-aec0-78076f5a9de6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T18:21:00+00:00"
-    },
-    {
-      "titel": "Überlebende von Seilbahnunglück in Lissabon berichten zum ersten Mal: »Ich spürte: Er ist nicht tot«",
-      "link": "https://www.spiegel.de/panorama/ueberlebende-von-seilbahnunglueck-in-lissabon-berichten-zum-ersten-mal-ich-spuerte-er-ist-nicht-tot-a-4a253f49-74cb-4de1-a1a6-d6b75318bb5a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T17:41:00+00:00"
-    },
-    {
-      "titel": "Atacama-Wüste in Chile ist plötzlich von Schnee bedeckt",
-      "link": "https://www.spiegel.de/wissenschaft/natur/atacama-wueste-in-chile-ist-ploetzlich-von-schnee-bedeckt-a-f5b4a598-f94c-4af9-9f45-95c858499b44#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T17:35:00+00:00"
-    },
-    {
-      "titel": "Italien: Giorgia Meloni und die Affäre um TV-Journalist Sigfrido Ranucci",
-      "link": "https://www.spiegel.de/ausland/italien-giorgia-meloni-und-die-affaere-um-tv-journalist-sigfrido-ranucci-a-f2688108-121d-4d7b-a3fd-81b3ea55462c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T17:13:00+00:00"
-    },
-    {
-      "titel": "Kaliforniens berühmte Küstenstraße: Abschnitt des Highway 1 wegen Bränden gesperrt",
-      "link": "https://www.spiegel.de/panorama/kaliforniens-beruehmte-kuestenstrasse-abschnitt-des-highway-1-wegen-braenden-gesperrt-a-f13bb962-c0aa-4368-974b-cf71f5944a03#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T16:37:00+00:00"
     },
     {
       "titel": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-29T16:33:48+00:00"
-    },
-    {
-      "titel": "Spanienrundfahrt Vuelta: Tadej Pogačar muss nach heftigem Sturz aufgeben",
-      "link": "https://www.spiegel.de/sport/radsport/spanienrundfahrt-vuelta-tadej-pogacar-muss-nach-heftigem-sturz-aufgeben-a-f0a54c2b-b8f6-4507-86f3-35aea25a9526#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T16:20:00+00:00"
     },
     {
       "titel": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
@@ -83,12 +95,6 @@
       "link": "https://www.sueddeutsche.de/sport/elversberg-bundesliga-leverkusen-li.3539109",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-29T16:11:06+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: SV Elversberg feiert Ligadebüt mit Sieg über Bayer Leverkusen",
-      "link": "https://www.spiegel.de/sport/fussball/fussall-bundesliga-sv-elversberg-feiert-ligadebuet-mit-sieg-ueber-bayer-leverkusen-a-4743281b-776f-4205-a56d-19a0ea1320b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T16:08:00+00:00"
     },
     {
       "titel": "Erster Spieltag der Bundesliga: Ebnoutalib trifft dreifach, aber die letzte Aktion gehört Union",
@@ -137,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-wildberries-angriffe-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-29T12:39:06+00:00"
-    },
-    {
-      "titel": "Schiefer als der in Pisa - der Turm von Michalovice",
-      "link": "https://www.tagesschau.de/ausland/schiefe-turm-wehrturm-michalovice-tschechien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-29T12:09:11+00:00"
     },
     {
       "titel": "„Kraftwerk“-Konzert in Dessau: Eine Liebesbekundung ans Bauhaus",
