@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-29T11:07:20+00:00",
+  "aktualisiert": "2026-08-29T15:39:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,64 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Jamal Musiala: Jürgen Klopp schickt Sprachnachricht an Bayern-Star",
-      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-juergen-klopp-schickt-sprachnachricht-an-bayern-star-a-28ef1ea2-46b6-44e4-8375-223b3df55334#ref=rss",
+      "titel": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test",
+      "link": "https://www.spiegel.de/mobilitaet/auto/audi-q6-e-tron-und-xpeng-p7-deutsches-und-chinesisches-elektroauto-im-technik-test-a-b488b831-49dd-4538-8a8f-a94e7638e59e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T10:58:00+00:00"
+      "veroeffentlicht": "2026-08-29T15:28:00+00:00"
     },
     {
-      "titel": "Ceuta: Spanien bittet in Migrantenkrise um Unterstützung",
-      "link": "https://www.spiegel.de/ausland/ceuta-spanien-bittet-in-migrantenkrise-um-unterstuetzung-a-f028b666-2ac2-4194-9c0e-68950b54dfa2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T10:53:00+00:00"
-    },
-    {
-      "titel": "More Nutrition, Naturally You: Foodwatch mahnt Marken von Christian Wolf, Pamela Reif sowie ESN wegen Ashwagandha-Produkten ab",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/more-nutrition-naturally-you-foodwatch-mahnt-marken-von-christian-wolf-pamela-reif-sowie-esn-wegen-ashwagandha-produkten-ab-a-886d680d-0f7f-4b2a-b43f-036b18e40471#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T10:53:00+00:00"
-    },
-    {
-      "titel": "Russland-Ukraine-Krieg: Ukraine meldet mindestens 27 Tote bei russischem Angriff nahe Kyjiw",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-ukraine-meldet-mindestens-27-tote-bei-russischem-angriff-nahe-kyjiw-a-c238673d-6a5e-4494-93a4-3a2c1427ace0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T10:23:00+00:00"
-    },
-    {
-      "titel": "USA: Gericht erklärt Visa-Entzug für propalästinensische Studierende für rechtswidrig",
-      "link": "https://www.spiegel.de/ausland/usa-gericht-erklaert-visa-entzug-fuer-propalaestinensische-studierende-fuer-rechtswidrig-a-dd98601d-b695-475c-bc9d-bb5d1ab38e48#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T10:20:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T10:05:00+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Viele Tote bei Luftangriff im Raum Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
+      "titel": "Iran räumt wirtschaftliche Kriegsfolgen ein - dennoch kein Einlenken",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-kriegsfolgen-wirtschaft-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-29T10:04:37+00:00"
+      "veroeffentlicht": "2026-08-29T15:20:56+00:00"
     },
     {
-      "titel": "Hannover: Frau zeigt offenbar Hitlergruß im Zug – Mitreisende schreiten ein",
-      "link": "https://www.spiegel.de/panorama/hannover-frau-zeigt-offenbar-hitlergruss-im-zug-mitreisende-schreiten-ein-a-8db08c56-aa1a-4ee0-9f33-7c052d58ef28#ref=rss",
+      "titel": "Nepal: Suche nach Überlebenden geht weiter, Gefahr von Seuchen steigt",
+      "link": "https://www.spiegel.de/ausland/nepal-suche-nach-ueberlebenden-geht-weiter-gefahr-von-seuchen-steigt-a-1e53e76a-f435-4416-aa38-8b2edb913662#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T10:00:00+00:00"
+      "veroeffentlicht": "2026-08-29T15:19:00+00:00"
+    },
+    {
+      "titel": "Coco Gauff: US-Tennisstar wundert sich über dreiste Ticketwünsche",
+      "link": "https://www.spiegel.de/sport/tennis/coco-gauff-us-tennisstar-wundert-sich-ueber-dreiste-ticketwuensche-a-f0b63d40-95ad-465d-9b93-3b55212ad3b7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T15:07:00+00:00"
     },
     {
       "titel": "»Journey«: Platz 10 im SPIEGEL Games-Kanon",
       "link": "https://www.spiegel.de/kultur/journey-platz-10-im-spiegel-games-kanon-a-4363f494-d0fb-42a5-aeaf-15fcf1063d52#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T09:52:00+00:00"
+      "veroeffentlicht": "2026-08-29T14:43:00+00:00"
     },
     {
-      "titel": "»Shadow of the Colossus«: Platz 4 im SPIEGEL Games-Kanon",
-      "link": "https://www.spiegel.de/kultur/shadow-of-the-colossus-platz-4-im-spiegel-games-kanon-a-cac3ca5d-8691-49fa-9d41-5c1687086eb0#ref=rss",
+      "titel": "Großglockner in Österreich: Bergführer bedrängt Alpinisten – Polizei ermittelt",
+      "link": "https://www.spiegel.de/sport/grossglockner-in-oesterreich-bergfuehrer-bedraengt-alpinisten-polizei-ermittelt-a-4405b83b-80d3-417b-88b8-00f9ce0762b0#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-29T09:51:00+00:00"
+      "veroeffentlicht": "2026-08-29T14:42:00+00:00"
+    },
+    {
+      "titel": "Offenbar Putschversuch gegen Militärjunta in Niger - Schüsse in Niamey",
+      "link": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-meuterei-soldaten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T14:34:23+00:00"
+    },
+    {
+      "titel": "2. Bundesliga: Drei Spiele, 22 Tore – Wolfsburg, Heidenheim und Co. liefern Spektakel",
+      "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-drei-spiele-22-tore-wolfsburg-heidenheim-und-co-liefern-spektakel-a-b858d800-b6ca-4c85-9418-b0fd6a782879#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T14:25:00+00:00"
+    },
+    {
+      "titel": "Außergewöhnlich heftiges Unwetter unter anderem am Bodensee",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T14:05:28+00:00"
+    },
+    {
+      "titel": "Krieg gegen die Ukraine: Viele Tote bei Luftangriff im Raum Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T13:52:07+00:00"
+    },
+    {
+      "titel": "»Hollow Knight«: Platz 13 im SPIEGEL Games-Kanon",
+      "link": "https://www.spiegel.de/kultur/hollow-knight-platz-13-im-spiegel-games-kanon-a-84786134-7b4c-4025-a3e8-4170561fd430#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T13:44:00+00:00"
+    },
+    {
+      "titel": "Stefan Mross: Ende der ARD-Schlagershow »Immer wieder sonntags« nach zwei Jahrzehnten",
+      "link": "https://www.spiegel.de/kultur/tv/stefan-mross-ende-der-ard-schlagershow-immer-wieder-sonntags-nach-zwei-jahrzehnten-a-f969a3b7-4923-4daa-8687-d289776ede48#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T13:42:00+00:00"
+    },
+    {
+      "titel": "Beastie Boys: Erstes Album nach dem Tod von Adam Yauch - Party auf Ruinen",
+      "link": "https://www.spiegel.de/kultur/musik/beastie-boys-erstes-album-nach-dem-tod-von-adam-yauch-party-auf-ruinen-a-60ff77e2-48e0-46af-b438-4d3fd4de1302#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-29T13:41:00+00:00"
+    },
+    {
+      "titel": "Ex-Kohlekraftwerk Frimmersdorf: RWE sprengt riesigen Schornstein",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rwe-sprengung-schornstein-frimmersdorf-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T13:37:50+00:00"
+    },
+    {
+      "titel": "FC Bayern beim 5:1 gegen Stuttgart: Mutig kopiert ist schon verloren",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-stuttgart-bundesliga-li.3538721",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-29T13:35:27+00:00"
+    },
+    {
+      "titel": "Referendum: Nimmt Island Beitrittsverhandlungen mit der EU auf?",
+      "link": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T13:02:55+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Ukraine: Zahlreiche Tote bei russischem Drohnenangriff",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-wildberries-angriffe-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-29T12:39:06+00:00"
+    },
+    {
+      "titel": "Schiefer als der in Pisa - der Turm von Michalovice",
+      "link": "https://www.tagesschau.de/ausland/schiefe-turm-wehrturm-michalovice-tschechien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-29T12:09:11+00:00"
+    },
+    {
+      "titel": "„Kraftwerk“-Konzert in Dessau: Eine Liebesbekundung ans Bauhaus",
+      "link": "https://www.sueddeutsche.de/kultur/kraftwerk-dessau-konzert-bauhaus-li.3539024",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-29T12:00:13+00:00"
+    },
+    {
+      "titel": "USA und Venezuela: Was hinter dem „größten Öl-Deal der Weltgeschichte“ steckt",
+      "link": "https://www.sueddeutsche.de/politik/usa-donald-trump-venezuela-oel-deal-li.3539010",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-29T11:24:10+00:00"
     },
     {
       "titel": "Estland als Testlabor für neue synthetische Drogen",
@@ -79,40 +139,16 @@
       "veroeffentlicht": "2026-08-29T09:33:00+00:00"
     },
     {
-      "titel": "Sturzflut in Nepal und Tibet: Zahl der Toten steigt über 600",
+      "titel": "Sturzflut in Nepal und Tibet: Zahl der Toten steigt über 670",
       "link": "https://www.tagesschau.de/ausland/asien/himalaya-sturzflut-nepal-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-29T09:31:12+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Ukraine: Zahlreiche Tote bei russischem Drohnenangriff",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-wildberries-angriffe-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-29T09:23:00+00:00"
-    },
-    {
-      "titel": "Interview: Was den Erfolg der AfD antreibt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-rechtsextremismus-quent-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-29T07:56:07+00:00"
-    },
-    {
-      "titel": "Was steckt hinter dem Öl-Abkommen mit Venezuela?",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-oel-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-29T07:54:08+00:00"
     },
     {
       "titel": "USA: Trump: USA sichern sich riesige Ölvorkommen in Venezuela",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-venezuela-oelreserven-benzinpreis-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-29T07:45:00+00:00"
-    },
-    {
-      "titel": "Bas stellt Krankschreibung ab erstem Tag infrage und stellt Bedingungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-attestpflicht-erster-krankheitstag-abschlagsfreie-rente-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-29T07:44:43+00:00"
     },
     {
       "titel": "Eichmann-Prozess: „Die Rettungsversuche ziehen sich bis in die Neunziger“",
@@ -131,42 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-pistorius-oezdemir-afd-verbot-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-29T06:45:26+00:00"
-    },
-    {
-      "titel": "Was die energetische Sanierung von Häusern beschleunigen könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/haus-sanierung-tempo-umbau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-29T06:29:16+00:00"
-    },
-    {
-      "titel": "Himalaja: Schlamm und Regen erschweren Suche nach Vermissten",
-      "link": "https://www.sueddeutsche.de/panorama/nepal-china-flut-himalaja-schlamm-regen-suche-vermisste-li.3538964",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-29T05:59:27+00:00"
-    },
-    {
-      "titel": "US-Notenbankchef Kevin Warsh: Von der Taube zum Falken",
-      "link": "https://www.sueddeutsche.de/wirtschaft/kevin-warsh-fed-usa-inflation-zinsen-trump-li.3536749",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-29T05:24:36+00:00"
-    },
-    {
-      "titel": "Rettungsteams im Himalaya kämpfen sich durch Katastrophengebiet",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-tibet-flut-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-29T05:12:54+00:00"
-    },
-    {
-      "titel": "Podcast „Auf den Punkt“: Gehen oder bleiben? Wie Menschen mit Migrationsgeschichte auf die Wahl in Sachsen-Anhalt blicken",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-landtagswahl-sachsen-anhalt-afd-migranten-rassismus-li.3538607",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-29T05:00:00+00:00"
-    },
-    {
-      "titel": "Referendum: Nimmt Island Beitrittsverhandlungen mit der EU auf?",
-      "link": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-29T03:43:40+00:00"
     }
   ]
 }
