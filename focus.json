@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-29T10:33:39+00:00",
+  "aktualisiert": "2026-08-29T15:21:33+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Freiburg – Union Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktionsspitzen-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Viele Tote bei Luftangriff im Raum Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
-      "titel": "Zahl der Toten steigt über 600",
+      "rang": 2,
+      "titel": "Zahl der Toten steigt über 670",
       "link": "https://www.tagesschau.de/ausland/asien/himalaya-sturzflut-nepal-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Offenbar Putschversuch gegen Militärjunta in Niger - Schüsse in Niamey",
+      "link": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-meuterei-soldaten-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
