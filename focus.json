@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-08-30T12:20:12+00:00",
+  "aktualisiert": "2026-08-30T16:49:44+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Opferzahl steigt, Suche nach Vermissten geht weiter",
-      "link": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-putin-eskalation-100.html",
+      "quelle": "Tagesschau",
+      "icon": "⛈️"
+    },
+    {
+      "rang": 2,
+      "titel": "Die lange Suche nach Gewissheit",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
       "link": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Junta in Niger schlägt Aufstand von Soldaten nieder",
-      "link": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-russland-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
