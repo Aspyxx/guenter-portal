@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-08-30T16:49:44+00:00",
+  "aktualisiert": "2026-08-30T19:31:53+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-putin-eskalation-100.html",
+      "titel": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
+      "link": "https://www.tagesschau.de/kommentar/island-referendum-104.html",
       "quelle": "Tagesschau",
-      "icon": "⛈️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
@@ -17,10 +17,10 @@
     },
     {
       "rang": 3,
-      "titel": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
-      "link": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-putin-eskalation-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "⛈️"
     }
   ]
 }
