@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-30T11:56:47+00:00",
+  "aktualisiert": "2026-08-30T16:42:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Gianni Infantino: Niederländischer Verband fordert Fifa-Zukunftsgipfel vor Wahl",
-      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-niederlaendischer-verband-fordert-fifa-zukunftsgipfel-vor-wahl-a-062ed9a4-fa96-4456-9734-91c17d0ece9e#ref=rss",
+      "titel": "Hockey-WM: Deutschland schlägt Spanien im Finale und holt vierten WM-Titel",
+      "link": "https://www.spiegel.de/sport/hockey-wm-deutschland-schlaegt-spanien-im-finale-und-holt-vierten-wm-titel-a-501db91c-b4ee-4d46-add3-cae61e54fa2d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T11:44:00+00:00"
+      "veroeffentlicht": "2026-08-30T16:37:00+00:00"
     },
     {
-      "titel": "Leipzig: Neue Maßnahmen gegen Russland - Wann reagiert Friedrich Merz auf die Drohnenattacke?",
-      "link": "https://www.spiegel.de/politik/deutschland/leipzig-neue-massnahmen-gegen-russland-wann-reagiert-friedrich-merz-auf-die-drohnenattacke-a-902499ab-a694-4bba-9e79-368bbd5f3203#ref=rss",
+      "titel": "Nordzypern: Passagierfähre kentert kurz nach Auslaufen – mehrere Tote",
+      "link": "https://www.spiegel.de/panorama/nordzypern-passagierfaehre-kentert-kurz-nach-auslaufen-mehrere-tote-a-ec218f52-f829-45c9-91c5-f334ef0caa3f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T11:35:00+00:00"
+      "veroeffentlicht": "2026-08-30T16:16:00+00:00"
+    },
+    {
+      "titel": "Nepal und Tibet: Warum aus Tibet so wenig über die Sturzflut bekannt ist",
+      "link": "https://www.spiegel.de/ausland/nepal-und-tibet-warum-aus-tibet-so-wenig-ueber-die-sturzflut-bekannt-ist-a-a9e97d20-0cf6-401c-b515-5c565b080714#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T16:14:00+00:00"
+    },
+    {
+      "titel": "Generation Deutschland: Vorstand der AfD-Jugend scheitert an inhaltlicher Debatte",
+      "link": "https://www.spiegel.de/politik/generation-deutschland-vorstand-der-afd-jugend-scheitert-an-inhaltlicher-debatte-a-8822018b-128f-4dee-bb8f-4e2e5b3f8b56#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T16:13:00+00:00"
+    },
+    {
+      "titel": "Warum türkische TV-Serien so erfolgreich sind",
+      "link": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T15:56:19+00:00"
+    },
+    {
+      "titel": "Mindestens sieben Menschen sterben bei Fährunglück vor Zypern",
+      "link": "https://www.tagesschau.de/ausland/europa/zypern-faehre-seenot-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T15:46:00+00:00"
+    },
+    {
+      "titel": "Bundesliga: Suzukis Dreierpack lässt Freiburg jubeln",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-sc-freiburg-suzuki-werder-bremen-li.3539539",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T15:26:05+00:00"
+    },
+    {
+      "titel": "Bundesliga: Werder Bremen verliert erst Jens Stage und dann in Freiburg",
+      "link": "https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-verliert-erst-jens-stage-und-dann-in-freiburg-a-5d9f7687-ec52-4e91-9142-84ca52630642#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T15:26:00+00:00"
+    },
+    {
+      "titel": "Zypern: Fähre mit 267 Menschen kentert – mehrere Tote",
+      "link": "https://www.sueddeutsche.de/panorama/unglueck-nordzypern-mittelmeer-faehre-li.3539479",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T15:21:23+00:00"
+    },
+    {
+      "titel": "Angriffe gegen NATO-Staaten: \"Putin eskaliert\"",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-putin-eskalation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T15:12:40+00:00"
+    },
+    {
+      "titel": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T15:11:00+00:00"
+    },
+    {
+      "titel": "Esther Schweins macht Ausbildung zur Trainerin für Stuhl- und Rollatortanz",
+      "link": "https://www.spiegel.de/panorama/leute/esther-schweins-macht-ausbildung-zur-trainerin-fuer-stuhl-und-rollatortanz-a-201812c7-48b6-49d2-b938-7cb6c8a2d3b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T14:56:00+00:00"
+    },
+    {
+      "titel": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T14:49:49+00:00"
+    },
+    {
+      "titel": "Neues Weltraumteleskop ins All gestartet",
+      "link": "https://www.tagesschau.de/wissen/nancy-grace-roman-weltraum-teleskop-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T14:45:42+00:00"
+    },
+    {
+      "titel": "ADHS bei Lehrern: »Es kann sein, dass ich durch die ADHS nicht der beste Lehrer bin«",
+      "link": "https://www.spiegel.de/karriere/adhs-bei-lehrern-es-kann-sein-dass-ich-durch-die-adhs-nicht-der-beste-lehrer-bin-a-99b1120a-0a3c-4149-af7c-c3b25f66328a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T14:41:00+00:00"
+    },
+    {
+      "titel": "Costa Rica: Deutscher Konsul Mario Genz bei Unfall in Lagune tödlich verunglückt",
+      "link": "https://www.spiegel.de/ausland/costa-rica-deutscher-konsul-mario-genz-bei-unfall-in-lagune-toedlich-verunglueckt-a-e9e7313a-62e3-49e0-841d-23239dcc782a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T14:30:00+00:00"
+    },
+    {
+      "titel": "Ebola-Impfungen in der DR Kongo: \"Hoffnung auf weniger schwere Krankheitsverläufe\"",
+      "link": "https://www.tagesschau.de/wissen/interview-ebola-kongo-impfungen-charite-sander-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T14:14:07+00:00"
+    },
+    {
+      "titel": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
+      "link": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T14:01:07+00:00"
+    },
+    {
+      "titel": "Ruder-WM in Amsterdam: Oliver Zeidler feiert seinen vierten Titel im Einer",
+      "link": "https://www.spiegel.de/sport/olympia/ruder-wm-in-amsterdam-oliver-zeidler-feiert-seinen-vierten-titel-im-einer-a-365e93b1-7952-4696-81d7-7bab358d6be0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T13:59:00+00:00"
+    },
+    {
+      "titel": "Bundesliga: Dortmunds griechische Tragödie",
+      "link": "https://www.sueddeutsche.de/sport/bvb-hsv-konstantelias-kreuzbandriss-li.3539212",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T13:53:35+00:00"
+    },
+    {
+      "titel": "Nach Sturzflut in Nepal: Die lange Suche nach Gewissheit",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T13:52:40+00:00"
+    },
+    {
+      "titel": "Tottenham in der Premier League: Null Punkte + null Tore = Letzter",
+      "link": "https://www.sueddeutsche.de/sport/premier-league-tottenham-letzter-tonali-spott-li.3539214",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T13:24:13+00:00"
+    },
+    {
+      "titel": "Referendum: Die Isländer sehen keinen Grund, etwas zu ändern",
+      "link": "https://www.sueddeutsche.de/meinung/island-eu-referendum-beitritt-li.3538524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T12:45:11+00:00"
+    },
+    {
+      "titel": "Saison-Aus von Tadej Pogacar: Fatale Sekunden auf der Landstraße CV 675",
+      "link": "https://www.sueddeutsche.de/sport/tadej-pogacar-sturzhergang-vuelta-saison-aus-li.3539223",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T12:40:17+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Gegen das echte Problem des Teufelsrads hilft keine Farbe",
+      "link": "https://www.sueddeutsche.de/meinung/oktoberfest-teufelsrad-sexismus-gleichstellung-upskirting-li.3539238",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T12:01:46+00:00"
     },
     {
       "titel": "Leipziger Auftaktsieg: Gladbach hat ein Reitz-Thema",
@@ -25,148 +163,10 @@
       "veroeffentlicht": "2026-08-30T11:25:49+00:00"
     },
     {
-      "titel": "Krieg gegen Ukraine: Moskau kündigt »massive Angriffe« an",
-      "link": "https://www.spiegel.de/wirtschaft/krieg-gegen-ukraine-moskau-kuendigt-massive-angriffe-an-a-bdafde31-7947-4e29-9652-641932f4a1e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T10:40:00+00:00"
-    },
-    {
-      "titel": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T10:31:14+00:00"
-    },
-    {
-      "titel": "Wie lang ist ein Kettenglied? - Rätsel der Woche",
-      "link": "https://www.spiegel.de/karriere/wie-lang-ist-ein-kettenglied-raetsel-der-woche-a-71e50ce3-f4f9-4677-9831-b9f2bae12b33#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T10:30:00+00:00"
-    },
-    {
-      "titel": "Mit Russlands Hilfe: Junta in Niger schlägt Aufstand von Soldaten nieder",
-      "link": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T10:23:45+00:00"
-    },
-    {
-      "titel": "Afghanistan: Hessischer Unternehmer baut Eisenbahn am Hindukusch",
-      "link": "https://www.spiegel.de/ausland/afghanistan-hessischer-unternehmer-baut-eisenbahn-am-hindukusch-a-f9a09cae-3d10-4850-92de-6997a1b50449#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T10:21:00+00:00"
-    },
-    {
-      "titel": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
-      "link": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T10:12:39+00:00"
-    },
-    {
-      "titel": "Tennis: Roger Federer tränenreich in Hall of Fame aufgenommen",
-      "link": "https://www.spiegel.de/sport/tennis/tennis-roger-federer-traenenreich-in-hall-of-fame-aufgenommen-a-0c99250d-d50e-436b-929d-50cb9ae04dc5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T10:10:00+00:00"
-    },
-    {
-      "titel": "Los Angeles: Villa Aurora als Ort des Exils – knapp dem Feuer entgangen",
-      "link": "https://www.spiegel.de/kultur/los-angeles-villa-aurora-als-ort-des-exils-knapp-dem-feuer-entgangen-a-445bb314-de61-45f4-be80-35646547bbfe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T09:49:00+00:00"
-    },
-    {
-      "titel": "Duisburg: Häftling flieht über Gefängnisdach aus JVA Hamborn",
-      "link": "https://www.spiegel.de/panorama/justiz/duisburg-haeftling-flieht-ueber-gefaengnisdach-aus-jva-hamborn-a-43a8a526-3e45-417a-bdbf-ee226df0d43d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T09:46:00+00:00"
-    },
-    {
-      "titel": "Leute: Johnny Depp trifft Johnny Däpp",
-      "link": "https://www.sueddeutsche.de/panorama/johnny-depp-johnny-daepp-lorenz-bueffel-hollywood-ballermann-promis-li.3539255",
+      "titel": "Vor den Landtagswahlen in Ostdeutschland: Eine Republik dreht am Rad",
+      "link": "https://www.sueddeutsche.de/politik/afd-demokratie-ostdeutschland-herausforderungen-buecher-li.3533732",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T09:37:15+00:00"
-    },
-    {
-      "titel": "Referendum: Isländer stimmen gegen EU-Beitrittsverhandlungen",
-      "link": "https://www.sueddeutsche.de/politik/island-abstimmung-eu-betritt-li.3539225",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T09:36:59+00:00"
-    },
-    {
-      "titel": "SV Elversberg: Ein Underdog, der gar keinen Underdog-Fußball spielt",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-elversberg-aufsteiger-erster-sieg-leverkusen-li.3539221",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T09:28:22+00:00"
-    },
-    {
-      "titel": "Island: Isländer stimmen gegen EU-Beitrittsverhandlungen",
-      "link": "https://www.spiegel.de/ausland/island-islaender-stimmen-gegen-eu-beitrittsgespraeche-a-b81e30b2-02b5-4060-82a6-6ccac768c6c1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T09:28:00+00:00"
-    },
-    {
-      "titel": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T08:29:48+00:00"
-    },
-    {
-      "titel": "Venezuela: Trumps Öl-Deal nützt nur zwei Autokraten",
-      "link": "https://www.sueddeutsche.de/meinung/venezuela-donald-trump-delcy-rodriguez-oelkonzerne-li.3539070",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T08:25:55+00:00"
-    },
-    {
-      "titel": "Urlaub: Geländegängige Wohnmobile sind der neue Trend",
-      "link": "https://www.sueddeutsche.de/wirtschaft/caravan-salon-wohnmobile-wohnwagen-fuehrerschein-li.3536746",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T08:22:16+00:00"
-    },
-    {
-      "titel": "Schweiz: Eine Tote und mehrere Verletzte durch Schüsse auf Techno-Festival",
-      "link": "https://www.sueddeutsche.de/panorama/schuesse-schweiz-techno-festival-li.3539196",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T08:17:00+00:00"
-    },
-    {
-      "titel": "Knappes Rennen bei EU-Referendum in Island",
-      "link": "https://www.tagesschau.de/ausland/europa/island-referendum-auszaehlung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T07:13:42+00:00"
-    },
-    {
-      "titel": "Rosenheimer Bahnhof: Frau stirbt nach Messerangriff – Verdächtiger festgenommen",
-      "link": "https://www.sueddeutsche.de/bayern/rosenheim-messer-angriff-frau-tot-li.3539208",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T07:08:10+00:00"
-    },
-    {
-      "titel": "Superreiche in New York: \"Wir wollen mehr Steuern zahlen\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-reichensteuer-millionaere-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T06:29:42+00:00"
-    },
-    {
-      "titel": "Antisemitismusbeauftragter: Wer folgt auf Felix Klein?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/antisemitismus-beauftragter-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T06:00:46+00:00"
-    },
-    {
-      "titel": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
-      "link": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T05:16:43+00:00"
-    },
-    {
-      "titel": "Westjordanland: Netanjahu verurteilt Siedlergewalt ungewöhnlich scharf",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-westjordanland-siedlergewalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T02:14:23+00:00"
-    },
-    {
-      "titel": "USA: Trumps Erdöl-Deal mit Venezuela wirft Fragen auf",
-      "link": "https://www.sueddeutsche.de/politik/venezuela-usa-erdoel-deal-trump-rodriguez-li.3539062",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T01:42:17+00:00"
+      "veroeffentlicht": "2026-08-30T09:57:48+00:00"
     }
   ]
 }
