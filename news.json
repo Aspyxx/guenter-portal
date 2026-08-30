@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-30T19:29:26+00:00",
+  "aktualisiert": "2026-08-30T22:06:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Schüsse in Aarau: Wer tötete auf einer Schweizer Technoparty?",
+      "link": "https://www.spiegel.de/ausland/schuesse-in-aarau-wer-toetete-auf-einer-schweizer-technoparty-a-e67b1ab2-697e-4f13-9285-a25729635962#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T21:42:00+00:00"
+    },
+    {
+      "titel": "Flutkatastrophe in Nepal: Schulleiter rettete wohl Hunderte Schüler in letzter Sekunde",
+      "link": "https://www.sueddeutsche.de/panorama/nepal-flut-schulleiter-rettung-li.3539571",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T21:20:27+00:00"
+    },
+    {
+      "titel": "US-Militär fliegt erstmals seit Juli Angriffe in Iran",
+      "link": "https://www.spiegel.de/ausland/us-militaer-fliegt-erstmals-seit-juli-angriffe-in-iran-a-0c2ceebe-9d59-4dbc-9ba5-47952d297060#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T21:14:00+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: Medien: US-Militär greift iranische Raketenwerfer an",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-strasse-von-hormus-raketenwerfer-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T20:46:00+00:00"
+    },
+    {
+      "titel": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
+      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T20:12:13+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Merz: AfD-Sieg würde Sachsen-Anhalt erheblich schaden",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-merz-afd-sachen-anhalt-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T19:25:00+00:00"
+    },
     {
       "titel": "Zypern: Fähre mit 267 Menschen kentert – mehrere Tote",
       "link": "https://www.sueddeutsche.de/panorama/unglueck-zypern-mittelmeer-faehre-tote-li.3539479",
@@ -29,12 +65,6 @@
       "link": "https://www.sueddeutsche.de/medien/merz-sommerinterview-ard-li.3538082",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-30T19:06:26+00:00"
-    },
-    {
-      "titel": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T19:05:32+00:00"
     },
     {
       "titel": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
@@ -85,22 +115,10 @@
       "veroeffentlicht": "2026-08-30T17:49:00+00:00"
     },
     {
-      "titel": "Trump hetzt Medienaufsicht auf TV-Journalistin Kristen Welker",
-      "link": "https://www.spiegel.de/ausland/trump-hetzt-medienaufsicht-auf-tv-journalistin-kristen-welker-a-b22303dc-0421-4c9d-8fe8-a3c1cbcf2558#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T17:43:00+00:00"
-    },
-    {
       "titel": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
       "link": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-30T17:42:47+00:00"
-    },
-    {
-      "titel": "»ZDF Fernsehgarten«: Andrea Kiewel live von Biene gestochen",
-      "link": "https://www.spiegel.de/panorama/leute/zdf-fernsehgarten-andrea-kiewel-live-von-biene-gestochen-a-57b5294e-0dfe-4c35-9148-a2fa2bb12558#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T17:09:00+00:00"
     },
     {
       "titel": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
@@ -133,6 +151,12 @@
       "veroeffentlicht": "2026-08-30T15:11:00+00:00"
     },
     {
+      "titel": "Bundesregierung: Arbeitsministerin Bas stellt Krankschreibung ab dem ersten Tag infrage",
+      "link": "https://www.sueddeutsche.de/politik/krankschreibung-ab-dem-ersten-tag-gesundheitsreform-bundesregierung-das-reformpolitik-li.3539254",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T14:47:12+00:00"
+    },
+    {
       "titel": "Bundesliga: Dortmunds griechische Tragödie",
       "link": "https://www.sueddeutsche.de/sport/bvb-hsv-konstantelias-kreuzbandriss-li.3539212",
       "quelle": "Süddeutsche",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/premier-league-tottenham-letzter-tonali-spott-li.3539214",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-30T13:24:13+00:00"
-    },
-    {
-      "titel": "Referendum: Die Isländer sehen keinen Grund, etwas zu ändern",
-      "link": "https://www.sueddeutsche.de/meinung/island-eu-referendum-beitritt-li.3538524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T12:45:11+00:00"
-    },
-    {
-      "titel": "Saison-Aus von Tadej Pogacar: Fatale Sekunden auf der Landstraße CV 675",
-      "link": "https://www.sueddeutsche.de/sport/tadej-pogacar-sturzhergang-vuelta-saison-aus-li.3539223",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T12:40:17+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Gegen das echte Problem des Teufelsrads hilft keine Farbe",
-      "link": "https://www.sueddeutsche.de/meinung/oktoberfest-teufelsrad-sexismus-gleichstellung-upskirting-li.3539238",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T12:01:46+00:00"
-    },
-    {
-      "titel": "Leipziger Auftaktsieg: Gladbach hat ein Reitz-Thema",
-      "link": "https://www.sueddeutsche.de/sport/borussia-moenchengladbach-rb-leipzig-rocco-reitz-li.3539213",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T11:25:49+00:00"
     }
   ]
 }
