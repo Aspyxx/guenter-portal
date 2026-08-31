@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-31T14:26:59+00:00",
+  "aktualisiert": "2026-08-31T20:24:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,76 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Gal Gadot: Dreharbeiten zu »The Runner« enden für Schauspielerin auf Krücken",
-      "link": "https://www.spiegel.de/panorama/gal-gadot-dreharbeiten-zu-the-runner-enden-fuer-schauspielerin-auf-kruecken-a-81378c8b-42a0-4037-98ea-5f1159226173#ref=rss",
+      "titel": "Wie eine Lüge für einen Justizskandal sorgte",
+      "link": "https://www.spiegel.de/panorama/justiz/wie-eine-luege-fuer-einen-justizskandal-sorgte-a-38517cb4-4815-4ff7-9644-43d3018a4acb#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T14:21:00+00:00"
+      "veroeffentlicht": "2026-08-31T20:13:00+00:00"
     },
     {
-      "titel": "Stade: Mutmaßlicher Attentäter wollte Privatdetektei beauftragen",
-      "link": "https://www.spiegel.de/panorama/justiz/stade-mutmasslicher-attentaeter-wollte-privatdetektei-beauftragen-a-ae66ad2f-20e5-4d7b-92ae-6fb27f265e9e#ref=rss",
+      "titel": "Sven Schulze im SPIEGEL-Talk: »Siegmund ist eine Marionette«",
+      "link": "https://www.spiegel.de/politik/sven-schulze-im-spiegel-talk-siegmund-ist-eine-marionette-a-cc892227-0a7b-450e-b881-99d645746b38#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T14:17:00+00:00"
+      "veroeffentlicht": "2026-08-31T19:56:00+00:00"
     },
     {
-      "titel": "Landtagswahl in Sachsen-Anhalt: CDU vor der Zerreißprobe?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-landtagswahl-cdu-100.html",
+      "titel": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T14:10:36+00:00"
+      "veroeffentlicht": "2026-08-31T19:52:21+00:00"
     },
     {
-      "titel": "Wenn der Festivalplatz zur Müllkippe wird",
-      "link": "https://www.tagesschau.de/kultur/festivals-muell-100.html",
+      "titel": "D4vd: US-Rapper plädiert im Mordfall an 14-Jähriger auf nicht schuldig",
+      "link": "https://www.spiegel.de/panorama/justiz/d4vd-us-rapper-plaediert-im-mordfall-an-14-jaehriger-auf-nicht-schuldig-a-dbfa977f-6ff7-4a27-b85f-0bf4bf5634a5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T19:44:00+00:00"
+    },
+    {
+      "titel": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
+      "link": "https://www.tagesschau.de/ausland/amerika/grand-canyon-sturzflut-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T14:09:05+00:00"
+      "veroeffentlicht": "2026-08-31T18:57:05+00:00"
     },
     {
-      "titel": "Nick Woltemade: Verhandlungen über Leihe zu Juventus Turin laufen",
-      "link": "https://www.spiegel.de/sport/fussball/nick-woltemade-verhandlungen-ueber-leihe-zu-juventus-turin-laufen-a-e132e2e6-dac0-4cf3-858b-9986dfe588eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T14:09:00+00:00"
-    },
-    {
-      "titel": "Hendrik Holt: Windkraftbetrüger hat Familie bei Flucht zurückgelassen",
-      "link": "https://www.spiegel.de/wirtschaft/hendrik-holt-windkraftbetrueger-hat-familie-bei-flucht-zurueckgelassen-a-f7da0074-f052-4038-b110-3f56d5bbf11b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T14:05:00+00:00"
-    },
-    {
-      "titel": "Die Linke: Rapper Dahabflex sorgt nach Auftritt in Neukölln für Kritik",
-      "link": "https://www.spiegel.de/politik/deutschland/die-linke-rapper-dahabflex-sorgt-nach-auftritt-in-neukoelln-fuer-kritik-a-47adfbb0-6424-4971-bb97-b26142fa1b25#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T14:02:00+00:00"
-    },
-    {
-      "titel": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
-      "link": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
+      "titel": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T13:56:38+00:00"
+      "veroeffentlicht": "2026-08-31T18:30:16+00:00"
     },
     {
-      "titel": "Shirin David: zu viel »Geheule« in Netflix-Doku »Barbara – Becoming Shirin David«",
-      "link": "https://www.spiegel.de/kultur/musik/shirin-david-zu-viel-geheule-in-netflix-doku-barbara-becoming-shirin-david-a-1eece53c-1ec1-4c40-bb54-cbd1a69d11a1#ref=rss",
+      "titel": "Zürich – Schweiz: Kantonsrat will Kopftücher in Klassenzimmern verbieten",
+      "link": "https://www.spiegel.de/ausland/zuerich-schweiz-kantonsrat-verbietet-kopftuecher-in-klassenzimmern-a-66dd7215-59a3-4b9f-95fb-91685f21f7c3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T13:46:00+00:00"
+      "veroeffentlicht": "2026-08-31T18:24:00+00:00"
     },
     {
-      "titel": "Nepal: Hunderte Arbeiter nach Sturzflut in Kraftwerken vermisst",
-      "link": "https://www.spiegel.de/ausland/nepal-hunderte-arbeiter-nach-sturzflut-in-kraftwerken-vermisst-a-d7cadff9-a067-4cce-8d8c-ffc69ae049c8#ref=rss",
+      "titel": "Alec Baldwin: Warum seine Villa in den Hamptons ein Ladenhüter ist",
+      "link": "https://www.spiegel.de/kultur/alec-baldwin-warum-seine-villa-in-den-hamptons-ein-ladenhueter-ist-a-4458f553-7330-4640-8283-cff47f219802#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T13:43:00+00:00"
+      "veroeffentlicht": "2026-08-31T18:07:00+00:00"
     },
     {
-      "titel": "Fellbach – Rems-Murr-Kreis: Mann schlägt zu, gibt Kopfhörer zurück und entschuldigt sich",
-      "link": "https://www.spiegel.de/panorama/justiz/fellbach-rems-murr-kreis-mann-schlaegt-zu-gibt-kopfhoerer-zurueck-und-entschuldigt-sich-a-9c5f2a89-c8f7-49f6-a6fc-3e5ea31068ba#ref=rss",
+      "titel": "Nepal: Verschüttete in Wasserkraftwerken – »Immer weniger Hoffnung«",
+      "link": "https://www.spiegel.de/ausland/nepal-verschuettete-in-wasserkraftwerken-immer-weniger-hoffnung-a-32330578-f72c-46a0-8d6f-a62ae8bb29d5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T13:39:00+00:00"
+      "veroeffentlicht": "2026-08-31T18:05:00+00:00"
     },
     {
-      "titel": "Kongo: Mehr als 6000 Ebolafälle – weiterhin kein Ende des Ausbruchs absehbar",
-      "link": "https://www.spiegel.de/wissenschaft/kongo-mehr-als-6000-ebolafaelle-weiterhin-kein-ende-des-ausbruchs-absehbar-a-bab71ec2-bedc-4a12-9d2c-2549c40508db#ref=rss",
+      "titel": "Hendrik Holt: Das ist über die Flucht des Windkraftbetrügers und Hochstaplers bekannt",
+      "link": "https://www.spiegel.de/panorama/justiz/hendrik-holt-das-ist-ueber-die-flucht-des-windkraftbetruegers-und-hochstaplers-bekannt-a-bbc57568-5f29-462a-86b2-776febfcfc32#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T13:38:00+00:00"
+      "veroeffentlicht": "2026-08-31T17:53:00+00:00"
+    },
+    {
+      "titel": "Kapstadt: Riskantes Flugmanöver vor 55000 Zuschauern – wie gefährlich war der doppelte Flyover in Süsafrika?",
+      "link": "https://www.spiegel.de/wissenschaft/technik/kapstadt-riskantes-flugmanoever-vor-55000-zuschauern-wie-gefaehrlich-war-der-doppelte-flyover-in-suesafrika-a-4f1d4e4f-f69e-4806-a208-3dc65344a8ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T17:46:00+00:00"
+    },
+    {
+      "titel": "Mode: Doch kein neuer Horizont",
+      "link": "https://www.sueddeutsche.de/kultur/john-galliano-absage-met-museum-new-york-li.3540113",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T17:15:47+00:00"
+    },
+    {
+      "titel": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T17:04:55+00:00"
+    },
+    {
+      "titel": "Warntag, Steuer, Garantie: Was sich im September ändert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T17:00:05+00:00"
+    },
+    {
+      "titel": "Hockey-WM: Kapitän Tom Grambusch über Führungsstil und Teamgeheimnis",
+      "link": "https://www.spiegel.de/sport/hockey-wm-kapitaen-tom-grambusch-ueber-fuehrungsstil-und-teamgeheimnis-a-55241455-4563-4c44-9e08-f6a375447a05#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T16:48:00+00:00"
+    },
+    {
+      "titel": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T16:46:46+00:00"
+    },
+    {
+      "titel": "Wadephul in Tunesien und Algerien: Mehr Stabilität - für weniger Migration",
+      "link": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T16:45:31+00:00"
+    },
+    {
+      "titel": "\"Europa macht sich abhängig von nicht lupenreinen Demokratien\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/migration-tunesien-interview-kohlenberger-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T16:44:32+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Pfiffe für Merz bei seiner Wahlkampfpremiere im Osten",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-merz-kuehlungsborn-auftritt-pfiffe-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T16:35:08+00:00"
+    },
+    {
+      "titel": "Marktbericht: Herbe Verluste zum Monatsende",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T16:23:35+00:00"
+    },
+    {
+      "titel": "Medizin: Hitzewelle: Zu heiß für den Medikamentenversand?",
+      "link": "https://www.sueddeutsche.de/gesundheit/versand-apotheken-hitzewelle-zaepfchen-paracetamol-gefahren-li.3539425",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T14:40:04+00:00"
+    },
+    {
+      "titel": "Prozess in Braunschweig: „Ich hing nicht sonderlich an meinem Leben“",
+      "link": "https://www.sueddeutsche.de/panorama/josephine-miriam-prozess-braunschweig-vergewaltigung-luegen-falschaussagen-li.3528090",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T14:32:58+00:00"
+    },
+    {
+      "titel": "Trockenheit: In München bleibt die Grundwasser-Situation angespannt",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-wasserversorgung-trockenheit-sparen-li.3537942",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T14:16:48+00:00"
+    },
+    {
+      "titel": "Bilanz der Staatsregierung: Hackerangriffe werden immer dreister",
+      "link": "https://www.sueddeutsche.de/bayern/cyberkriminalitaet-bayern-hackerangriffe-staasregierung-li.3539681",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T13:50:48+00:00"
+    },
+    {
+      "titel": "Pharmaindustrie: Kann er Blinde wieder sehen lassen?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/clemens-fischer-bernhard-meyer-tum-klinikum-querschnittslaehmung-kijimea-exilby-li.3526317",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T13:46:29+00:00"
     },
     {
       "titel": "Fachkräftemangel: Azubis können sich ein eigenständiges Leben kaum noch leisten",
@@ -89,84 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/berlin-linke-israel-kontroverse-antisemitismus-palaestina-li.3539671",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-31T13:36:43+00:00"
-    },
-    {
-      "titel": "USA greifen Iran erneut an",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-gegenangriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T13:13:24+00:00"
-    },
-    {
-      "titel": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T13:11:00+00:00"
-    },
-    {
-      "titel": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T13:07:15+00:00"
-    },
-    {
-      "titel": "Leipziger Drohnenangriff: Die „Operation Antwort“ geht in die entscheidende Phase",
-      "link": "https://www.sueddeutsche.de/politik/deutschland-leipzig-russland-drohnen-reaktion-li.3539661",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T13:05:09+00:00"
-    },
-    {
-      "titel": "Borussia Dortmund: Große Namen kursieren – aber die Zeit wird knapp",
-      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-bvb-dortmund-transfermarkt-kovac-li.3539747",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T12:57:58+00:00"
-    },
-    {
-      "titel": "Russlands Aggressionen: An der Schwelle zum echten Krieg",
-      "link": "https://www.sueddeutsche.de/politik/russland-nato-sicherheit-hybrider-krieg-li.3539684",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T12:55:06+00:00"
-    },
-    {
-      "titel": "Marktbericht: Ölpreise klettern wieder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T12:42:21+00:00"
-    },
-    {
-      "titel": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T12:36:46+00:00"
-    },
-    {
-      "titel": "Schüsse auf ein Café in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-cafe-koeln-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T12:34:00+00:00"
-    },
-    {
-      "titel": "Tennis bei den US Open: „Ich habe jeden Moment auf dem Platz gehasst“",
-      "link": "https://www.sueddeutsche.de/sport/tennis-us-open-djokovic-aus-reaktionen-news-li.3539896",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T12:26:06+00:00"
-    },
-    {
-      "titel": "Fährunfall in Zypern: Kapitän und Crew vor Gericht - Polizei nennt mögliche Ursache",
-      "link": "https://www.sueddeutsche.de/panorama/faehrunglueck-zypern-mittelmeer-tote-kapitaen-crew-gericht-li.3539479",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T12:20:56+00:00"
-    },
-    {
-      "titel": "Rückläufige Geburtenrate: Zahl der Kinder in bayerischen Kitas leicht gesunken",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-kita-kinderzahlen-betreuung-personalentwicklung-li.3539912",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T11:59:16+00:00"
-    },
-    {
-      "titel": "Dokumentarfilme: „Es gibt eine Realitätsveränderung“",
-      "link": "https://www.sueddeutsche.de/medien/vertrau-mir-der-falsche-prophet-netflix-doku-ki-li.3529385",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T11:58:15+00:00"
     }
   ]
 }
