@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-31T06:19:15+00:00",
+  "aktualisiert": "2026-08-31T14:10:04+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Referendum",
-      "link": "https://www.tagesschau.de/kommentar/island-referendum-104.html",
+      "titel": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Kinder allein nach Flut",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-erdrutsch-gerettete-kinder-100.html",
+      "titel": "Italien und Spanien verlängern Grenzkontrollen",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
+      "titel": "Ölpreise klettern wieder",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html",
       "quelle": "Tagesschau",
-      "icon": "⛈️"
+      "icon": "📈"
     }
   ]
 }
