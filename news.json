@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-08-31T00:38:06+00:00",
+  "aktualisiert": "2026-08-31T06:15:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,100 @@
   },
   "meldungen": [
     {
+      "titel": "Nepal: Beisetzungen in Massengräbern sorgen nach Flutkatastrophe für Kritik",
+      "link": "https://www.spiegel.de/ausland/nepal-beisetzungen-in-massengraebern-sorgen-nach-flutkatastrophe-fuer-kritik-a-49793103-80e9-43b0-be26-f67958f9c578#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T06:09:00+00:00"
+    },
+    {
+      "titel": "Deutsche Wirtschaft ist wieder attraktiv für Investoren",
+      "link": "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-ist-wieder-attraktiv-fuer-investoren-a-737da937-ed76-4c89-821d-174c2f926496#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T06:06:00+00:00"
+    },
+    {
+      "titel": "Irankrieg und die Supermächte: In China hören sich Amerikas Drohungen wie ein Winseln an",
+      "link": "https://www.spiegel.de/ausland/irankrieg-und-die-supermaechte-in-china-hoeren-sich-amerikas-drohungen-wie-ein-winseln-an-a-f9948510-7966-4b66-bba9-7b2b90841c5c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T05:57:00+00:00"
+    },
+    {
+      "titel": "USA greifen Iran erneut an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T05:53:25+00:00"
+    },
+    {
+      "titel": "Nach Sturzflut im Himalaya: Kinder allein nach Flut",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-erdrutsch-gerettete-kinder-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T05:50:10+00:00"
+    },
+    {
+      "titel": "Schweiz: Deutsche Frau bei Gewalttat bei Technoparty verletzt",
+      "link": "https://www.spiegel.de/panorama/justiz/schweiz-deutsche-frau-bei-gewalttat-bei-technoparty-verletzt-a-b241851d-4d7d-4b4a-bae2-5bbae838b466#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T05:45:00+00:00"
+    },
+    {
+      "titel": "John Ternus tritt Amt als Applechef an",
+      "link": "https://www.spiegel.de/netzwelt/john-ternus-tritt-amt-als-applechef-an-a-738c813d-8990-4566-acb5-0eb38e3facd6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T05:44:00+00:00"
+    },
+    {
+      "titel": "Flutkatastrophe in Nepal: Schulleiter rettete wohl Hunderte Schüler – Kritik an Massenbestattungen",
+      "link": "https://www.sueddeutsche.de/panorama/nepal-flut-schulleiter-rettung-massenbestattungen-li.3539571",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T05:39:51+00:00"
+    },
+    {
+      "titel": "Marktbericht: Steigende Ölpreise belasten Aktienmarkt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T05:28:44+00:00"
+    },
+    {
+      "titel": "Nach Sturzflut im Grand Canyon: Ein Toter und mehrere Vermisste",
+      "link": "https://www.tagesschau.de/ausland/amerika/sturzflut-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T05:27:46+00:00"
+    },
+    {
+      "titel": "Donald Trump verfügt Umbenennung von Ontariosees: Google Maps zeigt »Lake America«",
+      "link": "https://www.spiegel.de/ausland/donald-trump-verfuegt-umbenennung-von-ontariosees-google-maps-zeigt-lake-america-a-981c8205-08d8-40be-8bce-1f2d6d7e124b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T05:27:00+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: USA greifen erstmals seit Wochen Iran an – Teheran reagiert",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-strasse-von-hormus-raketenwerfer-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-31T05:05:19+00:00"
+    },
+    {
+      "titel": "Zypern: Passagiere erheben nach Schiffsunglück schwere Vorwürfe gegen die Crew",
+      "link": "https://www.spiegel.de/panorama/zypern-passagiere-erheben-nach-schiffsunglueck-schwere-vorwuerfe-gegen-die-crew-a-b4e088ff-81d3-4d0b-a9b4-1464a0ddedb2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T05:03:00+00:00"
+    },
+    {
+      "titel": "Sternbrücke in Hamburg wieder offen – Züge rollen nach Mega-Bauprojekt",
+      "link": "https://www.spiegel.de/wirtschaft/sternbruecke-in-hamburg-wieder-offen-zuege-rollen-nach-mega-bauprojekt-a-9a4843bc-b37f-48a5-83f9-f79f9ef8d5dd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T05:01:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: AfD-Politiker Hans-Thomas Tillschneider verteidigt russische Armeetasse im Büro",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-politiker-hans-thomas-tillschneider-verteidigt-russische-armeetasse-im-buero-a-f62dd329-0a20-4565-baf8-697ac50e34da#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T05:00:00+00:00"
+    },
+    {
       "titel": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
       "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-31T00:28:59+00:00"
-    },
-    {
-      "titel": "Grand Canyon: Unwetter löst Sturzflut aus – Suche nach 15 Vermissten",
-      "link": "https://www.spiegel.de/panorama/grand-canyon-unwetter-loest-sturzflut-aus-suche-nach-15-vermissten-a-acf7cde8-6e70-4af3-af5d-6f809406e162#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T00:00:00+00:00"
-    },
-    {
-      "titel": "USA greifen offenbar iranische Raketenwerfer an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T23:35:59+00:00"
-    },
-    {
-      "titel": "New York City – Zohran Mamdani: Hunderte Menschen küren den besten Doppelgänger",
-      "link": "https://www.spiegel.de/panorama/leute/new-york-city-zohran-mamdani-hunderte-menschen-kueren-den-besten-doppelgaenger-a-cb16b007-5562-4283-a783-dfa03c7b38e9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T22:12:00+00:00"
-    },
-    {
-      "titel": "Schüsse in Aarau: Wer tötete auf einer Schweizer Technoparty?",
-      "link": "https://www.spiegel.de/ausland/schuesse-in-aarau-wer-toetete-auf-einer-schweizer-technoparty-a-e67b1ab2-697e-4f13-9285-a25729635962#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T21:42:00+00:00"
-    },
-    {
-      "titel": "Flutkatastrophe in Nepal: Schulleiter rettete wohl Hunderte Schüler in letzter Sekunde",
-      "link": "https://www.sueddeutsche.de/panorama/nepal-flut-schulleiter-rettung-li.3539571",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T21:20:27+00:00"
-    },
-    {
-      "titel": "US-Militär fliegt erstmals seit Juli Angriffe in Iran",
-      "link": "https://www.spiegel.de/ausland/us-militaer-fliegt-erstmals-seit-juli-angriffe-in-iran-a-0c2ceebe-9d59-4dbc-9ba5-47952d297060#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T21:14:00+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Medien: US-Militär greift iranische Raketenwerfer an",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-strasse-von-hormus-raketenwerfer-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T20:46:00+00:00"
     },
     {
       "titel": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
@@ -73,18 +121,6 @@
       "veroeffentlicht": "2026-08-30T19:22:23+00:00"
     },
     {
-      "titel": "Sterbehilfe bei ME/CFS: Die letzten Monate von Kim Linke",
-      "link": "https://www.spiegel.de/gesundheit/sterbehilfe-bei-me-cfs-die-letzten-monate-von-kim-linke-a-4be9d53e-8ce0-498d-85dd-c69ef83e133d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T19:14:00+00:00"
-    },
-    {
-      "titel": "Unglück vor Zypern: Kapitän der gesunkenen Fähre festgenommen",
-      "link": "https://www.spiegel.de/ausland/unglueck-vor-zypern-kapitaen-der-gesunkenen-faehre-festgenommen-a-486065aa-6ec5-4ba0-a9a7-a6b19467994c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T19:13:00+00:00"
-    },
-    {
       "titel": "Friedrich Merz im ARD-Sommerinterview: Wo sind die Entwürfe? Wo ist die Begeisterung?",
       "link": "https://www.sueddeutsche.de/medien/merz-sommerinterview-ard-li.3538082",
       "quelle": "Süddeutsche",
@@ -103,46 +139,10 @@
       "veroeffentlicht": "2026-08-30T18:26:09+00:00"
     },
     {
-      "titel": "Erbschaft in Schweden: Fragwürdiges Testament bringt Neonazi Thorsten Heise ein Vermögen - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/erbschaft-in-schweden-fragwuerdiges-testament-bringt-neonazi-thorsten-heise-ein-vermoegen-spiegel-tv-a-5d74fa5b-889d-4f54-a830-aeb3a9624769#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T18:24:00+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: FC Augsburg schlägt Schalke 04 am 1. Spieltag",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-augsburg-schlaegt-schalke-04-am-1-spieltag-a-53b3adea-2950-4ce1-947e-40c427dee5fc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T18:14:00+00:00"
-    },
-    {
-      "titel": "Nepal: Schulleiter rettete wohl Hunderte Schüler vor der Sturzflut",
-      "link": "https://www.spiegel.de/ausland/nepal-schulleiter-rettete-wohl-hunderte-schueler-vor-der-sturzflut-a-b27849a4-73d9-4271-b91d-900467570ba8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T18:07:00+00:00"
-    },
-    {
       "titel": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-30T17:55:49+00:00"
-    },
-    {
-      "titel": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
-      "link": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T17:42:47+00:00"
-    },
-    {
-      "titel": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T16:50:34+00:00"
-    },
-    {
-      "titel": "Warum türkische TV-Serien so erfolgreich sind",
-      "link": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T15:56:19+00:00"
     },
     {
       "titel": "Bundesliga: Suzukis Dreierpack lässt Freiburg jubeln",
@@ -157,16 +157,16 @@
       "veroeffentlicht": "2026-08-30T14:47:12+00:00"
     },
     {
+      "titel": "AfD vor der Landtagswahl in Sachsen-Anhalt: Regieren? Vielleicht besser nicht",
+      "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-wahl-chancen-herausforderungen-regierungsuebernahme-li.3537024",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-08-30T14:22:04+00:00"
+    },
+    {
       "titel": "Bundesliga: Dortmunds griechische Tragödie",
       "link": "https://www.sueddeutsche.de/sport/bvb-hsv-konstantelias-kreuzbandriss-li.3539212",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-30T13:53:35+00:00"
-    },
-    {
-      "titel": "Tottenham in der Premier League: Null Punkte + null Tore = Letzter",
-      "link": "https://www.sueddeutsche.de/sport/premier-league-tottenham-letzter-tonali-spott-li.3539214",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-30T13:24:13+00:00"
     }
   ]
 }
