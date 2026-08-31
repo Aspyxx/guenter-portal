@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-08-30T22:06:00+00:00",
+  "aktualisiert": "2026-08-31T00:38:06+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T00:28:59+00:00"
+    },
+    {
+      "titel": "Grand Canyon: Unwetter löst Sturzflut aus – Suche nach 15 Vermissten",
+      "link": "https://www.spiegel.de/panorama/grand-canyon-unwetter-loest-sturzflut-aus-suche-nach-15-vermissten-a-acf7cde8-6e70-4af3-af5d-6f809406e162#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T00:00:00+00:00"
+    },
+    {
+      "titel": "USA greifen offenbar iranische Raketenwerfer an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-30T23:35:59+00:00"
+    },
+    {
+      "titel": "New York City – Zohran Mamdani: Hunderte Menschen küren den besten Doppelgänger",
+      "link": "https://www.spiegel.de/panorama/leute/new-york-city-zohran-mamdani-hunderte-menschen-kueren-den-besten-doppelgaenger-a-cb16b007-5562-4283-a783-dfa03c7b38e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-30T22:12:00+00:00"
+    },
     {
       "titel": "Schüsse in Aarau: Wer tötete auf einer Schweizer Technoparty?",
       "link": "https://www.spiegel.de/ausland/schuesse-in-aarau-wer-toetete-auf-einer-schweizer-technoparty-a-e67b1ab2-697e-4f13-9285-a25729635962#ref=rss",
@@ -97,22 +121,10 @@
       "veroeffentlicht": "2026-08-30T18:07:00+00:00"
     },
     {
-      "titel": "Nepal: nach Flutkatastrophe im Himalaja noch immer viele Orte abgeschnitten",
-      "link": "https://www.spiegel.de/ausland/nepal-nach-flutkatastrophe-im-himalaja-noch-immer-viele-orte-abgeschnitten-a-b9d71b6f-696b-4e26-985b-4951166e1eb4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T17:59:00+00:00"
-    },
-    {
       "titel": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-30T17:55:49+00:00"
-    },
-    {
-      "titel": "USA unter Donald Trump: »Es gibt Parallelen zum Deutschland der Dreißigerjahre«",
-      "link": "https://www.spiegel.de/ausland/usa-unter-donald-trump-es-gibt-parallelen-zum-deutschland-der-dreissigerjahre-a-c9fa730c-4b5a-4586-ba36-3c6bb1ef0bdd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-30T17:49:00+00:00"
     },
     {
       "titel": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
@@ -137,18 +149,6 @@
       "link": "https://www.sueddeutsche.de/sport/bundesliga-sc-freiburg-suzuki-werder-bremen-schalke-augsburg-li.3539539",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-30T15:26:05+00:00"
-    },
-    {
-      "titel": "Angriffe gegen NATO-Staaten: \"Putin eskaliert\"",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-putin-eskalation-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T15:12:40+00:00"
-    },
-    {
-      "titel": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-30T15:11:00+00:00"
     },
     {
       "titel": "Bundesregierung: Arbeitsministerin Bas stellt Krankschreibung ab dem ersten Tag infrage",
