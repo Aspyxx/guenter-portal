@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-08-30T22:10:10+00:00",
+  "aktualisiert": "2026-08-31T00:40:08+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
+      "quelle": "Tagesschau",
+      "icon": "⛈️"
+    },
+    {
+      "rang": 2,
       "titel": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
       "link": "https://www.tagesschau.de/kommentar/island-referendum-104.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Die lange Suche nach Gewissheit",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
       "rang": 3,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-putin-eskalation-100.html",
+      "titel": "USA greifen offenbar iranische Raketenwerfer an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
       "quelle": "Tagesschau",
-      "icon": "⛈️"
+      "icon": "🔎"
     }
   ]
 }
