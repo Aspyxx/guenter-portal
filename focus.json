@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-01T08:00:54+00:00",
+  "aktualisiert": "2026-09-01T13:33:25+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Gopro Aktie",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekassen-defizit-bundesregierung-100.html",
+      "titel": "Erstes Treffen der \"Mekka-Allianz\": Eine neue Ordnung im Nahen Osten",
+      "link": "https://www.tagesschau.de/ausland/asien/treffen-mekka-pakt-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
       "rang": 2,
-      "titel": "Geldpolitik und Ölpreis belasten die Anlegerlaune",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+      "titel": "Warum fällt der DAX?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Zahl der Toten nach Sturzflut im Himalaya steigt auf 1.000",
-      "link": "https://www.tagesschau.de/ausland/asien/himalaya-nepal-sturzflut-tote-100.html",
+      "titel": "Mutmaßlicher antisemitischer Angriff auf Grünen-Politiker in Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/antisemitismus-angriff-gruenen-politiker-berlin-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     }
   ]
 }
