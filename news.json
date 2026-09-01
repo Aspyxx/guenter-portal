@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-01T14:56:37+00:00",
+  "aktualisiert": "2026-09-01T18:33:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,76 +7,148 @@
   },
   "meldungen": [
     {
+      "titel": "Nationalspieler Nick Woltemade wechselt zu Juventus Turin: Eine Flucht mit Jürgen Klopps Segen",
+      "link": "https://www.spiegel.de/sport/fussball/nationalspieler-nick-woltemade-wechselt-zu-juventus-turin-eine-flucht-mit-juergen-klopps-segen-a-e484b74f-1455-482f-a153-2331b7e0a3a3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T18:00:00+00:00"
+    },
+    {
+      "titel": "Anschlagsversuch mit Drohne: \"Bekanntes Muster russischer Operationen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T17:54:06+00:00"
+    },
+    {
+      "titel": "Pharmakonzern Novartis stoppt nach Todesfällen mehrere Studien",
+      "link": "https://www.spiegel.de/wissenschaft/pharmakonzern-novartis-stoppt-nach-todesfaellen-mehrere-studien-a-a47adad2-56df-40f5-8996-32e8393b5e5a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T17:53:00+00:00"
+    },
+    {
+      "titel": "Anschlag Leipzig: Nato begrüßt Maßnahmen, Grüne fordern härtere Sanktionen gegen Russland",
+      "link": "https://www.spiegel.de/politik/deutschland/anschlag-leipzig-nato-begruesst-massnahmen-gruene-fordern-haertere-sanktionen-gegen-russland-a-1307eeea-6a44-4ec4-83a1-f79e990618f5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T17:49:00+00:00"
+    },
+    {
+      "titel": "Deadline Day: Ein Rekordverkauf, umjubelte Rückkehrer und lauter Leihen",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-transfers-deadline-day-wechsel-li.3540456",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T17:27:14+00:00"
+    },
+    {
+      "titel": "\"The Art of Johnny Depp\" in Düsseldorf: Kitsch oder Imagepflege?",
+      "link": "https://www.tagesschau.de/kultur/kunst-von-johnny-depp-duesseldorf-schloss-benrath-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T17:22:05+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Leipzig: Russland kündigt Reaktion auf Sanktionen an",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-leipzig-sanktionen-russland-reaktionen-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T17:19:32+00:00"
+    },
+    {
+      "titel": "Ist der Hype um Shein & Co. vorbei?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T17:18:25+00:00"
+    },
+    {
+      "titel": "Flutkatastrophe im Himalaya: Was die Katastrophe für Tibet bedeutet",
+      "link": "https://www.tagesschau.de/ausland/asien/tibet-sturzflut-nepal-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T17:17:56+00:00"
+    },
+    {
+      "titel": "Hitzetote im Sommer in Deutschland: Ein Bestatter aus Köln zieht Bilanz",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/hitzetote-im-sommer-in-deutschland-ein-bestatter-aus-koeln-zieht-bilanz-a-d8447700-adf2-43fc-b9ab-4994d7dcbd8d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T17:08:00+00:00"
+    },
+    {
+      "titel": "Nepal: Schulleiter rettet 900 Kinder vor Sturzflut im Himalaja",
+      "link": "https://www.spiegel.de/ausland/nepal-schulleiter-rettet-900-kinder-vor-sturzflut-im-himalaja-a-3332ed31-d6e6-496f-a134-1c9a54365e2f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T17:08:00+00:00"
+    },
+    {
+      "titel": "Meinung – Polen: Wie Präsident Karol Nawrocki die Deutschen sieht - ein Kommentar",
+      "link": "https://www.spiegel.de/ausland/meinung-polen-wie-praesident-karol-nawrocki-die-deutschen-sieht-ein-kommentar-a-8114f534-1a52-4ec1-8242-78f500edb7f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T17:07:00+00:00"
+    },
+    {
+      "titel": "Polizei stoppt überladenen Tiertransporter in Oberbayern",
+      "link": "https://www.spiegel.de/panorama/polizei-stoppt-ueberladenen-tiertransporter-in-oberbayern-a-9d9fcc57-70e1-4d9a-a119-47958abacbe4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T17:02:00+00:00"
+    },
+    {
+      "titel": "Flughafen Leipzig/Halle: Bundesregierung spricht von hybrider Kriegsführung",
+      "link": "https://www.spiegel.de/politik/flughafen-leipzig-halle-bundesregierung-spricht-von-hybrider-kriegsfuehrung-a-7dbbbc84-b44e-4728-81ca-e2b93ec60131#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T17:02:00+00:00"
+    },
+    {
+      "titel": "SPIEGEL TV-Reporter im Deep Dive: Wie bleibt man ruhig, wenn es gefährlich wird?",
+      "link": "https://www.spiegel.de/backstage/spiegel-tv-reporter-im-deep-dive-wie-bleibt-man-ruhig-wenn-die-lage-kippt-a-506f0af3-c589-45f1-8ad8-6325daf39615#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T16:55:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX verliert erneut deutlich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T16:33:27+00:00"
+    },
+    {
+      "titel": "Hybrider Krieg: Bundesregierung macht Russland für Anschlag in Leipzig verantwortlich",
+      "link": "https://www.sueddeutsche.de/politik/leipzig-anschlag-drohne-hinweise-geheimdienst-li.3540357",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T16:06:07+00:00"
+    },
+    {
+      "titel": "Karin Angerer für Bettina Limperg: Stabwechsel am Bundesgerichtshof",
+      "link": "https://www.tagesschau.de/inland/bundesgerichtshof-praesidentin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T15:48:16+00:00"
+    },
+    {
+      "titel": "Sprengvorrichtung an Umspannwerk in Brandenburg gefunden",
+      "link": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T15:44:44+00:00"
+    },
+    {
+      "titel": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-kampf-obdachlosigkeit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T15:07:36+00:00"
+    },
+    {
       "titel": "Merz setzt Leitplanken für Kooperation mit der Linken",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-linke-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-01T14:53:23+00:00"
     },
     {
-      "titel": "Lars Klingbeil versus Katherina Reiche: Streit wegen »Opposition in Regierung«",
-      "link": "https://www.spiegel.de/wirtschaft/lars-klingbeil-versus-katherina-reiche-streit-wegen-opposition-in-regierung-a-9d42f329-5f21-4db7-b741-916e3bee769c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T14:53:00+00:00"
+      "titel": "Münchner Oktoberfest: Streit um Wiesn-Figuren: Drohungen gegen die Gleichstellungsstelle",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-streit-frauenfiguren-gleichstellungsstelle-li.3540416",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T14:32:58+00:00"
     },
     {
-      "titel": "Landtagswahl in Sachsen-Anhalt: Wie viel Macht hätte eine AfD-Regierung?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-afd-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T14:51:35+00:00"
+      "titel": "Nick Woltemade in Turin: „Woltemessi“, der zweite Versuch",
+      "link": "https://www.sueddeutsche.de/sport/nick-woltemade-wechsel-juventus-turin-italien-li.3540538",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T14:10:41+00:00"
     },
     {
-      "titel": "DFB: Antonio Rüdiger beendet Karriere in der Nationalmannschaft",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-antonio-ruediger-beendet-karriere-in-der-nationalmannschaft-a-070f3062-b31d-4093-97c0-b0071f730de1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T14:49:00+00:00"
-    },
-    {
-      "titel": "Afghanistan: Weitere 22 Männer nach Kabul abgeschoben",
-      "link": "https://www.spiegel.de/politik/deutschland/afghanistan-weitere-22-maenner-nach-kabul-abgeschoben-a-cfb9c52c-0ad3-4e7d-939c-a842a65d8150#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T14:46:00+00:00"
-    },
-    {
-      "titel": "Tom Conrad: Sonos-Chef kündigt »Audio-Betriebssystem« an",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/tom-conrad-sonos-chef-kuendigt-audio-betriebssystem-an-a-c1b035ce-aadc-4a77-a0b1-fd7f28aeaa86#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T14:36:00+00:00"
-    },
-    {
-      "titel": "Deutschland muss laut Bundesbankchef Joachim Nagel hart für AAA-Rating arbeiten",
-      "link": "https://www.spiegel.de/wirtschaft/deutschland-muss-laut-bundesbankchef-joachim-nagel-hart-fuer-aaa-rating-arbeiten-a-cb861474-272a-4e5a-8e19-4509bde4384b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T14:30:00+00:00"
-    },
-    {
-      "titel": "Sprengvorrichtung an Umspannwerk in Brandenburg gefunden",
-      "link": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T14:20:42+00:00"
-    },
-    {
-      "titel": "Deutsche? Nein. Sandra Hüller ist »europäische Thüringerin«",
-      "link": "https://www.spiegel.de/panorama/leute/deutsche-nein-sandra-hueller-ist-europaeische-thueringerin-a-1a529856-99b5-42b8-9d09-52937a24eea3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T14:15:00+00:00"
-    },
-    {
-      "titel": "TU München: Streit über Elektroauto-Studie an Münchner Eliteuni",
-      "link": "https://www.spiegel.de/mobilitaet/auto/tu-muenchen-streit-ueber-elektroauto-studie-an-muenchner-eliteuni-a-14144d72-1412-4afc-8004-cb57993811ab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T14:12:00+00:00"
-    },
-    {
-      "titel": "Brandenburg: Sprengvorrichtungen an Umspannwerk gefunden",
+      "titel": "Brandenburg: Selbstgebastelte Flugkörper an Umspannwerk gefunden",
       "link": "https://www.sueddeutsche.de/politik/umspannwerk-brandenburg-sprengvorrichtung-li.3540626",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-01T14:09:36+00:00"
-    },
-    {
-      "titel": "Bundesregierung ist uneins bei der Einkommensteuerreform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-klingbeil-reiche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T14:03:01+00:00"
     },
     {
       "titel": "Russland vereitelt Putsch in Niger: Ein dringend benötigter Erfolg für Moskau",
@@ -85,88 +157,16 @@
       "veroeffentlicht": "2026-09-01T14:01:37+00:00"
     },
     {
-      "titel": "Mietenreport: Wie die Wohnungskrise den Sozialstaat belastet",
-      "link": "https://www.sueddeutsche.de/wirtschaft/wohnungskrise-sozialstaat-deutschland-mieten-wohngeld-sozialwohnungen-li.3540155",
+      "titel": "Gerichtsprozess: Wie kam es zum Showdown mit Machete und Sichel?",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-prozess-machete-sichel-schwabing-freimann-li.3538574",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T13:51:23+00:00"
+      "veroeffentlicht": "2026-09-01T13:58:10+00:00"
     },
     {
-      "titel": "Wohnen: „Ich sehe keinen Bauboom in Hamburg“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/hamburg-wohnungsbau-bauboom-nachfrage-li.3513467",
+      "titel": "Strategie des bayerischen Kabinetts: Söder will Brüsseler Verwaltung auf Diät setzen",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-soeder-eu-bruessel-li.3540435",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T13:51:08+00:00"
-    },
-    {
-      "titel": "Mats Hummels und Thomas Müller: Darum kaufen Stars jetzt Fußballclubs",
-      "link": "https://www.spiegel.de/sport/fussball/mats-hummels-und-thomas-mueller-darum-kaufen-stars-jetzt-fussballclubs-a-e6598b7a-d585-4b19-97e2-81d2585a1041#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T13:48:00+00:00"
-    },
-    {
-      "titel": "Gleichberechtigung: Frauen in Länderparlamenten weiter unterrepräsentiert",
-      "link": "https://www.spiegel.de/politik/deutschland/gleichberechtigung-frauen-in-laenderparlamenten-weiter-unterrepraesentiert-a-e15511b3-905d-4e80-adbe-7a5c1fba573d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T13:47:00+00:00"
-    },
-    {
-      "titel": "Reaktion auf hybride Angriffe: „Die Vorschriften sind zum großen Teil veraltet“",
-      "link": "https://www.sueddeutsche.de/politik/hybride-bedrohung-leipzig-sprengstoffdrohnen-zivilschutz-gesetze-li.3540363",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T13:35:57+00:00"
-    },
-    {
-      "titel": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T13:25:23+00:00"
-    },
-    {
-      "titel": "Gedenkort für Opfer von CSD-Anschlag: Regenbogen-Bank im Berliner Tiergarten zerstört",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-gedenken-csd-anschlag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T13:21:25+00:00"
-    },
-    {
-      "titel": "Israels Ex-Vize-Polizeiminister wechselt zu arabischer Partei",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-paukenschlag-wechsel-arabische-partei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T12:56:23+00:00"
-    },
-    {
-      "titel": "Marktbericht: Warum fällt der DAX?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T12:50:59+00:00"
-    },
-    {
-      "titel": "König Haakon VIII. legt Eid im norwegischen Parlament ab",
-      "link": "https://www.tagesschau.de/ausland/europa/koenig-norwegen-eid-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T12:43:54+00:00"
-    },
-    {
-      "titel": "Lionel Messi: Letzte Zeilen aus dem Olymp",
-      "link": "https://www.sueddeutsche.de/sport/argentinien-lionel-messi-ruecktritt-folgen-li.3540370",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T12:20:14+00:00"
-    },
-    {
-      "titel": "Bundesregierung: Der Sinkflug der SPD stellt alles infrage",
-      "link": "https://www.sueddeutsche.de/politik/spd-umfragewerte-frust-parteichefs-klingbeil-bas-folgen-li.3540372",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T12:19:44+00:00"
-    },
-    {
-      "titel": "Film: Das muss man falsch verstehen wollen",
-      "link": "https://www.sueddeutsche.de/kultur/boykott-sacha-baron-cohen-ali-g-li.3540446",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T12:03:17+00:00"
-    },
-    {
-      "titel": "Bundesregierung: Die Spur des Anschlagsversuchs von Leipzig führt nach Russland",
-      "link": "https://www.sueddeutsche.de/politik/leipzig-anschlag-drohne-hinweise-geheimdienst-li.3540357",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T10:26:15+00:00"
+      "veroeffentlicht": "2026-09-01T13:55:19+00:00"
     }
   ]
 }
