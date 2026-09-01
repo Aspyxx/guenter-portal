@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-01T18:33:57+00:00",
+  "aktualisiert": "2026-09-01T21:22:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,13 +7,85 @@
   },
   "meldungen": [
     {
+      "titel": "DFB-Pokal: BVB gewinnt 5:0 gegen Fünftligisten aus Hamburg",
+      "link": "https://www.spiegel.de/sport/dfb-pokal-bvb-gewinnt-5-0-gegen-fuenftligisten-aus-hamburg-a-24eaecd5-d46c-4742-993d-13bbb7f71128#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T21:05:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Leipzig: Putin wirft Deutschland Beweisfälschung vor",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-leipzig-sanktionen-russland-reaktionen-putin-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T21:00:45+00:00"
+    },
+    {
+      "titel": "Russland: Wie Deutschland auf hybride Angriffe reagieren will",
+      "link": "https://www.spiegel.de/politik/deutschland/russland-wie-deutschland-auf-hybride-angriffe-reagieren-will-a-8aec4401-5c2b-4627-ac12-5fe44201afa8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T20:35:00+00:00"
+    },
+    {
+      "titel": "Drohnenattacke von Leipzig: Die Grauzone zwischen Krieg und Frieden wird größer",
+      "link": "https://www.sueddeutsche.de/politik/deutschland-russland-regierung-drohnenanschlag-li.3540410",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T20:32:25+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Ölpreise ziehen nach neuen US-Angriffen in Iran weiter an",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-oel-angriffe-preise-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T20:28:32+00:00"
+    },
+    {
+      "titel": "Wolodymyr Selenskyj warnt Airlines vor Flügen über Russland",
+      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-airlines-vor-fluegen-ueber-russland-a-7256833f-0f08-4b6c-a334-75ecf7f335f5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T19:58:00+00:00"
+    },
+    {
+      "titel": "Kommentar zu Sanktionen gegen Russland: Auch politische Waffen sind schmerzhaft",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-anschlag-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T19:56:04+00:00"
+    },
+    {
+      "titel": "USA und Iran melden erneut heftige Angriffe",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T19:37:07+00:00"
+    },
+    {
+      "titel": "Donald Trump: Sorgt der Iran-Krieg für einen Boom der Solarenergie? - Podcast",
+      "link": "https://www.spiegel.de/ausland/donald-trump-sorgt-der-iran-krieg-fuer-einen-boom-der-solarenergie-podcast-a-b8aef638-81a7-4c3b-80d7-7b16b58a0572#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T19:21:00+00:00"
+    },
+    {
+      "titel": "Flughafen Leipzig/Halle: Wie Berlin auf Putins Schattenkrieg reagiert",
+      "link": "https://www.spiegel.de/politik/flughafen-leipzig-halle-wie-berlin-auf-putins-schattenkrieg-reagiert-a-203cbeab-c5d4-468a-88be-be002c1ee8d7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T19:16:00+00:00"
+    },
+    {
+      "titel": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T19:09:43+00:00"
+    },
+    {
+      "titel": "Dänemark: Männer über 55 Jahren haben künftig keinen Anspruch mehr auf Fruchtbarkeitsbehandlungen",
+      "link": "https://www.spiegel.de/ausland/daenemark-maenner-ueber-55-jahren-haben-kuenftig-keinen-anspruch-mehr-auf-fruchtbarkeitsbehandlungen-a-45d251b8-bf91-4b9e-9f08-60e18f661951#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T18:51:00+00:00"
+    },
+    {
       "titel": "Nationalspieler Nick Woltemade wechselt zu Juventus Turin: Eine Flucht mit Jürgen Klopps Segen",
       "link": "https://www.spiegel.de/sport/fussball/nationalspieler-nick-woltemade-wechselt-zu-juventus-turin-eine-flucht-mit-juergen-klopps-segen-a-e484b74f-1455-482f-a153-2331b7e0a3a3#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-01T18:00:00+00:00"
     },
     {
-      "titel": "Anschlagsversuch mit Drohne: \"Bekanntes Muster russischer Operationen\"",
+      "titel": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-01T17:54:06+00:00"
@@ -43,12 +115,6 @@
       "veroeffentlicht": "2026-09-01T17:22:05+00:00"
     },
     {
-      "titel": "Newsblog zur Bundespolitik: Leipzig: Russland kündigt Reaktion auf Sanktionen an",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-leipzig-sanktionen-russland-reaktionen-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T17:19:32+00:00"
-    },
-    {
       "titel": "Ist der Hype um Shein & Co. vorbei?",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
       "quelle": "Tagesschau",
@@ -59,42 +125,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/tibet-sturzflut-nepal-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-01T17:17:56+00:00"
-    },
-    {
-      "titel": "Hitzetote im Sommer in Deutschland: Ein Bestatter aus Köln zieht Bilanz",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/hitzetote-im-sommer-in-deutschland-ein-bestatter-aus-koeln-zieht-bilanz-a-d8447700-adf2-43fc-b9ab-4994d7dcbd8d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T17:08:00+00:00"
-    },
-    {
-      "titel": "Nepal: Schulleiter rettet 900 Kinder vor Sturzflut im Himalaja",
-      "link": "https://www.spiegel.de/ausland/nepal-schulleiter-rettet-900-kinder-vor-sturzflut-im-himalaja-a-3332ed31-d6e6-496f-a134-1c9a54365e2f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T17:08:00+00:00"
-    },
-    {
-      "titel": "Meinung – Polen: Wie Präsident Karol Nawrocki die Deutschen sieht - ein Kommentar",
-      "link": "https://www.spiegel.de/ausland/meinung-polen-wie-praesident-karol-nawrocki-die-deutschen-sieht-ein-kommentar-a-8114f534-1a52-4ec1-8242-78f500edb7f7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T17:07:00+00:00"
-    },
-    {
-      "titel": "Polizei stoppt überladenen Tiertransporter in Oberbayern",
-      "link": "https://www.spiegel.de/panorama/polizei-stoppt-ueberladenen-tiertransporter-in-oberbayern-a-9d9fcc57-70e1-4d9a-a119-47958abacbe4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T17:02:00+00:00"
-    },
-    {
-      "titel": "Flughafen Leipzig/Halle: Bundesregierung spricht von hybrider Kriegsführung",
-      "link": "https://www.spiegel.de/politik/flughafen-leipzig-halle-bundesregierung-spricht-von-hybrider-kriegsfuehrung-a-7dbbbc84-b44e-4728-81ca-e2b93ec60131#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T17:02:00+00:00"
-    },
-    {
-      "titel": "SPIEGEL TV-Reporter im Deep Dive: Wie bleibt man ruhig, wenn es gefährlich wird?",
-      "link": "https://www.spiegel.de/backstage/spiegel-tv-reporter-im-deep-dive-wie-bleibt-man-ruhig-wenn-die-lage-kippt-a-506f0af3-c589-45f1-8ad8-6325daf39615#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T16:55:00+00:00"
     },
     {
       "titel": "Marktbericht: DAX verliert erneut deutlich",
@@ -113,24 +143,6 @@
       "link": "https://www.tagesschau.de/inland/bundesgerichtshof-praesidentin-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-01T15:48:16+00:00"
-    },
-    {
-      "titel": "Sprengvorrichtung an Umspannwerk in Brandenburg gefunden",
-      "link": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T15:44:44+00:00"
-    },
-    {
-      "titel": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-kampf-obdachlosigkeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T15:07:36+00:00"
-    },
-    {
-      "titel": "Merz setzt Leitplanken für Kooperation mit der Linken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-linke-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T14:53:23+00:00"
     },
     {
       "titel": "Münchner Oktoberfest: Streit um Wiesn-Figuren: Drohungen gegen die Gleichstellungsstelle",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/niger-putschversuch-truppen-russland-islamisten-li.3540060",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-01T14:01:37+00:00"
-    },
-    {
-      "titel": "Gerichtsprozess: Wie kam es zum Showdown mit Machete und Sichel?",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-prozess-machete-sichel-schwabing-freimann-li.3538574",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T13:58:10+00:00"
-    },
-    {
-      "titel": "Strategie des bayerischen Kabinetts: Söder will Brüsseler Verwaltung auf Diät setzen",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-soeder-eu-bruessel-li.3540435",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-01T13:55:19+00:00"
     }
   ]
 }
