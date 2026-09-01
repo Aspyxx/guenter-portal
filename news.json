@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-08-31T20:24:29+00:00",
+  "aktualisiert": "2026-09-01T00:05:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T23:43:53+00:00"
+    },
+    {
+      "titel": "Donald Trump: Supreme Court erlaubt vorerst Weiterbau von Ballsaal",
+      "link": "https://www.spiegel.de/ausland/donald-trump-supreme-court-erlaubt-vorerst-weiterbau-von-ballsaal-a-c7ae8635-d9d2-4bd6-99d8-6b8e53bd8520#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T23:11:00+00:00"
+    },
+    {
+      "titel": "Microsoft Outlook: Weltweite Störung legt E-Mail-Verkehr lahm",
+      "link": "https://www.spiegel.de/wirtschaft/service/microsoft-outlook-weltweite-stoerung-legt-e-mail-verkehr-lahm-a-8feb937f-4003-4f60-8fe7-38d46290941d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T21:35:00+00:00"
+    },
+    {
+      "titel": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T21:09:55+00:00"
+    },
+    {
+      "titel": "Édouard Balladur: Ehemaliger französischer Premier mit 97 Jahren gestorben",
+      "link": "https://www.spiegel.de/ausland/edouard-balladur-ehemaliger-franzoesischer-premier-mit-97-jahren-gestorben-a-ca97423d-808b-4037-8491-f061cc73a12e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-08-31T21:09:00+00:00"
+    },
+    {
+      "titel": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-08-31T20:28:25+00:00"
+    },
     {
       "titel": "Wie eine Lüge für einen Justizskandal sorgte",
       "link": "https://www.spiegel.de/panorama/justiz/wie-eine-luege-fuer-einen-justizskandal-sorgte-a-38517cb4-4815-4ff7-9644-43d3018a4acb#ref=rss",
@@ -17,12 +53,6 @@
       "link": "https://www.spiegel.de/politik/sven-schulze-im-spiegel-talk-siegmund-ist-eine-marionette-a-cc892227-0a7b-450e-b881-99d645746b38#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-08-31T19:56:00+00:00"
-    },
-    {
-      "titel": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T19:52:21+00:00"
     },
     {
       "titel": "D4vd: US-Rapper plädiert im Mordfall an 14-Jähriger auf nicht schuldig",
@@ -61,18 +91,6 @@
       "veroeffentlicht": "2026-08-31T18:05:00+00:00"
     },
     {
-      "titel": "Hendrik Holt: Das ist über die Flucht des Windkraftbetrügers und Hochstaplers bekannt",
-      "link": "https://www.spiegel.de/panorama/justiz/hendrik-holt-das-ist-ueber-die-flucht-des-windkraftbetruegers-und-hochstaplers-bekannt-a-bbc57568-5f29-462a-86b2-776febfcfc32#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T17:53:00+00:00"
-    },
-    {
-      "titel": "Kapstadt: Riskantes Flugmanöver vor 55000 Zuschauern – wie gefährlich war der doppelte Flyover in Süsafrika?",
-      "link": "https://www.spiegel.de/wissenschaft/technik/kapstadt-riskantes-flugmanoever-vor-55000-zuschauern-wie-gefaehrlich-war-der-doppelte-flyover-in-suesafrika-a-4f1d4e4f-f69e-4806-a208-3dc65344a8ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T17:46:00+00:00"
-    },
-    {
       "titel": "Mode: Doch kein neuer Horizont",
       "link": "https://www.sueddeutsche.de/kultur/john-galliano-absage-met-museum-new-york-li.3540113",
       "quelle": "Süddeutsche",
@@ -91,12 +109,6 @@
       "veroeffentlicht": "2026-08-31T17:00:05+00:00"
     },
     {
-      "titel": "Hockey-WM: Kapitän Tom Grambusch über Führungsstil und Teamgeheimnis",
-      "link": "https://www.spiegel.de/sport/hockey-wm-kapitaen-tom-grambusch-ueber-fuehrungsstil-und-teamgeheimnis-a-55241455-4563-4c44-9e08-f6a375447a05#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T16:48:00+00:00"
-    },
-    {
       "titel": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
       "quelle": "Tagesschau",
@@ -109,22 +121,10 @@
       "veroeffentlicht": "2026-08-31T16:45:31+00:00"
     },
     {
-      "titel": "\"Europa macht sich abhängig von nicht lupenreinen Demokratien\"",
-      "link": "https://www.tagesschau.de/ausland/afrika/migration-tunesien-interview-kohlenberger-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T16:44:32+00:00"
-    },
-    {
       "titel": "Bundespolitik: Pfiffe für Merz bei seiner Wahlkampfpremiere im Osten",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-merz-kuehlungsborn-auftritt-pfiffe-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-31T16:35:08+00:00"
-    },
-    {
-      "titel": "Marktbericht: Herbe Verluste zum Monatsende",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T16:23:35+00:00"
     },
     {
       "titel": "Medizin: Hitzewelle: Zu heiß für den Medikamentenversand?",
