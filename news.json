@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-09-01T21:22:28+00:00",
+  "aktualisiert": "2026-09-01T23:34:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA und Iran melden erneut heftige Angriffe",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T23:02:44+00:00"
+    },
+    {
+      "titel": "Ölpreise steigen nach neuen Gefechten im Nahen Osten",
+      "link": "https://www.spiegel.de/ausland/oelpreise-steigen-nach-neuen-gefechten-im-nahen-osten-a-29db982d-6891-4a50-9ba9-0472f9b9907f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T22:58:00+00:00"
+    },
+    {
+      "titel": "Anschlag in Leipzig: Putin verurteilt Berlins Strafmaßnahmen gegen Russland",
+      "link": "https://www.spiegel.de/ausland/anschlag-in-leipzig-putin-verurteilt-berlins-strafmassnahmen-gegen-russland-a-6d16517d-fb7f-45eb-bd27-41c5c6d21c8c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T21:36:00+00:00"
+    },
+    {
+      "titel": "USA bombardiert nahe Straße von Hormus, Iran startet Vergeltungsangriffe",
+      "link": "https://www.spiegel.de/ausland/usa-bombardiert-nahe-strasse-von-hormus-iran-startet-vergeltungsangriffe-a-377a2cf7-e3d0-4048-85dd-777433958151#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T21:25:00+00:00"
+    },
+    {
+      "titel": "Brandenburg: Anschlag auf Stromleitungen – mögliche linksextreme Hintergründe im Fokus",
+      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-anschlag-auf-stromleitungen-moegliche-linksextreme-hintergruende-im-fokus-a-a7f20341-575f-4936-909c-eafe9db3327f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T21:23:00+00:00"
+    },
     {
       "titel": "DFB-Pokal: BVB gewinnt 5:0 gegen Fünftligisten aus Hamburg",
       "link": "https://www.spiegel.de/sport/dfb-pokal-bvb-gewinnt-5-0-gegen-fuenftligisten-aus-hamburg-a-24eaecd5-d46c-4742-993d-13bbb7f71128#ref=rss",
@@ -49,12 +79,6 @@
       "veroeffentlicht": "2026-09-01T19:56:04+00:00"
     },
     {
-      "titel": "USA und Iran melden erneut heftige Angriffe",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-01T19:37:07+00:00"
-    },
-    {
       "titel": "Donald Trump: Sorgt der Iran-Krieg für einen Boom der Solarenergie? - Podcast",
       "link": "https://www.spiegel.de/ausland/donald-trump-sorgt-der-iran-krieg-fuer-einen-boom-der-solarenergie-podcast-a-b8aef638-81a7-4c3b-80d7-7b16b58a0572#ref=rss",
       "quelle": "SPIEGEL",
@@ -73,34 +97,10 @@
       "veroeffentlicht": "2026-09-01T19:09:43+00:00"
     },
     {
-      "titel": "Dänemark: Männer über 55 Jahren haben künftig keinen Anspruch mehr auf Fruchtbarkeitsbehandlungen",
-      "link": "https://www.spiegel.de/ausland/daenemark-maenner-ueber-55-jahren-haben-kuenftig-keinen-anspruch-mehr-auf-fruchtbarkeitsbehandlungen-a-45d251b8-bf91-4b9e-9f08-60e18f661951#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T18:51:00+00:00"
-    },
-    {
-      "titel": "Nationalspieler Nick Woltemade wechselt zu Juventus Turin: Eine Flucht mit Jürgen Klopps Segen",
-      "link": "https://www.spiegel.de/sport/fussball/nationalspieler-nick-woltemade-wechselt-zu-juventus-turin-eine-flucht-mit-juergen-klopps-segen-a-e484b74f-1455-482f-a153-2331b7e0a3a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T18:00:00+00:00"
-    },
-    {
       "titel": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-01T17:54:06+00:00"
-    },
-    {
-      "titel": "Pharmakonzern Novartis stoppt nach Todesfällen mehrere Studien",
-      "link": "https://www.spiegel.de/wissenschaft/pharmakonzern-novartis-stoppt-nach-todesfaellen-mehrere-studien-a-a47adad2-56df-40f5-8996-32e8393b5e5a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T17:53:00+00:00"
-    },
-    {
-      "titel": "Anschlag Leipzig: Nato begrüßt Maßnahmen, Grüne fordern härtere Sanktionen gegen Russland",
-      "link": "https://www.spiegel.de/politik/deutschland/anschlag-leipzig-nato-begruesst-massnahmen-gruene-fordern-haertere-sanktionen-gegen-russland-a-1307eeea-6a44-4ec4-83a1-f79e990618f5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-01T17:49:00+00:00"
     },
     {
       "titel": "Deadline Day: Ein Rekordverkauf, umjubelte Rückkehrer und lauter Leihen",
