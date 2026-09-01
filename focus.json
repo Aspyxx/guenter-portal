@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-01T02:32:03+00:00",
+  "aktualisiert": "2026-09-01T08:00:54+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Microsoft Outlook Störungen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/microsoft-stoerung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Außenminister Wadephul in Nordafrika: Migration statt Wirtschaft",
-      "link": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-reise-100.html",
+      "titel": "Gopro Aktie",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekassen-defizit-bundesregierung-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
+      "rang": 2,
+      "titel": "Geldpolitik und Ölpreis belasten die Anlegerlaune",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
       "rang": 3,
-      "titel": "Was das Abkommen für Venezuela bedeutet",
-      "link": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
+      "titel": "Zahl der Toten nach Sturzflut im Himalaya steigt auf 1.000",
+      "link": "https://www.tagesschau.de/ausland/asien/himalaya-nepal-sturzflut-tote-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
