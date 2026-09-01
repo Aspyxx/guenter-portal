@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-01T00:05:41+00:00",
+  "aktualisiert": "2026-09-01T05:13:07+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,118 @@
   },
   "meldungen": [
     {
+      "titel": "Russland: Wladimir Putins Kriegsbudget wächst stärker als geplant",
+      "link": "https://www.spiegel.de/wirtschaft/russland-wladimir-putins-kriegsbudget-waechst-staerker-als-geplant-a-310d9f19-a227-4315-be17-0b956a7f5241#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T04:59:00+00:00"
+    },
+    {
+      "titel": "Jeanette Biedermann ist mit 46 Jahren Mutter geworden",
+      "link": "https://www.spiegel.de/panorama/leute/jeanette-biedermann-ist-mit-46-jahren-mutter-geworden-a-fa5b57aa-e2ed-421c-a92a-93bfea7e0c6b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T04:53:00+00:00"
+    },
+    {
+      "titel": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
+      "link": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T04:47:47+00:00"
+    },
+    {
+      "titel": "A340-300 »Theodor Heuss«: So haben Sie den VIP-Bereich einer deutschen Regierungsmaschine noch nie gesehen",
+      "link": "https://www.spiegel.de/politik/deutschland/a340-300-theodor-heuss-so-haben-sie-den-vip-bereich-einer-deutschen-regierungsmaschine-noch-nie-gesehen-a-c7ecf637-0d23-42ff-895d-ff356852b73e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T04:18:00+00:00"
+    },
+    {
+      "titel": "»Anton und Alma« von Dana Vowinckel: Liebe im Schatten des 7. Oktober",
+      "link": "https://www.spiegel.de/kultur/literatur/anton-und-alma-von-dana-vowinckel-liebe-im-schatten-des-7-oktober-a-b2cac6f2-fe2d-4c71-8296-0971d63792d6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T04:15:00+00:00"
+    },
+    {
+      "titel": "Serien: Drei sehenswerte Neustarts, die Sie im Sommer verpasst haben",
+      "link": "https://www.spiegel.de/kultur/tv/serien-drei-sehenswerte-neustarts-die-sie-im-sommer-verpasst-haben-a-26c0ed22-35b5-4ea1-be04-d5fe687af6a9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T04:08:00+00:00"
+    },
+    {
+      "titel": "News: Friedrich Merz, Johann Wadephul, Donald Trump, Pete Hegseth, Iran, Algerien, Sachsen-Anhalt",
+      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-johann-wadephul-donald-trump-pete-hegseth-iran-algerien-sachsen-anhalt-a-aa8af21c-c13b-45f8-b7f4-168388b108f2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T03:38:00+00:00"
+    },
+    {
+      "titel": "Bauchmuskeln: Fünf sanfte Übungen für Frauen nach der Geburt",
+      "link": "https://www.spiegel.de/fitness/bauchmuskeln-fuenf-sanfte-uebungen-fuer-frauen-nach-der-geburt-a-ad1260c8-8a1d-4a6b-aec0-a31b5781e6bc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T03:30:00+00:00"
+    },
+    {
+      "titel": "Fitness: Wie die Darmflora sportliche Leistungen beeinflusst",
+      "link": "https://www.spiegel.de/fitness/fitness-wie-die-darmflora-sportliche-leistungen-beeinflusst-a-e11d29af-f62e-4d55-81a6-dff6e9c9f112#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T03:30:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Vor Beginn des neuen Schuljahrs: Angriffe mit Raketen auf Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-angriffe-kiew-schule-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T02:41:38+00:00"
+    },
+    {
+      "titel": "EU setzt Fleischimporte aus Brasilien wegen Antibiotika-Regeln aus",
+      "link": "https://www.spiegel.de/wirtschaft/eu-setzt-fleischimporte-aus-brasilien-wegen-antibiotika-regeln-aus-a-c35d57ad-f545-4cca-8710-b929187f8166#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-01T02:41:00+00:00"
+    },
+    {
+      "titel": "Mord an Rapper Tupac Shakur: Angeklagter schuldig gesprochen",
+      "link": "https://www.tagesschau.de/ausland/amerika/tupac-prozess-mord-urteil-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T02:18:12+00:00"
+    },
+    {
+      "titel": "Außenminister Wadephul in Nordafrika: Migration statt Wirtschaft",
+      "link": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-reise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T02:17:52+00:00"
+    },
+    {
+      "titel": "Supreme Court: Trump darf Ballsaal im Weißen Haus vorerst weiterbauen",
+      "link": "https://www.tagesschau.de/ausland/amerika/weisses-haus-ballsaal-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T02:17:13+00:00"
+    },
+    {
+      "titel": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-handyverbot-schule-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T02:12:02+00:00"
+    },
+    {
+      "titel": "TV-Kritik: Katastrophen-Kaleidoskop des verlorenen Vertrauens",
+      "link": "https://www.sueddeutsche.de/medien/tv-kritik-hart-aber-fair-ard-afd-ostdeutschland-li.3540101",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-01T01:39:13+00:00"
+    },
+    {
+      "titel": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
+      "link": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T00:49:12+00:00"
+    },
+    {
+      "titel": "Störung bei Microsoft: Maildienst Outlook lahmgelegt",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/microsoft-stoerung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-01T00:46:50+00:00"
+    },
+    {
       "titel": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-08-31T23:43:53+00:00"
-    },
-    {
-      "titel": "Donald Trump: Supreme Court erlaubt vorerst Weiterbau von Ballsaal",
-      "link": "https://www.spiegel.de/ausland/donald-trump-supreme-court-erlaubt-vorerst-weiterbau-von-ballsaal-a-c7ae8635-d9d2-4bd6-99d8-6b8e53bd8520#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T23:11:00+00:00"
-    },
-    {
-      "titel": "Microsoft Outlook: Weltweite Störung legt E-Mail-Verkehr lahm",
-      "link": "https://www.spiegel.de/wirtschaft/service/microsoft-outlook-weltweite-stoerung-legt-e-mail-verkehr-lahm-a-8feb937f-4003-4f60-8fe7-38d46290941d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T21:35:00+00:00"
     },
     {
       "titel": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
@@ -31,94 +127,10 @@
       "veroeffentlicht": "2026-08-31T21:09:55+00:00"
     },
     {
-      "titel": "Édouard Balladur: Ehemaliger französischer Premier mit 97 Jahren gestorben",
-      "link": "https://www.spiegel.de/ausland/edouard-balladur-ehemaliger-franzoesischer-premier-mit-97-jahren-gestorben-a-ca97423d-808b-4037-8491-f061cc73a12e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T21:09:00+00:00"
-    },
-    {
-      "titel": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T20:28:25+00:00"
-    },
-    {
-      "titel": "Wie eine Lüge für einen Justizskandal sorgte",
-      "link": "https://www.spiegel.de/panorama/justiz/wie-eine-luege-fuer-einen-justizskandal-sorgte-a-38517cb4-4815-4ff7-9644-43d3018a4acb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T20:13:00+00:00"
-    },
-    {
-      "titel": "Sven Schulze im SPIEGEL-Talk: »Siegmund ist eine Marionette«",
-      "link": "https://www.spiegel.de/politik/sven-schulze-im-spiegel-talk-siegmund-ist-eine-marionette-a-cc892227-0a7b-450e-b881-99d645746b38#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T19:56:00+00:00"
-    },
-    {
-      "titel": "D4vd: US-Rapper plädiert im Mordfall an 14-Jähriger auf nicht schuldig",
-      "link": "https://www.spiegel.de/panorama/justiz/d4vd-us-rapper-plaediert-im-mordfall-an-14-jaehriger-auf-nicht-schuldig-a-dbfa977f-6ff7-4a27-b85f-0bf4bf5634a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T19:44:00+00:00"
-    },
-    {
-      "titel": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
-      "link": "https://www.tagesschau.de/ausland/amerika/grand-canyon-sturzflut-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T18:57:05+00:00"
-    },
-    {
-      "titel": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T18:30:16+00:00"
-    },
-    {
-      "titel": "Zürich – Schweiz: Kantonsrat will Kopftücher in Klassenzimmern verbieten",
-      "link": "https://www.spiegel.de/ausland/zuerich-schweiz-kantonsrat-verbietet-kopftuecher-in-klassenzimmern-a-66dd7215-59a3-4b9f-95fb-91685f21f7c3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T18:24:00+00:00"
-    },
-    {
-      "titel": "Alec Baldwin: Warum seine Villa in den Hamptons ein Ladenhüter ist",
-      "link": "https://www.spiegel.de/kultur/alec-baldwin-warum-seine-villa-in-den-hamptons-ein-ladenhueter-ist-a-4458f553-7330-4640-8283-cff47f219802#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T18:07:00+00:00"
-    },
-    {
-      "titel": "Nepal: Verschüttete in Wasserkraftwerken – »Immer weniger Hoffnung«",
-      "link": "https://www.spiegel.de/ausland/nepal-verschuettete-in-wasserkraftwerken-immer-weniger-hoffnung-a-32330578-f72c-46a0-8d6f-a62ae8bb29d5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-08-31T18:05:00+00:00"
-    },
-    {
       "titel": "Mode: Doch kein neuer Horizont",
       "link": "https://www.sueddeutsche.de/kultur/john-galliano-absage-met-museum-new-york-li.3540113",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-31T17:15:47+00:00"
-    },
-    {
-      "titel": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T17:04:55+00:00"
-    },
-    {
-      "titel": "Warntag, Steuer, Garantie: Was sich im September ändert",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T17:00:05+00:00"
-    },
-    {
-      "titel": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T16:46:46+00:00"
-    },
-    {
-      "titel": "Wadephul in Tunesien und Algerien: Mehr Stabilität - für weniger Migration",
-      "link": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-08-31T16:45:31+00:00"
     },
     {
       "titel": "Bundespolitik: Pfiffe für Merz bei seiner Wahlkampfpremiere im Osten",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/clemens-fischer-bernhard-meyer-tum-klinikum-querschnittslaehmung-kijimea-exilby-li.3526317",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-08-31T13:46:29+00:00"
-    },
-    {
-      "titel": "Fachkräftemangel: Azubis können sich ein eigenständiges Leben kaum noch leisten",
-      "link": "https://www.sueddeutsche.de/wirtschaft/fachkraefte-deutschland-azubis-wohnungsmarkt-regierung-li.3537599",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T13:37:33+00:00"
-    },
-    {
-      "titel": "Berlin: Israelhass bei Wahlkampf-Endspurt der Linken",
-      "link": "https://www.sueddeutsche.de/politik/berlin-linke-israel-kontroverse-antisemitismus-palaestina-li.3539671",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-08-31T13:36:43+00:00"
     }
   ]
 }
