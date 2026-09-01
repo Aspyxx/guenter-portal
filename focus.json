@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-01T13:33:25+00:00",
+  "aktualisiert": "2026-09-01T17:28:30+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Erstes Treffen der \"Mekka-Allianz\": Eine neue Ordnung im Nahen Osten",
-      "link": "https://www.tagesschau.de/ausland/asien/treffen-mekka-pakt-100.html",
+      "titel": "Was die Katastrophe für Tibet bedeutet",
+      "link": "https://www.tagesschau.de/ausland/asien/tibet-sturzflut-nepal-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Warum fällt der DAX?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
+      "titel": "Landtagswahl in Sachsen-Anhalt: Wie viel Macht hätte eine AfD-Regierung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-afd-102.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Mutmaßlicher antisemitischer Angriff auf Grünen-Politiker in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/antisemitismus-angriff-gruenen-politiker-berlin-100.html",
+      "titel": "Ist der Hype um Shein & Co. vorbei?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "📈"
     }
   ]
 }
