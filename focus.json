@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-02T09:44:23+00:00",
+  "aktualisiert": "2026-09-02T13:54:32+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "DAX bleibt unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
+      "titel": "Polizei",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 2,
+      "titel": "Ryanair senkt Prognose - Luftfahrt unter Kostendruck",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-luftfahrt-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
-      "rang": 2,
-      "titel": "Kommentar zu Sanktionen gegen Russland: Auch politische Waffen sind schmerzhaft",
-      "link": "https://www.tagesschau.de/kommentar/kommentar-anschlag-russland-100.html",
+      "rang": 3,
+      "titel": "KI macht Smartphones, Computer und Konsolen teurer",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-teurer-technik-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 3,
-      "titel": "Großeinsatz am Umspannwerk in Bergheim in Nordrhein-Westfalen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moeglicher-anschlag-umspannwerk-nordrhein-westfalen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
