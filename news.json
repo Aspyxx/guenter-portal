@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-02T11:44:35+00:00",
+  "aktualisiert": "2026-09-02T15:21:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Bergheim in NRW: Herbert Reul spricht von Anfangsverdacht der »verfassungsfeindlichen Sabotage« an Umspannwerk",
-      "link": "https://www.spiegel.de/panorama/justiz/bergheim-in-nrw-herbert-reul-spricht-von-anfangsverdacht-der-verfassungsfeindlichen-sabotage-an-umspannwerk-a-ca662033-4339-45bd-a5fd-2d2146522543#ref=rss",
+      "titel": "Frecciarossa: Italienischer Schnellzug auf Testfahrt in Bayern unterwegs",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs-a-6d4210c3-ad0c-459c-b34f-12d779607ed3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T11:33:00+00:00"
+      "veroeffentlicht": "2026-09-02T15:16:00+00:00"
     },
     {
-      "titel": "UN warnen vor deutlich höherer Erderwärmung",
-      "link": "https://www.tagesschau.de/ausland/afrika/unep-klimawandel-erderwaermung-100.html",
+      "titel": "Aarau: Polizei bezeichnet Angriff bei Rave in der Schweiz als Amoklauf",
+      "link": "https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf-a-2867b180-fb17-450a-aad2-d7f47a525926#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T15:09:00+00:00"
+    },
+    {
+      "titel": "Israel: Verteidigungsminister Katz spricht über Pläne zur Umsiedlung der Bevölkerung Gazas",
+      "link": "https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T15:07:00+00:00"
+    },
+    {
+      "titel": "Warum die Fünf-Prozent-Hürde in Sachsen-Anhalt eine große Rolle spielt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kleine-parteien-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T11:32:16+00:00"
+      "veroeffentlicht": "2026-09-02T15:03:41+00:00"
     },
     {
-      "titel": "Großeinsatz bei Karlstadt: ICE-Tür öffnet sich während der Fahrt – Polizei sucht Täter",
-      "link": "https://www.sueddeutsche.de/bayern/unterfranken-ice-tuer-notfall-li.3541123",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T11:26:00+00:00"
-    },
-    {
-      "titel": "Drohnenattacke von Leipzig: Dieser Schattenkrieg entscheidet sich in deutschen Wohnzimmern",
-      "link": "https://www.sueddeutsche.de/meinung/putin-deutschland-drohnenangriffe-spannungen-kommentar-li.3541059",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T11:15:01+00:00"
-    },
-    {
-      "titel": "Kolumne „Schön Doof“: Ist das jetzt das Ende der Dekadenz?",
-      "link": "https://www.sueddeutsche.de/leben/london-nusr-et-steakhouse-luxusgastronomie-li.3535916",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T11:14:45+00:00"
-    },
-    {
-      "titel": "Extremschwimmer Joseph Heß durchschwimmt die Donau von der Quelle bis zur Mündung",
-      "link": "https://www.spiegel.de/sport/extremschwimmer-joseph-hess-durchschwimmt-die-donau-von-der-quelle-bis-zur-muendung-a-cf92965c-8e5a-469f-8ca6-41b91fcf6b43#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T11:12:00+00:00"
-    },
-    {
-      "titel": "Streit um Protestbus - Verkehrsrecht gegen Grundrechte?",
-      "link": "https://www.tagesschau.de/investigativ/mdr/polizei-zps-protestbus-100.html",
+      "titel": "Moskau bestellt Geschäftsträger der deutschen Botschaft ein",
+      "link": "https://www.tagesschau.de/ausland/russland-geschaeftstraeger-drohne-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T10:59:15+00:00"
+      "veroeffentlicht": "2026-09-02T15:03:13+00:00"
     },
     {
-      "titel": "Brandenburg: Terrorermittlungen nach Sabotage an Umspannwerk am Kohlekraftwerk Jänschwalde",
-      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-terrorermittlungen-nach-sabotage-an-umspannwerk-am-kohlekraftwerk-jaenschwalde-a-7f776394-a790-4368-8c38-07e2883ed48b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T10:56:00+00:00"
-    },
-    {
-      "titel": "Einsatz am Umspannwerk in Bergheim: Ermittlungen wegen verfassungsfeindlicher Sabotage",
-      "link": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
+      "titel": "Großeinsatz am Umspannwerk in Bergheim in Nordrhein-Westfalen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moeglicher-anschlag-umspannwerk-nordrhein-westfalen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T10:52:56+00:00"
+      "veroeffentlicht": "2026-09-02T14:56:00+00:00"
     },
     {
-      "titel": "Deutsche-Bank-Chef warnt vor Abschottung und Nationalismus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-chef-sewing-warnung-afd-regierung-100.html",
+      "titel": "Premier League: Warum Englands Clubs 4,1 Milliarden Euro für neue Spieler ausgeben",
+      "link": "https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T14:47:00+00:00"
+    },
+    {
+      "titel": "Nach Autounfall im März: Tiger Woods bekennt sich schuldig und darf erst mal kein Auto mehr fahren",
+      "link": "https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren-a-53631111-9c3a-4fbc-a200-e3b932db5137#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T14:44:00+00:00"
+    },
+    {
+      "titel": "Einschulung: Das Wichtigste für unser Kind war eh die Schultüte",
+      "link": "https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete-a-eff84dd4-f05d-49fe-bc8a-2c16c08aa5cc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T14:40:00+00:00"
+    },
+    {
+      "titel": "Mindestens 22 Menschen sterben bei Busunglück in Ägypten",
+      "link": "https://www.tagesschau.de/ausland/afrika/busunglueck-aegypten-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T10:51:01+00:00"
+      "veroeffentlicht": "2026-09-02T14:38:50+00:00"
     },
     {
-      "titel": "Sekundäres Trauma: Diese Psychologin half traumatisierten Menschen. Und brauchte dann selbst Hilfe",
-      "link": "https://www.spiegel.de/psychologie/sekundaeres-trauma-diese-psychologin-half-traumatisierten-menschen-und-brauchte-dann-selbst-hilfe-a-89197069-75e3-4c2e-80fa-29e64f09fa35#ref=rss",
+      "titel": "Klimaschutz: Welche drei Schritte jetzt die Atmosphäre noch retten könnten",
+      "link": "https://www.spiegel.de/wissenschaft/natur/klimaschutz-welche-drei-schritte-jetzt-die-atmosphaere-noch-retten-koennten-a-99abce11-761f-4e84-b489-73485ec018c7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T10:51:00+00:00"
+      "veroeffentlicht": "2026-09-02T14:32:00+00:00"
     },
     {
-      "titel": "AfD in Sachsen-Anhalt: Welche Löcher die Partei in den Haushalt reißen würde",
-      "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-welche-loecher-die-partei-in-den-haushalt-reissen-wuerde-a-7746364f-c202-4e4c-9d12-3b1925eaf3b7#ref=rss",
+      "titel": "Zypern: »Die Menschen trieben im Wasser und schrien« - Retter berichtet nach Fährunglück",
+      "link": "https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T10:47:00+00:00"
+      "veroeffentlicht": "2026-09-02T14:30:00+00:00"
     },
     {
-      "titel": "Unterfranken: ICE-Tür öffnet sich während Fahrt – Bundespolizei ermittelt",
-      "link": "https://www.spiegel.de/panorama/unterfranken-ice-tuer-oeffnet-sich-waehrend-fahrt-bundespolizei-ermittelt-a-1345303b-20db-42ab-b71e-6e46c1262bd3#ref=rss",
+      "titel": "Hamburg: 18-Jähriger nötigt Mädchen zu Selbstverletzung – Jugendstrafe verhängt",
+      "link": "https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe-a-c61a532d-52f6-45c4-9b01-ae8f50df97cd#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T10:43:00+00:00"
-    },
-    {
-      "titel": "Kabinettsbeschluss zur Einkommensteuer: So berechnen Sie die Entlastung für Ihr Gehalt",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/kabinettsbeschluss-zur-einkommensteuer-so-berechnen-sie-die-entlastung-fuer-ihr-gehalt-a-d402d122-94fa-4ff6-8d9d-ab6d4bee9eab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T10:38:00+00:00"
-    },
-    {
-      "titel": "EU-Kommission genehmigt deutsche Milliarden für Gaskraftwerke",
-      "link": "https://www.spiegel.de/wirtschaft/eu-kommission-genehmigt-deutsche-milliarden-fuer-gaskraftwerke-a-8a6e7407-812a-4d10-af17-cadcc9f10e9a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T10:34:00+00:00"
-    },
-    {
-      "titel": "Wetter: Hitze kommt mit mehr als 30 Grad nach Deutschland zurück",
-      "link": "https://www.spiegel.de/panorama/wetter-hitze-kommt-mit-mehr-als-30-grad-nach-deutschland-zurueck-a-420deba1-7057-4a72-aa60-9431c12fd7fe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T10:31:00+00:00"
-    },
-    {
-      "titel": "DFB-Rücktritt von Antonio Rüdiger: Er geriet mitten in die erfolglosesten DFB-Jahre",
-      "link": "https://www.sueddeutsche.de/sport/dfb-antonio-ruediger-ruecktritt-gruende-klopp-li.3540893",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T10:21:57+00:00"
-    },
-    {
-      "titel": "Einkommensteuer: Entlastung? Nein, Millionen Deutsche müssen mehr Steuern zahlen",
-      "link": "https://www.sueddeutsche.de/meinung/einkommensteuer-kalte-progression-bundesregierung-merz-kritik-kommentar-li.3540094",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T10:16:26+00:00"
-    },
-    {
-      "titel": "Hybride Angriffe und Anschläge in Tschechien und der Slowakei",
-      "link": "https://www.tagesschau.de/ausland/europa/hybride-angriffe-tschechien-slowakei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T09:57:05+00:00"
-    },
-    {
-      "titel": "Nach Drohnenfund in Leipzig: EU berät neue Sanktionen gegen Russland",
-      "link": "https://www.tagesschau.de/ausland/eu-treffen-russland-leipzig-drohnenvorfall-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T09:56:32+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Nächstes Duell zwischen Ministerpräsident Schulze und AfD-Spitzenkandidat Siegmund",
-      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T09:48:19+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Kabinett bringt Steuerreform auf den Weg",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-leipzig-sanktionen-russland-reaktionen-steuerreform-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T09:45:00+00:00"
-    },
-    {
-      "titel": "USA und Iran melden erneut heftige Angriffe",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T09:35:56+00:00"
+      "veroeffentlicht": "2026-09-02T14:21:00+00:00"
     },
     {
       "titel": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
       "link": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T09:32:51+00:00"
+      "veroeffentlicht": "2026-09-02T14:02:34+00:00"
     },
     {
-      "titel": "Landespolitik: Drei Abgeordnete verlassen Thüringer BSW-Fraktion",
-      "link": "https://www.sueddeutsche.de/politik/thueringen-abgeordnete-bsw-fraktion-li.3541117",
+      "titel": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T13:47:43+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Moskau bestellt Geschäftsträger deutscher Botschaft ein",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-leipzig-sanktionen-russland-reaktionen-li.3529564",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T09:31:27+00:00"
+      "veroeffentlicht": "2026-09-02T13:40:45+00:00"
     },
     {
-      "titel": "Großeinsatz in Augsburg: Nach Explosion am Hauptbahnhof mit zwei Verletzten – Zugverkehr läuft wieder an",
+      "titel": "Parlament von Estland wählt Madise zur neuen Staatspräsidentin",
+      "link": "https://www.tagesschau.de/ausland/europa/estland-wahl-staatspraesidentin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T13:40:22+00:00"
+    },
+    {
+      "titel": "Einsatz am Umspannwerk in Bergheim: Ermittlungen wegen verfassungsfeindlicher Sabotage",
+      "link": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T13:34:07+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Siegmund will nur mit stabiler Mehrheit regieren – Schulze diese nur noch verhindern",
+      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T13:29:41+00:00"
+    },
+    {
+      "titel": "KI macht Smartphones, Computer und Konsolen teurer",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-teurer-technik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T13:18:45+00:00"
+    },
+    {
+      "titel": "Großeinsatz in Augsburg: Explosion am Hauptbahnhof mit zwei Verletzten – Ermittlungen dauern an",
       "link": "https://www.sueddeutsche.de/bayern/augsburg-hauptbahnhof-explosion-li.3540987",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T09:08:00+00:00"
+      "veroeffentlicht": "2026-09-02T13:08:00+00:00"
     },
     {
-      "titel": "Verletzte nach Explosion in Augsburger Innenstadt",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/augsburg-explosion-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T08:58:59+00:00"
+      "titel": "Russlands hybrider Krieg: Eine Antwort auf Leipzig – und viele Fragen",
+      "link": "https://www.sueddeutsche.de/politik/deutschland-russland-hybrider-krieg-strafmassnahmen-russisches-haus-li.3541024",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T12:44:22+00:00"
+    },
+    {
+      "titel": "Leute: „Ich glaube, dass meine Mutter das als Schweinskram empfunden hat“",
+      "link": "https://www.sueddeutsche.de/panorama/boris-rhein-hessen-bravo-mutter-promis-li.3541029",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T12:41:24+00:00"
+    },
+    {
+      "titel": "Nordrhein-Westfalen und Brandenburg: Zwei Anschläge auf das Stromnetz an einem Tag",
+      "link": "https://www.sueddeutsche.de/politik/sabotage-umspannwerk-brandenburg-rwe-reul-li.3540991",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T12:38:00+00:00"
+    },
+    {
+      "titel": "AfD in Sachsen-Anhalt: Achtung, die Wahl dieser Partei kann der Wirtschaft schaden",
+      "link": "https://www.sueddeutsche.de/meinung/afd-wirtschaft-sachsen-anhalt-kommentar-li.3541025",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T12:28:28+00:00"
+    },
+    {
+      "titel": "Thüringen: Drei ehemalige BSW-Abgeordnete gründen eigene Partei",
+      "link": "https://www.sueddeutsche.de/politik/thueringen-abgeordnete-bsw-fraktion-li.3541117",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T12:22:00+00:00"
+    },
+    {
+      "titel": "Niederlande: „Das war doch so ein ruhiges Dörfchen“",
+      "link": "https://www.sueddeutsche.de/panorama/niederlande-overasselt-schuesse-drogenkriminalitaet-bolle-jos-gelderland-li.3541036",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T12:21:57+00:00"
     }
   ]
 }
