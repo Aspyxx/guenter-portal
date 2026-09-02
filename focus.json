@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-02T13:54:32+00:00",
+  "aktualisiert": "2026-09-02T17:27:18+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Polizei",
-      "link": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
+      "titel": "Landtagswahlen In Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kleine-parteien-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Ryanair senkt Prognose - Luftfahrt unter Kostendruck",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-luftfahrt-100.html",
+      "titel": "Institut für Bevölkerungsforschung: Was Menschen vom Kinderkriegen abhält",
+      "link": "https://www.tagesschau.de/wissen/kinderwunsch-deutschland-wirklichkeit-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "KI macht Smartphones, Computer und Konsolen teurer",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-teurer-technik-100.html",
+      "titel": "Streit um Protestbus - Verkehrsrecht gegen Grundrechte?",
+      "link": "https://www.tagesschau.de/investigativ/mdr/polizei-zps-protestbus-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     }
   ]
 }
