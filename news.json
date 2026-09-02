@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-02T15:21:22+00:00",
+  "aktualisiert": "2026-09-02T18:57:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,112 +7,148 @@
   },
   "meldungen": [
     {
-      "titel": "Frecciarossa: Italienischer Schnellzug auf Testfahrt in Bayern unterwegs",
-      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/frecciarossa-italienischer-schnellzug-auf-testfahrt-in-bayern-unterwegs-a-6d4210c3-ad0c-459c-b34f-12d779607ed3#ref=rss",
+      "titel": "Pflegekassen: »Dann ist die Pflegeversicherung schon Ende des Jahres zahlungsunfähig«",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/pflegekassen-dann-ist-die-pflegeversicherung-schon-ende-des-jahres-zahlungsunfaehig-a-48e47fad-8b0a-4c16-9763-958ac60e6480#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T15:16:00+00:00"
+      "veroeffentlicht": "2026-09-02T18:31:00+00:00"
     },
     {
-      "titel": "Aarau: Polizei bezeichnet Angriff bei Rave in der Schweiz als Amoklauf",
-      "link": "https://www.spiegel.de/panorama/justiz/aarau-polizei-bezeichnet-angriff-bei-rave-in-der-schweiz-als-amoklauf-a-2867b180-fb17-450a-aad2-d7f47a525926#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T15:09:00+00:00"
-    },
-    {
-      "titel": "Israel: Verteidigungsminister Katz spricht über Pläne zur Umsiedlung der Bevölkerung Gazas",
-      "link": "https://www.spiegel.de/ausland/israel-verteidigungsminister-katz-spricht-ueber-plaene-zur-umsiedlung-der-bevoelkerung-gazas-a-977b8cc3-633f-4518-a74b-635426b02290#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T15:07:00+00:00"
-    },
-    {
-      "titel": "Warum die Fünf-Prozent-Hürde in Sachsen-Anhalt eine große Rolle spielt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kleine-parteien-sachsen-anhalt-100.html",
+      "titel": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T15:03:41+00:00"
+      "veroeffentlicht": "2026-09-02T18:30:29+00:00"
     },
     {
-      "titel": "Moskau bestellt Geschäftsträger der deutschen Botschaft ein",
-      "link": "https://www.tagesschau.de/ausland/russland-geschaeftstraeger-drohne-100.html",
+      "titel": "Daphne Caruana Galizia: Jury spricht mutmaßlichen Drahtzieher des Mordes frei",
+      "link": "https://www.spiegel.de/ausland/daphne-caruana-galizia-jury-spricht-mutmasslichen-drahtzieher-des-mordes-frei-a-2bc51cfa-2e71-4cdb-8f05-6984116b7d3a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T18:27:00+00:00"
+    },
+    {
+      "titel": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T15:03:13+00:00"
+      "veroeffentlicht": "2026-09-02T18:19:24+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Nach Recherchen von „Süddeutscher Zeitung“, NDR und WDR prüft Rom Informationen zu Verdächtigem",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-leipzig-sanktionen-russland-italien-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T18:18:46+00:00"
+    },
+    {
+      "titel": "Bahn: Wie kann sich eine Zugtür bei Tempo 200 während der Fahrt öffnen?",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/bahn-wie-kann-sich-eine-zugtuer-bei-tempo-200-waehrend-der-fahrt-oeffnen-a-dd6bc295-09d1-496f-8e94-74259d79255f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T18:16:00+00:00"
+    },
+    {
+      "titel": "Bodo Ramelow: Ex-Ministerpräsident tauscht Thüringer Waldgrundstück gegen Südtirol-Wohnung",
+      "link": "https://www.spiegel.de/panorama/leute/bodo-ramelow-ex-ministerpraesident-tauscht-thueringer-waldgrundstueck-gegen-suedtirol-wohnung-a-913b64d6-4ab3-47f9-9706-33f9ccd11dca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T18:14:00+00:00"
+    },
+    {
+      "titel": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-streit-werksschliessungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T18:06:02+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Wolodymyr Selenskyj lobt Friedrich Merz für Sanktionskurs",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs-a-3d2d60c8-069c-4ca2-8ef1-44cd712725c0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T17:56:00+00:00"
+    },
+    {
+      "titel": "Nachruf auf Eberhard Vogel: Der Feinmechaniker aus Jena",
+      "link": "https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena-a-b4faf4dd-86f7-4a6c-9cbf-72e9a6d55811#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T17:49:00+00:00"
+    },
+    {
+      "titel": "Boris Herrmann: Ocean Race Atlantic startet 145 Seemeilen vor New York",
+      "link": "https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T17:46:00+00:00"
     },
     {
       "titel": "Großeinsatz am Umspannwerk in Bergheim in Nordrhein-Westfalen",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moeglicher-anschlag-umspannwerk-nordrhein-westfalen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T14:56:00+00:00"
+      "veroeffentlicht": "2026-09-02T17:31:00+00:00"
     },
     {
-      "titel": "Premier League: Warum Englands Clubs 4,1 Milliarden Euro für neue Spieler ausgeben",
-      "link": "https://www.spiegel.de/sport/fussball/premier-league-warum-englands-clubs-4-1-milliarden-euro-fuer-neue-spieler-ausgeben-a-811d41c2-ea06-4bc0-8ad4-5caea2615238#ref=rss",
+      "titel": "Google: Gericht sieht keine Notwendigkeit zur Zerschlagung des Werbegeschäfts",
+      "link": "https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts-a-1dda95a3-7710-4167-9bc2-abbc2e1cb38c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T14:47:00+00:00"
-    },
-    {
-      "titel": "Nach Autounfall im März: Tiger Woods bekennt sich schuldig und darf erst mal kein Auto mehr fahren",
-      "link": "https://www.spiegel.de/sport/nach-autounfall-im-maerz-tiger-woods-bekennt-sich-schuldig-und-darf-erstmal-kein-auto-mehr-fahren-a-53631111-9c3a-4fbc-a200-e3b932db5137#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T14:44:00+00:00"
-    },
-    {
-      "titel": "Einschulung: Das Wichtigste für unser Kind war eh die Schultüte",
-      "link": "https://www.spiegel.de/familie/einschulung-das-wichtigste-fuer-unser-kind-war-eh-die-schultuete-a-eff84dd4-f05d-49fe-bc8a-2c16c08aa5cc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T14:40:00+00:00"
-    },
-    {
-      "titel": "Mindestens 22 Menschen sterben bei Busunglück in Ägypten",
-      "link": "https://www.tagesschau.de/ausland/afrika/busunglueck-aegypten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T14:38:50+00:00"
-    },
-    {
-      "titel": "Klimaschutz: Welche drei Schritte jetzt die Atmosphäre noch retten könnten",
-      "link": "https://www.spiegel.de/wissenschaft/natur/klimaschutz-welche-drei-schritte-jetzt-die-atmosphaere-noch-retten-koennten-a-99abce11-761f-4e84-b489-73485ec018c7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T14:32:00+00:00"
-    },
-    {
-      "titel": "Zypern: »Die Menschen trieben im Wasser und schrien« - Retter berichtet nach Fährunglück",
-      "link": "https://www.spiegel.de/ausland/zypern-die-menschen-trieben-im-wasser-und-schrien-retter-berichtet-nach-faehrunglueck-a-89c2f1ff-d769-466d-8fc0-b9f407782384#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T14:30:00+00:00"
-    },
-    {
-      "titel": "Hamburg: 18-Jähriger nötigt Mädchen zu Selbstverletzung – Jugendstrafe verhängt",
-      "link": "https://www.spiegel.de/panorama/justiz/landgericht-hamburg-maedchen-zu-selbstverletzung-genoetigt-und-maenner-attackiert-18-jaehriger-erhaelt-jugendstrafe-a-c61a532d-52f6-45c4-9b01-ae8f50df97cd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T14:21:00+00:00"
-    },
-    {
-      "titel": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T14:02:34+00:00"
-    },
-    {
-      "titel": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
-      "link": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T13:47:43+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Moskau bestellt Geschäftsträger deutscher Botschaft ein",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-leipzig-sanktionen-russland-reaktionen-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T13:40:45+00:00"
-    },
-    {
-      "titel": "Parlament von Estland wählt Madise zur neuen Staatspräsidentin",
-      "link": "https://www.tagesschau.de/ausland/europa/estland-wahl-staatspraesidentin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T13:40:22+00:00"
+      "veroeffentlicht": "2026-09-02T17:27:00+00:00"
     },
     {
       "titel": "Einsatz am Umspannwerk in Bergheim: Ermittlungen wegen verfassungsfeindlicher Sabotage",
       "link": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T13:34:07+00:00"
+      "veroeffentlicht": "2026-09-02T17:15:59+00:00"
+    },
+    {
+      "titel": "Netflix, Disney+, Amazon Prime: Serien und Filme im September 2026 – was sich lohnt",
+      "link": "https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-serien-und-filme-im-september-2026-was-sich-lohnt-a-2a372a43-b23f-47d3-88c8-6607c9136e88#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T17:15:00+00:00"
+    },
+    {
+      "titel": "Filmfestspiele: Venedig positioniert sich – gegen die Presse",
+      "link": "https://www.sueddeutsche.de/kultur/eroeffnungsfilm-ink-pressekonferenz-jury-gaza-gyllenhaal-li.3537707",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T17:03:25+00:00"
+    },
+    {
+      "titel": "Grünen-Wahlkampf in Berlin: Und Cem Özdemir wünscht „toi, toi, toi“",
+      "link": "https://www.sueddeutsche.de/politik/berlin-werner-graf-cem-oezdemir-wahlkampf-li.3540518",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T16:53:15+00:00"
+    },
+    {
+      "titel": "Umfrage zu Berlin-Wahl: CDU wieder vorn, Linke verliert",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/ard-berlintrend-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T16:48:29+00:00"
+    },
+    {
+      "titel": "Institut für Bevölkerungsforschung: Was Menschen vom Kinderkriegen abhält",
+      "link": "https://www.tagesschau.de/wissen/kinderwunsch-deutschland-wirklichkeit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T16:40:26+00:00"
+    },
+    {
+      "titel": "TV-Duell in Sachsen-Anhalt: Schulze kommt mit dem Spaten, Siegmund mit der Tank-Quittung",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-tv-duell-schulze-siegmund-li.3524741",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T16:39:50+00:00"
+    },
+    {
+      "titel": "Marktbericht: Hohe Ölpreise drücken die Stimmung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T16:30:29+00:00"
+    },
+    {
+      "titel": "Stellenabbau bei Uber trifft auch Führungskräfte",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-stellenabbau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T15:46:08+00:00"
+    },
+    {
+      "titel": "Soziale Medien: Der Gipfel der Bedeutsamkeit",
+      "link": "https://www.sueddeutsche.de/medien/ferres-maschmeyer-instagram-trennung-videos-linkedin-li.3540608",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T14:02:57+00:00"
+    },
+    {
+      "titel": "Versandpakete: Und die ganze Aufregung nur wegen Paketen?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/eu-verpackungsverordnung-haendler-europa-eu-kommission-li.3538518",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T13:41:10+00:00"
     },
     {
       "titel": "Wahl in Sachsen-Anhalt: Siegmund will nur mit stabiler Mehrheit regieren – Schulze diese nur noch verhindern",
@@ -121,52 +157,16 @@
       "veroeffentlicht": "2026-09-02T13:29:41+00:00"
     },
     {
-      "titel": "KI macht Smartphones, Computer und Konsolen teurer",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-teurer-technik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T13:18:45+00:00"
+      "titel": "Deutsch-russisches Verhältnis: Verklärt und unverstanden",
+      "link": "https://www.sueddeutsche.de/kultur/russland-deutschland-putin-drohnen-sanktionen-hybrider-krieg-li.3540668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T13:27:29+00:00"
     },
     {
-      "titel": "Großeinsatz in Augsburg: Explosion am Hauptbahnhof mit zwei Verletzten – Ermittlungen dauern an",
-      "link": "https://www.sueddeutsche.de/bayern/augsburg-hauptbahnhof-explosion-li.3540987",
+      "titel": "Historie: Die Landkarte des Größenwahns",
+      "link": "https://www.sueddeutsche.de/leben/geschichte-umbenennungen-trump-lake-ontario-kanada-li.3538573",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T13:08:00+00:00"
-    },
-    {
-      "titel": "Russlands hybrider Krieg: Eine Antwort auf Leipzig – und viele Fragen",
-      "link": "https://www.sueddeutsche.de/politik/deutschland-russland-hybrider-krieg-strafmassnahmen-russisches-haus-li.3541024",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T12:44:22+00:00"
-    },
-    {
-      "titel": "Leute: „Ich glaube, dass meine Mutter das als Schweinskram empfunden hat“",
-      "link": "https://www.sueddeutsche.de/panorama/boris-rhein-hessen-bravo-mutter-promis-li.3541029",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T12:41:24+00:00"
-    },
-    {
-      "titel": "Nordrhein-Westfalen und Brandenburg: Zwei Anschläge auf das Stromnetz an einem Tag",
-      "link": "https://www.sueddeutsche.de/politik/sabotage-umspannwerk-brandenburg-rwe-reul-li.3540991",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T12:38:00+00:00"
-    },
-    {
-      "titel": "AfD in Sachsen-Anhalt: Achtung, die Wahl dieser Partei kann der Wirtschaft schaden",
-      "link": "https://www.sueddeutsche.de/meinung/afd-wirtschaft-sachsen-anhalt-kommentar-li.3541025",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T12:28:28+00:00"
-    },
-    {
-      "titel": "Thüringen: Drei ehemalige BSW-Abgeordnete gründen eigene Partei",
-      "link": "https://www.sueddeutsche.de/politik/thueringen-abgeordnete-bsw-fraktion-li.3541117",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T12:22:00+00:00"
-    },
-    {
-      "titel": "Niederlande: „Das war doch so ein ruhiges Dörfchen“",
-      "link": "https://www.sueddeutsche.de/panorama/niederlande-overasselt-schuesse-drogenkriminalitaet-bolle-jos-gelderland-li.3541036",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T12:21:57+00:00"
+      "veroeffentlicht": "2026-09-02T13:11:41+00:00"
     }
   ]
 }
