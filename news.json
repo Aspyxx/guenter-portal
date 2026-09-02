@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-02T18:57:35+00:00",
+  "aktualisiert": "2026-09-02T21:50:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,82 @@
   },
   "meldungen": [
     {
-      "titel": "Pflegekassen: »Dann ist die Pflegeversicherung schon Ende des Jahres zahlungsunfähig«",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/pflegekassen-dann-ist-die-pflegeversicherung-schon-ende-des-jahres-zahlungsunfaehig-a-48e47fad-8b0a-4c16-9763-958ac60e6480#ref=rss",
+      "titel": "Bad Kreuznach: Neun Verletzte nach Flüssigkeitsangriff auf AfD-Stand",
+      "link": "https://www.spiegel.de/panorama/bad-kreuznach-neun-verletzte-nach-fluessigkeitsangriff-auf-afd-stand-a-f24c104e-974d-41e1-b1c3-124472e7e443#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T18:31:00+00:00"
+      "veroeffentlicht": "2026-09-02T21:03:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt - News zur Landtagswahl im Blog: Letztes Wahlkampf-Duell, Linke verharren bei Umfragen",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T20:59:00+00:00"
+    },
+    {
+      "titel": "FC Bayern im DFB-Pokal: Ganz kurz rast die Achterbahn",
+      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-fc-bayern-osnabrueck-aufstellung-tore-kane-li.3541148",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T20:47:46+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: FC Bayern München dreht Spiel nach Traumtor von Osnabrück",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-dreht-spiel-nach-traumtor-von-osnabrueck-a-154713c1-c2e0-4163-b1b9-1b38be75e85f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T20:47:00+00:00"
+    },
+    {
+      "titel": "USA – Massachusetts: Jury im Prozess um drei tote Kinder auch nach 27 Stunden noch uneinig",
+      "link": "https://www.spiegel.de/ausland/usa-massachusetts-jury-im-prozess-um-drei-tote-kinder-auch-nach-27-stunden-noch-uneinig-a-1f6187f9-7196-468d-bd77-b4a2e38c03fa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T20:14:00+00:00"
+    },
+    {
+      "titel": "»Harry Potter«: Neuer Trailer zur HBO-Serie zeigt erstmals längere Szenen aus Hogwarts",
+      "link": "https://www.spiegel.de/kultur/tv/harry-potter-neuer-trailer-zur-hbo-serie-zeigt-erstmals-laengere-szenen-aus-hogwarts-a-a425ff54-814c-407b-963b-28a7638d5652#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T20:13:00+00:00"
+    },
+    {
+      "titel": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T20:09:49+00:00"
+    },
+    {
+      "titel": "Prinz Harry und Meghan zurück in England: Trump nennt Prinz Harry »respektlos«",
+      "link": "https://www.spiegel.de/ausland/prinz-harry-und-meghan-zurueck-in-england-trump-nennt-prinz-harry-respektlos-a-90294283-dd9f-4e69-808e-653da4e2b366#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T20:03:00+00:00"
+    },
+    {
+      "titel": "Champions League der Frauen: Eintracht Frankfurt und VfL Wolfsburg verpassen Qualifikation",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-und-vfl-wolfsburg-verpassen-qualifikation-a-af1de753-ceab-404d-9869-8a53227d56ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T20:00:00+00:00"
+    },
+    {
+      "titel": "Grünen-Wahlkampf in Berlin: Und Cem Özdemir wünscht „toi, toi, toi“",
+      "link": "https://www.sueddeutsche.de/politik/berlin-werner-graf-cem-oezdemir-wahlkampf-li.3540518",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-02T19:54:00+00:00"
+    },
+    {
+      "titel": "TV-Debatte vor Wahl in Sachsen-Anhalt: Sven Schulze kann punkten, Ulrich Siegmund bleibt blass",
+      "link": "https://www.spiegel.de/politik/deutschland/tv-debatte-vor-wahl-in-sachsen-anhalt-sven-schulze-kann-punkten-ulrich-siegmund-bleibt-blass-a-b6afffad-ca92-4c02-be44-e72941477ea1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T19:43:00+00:00"
+    },
+    {
+      "titel": "Wandteppich von Bayeux: Macron bringt Unesco-Schatz nach London",
+      "link": "https://www.spiegel.de/ausland/wandteppich-von-bayeux-macron-bringt-unesco-schatz-nach-london-a-4ea80b79-8727-4a51-b4c7-737fd6064727#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T19:21:00+00:00"
     },
     {
       "titel": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-02T18:30:29+00:00"
-    },
-    {
-      "titel": "Daphne Caruana Galizia: Jury spricht mutmaßlichen Drahtzieher des Mordes frei",
-      "link": "https://www.spiegel.de/ausland/daphne-caruana-galizia-jury-spricht-mutmasslichen-drahtzieher-des-mordes-frei-a-2bc51cfa-2e71-4cdb-8f05-6984116b7d3a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T18:27:00+00:00"
     },
     {
       "titel": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
@@ -37,40 +97,10 @@
       "veroeffentlicht": "2026-09-02T18:18:46+00:00"
     },
     {
-      "titel": "Bahn: Wie kann sich eine Zugtür bei Tempo 200 während der Fahrt öffnen?",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/bahn-wie-kann-sich-eine-zugtuer-bei-tempo-200-waehrend-der-fahrt-oeffnen-a-dd6bc295-09d1-496f-8e94-74259d79255f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T18:16:00+00:00"
-    },
-    {
-      "titel": "Bodo Ramelow: Ex-Ministerpräsident tauscht Thüringer Waldgrundstück gegen Südtirol-Wohnung",
-      "link": "https://www.spiegel.de/panorama/leute/bodo-ramelow-ex-ministerpraesident-tauscht-thueringer-waldgrundstueck-gegen-suedtirol-wohnung-a-913b64d6-4ab3-47f9-9706-33f9ccd11dca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T18:14:00+00:00"
-    },
-    {
       "titel": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-streit-werksschliessungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-02T18:06:02+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Wolodymyr Selenskyj lobt Friedrich Merz für Sanktionskurs",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-lobt-friedrich-merz-fuer-sanktionskurs-a-3d2d60c8-069c-4ca2-8ef1-44cd712725c0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T17:56:00+00:00"
-    },
-    {
-      "titel": "Nachruf auf Eberhard Vogel: Der Feinmechaniker aus Jena",
-      "link": "https://www.spiegel.de/sport/fussball/nachruf-auf-eberhard-vogel-der-feinmechaniker-aus-jena-a-b4faf4dd-86f7-4a6c-9cbf-72e9a6d55811#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T17:49:00+00:00"
-    },
-    {
-      "titel": "Boris Herrmann: Ocean Race Atlantic startet 145 Seemeilen vor New York",
-      "link": "https://www.spiegel.de/sport/boris-herrmann-ocean-race-atlantic-startet-145-seemeilen-vor-new-york-a-78c693c2-bcbf-4ad9-bff7-3de045d9a761#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T17:46:00+00:00"
     },
     {
       "titel": "Großeinsatz am Umspannwerk in Bergheim in Nordrhein-Westfalen",
@@ -79,34 +109,16 @@
       "veroeffentlicht": "2026-09-02T17:31:00+00:00"
     },
     {
-      "titel": "Google: Gericht sieht keine Notwendigkeit zur Zerschlagung des Werbegeschäfts",
-      "link": "https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts-a-1dda95a3-7710-4167-9bc2-abbc2e1cb38c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T17:27:00+00:00"
-    },
-    {
       "titel": "Einsatz am Umspannwerk in Bergheim: Ermittlungen wegen verfassungsfeindlicher Sabotage",
       "link": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-02T17:15:59+00:00"
     },
     {
-      "titel": "Netflix, Disney+, Amazon Prime: Serien und Filme im September 2026 – was sich lohnt",
-      "link": "https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-serien-und-filme-im-september-2026-was-sich-lohnt-a-2a372a43-b23f-47d3-88c8-6607c9136e88#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T17:15:00+00:00"
-    },
-    {
       "titel": "Filmfestspiele: Venedig positioniert sich – gegen die Presse",
       "link": "https://www.sueddeutsche.de/kultur/eroeffnungsfilm-ink-pressekonferenz-jury-gaza-gyllenhaal-li.3537707",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-02T17:03:25+00:00"
-    },
-    {
-      "titel": "Grünen-Wahlkampf in Berlin: Und Cem Özdemir wünscht „toi, toi, toi“",
-      "link": "https://www.sueddeutsche.de/politik/berlin-werner-graf-cem-oezdemir-wahlkampf-li.3540518",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T16:53:15+00:00"
     },
     {
       "titel": "Umfrage zu Berlin-Wahl: CDU wieder vorn, Linke verliert",
@@ -133,12 +145,6 @@
       "veroeffentlicht": "2026-09-02T16:30:29+00:00"
     },
     {
-      "titel": "Stellenabbau bei Uber trifft auch Führungskräfte",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-stellenabbau-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T15:46:08+00:00"
-    },
-    {
       "titel": "Soziale Medien: Der Gipfel der Bedeutsamkeit",
       "link": "https://www.sueddeutsche.de/medien/ferres-maschmeyer-instagram-trennung-videos-linkedin-li.3540608",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/russland-deutschland-putin-drohnen-sanktionen-hybrider-krieg-li.3540668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-02T13:27:29+00:00"
-    },
-    {
-      "titel": "Historie: Die Landkarte des Größenwahns",
-      "link": "https://www.sueddeutsche.de/leben/geschichte-umbenennungen-trump-lake-ontario-kanada-li.3538573",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T13:11:41+00:00"
     }
   ]
 }
