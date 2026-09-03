@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-03T05:08:36+00:00",
+  "aktualisiert": "2026-09-03T09:52:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,130 @@
   },
   "meldungen": [
     {
-      "titel": "Ceuta: Zehntausende demonstrieren gegen Regierung von Pedro Sánchez",
-      "link": "https://www.spiegel.de/politik/ceuta-zehntausende-demonstrieren-gegen-regierung-von-pedro-sanchez-a-67b108c3-e91c-4e85-ab3f-92223052605d#ref=rss",
+      "titel": "Ifo, Kiel Institut, RWI: Führende Ökonomen rechnen mit deutlich besserer Konjunktur im Land",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/ifo-kiel-institut-rwi-fuehrende-oekonomen-rechnen-mit-deutlich-besserer-konjunktur-im-land-a-0593bdd6-fcec-4910-8cbf-2e461daf8f9f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T05:02:00+00:00"
+      "veroeffentlicht": "2026-09-03T09:36:00+00:00"
     },
     {
-      "titel": "Forderung der AfD: Wie geht Heimunterricht in Österreich?",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-hausunterricht-100.html",
+      "titel": "Wahl in Sachsen-Anhalt: Deutlich mehr Übergriffe auf Journalisten im Wahlkampf",
+      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-journalisten-wahlkampf-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-03T09:23:01+00:00"
+    },
+    {
+      "titel": "Brasilien-Wahl: Hälfte der Wähler zweifelt an Putschversuch gegen Lula da Silva",
+      "link": "https://www.spiegel.de/ausland/brasilien-wahl-haelfte-der-waehler-zweifelt-an-putschversuch-gegen-lula-da-silva-a-ad6665e8-6073-4342-ae21-63326a2f2305#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T09:10:00+00:00"
+    },
+    {
+      "titel": "Arbeitgeber wollen Macht der Betriebsräte einschränken",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/arbeitgeber-wollen-macht-der-betriebsraete-einschraenken-a-8703432d-89e0-42bd-923f-8dc6d68784ff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T09:08:00+00:00"
+    },
+    {
+      "titel": "Nach deutschen Strafmaßnahmen: Goethe-Institut in Russland wird geschlossen",
+      "link": "https://www.tagesschau.de/ausland/goethe-institut-russland-schliessung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-03T05:01:53+00:00"
+      "veroeffentlicht": "2026-09-03T09:02:54+00:00"
+    },
+    {
+      "titel": "El Niño wird laut WMO-Bericht sehr stark ausfallen",
+      "link": "https://www.tagesschau.de/wissen/klima/who-warnt-vor-el-nino-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T08:54:55+00:00"
+    },
+    {
+      "titel": "Norwegen beschlagnahmt russisches Schiff vor Spitzbergen",
+      "link": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-russland-norwegen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T08:53:07+00:00"
+    },
+    {
+      "titel": "Marktbericht: Unsichere Zinspolitik hält Anleger vom Kaufen ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T08:52:35+00:00"
+    },
+    {
+      "titel": "Super E10 erreicht neuen Höchststand infolge des Iran-Kriegs",
+      "link": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T08:49:41+00:00"
+    },
+    {
+      "titel": "Fakevideos in Sachsen-Anhalt: »Man stelle sich vor, das geht tatsächlich viral«",
+      "link": "https://www.spiegel.de/politik/fakevideos-in-sachsen-anhalt-man-stelle-sich-vor-das-geht-tatsaechlich-viral-a-ddd3bd54-39d6-47f9-9518-d50921580c6b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T08:49:00+00:00"
+    },
+    {
+      "titel": "Even Realities G2 im Test: Die Cyberbrille für Meta-Hasser",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/even-realities-g2-im-test-die-cyberbrille-fuer-meta-hasser-a-b206c8e0-634f-43b5-aaa5-bf1ee6e52af7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T08:47:00+00:00"
+    },
+    {
+      "titel": "Startklar-Newsletter: Wie viel Geld sollte ich mit 30 angespart haben?",
+      "link": "https://www.spiegel.de/start/startklar-newsletter-wie-viel-geld-sollte-ich-mit-30-angespart-haben-a-9560dc08-3bcb-48fa-a1f2-4502be139ebd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T08:21:00+00:00"
+    },
+    {
+      "titel": "US Open: Daniel Altmaier kurz vom Kollaps, wird mit Stethoskop untersucht, will aufgeben, macht weiter – und verliert",
+      "link": "https://www.spiegel.de/sport/tennis/us-open-daniel-altmaier-kurz-vom-kollaps-wird-mit-stethoskop-untersucht-will-aufgeben-macht-weiter-und-verliert-a-5ebe1ef1-f7b5-460c-b385-bfdefabc850f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T08:16:00+00:00"
+    },
+    {
+      "titel": "Taiwan-China-Konflikt: Taipeh schickt Küstenwache gegen chinesische Schiffe",
+      "link": "https://www.spiegel.de/politik/taiwan-china-konflikt-taipeh-schickt-kuestenwache-gegen-chinesische-schiffe-a-f6856abb-b2d7-461b-83e2-69cb1cdd0a8b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T08:10:00+00:00"
+    },
+    {
+      "titel": "Carlos Alcaraz bei den US Open: Ein Bogenschuss nährt die Erwartungen",
+      "link": "https://www.sueddeutsche.de/sport/alcaraz-tennis-us-open-li.3541522",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-03T08:09:04+00:00"
+    },
+    {
+      "titel": "George Clooney bei Filmfestspielen Venedig für Lebenswerk geehrt",
+      "link": "https://www.tagesschau.de/kultur/filmfestspiele-venedig-clooney-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T08:02:31+00:00"
+    },
+    {
+      "titel": "Brandattacke: LKA vermutet Anschlagsversuch auf Rüstungsunternehmen",
+      "link": "https://www.tagesschau.de/inland/lka-brandanschlag-muenchen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T07:57:19+00:00"
+    },
+    {
+      "titel": "Cassandra Wilson ist tot: Jazz-Sängerin im Alter von 70 Jahren gestorben",
+      "link": "https://www.spiegel.de/kultur/musik/cassandra-wilson-ist-tot-jazz-saengerin-im-alter-von-70-jahren-gestorben-a-4b264dd0-a771-4383-888e-f9df04f1e891#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T07:56:00+00:00"
+    },
+    {
+      "titel": "Streit über Haushalt: Frankreichs Premier warnt vor Zins-Lawine",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/frankreich-staatsschulden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T07:14:39+00:00"
+    },
+    {
+      "titel": "Nach Angriffen: Sicherheit kritischer Infrastruktur im Fokus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-debatte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T06:59:54+00:00"
+    },
+    {
+      "titel": "Roda Verheyen: Sie verhilft dem Klimaschutz zum Durchbruch",
+      "link": "https://www.sueddeutsche.de/politik/klimaschutz-li.3538174",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-03T06:31:21+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Kiesewetter: Maßnahmen gegen Russland reichen nicht",
@@ -25,148 +139,34 @@
       "veroeffentlicht": "2026-09-03T04:34:20+00:00"
     },
     {
-      "titel": "Russlands Angriffe und Deutschlands Antwort: Das Ende der Zurückhaltung",
-      "link": "https://www.spiegel.de/politik/deutschland/russlands-angriffe-und-deutschlands-antwort-das-ende-der-zurueckhaltung-a-3891a075-416a-460c-8d71-1006129ec988#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T04:32:00+00:00"
-    },
-    {
-      "titel": "11KM-Podcast: Rendite statt Reha? Wenn die Klinik für Patienten zur Gefahr wird",
-      "link": "https://www.tagesschau.de/podcast-11km-klinik-reha-gefahr-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-03T04:30:25+00:00"
-    },
-    {
-      "titel": "E-Scooter unter Jugendlichen beliebt: Das »Auto der jungen Leute«",
-      "link": "https://www.spiegel.de/mobilitaet/e-scooter-unter-jugendlichen-beliebt-das-auto-der-jungen-leute-a-542e65d1-86cb-455a-8f20-76e1d6860569#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T04:15:00+00:00"
-    },
-    {
-      "titel": "RTL: »Unter uns« wird abgesetzt - Geht uns damit wirklich was verloren?",
-      "link": "https://www.spiegel.de/kultur/rtl-unter-uns-wird-abgesetzt-geht-uns-damit-wirklich-was-verloren-a-3a172560-0c3b-42de-ab63-0376e376ec09#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T04:05:00+00:00"
-    },
-    {
-      "titel": "News: Wladimir Putin droht Deutschland, CDU versteckt Friedrich Merz, Hape Kerkeling hilft SPD",
-      "link": "https://www.spiegel.de/politik/deutschland/news-wladimir-putin-droht-deutschland-cdu-versteckt-friedrich-merz-hape-kerkeling-hilft-spd-a-8e52d403-5ce9-40ff-8d1e-a8d81bb5b23c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T03:48:00+00:00"
-    },
-    {
-      "titel": "Iran greift erneut Ziele in Kuwait an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-kuwait-angriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-03T03:30:46+00:00"
-    },
-    {
-      "titel": "Russland schließt Goethe-Institut als Vergeltungsmaßnahme im Streit über Drohnen",
-      "link": "https://www.spiegel.de/ausland/russland-schliesst-offenbar-goethe-institut-als-vergeltungsmassnahme-im-streit-ueber-drohnen-a-33c4d647-12b4-472e-a019-ca60bcd8789a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T03:19:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Ver.di registriert mehr als 30 Einschüchterungsversuche gegen Journalisten im AfD-Wahlkampf",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-ver-di-registriert-mehr-als-30-einschuechterungsversuche-gegen-journalisten-im-afd-wahlkampf-a-0c4ebc8e-7bf3-466a-a3e1-7cab6ba20c93#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T03:07:00+00:00"
-    },
-    {
-      "titel": "Bundeswehr startete 2001 geheim und ohne Mandat nach Afghanistan",
-      "link": "https://www.tagesschau.de/investigativ/ndr/bundeswehr-afghanistan-186.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-03T03:00:16+00:00"
-    },
-    {
-      "titel": "Ukraine: Kyjiwer Geheimdienste beschießen sich – Ärger bei Präsident Selenskyj",
-      "link": "https://www.spiegel.de/ausland/ukraine-kyjiwer-geheimdienste-beschiessen-sich-aerger-bei-praesident-selenskyj-a-74a95c76-64a1-4a5b-b263-09bc78ddae13#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T02:52:00+00:00"
-    },
-    {
-      "titel": "Anschläge auf Umspannwerke: Was Deutschlands Stromleitungen so verwundbar macht",
-      "link": "https://www.spiegel.de/wissenschaft/anschlaege-auf-umspannwerke-was-deutschlands-stromleitungen-so-verwundbar-macht-a-74c424ae-9acc-4b6c-a44e-53f7617b90ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T02:46:00+00:00"
-    },
-    {
-      "titel": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
-      "link": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-03T01:34:38+00:00"
-    },
-    {
-      "titel": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
-      "link": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T22:56:35+00:00"
-    },
-    {
       "titel": "FC Bayern im DFB-Pokal: Ganz kurz rast die Achterbahn",
       "link": "https://www.sueddeutsche.de/sport/dfb-pokal-fc-bayern-osnabrueck-aufstellung-tore-kane-li.3541148",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-02T20:47:46+00:00"
     },
     {
-      "titel": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T20:09:49+00:00"
-    },
-    {
-      "titel": "Grünen-Wahlkampf in Berlin: Und Cem Özdemir wünscht „toi, toi, toi“",
+      "titel": "Grünen-Wahlkampf in Berlin: Und Cem Özdemir wünscht „Toi, toi, toi“",
       "link": "https://www.sueddeutsche.de/politik/berlin-werner-graf-cem-oezdemir-wahlkampf-li.3540518",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-02T19:54:00+00:00"
     },
     {
-      "titel": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T18:30:29+00:00"
-    },
-    {
-      "titel": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T18:19:24+00:00"
-    },
-    {
       "titel": "Filmfestspiele: Venedig positioniert sich – gegen die Presse",
-      "link": "https://www.sueddeutsche.de/kultur/eroeffnungsfilm-ink-pressekonferenz-jury-gaza-gyllenhaal-li.3537707",
+      "link": "https://www.sueddeutsche.de/kultur/filmfestspiele-venedig-2026-eroeffnungsfilm-ink-pressekonferenz-li.3537707",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-02T17:03:25+00:00"
     },
     {
-      "titel": "TV-Duell in Sachsen-Anhalt: Schulze kommt mit dem Spaten, Siegmund mit der Tank-Quittung",
+      "titel": "TV-Duell in Sachsen-Anhalt: Schulze kommt mit dem Spaten, Siegmund mit der Tankquittung",
       "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-tv-duell-schulze-siegmund-li.3524741",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-02T16:39:50+00:00"
     },
     {
-      "titel": "Soziale Medien: Der Gipfel der Bedeutsamkeit",
-      "link": "https://www.sueddeutsche.de/medien/ferres-maschmeyer-instagram-trennung-videos-linkedin-li.3540608",
+      "titel": "Roofing: „Ich weiß selbst, dass es dumm und gefährlich ist“",
+      "link": "https://www.sueddeutsche.de/panorama/roofing-rooftopping-extremsport-lost-places-klettern-illegal-li.3518602",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T14:02:57+00:00"
-    },
-    {
-      "titel": "Rüstungsindustrie: „Ganz Deutschland wird ausgespäht“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/knds-hybrider-krieg-deutschland-ruestungsbranche-interview-li.3538095",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T13:50:23+00:00"
-    },
-    {
-      "titel": "Versandpakete: Und die ganze Aufregung nur wegen Paketen?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/eu-verpackungsverordnung-haendler-europa-eu-kommission-li.3538518",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T13:41:10+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Siegmund will nur mit stabiler Mehrheit regieren – Schulze diese nur noch verhindern",
-      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-02T13:29:41+00:00"
+      "veroeffentlicht": "2026-09-02T14:44:10+00:00"
     }
   ]
 }
