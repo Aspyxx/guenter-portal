@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-03T19:57:16+00:00",
+  "aktualisiert": "2026-09-03T22:05:15+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Ultragenyx Aktie",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
       "link": "https://www.tagesschau.de/inland/bgh-sampling-kraftwerk-urteil-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Warum in der Wahl auch ein Risiko für die AfD steckt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
     }
   ]
 }
