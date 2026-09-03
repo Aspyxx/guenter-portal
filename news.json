@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-02T21:50:57+00:00",
+  "aktualisiert": "2026-09-03T00:18:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "NBA bestraft LA Clippers drakonisch – und sperrt Multimilliardär Steve Ballmer aus",
+      "link": "https://www.spiegel.de/sport/basketball/nba-bestraft-la-clippers-drakonisch-und-sperrt-multimilliardaer-steve-ballmer-aus-a-7f724704-4ca3-4710-a9ef-271026c3a2df#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T00:08:00+00:00"
+    },
+    {
+      "titel": "USA - Donald Trump: Einsatz »Southern Spear« fordert 227 Tote auf mutmaßlichen Drogenbooten",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-einsatz-southern-spear-fordert-227-tote-auf-mutmasslichen-drogenbooten-a-71674221-aaf5-4313-aa55-6ebd01cca5d6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T23:20:00+00:00"
+    },
+    {
+      "titel": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
+      "link": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-02T22:56:35+00:00"
+    },
+    {
+      "titel": "Dänemark: Nachrichtendienst warnt vor russischen Sabotageplänen im Land",
+      "link": "https://www.spiegel.de/ausland/daenemark-nachrichtendienst-warnt-vor-russischen-sabotageplaenen-im-land-a-2f2567f5-168a-4bab-bdb3-b485fc78d08e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-02T21:49:00+00:00"
+    },
     {
       "titel": "Bad Kreuznach: Neun Verletzte nach Flüssigkeitsangriff auf AfD-Stand",
       "link": "https://www.spiegel.de/panorama/bad-kreuznach-neun-verletzte-nach-fluessigkeitsangriff-auf-afd-stand-a-f24c104e-974d-41e1-b1c3-124472e7e443#ref=rss",
@@ -55,28 +79,10 @@
       "veroeffentlicht": "2026-09-02T20:03:00+00:00"
     },
     {
-      "titel": "Champions League der Frauen: Eintracht Frankfurt und VfL Wolfsburg verpassen Qualifikation",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-und-vfl-wolfsburg-verpassen-qualifikation-a-af1de753-ceab-404d-9869-8a53227d56ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T20:00:00+00:00"
-    },
-    {
       "titel": "Grünen-Wahlkampf in Berlin: Und Cem Özdemir wünscht „toi, toi, toi“",
       "link": "https://www.sueddeutsche.de/politik/berlin-werner-graf-cem-oezdemir-wahlkampf-li.3540518",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-02T19:54:00+00:00"
-    },
-    {
-      "titel": "TV-Debatte vor Wahl in Sachsen-Anhalt: Sven Schulze kann punkten, Ulrich Siegmund bleibt blass",
-      "link": "https://www.spiegel.de/politik/deutschland/tv-debatte-vor-wahl-in-sachsen-anhalt-sven-schulze-kann-punkten-ulrich-siegmund-bleibt-blass-a-b6afffad-ca92-4c02-be44-e72941477ea1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T19:43:00+00:00"
-    },
-    {
-      "titel": "Wandteppich von Bayeux: Macron bringt Unesco-Schatz nach London",
-      "link": "https://www.spiegel.de/ausland/wandteppich-von-bayeux-macron-bringt-unesco-schatz-nach-london-a-4ea80b79-8727-4a51-b4c7-737fd6064727#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-02T19:21:00+00:00"
     },
     {
       "titel": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
@@ -137,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-tv-duell-schulze-siegmund-li.3524741",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-02T16:39:50+00:00"
-    },
-    {
-      "titel": "Marktbericht: Hohe Ölpreise drücken die Stimmung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-02T16:30:29+00:00"
     },
     {
       "titel": "Soziale Medien: Der Gipfel der Bedeutsamkeit",
