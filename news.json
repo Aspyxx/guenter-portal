@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-09-03T21:04:10+00:00",
+  "aktualisiert": "2026-09-03T23:17:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "NRW: Polizei untersucht verdächtigen Gegenstand an Umspannwerk in Dormagen",
+      "link": "https://www.spiegel.de/panorama/nrw-polizei-untersucht-verdaechtigen-gegenstand-an-umspannwerk-in-dormagen-a-de4dd6f8-62c7-4196-a888-ebad66489de1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T22:17:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: US-Vermittler reisen offenbar nach Moskau und Kyjiw",
+      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-us-vermittler-reisen-offenbar-nach-moskau-und-kyjiw-a-eb176282-5f87-43a7-92a0-72b6c916391e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T22:13:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Trump ruft im Streit um Briefwahl erneut Supreme Court an",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-supreme-court-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-03T21:29:54+00:00"
+    },
     {
       "titel": "Volkswagen in der Krise: Aufsichtsrat stimmt Sanierungsplan zu",
       "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-aufsichtsrat-stimmt-sanierungsplan-zu-a-15d54295-2f6a-421c-b2f2-5c4aafbd8945#ref=rss",
@@ -71,18 +89,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-03T18:00:34+00:00"
-    },
-    {
-      "titel": "»Schwarze Samstage« von Maxim Biller: Selbsterforschung des Besserwissers",
-      "link": "https://www.spiegel.de/kultur/literatur/schwarze-samstage-von-maxim-biller-selbsterforschung-des-besserwissers-a-df363101-3ec0-4710-8eb5-d59bdbd261f4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T17:59:00+00:00"
-    },
-    {
-      "titel": "Kritische Infrastruktur: Verfassungsschutz warnt vor Spionage und Sabotage",
-      "link": "https://www.spiegel.de/panorama/justiz/kritische-infrastruktur-verfassungsschutz-warnt-vor-spionage-und-sabotage-a-27d0b961-b284-4dd3-b6b0-fbcf250192fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T17:57:00+00:00"
     },
     {
       "titel": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/basketball-wm-frauenbasketball-dbb-berlin-li.3540665",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-03T14:13:38+00:00"
-    },
-    {
-      "titel": "Neuer Staatsminister für Sport und Ehrenamt: Eine Personalie, die sich der deutsche Sport kaum besser hätte basteln können",
-      "link": "https://www.sueddeutsche.de/sport/friedrich-merz-staatsminister-sport-ronald-rauhe-dosb-li.3541903",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-03T14:09:42+00:00"
     }
   ]
 }
