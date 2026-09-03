@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-09-03T18:06:07+00:00",
+  "aktualisiert": "2026-09-03T21:04:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Volkswagen in der Krise: Aufsichtsrat stimmt Sanierungsplan zu",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-aufsichtsrat-stimmt-sanierungsplan-zu-a-15d54295-2f6a-421c-b2f2-5c4aafbd8945#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T20:55:00+00:00"
+    },
+    {
+      "titel": "Automobilindustrie: 50 000 Jobs zusätzlich weg: Aufsichtsrat stimmt VW-Sparplan zu",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vw-aufsichtsrat-sanierung-li.3542021",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-03T20:30:00+00:00"
+    },
+    {
+      "titel": "Spahn wird Mitglied des Haushaltsausschusses",
+      "link": "https://www.spiegel.de/politik/spahn-wird-mitglied-des-haushaltsausschusses-a-9a8bd0c1-e9eb-4cb1-9749-bfb5205ee075#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T20:13:00+00:00"
+    },
+    {
+      "titel": "Hape Kerkeling warnt vor »Kapitulation der Fakten vor der Lautstärke«",
+      "link": "https://www.spiegel.de/politik/deutschland/hape-kerkeling-warnt-vor-kapitulation-der-fakten-vor-der-lautstaerke-a-d7e47363-946d-4bfa-988c-42fa09a767c8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T20:03:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt - News zur Landtagswahl: Didi Hallervorden nennt Schulze den »richtigen Mann« für Sachsen-Anhalt",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-im-blog-friedrich-merz-steigt-in-den-wahlkampf-ein-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T19:52:00+00:00"
+    },
+    {
+      "titel": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T19:45:37+00:00"
+    },
+    {
+      "titel": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
+      "link": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-03T19:40:23+00:00"
+    },
+    {
+      "titel": "CDU in Sachsen-Anhalt: Drei Tage vor der Wahl eskaliert der Streit",
+      "link": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-drei-tage-vor-der-wahl-eskaliert-der-streit-a-d1bd01f0-17f6-4075-bbae-a11e017a62bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T19:20:00+00:00"
+    },
+    {
+      "titel": "Brandenburg: Polizei prüft Bekennerschreiben zu Angriff auf Stromnetz",
+      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-polizei-prueft-bekennerschreiben-zu-angriff-auf-stromnetz-a-133c2a69-5727-4fe7-a8f0-4f75159c9fb4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T18:37:00+00:00"
+    },
+    {
+      "titel": "Elektroauto: Ehrliche Klimarechnung als Lüge",
+      "link": "https://www.spiegel.de/mobilitaet/auto/elektroauto-ehrliche-klimarechnung-als-luege-a-6675dd98-f9d4-41e2-a10a-fb5e087041c8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T18:05:00+00:00"
+    },
     {
       "titel": "Warum in der Wahl auch ein Risiko für die AfD steckt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
@@ -25,18 +85,6 @@
       "veroeffentlicht": "2026-09-03T17:57:00+00:00"
     },
     {
-      "titel": "Ulrich Siegmund: Der Posterboy der AfD – SPIEGEL TV",
-      "link": "https://www.spiegel.de/politik/ulrich-siegmund-der-posterboy-der-afd-spiegel-tv-a-16984d5d-2b72-4766-ad50-7bd5159a94c0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T17:53:00+00:00"
-    },
-    {
-      "titel": "Hockenheim: Alphaville will nach Wiedereinladung nicht mehr beim Glücksgefühle-Festival auftreten",
-      "link": "https://www.spiegel.de/kultur/musik/hockenheim-alphaville-will-nach-wiedereinladung-nicht-mehr-beim-gluecksgefuehle-festival-auftreten-a-f23cf9f9-9c9b-449e-816c-5bb78472c803#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T17:47:00+00:00"
-    },
-    {
       "titel": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
       "link": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
       "quelle": "Tagesschau",
@@ -49,28 +97,10 @@
       "veroeffentlicht": "2026-09-03T17:40:41+00:00"
     },
     {
-      "titel": "Brandenburg: Polizei prüft Bekennerschreiben zu Angriff auf Stromnetz",
-      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-polizei-prueft-bekennerschreiben-zu-angriff-auf-stromnetz-a-133c2a69-5727-4fe7-a8f0-4f75159c9fb4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T17:34:00+00:00"
-    },
-    {
       "titel": "Filmfestspiele Venedig: Wie eine Atombombe der Traurigkeit",
       "link": "https://www.sueddeutsche.de/kultur/festival-martin-mcdonagh-wild-horse-nine-interview-rezension-kritik-li.3539746",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-03T17:30:55+00:00"
-    },
-    {
-      "titel": "Gianni Infantino in der Kritk: Wer wird in einem Jahr Fifa-Präsident sein?",
-      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-in-der-kritk-wer-wird-in-einem-jahr-fifa-praesident-sein-a-9580d802-ecce-42b5-9133-215732708831#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T17:25:00+00:00"
-    },
-    {
-      "titel": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
-      "link": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-03T17:19:26+00:00"
     },
     {
       "titel": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
@@ -79,28 +109,10 @@
       "veroeffentlicht": "2026-09-03T17:04:38+00:00"
     },
     {
-      "titel": "Filmfestspiele in Venedig: Werner Herzog erzählt von irischen Schwestern",
-      "link": "https://www.spiegel.de/kultur/filmfestspiele-in-venedig-werner-herzog-erzaehlt-von-irischen-schwestern-a-c8a9f8bc-7dda-499b-a7dc-6a12804f263a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T16:39:00+00:00"
-    },
-    {
-      "titel": "Tierschutz: »Auch Haustiere werden systematisch gequält«",
-      "link": "https://www.spiegel.de/kultur/tierschutz-auch-haustiere-werden-systematisch-gequaelt-a-76b178d9-b242-4fbf-87ae-54f1a57a14b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T16:38:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX macht Boden gut",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-03T16:31:52+00:00"
-    },
-    {
-      "titel": "Sabotage: Offenbar 165 Verdachtsfälle in Deutschland in diesem Jahr",
-      "link": "https://www.spiegel.de/politik/deutschland/sabotage-offenbar-165-verdachtsfaelle-in-deutschland-in-diesem-jahr-a-80bf4f2e-49a7-42bb-9110-f0748693df10#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T16:20:00+00:00"
     },
     {
       "titel": "ARD-DeutschlandTrend: Deutsche fühlen sich durch Russland bedroht",
@@ -139,6 +151,12 @@
       "veroeffentlicht": "2026-09-03T14:15:00+00:00"
     },
     {
+      "titel": "Russland: „Man sollte alles versuchen, um zu verhindern, dass sich Russland weiter bereichert“",
+      "link": "https://www.sueddeutsche.de/medien/dmitry-glukhovsky-russland-drohnen-leipzig-li.3541395",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-03T14:14:34+00:00"
+    },
+    {
       "titel": "Basketball-WM der Frauen: Endlich groß rauskommen",
       "link": "https://www.sueddeutsche.de/sport/basketball-wm-frauenbasketball-dbb-berlin-li.3540665",
       "quelle": "Süddeutsche",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/friedrich-merz-staatsminister-sport-ronald-rauhe-dosb-li.3541903",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-03T14:09:42+00:00"
-    },
-    {
-      "titel": "Streit um „Kraftwerk“-Sequenz: Bundesgerichtshof gibt Moses Pelham teilweise recht",
-      "link": "https://www.sueddeutsche.de/kultur/bundesgerichtshof-moses-pelham-kraftwerk-sampling-pastiche-li.3541812",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-03T14:07:46+00:00"
-    },
-    {
-      "titel": "Vertrauliches Lagebild - BKA zählt bereits 165 mutmaßliche Sabotageakte",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bka-lagebericht-sabotage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-03T14:00:22+00:00"
-    },
-    {
-      "titel": "CDU: Frauen in der Männertruppe",
-      "link": "https://www.sueddeutsche.de/politik/cdu-frauen-union-warken-hoppermann-dos-santos-wintz-li.3541560",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-03T13:57:01+00:00"
     }
   ]
 }
