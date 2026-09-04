@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-03T23:17:54+00:00",
+  "aktualisiert": "2026-09-04T01:23:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,28 @@
   },
   "meldungen": [
     {
-      "titel": "NRW: Polizei untersucht verdächtigen Gegenstand an Umspannwerk in Dormagen",
-      "link": "https://www.spiegel.de/panorama/nrw-polizei-untersucht-verdaechtigen-gegenstand-an-umspannwerk-in-dormagen-a-de4dd6f8-62c7-4196-a888-ebad66489de1#ref=rss",
+      "titel": "Dormagen: Polizei geht von versuchter Sabotage an Umspannwerk aus",
+      "link": "https://www.spiegel.de/panorama/justiz/dormagen-polizei-geht-von-versuchter-sabotage-an-umspannwerk-aus-a-db938d81-30d9-4f87-8a98-c8a8f147795d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T22:17:00+00:00"
+      "veroeffentlicht": "2026-09-04T01:06:00+00:00"
+    },
+    {
+      "titel": "Niederlage für Donald Trump – Gericht in Missouri kippt Neuzuschnitt der Wahlkreise",
+      "link": "https://www.spiegel.de/ausland/niederlage-fuer-donald-trump-gericht-in-missouri-kippt-neuzuschnitt-der-wahlkreise-a-4fe85abe-33e6-4bd0-8ee5-75a69a9f1d7a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T01:05:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: Präsident will Supreme-Court-Entscheid zu schärferen Briefwahlregeln",
+      "link": "https://www.spiegel.de/ausland/donald-trump-praesident-will-supreme-court-entscheid-zu-schaerferen-briefwahlregeln-a-2f0fdda6-cbfb-4f5d-aacb-f559794bbf7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T00:26:00+00:00"
+    },
+    {
+      "titel": "Gianni Infantino: Fifa wirft Uefa »Verleumdungskampagne« vor",
+      "link": "https://www.spiegel.de/sport/gianni-infantino-fifa-wirft-uefa-verleumdungskampagne-vor-a-20452ebe-342d-4c87-af6d-56f90038b41e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-03T23:33:00+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: US-Vermittler reisen offenbar nach Moskau und Kyjiw",
@@ -65,24 +83,6 @@
       "link": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-03T19:40:23+00:00"
-    },
-    {
-      "titel": "CDU in Sachsen-Anhalt: Drei Tage vor der Wahl eskaliert der Streit",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-drei-tage-vor-der-wahl-eskaliert-der-streit-a-d1bd01f0-17f6-4075-bbae-a11e017a62bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T19:20:00+00:00"
-    },
-    {
-      "titel": "Brandenburg: Polizei prüft Bekennerschreiben zu Angriff auf Stromnetz",
-      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-polizei-prueft-bekennerschreiben-zu-angriff-auf-stromnetz-a-133c2a69-5727-4fe7-a8f0-4f75159c9fb4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T18:37:00+00:00"
-    },
-    {
-      "titel": "Elektroauto: Ehrliche Klimarechnung als Lüge",
-      "link": "https://www.spiegel.de/mobilitaet/auto/elektroauto-ehrliche-klimarechnung-als-luege-a-6675dd98-f9d4-41e2-a10a-fb5e087041c8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-03T18:05:00+00:00"
     },
     {
       "titel": "Warum in der Wahl auch ein Risiko für die AfD steckt",
