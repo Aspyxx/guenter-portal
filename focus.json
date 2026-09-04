@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-04T04:46:50+00:00",
+  "aktualisiert": "2026-09-04T09:08:43+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Wetterphänomen",
-      "link": "https://www.tagesschau.de/wissen/klima/el-nino-wmo-100.html",
+      "titel": "Bundestagswahl",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-spitzenkandidaten-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🗳️"
     },
     {
       "rang": 2,
-      "titel": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
-      "link": "https://www.tagesschau.de/inland/bgh-sampling-kraftwerk-urteil-100.html",
+      "titel": "DAX steckt bei 26.000 Punkten fest",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Sparpläne bei den Krankenkassen: Frauenärzte fürchten Folgen für Schwangere",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/schwangeren-versorgung-gesundheitsreform-100.html",
+      "titel": "Verspätungen auf Bahnstrecke Berlin-Hamburg",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-generalsanierung-hamburg-berlin-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
