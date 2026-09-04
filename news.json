@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-09-04T21:30:55+00:00",
+  "aktualisiert": "2026-09-04T23:21:51+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Mercator-Projektion: Uno stimmt für Reform der verzerrten Weltkarte",
+      "link": "https://www.spiegel.de/ausland/mercator-projektion-uno-stimmt-fuer-reform-der-verzerrten-weltkarte-a-c4ee02af-ec1c-42e2-9041-6efb8047f53d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T23:01:00+00:00"
+    },
+    {
+      "titel": "Neue Vorwürfe gegen Farages Rechtspopulisten",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-farage-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T22:05:27+00:00"
+    },
     {
       "titel": "Giorgia Meloni: Italiens Ministerpräsidentin wird mitten in einer Rede von ihrer Tochter angerufen – und geht ran",
       "link": "https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-wird-mitten-in-einer-rede-von-ihrer-tochter-angerufen-und-geht-ran-a-263087e4-3bd4-438b-947e-499b65317dfc#ref=rss",
@@ -73,12 +85,6 @@
       "veroeffentlicht": "2026-09-04T18:02:00+00:00"
     },
     {
-      "titel": "Serbien: EU-Kommissarin Marta Kos sagt Besuch wegen »Verherrlichung« von Ratko Mladić ab",
-      "link": "https://www.spiegel.de/ausland/serbien-eu-kommissarin-marta-kos-sagt-besuch-wegen-verherrlichung-von-ratko-mladic-ab-a-d5a5c389-6324-4e95-9924-a8d03ca0fca9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T18:00:00+00:00"
-    },
-    {
       "titel": "Newsblog zum Ukraine-Krieg: Selenskij: US-Vermittler kommen am Sonntag nach Kiew",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-kiew-li.3524928",
       "quelle": "Süddeutsche",
@@ -137,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/politik/abschiebezentren-migranten-deutschland-eu-kooperation-ruanda-li.3542182",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-04T13:52:46+00:00"
-    },
-    {
-      "titel": "Deutsche Studentin gewinnt schwedische Insel - auf Zeit",
-      "link": "https://www.tagesschau.de/ausland/europa/insel-schweden-gewonnen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T13:45:30+00:00"
     },
     {
       "titel": "Unruhe im Amateurfußball: Streit um Millionen Mitgliederdaten im „Digitalen Vereinsheim“",
