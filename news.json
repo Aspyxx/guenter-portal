@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-04T11:45:19+00:00",
+  "aktualisiert": "2026-09-04T16:23:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Weltweite Lebensmittelpreise steigen auf höchsten Stand seit 2022",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/un-lebensmittelpreise-anstieg-weltweit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T11:41:13+00:00"
-    },
-    {
-      "titel": "Das sind die Punkte des VW-Sparplans",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplan-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T11:39:11+00:00"
-    },
-    {
-      "titel": "Heiner Wilmer: Bischofskonferenzchef fordert neue Definition von Wohlstand",
-      "link": "https://www.spiegel.de/wirtschaft/heiner-wilmer-bischofskonferenzchef-fordert-neue-definition-von-wohlstand-a-d2fcc605-6383-4ee9-8a90-de47817987c8#ref=rss",
+      "titel": "Berlin: Hacker veröffentlichen offenbar mehr als eine Million Daten",
+      "link": "https://www.spiegel.de/netzwelt/berlin-hacker-veroeffentlichen-offenbar-mehr-als-eine-million-daten-a-25fd53b1-c525-42f7-a6f1-0137569bbdb8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:20:00+00:00"
+      "veroeffentlicht": "2026-09-04T16:19:00+00:00"
     },
     {
-      "titel": "Miele zeigt auf der Ifa eine KI-Waschmaschine",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/miele-zeigt-auf-der-ifa-eine-ki-waschmaschine-a-1728bb63-6616-4942-bf04-69f1e41e296f#ref=rss",
+      "titel": "JP Kraemer: Von 100 auf null in sieben Tagen - Aufstieg und Fall des deutschen Tuning-Idols",
+      "link": "https://www.spiegel.de/kultur/tv/jp-kraemer-von-100-auf-null-in-sieben-tagen-aufstieg-und-fall-des-deutschen-tuning-idols-a-c81777c9-f699-4723-b484-b5df2c2b9344#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:16:00+00:00"
+      "veroeffentlicht": "2026-09-04T16:13:00+00:00"
     },
     {
-      "titel": "Weinlese in Sachsen-Anhalt: Wie Winzer mit der AfD umgehen",
-      "link": "https://www.spiegel.de/politik/deutschland/weinlese-in-sachsen-anhalt-wie-winzer-mit-der-afd-umgehen-a-8bd596c8-d449-4015-b661-453205dba238#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:14:00+00:00"
-    },
-    {
-      "titel": "Der Gastro-Code: 18 Fragen rund ums Essengehen – und Antworten von Profis",
-      "link": "https://www.spiegel.de/effilee/der-gastro-code-18-fragen-rund-ums-essengehen-und-antworten-von-profis-a-940d64aa-0837-4d0b-ad2f-e1d0ac59fe6c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:11:00+00:00"
-    },
-    {
-      "titel": "Iran hat die USA vor diesem Schritt gewarnt – Israel meldet Räumung von strategischer Hisbollah-Untergrundbasis",
-      "link": "https://www.spiegel.de/ausland/iran-hat-die-usa-vor-diesem-schritt-gewarnt-israel-meldet-raeumung-von-strategischer-hisbollah-untergrundbasis-a-fbe625c2-cf78-4dc5-b8de-3cee2c35247a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:07:00+00:00"
-    },
-    {
-      "titel": "Syrien beginnt mit Vernichtung von Chemiewaffen aus Assad-Ära",
-      "link": "https://www.spiegel.de/ausland/syrien-beginnt-mit-vernichtung-von-chemiewaffen-aus-assad-aera-a-8f49aec1-1a54-48b3-ac75-e4732c16fa51#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:07:00+00:00"
-    },
-    {
-      "titel": "Volkswagen: Wer den Machtkampf um das große Sparpaket gewonnen hat",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-wer-den-machtkampf-um-das-grosse-sparpaket-gewonnen-hat-a-b13dccfe-8a00-4c6b-a348-f87f329d37b1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:06:00+00:00"
-    },
-    {
-      "titel": "Türkei-Urlaub: Wie es Hitler in die Sommersiedlung meiner Eltern schaffte",
-      "link": "https://www.spiegel.de/panorama/tuerkei-urlaub-wie-es-hitler-in-die-sommersiedlung-meiner-eltern-schaffte-a-9d988684-dab4-43bb-b051-b405084839c3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:06:00+00:00"
-    },
-    {
-      "titel": "Volkswagen: Emden, Hannover, Neckarsulm und Zwickau ohne klare Perspektive",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-emden-hannover-neckarsulm-und-zwickau-ohne-klare-perspektive-a-2dfc1407-5459-4c47-ac29-6a51f2714c02#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T11:06:00+00:00"
-    },
-    {
-      "titel": "Tatverdächtiger bekennt sich zu Anschlägen auf Stromversorgung",
-      "link": "https://www.tagesschau.de/inland/bekennerschreiben-anschlaege-stromversorgung-100.html",
+      "titel": "EU verzeichnet neue Höchststände bei Syphilis und Tripper",
+      "link": "https://www.tagesschau.de/wissen/tag-der-sexuellen-gesundheit-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T10:44:13+00:00"
+      "veroeffentlicht": "2026-09-04T16:10:06+00:00"
     },
     {
-      "titel": "Thüringen: Weitere Abgeordnete verlassen BSW",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-thueringen-abgeordnete-verlassen-fraktion-100.html",
+      "titel": "Marktbericht: DAX-Anleger bleiben vorsichtig",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T10:41:08+00:00"
+      "veroeffentlicht": "2026-09-04T16:09:28+00:00"
     },
     {
-      "titel": "Wohl Sabotageversuch in Dormagen - Vorfälle in Aachen und Ganderkesee",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-stromnetz-dormagen-aachen-ganderkesee-100.html",
+      "titel": "Russische Drohne trifft Geheimdienstzentrale in Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-sbu-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T10:17:15+00:00"
+      "veroeffentlicht": "2026-09-04T16:03:50+00:00"
     },
     {
-      "titel": "Waldbrände in Indonesien breiten sich unkontrolliert aus",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-waldbraende-100.html",
+      "titel": "Thomas Bareiß: CDU-Politiker will nach Unfall und Auszeit im Bundestag bleiben",
+      "link": "https://www.spiegel.de/politik/deutschland/thomas-bareiss-cdu-politiker-will-nach-unfall-und-auszeit-im-bundestag-bleiben-a-26233088-1d72-47f5-824f-79046ee775da#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T15:59:00+00:00"
+    },
+    {
+      "titel": "Nepal: Zwei Arbeiter nach neun Tagen aus verschüttetem Schacht gerettet",
+      "link": "https://www.spiegel.de/ausland/nepal-zwei-arbeiter-nach-neun-tagen-aus-verschuettetem-schacht-gerettet-a-f98c33db-610d-417e-b7bb-d02b9f0d8252#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T15:55:00+00:00"
+    },
+    {
+      "titel": "Tate-Brüder: Staatsanwaltschaft erhebt neue Anklage gegen Andrew und Tristan Tate",
+      "link": "https://www.spiegel.de/panorama/justiz/tate-brueder-staatsanwaltschaft-erhebt-neue-anklage-gegen-andrew-und-tristan-tate-a-5d85ddb9-24de-4f8c-becd-60aacb55997a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T15:46:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Arbeitsstunden bei Lehrkräften, Machtkampf bei Volkswagen, Noten bei Friedrich Merz",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitsstunden-bei-lehrkraeften-machtkampf-bei-volkswagen-noten-bei-friedrich-merz-a-380a217e-ce22-40c5-8c39-cd2b29ae3854#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T15:46:00+00:00"
+    },
+    {
+      "titel": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T09:56:24+00:00"
+      "veroeffentlicht": "2026-09-04T15:39:58+00:00"
     },
     {
-      "titel": "Wie eine Textzeile Chinas bekanntestem Comedian zum Verhängnis wurde",
-      "link": "https://www.tagesschau.de/ausland/asien/china-comedian-guo-100.html",
+      "titel": "Sachsen-Anhalt - News zur Landtagswahl: Siegmund sieht sich als Wahlsieger – selbst wenn Wahlziel nicht erreicht wird",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-ulrich-siegmund-30-minuten-im-kinderkanal-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T15:34:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: Wird die Straße von Hormus zur Trump-Straße? – Umbenennungen des US-Präsidenten",
+      "link": "https://www.spiegel.de/ausland/donald-trump-wird-die-strasse-von-hormus-zur-trump-strasse-umbenennungen-des-us-praesidenten-a-d8730003-81e1-48d9-ba7a-bf2db9ae0e91#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T15:27:00+00:00"
+    },
+    {
+      "titel": "Schweiz: Neue Details zum Todesschützen aus Aarau",
+      "link": "https://www.spiegel.de/ausland/schweiz-neue-details-zum-todesschuetzen-aus-aarau-a-3d82a4ee-4292-4687-87a8-0c377613e32b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T15:19:00+00:00"
+    },
+    {
+      "titel": "Bas fordert Erhalt der VW-Produktionsstätten in Deutschland",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/vw-sparmassnahmen-politische-reaktionen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T09:40:43+00:00"
+      "veroeffentlicht": "2026-09-04T14:12:47+00:00"
     },
     {
-      "titel": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
-      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
+      "titel": "Schalkes Edin Dzeko im Interview: „Jedes Tor ist wie ein Druckventil. Das hört nie auf!“",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-schalke-bayern-dzeko-interview-li.3542148",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-04T14:04:29+00:00"
+    },
+    {
+      "titel": "Migrationspolitik: Fünf EU-Staaten treiben Pläne für Abschiebezentren in Afrika voran",
+      "link": "https://www.sueddeutsche.de/politik/abschiebezentren-migranten-deutschland-eu-kooperation-ruanda-li.3542182",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-04T13:52:46+00:00"
+    },
+    {
+      "titel": "Deutsche Studentin gewinnt schwedische Insel - auf Zeit",
+      "link": "https://www.tagesschau.de/ausland/europa/insel-schweden-gewonnen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T09:35:15+00:00"
+      "veroeffentlicht": "2026-09-04T13:45:30+00:00"
     },
     {
-      "titel": "Nepal: Zwei Arbeiter neun Tage nach Sturzflut aus Tunnel gerettet",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-rettung-100.html",
+      "titel": "Unruhe im Amateurfußball: Streit um Millionen Mitgliederdaten im „Digitalen Vereinsheim“",
+      "link": "https://www.sueddeutsche.de/sport/dfb-amateurfussball-konflikte-daten-neuendorf-li.3541935",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-04T13:32:12+00:00"
+    },
+    {
+      "titel": "Wie mit \"Durchstechereien\" Politik gemacht wird",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/leaks-politik-bundesregierung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T09:24:23+00:00"
+      "veroeffentlicht": "2026-09-04T13:21:25+00:00"
     },
     {
-      "titel": "Italien: Giorgia Meloni hat Grund zum Feiern, ihr Land jedoch nicht",
-      "link": "https://www.sueddeutsche.de/meinung/kommentar-meloni-rekord-italien-justizrefom-li.3541192",
+      "titel": "Wahl des Bundespräsidenten: Mit Liebe zum Detail und 50 Fässern Bier",
+      "link": "https://www.sueddeutsche.de/politik/bundespraesident-wahl-bundesversammlung-steinmeier-empfang-catering-essen-trinken-li.3542194",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T07:37:40+00:00"
+      "veroeffentlicht": "2026-09-04T13:05:05+00:00"
     },
     {
-      "titel": "SPD-Klausur: Kerkelings eindringlicher Appell",
-      "link": "https://www.sueddeutsche.de/politik/kerkeling-spd-klausur-sachsen-anhalt-afd-landtagswahl-li.3542010",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T06:54:00+00:00"
+      "titel": "München: Zwei Tatverdächtige nach Brandanschlag in Untersuchungshaft",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdaechtige-u-haft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T12:59:49+00:00"
     },
     {
-      "titel": "Nordrhein-Westfalen: Sabotage an Umspannwerken: Polizei liegt Bekennerschreiben vor",
-      "link": "https://www.sueddeutsche.de/politik/kriminalitaet-sabotage-stromversorgung-polizei-nrw-li.3542060",
+      "titel": "Autoindustrie: So sieht der Rettungsplan für VW aus",
+      "link": "https://www.sueddeutsche.de/wirtschaft/volkswagen-sanierungsplan-jobabbau-zukunft-werke-li.3542217",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T06:50:53+00:00"
+      "veroeffentlicht": "2026-09-04T12:59:20+00:00"
     },
     {
-      "titel": "Pop: „Sie verwechseln den Staat mit der Demokratie“",
-      "link": "https://www.sueddeutsche.de/kultur/farin-urlaub-aerzte-interview-album-li.3530465",
+      "titel": "US Open im Tennis: Der Center Court erstrahlt im Selfie-Licht",
+      "link": "https://www.sueddeutsche.de/sport/us-open-tennis-new-york-influencer-li.3540811",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T06:35:21+00:00"
+      "veroeffentlicht": "2026-09-04T12:38:34+00:00"
     },
     {
-      "titel": "Anschlag auf Münchner Rüstungsfirmen: Sie warfen Brandsätze aus einem Auto heraus",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-brandanschlag-ruestungsfirmen-rohde-schwarz-helsing-li.3541542",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T05:36:40+00:00"
+      "titel": "VW-Aktie setzt sich an die DAX-Spitze",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/volkswagen-aktie-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T12:36:45+00:00"
     },
     {
-      "titel": "Volkswagen: Das Schwerste steht VW erst noch bevor",
-      "link": "https://www.sueddeutsche.de/meinung/vw-sparpaket-zukunft-deutschland-kommentar-li.3542043",
+      "titel": "VW-Konzern: Warum der Name Seat bald verschwindet",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vw-seat-spanien-ende-marke-li.3542253",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T04:58:00+00:00"
+      "veroeffentlicht": "2026-09-04T12:02:24+00:00"
     },
     {
-      "titel": "USA-Newsblog: Trump ruft im Streit um Briefwahl erneut Supreme Court an",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-supreme-court-li.3530667",
+      "titel": "Sachsen-Anhalt: Die irren Wetten auf deutsche Landtagswahlen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/polymarket-wetten-afd-landtagswahlen-deutschland-li.3541384",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-03T21:29:54+00:00"
+      "veroeffentlicht": "2026-09-04T11:58:23+00:00"
     },
     {
-      "titel": "Automobilindustrie: 50 000 Jobs zusätzlich weg: Aufsichtsrat stimmt VW-Sparplan zu",
-      "link": "https://www.sueddeutsche.de/wirtschaft/vw-aufsichtsrat-sanierung-li.3542021",
+      "titel": "Leute: Weg mit dem Nachnamen!",
+      "link": "https://www.sueddeutsche.de/panorama/miley-cyrus-nachname-streichung-vater-promis-li.3542166",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-03T20:30:00+00:00"
-    },
-    {
-      "titel": "Filmfestspiele Venedig: Wie eine Atombombe der Traurigkeit",
-      "link": "https://www.sueddeutsche.de/kultur/festival-martin-mcdonagh-wild-horse-nine-interview-rezension-kritik-li.3539746",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-03T17:30:55+00:00"
+      "veroeffentlicht": "2026-09-04T11:53:14+00:00"
     }
   ]
 }
