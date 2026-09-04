@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-04T06:32:47+00:00",
+  "aktualisiert": "2026-09-04T11:45:19+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "Sachsen-Anhalt vor der Wahl: Das Land hinter den Zahlen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-wahl-demografie-wirtschaft-106.html",
+      "titel": "Weltweite Lebensmittelpreise steigen auf höchsten Stand seit 2022",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/un-lebensmittelpreise-anstieg-weltweit-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T06:30:00+00:00"
+      "veroeffentlicht": "2026-09-04T11:41:13+00:00"
     },
     {
-      "titel": "Vor der Landtagswahl: Sachsen-Anhalt und die Tücken der Umfragen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-umfragen-100.html",
+      "titel": "Das sind die Punkte des VW-Sparplans",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplan-102.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T06:29:37+00:00"
+      "veroeffentlicht": "2026-09-04T11:39:11+00:00"
     },
     {
-      "titel": "Fall Stade: »Massive Drohungen« - Migrationsbeauftragter von Niedersachsen tritt zurück",
-      "link": "https://www.spiegel.de/panorama/fall-stade-massive-drohungen-migrationsbeauftragter-von-niedersachsen-tritt-zurueck-a-713bc5e6-f339-4926-882d-f98e32c2abe8#ref=rss",
+      "titel": "Heiner Wilmer: Bischofskonferenzchef fordert neue Definition von Wohlstand",
+      "link": "https://www.spiegel.de/wirtschaft/heiner-wilmer-bischofskonferenzchef-fordert-neue-definition-von-wohlstand-a-d2fcc605-6383-4ee9-8a90-de47817987c8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T06:07:00+00:00"
+      "veroeffentlicht": "2026-09-04T11:20:00+00:00"
     },
     {
-      "titel": "Insolvenzen: Zunehmend mehr Großunternehmen melden Insolvenz an",
-      "link": "https://www.spiegel.de/wirtschaft/insolvenzen-zunehmend-mehr-grossunternehmen-melden-insolvenz-an-a-69929cc4-a486-4c65-8799-05fad3132be8#ref=rss",
+      "titel": "Miele zeigt auf der Ifa eine KI-Waschmaschine",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/miele-zeigt-auf-der-ifa-eine-ki-waschmaschine-a-1728bb63-6616-4942-bf04-69f1e41e296f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T06:06:00+00:00"
+      "veroeffentlicht": "2026-09-04T11:16:00+00:00"
+    },
+    {
+      "titel": "Weinlese in Sachsen-Anhalt: Wie Winzer mit der AfD umgehen",
+      "link": "https://www.spiegel.de/politik/deutschland/weinlese-in-sachsen-anhalt-wie-winzer-mit-der-afd-umgehen-a-8bd596c8-d449-4015-b661-453205dba238#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T11:14:00+00:00"
+    },
+    {
+      "titel": "Der Gastro-Code: 18 Fragen rund ums Essengehen – und Antworten von Profis",
+      "link": "https://www.spiegel.de/effilee/der-gastro-code-18-fragen-rund-ums-essengehen-und-antworten-von-profis-a-940d64aa-0837-4d0b-ad2f-e1d0ac59fe6c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T11:11:00+00:00"
+    },
+    {
+      "titel": "Iran hat die USA vor diesem Schritt gewarnt – Israel meldet Räumung von strategischer Hisbollah-Untergrundbasis",
+      "link": "https://www.spiegel.de/ausland/iran-hat-die-usa-vor-diesem-schritt-gewarnt-israel-meldet-raeumung-von-strategischer-hisbollah-untergrundbasis-a-fbe625c2-cf78-4dc5-b8de-3cee2c35247a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T11:07:00+00:00"
+    },
+    {
+      "titel": "Syrien beginnt mit Vernichtung von Chemiewaffen aus Assad-Ära",
+      "link": "https://www.spiegel.de/ausland/syrien-beginnt-mit-vernichtung-von-chemiewaffen-aus-assad-aera-a-8f49aec1-1a54-48b3-ac75-e4732c16fa51#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T11:07:00+00:00"
+    },
+    {
+      "titel": "Volkswagen: Wer den Machtkampf um das große Sparpaket gewonnen hat",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-wer-den-machtkampf-um-das-grosse-sparpaket-gewonnen-hat-a-b13dccfe-8a00-4c6b-a348-f87f329d37b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T11:06:00+00:00"
+    },
+    {
+      "titel": "Türkei-Urlaub: Wie es Hitler in die Sommersiedlung meiner Eltern schaffte",
+      "link": "https://www.spiegel.de/panorama/tuerkei-urlaub-wie-es-hitler-in-die-sommersiedlung-meiner-eltern-schaffte-a-9d988684-dab4-43bb-b051-b405084839c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T11:06:00+00:00"
+    },
+    {
+      "titel": "Volkswagen: Emden, Hannover, Neckarsulm und Zwickau ohne klare Perspektive",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-emden-hannover-neckarsulm-und-zwickau-ohne-klare-perspektive-a-2dfc1407-5459-4c47-ac29-6a51f2714c02#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-04T11:06:00+00:00"
+    },
+    {
+      "titel": "Tatverdächtiger bekennt sich zu Anschlägen auf Stromversorgung",
+      "link": "https://www.tagesschau.de/inland/bekennerschreiben-anschlaege-stromversorgung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T10:44:13+00:00"
+    },
+    {
+      "titel": "Thüringen: Weitere Abgeordnete verlassen BSW",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-thueringen-abgeordnete-verlassen-fraktion-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T10:41:08+00:00"
+    },
+    {
+      "titel": "Wohl Sabotageversuch in Dormagen - Vorfälle in Aachen und Ganderkesee",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-stromnetz-dormagen-aachen-ganderkesee-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T10:17:15+00:00"
+    },
+    {
+      "titel": "Waldbrände in Indonesien breiten sich unkontrolliert aus",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-waldbraende-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T09:56:24+00:00"
+    },
+    {
+      "titel": "Wie eine Textzeile Chinas bekanntestem Comedian zum Verhängnis wurde",
+      "link": "https://www.tagesschau.de/ausland/asien/china-comedian-guo-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T09:40:43+00:00"
+    },
+    {
+      "titel": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
+      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-04T09:35:15+00:00"
     },
     {
       "titel": "Nepal: Zwei Arbeiter neun Tage nach Sturzflut aus Tunnel gerettet",
       "link": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-rettung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T05:48:29+00:00"
+      "veroeffentlicht": "2026-09-04T09:24:23+00:00"
     },
     {
-      "titel": "Zahl der Geflüchteten in Deutschland 2026 leicht gesunken",
-      "link": "https://www.tagesschau.de/inland/zahl-gefluechtete-deutschland-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T05:39:40+00:00"
+      "titel": "Italien: Giorgia Meloni hat Grund zum Feiern, ihr Land jedoch nicht",
+      "link": "https://www.sueddeutsche.de/meinung/kommentar-meloni-rekord-italien-justizrefom-li.3541192",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-04T07:37:40+00:00"
+    },
+    {
+      "titel": "SPD-Klausur: Kerkelings eindringlicher Appell",
+      "link": "https://www.sueddeutsche.de/politik/kerkeling-spd-klausur-sachsen-anhalt-afd-landtagswahl-li.3542010",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-04T06:54:00+00:00"
+    },
+    {
+      "titel": "Nordrhein-Westfalen: Sabotage an Umspannwerken: Polizei liegt Bekennerschreiben vor",
+      "link": "https://www.sueddeutsche.de/politik/kriminalitaet-sabotage-stromversorgung-polizei-nrw-li.3542060",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-04T06:50:53+00:00"
+    },
+    {
+      "titel": "Pop: „Sie verwechseln den Staat mit der Demokratie“",
+      "link": "https://www.sueddeutsche.de/kultur/farin-urlaub-aerzte-interview-album-li.3530465",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-04T06:35:21+00:00"
     },
     {
       "titel": "Anschlag auf Münchner Rüstungsfirmen: Sie warfen Brandsätze aus einem Auto heraus",
@@ -49,94 +145,10 @@
       "veroeffentlicht": "2026-09-04T05:36:40+00:00"
     },
     {
-      "titel": "Marktbericht: DAX fester vor US-Arbeitsmarktdaten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T05:36:30+00:00"
-    },
-    {
-      "titel": "Farin Urlaub über hohe AfD-Werte: »Da haben wir doch als Land komplett versagt«",
-      "link": "https://www.spiegel.de/panorama/leute/farin-urlaub-ueber-hohe-afd-werte-da-haben-wir-doch-als-land-komplett-versagt-a-62683421-487b-4b17-8e44-c7b438333179#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T05:36:00+00:00"
-    },
-    {
-      "titel": "BYD Seal U Plug-in-Hybrid: Hocheffizienter Verbrenner – made in China",
-      "link": "https://www.spiegel.de/mobilitaet/auto/byd-seal-u-plug-in-hybrid-hocheffizienter-verbrenner-made-in-china-a-d63be8c3-0856-41c8-a41b-0556c261a864#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T05:20:00+00:00"
-    },
-    {
-      "titel": "Technikmesse IFA startet in Berlin - China im Fokus",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/technikmesse-ifa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T05:12:14+00:00"
-    },
-    {
-      "titel": "Deutschlands Wasserstraßen trocknen aus – Investitionsbedarf wächst",
-      "link": "https://www.spiegel.de/wirtschaft/deutschlands-wasserstrassen-trocknen-aus-investitionsbedarf-waechst-a-a695a8a0-e295-4da3-b6a7-9c3f93def6cc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T05:11:00+00:00"
-    },
-    {
-      "titel": "Falkland-Inseln: Javier Milei droht mit Militärbasis und Sanktionen gegen London",
-      "link": "https://www.spiegel.de/politik/falkland-inseln-javier-milei-droht-mit-militaerbasis-und-sanktionen-gegen-london-a-33c5bb02-2188-4ab5-9d0b-8769f9206d41#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T05:01:00+00:00"
-    },
-    {
       "titel": "Volkswagen: Das Schwerste steht VW erst noch bevor",
       "link": "https://www.sueddeutsche.de/meinung/vw-sparpaket-zukunft-deutschland-kommentar-li.3542043",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-04T04:58:00+00:00"
-    },
-    {
-      "titel": "ARD-DeutschlandTrend: Mehrheit will staatliche Hilfen für Autoindustrie",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-automobilindustrie-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T04:57:44+00:00"
-    },
-    {
-      "titel": "Sparpläne bei den Krankenkassen: Frauenärzte fürchten Folgen für Schwangere",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/schwangeren-versorgung-gesundheitsreform-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T04:45:12+00:00"
-    },
-    {
-      "titel": "Restaurants, Schwimmbäder, Museen, überall muss man heute Slots buchen. Ist das noch echte Freizeit?",
-      "link": "https://www.spiegel.de/kultur/restaurants-schwimmbaeder-museen-ueberall-muss-man-heute-slots-buchen-ist-das-noch-echte-freizeit-a-c35d2909-1c82-4058-a656-50c4dea936ca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T04:04:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Wie die AfD auch ohne Mehrheit an die Macht käme",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wie-die-afd-auch-ohne-mehrheit-an-die-macht-kaeme-a-a163e03a-f3d0-4ea0-ba46-2312c56522a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T04:01:00+00:00"
-    },
-    {
-      "titel": "News: Wahl in Sachsen-Anhalt, AfD, Ceuta, Annalena Baerbock",
-      "link": "https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-afd-ceuta-annalena-baerbock-a-89e2ceaf-e9e5-4b9a-8fbb-aa7158d2fe94#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T03:53:00+00:00"
-    },
-    {
-      "titel": "Parteitag von Reform UK: Britische Rechtspopulisten unter Druck",
-      "link": "https://www.tagesschau.de/ausland/europa/reform-uk-parteitag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T03:10:20+00:00"
-    },
-    {
-      "titel": "SPD-Klausur: Kerkelings eindringlicher Appell",
-      "link": "https://www.sueddeutsche.de/politik/hape-kerkeling-spd-klausur-sachsen-anhalt-afd-landtagswahl-verbotsverfahren-li.3542010",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T02:30:36+00:00"
-    },
-    {
-      "titel": "Nordrhein-Westfalen: Umspannwerk in Dormagen: Polizei spricht von Sabotageakt",
-      "link": "https://www.sueddeutsche.de/politik/kriminalitaet-sabotage-stromversorgung-polizei-nrw-li.3542060",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T01:10:11+00:00"
     },
     {
       "titel": "USA-Newsblog: Trump ruft im Streit um Briefwahl erneut Supreme Court an",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/festival-martin-mcdonagh-wild-horse-nine-interview-rezension-kritik-li.3539746",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-03T17:30:55+00:00"
-    },
-    {
-      "titel": "Reproduktive Gesundheit: Wenn ein weiteres Kind nicht mehr ins Leben passt",
-      "link": "https://www.sueddeutsche.de/gesundheit/schwangerschaftsabbruch-frauen-40-li.3514964",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-03T14:36:22+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Hat die KI wirklich immer Vorfahrt?",
-      "link": "https://www.sueddeutsche.de/medien/urheberrecht-kuenstliche-intelligenz-bundesgerichtshof-li.3541238",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-03T14:23:10+00:00"
     }
   ]
 }
