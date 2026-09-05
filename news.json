@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-05T13:52:08+00:00",
+  "aktualisiert": "2026-09-05T16:50:04+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,34 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Hackerangriff in Berlin: Gehaltslisten, Kontoinformationen, Kanzleramts-Pläne – das ist zum Leak bekannt",
-      "link": "https://www.spiegel.de/panorama/hackerangriff-in-berlin-gehaltslisten-kontoinformationen-kanzleramts-plaene-das-ist-zum-leak-bekannt-a-bb6ae0de-e978-4d58-9e05-80383f156b68#ref=rss",
+      "titel": "AfD in Sachsen-Anhalt: Wie Teile der Zivilgesellschaft gegen die Partei mobil machen",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-wie-teile-der-zivilgesellschaft-gegen-die-partei-mobil-machen-a-ead596fd-3ea8-47fc-8037-a99248d113e6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T13:48:00+00:00"
+      "veroeffentlicht": "2026-09-05T16:47:00+00:00"
     },
     {
-      "titel": "2. Bundesliga: VfL Wolfsburg verspielt 3:0-Führung gegen Energie Cottbus",
-      "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-vfl-wolfsburg-verspielt-3-0-fuehrung-gegen-energie-cottbus-a-045f9d32-dac9-4248-9e4d-2059c480230c#ref=rss",
+      "titel": "Newsblog zum Nahost-Krieg: USA beschießen iranische Öltanker",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-oel-angriffe-tanker-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T16:21:33+00:00"
+    },
+    {
+      "titel": "Bundesliga: Dortmund gelingt Comeback – Füllkrug lässt Werder jubeln",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-borussia-dortmund-bvb-hoffenheim-elversberg-moenchengladbach-werder-bremen-li.3542791",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T16:09:34+00:00"
+    },
+    {
+      "titel": "Griechenland: Zwei Tote bei Jetabsturz während Flugshow nahe Athen",
+      "link": "https://www.spiegel.de/panorama/griechenland-zwei-tote-bei-jetabsturz-waehrend-flugshow-nahe-athen-a-37e1bf67-5460-4e4a-b16f-8cedcc8a0204#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T13:42:00+00:00"
+      "veroeffentlicht": "2026-09-05T15:59:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl Sachsen-Anhalt: „Ich lach in dein Gesicht“",
+      "link": "https://www.sueddeutsche.de/politik/magdeburg-sachsen-anhalt-landtagswahl-afd-cdu-li.3542706",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T15:51:39+00:00"
+    },
+    {
+      "titel": "Russlanddeutsche vor der Wahl: »In Sachsen-Anhalt habe ich Toleranz gelernt«",
+      "link": "https://www.spiegel.de/politik/deutschland/russlanddeutsche-vor-der-wahl-in-sachsen-anhalt-habe-ich-toleranz-gelernt-a-54abf038-2b57-4868-a1bf-7d4890a9c12a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T15:39:00+00:00"
+    },
+    {
+      "titel": "Oasis in Venedig: Liam und Noel Gallagher schwänzen Pressekonferenz",
+      "link": "https://www.spiegel.de/kultur/musik/oasis-in-venedig-liam-und-noel-gallagher-schwaenzen-pressekonferenz-a-10e2b0a7-dc2f-4770-a865-4448c69a767b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T15:21:00+00:00"
+    },
+    {
+      "titel": "Wasserstoff: Der Bodenschatz für den nächsten Goldrausch?",
+      "link": "https://www.spiegel.de/wissenschaft/wasserstoff-der-bodenschatz-fuer-den-naechsten-goldrausch-a-19a10022-3dcf-4c0a-ab6c-62c11051db00#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T15:20:00+00:00"
+    },
+    {
+      "titel": "USA greifen iranische Öltanker an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T15:17:36+00:00"
+    },
+    {
+      "titel": "Deutscher Schauspieler Michael Mendl mit 82 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/tod-michael-mendl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T15:15:07+00:00"
+    },
+    {
+      "titel": "Michael Mendl ist tot: Mal charming man, mal bad boy",
+      "link": "https://www.spiegel.de/kultur/tv/michael-mendl-ist-tot-mal-charming-man-mal-bad-boy-a-f4691939-11f5-4160-ad8e-021a54ac8e8e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T15:12:00+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T15:08:27+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: USA und China planen angeblich Gespräche über KI-Sicherheit",
+      "link": "https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-usa-und-china-planen-angeblich-gespraeche-ueber-ki-sicherheit-a-aec39d6b-1f9b-4d81-81a7-e5f0ba3d39c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T14:57:00+00:00"
+    },
+    {
+      "titel": "Frauke Brosius-Gersdorf: Warum ihre gescheiterte Wahl Demokratie stärkt",
+      "link": "https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-warum-ihre-gescheiterte-wahl-demokratie-staerkt-a-5e820473-6f3f-48c9-8e47-f58efd104d33#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T14:55:00+00:00"
+    },
+    {
+      "titel": "Serena und Venus Williams bei den US Open: Der Sister Act löst Jubel und Johlen aus",
+      "link": "https://www.sueddeutsche.de/sport/tennis-us-open-serena-venus-williams-doppel-sister-act-li.3542779",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T14:52:23+00:00"
+    },
+    {
+      "titel": "Vermummte legen Hafen im südenglischen Dover lahm",
+      "link": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T14:42:26+00:00"
+    },
+    {
+      "titel": "Post-Holiday-Blues: Drei Wege, wie das Urlaubsgefühl länger anhält",
+      "link": "https://www.spiegel.de/start/post-holiday-blues-drei-wege-wie-das-urlaubsgefuehl-laenger-anhaelt-a-f5c11dfb-5e36-4e65-83e7-c8cd1fe9a286#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T14:28:00+00:00"
+    },
+    {
+      "titel": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T14:09:11+00:00"
+    },
+    {
+      "titel": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
+      "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T14:03:56+00:00"
     },
     {
       "titel": "50 Jahre Muppet Show: Die Kunst des gepflegten Unsinns",
       "link": "https://www.tagesschau.de/kultur/muppet-show-geburtstag-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T13:17:16+00:00"
-    },
-    {
-      "titel": "Ukrainekrieg: US-Unterhändler in Moskau gelandet – Treffen mit Putin geplant",
-      "link": "https://www.spiegel.de/ausland/ukrainekrieg-us-unterhaendler-in-moskau-gelandet-treffen-mit-putin-geplant-a-f08bdbc5-e042-4d65-81ed-18267f45a0eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T13:11:00+00:00"
-    },
-    {
-      "titel": "Trans Mann in AfD-Hochburg Sachsen-Anhalt: Die geheime Verwandlung des Julian Kern",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/trans-mann-in-afd-hochburg-sachsen-anhalt-die-geheime-verwandlung-des-julian-kern-a-516cb222-f80e-47e2-916b-7713191def8d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T12:54:00+00:00"
     },
     {
       "titel": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
@@ -49,52 +139,10 @@
       "veroeffentlicht": "2026-09-05T12:48:11+00:00"
     },
     {
-      "titel": "Bananen: Wie Forschende in den Niederlanden die Banane retten wollen",
-      "link": "https://www.spiegel.de/deinspiegel/bananen-wie-forschende-in-den-niederlanden-die-banane-retten-wollen-a-482cfa53-8c98-4c9d-bf5f-5f51023ec909#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T12:48:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt - News zur Landtagswahl: Tausende Menschen demonstrieren in Magdeburg für eine weltoffene Gesellschaft",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-tausende-menschen-demonstrieren-in-magdeburg-fuer-eine-weltoffene-gesellschaft-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T12:47:00+00:00"
-    },
-    {
-      "titel": "Erni Mangold ist tot: Österreichische Schauspielerin wurde 99 Jahre alt",
-      "link": "https://www.spiegel.de/kultur/tv/erni-mangold-ist-tot-oesterreichische-schauspielerin-wurde-99-jahre-alt-a-63e72f96-0fb5-48bb-846e-3ee27fe416ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T12:45:00+00:00"
-    },
-    {
-      "titel": "Sabotageaktionen gegen Stromnetze: Polizei fahndet nach Einzeltäter",
-      "link": "https://www.spiegel.de/panorama/justiz/sabotageaktionen-gegen-stromnetze-polizei-fahndet-nach-einzeltaeter-a-0d414ffd-e32a-4124-83c1-6afb2cd0aa5d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T12:43:00+00:00"
-    },
-    {
       "titel": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
       "link": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T12:38:45+00:00"
-    },
-    {
-      "titel": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T12:38:20+00:00"
-    },
-    {
-      "titel": "Beyoncé verkauft Holzkisten an Fans für über 900 Dollar",
-      "link": "https://www.spiegel.de/panorama/beyonce-verkauft-holzkisten-fuer-fans-fuer-ueber-900-dollar-a-3e7f2973-c950-42bb-a4c9-4713dd72f29f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T12:08:00+00:00"
-    },
-    {
-      "titel": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
-      "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T11:46:55+00:00"
     },
     {
       "titel": "Cyberkriminalität: Was bisher über das Datenleck der Berliner Verwaltung bekannt ist",
@@ -115,58 +163,10 @@
       "veroeffentlicht": "2026-09-05T11:19:24+00:00"
     },
     {
-      "titel": "Schüsse auf Kölner Bar abgefeuert - Polizei leitet Fahndung ein",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-polizeieinsatz-schuesse-auf-tuerkische-bar-in-koeln-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T10:48:00+00:00"
-    },
-    {
-      "titel": "Deutscher Schauspieler Michael Mendl mit 82 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/tod-michael-mendl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T10:34:54+00:00"
-    },
-    {
-      "titel": "Weitere Überlebende nach Sturzflut in Nepal gerettet",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-ueberlebende-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T10:08:35+00:00"
-    },
-    {
-      "titel": "UN stimmen für neue Weltkarte - Afrika größer dargestellt",
-      "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T09:41:31+00:00"
-    },
-    {
       "titel": "Hackerangriff auf Verwaltung: Offenbar geheime Verteidigungs- und Notfallpläne unter veröffentlichten Berliner Daten",
       "link": "https://www.sueddeutsche.de/politik/hack-berlin-daten-darknet-li.3542363",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T08:14:45+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Briefwahl in den USA beginnt trotz Ungewissheit wegen Rechtsstreit",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-supreme-court-midterms-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T03:09:08+00:00"
-    },
-    {
-      "titel": "USA: Eine Tragödie und kein Urteil",
-      "link": "https://www.sueddeutsche.de/panorama/lindsay-clancy-kindsmord-kinder-psychose-prozess-geschworene-usa-li.3542584",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T01:39:43+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Söder bekräftigt: Frau sollte jetzt Staatsoberhaupt werden",
-      "link": "https://www.sueddeutsche.de/politik/bundespraesident-csu-soeder-merz-ilse-aigner-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T01:11:19+00:00"
-    },
-    {
-      "titel": "Satire: Frittiertes Hähnchen, ein letztes Mal",
-      "link": "https://www.sueddeutsche.de/medien/amelia-dimoldenberg-chicken-shop-date-ende-li.3542472",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T16:57:21+00:00"
     }
   ]
 }
