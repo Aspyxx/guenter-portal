@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-09-05T21:16:26+00:00",
+  "aktualisiert": "2026-09-05T23:21:42+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
+      "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T22:58:14+00:00"
+    },
+    {
+      "titel": "Natalie Portman ist zum dritten Mal Mutter geworden",
+      "link": "https://www.spiegel.de/panorama/leute/natalie-portman-ist-zum-dritten-mal-mutter-geworden-a-5a5827be-d41b-4107-866b-620d6317a1f2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T22:31:00+00:00"
+    },
+    {
+      "titel": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
+      "link": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T22:20:33+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: USA und Iran beschießen gegenseitig Schiffe",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-oel-angriffe-tanker-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T21:53:15+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Kreml bezeichnet Reise von Trump-Gesandten als „wichtigen Friedensbesuch“",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-moskau-reaktion-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T21:31:36+00:00"
+    },
+    {
+      "titel": "Isar Aerospace: Erfolgreicher Raketenstart des deutschen Start-ups – »Deutschland kann Raumfahrt«",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/isar-aerospace-erfolgreicher-raketenstart-des-deutschen-start-ups-deutschland-kann-raumfahrt-a-43a5be39-3373-475d-946d-95a33f61efe9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T21:19:00+00:00"
+    },
     {
       "titel": "Raumfahrt: Münchner Rakete erreicht den Erdorbit",
       "link": "https://www.sueddeutsche.de/wirtschaft/isar-raumfahrt-esa-li.3458924",
@@ -17,12 +53,6 @@
       "link": "https://www.spiegel.de/panorama/justiz/angriff-auf-stromversorgung-das-ist-der-mutmassliche-strom-saboteur-a-61e8aa5d-0def-437a-95fb-13ed996af7bc#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-05T20:57:00+00:00"
-    },
-    {
-      "titel": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
-      "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T20:42:55+00:00"
     },
     {
       "titel": "Uno: Fortschritt bei Regulierung von »Killer-Robotern«",
@@ -73,18 +103,6 @@
       "veroeffentlicht": "2026-09-05T19:05:00+00:00"
     },
     {
-      "titel": "Oasis-Brüder in Venedig: »Biblisch, Mann!«",
-      "link": "https://www.spiegel.de/kultur/musik/oasis-brueder-in-venedig-biblisch-mann-a-c944a9ae-2998-48d8-bfb0-30ced056ccc5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T18:48:00+00:00"
-    },
-    {
-      "titel": "Bundesliga: FC Bayern München verzweifelt an Schalke 04 und Loris Karius",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-verzweifelt-an-schalke-04-und-loris-karius-a-da5fb3f7-87f4-4d73-aa13-51651ac677ef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T18:42:00+00:00"
-    },
-    {
       "titel": "Landtagswahl Sachsen-Anhalt: „Ich lach in dein Gesicht“",
       "link": "https://www.sueddeutsche.de/politik/magdeburg-sachsen-anhalt-landtagswahl-afd-cdu-li.3542706",
       "quelle": "Süddeutsche",
@@ -121,12 +139,6 @@
       "veroeffentlicht": "2026-09-05T16:50:32+00:00"
     },
     {
-      "titel": "Newsblog zum Nahost-Krieg: USA beschießen iranische Öltanker",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-oel-angriffe-tanker-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T16:21:33+00:00"
-    },
-    {
       "titel": "Bundesliga: Dortmund gelingt Comeback-Sieg – Füllkrug lässt Werder jubeln",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-borussia-dortmund-bvb-hoffenheim-elversberg-moenchengladbach-werder-bremen-li.3542791",
       "quelle": "Süddeutsche",
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-09-05T15:08:27+00:00"
     },
     {
-      "titel": "Serena und Venus Williams bei den US Open: Der Sister Act löst Jubel und Johlen aus",
-      "link": "https://www.sueddeutsche.de/sport/tennis-us-open-serena-venus-williams-doppel-sister-act-li.3542779",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T14:52:23+00:00"
-    },
-    {
       "titel": "Vermummte legen Hafen im südenglischen Dover lahm",
       "link": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T14:42:26+00:00"
-    },
-    {
-      "titel": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T14:09:11+00:00"
     }
   ]
 }
