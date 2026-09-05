@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-05T05:53:43+00:00",
+  "aktualisiert": "2026-09-05T09:31:05+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
+      "titel": "Demo Berlin Heute",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-generalsanierung-hamburg-berlin-100.html",
       "quelle": "Tagesschau",
-      "icon": "🗳️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
+      "titel": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "UN stimmen für neue Weltkarte - Afrika wächst",
-      "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
+      "titel": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
+      "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     }
   ]
 }
