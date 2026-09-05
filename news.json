@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-05T10:56:12+00:00",
+  "aktualisiert": "2026-09-05T13:52:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,34 +7,124 @@
   },
   "meldungen": [
     {
+      "titel": "Hackerangriff in Berlin: Gehaltslisten, Kontoinformationen, Kanzleramts-Pläne – das ist zum Leak bekannt",
+      "link": "https://www.spiegel.de/panorama/hackerangriff-in-berlin-gehaltslisten-kontoinformationen-kanzleramts-plaene-das-ist-zum-leak-bekannt-a-bb6ae0de-e978-4d58-9e05-80383f156b68#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T13:48:00+00:00"
+    },
+    {
+      "titel": "2. Bundesliga: VfL Wolfsburg verspielt 3:0-Führung gegen Energie Cottbus",
+      "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-vfl-wolfsburg-verspielt-3-0-fuehrung-gegen-energie-cottbus-a-045f9d32-dac9-4248-9e4d-2059c480230c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T13:42:00+00:00"
+    },
+    {
+      "titel": "50 Jahre Muppet Show: Die Kunst des gepflegten Unsinns",
+      "link": "https://www.tagesschau.de/kultur/muppet-show-geburtstag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T13:17:16+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: US-Unterhändler in Moskau gelandet – Treffen mit Putin geplant",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-us-unterhaendler-in-moskau-gelandet-treffen-mit-putin-geplant-a-f08bdbc5-e042-4d65-81ed-18267f45a0eb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T13:11:00+00:00"
+    },
+    {
+      "titel": "Trans Mann in AfD-Hochburg Sachsen-Anhalt: Die geheime Verwandlung des Julian Kern",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/trans-mann-in-afd-hochburg-sachsen-anhalt-die-geheime-verwandlung-des-julian-kern-a-516cb222-f80e-47e2-916b-7713191def8d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T12:54:00+00:00"
+    },
+    {
+      "titel": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T12:49:26+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Tausende Menschen demonstrieren in Magdeburg",
+      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-demos-magdeburg-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T12:48:11+00:00"
+    },
+    {
+      "titel": "Bananen: Wie Forschende in den Niederlanden die Banane retten wollen",
+      "link": "https://www.spiegel.de/deinspiegel/bananen-wie-forschende-in-den-niederlanden-die-banane-retten-wollen-a-482cfa53-8c98-4c9d-bf5f-5f51023ec909#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T12:48:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt - News zur Landtagswahl: Tausende Menschen demonstrieren in Magdeburg für eine weltoffene Gesellschaft",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-tausende-menschen-demonstrieren-in-magdeburg-fuer-eine-weltoffene-gesellschaft-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T12:47:00+00:00"
+    },
+    {
+      "titel": "Erni Mangold ist tot: Österreichische Schauspielerin wurde 99 Jahre alt",
+      "link": "https://www.spiegel.de/kultur/tv/erni-mangold-ist-tot-oesterreichische-schauspielerin-wurde-99-jahre-alt-a-63e72f96-0fb5-48bb-846e-3ee27fe416ec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T12:45:00+00:00"
+    },
+    {
+      "titel": "Sabotageaktionen gegen Stromnetze: Polizei fahndet nach Einzeltäter",
+      "link": "https://www.spiegel.de/panorama/justiz/sabotageaktionen-gegen-stromnetze-polizei-fahndet-nach-einzeltaeter-a-0d414ffd-e32a-4124-83c1-6afb2cd0aa5d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T12:43:00+00:00"
+    },
+    {
+      "titel": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T12:38:45+00:00"
+    },
+    {
+      "titel": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T12:38:20+00:00"
+    },
+    {
+      "titel": "Beyoncé verkauft Holzkisten an Fans für über 900 Dollar",
+      "link": "https://www.spiegel.de/panorama/beyonce-verkauft-holzkisten-fuer-fans-fuer-ueber-900-dollar-a-3e7f2973-c950-42bb-a4c9-4713dd72f29f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T12:08:00+00:00"
+    },
+    {
+      "titel": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
+      "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T11:46:55+00:00"
+    },
+    {
+      "titel": "Cyberkriminalität: Was bisher über das Datenleck der Berliner Verwaltung bekannt ist",
+      "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-fragen-und-antworten-li.3542710",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T11:32:15+00:00"
+    },
+    {
+      "titel": "Krise mit Russland: Die „Eisernen Veteranen“ und die Rückkehr der Geschichte",
+      "link": "https://www.sueddeutsche.de/politik/radfahren-eiserner-vorhang-russland-li.3541564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T11:31:20+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: US-Unterhändler in Moskau - Treffen mit Putin geplant",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-kiew-moskau-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T11:19:24+00:00"
+    },
+    {
+      "titel": "Schüsse auf Kölner Bar abgefeuert - Polizei leitet Fahndung ein",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-polizeieinsatz-schuesse-auf-tuerkische-bar-in-koeln-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T10:48:00+00:00"
+    },
+    {
       "titel": "Deutscher Schauspieler Michael Mendl mit 82 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/tod-michael-mendl-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T10:34:54+00:00"
-    },
-    {
-      "titel": "9/11 vor 25 Jahren: Der 11. September ist nie vorbei",
-      "link": "https://www.spiegel.de/ausland/9-11-vor-25-jahren-der-11-september-ist-nie-vorbei-a-ea302958-cbe2-4085-baef-d182893a5f73#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T10:33:00+00:00"
-    },
-    {
-      "titel": "US Open: Aryna Sabalenka beschwert sich über Marihuana-Geruch im Stadion",
-      "link": "https://www.spiegel.de/sport/tennis/us-open-aryna-sabalenka-beschwert-sich-ueber-marihuana-geruch-im-stadion-a-5f95ca96-0629-4611-ad02-1c84ae4891d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T10:24:00+00:00"
-    },
-    {
-      "titel": "Basketball-WM in Berlin: Deutschland entdeckt seine Liebe zum Basketball",
-      "link": "https://www.spiegel.de/sport/basketball/basketball-wm-in-berlin-deutschland-entdeckt-seine-liebe-zum-basketball-a-fda40725-56bf-45fb-9bae-89ce9e2c94c2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T10:21:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Gefährdet Kyjiw überfliegende Passagierflugzeuge aus China?",
-      "link": "https://www.spiegel.de/ausland/ukraine-gefaehrdet-kyjiw-ueberfliegende-passagierflugzeuge-aus-china-a-77626d4f-9002-4972-b676-32b34ba51153#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T10:09:00+00:00"
     },
     {
       "titel": "Weitere Überlebende nach Sturzflut in Nepal gerettet",
@@ -43,82 +133,16 @@
       "veroeffentlicht": "2026-09-05T10:08:35+00:00"
     },
     {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T10:06:00+00:00"
-    },
-    {
-      "titel": "Heinz Erhardts Nachlass zieht ins Haus der Geschichte. Wir waren beim Packen dabei",
-      "link": "https://www.spiegel.de/kultur/heinz-erhardts-nachlass-zieht-ins-haus-der-geschichte-wir-waren-beim-packen-dabei-a-8a7c5069-0140-45f6-bee1-66aafdf83c63#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T09:58:00+00:00"
-    },
-    {
-      "titel": "Internationale Presse zur Wahl in Sachsen-Anhalt: »Dies ist eine Wahl, die die deutsche Geschichte verändern könnte«",
-      "link": "https://www.spiegel.de/politik/deutschland/internationale-presse-zur-wahl-in-sachsen-anhalt-dies-ist-eine-wahl-die-die-deutsche-geschichte-veraendern-koennte-a-8cb4e5c9-ffc0-426f-be9f-3183e6ad02ac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T09:54:00+00:00"
-    },
-    {
       "titel": "UN stimmen für neue Weltkarte - Afrika größer dargestellt",
       "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T09:41:31+00:00"
     },
     {
-      "titel": "Ulrich-Siegmund-Anhänger in Sachsen-Anhalt: Mit Hitlergruß, SS-Symbolen und Vergasungsdrohung",
-      "link": "https://www.spiegel.de/politik/deutschland/ulrich-siegmund-anhaenger-in-sachsen-anhalt-mit-hitlergruss-ss-symbolen-und-vergasungsdrohung-a-ca1125bb-6342-4856-9b79-69bc27a53496#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T09:35:00+00:00"
-    },
-    {
-      "titel": "Justin Trudeau und Katy Perry: Popstar spricht über »epische Liebe«",
-      "link": "https://www.spiegel.de/kultur/justin-trudeau-und-katy-perry-popstar-spricht-ueber-epische-liebe-a-6bb6cc90-cc9f-4e05-9948-e2f4fd5bdd8b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T09:26:00+00:00"
-    },
-    {
-      "titel": "EU-Kommission plant schärfere Regeln für Airbnb & Co",
-      "link": "https://www.tagesschau.de/wirtschaft/eu-regeln-kurzzeitvermietung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T09:17:45+00:00"
-    },
-    {
-      "titel": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
-      "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T08:45:50+00:00"
-    },
-    {
-      "titel": "Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem",
-      "link": "https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T07:41:02+00:00"
-    },
-    {
-      "titel": "Flutkatastrophe im Himalaya: Nepals Wut auf die Verursacher des Klimawandels",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-sturzflut-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T07:29:51+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Tausende Menschen zu Demos vor Wahlsonntag erwartet",
-      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-demos-magdeburg-li.3540501",
+      "titel": "Hackerangriff auf Verwaltung: Offenbar geheime Verteidigungs- und Notfallpläne unter veröffentlichten Berliner Daten",
+      "link": "https://www.sueddeutsche.de/politik/hack-berlin-daten-darknet-li.3542363",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T06:21:01+00:00"
-    },
-    {
-      "titel": "Warum Schweden seine Gefangenen in Estland unterbringt",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-estland-haeftlinge-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T06:10:34+00:00"
-    },
-    {
-      "titel": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T05:25:59+00:00"
+      "veroeffentlicht": "2026-09-05T08:14:45+00:00"
     },
     {
       "titel": "USA-Newsblog: Briefwahl in den USA beginnt trotz Ungewissheit wegen Rechtsstreit",
@@ -139,34 +163,10 @@
       "veroeffentlicht": "2026-09-05T01:11:19+00:00"
     },
     {
-      "titel": "Newsblog zum Ukraine-Krieg: US-Vermittler kommen am Sonntag nach Kiew – davor Besuch in Russland",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-kiew-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T17:39:00+00:00"
-    },
-    {
       "titel": "Satire: Frittiertes Hähnchen, ein letztes Mal",
       "link": "https://www.sueddeutsche.de/medien/amelia-dimoldenberg-chicken-shop-date-ende-li.3542472",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-04T16:57:21+00:00"
-    },
-    {
-      "titel": "BSW: Wolfs Bruch mit Wagenknecht ist nachvollziehbar",
-      "link": "https://www.sueddeutsche.de/meinung/bsw-wagenknecht-wolf-thueringen-parteiaustritt-kommentar-li.3542445",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T14:49:30+00:00"
-    },
-    {
-      "titel": "Formel 1 in Monza: Kleiner Silberstich ins rote Herz",
-      "link": "https://www.sueddeutsche.de/sport/formel-1-monza-ferrari-hamilton-antonelli-li.3541939",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T14:35:14+00:00"
-    },
-    {
-      "titel": "Russische Aggressionen: Es braucht jetzt europäischen Größenwahn",
-      "link": "https://www.sueddeutsche.de/kultur/goethe-institute-russland-schliessung-reaktion-kulturpolitik-li.3541709",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T14:31:16+00:00"
     }
   ]
 }
