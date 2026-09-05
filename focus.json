@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-05T20:30:42+00:00",
+  "aktualisiert": "2026-09-05T22:23:56+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Michael Zheng",
+      "link": "https://www.tagesschau.de/kultur/tod-michael-mendl-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
       "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
       "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 3,
-      "titel": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
