@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-05T16:50:04+00:00",
+  "aktualisiert": "2026-09-05T19:02:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,88 @@
   },
   "meldungen": [
     {
-      "titel": "AfD in Sachsen-Anhalt: Wie Teile der Zivilgesellschaft gegen die Partei mobil machen",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-wie-teile-der-zivilgesellschaft-gegen-die-partei-mobil-machen-a-ead596fd-3ea8-47fc-8037-a99248d113e6#ref=rss",
+      "titel": "Oasis-Brüder in Venedig: »Biblisch, Mann!«",
+      "link": "https://www.spiegel.de/kultur/musik/oasis-brueder-in-venedig-biblisch-mann-a-c944a9ae-2998-48d8-bfb0-30ced056ccc5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T16:47:00+00:00"
+      "veroeffentlicht": "2026-09-05T18:48:00+00:00"
+    },
+    {
+      "titel": "Bundesliga: FC Bayern München verzweifelt an Schalke 04 und Loris Karius",
+      "link": "https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-verzweifelt-an-schalke-04-und-loris-karius-a-da5fb3f7-87f4-4d73-aa13-51651ac677ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T18:42:00+00:00"
+    },
+    {
+      "titel": "Kerstin Ott über ihre Mastektomie: »Es ist mein Körper«",
+      "link": "https://www.spiegel.de/panorama/leute/kerstin-ott-ueber-ihre-mastektomie-es-ist-mein-koerper-a-43fbdfc4-999d-4eb8-a8ca-ea8f5952c51a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T18:40:00+00:00"
+    },
+    {
+      "titel": "USA: Geheime Informationen durchgestochen – hochrangige Militärs müssen zum Lügendetektortest",
+      "link": "https://www.spiegel.de/ausland/usa-geheime-informationen-durchgestochen-hochrangige-militaers-muessen-zum-luegendetektortest-a-94c0c980-c40c-47f0-ad32-2864e3f75fd8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T18:33:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: »Fest entschlossen, uns zu verteidigen« – Bundeskanzler sendet Botschaft an Putin",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-fest-entschlossen-uns-zu-verteidigen-bundeskanzler-sendet-botschaft-an-putin-a-19da0f9d-a99a-4e43-bec3-5f55b2d971cc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T18:28:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl Sachsen-Anhalt: „Ich lach in dein Gesicht“",
+      "link": "https://www.sueddeutsche.de/politik/magdeburg-sachsen-anhalt-landtagswahl-afd-cdu-li.3542706",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T18:21:51+00:00"
+    },
+    {
+      "titel": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T17:52:19+00:00"
+    },
+    {
+      "titel": "Aufsteiger begeistert weiter: Sieg in der Nachspielzeit: Elversberg schockt auch Gladbach",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-sv-elversberg-borussia-moenchengladbach-wagner-li.3542861",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T17:47:46+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Wie KI-Konzerne um Nutzerinnen werben",
+      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-ki-konzerne-um-nutzerinnen-werben-a-b8d2d208-e364-4326-b845-aa41a2ab86e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T17:41:00+00:00"
+    },
+    {
+      "titel": "Vuelta a España: Brenner feiert ersten deutschen Etappensieg seit 2023",
+      "link": "https://www.spiegel.de/sport/radsport/vuelta-a-espana-brenner-feiert-ersten-deutschen-etappensieg-seit-2023-a-a8c46b2e-e91a-42a8-8dc9-a017da16196d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T17:38:00+00:00"
+    },
+    {
+      "titel": "Robert Pattinson: In »Primetime« wird der König des US-Fernsehprangers an den Pranger gestellt",
+      "link": "https://www.spiegel.de/kultur/robert-pattinson-in-primetime-wird-der-koenig-des-us-fernsehprangers-an-den-pranger-gestellt-a-62ede3c0-7566-4cdb-a4bc-3e817660a261#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T17:26:00+00:00"
+    },
+    {
+      "titel": "»Vaterland« und Thomas Mann in Deutschland 1949: \"Wieviel Blut wohl an all' den Händen klebt?\"",
+      "link": "https://www.spiegel.de/geschichte/vaterland-und-thomas-mann-in-deutschland-1949-wieviel-blut-wohl-an-all-den-haenden-klebt-a-0e020e75-67cf-42e3-b2c6-c19f32786518#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T17:19:00+00:00"
+    },
+    {
+      "titel": "Berliner Datenleck: „Dieser Datenabfluss gefährdet unsere nationale Sicherheit“",
+      "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-fragen-und-antworten-li.3542710",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T17:18:00+00:00"
+    },
+    {
+      "titel": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
+      "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T16:50:32+00:00"
     },
     {
       "titel": "Newsblog zum Nahost-Krieg: USA beschießen iranische Öltanker",
@@ -19,40 +97,10 @@
       "veroeffentlicht": "2026-09-05T16:21:33+00:00"
     },
     {
-      "titel": "Bundesliga: Dortmund gelingt Comeback – Füllkrug lässt Werder jubeln",
+      "titel": "Bundesliga: Dortmund gelingt Comeback-Sieg – Füllkrug lässt Werder jubeln",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-borussia-dortmund-bvb-hoffenheim-elversberg-moenchengladbach-werder-bremen-li.3542791",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T16:09:34+00:00"
-    },
-    {
-      "titel": "Griechenland: Zwei Tote bei Jetabsturz während Flugshow nahe Athen",
-      "link": "https://www.spiegel.de/panorama/griechenland-zwei-tote-bei-jetabsturz-waehrend-flugshow-nahe-athen-a-37e1bf67-5460-4e4a-b16f-8cedcc8a0204#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T15:59:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl Sachsen-Anhalt: „Ich lach in dein Gesicht“",
-      "link": "https://www.sueddeutsche.de/politik/magdeburg-sachsen-anhalt-landtagswahl-afd-cdu-li.3542706",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T15:51:39+00:00"
-    },
-    {
-      "titel": "Russlanddeutsche vor der Wahl: »In Sachsen-Anhalt habe ich Toleranz gelernt«",
-      "link": "https://www.spiegel.de/politik/deutschland/russlanddeutsche-vor-der-wahl-in-sachsen-anhalt-habe-ich-toleranz-gelernt-a-54abf038-2b57-4868-a1bf-7d4890a9c12a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T15:39:00+00:00"
-    },
-    {
-      "titel": "Oasis in Venedig: Liam und Noel Gallagher schwänzen Pressekonferenz",
-      "link": "https://www.spiegel.de/kultur/musik/oasis-in-venedig-liam-und-noel-gallagher-schwaenzen-pressekonferenz-a-10e2b0a7-dc2f-4770-a865-4448c69a767b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T15:21:00+00:00"
-    },
-    {
-      "titel": "Wasserstoff: Der Bodenschatz für den nächsten Goldrausch?",
-      "link": "https://www.spiegel.de/wissenschaft/wasserstoff-der-bodenschatz-fuer-den-naechsten-goldrausch-a-19a10022-3dcf-4c0a-ab6c-62c11051db00#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T15:20:00+00:00"
     },
     {
       "titel": "USA greifen iranische Öltanker an",
@@ -67,28 +115,10 @@
       "veroeffentlicht": "2026-09-05T15:15:07+00:00"
     },
     {
-      "titel": "Michael Mendl ist tot: Mal charming man, mal bad boy",
-      "link": "https://www.spiegel.de/kultur/tv/michael-mendl-ist-tot-mal-charming-man-mal-bad-boy-a-f4691939-11f5-4160-ad8e-021a54ac8e8e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T15:12:00+00:00"
-    },
-    {
       "titel": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T15:08:27+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: USA und China planen angeblich Gespräche über KI-Sicherheit",
-      "link": "https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-usa-und-china-planen-angeblich-gespraeche-ueber-ki-sicherheit-a-aec39d6b-1f9b-4d81-81a7-e5f0ba3d39c3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T14:57:00+00:00"
-    },
-    {
-      "titel": "Frauke Brosius-Gersdorf: Warum ihre gescheiterte Wahl Demokratie stärkt",
-      "link": "https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-warum-ihre-gescheiterte-wahl-demokratie-staerkt-a-5e820473-6f3f-48c9-8e47-f58efd104d33#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T14:55:00+00:00"
     },
     {
       "titel": "Serena und Venus Williams bei den US Open: Der Sister Act löst Jubel und Johlen aus",
@@ -101,12 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T14:42:26+00:00"
-    },
-    {
-      "titel": "Post-Holiday-Blues: Drei Wege, wie das Urlaubsgefühl länger anhält",
-      "link": "https://www.spiegel.de/start/post-holiday-blues-drei-wege-wie-das-urlaubsgefuehl-laenger-anhaelt-a-f5c11dfb-5e36-4e65-83e7-c8cd1fe9a286#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T14:28:00+00:00"
     },
     {
       "titel": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
@@ -127,28 +151,10 @@
       "veroeffentlicht": "2026-09-05T13:17:16+00:00"
     },
     {
-      "titel": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T12:49:26+00:00"
-    },
-    {
       "titel": "Wahl in Sachsen-Anhalt: Tausende Menschen demonstrieren in Magdeburg",
       "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-demos-magdeburg-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T12:48:11+00:00"
-    },
-    {
-      "titel": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T12:38:45+00:00"
-    },
-    {
-      "titel": "Cyberkriminalität: Was bisher über das Datenleck der Berliner Verwaltung bekannt ist",
-      "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-fragen-und-antworten-li.3542710",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T11:32:15+00:00"
     },
     {
       "titel": "Krise mit Russland: Die „Eisernen Veteranen“ und die Rückkehr der Geschichte",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-kiew-moskau-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T11:19:24+00:00"
-    },
-    {
-      "titel": "Hackerangriff auf Verwaltung: Offenbar geheime Verteidigungs- und Notfallpläne unter veröffentlichten Berliner Daten",
-      "link": "https://www.sueddeutsche.de/politik/hack-berlin-daten-darknet-li.3542363",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T08:14:45+00:00"
     }
   ]
 }
