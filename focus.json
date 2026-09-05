@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-05T09:31:05+00:00",
+  "aktualisiert": "2026-09-05T13:03:55+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Demo Berlin Heute",
+      "titel": "Leverkusen – Union Berlin",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-generalsanierung-hamburg-berlin-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
+      "titel": "Schüsse auf Kölner Bar abgefeuert - Polizei leitet Fahndung ein",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-polizeieinsatz-schuesse-auf-tuerkische-bar-in-koeln-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
       "titel": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 3,
-      "titel": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
-      "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
     }
   ]
 }
