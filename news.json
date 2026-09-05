@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-05T01:26:24+00:00",
+  "aktualisiert": "2026-09-05T06:19:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,94 @@
   },
   "meldungen": [
     {
-      "titel": "Tetris distanziert sich von Videospiel auf Website des Weißen Hauses",
-      "link": "https://www.spiegel.de/kultur/tetris-distanziert-sich-von-videospiel-auf-website-des-weissen-hauses-a-954e5fa0-b124-40f0-88ca-ac30db527cea#ref=rss",
+      "titel": "Warum Schweden seine Gefangenen in Estland unterbringt",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-estland-haeftlinge-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T06:10:34+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt - News zur Landtagswahl: Bildungsministerin Prien kritisiert AfD-Plan zur Abschaffung der Schulpflicht",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-news-zur-landtagswahl-ulrich-siegmund-30-minuten-im-kinderkanal-a-8af9f291-616e-434b-a66d-96ba47b9990a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T01:17:00+00:00"
+      "veroeffentlicht": "2026-09-05T06:00:00+00:00"
+    },
+    {
+      "titel": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T05:25:59+00:00"
+    },
+    {
+      "titel": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-stimmung-themen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T05:25:50+00:00"
+    },
+    {
+      "titel": "Prokrastinieren und Selbstüberlistung: Was eine Admin Night gegen Aufschieben bringt",
+      "link": "https://www.spiegel.de/karriere/prokrastinieren-und-selbstueberlistung-was-eine-admin-night-gegen-aufschieben-bringt-a-d23bca7b-a1b6-43cd-9bd3-70954c9faff1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T05:07:00+00:00"
+    },
+    {
+      "titel": "Trans Mann in AfD-Hochburg Sachsen-Anhalt: Die geheime Verwandlung des Julian Kern",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/trans-mann-in-afd-hochburg-sachsen-anhalt-die-geheime-verwandlung-des-julian-kern-a-516cb222-f80e-47e2-916b-7713191def8d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T05:07:00+00:00"
+    },
+    {
+      "titel": "Herzinfarkt: So sollen Herzinfarkte bei Frauen besser erkannt werden",
+      "link": "https://www.spiegel.de/gesundheit/herzinfarkt-so-sollen-herzinfarkte-bei-frauen-besser-erkannt-werden-a-263cbf47-34c9-4c52-94ee-c3618ebe32ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T05:06:00+00:00"
+    },
+    {
+      "titel": "Bonn: Deshalb tut Moskau die Schließung des Generalkonsulats so weh",
+      "link": "https://www.spiegel.de/politik/deutschland/bonn-welche-rolle-das-russische-generalkonsulat-fuer-moskau-spielte-a-cd3df8ca-70d6-482a-ab72-789d163ab49c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T05:03:00+00:00"
+    },
+    {
+      "titel": "Norwegen: Russisches Schiff vor Spitzbergen festgesetzt",
+      "link": "https://www.spiegel.de/ausland/norwegen-russisches-schiff-vor-spitzbergen-festgesetzt-a-fd96730a-d4c4-441b-b3f3-0adc0cb555e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T05:00:00+00:00"
+    },
+    {
+      "titel": "Tasteslop: Verdirbt künstliche Intelligenz unseren guten Geschmack?",
+      "link": "https://www.spiegel.de/stil/tasteslop-verdirbt-kuenstliche-intelligenz-unseren-guten-geschmack-a-875cba39-9d13-426a-b2ab-b08f828a6e92#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T04:58:00+00:00"
+    },
+    {
+      "titel": "Wie Bonnie Blue ihre Schwangerschaft ausgeschlachtet hat und niemand sie stoppte",
+      "link": "https://www.spiegel.de/netzwelt/wie-bonnie-blue-ihre-schwangerschaft-ausgeschlachtet-hat-und-niemand-sie-stoppte-a-e9fcb145-2c44-41f2-acf0-790a6f88fd76#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T04:46:00+00:00"
+    },
+    {
+      "titel": "News: Sven Schulze beim Anti-AfD-Protest, rechtes Geraune über Wahlbetrug, Friedrich Merz",
+      "link": "https://www.spiegel.de/politik/deutschland/news-sven-schulze-beim-anti-afd-protest-rechtes-geraune-ueber-wahlbetrug-friedrich-merz-a-4cb4ba08-0a84-4d69-ab32-df85d405e8bc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-05T04:31:00+00:00"
+    },
+    {
+      "titel": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-05T04:26:54+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Briefwahl in den USA beginnt trotz Ungewissheit wegen Rechtsstreit",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-supreme-court-midterms-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T03:09:08+00:00"
+    },
+    {
+      "titel": "USA: Eine Tragödie und kein Urteil",
+      "link": "https://www.sueddeutsche.de/panorama/lindsay-clancy-kindsmord-kinder-psychose-prozess-geschworene-usa-li.3542584",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-05T01:39:43+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Söder bekräftigt: Frau sollte jetzt Staatsoberhaupt werden",
@@ -19,52 +103,16 @@
       "veroeffentlicht": "2026-09-05T01:11:19+00:00"
     },
     {
-      "titel": "Goldene Henne: Publikumspreis für Unheilig-Sänger »Der Graf«",
-      "link": "https://www.spiegel.de/panorama/goldene-henne-publikumspreis-fuer-unheilig-saenger-der-graf-a-0337ddf3-84f7-4341-b6f2-5e56507eb434#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T00:36:00+00:00"
-    },
-    {
       "titel": "UN stimmen für neue Weltkarte - Afrika wächst",
       "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T00:12:20+00:00"
     },
     {
-      "titel": "USA: Deutscher mutmaßlicher Anlagebetrüger auf FBI-»Most Wanted«-Liste",
-      "link": "https://www.spiegel.de/panorama/usa-deutscher-mutmasslicher-anlagebetrueger-auf-fbi-most-wanted-liste-a-09c941fc-4ada-4c22-ae5b-50a7db6a48dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T00:04:00+00:00"
-    },
-    {
-      "titel": "Bundespolizei und BKA: Dutzende Disziplinarverfahren wegen verschwundener Dienstwaffen",
-      "link": "https://www.spiegel.de/panorama/bundespolizei-und-bka-dutzende-disziplinarverfahren-wegen-verschwundener-dienstwaffen-a-a687ddc0-5d1a-486d-a2a7-2e5302c24318#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T23:42:00+00:00"
-    },
-    {
-      "titel": "Mercator-Projektion: Uno stimmt für Reform der verzerrten Weltkarte",
-      "link": "https://www.spiegel.de/ausland/mercator-projektion-uno-stimmt-fuer-reform-der-verzerrten-weltkarte-a-c4ee02af-ec1c-42e2-9041-6efb8047f53d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T23:01:00+00:00"
-    },
-    {
       "titel": "Neue Vorwürfe gegen Farages Rechtspopulisten",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-farage-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-04T22:05:27+00:00"
-    },
-    {
-      "titel": "Giorgia Meloni: Italiens Ministerpräsidentin wird mitten in einer Rede von ihrer Tochter angerufen – und geht ran",
-      "link": "https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-wird-mitten-in-einer-rede-von-ihrer-tochter-angerufen-und-geht-ran-a-263087e4-3bd4-438b-947e-499b65317dfc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T20:54:00+00:00"
-    },
-    {
-      "titel": "Lindsay Clancy: Prozess geplatzt – Jury konnte sich nicht einigen",
-      "link": "https://www.spiegel.de/ausland/lindsay-clancy-prozess-geplatzt-jury-konnte-sich-nicht-einigen-a-0f72e1ed-784c-4469-b7d9-a4ea88761c44#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T19:35:00+00:00"
     },
     {
       "titel": "Russische Drohne trifft Geheimdienstzentrale in Kiew",
@@ -79,18 +127,6 @@
       "veroeffentlicht": "2026-09-04T19:30:24+00:00"
     },
     {
-      "titel": "Attacken auf Stromnetz: Etwas Draht, ein paar Feuerwerksraketen, fertig ist das Sicherheitsproblem",
-      "link": "https://www.spiegel.de/panorama/justiz/attacken-auf-stromnetz-etwas-draht-ein-paar-feuerwerksraketen-fertig-ist-das-sicherheitsproblem-a-d29ce510-ae78-4ed5-ae8c-1b0f49345bfd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T18:55:00+00:00"
-    },
-    {
-      "titel": "Türkei: Comedian drohen mehr als neun Jahre Haft wegen Witzen über Präsident Recep Tayyip Erdoğan",
-      "link": "https://www.spiegel.de/ausland/tuerkei-comedian-drohen-mehr-als-neun-jahre-haft-wegen-witzen-ueber-praesident-recep-tayyip-erdogan-a-02286d7d-e239-40eb-be46-767fabd85af1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-04T18:49:00+00:00"
-    },
-    {
       "titel": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
       "link": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html",
       "quelle": "Tagesschau",
@@ -103,34 +139,16 @@
       "veroeffentlicht": "2026-09-04T17:39:00+00:00"
     },
     {
-      "titel": "Wie kann die kritische Infrastruktur besser geschützt werden?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schutz-kritische-infrastruktur-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T16:59:41+00:00"
-    },
-    {
-      "titel": "Wie geht es im Thüringer Landtag nun weiter?",
-      "link": "https://www.tagesschau.de/inland/thueringen-wie-geht-es-weiter-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T16:46:03+00:00"
-    },
-    {
-      "titel": "EU verzeichnet neue Höchststände bei Syphilis und Tripper",
-      "link": "https://www.tagesschau.de/wissen/tag-der-sexuellen-gesundheit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T16:10:06+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX-Anleger bleiben vorsichtig",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-04T16:09:28+00:00"
-    },
-    {
       "titel": "BSW: Wolfs Bruch mit Wagenknecht ist nachvollziehbar",
       "link": "https://www.sueddeutsche.de/meinung/bsw-wagenknecht-wolf-thueringen-parteiaustritt-kommentar-li.3542445",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-04T14:49:30+00:00"
+    },
+    {
+      "titel": "Russische Aggressionen: Es braucht jetzt europäischen Größenwahn",
+      "link": "https://www.sueddeutsche.de/kultur/goethe-institute-russland-schliessung-reaktion-kulturpolitik-li.3541709",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-04T14:31:16+00:00"
     },
     {
       "titel": "Theater: Der Reiz des Anrüchigen",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/abschiebezentren-migranten-deutschland-eu-kooperation-ruanda-li.3542182",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-04T13:52:46+00:00"
-    },
-    {
-      "titel": "Unruhe im Amateurfußball: Streit um Millionen Mitgliederdaten im „Digitalen Vereinsheim“",
-      "link": "https://www.sueddeutsche.de/sport/dfb-amateurfussball-konflikte-daten-neuendorf-li.3541935",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T13:32:12+00:00"
-    },
-    {
-      "titel": "Kritische Infrastruktur: Ermittler sind mutmaßlichem Stromnetz-Attentäter auf der Spur",
-      "link": "https://www.sueddeutsche.de/politik/deutschland-russland-anschlaege-ruestungsfirma-muenchen-stromnetz-li.3541569",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T13:09:03+00:00"
-    },
-    {
-      "titel": "Wahl des Bundespräsidenten: Mit Liebe zum Detail und 50 Fässern Bier",
-      "link": "https://www.sueddeutsche.de/politik/bundespraesident-wahl-bundesversammlung-steinmeier-empfang-catering-essen-trinken-li.3542194",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-04T13:05:05+00:00"
     }
   ]
 }
