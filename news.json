@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-06T01:21:00+00:00",
+  "aktualisiert": "2026-09-06T06:31:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,100 @@
   },
   "meldungen": [
     {
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Wahllokale haben geöffnet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T06:19:28+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Kreml lobt Friedensgespräche mit US-Unterhändlern",
+      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-lobt-friedensgespraeche-mit-us-unterhaendlern-a-4e052bc8-1c9e-424f-be10-b94084eb4c89#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T06:09:00+00:00"
+    },
+    {
+      "titel": "Bundesliga: Aufsteiger Schalke gegen FC Bayern: Sie rannten bis das Arenadach wegflog",
+      "link": "https://www.spiegel.de/sport/fussball/bundesliga-aufsteiger-schalke-gegen-fc-bayern-sie-rannten-bis-das-arenadach-wegflog-a-cac3128d-cafb-457a-825a-d3aebfe749fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T06:00:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Die Wahllokale in Sachsen-Anhalt sind geöffnet",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-die-wahllokale-in-sachsen-anhalt-sind-geoeffnet-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T06:00:00+00:00"
+    },
+    {
+      "titel": "Zu viele Touristen - wie Dubrovnik gegensteuert",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T05:36:47+00:00"
+    },
+    {
+      "titel": "Klosterbrauerei: Schwester Doris verwandelt Wasser zu Bier – die guten News der Woche",
+      "link": "https://www.spiegel.de/ausland/klosterbrauerei-schwester-doris-verwandelt-wasser-zu-bier-die-guten-news-der-woche-a-818b86bb-6200-464b-84c8-2a798e217432#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T05:07:00+00:00"
+    },
+    {
+      "titel": "Unterwäsche: Einmal im Leben so bequeme Unterhosen tragen wie ein Mann",
+      "link": "https://www.spiegel.de/partnerschaft/unterwaesche-einmal-im-leben-so-bequeme-unterhosen-tragen-wie-ein-mann-a-6fbdf5a7-6fb8-4256-be78-744f9560a987#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T05:06:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Was Sie über die Landtagswahl wissen sollten",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-was-sie-ueber-die-landtagswahl-wissen-sollten-a-e6a368b0-3e1b-4bfd-84bd-342679bbc8f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T05:04:00+00:00"
+    },
+    {
+      "titel": "Deutschland: Wie lässt sich die Spaltung zwischen Ost und West überwinden?",
+      "link": "https://www.spiegel.de/geschichte/ost-west-debatte-spiegel-mediation-mit-dirk-oschmann-und-armin-nassehi-a-1b77d97a-2d7e-46bc-87ac-c6f1290384d6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T05:02:00+00:00"
+    },
+    {
+      "titel": "Wehrpflichtige in der Ukraine: Gefährliche Flucht über die Donau",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-grenzschuetzer-wehrpflichtige-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T04:43:05+00:00"
+    },
+    {
+      "titel": "Landtagswahl Sachsen-Anhalt: Wirtschaftsweise warnt vor Risiken für Arbeitsmarkt bei AfD-Regierung",
+      "link": "https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-wirtschaftsweise-warnt-vor-risiken-fuer-arbeitsmarkt-bei-afd-regierung-a-20e0ba57-a47e-4f3e-85bf-83c69fa9e6a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T03:11:00+00:00"
+    },
+    {
+      "titel": "USA: Amerikanisches Wochenende in Moskau und Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-russland-usa-trump-putin-selenskij-kushner-witkoff-li.3542847",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-06T03:05:14+00:00"
+    },
+    {
+      "titel": "Was zur Wahl in Sachsen-Anhalt wichtig ist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T03:02:56+00:00"
+    },
+    {
+      "titel": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T02:58:49+00:00"
+    },
+    {
+      "titel": "Kritische Infrastruktur: Özdemir fordert Hochdruckprogramm zum besseren Schutz",
+      "link": "https://www.spiegel.de/politik/kritische-infrastruktur-oezdemir-fordert-hochdruckprogramm-zum-besseren-schutz-a-17865c02-0188-4868-84e3-a3fca66670db#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T02:46:00+00:00"
+    },
+    {
       "titel": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
       "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-05T22:58:14+00:00"
-    },
-    {
-      "titel": "Natalie Portman ist zum dritten Mal Mutter geworden",
-      "link": "https://www.spiegel.de/panorama/leute/natalie-portman-ist-zum-dritten-mal-mutter-geworden-a-5a5827be-d41b-4107-866b-620d6317a1f2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T22:31:00+00:00"
     },
     {
       "titel": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
@@ -31,52 +115,16 @@
       "veroeffentlicht": "2026-09-05T21:53:15+00:00"
     },
     {
-      "titel": "Newsblog zum Ukraine-Krieg: Kreml bezeichnet Reise von Trump-Gesandten als „wichtigen Friedensbesuch“",
+      "titel": "Newsblog zum Ukraine-Krieg: Russland und Ukraine setzen Luftangriffe fort",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-moskau-reaktion-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T21:31:36+00:00"
-    },
-    {
-      "titel": "Isar Aerospace: Erfolgreicher Raketenstart des deutschen Start-ups – »Deutschland kann Raumfahrt«",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/isar-aerospace-erfolgreicher-raketenstart-des-deutschen-start-ups-deutschland-kann-raumfahrt-a-43a5be39-3373-475d-946d-95a33f61efe9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T21:19:00+00:00"
     },
     {
       "titel": "Raumfahrt: Münchner Rakete erreicht den Erdorbit",
       "link": "https://www.sueddeutsche.de/wirtschaft/isar-aerospace-raumfahrt-esa-li.3458924",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T21:02:48+00:00"
-    },
-    {
-      "titel": "Angriff auf Stromversorgung: Das ist der mutmaßliche Strom-Saboteur",
-      "link": "https://www.spiegel.de/panorama/justiz/angriff-auf-stromversorgung-das-ist-der-mutmassliche-strom-saboteur-a-61e8aa5d-0def-437a-95fb-13ed996af7bc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T20:57:00+00:00"
-    },
-    {
-      "titel": "Uno: Fortschritt bei Regulierung von »Killer-Robotern«",
-      "link": "https://www.spiegel.de/politik/uno-fortschritt-bei-regulierung-von-killer-robotern-a-83fa6d5d-2259-4ee2-b683-284b2e6de254#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T19:46:00+00:00"
-    },
-    {
-      "titel": "Profi-Bodybuilder Urs Kalecinski: Seine Disziplin kostete ihn fast das Leben",
-      "link": "https://www.spiegel.de/sport/profi-bodybuilder-urs-kalecinski-seine-disziplin-kostete-ihn-fast-das-leben-a-55241be4-933f-41ef-9762-795b2422132b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T19:42:00+00:00"
-    },
-    {
-      "titel": "Kanada und USA: Finanzminister François-Philippe Champagne über den Handelskrieg und Europa",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/kanada-und-usa-finanzminister-francois-philippe-champagne-ueber-den-handelskrieg-und-europa-a-33546033-20d8-4e1a-beae-25f917a8af38#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T19:24:00+00:00"
-    },
-    {
-      "titel": "Serbien: Hohe Regierungsmitglieder bei Gedenkzeremonie für Kriegsverbrecher Ratko Mladić",
-      "link": "https://www.spiegel.de/ausland/serbien-hohe-regierungsmitglieder-bei-gedenkzeremonie-fuer-kriegsverbrecher-ratko-mladic-a-b056c3a2-901e-4de4-b044-5b9ceb1d337e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T19:16:00+00:00"
     },
     {
       "titel": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
@@ -89,18 +137,6 @@
       "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-fc-bayern-muenchen-schalke-neuer-news-li.3542886",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T19:10:56+00:00"
-    },
-    {
-      "titel": "Moskau: US-Unterhändler führen Gespräch mit Putin",
-      "link": "https://www.spiegel.de/ausland/moskau-us-unterhaendler-fuehren-gespraech-mit-putin-a-a64bbc8a-ef43-47ae-b14a-bc9cb66cdd17#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T19:09:00+00:00"
-    },
-    {
-      "titel": "Basketball-WM der Frauen: Deutschlands Team zeigt Reaktion und schlägt Japan",
-      "link": "https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschlands-team-zeigt-reaktion-und-schlaegt-japan-a-50dd3aa3-901d-40d6-a091-b92f1fbaf285#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-05T19:05:00+00:00"
     },
     {
       "titel": "Landtagswahl Sachsen-Anhalt: „Ich lach in dein Gesicht“",
@@ -131,42 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/dfb-pokal-auslosung-zweite-runde-bayern-magdeburg-dortmund-bvb-werder-stuttgart-li.3542867",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T17:17:08+00:00"
-    },
-    {
-      "titel": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
-      "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T16:50:32+00:00"
-    },
-    {
-      "titel": "Bundesliga: Dortmund gelingt Comeback-Sieg – Füllkrug lässt Werder jubeln",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-borussia-dortmund-bvb-hoffenheim-elversberg-moenchengladbach-werder-bremen-li.3542791",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T16:09:34+00:00"
-    },
-    {
-      "titel": "USA greifen iranische Öltanker an",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T15:17:36+00:00"
-    },
-    {
-      "titel": "Deutscher Schauspieler Michael Mendl mit 82 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/tod-michael-mendl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T15:15:07+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T15:08:27+00:00"
-    },
-    {
-      "titel": "Vermummte legen Hafen im südenglischen Dover lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T14:42:26+00:00"
     }
   ]
 }
