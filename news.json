@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-06T21:45:03+00:00",
+  "aktualisiert": "2026-09-06T23:16:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,46 @@
   },
   "meldungen": [
     {
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Frei sieht keine Gefahr von Überläufern zur AfD ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T23:03:12+00:00"
+    },
+    {
+      "titel": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
+      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T22:39:26+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt-Wahl: So war die TV-Berichterstattung in ARD und ZDF",
+      "link": "https://www.spiegel.de/kultur/tv/sachsen-anhalt-wahl-so-war-die-tv-berichterstattung-in-ard-und-zdf-a-559abd79-937d-4db4-b3b8-97bfc2a1bad4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T22:02:00+00:00"
+    },
+    {
+      "titel": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T21:53:59+00:00"
+    },
+    {
+      "titel": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
+      "link": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T21:52:36+00:00"
+    },
+    {
       "titel": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-06T21:42:58+00:00"
     },
     {
-      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: AfD profitierte stark von Stimmen einstiger Nichtwähler ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T21:41:55+00:00"
+      "titel": "Saisonstart unter Coach Polanski: Zweifel schon nach zwei Spieltagen",
+      "link": "https://www.sueddeutsche.de/sport/borussia-moenchengladbach-kommentar-kleindienst-polanski-li.3543017",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-06T21:40:05+00:00"
     },
     {
       "titel": "Sorge bei jüdischen Organisationen und Kirchen nach AfD-Erfolg",
@@ -41,12 +71,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-172.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-06T20:56:51+00:00"
-    },
-    {
-      "titel": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T20:56:09+00:00"
     },
     {
       "titel": "Viernheim in Hessen: Tote und Verletzte bei Absturz von Kleinflugzeug über Hessen",
@@ -79,7 +103,7 @@
       "veroeffentlicht": "2026-09-06T20:32:00+00:00"
     },
     {
-      "titel": "Florida: Amazon-Frachtflugzeug rammt bei Landung mehrere Fahrzeuge",
+      "titel": "Florida: Amazon-Frachtflugzeug rammt bei Landung mehrere Fahrzeuge – mindestens fünf Tote",
       "link": "https://www.spiegel.de/ausland/florida-amazon-frachtflugzeug-rammt-bei-landung-mehrere-fahrzeuge-a-a514b51c-a01a-41eb-a362-9e49274433c8#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-06T20:19:00+00:00"
@@ -101,24 +125,6 @@
       "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-hochrechnung-ergebnis-afd-cdu-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-06T19:51:43+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Internationale Pressestimmen zur Landtagswahl",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-internationale-pressestimmen-zur-landtagswahl-a-ca4fecb1-09cd-44e8-a3a6-0bff827bb322#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T19:50:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl Sachsen-Anhalt: Historische Dimension des Ergebnisses",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-historisches-landtagswahl-sachsen-anhalt-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T19:44:59+00:00"
-    },
-    {
-      "titel": "Landtagswahl Sachsen-Anhalt: Wichtigste Umfragen im Überblick",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-landtagswahl-sachsen-anhalt-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T19:44:52+00:00"
     },
     {
       "titel": "Fußball-Bundesliga: Augsburg ist Tabellenführer",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-cdu-afd-merz-li.3541792",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-06T16:13:15+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: „Selbstverständlich haben wir einen Regierungsauftrag“",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtagswahl-cdu-afd-li.3541799",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T16:10:42+00:00"
     }
   ]
 }
