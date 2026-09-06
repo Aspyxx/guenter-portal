@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-06T12:37:08+00:00",
+  "aktualisiert": "2026-09-06T15:51:27+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundespolitiker fordern Konsequenzen nach Hackerangriff in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hackerangriff-berlin-102.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 2,
-      "titel": "Wie Kairos Müllstadt vom Iran-Krieg profitiert",
-      "link": "https://www.tagesschau.de/ausland/afrika/muellstadt-kairo-108.html",
+      "titel": "Lawrow wirft Deutschland vor, Krieg gegen Russland zu führen",
+      "link": "https://www.tagesschau.de/ausland/europa/lawrow-deutschland-drohnen-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
+      "rang": 2,
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Wahlprognose ab 18 Uhr, Hochrechnung etwas",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
       "rang": 3,
-      "titel": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
-      "link": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html",
+      "titel": "Gedenkbaum für Opfer des CSD-Anschlags herausgerissen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gedenkbaum-csd-anschlag-herausgerissen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
