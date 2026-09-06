@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-06T06:31:10+00:00",
+  "aktualisiert": "2026-09-06T11:22:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,106 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Wahllokale haben geöffnet ++",
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Deutlich höhere Wahlbeteiligung als 2021 ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T06:19:28+00:00"
+      "veroeffentlicht": "2026-09-06T11:19:15+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Kreml lobt Friedensgespräche mit US-Unterhändlern",
-      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-lobt-friedensgespraeche-mit-us-unterhaendlern-a-4e052bc8-1c9e-424f-be10-b94084eb4c89#ref=rss",
+      "titel": "Ist das Leben in New York für junge Berufstätige noch bezahlbar?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/lebenshaltungskosten-new-york-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T11:18:04+00:00"
+    },
+    {
+      "titel": "Sachsen: Polizei findet zwölf Sprengsätze an Stromtrassen",
+      "link": "https://www.spiegel.de/panorama/justiz/sachsen-polizei-findet-zwoelf-sprengsaetze-an-stromtrassen-a-8ff758c3-9ae1-43c6-9877-92ed3fa8a175#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T06:09:00+00:00"
+      "veroeffentlicht": "2026-09-06T11:17:00+00:00"
     },
     {
-      "titel": "Bundesliga: Aufsteiger Schalke gegen FC Bayern: Sie rannten bis das Arenadach wegflog",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-aufsteiger-schalke-gegen-fc-bayern-sie-rannten-bis-das-arenadach-wegflog-a-cac3128d-cafb-457a-825a-d3aebfe749fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T06:00:00+00:00"
+      "titel": "Landtagswahl in Sachsen-Anhalt: Sorgen um Wirtschaft und steigende Preise",
+      "link": "https://www.tagesschau.de/inland/wahlen/sachsen-anhalt-wahl-wirtschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T11:01:43+00:00"
     },
     {
-      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Die Wahllokale in Sachsen-Anhalt sind geöffnet",
+      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Deutlich höhere Wahlbeteiligung zeichnet sich ab",
       "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-die-wahllokale-in-sachsen-anhalt-sind-geoeffnet-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T06:00:00+00:00"
+      "veroeffentlicht": "2026-09-06T11:01:00+00:00"
     },
     {
-      "titel": "Zu viele Touristen - wie Dubrovnik gegensteuert",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
+      "titel": "Wie Kairos Müllstadt vom Iran-Krieg profitiert",
+      "link": "https://www.tagesschau.de/ausland/afrika/muellstadt-kairo-108.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T05:36:47+00:00"
+      "veroeffentlicht": "2026-09-06T10:47:32+00:00"
     },
     {
-      "titel": "Klosterbrauerei: Schwester Doris verwandelt Wasser zu Bier – die guten News der Woche",
-      "link": "https://www.spiegel.de/ausland/klosterbrauerei-schwester-doris-verwandelt-wasser-zu-bier-die-guten-news-der-woche-a-818b86bb-6200-464b-84c8-2a798e217432#ref=rss",
+      "titel": "Judo-Bundesliga: Gastkämpfer Akaki Japaridze prügelt Gegner Timo Cavelius in Leipzig krankenhausreif",
+      "link": "https://www.spiegel.de/sport/judo-bundesliga-gastkaempfer-akaki-japaridze-pruegelt-gegner-timo-cavelius-in-leipzig-krankenhausreif-a-712663d9-cfb6-4889-b8ba-f21739f77781#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T05:07:00+00:00"
+      "veroeffentlicht": "2026-09-06T10:42:00+00:00"
     },
     {
-      "titel": "Unterwäsche: Einmal im Leben so bequeme Unterhosen tragen wie ein Mann",
-      "link": "https://www.spiegel.de/partnerschaft/unterwaesche-einmal-im-leben-so-bequeme-unterhosen-tragen-wie-ein-mann-a-6fbdf5a7-6fb8-4256-be78-744f9560a987#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T05:06:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Was Sie über die Landtagswahl wissen sollten",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-was-sie-ueber-die-landtagswahl-wissen-sollten-a-e6a368b0-3e1b-4bfd-84bd-342679bbc8f6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T05:04:00+00:00"
-    },
-    {
-      "titel": "Deutschland: Wie lässt sich die Spaltung zwischen Ost und West überwinden?",
-      "link": "https://www.spiegel.de/geschichte/ost-west-debatte-spiegel-mediation-mit-dirk-oschmann-und-armin-nassehi-a-1b77d97a-2d7e-46bc-87ac-c6f1290384d6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T05:02:00+00:00"
-    },
-    {
-      "titel": "Wehrpflichtige in der Ukraine: Gefährliche Flucht über die Donau",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-grenzschuetzer-wehrpflichtige-100.html",
+      "titel": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T04:43:05+00:00"
+      "veroeffentlicht": "2026-09-06T10:40:04+00:00"
     },
     {
-      "titel": "Landtagswahl Sachsen-Anhalt: Wirtschaftsweise warnt vor Risiken für Arbeitsmarkt bei AfD-Regierung",
-      "link": "https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-wirtschaftsweise-warnt-vor-risiken-fuer-arbeitsmarkt-bei-afd-regierung-a-20e0ba57-a47e-4f3e-85bf-83c69fa9e6a8#ref=rss",
+      "titel": "Drohnenattacken: Bundesregierung plant Ausbau der Abwehrmöglichkeiten",
+      "link": "https://www.spiegel.de/politik/deutschland/drohnenattacken-bundesregierung-plant-ausbau-der-abwehrmoeglichkeiten-a-30d84a6e-30ce-4252-8f75-b643f8f21b12#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T03:11:00+00:00"
+      "veroeffentlicht": "2026-09-06T10:20:00+00:00"
+    },
+    {
+      "titel": "Tote und Verletzte bei neuen Angriffen Israels in Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-130.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T10:17:03+00:00"
+    },
+    {
+      "titel": "Cartoons der Woche: Alle Augen auf die Wahl",
+      "link": "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-alle-augen-auf-die-wahl-a-2d9d035e-417c-456f-9be1-7906dc070f5d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T10:14:00+00:00"
+    },
+    {
+      "titel": "Stefanie Stahl über Fluchtfantasien und ihr inneres Kind",
+      "link": "https://www.spiegel.de/kultur/stefanie-stahl-ueber-fluchtfantasien-und-ihr-inneres-kind-a-f64c13ec-56a3-4baf-81dc-d0c09e711c0e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T10:02:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl in Sachsen-Anhalt: Holocaust-Überlebende Henriette Kretz über die Angst vor der AfD",
+      "link": "https://www.spiegel.de/politik/landtagswahl-in-sachsen-anhalt-holocaust-ueberlebende-henriette-kretz-ueber-die-angst-vor-der-afd-a-3524495c-2051-4a05-8bcf-80e383c6da96#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T09:53:00+00:00"
+    },
+    {
+      "titel": "Maisie Williams empfand die Zeit nach »Game of Thrones« als »Hölle«",
+      "link": "https://www.spiegel.de/kultur/kino/maisie-williams-empfand-die-zeit-nach-game-of-thrones-als-hoelle-a-ef3657ab-e779-44a1-8ff4-ddba3539042c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T09:49:00+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Hauchzarter Optimismus bei der Landes-CDU",
+      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-demos-magdeburg-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-06T09:47:00+00:00"
+    },
+    {
+      "titel": "Zitierte Forscher beklagen »heftige Verzerrung« ihrer Forschungsergebnisse",
+      "link": "https://www.spiegel.de/mobilitaet/zitierte-forscher-beklagen-heftige-verzerrung-ihrer-forschungsergebnisse-a-b7097413-5c50-46e2-82ab-f07810e504e2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-06T09:43:00+00:00"
+    },
+    {
+      "titel": "SV Elversberg: Sogar in Socken torgefährlich",
+      "link": "https://www.sueddeutsche.de/sport/elversberg-moenchengladbach-wagner-karte-li.3542984",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-06T09:25:34+00:00"
+    },
+    {
+      "titel": "Bremens 3:1 gegen Leipzig: Und plötzlich geht das Flutlicht an",
+      "link": "https://www.sueddeutsche.de/sport/bremen-leipzig-bundesliga-fuellkrug-li.3542896",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-06T08:43:55+00:00"
+    },
+    {
+      "titel": "Deutschland bei der Basketball-WM: Seid wie Wasser, Freundinnen",
+      "link": "https://www.sueddeutsche.de/sport/basketball-wm-dbb-frauen-japan-mali-li.3542898",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-06T08:43:46+00:00"
+    },
+    {
+      "titel": "Verkehr in Bayern: Bahn will Strecke über Mühldorf nach Österreich endlich ausbauen",
+      "link": "https://www.sueddeutsche.de/bayern/deutsche-bahn-bayern-muenchen-muehldorf-ausbau-brenner-nordzulauf-li.3542173",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-06T08:40:21+00:00"
+    },
+    {
+      "titel": "Raumfahrt: Jetzt braucht es große Raketen aus Europa",
+      "link": "https://www.sueddeutsche.de/wirtschaft/esa-musk-isar-nasa-spacex-ariane-li.3542910",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-06T07:52:22+00:00"
+    },
+    {
+      "titel": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
+      "link": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T07:13:44+00:00"
+    },
+    {
+      "titel": "Iran meldet Angriffe auf mehrere US-Tanker in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-tanker-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T07:00:08+00:00"
+    },
+    {
+      "titel": "Polizisten bei Demo mit Metallkugeln beschossen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinmetall-entwaffnen-anti-ruestungsdemo-koeln-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-06T06:23:00+00:00"
     },
     {
       "titel": "USA: Amerikanisches Wochenende in Moskau und Kiew",
       "link": "https://www.sueddeutsche.de/politik/ukraine-russland-usa-trump-putin-selenskij-kushner-witkoff-li.3542847",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-06T03:05:14+00:00"
-    },
-    {
-      "titel": "Was zur Wahl in Sachsen-Anhalt wichtig ist",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T03:02:56+00:00"
-    },
-    {
-      "titel": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew erwartet",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T02:58:49+00:00"
-    },
-    {
-      "titel": "Kritische Infrastruktur: Özdemir fordert Hochdruckprogramm zum besseren Schutz",
-      "link": "https://www.spiegel.de/politik/kritische-infrastruktur-oezdemir-fordert-hochdruckprogramm-zum-besseren-schutz-a-17865c02-0188-4868-84e3-a3fca66670db#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T02:46:00+00:00"
-    },
-    {
-      "titel": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
-      "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T22:58:14+00:00"
-    },
-    {
-      "titel": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
-      "link": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T22:20:33+00:00"
     },
     {
       "titel": "Newsblog zum Nahost-Krieg: USA und Iran beschießen gegenseitig Schiffe",
@@ -119,54 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-moskau-reaktion-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-05T21:31:36+00:00"
-    },
-    {
-      "titel": "Raumfahrt: Münchner Rakete erreicht den Erdorbit",
-      "link": "https://www.sueddeutsche.de/wirtschaft/isar-aerospace-raumfahrt-esa-li.3458924",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T21:02:48+00:00"
-    },
-    {
-      "titel": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T19:14:33+00:00"
-    },
-    {
-      "titel": "Bundesliga: Schalker Schildkröten erkämpfen einen Punkt gegen die Bayern",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-fc-bayern-muenchen-schalke-neuer-news-li.3542886",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T19:10:56+00:00"
-    },
-    {
-      "titel": "Landtagswahl Sachsen-Anhalt: „Ich lach in dein Gesicht“",
-      "link": "https://www.sueddeutsche.de/politik/magdeburg-sachsen-anhalt-landtagswahl-afd-cdu-li.3542706",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T18:21:51+00:00"
-    },
-    {
-      "titel": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-05T17:52:19+00:00"
-    },
-    {
-      "titel": "Aufsteiger begeistert weiter: Sieg in der Nachspielzeit: Elversberg schockt auch Gladbach",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-sv-elversberg-borussia-moenchengladbach-wagner-li.3542861",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T17:47:46+00:00"
-    },
-    {
-      "titel": "Berliner Datenleck: „Dieser Datenabfluss gefährdet unsere nationale Sicherheit“",
-      "link": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-fragen-und-antworten-li.3542710",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T17:18:00+00:00"
-    },
-    {
-      "titel": "DFB-Pokal-Auslosung: Bayern mit Losglück – Dortmund trifft auf Bremen",
-      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-auslosung-zweite-runde-bayern-magdeburg-dortmund-bvb-werder-stuttgart-li.3542867",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-05T17:17:08+00:00"
     }
   ]
 }
