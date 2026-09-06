@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-06T00:01:11+00:00",
+  "aktualisiert": "2026-09-06T04:50:54+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
-      "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
+      "titel": "Was zur Wahl in Sachsen-Anhalt wichtig ist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
+      "rang": 2,
+      "titel": "Witkoff und Kushner erstmals in Kiew erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
       "rang": 3,
-      "titel": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
-      "link": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
+      "titel": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
