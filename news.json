@@ -1,11 +1,119 @@
 {
-  "aktualisiert": "2026-09-07T01:18:56+00:00",
+  "aktualisiert": "2026-09-07T06:38:38+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Banaszak sieht demokratische Parteien in Verantwortung ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T06:33:18+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Vorläufige Ergebnisse: CDU gewinnt kein einziges Direktmandat – BSW zieht in Landtag ein",
+      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-hochrechnung-ergebnis-afd-cdu-direktmandat-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T06:15:10+00:00"
+    },
+    {
+      "titel": "Projekt von Kaja Kallas: EU streicht Gründung von Verteidigungsexpertengruppe",
+      "link": "https://www.spiegel.de/ausland/projekt-von-kaja-kallas-eu-streicht-gruendung-von-verteidigungsexpertengruppe-a-f49e54e2-5de2-452d-b6d5-f6635384d3fa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T06:04:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Wagenknecht deutet erneut mögliche AfD-Unterstützung an",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T05:43:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX muss sich auf hohem Niveau behaupten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T05:27:03+00:00"
+    },
+    {
+      "titel": "Druck aus den USA: Benjamin Netanyahu ordnet offenbar Räumung einiger Siedler-Außenposten im Westjordanland an",
+      "link": "https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an-a-793ee0b4-0150-4697-8884-c775a2b81dfb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T05:19:00+00:00"
+    },
+    {
+      "titel": "Gefängnisse in Nordrhein-Westfalen testen Internetzugang für Häftlinge",
+      "link": "https://www.spiegel.de/panorama/justiz/gefaengnisse-in-nordrhein-westfalen-testen-internetzugang-fuer-haeftlinge-a-303efbb0-30a4-4c86-95f2-36cb7cac636e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T05:15:00+00:00"
+    },
+    {
+      "titel": "Fachkräftemangel in Deutschland: IW prognostiziert deutliche Verschärfung bis 2029",
+      "link": "https://www.spiegel.de/wirtschaft/fachkraeftemangel-in-deutschland-iw-prognostiziert-deutliche-verschaerfung-bis-2029-a-9696fb4f-3d16-4e83-8fdb-9a3783b91268#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T05:01:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl in Sachsen-Anhalt: Wie die AfD die Wahl gewann - der Grafik-Überblick",
+      "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick-a-bc49a0e2-7c15-4f3a-b885-4b4e12164f93#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T04:54:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Arbeitgeber warnen nach Wahl vor »Klima der Abschottung«",
+      "link": "https://www.spiegel.de/wirtschaft/sachsen-anhalt-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung-a-50ac8f06-5885-4413-a0e1-9e660e84e9ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T04:47:00+00:00"
+    },
+    {
+      "titel": "Sofie Royer: Schon wieder ein starkes Popalbum – warum bleibt der Durchbruch aus?",
+      "link": "https://www.spiegel.de/kultur/musik/sofie-royer-schon-wieder-ein-starkes-popalbum-warum-bleibt-der-durchbruch-aus-a-c3cdb328-b0c2-4a96-bd2f-35dca67a5dbe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T03:54:00+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: So blickt das Ausland auf das Ergebnis in Magdeburg",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-reaktionen-ausland-elon-musk-fpoe-restoration-uk-li.3543150",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T03:41:37+00:00"
+    },
+    {
+      "titel": "Meetings im Job-Alltag: Welche zehn Denkfehler effiziente Treffen verhindern",
+      "link": "https://www.spiegel.de/karriere/meetings-im-job-alltag-welche-zehn-denkfehler-effiziente-treffen-verhindern-a-d15a7630-90e0-48e3-a062-bbe6b51055de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T03:30:00+00:00"
+    },
+    {
+      "titel": "Gegenseitige Angriffe: Schiffsverkehr in Straße von Hormus eingebrochen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-strasse-von-hormus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T03:27:09+00:00"
+    },
+    {
+      "titel": "Nach der Wahl: Wie geht es weiter?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T02:55:15+00:00"
+    },
+    {
+      "titel": "Nachtkritik: Die Union hadert, duldet und will kämpfen",
+      "link": "https://www.sueddeutsche.de/medien/cdu-union-csu-afd-thorsten-frei-thomas-de-maiziere-tv-kritik-li.3543341",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T02:45:16+00:00"
+    },
+    {
+      "titel": "CDU: Nach der Niederlage: Der Kanzlerpartei droht jede Menge Ärger",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-cdu-afd-merz-li.3541792",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T02:24:50+00:00"
+    },
+    {
+      "titel": "Ulrich Siegmund: Und jetzt regieren, aber wie?",
+      "link": "https://www.sueddeutsche.de/politik/afd-ulrich-siegmund-mehrheit-sachsen-anhalt-bsw-cdu-li.3542724",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T02:00:51+00:00"
+    },
     {
       "titel": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
@@ -25,22 +133,10 @@
       "veroeffentlicht": "2026-09-07T01:13:08+00:00"
     },
     {
-      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Elon Musk gratuliert AfD zum Wahlsieg ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T01:11:59+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Alle Stimmen ausgezählt – AfD gewinnt deutlich vor CDU",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T01:09:00+00:00"
-    },
-    {
-      "titel": "BSW: Wie Sahra Wagenknecht in Sachsen-Anhalt plötzlich wieder zum Machtfaktor wird",
-      "link": "https://www.spiegel.de/politik/deutschland/bsw-wie-sahra-wagenknecht-in-sachsen-anhalt-ploetzlich-wieder-zum-machtfaktor-wird-a-ad6379ac-fbf1-41c6-9567-55847b179bd7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T00:55:00+00:00"
+      "titel": "Wahl in Sachsen-Anhalt: „Jetzt sind viele draußen und trinken ein Bier“",
+      "link": "https://www.sueddeutsche.de/medien/ulrich-siegmund-sven-schulze-wahlabend-im-mdr-fernsehen-mit-afd-sachsen-anhalt-li.3542244",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T00:42:21+00:00"
     },
     {
       "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Stiftung Gedenkstätten warnt vor Folgen von AfD-Regierung ++",
@@ -49,28 +145,10 @@
       "veroeffentlicht": "2026-09-07T00:38:20+00:00"
     },
     {
-      "titel": "Ohio: Demokratische US-Gouverneurskandidatin Amy Acton auf Volksfest angegriffen",
-      "link": "https://www.spiegel.de/ausland/ohio-demokratische-us-gouverneurskandidatin-amy-acton-auf-volksfest-angegriffen-a-59059233-1552-424d-b3c3-148608d90fbc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T00:19:00+00:00"
-    },
-    {
       "titel": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
       "link": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-06T22:39:26+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt-Wahl: So war die TV-Berichterstattung in ARD und ZDF",
-      "link": "https://www.spiegel.de/kultur/tv/sachsen-anhalt-wahl-so-war-die-tv-berichterstattung-in-ard-und-zdf-a-559abd79-937d-4db4-b3b8-97bfc2a1bad4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T22:02:00+00:00"
-    },
-    {
-      "titel": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
-      "link": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T21:52:36+00:00"
     },
     {
       "titel": "Saisonstart unter Coach Polanski: Zweifel schon nach zwei Spieltagen",
@@ -79,94 +157,16 @@
       "veroeffentlicht": "2026-09-06T21:40:05+00:00"
     },
     {
-      "titel": "Sorge bei jüdischen Organisationen und Kirchen nach AfD-Erfolg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-gesellschaft-landtagswahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T21:39:17+00:00"
-    },
-    {
-      "titel": "Mexiko: Zehn Menschen bei Feuerwerksexplosion in Kirche getötet",
-      "link": "https://www.spiegel.de/ausland/mexiko-zehn-menschen-bei-feuerwerksexplosion-in-kirche-getoetet-a-dd71db65-5059-49dd-84ee-d88aa205b71e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T21:28:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl Sachsen-Anhalt: Linke erobert drei Direktmandate, der Rest geht an die AfD",
-      "link": "https://www.spiegel.de/politik/landtagswahl-sachsen-anhalt-linke-erobert-drei-direktmandate-der-rest-geht-an-die-afd-a-5f5cfff3-45fe-4df4-9057-ae520174dcc3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T20:57:00+00:00"
-    },
-    {
-      "titel": "Hochrechnung zur Wahl in Sachsen-Anhalt: AfD mit Rekordergebnis - CDU stürzt ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-172.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T20:56:51+00:00"
-    },
-    {
-      "titel": "Viernheim in Hessen: Tote und Verletzte bei Absturz von Kleinflugzeug über Hessen",
-      "link": "https://www.spiegel.de/panorama/viernheim-in-hessen-tote-und-verletzte-bei-absturz-von-kleinflugzeug-ueber-hessen-a-619fda82-f3ec-43e0-82e0-d7c1cf4f8827#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T20:51:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Sachsen-Anhalt: Donald Trump veröffentlicht Post zur Wahl in Sachsen-Anhalt",
-      "link": "https://www.spiegel.de/ausland/landtagswahl-in-sachsen-anhalt-donald-trump-veroeffentlicht-post-zur-wahl-in-sachsen-anhalt-a-da91f634-5650-4228-9b89-abf9346fd6ec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T20:44:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl Sachsen-Anhalt: Was das Ergebnis für Friedrich Merz und die CDU bedeutet",
-      "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-was-das-ergebnis-fuer-friedrich-merz-und-die-cdu-bedeutet-a-af0e2b38-2335-46bd-acb2-6998b3793811#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T20:41:00+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: AfD verdoppelt ihr Ergebnis, Chancen des BSW steigen",
-      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-hochrechnung-ergebnis-afd-cdu-li.3540501",
+      "titel": "Landtagswahl in Sachsen-Anhalt: Das BSW flirtet mit der AfD",
+      "link": "https://www.sueddeutsche.de/politik/linke-bsw-sachsen-anhalt-wahlergebnisse-regierungsoptionen-li.3541827",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T19:51:43+00:00"
+      "veroeffentlicht": "2026-09-06T21:12:00+00:00"
     },
     {
       "titel": "Fußball-Bundesliga: Augsburg ist Tabellenführer",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-augsburg-frankfurt-tabellenfuehrer-baum-huetter-li.3543292",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-06T19:35:51+00:00"
-    },
-    {
-      "titel": "Landtagswahl: Die Mitte hat versagt - die AfD kommt der Macht bedrohlich nahe",
-      "link": "https://www.sueddeutsche.de/meinung/sachsen-anhalt-landtagswahl-2026-afd-cdu-siegmund-deutschland-li.3538113",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T18:31:24+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Sachsen-Anhalt: Das BSW flirtet mit der AfD",
-      "link": "https://www.sueddeutsche.de/politik/linke-bsw-sachsen-anhalt-wahlergebnisse-regierungsoptionen-li.3541827",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T18:28:37+00:00"
-    },
-    {
-      "titel": "Datenanalyse zur Landtagswahl: Die AfD liegt in fast allen Wählergruppen vorn",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-landtag-afd-cdu-li.3529834",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T18:07:42+00:00"
-    },
-    {
-      "titel": "SPD: Kampfansagen an den Kanzler",
-      "link": "https://www.sueddeutsche.de/politik/spd-sachsen-anhalt-2026-wahl-kampfansagen-merz-li.3541817",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T17:28:25+00:00"
-    },
-    {
-      "titel": "Landtagswahl: Sieben Erkenntnisse aus der Wahl in Sachsen-Anhalt",
-      "link": "https://www.sueddeutsche.de/politik/afd-landtagswahl-sachsen-anhalt-ergebnisse-folgen-li.3541778",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T16:33:25+00:00"
-    },
-    {
-      "titel": "CDU: Nach der Niederlage: Der Kanzlerpartei droht jede Menge Ärger",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-cdu-afd-merz-li.3541792",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T16:13:15+00:00"
     }
   ]
 }
