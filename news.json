@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-07T06:38:38+00:00",
+  "aktualisiert": "2026-09-07T13:02:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Banaszak sieht demokratische Parteien in Verantwortung ++",
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: SPD offen für überparteilichen Ministerpräsidenten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T06:33:18+00:00"
+      "veroeffentlicht": "2026-09-07T12:56:40+00:00"
     },
     {
-      "titel": "Wahl in Sachsen-Anhalt: Vorläufige Ergebnisse: CDU gewinnt kein einziges Direktmandat – BSW zieht in Landtag ein",
-      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-hochrechnung-ergebnis-afd-cdu-direktmandat-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T06:15:10+00:00"
-    },
-    {
-      "titel": "Projekt von Kaja Kallas: EU streicht Gründung von Verteidigungsexpertengruppe",
-      "link": "https://www.spiegel.de/ausland/projekt-von-kaja-kallas-eu-streicht-gruendung-von-verteidigungsexpertengruppe-a-f49e54e2-5de2-452d-b6d5-f6635384d3fa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T06:04:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Wagenknecht deutet erneut mögliche AfD-Unterstützung an",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T05:43:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX muss sich auf hohem Niveau behaupten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
+      "titel": "Merz zu Wahl in Sachsen-Anhalt: \"Aufgeben ist für mich keine Option\"",
+      "link": "https://www.tagesschau.de/inland/merz-wahl-sachsen-anhalt-104.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T05:27:03+00:00"
+      "veroeffentlicht": "2026-09-07T12:56:33+00:00"
     },
     {
-      "titel": "Druck aus den USA: Benjamin Netanyahu ordnet offenbar Räumung einiger Siedler-Außenposten im Westjordanland an",
-      "link": "https://www.spiegel.de/ausland/druck-aus-den-usa-benjamin-netanyahu-ordnet-offenbar-raeumung-einiger-siedler-aussenposten-im-westjordanland-an-a-793ee0b4-0150-4697-8884-c775a2b81dfb#ref=rss",
+      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Auftritt von Friedrich Merz in der Blitzanalyse",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-auftritt-von-friedrich-merz-in-der-blitzanalyse-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T05:19:00+00:00"
+      "veroeffentlicht": "2026-09-07T12:55:00+00:00"
     },
     {
-      "titel": "Gefängnisse in Nordrhein-Westfalen testen Internetzugang für Häftlinge",
-      "link": "https://www.spiegel.de/panorama/justiz/gefaengnisse-in-nordrhein-westfalen-testen-internetzugang-fuer-haeftlinge-a-303efbb0-30a4-4c86-95f2-36cb7cac636e#ref=rss",
+      "titel": "Faktenfinder: Fakes zu angeblichem Wahlbetrug in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/faktenfinder/wahl-sachsen-anhalt-174.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T12:40:16+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: \"Das BSW ist in einer unglaublich starken Position\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-sachsen-anhalt-wahl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T12:39:41+00:00"
+    },
+    {
+      "titel": "Treffen in Monaco: Rückversicherer warnen vor Naturkatastrophen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-monte-carlo-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T12:35:17+00:00"
+    },
+    {
+      "titel": "Dobrindt-Ministerium bedauert »Identitätsdiebstähle« und zieht Konsequenzen",
+      "link": "https://www.spiegel.de/panorama/justiz/dobrindt-ministerium-bedauert-identitaetsdiebstaehle-und-zieht-konsequenzen-a-0ec1aa93-7d6a-490d-b09f-3045686cb0e5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T05:15:00+00:00"
+      "veroeffentlicht": "2026-09-07T12:34:00+00:00"
     },
     {
-      "titel": "Fachkräftemangel in Deutschland: IW prognostiziert deutliche Verschärfung bis 2029",
-      "link": "https://www.spiegel.de/wirtschaft/fachkraeftemangel-in-deutschland-iw-prognostiziert-deutliche-verschaerfung-bis-2029-a-9696fb4f-3d16-4e83-8fdb-9a3783b91268#ref=rss",
+      "titel": "Himalaya: Gelber Schnee am Everest",
+      "link": "https://www.sueddeutsche.de/panorama/mount-everest-urin-studie-gletscher-schmelzen-li.3533662",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T12:30:13+00:00"
+    },
+    {
+      "titel": "VW-Werk Osnabrück soll Rüstungsstandort werden",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ruestung-osnabrueck-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T12:29:56+00:00"
+    },
+    {
+      "titel": "Deutschland: Der Sturz des Bundeskanzlers wäre der ultimative Triumph der AfD",
+      "link": "https://www.sueddeutsche.de/meinung/friedrich-merz-afd-wahlerfolg-sachsen-anhalt-kommentar-li.3543286",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T12:28:56+00:00"
+    },
+    {
+      "titel": "AfD-Sieg in Sachsen-Anhalt: Wird das BSW zum Königsmacher?",
+      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-landtag-bsw-afd-wahl-li.3543428",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T12:24:21+00:00"
+    },
+    {
+      "titel": "Kelly Osbourne brauchte ein Foto, um herauszufinden, wie dünn sie war",
+      "link": "https://www.spiegel.de/panorama/leute/kelly-osbourne-brauchte-ein-foto-um-herauszufinden-wie-duenn-sie-war-a-dbbaad9d-e8f4-4eca-98fa-70f344901928#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T05:01:00+00:00"
+      "veroeffentlicht": "2026-09-07T12:23:00+00:00"
     },
     {
-      "titel": "Landtagswahl in Sachsen-Anhalt: Wie die AfD die Wahl gewann - der Grafik-Überblick",
-      "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-wie-die-afd-die-wahl-gewann-der-grafik-ueberblick-a-bc49a0e2-7c15-4f3a-b885-4b4e12164f93#ref=rss",
+      "titel": "2,23-Meter-Basketballerin Zhang Ziyu: Sie will doch nur Kühlschrankmagneten",
+      "link": "https://www.sueddeutsche.de/sport/zhang-ziyu-basketballerin-wm-2-23-li.3543289",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T12:18:34+00:00"
+    },
+    {
+      "titel": "Dokumentarfilm: „Als sei das Erinnern schon Vergangenheit“",
+      "link": "https://www.sueddeutsche.de/kultur/albrecht-weinberg-holocaust-charlotte-knobloch-dokumentarfilm-li.3543420",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T12:17:48+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T04:54:00+00:00"
+      "veroeffentlicht": "2026-09-07T12:13:00+00:00"
     },
     {
-      "titel": "Sachsen-Anhalt: Arbeitgeber warnen nach Wahl vor »Klima der Abschottung«",
-      "link": "https://www.spiegel.de/wirtschaft/sachsen-anhalt-arbeitgeber-warnen-nach-wahl-vor-klima-der-abschottung-a-50ac8f06-5885-4413-a0e1-9e660e84e9ce#ref=rss",
+      "titel": "Xavier Naidoo: Landgericht Mannheim eröffnet Verfahren wegen Volksverhetzung",
+      "link": "https://www.spiegel.de/panorama/justiz/xavier-naidoo-landgericht-mannheim-eroeffnet-verfahren-wegen-volksverhetzung-a-5fc326c6-19d0-43b0-a3bc-98e29eb9ac6f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T04:47:00+00:00"
+      "veroeffentlicht": "2026-09-07T12:11:00+00:00"
     },
     {
-      "titel": "Sofie Royer: Schon wieder ein starkes Popalbum – warum bleibt der Durchbruch aus?",
-      "link": "https://www.spiegel.de/kultur/musik/sofie-royer-schon-wieder-ein-starkes-popalbum-warum-bleibt-der-durchbruch-aus-a-c3cdb328-b0c2-4a96-bd2f-35dca67a5dbe#ref=rss",
+      "titel": "Deutsche Bank erzielt Vergleich mit Ex-Manager",
+      "link": "https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-vergleich-mit-ex-manager-a-96edcf98-a23f-4105-a36a-4aeaf608a727#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T03:54:00+00:00"
+      "veroeffentlicht": "2026-09-07T12:04:00+00:00"
     },
     {
-      "titel": "Wahl in Sachsen-Anhalt: So blickt das Ausland auf das Ergebnis in Magdeburg",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-reaktionen-ausland-elon-musk-fpoe-restoration-uk-li.3543150",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T03:41:37+00:00"
+      "titel": "Explosion in Umspannwerk: Berliner Polizei geht von Kurzschluss aus",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-feuerwehr-loescht-brand-an-umspannwerk-in-berlin-tiergarten-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T11:58:03+00:00"
     },
     {
-      "titel": "Meetings im Job-Alltag: Welche zehn Denkfehler effiziente Treffen verhindern",
-      "link": "https://www.spiegel.de/karriere/meetings-im-job-alltag-welche-zehn-denkfehler-effiziente-treffen-verhindern-a-d15a7630-90e0-48e3-a062-bbe6b51055de#ref=rss",
+      "titel": "CDU-Präsidium: Wiebke Winter warnt vor einem »Weiter so«",
+      "link": "https://www.spiegel.de/politik/deutschland/cdu-praesidium-wiebke-winter-warnt-vor-einem-weiter-so-a-0baac9ca-aaec-4ed0-985c-bd7f3357b3b6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T03:30:00+00:00"
+      "veroeffentlicht": "2026-09-07T11:55:00+00:00"
     },
     {
-      "titel": "Gegenseitige Angriffe: Schiffsverkehr in Straße von Hormus eingebrochen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-strasse-von-hormus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T03:27:09+00:00"
-    },
-    {
-      "titel": "Nach der Wahl: Wie geht es weiter?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T02:55:15+00:00"
-    },
-    {
-      "titel": "Nachtkritik: Die Union hadert, duldet und will kämpfen",
-      "link": "https://www.sueddeutsche.de/medien/cdu-union-csu-afd-thorsten-frei-thomas-de-maiziere-tv-kritik-li.3543341",
+      "titel": "Arthur Ashe Stadium der US Open: Eine Tennisarena auf Steroiden",
+      "link": "https://www.sueddeutsche.de/sport/arthur-ashe-stadium-new-york-us-open-tennis-zverev-li.3543232",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T02:45:16+00:00"
+      "veroeffentlicht": "2026-09-07T11:53:05+00:00"
     },
     {
-      "titel": "CDU: Nach der Niederlage: Der Kanzlerpartei droht jede Menge Ärger",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-cdu-afd-merz-li.3541792",
+      "titel": "Jaguar Land Rover will 4000 Stellen abbauen",
+      "link": "https://www.spiegel.de/wirtschaft/jaguar-land-rover-will-4000-stellen-abbauen-a-bee95fea-6b94-45dc-8582-957f8909a4b9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T11:49:00+00:00"
+    },
+    {
+      "titel": "James Bond: Laut Gary Oldman ist die Wahl getroffen - Jack Lowden",
+      "link": "https://www.spiegel.de/kultur/kino/james-bond-laut-gary-oldman-ist-die-wahl-getroffen-jack-lowden-a-7ea470cc-b0a2-47cd-acbd-83f39d00ccec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T11:48:00+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Nach Wahl-Debakel der CDU: Merz spricht von „schwerster Niederlage seit Jahrzehnten“",
+      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-hochrechnung-ergebnis-afd-merz-cdu-li.3540501",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T02:24:50+00:00"
+      "veroeffentlicht": "2026-09-07T11:43:50+00:00"
     },
     {
-      "titel": "Ulrich Siegmund: Und jetzt regieren, aber wie?",
-      "link": "https://www.sueddeutsche.de/politik/afd-ulrich-siegmund-mehrheit-sachsen-anhalt-bsw-cdu-li.3542724",
+      "titel": "Marine Le Pen und Jordan Bardella: Psychodrama bei der extremen Rechten Frankreichs",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-le-pen-bardella-konflikt-rechtsradikal-li.3543417",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T02:00:51+00:00"
+      "veroeffentlicht": "2026-09-07T11:09:58+00:00"
     },
     {
-      "titel": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
+      "titel": "Wahl in Sachsen-Anhalt: Siegmund will stabile Mehrheit suchen",
+      "link": "https://www.tagesschau.de/inland/afd-siegmund-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T01:14:02+00:00"
+      "veroeffentlicht": "2026-09-07T10:29:03+00:00"
     },
     {
-      "titel": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T01:13:15+00:00"
-    },
-    {
-      "titel": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T01:13:08+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: „Jetzt sind viele draußen und trinken ein Bier“",
-      "link": "https://www.sueddeutsche.de/medien/ulrich-siegmund-sven-schulze-wahlabend-im-mdr-fernsehen-mit-afd-sachsen-anhalt-li.3542244",
+      "titel": "Formel 1: Die Ferraristi adoptieren Kimi Antonelli",
+      "link": "https://www.sueddeutsche.de/sport/formel-1-monza-antonelli-ferrari-fans-hamilton-russell-li.3543276",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T00:42:21+00:00"
+      "veroeffentlicht": "2026-09-07T10:07:40+00:00"
     },
     {
-      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Stiftung Gedenkstätten warnt vor Folgen von AfD-Regierung ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+      "titel": "Meteorologen warnen vor Gesundheitsschäden durch Großfeuer",
+      "link": "https://www.tagesschau.de/wissen/klima/luftqualitaet-braende-feinstaub-wmo-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T00:38:20+00:00"
-    },
-    {
-      "titel": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
-      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T22:39:26+00:00"
-    },
-    {
-      "titel": "Saisonstart unter Coach Polanski: Zweifel schon nach zwei Spieltagen",
-      "link": "https://www.sueddeutsche.de/sport/borussia-moenchengladbach-kommentar-kleindienst-polanski-li.3543017",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T21:40:05+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Sachsen-Anhalt: Das BSW flirtet mit der AfD",
-      "link": "https://www.sueddeutsche.de/politik/linke-bsw-sachsen-anhalt-wahlergebnisse-regierungsoptionen-li.3541827",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T21:12:00+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: Augsburg ist Tabellenführer",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-augsburg-frankfurt-tabellenfuehrer-baum-huetter-li.3543292",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-06T19:35:51+00:00"
+      "veroeffentlicht": "2026-09-07T09:56:13+00:00"
     }
   ]
 }
