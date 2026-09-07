@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-06T23:16:15+00:00",
+  "aktualisiert": "2026-09-07T01:18:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,52 @@
   },
   "meldungen": [
     {
-      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Frei sieht keine Gefahr von Überläufern zur AfD ++",
+      "titel": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T01:14:02+00:00"
+    },
+    {
+      "titel": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T01:13:15+00:00"
+    },
+    {
+      "titel": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T01:13:08+00:00"
+    },
+    {
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Elon Musk gratuliert AfD zum Wahlsieg ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T01:11:59+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Alle Stimmen ausgezählt – AfD gewinnt deutlich vor CDU",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-ein-sieg-aber-was-kann-die-afd-daraus-machen-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T01:09:00+00:00"
+    },
+    {
+      "titel": "BSW: Wie Sahra Wagenknecht in Sachsen-Anhalt plötzlich wieder zum Machtfaktor wird",
+      "link": "https://www.spiegel.de/politik/deutschland/bsw-wie-sahra-wagenknecht-in-sachsen-anhalt-ploetzlich-wieder-zum-machtfaktor-wird-a-ad6379ac-fbf1-41c6-9567-55847b179bd7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T00:55:00+00:00"
+    },
+    {
+      "titel": "++ Liveticker zur Sachsen-Anhalt-Wahl: Stiftung Gedenkstätten warnt vor Folgen von AfD-Regierung ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T23:03:12+00:00"
+      "veroeffentlicht": "2026-09-07T00:38:20+00:00"
+    },
+    {
+      "titel": "Ohio: Demokratische US-Gouverneurskandidatin Amy Acton auf Volksfest angegriffen",
+      "link": "https://www.spiegel.de/ausland/ohio-demokratische-us-gouverneurskandidatin-amy-acton-auf-volksfest-angegriffen-a-59059233-1552-424d-b3c3-148608d90fbc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T00:19:00+00:00"
     },
     {
       "titel": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
@@ -25,22 +67,10 @@
       "veroeffentlicht": "2026-09-06T22:02:00+00:00"
     },
     {
-      "titel": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T21:53:59+00:00"
-    },
-    {
       "titel": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
       "link": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-06T21:52:36+00:00"
-    },
-    {
-      "titel": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T21:42:58+00:00"
     },
     {
       "titel": "Saisonstart unter Coach Polanski: Zweifel schon nach zwei Spieltagen",
@@ -85,40 +115,10 @@
       "veroeffentlicht": "2026-09-06T20:44:00+00:00"
     },
     {
-      "titel": "Warum der Kanzler wackelt - und weitere Lehren aus der Wahl in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-erkenntnisse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T20:43:45+00:00"
-    },
-    {
       "titel": "Landtagswahl Sachsen-Anhalt: Was das Ergebnis für Friedrich Merz und die CDU bedeutet",
       "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-was-das-ergebnis-fuer-friedrich-merz-und-die-cdu-bedeutet-a-af0e2b38-2335-46bd-acb2-6998b3793811#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-06T20:41:00+00:00"
-    },
-    {
-      "titel": "AfD wins in Saxony-Anhalt: Friedrich Merz Is the Wrong Leader for Germany – Opinion",
-      "link": "https://www.spiegel.de/politik/afd-wins-in-saxony-anhalt-friedrich-merz-is-the-wrong-leader-for-germany-opinion-a-47730d98-338c-4686-8f62-84c9c0767e60#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T20:32:00+00:00"
-    },
-    {
-      "titel": "Florida: Amazon-Frachtflugzeug rammt bei Landung mehrere Fahrzeuge – mindestens fünf Tote",
-      "link": "https://www.spiegel.de/ausland/florida-amazon-frachtflugzeug-rammt-bei-landung-mehrere-fahrzeuge-a-a514b51c-a01a-41eb-a362-9e49274433c8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T20:19:00+00:00"
-    },
-    {
-      "titel": "Wahlkarte zur Landtagswahl in Sachsen-Anhalt 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-sachsen-anhalt-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-06T20:17:52+00:00"
-    },
-    {
-      "titel": "Wahlsieg in Sachsen-Anhalt: AfD hofft auf das große Chaos",
-      "link": "https://www.spiegel.de/politik/wahlsieg-in-sachsen-anhalt-afd-hofft-auf-das-grosse-chaos-a-16316a3f-9dbf-4f43-a3ed-a0ab878504a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-06T20:15:00+00:00"
     },
     {
       "titel": "Wahl in Sachsen-Anhalt: AfD verdoppelt ihr Ergebnis, Chancen des BSW steigen",
