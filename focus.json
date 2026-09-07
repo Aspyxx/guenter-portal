@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-07T12:47:58+00:00",
+  "aktualisiert": "2026-09-07T17:57:44+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Frachtflugzeug",
-      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
+      "titel": "Polizei",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-feuerwehr-loescht-brand-an-umspannwerk-in-berlin-tiergarten-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Fakes zu angeblichem Wahlbetrug in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/faktenfinder/wahl-sachsen-anhalt-174.html",
+      "titel": "Regierungsparteien ringen um Strategie nach Landtagswahl",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-sachsen-anhalt-reaktionen-bund-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Berliner Polizei geht von Kurzschluss aus",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-feuerwehr-loescht-brand-an-umspannwerk-in-berlin-tiergarten-102.html",
+      "titel": "Verändert der AfD-Erfolg die deutsche EU-Politik?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
