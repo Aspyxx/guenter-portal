@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-07T18:15:32+00:00",
+  "aktualisiert": "2026-09-07T21:47:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,88 @@
   },
   "meldungen": [
     {
-      "titel": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Tausende bei Anti-AfD-Demo in Berlin ++",
+      "titel": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Sepp Müller will als CDU-Landeschef kandidieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T18:10:27+00:00"
+      "veroeffentlicht": "2026-09-07T21:16:35+00:00"
+    },
+    {
+      "titel": "Annemarie und Wayne Carpendale: TV-Paar verkündet Trennung nach 20 Jahren",
+      "link": "https://www.spiegel.de/panorama/leute/annemarie-und-wayne-carpendale-tv-paar-verkuendet-trennung-nach-20-jahren-a-008a3b3b-db0d-4b5b-aab7-d52c9ce84e00#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T20:49:00+00:00"
+    },
+    {
+      "titel": "Panamakanal: Erstmals übernimmt eine Frau die Leitung",
+      "link": "https://www.spiegel.de/ausland/panamakanal-erstmals-uebernimmt-eine-frau-die-leitung-a-3f77965b-c970-4e86-a283-57607566b4a4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T20:07:00+00:00"
+    },
+    {
+      "titel": "Meeresschutz: Warum viele Schutzgebiete Riffe nicht wirksam schützen",
+      "link": "https://www.spiegel.de/wissenschaft/meeresschutz-warum-viele-schutzgebiete-riffe-nicht-wirksam-schuetzen-a-072b377b-6b81-4e74-9042-b11373cd8d9e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T20:04:00+00:00"
+    },
+    {
+      "titel": "SV Elversberg – Vincent Wagner: Einspruch gegen Gelb-Rot-Platzverweis erfolglos",
+      "link": "https://www.spiegel.de/sport/fussball/sv-elversberg-vincent-wagner-einspruch-gegen-gelb-rot-platzverweis-erfolglos-a-38705679-8459-44b7-a057-dc18e443137b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T20:01:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: AKW Saporischschja hat wieder Strom",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-akw-saporischschja-strom-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T19:47:40+00:00"
+    },
+    {
+      "titel": "Cyberattacke in Berlin: Das ist das Ausmaß des Datenleaks in der Hauptstadt",
+      "link": "https://www.spiegel.de/panorama/cyberattacke-in-berlin-das-ist-das-ausmass-des-datenleaks-in-der-hauptstadt-a-4e953a20-cd77-4a7a-b284-5498d927aa78#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T19:29:00+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Müller will neuer CDU-Chef in Sachsen-Anhalt werden",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-mueller-landesvorstand-afd-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T19:22:24+00:00"
+    },
+    {
+      "titel": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-07T19:11:43+00:00"
+    },
+    {
+      "titel": "AfD-Sieg in Sachsen-Anhalt: So plant Ulrich Siegmund die Regierungsübernahme",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-plant-ulrich-siegmund-die-regierungsuebernahme-a-0872e7de-b1fe-49f5-b9c8-ae2a626b9048#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T19:01:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Wie AfD-Wähler in Halberstadt auf den Wahlsieg blicken",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wie-afd-waehler-in-halberstadt-auf-den-wahlsieg-blicken-a-2fed3bc8-c6b8-4098-9a91-f1426863b234#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Eiffelturm bleibt nach Proteststreik von Beschäftigten geschlossen",
+      "link": "https://www.spiegel.de/ausland/frankreich-eiffelturm-bleibt-nach-proteststreik-von-beschaeftigten-geschlossen-a-6f36af7f-b5ac-4b48-b1a0-c68fa184f366#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T18:54:00+00:00"
+    },
+    {
+      "titel": "Basketball-WM in Berlin: Deutschland besiegt Mali und steht in Zwischenrunde",
+      "link": "https://www.spiegel.de/sport/basketball/basketball-wm-in-berlin-deutschland-besiegt-mali-und-steht-in-zwischenrunde-a-4bb84a77-fb3d-4fa7-9176-44575100c2fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-07T18:30:00+00:00"
     },
     {
       "titel": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
       "link": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-07T17:48:48+00:00"
-    },
-    {
-      "titel": "Remscheid-Wuppertal: Polizeieinsatz wegen Sabotageaktionen",
-      "link": "https://www.spiegel.de/panorama/remscheid-wuppertal-polizeieinsatz-wegen-sabotageaktionen-a-dd9d0d00-f406-46f5-af35-b91e0fd4a2c0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T17:29:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Wie AfD-Wähler in Halberstadt auf den Wahlsieg blicken",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wie-afd-waehler-in-halberstadt-auf-den-wahlsieg-blicken-a-2fed3bc8-c6b8-4098-9a91-f1426863b234#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T16:49:00+00:00"
-    },
-    {
-      "titel": "Volkswagen-Werk Osnabrück: Israels »Iron Dome« soll Standort sichern",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-werk-osnabrueck-israels-iron-dome-soll-standort-sichern-a-16be952b-8b10-4851-a36e-4fada2c24a71#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T16:48:00+00:00"
-    },
-    {
-      "titel": "AfD-Sieg in Sachsen-Anhalt: So plant Ulrich Siegmund die Regierungsübernahme",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-plant-ulrich-siegmund-die-regierungsuebernahme-a-0872e7de-b1fe-49f5-b9c8-ae2a626b9048#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T16:47:00+00:00"
     },
     {
       "titel": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
@@ -55,34 +103,10 @@
       "veroeffentlicht": "2026-09-07T16:42:48+00:00"
     },
     {
-      "titel": "Friedrich Merz: Was die CDU-Pleite in Sachsen-Anhalt für ihn bedeutet",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-was-die-cdu-pleite-in-sachsen-anhalt-fuer-ihn-bedeutet-a-f3665b2c-2c2d-4936-88e9-e37921544a4d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T16:36:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX verteidigt runde Marke",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-07T16:26:45+00:00"
-    },
-    {
-      "titel": "Harry und Meghan sind zurück in Großbritannien. »Non-working royals« bleiben sie aber",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/harry-und-meghan-sind-zurueck-in-grossbritannien-non-working-royals-bleiben-sie-aber-a-dcb1b491-533f-4fde-ad2f-d5e073fec3a0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T16:23:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Friedrich Merz, Sachsen-Anhalt, Falkland-Inseln, Sachsen",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-sachsen-anhalt-falkland-inseln-sachsen-a-d08d893d-5296-4c15-9b8c-baf5ef3a562f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T16:09:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Sachsen-Anhalt: »Die CDU und Merz stecken in einem Dilemma«",
-      "link": "https://www.spiegel.de/politik/landtagswahl-in-sachsen-anhalt-die-cdu-und-merz-stecken-in-einem-dilemma-a-dce92bcc-eacf-467a-a9db-98780a107ad5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T16:07:00+00:00"
     },
     {
       "titel": "Proteste gegen Aufnahme von Migranten im südenglischen Portsmouth",
@@ -101,24 +125,6 @@
       "link": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-07T15:39:40+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Nach Wahl-Debakel der CDU: Merz spricht von „schwerster Niederlage seit Jahrzehnten“",
-      "link": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-merz-statement-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T15:28:19+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Wie das BSW Putins Interessen stärkt",
-      "link": "https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-wie-das-bsw-putins-interessen-staerkt-a-c1f17ffb-2b03-4bb4-8363-05a7519d03ed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T15:21:00+00:00"
-    },
-    {
-      "titel": "Regierungsparteien ringen um Strategie nach Landtagswahl",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-sachsen-anhalt-reaktionen-bund-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T14:57:34+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Moskau schließt Goethe-Institute und deutsches Konsulat in Sankt Petersburg",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/merz-afd-regierung-sachsen-anhalt-grundgesetz-li.3543425",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-07T13:02:58+00:00"
-    },
-    {
-      "titel": "Stilkritik: Wahlabend: Wie kann sie nur!",
-      "link": "https://www.sueddeutsche.de/panorama/angela-merkel-sachsen-anhalt-afd-wahlabend-friedrich-merz-li.3543488",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T12:55:35+00:00"
     }
   ]
 }
