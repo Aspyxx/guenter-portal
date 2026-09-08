@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-08T00:26:14+00:00",
+  "aktualisiert": "2026-09-08T05:18:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,106 @@
   },
   "meldungen": [
     {
-      "titel": "Ecuadors Polizei stellt zwei Tonnen Kokain sicher",
-      "link": "https://www.spiegel.de/panorama/ecuadors-polizei-stellt-zwei-tonnen-kokain-sicher-a-f1c0307b-a2aa-40c9-a5d9-f58febfcc400#ref=rss",
+      "titel": "Alice Cooper glaubt nicht, dass er das Publikum heute noch schocken kann",
+      "link": "https://www.spiegel.de/panorama/leute/alice-cooper-glaubt-nicht-dass-er-das-publikum-heute-noch-schocken-kann-a-d7d2a37e-6a4e-4d61-a373-a9a45c571f8e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T00:20:00+00:00"
+      "veroeffentlicht": "2026-09-08T05:16:00+00:00"
     },
     {
-      "titel": "Sachsen-Anhalt live – News zur Landtagswahl: Markus Söder spricht von »größter Denkzettelwahl«",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-friedrich-merz-watscht-sepp-mueller-ab-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T23:15:00+00:00"
+      "titel": "Marktbericht: Hohe Ölpreise haben Aktienmarkt im Griff",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T05:13:05+00:00"
     },
     {
-      "titel": "Donald-Trump-Karte zeigt Kanada, Mexiko und Grönland als Teil der USA",
-      "link": "https://www.spiegel.de/ausland/donald-trump-karte-zeigt-kanada-mexiko-und-groenland-als-teil-der-usa-a-350199fd-7ebc-4eda-8dc5-3fc976e83d42#ref=rss",
+      "titel": "Jemen: Dutzende Verletzte nach Huthi-Angriffen auf Saudi-Arabien – Riad kündigt Reaktion an",
+      "link": "https://www.spiegel.de/ausland/jemen-dutzende-verletzte-nach-huthi-angriffen-auf-saudi-arabien-riad-kuendigt-reaktion-an-a-39644be1-5682-48b3-8d92-edac6e36a095#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T23:15:00+00:00"
+      "veroeffentlicht": "2026-09-08T05:08:00+00:00"
     },
     {
-      "titel": "Ukraine-Russland-Krieg: AKW Saporischschja hat wieder Strom",
-      "link": "https://www.spiegel.de/ausland/ukraine-russland-krieg-akw-saporischschja-hat-wieder-strom-a-6f610f56-5fd5-463a-8906-d57c6503a38b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T22:30:00+00:00"
+      "titel": "Wie viel Geld der Bund 2027 ausgeben will - und wofür",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-ausgaben-schulden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T04:47:50+00:00"
     },
     {
-      "titel": "CDU Sachsen-Anhalt: Kann Merz über den Machtkampf von Magdeburg stürzen?",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-kann-merz-ueber-den-machtkampf-von-magdeburg-stuerzen-a-388bf39e-cc36-437d-8f82-71e5efe7c5cc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T22:07:00+00:00"
+      "titel": "Newsblog zum Ukraine-Krieg: Nach Gesprächen mit US-Gesandten: Kiew meldet neue russische Angriffe",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-raketen-drohnen-russland-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T04:43:03+00:00"
     },
     {
-      "titel": "Ukraine: Generalstaatsanwalt Ruslan Krawtschenko kündigt Rücktritt an",
-      "link": "https://www.spiegel.de/ausland/ukraine-generalstaatsanwalt-ruslan-krawtschenko-kuendigt-ruecktritt-an-a-1be1311d-f5f9-4ece-ad12-f7a52761a9f6#ref=rss",
+      "titel": "Gasspeicher in Deutschland: Maximal 77 Prozent Füllstand vor dem Winter",
+      "link": "https://www.spiegel.de/wirtschaft/gasspeicher-in-deutschland-maximal-77-prozent-fuellstand-vor-dem-winter-a-874ac9a2-a27b-417b-8134-64f458c30cff#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T22:07:00+00:00"
+      "veroeffentlicht": "2026-09-08T04:24:00+00:00"
+    },
+    {
+      "titel": "60 Jahre \"Star Trek\" als Spiegel der Gesellschaft",
+      "link": "https://www.tagesschau.de/kultur/60-jahre-star-trek-was-enterprise-ueber-politik-verraet-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T04:16:34+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Kanada will ab Dienstag Gegenzölle auf US-Importe erheben",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kanada-zollstreit-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T04:05:16+00:00"
+    },
+    {
+      "titel": "Flugzeugunglück im Miami: Fünf Tote und viele Fragen zur Flugsicherheit in den USA",
+      "link": "https://www.spiegel.de/wissenschaft/flugzeugunglueck-im-miami-fuenf-tote-und-viele-fragen-zur-flugsicherheit-in-den-usa-a-7f971ff1-9b7c-4bf0-ad4f-bcc4611039dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T03:59:00+00:00"
+    },
+    {
+      "titel": "Wie schädlich ist Grillen mit Holzkohle? Worauf Sie achten sollten",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/wie-gesundheitsschaedlich-ist-grillen-mit-holzkohle-worauf-sie-achten-sollten-a-81c1be53-2728-4e53-a950-52176b0f240f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T03:42:00+00:00"
+    },
+    {
+      "titel": "Rachel Cusk und Natalie Portman: Wann darf man über reale Personen schreiben?",
+      "link": "https://www.spiegel.de/kultur/tv/rachel-cusk-und-natalie-portman-wann-darf-man-ueber-reale-personen-schreiben-a-ba50f36d-9178-43b6-9adf-4a62ffe7f570#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T03:34:00+00:00"
+    },
+    {
+      "titel": "Fitness: Wenn der Traumkörper Männer krank macht",
+      "link": "https://www.spiegel.de/fitness/fitness-wenn-der-traumkoerper-maenner-krank-macht-a-89699bb2-576d-4dee-80d0-2cb7627204a4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T03:30:00+00:00"
+    },
+    {
+      "titel": "Rückenschmerz: Bandscheibenvorfälle heilen erstaunlich oft von ganz allein ab",
+      "link": "https://www.spiegel.de/fitness/rueckenschmerz-bandscheibenvorfaelle-heilen-erstaunlich-oft-von-ganz-allein-ab-a-2fa6f5ee-9e63-445d-b004-f16668589040#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T03:30:00+00:00"
+    },
+    {
+      "titel": "News: Friedrich Merz, Wladimir-Putin-Unterstützer in Deutschland, Pisa-Studie",
+      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wladimir-putin-unterstuetzer-in-deutschland-pisa-studie-a-c75c98ce-4174-4ca4-8aac-1ff0b4371ebc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T03:25:00+00:00"
+    },
+    {
+      "titel": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T03:09:42+00:00"
+    },
+    {
+      "titel": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T02:20:08+00:00"
+    },
+    {
+      "titel": "TV-Kritik: „Ein perfektes Match“",
+      "link": "https://www.sueddeutsche.de/medien/wagenknecht-bsw-afd-wahlen-sachsen-anhalt-markus-lanz-zdf-chrupalla-li.3544008",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T00:51:44+00:00"
     },
     {
       "titel": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Sepp Müller will als CDU-Landeschef kandidieren ++",
@@ -49,31 +115,13 @@
       "veroeffentlicht": "2026-09-07T21:16:35+00:00"
     },
     {
-      "titel": "Annemarie und Wayne Carpendale: TV-Paar verkündet Trennung nach 20 Jahren",
-      "link": "https://www.spiegel.de/panorama/leute/annemarie-und-wayne-carpendale-tv-paar-verkuendet-trennung-nach-20-jahren-a-008a3b3b-db0d-4b5b-aab7-d52c9ce84e00#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T20:49:00+00:00"
-    },
-    {
-      "titel": "Panamakanal: Erstmals übernimmt eine Frau die Leitung",
-      "link": "https://www.spiegel.de/ausland/panamakanal-erstmals-uebernimmt-eine-frau-die-leitung-a-3f77965b-c970-4e86-a283-57607566b4a4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T20:07:00+00:00"
-    },
-    {
-      "titel": "Meeresschutz: Warum viele Schutzgebiete Riffe nicht wirksam schützen",
-      "link": "https://www.spiegel.de/wissenschaft/meeresschutz-warum-viele-schutzgebiete-riffe-nicht-wirksam-schuetzen-a-072b377b-6b81-4e74-9042-b11373cd8d9e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-07T20:04:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: AKW Saporischschja hat wieder Strom",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-akw-saporischschja-strom-li.3524928",
+      "titel": "Nach der Landtagswahl: Wie könnte Ulrich Siegmund jetzt an die Macht kommen?",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-afd-siegmund-li.3543941",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T19:47:40+00:00"
+      "veroeffentlicht": "2026-09-07T20:50:49+00:00"
     },
     {
-      "titel": "Wahl in Sachsen-Anhalt: Müller will neuer CDU-Chef in Sachsen-Anhalt werden",
+      "titel": "Wahl in Sachsen-Anhalt: Machtkampf in der CDU: Müller will neuer Landeschef in Sachsen-Anhalt werden",
       "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-mueller-landesvorstand-afd-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-07T19:22:24+00:00"
@@ -97,40 +145,16 @@
       "veroeffentlicht": "2026-09-07T16:43:02+00:00"
     },
     {
-      "titel": "AfD-Wahlerfolg: Polen fürchtet Instabilität und Geschichtsrelativierung",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-afd-wahlsieg-reaktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T16:42:48+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX verteidigt runde Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T16:26:45+00:00"
-    },
-    {
-      "titel": "Proteste gegen Aufnahme von Migranten im südenglischen Portsmouth",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-portsmouth-ausschreitungen-gegen-migranten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T15:49:32+00:00"
-    },
-    {
-      "titel": "Russland schließt deutsches Konsulat in St. Petersburg",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-schliessung-konsulat-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T15:49:18+00:00"
-    },
-    {
-      "titel": "Strafverfahren gegen Sänger Xavier Naidoo eröffnet",
-      "link": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T15:39:40+00:00"
-    },
-    {
       "titel": "Newsblog zur Bundespolitik: Moskau schließt Goethe-Institute und deutsches Konsulat in Sankt Petersburg",
       "link": "https://www.sueddeutsche.de/politik/bundespolitik-goethe-institute-russland-schliessung-sanktionen-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-07T14:47:49+00:00"
+    },
+    {
+      "titel": "„Gewalt als Dienstleistung“: Erst als er im Auto sitzt, erfährt er, dass er eine Bombe werfen soll",
+      "link": "https://www.sueddeutsche.de/panorama/jugendgewalt-violence-as-a-service-kriminelle-rekrutieren-jugendliche-li.3530362",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-07T13:35:05+00:00"
     },
     {
       "titel": "CDU: Merz: „Aufgeben ist für mich keine Option“",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/bushido-jochen-schweizer-streit-bushaltestelle-gruenwald-li.3543442",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-07T13:18:28+00:00"
-    },
-    {
-      "titel": "Koalition: Die SPD rückt vom Kanzler ab",
-      "link": "https://www.sueddeutsche.de/politik/spd-merz-bundeskanzler-wahl-sachsen-anhalt-li.3543441",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T13:16:06+00:00"
-    },
-    {
-      "titel": "Deutschland: Wo bleibt die German Angst, wenn man sie mal braucht?",
-      "link": "https://www.sueddeutsche.de/leben/deutschland-german-angst-afd-landtagswahl-sachsen-anhalt-ki-klimawandel-li.3533875",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T13:10:50+00:00"
-    },
-    {
-      "titel": "Der AfD-Triumph sollte allen eine Warnung sein: Die Sehnsucht nach einem besseren Gestern gibt es auch in Bayern",
-      "link": "https://www.sueddeutsche.de/bayern/afd-soeder-gillamoos-warnschuss-csu-li.3541584",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T13:05:12+00:00"
-    },
-    {
-      "titel": "Nach der Wahl in Sachsen-Anhalt: Merz warnt die AfD",
-      "link": "https://www.sueddeutsche.de/politik/merz-afd-regierung-sachsen-anhalt-grundgesetz-li.3543425",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T13:02:58+00:00"
     }
   ]
 }
