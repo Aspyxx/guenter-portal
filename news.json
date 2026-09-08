@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-08T14:34:01+00:00",
+  "aktualisiert": "2026-09-08T18:06:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,130 @@
   },
   "meldungen": [
     {
-      "titel": "Liveblog zu Sachsen-Anhalt: ++ BSW will auch mit AfD Gespräche führen ++",
+      "titel": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
       "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T14:29:33+00:00"
+      "veroeffentlicht": "2026-09-08T18:02:07+00:00"
     },
     {
-      "titel": "AfD: Wie Eltern mit Kindern über den Wahlsieg in Sachsen-Anhalt sprechen können",
-      "link": "https://www.spiegel.de/familie/afd-wie-eltern-mit-kindern-ueber-den-wahlsieg-in-sachsen-anhalt-sprechen-koennen-a-d750f3b2-ed22-4877-8b5e-cce5876bc134#ref=rss",
+      "titel": "Influencerin Sarah Khalifa: »Ich habe in meinem Leben nicht einmal Zigaretten geraucht« – jetzt droht ihr die Todesstrafe",
+      "link": "https://www.spiegel.de/ausland/influencerin-sarah-khalifa-ich-habe-in-meinem-leben-nicht-einmal-zigaretten-geraucht-jetzt-droht-ihr-die-todesstrafe-a-49b64bca-b650-41eb-839d-06a426da8c21#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T14:29:00+00:00"
+      "veroeffentlicht": "2026-09-08T17:54:00+00:00"
     },
     {
-      "titel": "Sachsen-Anhalt: Warum hat er AfD gewählt? Wegen des Gefühls, sagt er",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-warum-hat-er-afd-gewaehlt-wegen-des-gefuehls-sagt-er-a-36904c8a-4881-4aac-9922-5946c5e3a633#ref=rss",
+      "titel": "Maurizio Cattelan Ausstellung in der Neuen Nationalgalerie in Berlin: Hitler, das deutsche Fegefeuer und die unschlüssigen Tauben",
+      "link": "https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben-a-c85e4df5-bf30-4b51-a629-350518ab2223#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T14:25:00+00:00"
+      "veroeffentlicht": "2026-09-08T17:50:00+00:00"
     },
     {
-      "titel": "NRW-Ministerpräsident Wüst für AfD-Prüfung durch Bund-Länder-Gruppe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsrecht-wuest-100.html",
+      "titel": "Nach den Wahlen in Sachsen-Anhalt: Das Ende der inneren Sicherheit",
+      "link": "https://www.spiegel.de/kultur/nach-den-wahlen-in-sachsen-anhalt-das-ende-der-inneren-sicherheit-a-3dd78495-e71d-45c3-b489-aebd4049605b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T17:43:00+00:00"
+    },
+    {
+      "titel": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
+      "link": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T14:18:52+00:00"
+      "veroeffentlicht": "2026-09-08T16:58:03+00:00"
+    },
+    {
+      "titel": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T16:53:32+00:00"
+    },
+    {
+      "titel": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
+      "link": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T16:47:44+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Viele AfD-Maßnahmen zur Migration wären rechtlich unzulässig",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-migration-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T16:44:06+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX schafft eine Punktlandung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T16:37:27+00:00"
+    },
+    {
+      "titel": "Sexualisiertes Fehlverhalten: Fast 2000 Verdachtsfälle bei der Bundeswehr",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/verdachtsfaelle-sexualisiertes-fehlverhalten-bundeswehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T16:20:31+00:00"
+    },
+    {
+      "titel": "Russland und der Ukraine-Krieg: Wladimir Putin telefoniert mit Donald Trump",
+      "link": "https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T16:20:00+00:00"
+    },
+    {
+      "titel": "Niederlande: Matrose filmt Kameradin unerlaubt beim Sex im Maschinenraum",
+      "link": "https://www.spiegel.de/panorama/niederlande-matrose-filmt-kameradin-unerlaubt-beim-sex-im-maschinenraum-a-ad6e9d49-b78a-493b-a86a-a9ccb3b432ee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T16:09:00+00:00"
+    },
+    {
+      "titel": "News des Tages: Pisa-Schock, AfD-Wähler, sexualisiertes Fehlverhalten bei der Bundeswehr",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T16:05:00+00:00"
+    },
+    {
+      "titel": "»Professor Moltschanow«: Norwegen fliegt Passagiere von beschlagnahmtem Schiff zurück nach Russland",
+      "link": "https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T15:59:00+00:00"
+    },
+    {
+      "titel": "Zahl der Opfer durch Streubomben laut Hilfsorganisationen verdreifacht",
+      "link": "https://www.tagesschau.de/ausland/europa/streubomben-monitor-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T15:50:54+00:00"
+    },
+    {
+      "titel": "Ballon d'Or: Das sind die Kandidaten für die Weltfußballerwahl",
+      "link": "https://www.spiegel.de/sport/fussball/ballon-dor-das-sind-die-kandidaten-fuer-die-weltfussballerwahl-a-e3dacdad-5f1d-429d-adc0-0088638bdc0b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T15:25:00+00:00"
+    },
+    {
+      "titel": "PISA-Ergebnisse entfachen neue Bildungsdebatte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pisa-reaktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T15:24:49+00:00"
+    },
+    {
+      "titel": "Nepal: Gletscher war vor Bergsturz außergewöhnlich warm",
+      "link": "https://www.spiegel.de/wissenschaft/nepal-gletscher-war-vor-bergsturz-aussergewoehnlich-warm-a-227add56-ae2d-4cc0-8b23-2c15bc67f169#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T15:21:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Pistorius kündigt umfangreiche Waffenlieferungen an",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-raketen-pistorius-patriot-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T15:14:44+00:00"
+    },
+    {
+      "titel": "Neurowissenschaft: Wie sich das Frauengehirn im Laufe des Lebens verändert",
+      "link": "https://www.sueddeutsche.de/gesundheit/gehirnveraenderungen-frauen-pubertaet-schwangerschaft-wechseljahre-li.3542003",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T15:01:00+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: CDU-Fraktion wählt Ministerpräsident Schulze in Kampfabstimmung zum Vorsitzenden",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-schulze-vorsitz-fraktion-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T14:54:00+00:00"
     },
     {
       "titel": "Filmfestspiele Venedig: Wehe, wenn er abhebt",
@@ -37,76 +139,16 @@
       "veroeffentlicht": "2026-09-08T14:08:03+00:00"
     },
     {
-      "titel": "Wachsende Verschuldung: Dem Staat drohen gewaltige Zinskosten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/staatsverschuldung-zinskosten-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T13:53:46+00:00"
-    },
-    {
-      "titel": "Rauchen senkt laut WHO Chance auf Schwangerschaft deutlich",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/who-rauchen-schwangerschaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T13:46:02+00:00"
-    },
-    {
-      "titel": "Ceuta: Stadtpräsident Juan Jesús Vivas bittet EU um Hilfe im Umgang mit Migration",
-      "link": "https://www.spiegel.de/ausland/ceuta-stadtpraesident-juan-jesus-vivas-bittet-eu-um-hilfe-im-umgang-mit-migration-a-6d5ae63a-6886-4619-b7f7-3be7d2431851#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T13:46:00+00:00"
-    },
-    {
-      "titel": "Streubomben: Zahl der Opfer laut Bericht drastisch gestiegen",
-      "link": "https://www.spiegel.de/ausland/streubomben-zahl-der-opfer-laut-bericht-drastisch-gestiegen-a-4ffbf44e-ab43-4489-b1c7-6faacf88f7f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T13:45:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Entlaufene Katze nach fast einem Monat an Autobahnraststätte wiedergefunden",
-      "link": "https://www.spiegel.de/panorama/frankreich-entlaufene-katze-nach-fast-einem-monat-an-autobahnraststaette-wiedergefunden-a-5ce1a42e-b90e-44e0-8dc7-34efd79b4e08#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T13:42:00+00:00"
-    },
-    {
-      "titel": "Berliner Hackerangriff: Was sollte ich tun, wenn meine Daten geleakt werden?",
-      "link": "https://www.spiegel.de/netzwelt/web/berliner-hackerangriff-was-sollte-ich-tun-wenn-meine-daten-geleakt-werden-a-a651c194-821d-451c-a69d-145051d0e1e9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T13:35:00+00:00"
-    },
-    {
-      "titel": "Ebola in der Demokratischen Republik Kongo: WHO warnt vor zu wenigen Betten für Patienten",
-      "link": "https://www.spiegel.de/wissenschaft/ebola-in-der-demokratischen-republik-kongo-who-warnt-vor-zu-wenigen-betten-fuer-patienten-a-446f0244-3b93-48b9-8b50-4fb4bdd5384e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T13:34:00+00:00"
-    },
-    {
-      "titel": "Prinz George – Eton College: Sohn von William und Kate geht jetzt auf Elite-Internat",
-      "link": "https://www.spiegel.de/panorama/leute/prinz-george-eton-college-sohn-von-william-und-kate-geht-jetzt-auf-elite-internat-a-b3552d7d-4170-415e-bce9-f62285d47044#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T13:31:00+00:00"
-    },
-    {
-      "titel": "Klingbeil verteidigt Neuverschuldung in Etatdebatte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-140.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T13:26:40+00:00"
-    },
-    {
-      "titel": "Streik: In den Niederlanden müssen Bahnreisende am Mittwoch stark sein",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/streik-in-den-niederlanden-muessen-bahnreisende-am-mittwoch-stark-sein-a-456c5c5f-5666-4d95-8974-de24dfb52b32#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T13:24:00+00:00"
+      "titel": "Bewerbung für Olympia: Schwarz-Grün in Bayern – die Koalition für den Sport",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-muenchen-olympia-bewerbung-soeder-krause-gemeinsam-li.3544300",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T13:42:13+00:00"
     },
     {
       "titel": "Sachsen-Anhalt: Wenn die AfD regiert, entzaubert sie sich? Das ist eine düstere Wette",
       "link": "https://www.sueddeutsche.de/meinung/afd-sachsen-anhalt-regierung-kommentar-li.3544095",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-08T13:06:40+00:00"
-    },
-    {
-      "titel": "Einbruch in Museum in Südfrankreich: Renoir-Gemälde gestohlen",
-      "link": "https://www.tagesschau.de/ausland/europa/renoir-gemaelde-diebstahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T13:00:58+00:00"
     },
     {
       "titel": "Polizeieinsatz in München: Wie es zum Schuss der Polizei auf einen 14-Jährigen kam. Eine Rekonstruktion",
@@ -121,52 +163,10 @@
       "veroeffentlicht": "2026-09-08T12:53:40+00:00"
     },
     {
-      "titel": "IKEA setzt sich vor Gericht gegen rechtsextreme Partei durch",
-      "link": "https://www.tagesschau.de/ausland/europa/ikea-eugh-markenstreit-rechtsextreme-partei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T12:45:29+00:00"
-    },
-    {
-      "titel": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T12:32:44+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: BSW: AfD wird unsere Stimmen für Landtagspräsidenten erhalten",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-cdu-afd-bsw-stimmen-landtagspraesident-li.3540501",
+      "titel": "In den USA verurteilt: FBI sucht deutschen Millionen-Betrüger in München",
+      "link": "https://www.sueddeutsche.de/muenchen/fbi-muenchen-millionen-betrueger-bernhard-f-li.3543579",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T12:23:04+00:00"
-    },
-    {
-      "titel": "Kräftiges Auftragsplus: Deutschlands Elektroindustrie brummt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-elektroindustrie-ifo-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T12:16:08+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Der Mann mit den markigen Worten für eine gebeutelte CDU",
-      "link": "https://www.sueddeutsche.de/meinung/cdu-sachsen-anhalt-sepp-mueller-li.3544094",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T12:14:27+00:00"
-    },
-    {
-      "titel": "Anschläge: Sabotage am Stromnetz: Polizei nimmt Verdächtigen fest",
-      "link": "https://www.sueddeutsche.de/politik/sabotage-stromnetz-polizei-nimmt-verdaechtigen-fest-li.3544200",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T12:00:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Nach Gesprächen mit US-Gesandten: Kiew meldet neue russische Angriffe",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-raketen-drohnen-russland-kiew-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T10:48:16+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn: Bahnhof abzugeben – für 250 Millionen Euro",
-      "link": "https://www.sueddeutsche.de/wirtschaft/hauptbahnhof-rueckkauf-bahn-millionen-euro-li.3544235",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T10:30:59+00:00"
+      "veroeffentlicht": "2026-09-08T12:44:26+00:00"
     }
   ]
 }
