@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-08T06:03:22+00:00",
+  "aktualisiert": "2026-09-08T11:30:25+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "++ Verfassungsschützer nach AfD-Erfolg besorgt ++",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+      "titel": "BSW sieht wenig Gemeinsamkeiten mit der AfD",
+      "link": "https://www.tagesschau.de/inland/sachsen-anhalt-bsw-regierungsbildung-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Hohe Ölpreise haben Aktienmarkt im Griff",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
+      "titel": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
+      "link": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
+      "titel": "Ermittler bergen beide Flugschreiber",
+      "link": "https://www.tagesschau.de/ausland/amerika/miami-flugzeug-unfall-amazon-cargo-blackbox-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
