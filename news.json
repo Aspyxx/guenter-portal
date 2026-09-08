@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-08T05:18:36+00:00",
+  "aktualisiert": "2026-09-08T10:06:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,148 @@
   },
   "meldungen": [
     {
-      "titel": "Alice Cooper glaubt nicht, dass er das Publikum heute noch schocken kann",
-      "link": "https://www.spiegel.de/panorama/leute/alice-cooper-glaubt-nicht-dass-er-das-publikum-heute-noch-schocken-kann-a-d7d2a37e-6a4e-4d61-a373-a9a45c571f8e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T05:16:00+00:00"
+      "titel": "Liveblog zu Sachsen-Anhalt: ++ Rhein kritisiert Brandmauer-Begriff ++",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T10:00:33+00:00"
     },
     {
-      "titel": "Marktbericht: Hohe Ölpreise haben Aktienmarkt im Griff",
+      "titel": "EU-Rechnungshof: Defizite bei Bekämpfung von illegalem Tabakhandel",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/eu-rechnungshof-zigaretten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T10:00:07+00:00"
+    },
+    {
+      "titel": "Krieg Russlands gegen die Ukraine: London sagt Kyjiw 100 Millionen Pfund zu – Tote nach Angriffen in der Hauptstadt",
+      "link": "https://www.spiegel.de/ausland/krieg-russlands-gegen-die-ukraine-london-sagt-kyjiw-100-millionen-pfund-zu-tote-nach-angriffen-in-der-hauptstadt-a-e133a5c8-11f1-431e-8537-b3bc3f141a03#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T10:00:00+00:00"
+    },
+    {
+      "titel": "Konjunktur: Deutsche Exporte gehen zurück – Auftragsplus in Elektroindustrie",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-exporte-gehen-zurueck-auftragsplus-in-elektroindustrie-a-85c22dea-fcc9-4673-b107-83d990d3d0f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T09:50:00+00:00"
+    },
+    {
+      "titel": "Israel - Gaza: Mohammed bin Zayed (VAE) soll Benjamin Netanyahu vor Hamas-Attacke am 7. Oktober explizit gewarnt haben",
+      "link": "https://www.spiegel.de/ausland/israel-gaza-mohammed-bin-zayed-vae-soll-benjamin-netanyahu-vor-hamas-attacke-am-7-oktober-explizit-gewarnt-haben-a-601e7f3e-473b-47a1-b8ae-8efc2a69eea7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T09:44:00+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T09:42:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl Sachsen-Anhalt: BSW sieht wenig Gemeinsamkeiten mit der AfD",
+      "link": "https://www.tagesschau.de/inland/sachsen-anhalt-bsw-regierungsbildung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T09:37:08+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Linnemann und Bilger im Bundestag vereidigt",
+      "link": "https://www.sueddeutsche.de/politik/bundespolitik-amtseid-linnemann-bilger-bundestag-vereidigt-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T09:34:03+00:00"
+    },
+    {
+      "titel": "Bundesversammlung: Schwarz-rot hat bei Bundespräsidentenwahl klare Mehrheit",
+      "link": "https://www.spiegel.de/politik/deutschland/bundesversammlung-schwarz-rot-hat-bei-bundespraesidentenwahl-klare-mehrheit-a-280adb99-08f8-4ee2-8231-8d1b47e8491e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T09:31:00+00:00"
+    },
+    {
+      "titel": "Pisa-Studie: Bildung muss endlich Priorität haben",
+      "link": "https://www.sueddeutsche.de/meinung/pisa-studie-deutschland-bildungspolitik-ausreden-li.3543434",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T09:20:30+00:00"
+    },
+    {
+      "titel": "Bundeswehr: Rudolf Scharping warnt vor Verharmlosung von Bedrohungen",
+      "link": "https://www.spiegel.de/politik/deutschland/bundeswehr-rudolf-scharping-warnt-vor-verharmlosung-von-bedrohungen-a-9595ff46-c07a-422c-88eb-9a52696d6eb8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T08:58:00+00:00"
+    },
+    {
+      "titel": "Deutscher Buchpreis: Dana Vowinckel und Elias Hirschl auf der Shortlist 2026",
+      "link": "https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-dana-vowinckel-und-elias-hirschl-auf-der-shortlist-2026-a-1a253134-8ea7-458f-a9b7-b90746a86e4c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T08:55:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Diebe stehlen drei Renoir-Gemälde aus Museum",
+      "link": "https://www.spiegel.de/kultur/frankreich-diebe-stehlen-drei-renoir-gemaelde-aus-museum-a-33abfb51-a188-4edf-8989-39adeec0a0bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T08:52:00+00:00"
+    },
+    {
+      "titel": "Deutscher Buchpreis 2026: Diese sechs Romane sind nominiert",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/shortlist-deutscher-buchpreis-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T08:38:50+00:00"
+    },
+    {
+      "titel": "Amazon-Flugzeug in Miami: Ermittler bergen beide Flugschreiber",
+      "link": "https://www.tagesschau.de/ausland/amerika/miami-flugzeug-unfall-amazon-cargo-blackbox-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T08:25:27+00:00"
+    },
+    {
+      "titel": "FDP in Sachsen-Anhalt: Warum Wolfgang Kubicki plötzlich ins Grübeln kommt",
+      "link": "https://www.spiegel.de/politik/deutschland/fdp-in-sachsen-anhalt-warum-wolfgang-kubicki-ploetzlich-ins-gruebeln-kommt-a-a81463ca-c6c2-437c-80e9-4b82f12a2f7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T08:24:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX gibt zu Handelsbeginn leicht nach",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T05:13:05+00:00"
+      "veroeffentlicht": "2026-09-08T08:15:38+00:00"
     },
     {
-      "titel": "Jemen: Dutzende Verletzte nach Huthi-Angriffen auf Saudi-Arabien – Riad kündigt Reaktion an",
-      "link": "https://www.spiegel.de/ausland/jemen-dutzende-verletzte-nach-huthi-angriffen-auf-saudi-arabien-riad-kuendigt-reaktion-an-a-39644be1-5682-48b3-8d92-edac6e36a095#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T05:08:00+00:00"
-    },
-    {
-      "titel": "Wie viel Geld der Bund 2027 ausgeben will - und wofür",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-ausgaben-schulden-100.html",
+      "titel": "Französisches KI-Start-up Mistral sammelt drei Milliarden Euro ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T04:47:50+00:00"
+      "veroeffentlicht": "2026-09-08T08:04:16+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Müller: Es wird keine CDU-Überläufer zur AfD geben",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-sepp-mueller-cdu-afd-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T07:45:00+00:00"
+    },
+    {
+      "titel": "Deutsche Schüler schneiden bei der PISA-Studie schlecht ab",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pisa-deutschland-schueler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T07:30:15+00:00"
+    },
+    {
+      "titel": "Pisa-Studie für Deutschland: „Schüler fühlen sich mit der KI-Nutzung alleingelassen“",
+      "link": "https://www.sueddeutsche.de/politik/pisa-studie-2025-deutschland-ki-nutzung-bildung-li.3534232",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T07:30:00+00:00"
+    },
+    {
+      "titel": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-usa-gegenzoelle-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T07:26:21+00:00"
+    },
+    {
+      "titel": "US Open: Die Tennisspielerin, die schon wieder ein 0:5 aufholt",
+      "link": "https://www.sueddeutsche.de/sport/tennis-us-open-qinwen-zheng-china-rueckstand-li.3544026",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T06:58:12+00:00"
+    },
+    {
+      "titel": "US Open im Tennis: Zverev siegt und kommt dem Finale immer näher",
+      "link": "https://www.sueddeutsche.de/sport/tennis-us-open-zverev-sieg-weg-finale-li.3543216",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T06:04:36+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Nach Gesprächen mit US-Gesandten: Kiew meldet neue russische Angriffe",
@@ -37,136 +157,16 @@
       "veroeffentlicht": "2026-09-08T04:43:03+00:00"
     },
     {
-      "titel": "Gasspeicher in Deutschland: Maximal 77 Prozent Füllstand vor dem Winter",
-      "link": "https://www.spiegel.de/wirtschaft/gasspeicher-in-deutschland-maximal-77-prozent-fuellstand-vor-dem-winter-a-874ac9a2-a27b-417b-8134-64f458c30cff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T04:24:00+00:00"
-    },
-    {
-      "titel": "60 Jahre \"Star Trek\" als Spiegel der Gesellschaft",
-      "link": "https://www.tagesschau.de/kultur/60-jahre-star-trek-was-enterprise-ueber-politik-verraet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T04:16:34+00:00"
-    },
-    {
       "titel": "USA-Newsblog: Kanada will ab Dienstag Gegenzölle auf US-Importe erheben",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kanada-zollstreit-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-08T04:05:16+00:00"
     },
     {
-      "titel": "Flugzeugunglück im Miami: Fünf Tote und viele Fragen zur Flugsicherheit in den USA",
-      "link": "https://www.spiegel.de/wissenschaft/flugzeugunglueck-im-miami-fuenf-tote-und-viele-fragen-zur-flugsicherheit-in-den-usa-a-7f971ff1-9b7c-4bf0-ad4f-bcc4611039dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T03:59:00+00:00"
-    },
-    {
-      "titel": "Wie schädlich ist Grillen mit Holzkohle? Worauf Sie achten sollten",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/wie-gesundheitsschaedlich-ist-grillen-mit-holzkohle-worauf-sie-achten-sollten-a-81c1be53-2728-4e53-a950-52176b0f240f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T03:42:00+00:00"
-    },
-    {
-      "titel": "Rachel Cusk und Natalie Portman: Wann darf man über reale Personen schreiben?",
-      "link": "https://www.spiegel.de/kultur/tv/rachel-cusk-und-natalie-portman-wann-darf-man-ueber-reale-personen-schreiben-a-ba50f36d-9178-43b6-9adf-4a62ffe7f570#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T03:34:00+00:00"
-    },
-    {
-      "titel": "Fitness: Wenn der Traumkörper Männer krank macht",
-      "link": "https://www.spiegel.de/fitness/fitness-wenn-der-traumkoerper-maenner-krank-macht-a-89699bb2-576d-4dee-80d0-2cb7627204a4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T03:30:00+00:00"
-    },
-    {
-      "titel": "Rückenschmerz: Bandscheibenvorfälle heilen erstaunlich oft von ganz allein ab",
-      "link": "https://www.spiegel.de/fitness/rueckenschmerz-bandscheibenvorfaelle-heilen-erstaunlich-oft-von-ganz-allein-ab-a-2fa6f5ee-9e63-445d-b004-f16668589040#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T03:30:00+00:00"
-    },
-    {
-      "titel": "News: Friedrich Merz, Wladimir-Putin-Unterstützer in Deutschland, Pisa-Studie",
-      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wladimir-putin-unterstuetzer-in-deutschland-pisa-studie-a-c75c98ce-4174-4ca4-8aac-1ff0b4371ebc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T03:25:00+00:00"
-    },
-    {
-      "titel": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T03:09:42+00:00"
-    },
-    {
-      "titel": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T02:20:08+00:00"
-    },
-    {
       "titel": "TV-Kritik: „Ein perfektes Match“",
       "link": "https://www.sueddeutsche.de/medien/wagenknecht-bsw-afd-wahlen-sachsen-anhalt-markus-lanz-zdf-chrupalla-li.3544008",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-08T00:51:44+00:00"
-    },
-    {
-      "titel": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Sepp Müller will als CDU-Landeschef kandidieren ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T21:16:35+00:00"
-    },
-    {
-      "titel": "Nach der Landtagswahl: Wie könnte Ulrich Siegmund jetzt an die Macht kommen?",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-afd-siegmund-li.3543941",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T20:50:49+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Machtkampf in der CDU: Müller will neuer Landeschef in Sachsen-Anhalt werden",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-mueller-landesvorstand-afd-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T19:22:24+00:00"
-    },
-    {
-      "titel": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T19:11:43+00:00"
-    },
-    {
-      "titel": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T17:48:48+00:00"
-    },
-    {
-      "titel": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-groenland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-07T16:43:02+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Moskau schließt Goethe-Institute und deutsches Konsulat in Sankt Petersburg",
-      "link": "https://www.sueddeutsche.de/politik/bundespolitik-goethe-institute-russland-schliessung-sanktionen-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T14:47:49+00:00"
-    },
-    {
-      "titel": "„Gewalt als Dienstleistung“: Erst als er im Auto sitzt, erfährt er, dass er eine Bombe werfen soll",
-      "link": "https://www.sueddeutsche.de/panorama/jugendgewalt-violence-as-a-service-kriminelle-rekrutieren-jugendliche-li.3530362",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T13:35:05+00:00"
-    },
-    {
-      "titel": "CDU: Merz: „Aufgeben ist für mich keine Option“",
-      "link": "https://www.sueddeutsche.de/politik/cdu-merz-sachsen-anhalt-folgen-berlin-kanzler-li.3543146",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T13:20:52+00:00"
-    },
-    {
-      "titel": "Leute: Bushido und Jochen Schweizer zoffen sich",
-      "link": "https://www.sueddeutsche.de/panorama/bushido-jochen-schweizer-streit-bushaltestelle-gruenwald-li.3543442",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-07T13:18:28+00:00"
     }
   ]
 }
