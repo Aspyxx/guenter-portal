@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-08T18:06:40+00:00",
+  "aktualisiert": "2026-09-08T21:11:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -10,25 +10,85 @@
       "titel": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
       "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T18:02:07+00:00"
+      "veroeffentlicht": "2026-09-08T21:01:22+00:00"
     },
     {
-      "titel": "Influencerin Sarah Khalifa: »Ich habe in meinem Leben nicht einmal Zigaretten geraucht« – jetzt droht ihr die Todesstrafe",
-      "link": "https://www.spiegel.de/ausland/influencerin-sarah-khalifa-ich-habe-in-meinem-leben-nicht-einmal-zigaretten-geraucht-jetzt-droht-ihr-die-todesstrafe-a-49b64bca-b650-41eb-839d-06a426da8c21#ref=rss",
+      "titel": "Wegen Paparazzi: Sandra Bullock versteckte Sohn in Hockeytasche",
+      "link": "https://www.spiegel.de/panorama/wegen-paparazzi-sandra-bullock-versteckte-sohn-in-hockeytasche-a-ef6cc210-637e-4128-92e0-20e15e06ae99#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T17:54:00+00:00"
+      "veroeffentlicht": "2026-09-08T20:51:00+00:00"
     },
     {
-      "titel": "Maurizio Cattelan Ausstellung in der Neuen Nationalgalerie in Berlin: Hitler, das deutsche Fegefeuer und die unschlüssigen Tauben",
-      "link": "https://www.spiegel.de/kultur/maurizio-cattelan-ausstellung-in-der-neuen-nationalgalerie-in-berlin-hitler-das-deutsche-fegefeuer-und-die-unschluessigen-tauben-a-c85e4df5-bf30-4b51-a629-350518ab2223#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T17:50:00+00:00"
+      "titel": "Newsblog zum Nahost-Krieg: USA greifen erneut iranische Ziele bei Insel Charg an",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-angriffe-iran-charg-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T20:35:00+00:00"
     },
     {
-      "titel": "Nach den Wahlen in Sachsen-Anhalt: Das Ende der inneren Sicherheit",
-      "link": "https://www.spiegel.de/kultur/nach-den-wahlen-in-sachsen-anhalt-das-ende-der-inneren-sicherheit-a-3dd78495-e71d-45c3-b489-aebd4049605b#ref=rss",
+      "titel": "Basketball-WM der Frauen: Deutschland erreicht Viertelfinale der Heim-WM",
+      "link": "https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-erreicht-viertelfinale-der-heim-wm-a-e18fc9fd-3243-4a20-b22f-99750720b127#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T17:43:00+00:00"
+      "veroeffentlicht": "2026-09-08T20:33:00+00:00"
+    },
+    {
+      "titel": "Basketball-WM: Deutschland mobilisiert seine Kräfte – Viertelfinale erreicht",
+      "link": "https://www.sueddeutsche.de/sport/basketball-wm-deutschland-suedkorea-li.3544198",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T20:31:25+00:00"
+    },
+    {
+      "titel": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T20:03:18+00:00"
+    },
+    {
+      "titel": "Großbritannien zahlt Rekordzinsen für neue Schulden",
+      "link": "https://www.spiegel.de/wirtschaft/grossbritannien-zahlt-rekordzinsen-fuer-neue-schulden-a-16caa0ee-79dd-42d6-9dc5-be55dbea0c28#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T20:00:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt live: Französische Region droht mit Aufkündigung von Partnerschaft mit Sachsen-Anhalt",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T19:49:00+00:00"
+    },
+    {
+      "titel": "Michel Friedman im SPIEGEL-Talk: »Man kann auch seinen Selbstmord wählen«",
+      "link": "https://www.spiegel.de/politik/michel-friedman-im-spiegel-talk-man-kann-auch-seinen-selbstmord-waehlen-a-e2230871-ea3d-4179-82bb-1e0ddc81301d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T19:38:00+00:00"
+    },
+    {
+      "titel": "Donald Trump und die AfD: Die gefährliche Liebe des US-Präsidenten für die AfD",
+      "link": "https://www.spiegel.de/ausland/donald-trump-und-die-afd-die-gefaehrliche-liebe-des-us-praesidenten-fuer-die-afd-a-6d4ce79c-aab7-4996-b007-68f341c27856#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T19:18:00+00:00"
+    },
+    {
+      "titel": "Zohran Mamdani: New York soll nach 9/11 Luftbelastung mit Asbest vertuscht haben",
+      "link": "https://www.spiegel.de/ausland/zohran-mamdani-new-york-soll-nach-9-11-luftbelastung-mit-asbest-vertuscht-haben-a-21bd3d3d-be57-48d3-98ce-e167f6ddd366#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T19:06:00+00:00"
+    },
+    {
+      "titel": "Stade: Gebäude wegen »menschenunwürdiger Wohnverhältnisse« gesperrt",
+      "link": "https://www.spiegel.de/panorama/stade-gebaeude-wegen-menschenunwuerdiger-wohnverhaeltnisse-gesperrt-a-b86d5309-0469-4bcf-9755-a9571c372b64#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T19:06:00+00:00"
+    },
+    {
+      "titel": "Dolomiten: Deutscher bei Klettertour 80 Meter in die Tiefe",
+      "link": "https://www.spiegel.de/panorama/dolomiten-deutscher-bei-klettertour-80-meter-in-die-tiefe-a-d6b85466-6e69-4cd6-888a-8fb4900a3c8a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T18:59:00+00:00"
+    },
+    {
+      "titel": "CDU-Fraktion Sachsen-Anhalt: Schulze gewinnt die Machtprobe – dank seiner eigenen Stimme",
+      "link": "https://www.sueddeutsche.de/politik/cdu-sachsen-anhalt-schulze-fraktion-li.3544132",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T18:05:27+00:00"
     },
     {
       "titel": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
@@ -67,52 +127,16 @@
       "veroeffentlicht": "2026-09-08T16:20:31+00:00"
     },
     {
-      "titel": "Russland und der Ukraine-Krieg: Wladimir Putin telefoniert mit Donald Trump",
-      "link": "https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T16:20:00+00:00"
-    },
-    {
-      "titel": "Niederlande: Matrose filmt Kameradin unerlaubt beim Sex im Maschinenraum",
-      "link": "https://www.spiegel.de/panorama/niederlande-matrose-filmt-kameradin-unerlaubt-beim-sex-im-maschinenraum-a-ad6e9d49-b78a-493b-a86a-a9ccb3b432ee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T16:09:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Pisa-Schock, AfD-Wähler, sexualisiertes Fehlverhalten bei der Bundeswehr",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-schock-afd-waehler-sexualisiertes-fehlverhalten-bei-der-bundeswehr-a-e665789d-0976-4d8a-a02a-02b36d50ba9a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T16:05:00+00:00"
-    },
-    {
-      "titel": "»Professor Moltschanow«: Norwegen fliegt Passagiere von beschlagnahmtem Schiff zurück nach Russland",
-      "link": "https://www.spiegel.de/ausland/professor-moltschanow-norwegen-fliegt-passagiere-von-beschlagnahmtem-schiff-zurueck-nach-russland-a-ba5ed301-711f-42e3-8027-fccdd4f28f59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T15:59:00+00:00"
+      "titel": "Demokratie: „Da sagen die Leute irgendwann: Dann bin ich halt ein Nazi“",
+      "link": "https://www.sueddeutsche.de/kultur/hartmut-rosa-interview-wahl-sachsen-anhalt-afd-li.3541717",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T15:52:27+00:00"
     },
     {
       "titel": "Zahl der Opfer durch Streubomben laut Hilfsorganisationen verdreifacht",
       "link": "https://www.tagesschau.de/ausland/europa/streubomben-monitor-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-08T15:50:54+00:00"
-    },
-    {
-      "titel": "Ballon d'Or: Das sind die Kandidaten für die Weltfußballerwahl",
-      "link": "https://www.spiegel.de/sport/fussball/ballon-dor-das-sind-die-kandidaten-fuer-die-weltfussballerwahl-a-e3dacdad-5f1d-429d-adc0-0088638bdc0b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T15:25:00+00:00"
-    },
-    {
-      "titel": "PISA-Ergebnisse entfachen neue Bildungsdebatte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pisa-reaktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T15:24:49+00:00"
-    },
-    {
-      "titel": "Nepal: Gletscher war vor Bergsturz außergewöhnlich warm",
-      "link": "https://www.spiegel.de/wissenschaft/nepal-gletscher-war-vor-bergsturz-aussergewoehnlich-warm-a-227add56-ae2d-4cc0-8b23-2c15bc67f169#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T15:21:00+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Pistorius kündigt umfangreiche Waffenlieferungen an",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/bayern-muenchen-olympia-bewerbung-soeder-krause-gemeinsam-li.3544300",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-08T13:42:13+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Wenn die AfD regiert, entzaubert sie sich? Das ist eine düstere Wette",
-      "link": "https://www.sueddeutsche.de/meinung/afd-sachsen-anhalt-regierung-kommentar-li.3544095",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T13:06:40+00:00"
-    },
-    {
-      "titel": "Polizeieinsatz in München: Wie es zum Schuss der Polizei auf einen 14-Jährigen kam. Eine Rekonstruktion",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-schuss-14-jaehriger-schwabing-rekonstruktion-li.3537963",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T12:56:36+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Was die Grünen besser machen",
-      "link": "https://www.sueddeutsche.de/politik/die-gruenen-wahl-sachsen-anhalt-strategie-ergebnisse-li.3544191",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T12:53:40+00:00"
-    },
-    {
-      "titel": "In den USA verurteilt: FBI sucht deutschen Millionen-Betrüger in München",
-      "link": "https://www.sueddeutsche.de/muenchen/fbi-muenchen-millionen-betrueger-bernhard-f-li.3543579",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T12:44:26+00:00"
     }
   ]
 }
