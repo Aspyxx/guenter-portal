@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-09-08T21:11:18+00:00",
+  "aktualisiert": "2026-09-08T23:25:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Zollstreit mit Kanada: Donald Trump verbannt kanadische Produkte aus US-Behörden",
+      "link": "https://www.spiegel.de/ausland/zollstreit-mit-kanada-donald-trump-verbannt-kanadische-produkte-aus-us-behoerden-a-1153f5cb-cd1c-4b42-94e0-15580be78e55#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T23:09:00+00:00"
+    },
+    {
+      "titel": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-08T23:08:56+00:00"
+    },
+    {
+      "titel": "Donald Trump - USA: Gericht untersagt ICE Zugriff auf Steuerdaten von Migranten ohne Aufenthaltstitel",
+      "link": "https://www.spiegel.de/ausland/donald-trump-usa-gericht-untersagt-ice-zugriff-auf-steuerdaten-von-migranten-ohne-aufenthaltstitel-a-fa96d636-bb46-4256-8d4c-bae17ddcf2f9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T22:23:00+00:00"
+    },
+    {
+      "titel": "Champions League: BVB startet mit Sieg – Sorge um Karetsas, kaum Villarreal-Fans",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-bvb-startet-mit-sieg-sorge-um-karetsas-kaum-villarreal-fans-a-13aa74d1-e8c6-436f-b72e-0d28db5e2f4c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T21:26:00+00:00"
+    },
+    {
+      "titel": "Champions League: Dortmund überwindet den Schock um Karetsas",
+      "link": "https://www.sueddeutsche.de/sport/champions-league-dortmund-bvb-villarreal-spielbericht-tore-li.3544370",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-08T21:08:09+00:00"
+    },
     {
       "titel": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
       "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
@@ -67,24 +97,6 @@
       "veroeffentlicht": "2026-09-08T19:18:00+00:00"
     },
     {
-      "titel": "Zohran Mamdani: New York soll nach 9/11 Luftbelastung mit Asbest vertuscht haben",
-      "link": "https://www.spiegel.de/ausland/zohran-mamdani-new-york-soll-nach-9-11-luftbelastung-mit-asbest-vertuscht-haben-a-21bd3d3d-be57-48d3-98ce-e167f6ddd366#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T19:06:00+00:00"
-    },
-    {
-      "titel": "Stade: Gebäude wegen »menschenunwürdiger Wohnverhältnisse« gesperrt",
-      "link": "https://www.spiegel.de/panorama/stade-gebaeude-wegen-menschenunwuerdiger-wohnverhaeltnisse-gesperrt-a-b86d5309-0469-4bcf-9755-a9571c372b64#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T19:06:00+00:00"
-    },
-    {
-      "titel": "Dolomiten: Deutscher bei Klettertour 80 Meter in die Tiefe",
-      "link": "https://www.spiegel.de/panorama/dolomiten-deutscher-bei-klettertour-80-meter-in-die-tiefe-a-d6b85466-6e69-4cd6-888a-8fb4900a3c8a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T18:59:00+00:00"
-    },
-    {
       "titel": "CDU-Fraktion Sachsen-Anhalt: Schulze gewinnt die Machtprobe – dank seiner eigenen Stimme",
       "link": "https://www.sueddeutsche.de/politik/cdu-sachsen-anhalt-schulze-fraktion-li.3544132",
       "quelle": "Süddeutsche",
@@ -133,12 +145,6 @@
       "veroeffentlicht": "2026-09-08T15:52:27+00:00"
     },
     {
-      "titel": "Zahl der Opfer durch Streubomben laut Hilfsorganisationen verdreifacht",
-      "link": "https://www.tagesschau.de/ausland/europa/streubomben-monitor-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T15:50:54+00:00"
-    },
-    {
       "titel": "Newsblog zum Ukraine-Krieg: Pistorius kündigt umfangreiche Waffenlieferungen an",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-raketen-pistorius-patriot-li.3524928",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/elon-musk-doku-kino-kritik-li.3543219",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-08T14:08:03+00:00"
-    },
-    {
-      "titel": "Bewerbung für Olympia: Schwarz-Grün in Bayern – die Koalition für den Sport",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-muenchen-olympia-bewerbung-soeder-krause-gemeinsam-li.3544300",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T13:42:13+00:00"
     }
   ]
 }
