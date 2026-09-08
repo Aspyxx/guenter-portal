@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-08T01:15:03+00:00",
+  "aktualisiert": "2026-09-08T06:03:22+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
+      "titel": "++ Verfassungsschützer nach AfD-Erfolg besorgt ++",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Verändert der AfD-Erfolg die deutsche EU-Politik?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
+      "titel": "Hohe Ölpreise haben Aktienmarkt im Griff",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Sich von Trumps Drohungen nicht mehr beirren lassen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-groenland-100.html",
+      "titel": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
