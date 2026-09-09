@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-08T23:25:13+00:00",
+  "aktualisiert": "2026-09-09T01:35:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "»South Park« und Donald Trump: Wie die Serie Trumps Umbenennungen verspottet",
+      "link": "https://www.spiegel.de/ausland/south-park-und-donald-trump-wie-die-serie-trumps-umbenennungen-verspottet-a-edf0b67b-2694-403b-8541-dfaad09a40af#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T01:31:00+00:00"
+    },
+    {
+      "titel": "Donald Trump will Formel für AfD-Erfolg in Sachsen-Anhalt gefunden haben",
+      "link": "https://www.spiegel.de/politik/donald-trump-will-formel-fuer-afd-erfolg-in-sachsen-anhalt-gefunden-haben-a-fc7f4b39-ac51-4e7c-a0e9-34c53ad0d44a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T01:14:00+00:00"
+    },
+    {
+      "titel": "USA: Donald Trump verhängt Einfuhrverbot für viele Waren aus Kanada",
+      "link": "https://www.spiegel.de/wirtschaft/usa-donald-trump-verhaengt-einfuhrverbot-fuer-viele-waren-aus-kanada-a-99242e4c-9a14-4674-b884-35151ef8c14c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T00:28:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Johann Wadephul drängt Wolodymyr Selenskyj zu mehr deutschen Waffen-Käufen",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-johann-wadephul-draengt-wolodymyr-selenskyj-zu-mehr-deutschen-waffen-kaeufen-a-f4a41a22-5426-4695-8300-78125e3c2eba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-08T23:44:00+00:00"
+    },
     {
       "titel": "Zollstreit mit Kanada: Donald Trump verbannt kanadische Produkte aus US-Behörden",
       "link": "https://www.spiegel.de/ausland/zollstreit-mit-kanada-donald-trump-verbannt-kanadische-produkte-aus-us-behoerden-a-1153f5cb-cd1c-4b42-94e0-15580be78e55#ref=rss",
@@ -71,30 +95,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-08T20:03:18+00:00"
-    },
-    {
-      "titel": "Großbritannien zahlt Rekordzinsen für neue Schulden",
-      "link": "https://www.spiegel.de/wirtschaft/grossbritannien-zahlt-rekordzinsen-fuer-neue-schulden-a-16caa0ee-79dd-42d6-9dc5-be55dbea0c28#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T20:00:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt live: Französische Region droht mit Aufkündigung von Partnerschaft mit Sachsen-Anhalt",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-afd-will-siegmund-wagenknecht-wirbt-fuer-ueberparteilichen-regierungschef-a-33e47bc8-09a0-40e8-9d4b-c5b06526eba9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T19:49:00+00:00"
-    },
-    {
-      "titel": "Michel Friedman im SPIEGEL-Talk: »Man kann auch seinen Selbstmord wählen«",
-      "link": "https://www.spiegel.de/politik/michel-friedman-im-spiegel-talk-man-kann-auch-seinen-selbstmord-waehlen-a-e2230871-ea3d-4179-82bb-1e0ddc81301d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T19:38:00+00:00"
-    },
-    {
-      "titel": "Donald Trump und die AfD: Die gefährliche Liebe des US-Präsidenten für die AfD",
-      "link": "https://www.spiegel.de/ausland/donald-trump-und-die-afd-die-gefaehrliche-liebe-des-us-praesidenten-fuer-die-afd-a-6d4ce79c-aab7-4996-b007-68f341c27856#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T19:18:00+00:00"
     },
     {
       "titel": "CDU-Fraktion Sachsen-Anhalt: Schulze gewinnt die Machtprobe – dank seiner eigenen Stimme",
