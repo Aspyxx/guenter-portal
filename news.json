@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-09T19:30:13+00:00",
+  "aktualisiert": "2026-09-09T21:58:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -10,7 +10,73 @@
       "titel": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T19:21:01+00:00"
+      "veroeffentlicht": "2026-09-09T21:49:21+00:00"
+    },
+    {
+      "titel": "Laura Wontorra: Moderatorin gewinnt Deutschen Fernsehpreis",
+      "link": "https://www.spiegel.de/kultur/laura-wontorra-moderatorin-gewinnt-deutschen-fernsehpreis-a-9a335ee1-d1a1-4978-aef5-51a9eee61210#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T20:59:00+00:00"
+    },
+    {
+      "titel": "Karsten Wildberger: Digitales Portemonnaie »d-you« startet ab Januar 2027",
+      "link": "https://www.spiegel.de/netzwelt/netzpolitik/karsten-wildberger-digitales-portemonnaie-d-you-startet-ab-januar-2027-a-52eec430-ef8e-4842-961d-145f1e61af9f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T20:47:00+00:00"
+    },
+    {
+      "titel": "AfD: Friedrich Merz sieht mögliches Verbotsverfahren skeptisch",
+      "link": "https://www.spiegel.de/politik/afd-friedrich-merz-sieht-moegliches-verbotsverfahren-skeptisch-a-5c7b5a30-c194-4942-af43-f2afb064a866#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T20:32:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: BSW stimmt für Gespräche mit AfD",
+      "link": "https://www.spiegel.de/politik/sachsen-anhalt-bsw-stimmt-fuer-gespraeche-mit-afd-a-572ad0fa-845f-40eb-ad47-b030b215a079#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T20:15:00+00:00"
+    },
+    {
+      "titel": "Wolodymyr Selenskyj: Flugzeug in Moldau offenbar nur knapp von Drohne verfehlt",
+      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-flugzeug-in-moldau-offenbar-nur-knapp-von-drohne-verfehlt-a-9c0a29a6-a099-4d94-a495-d3541d7ae51b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T20:02:00+00:00"
+    },
+    {
+      "titel": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/apple-iphone-faltbar-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T19:58:46+00:00"
+    },
+    {
+      "titel": "TV-Duell in Mecklenburg-Vorpommern: Wenn Manuela Schwesig ihren Zettel auspackt",
+      "link": "https://www.sueddeutsche.de/politik/manuela-schwesig-leif-erik-holm-tv-duell-mecklenburg-vorpommern-li.3544805",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T19:55:48+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Selenskijs Flugzeug offenbar fast von Drohne getroffen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-flugzeug-drohne-oslo-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T19:44:41+00:00"
+    },
+    {
+      "titel": "Bundeskanzler Merz: AfD-Verbot löst das Problem nicht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-afd-verbot-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T19:38:18+00:00"
+    },
+    {
+      "titel": "Manuela Schwesig gegen Leif-Erik Holm: Wahl in Mecklenburg-Vorpommern - So lief das TV-Duel",
+      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-gegen-leif-erik-holm-wahl-in-mecklenburg-vorpommern-so-lief-das-tv-duel-a-d8078438-6d12-4728-9264-f1ec86c6e104#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T19:35:00+00:00"
+    },
+    {
+      "titel": "iPhone Duo: Wie Apples Klapphandy die Fehler der Konkurrenz vermeiden will",
+      "link": "https://www.sueddeutsche.de/wirtschaft/apple-iphone-duo-handy-design-technik-li.3539975",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T19:31:44+00:00"
     },
     {
       "titel": "Newsblog zum Nahost-Krieg: Trump: Krieg endet unmittelbar nach US-Kongresswahlen",
@@ -37,6 +103,12 @@
       "veroeffentlicht": "2026-09-09T19:02:00+00:00"
     },
     {
+      "titel": "Champions League: Drei Demirovic-Tore bei Stuttgarts Sieg gegen Stavanger",
+      "link": "https://www.sueddeutsche.de/sport/demirovic-drei-tore-stuttgart-stavanger-champions-league-li.3545117",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T18:56:56+00:00"
+    },
+    {
       "titel": "Generaldebatte im Bundestag: »Wir sind hier nicht auf dem Fußballplatz«",
       "link": "https://www.spiegel.de/politik/generaldebatte-im-bundestag-wir-sind-hier-nicht-auf-dem-fussballplatz-a-170fa77d-8785-4959-a3c0-eda0dca10508#ref=rss",
       "quelle": "SPIEGEL",
@@ -49,46 +121,16 @@
       "veroeffentlicht": "2026-09-09T18:50:00+00:00"
     },
     {
-      "titel": "iPhone Duo: Apple stellt faltbares Smartphone vor",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-stellt-faltbares-smartphone-vor-a-9a514568-ec6e-479b-a96c-a45ff891ac80#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T18:40:00+00:00"
-    },
-    {
       "titel": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/verteidigung-ausgaben-bundestag-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-09T18:30:48+00:00"
     },
     {
-      "titel": "Israel: Haaretz-Bericht zu Warnungen vor dem 7. Oktober 2023 – Was wusste Benjamin Netanyahu?",
-      "link": "https://www.spiegel.de/ausland/israel-haaretz-bericht-zu-warnungen-vor-dem-7-oktober-2023-was-wusste-benjamin-netanyahu-a-485c5a00-41f1-47fe-9496-1d784532443e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T18:08:00+00:00"
-    },
-    {
-      "titel": "Norwegen: Tausende nehmen Abschied von König Harald V. in Oslo",
-      "link": "https://www.spiegel.de/panorama/norwegen-tausende-nehmen-abschied-von-koenig-harald-v-in-oslo-a-3ef9f3a3-2bb8-4561-9d42-c32f6558bffc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T18:03:00+00:00"
-    },
-    {
-      "titel": "Porsche: Trennung von Bugatti und Rimac soll Finanzlage stabilisieren",
-      "link": "https://www.spiegel.de/wirtschaft/porsche-trennung-von-bugatti-und-rimac-soll-finanzlage-stabilisieren-a-d8e06dee-3229-4612-b75e-dd17c00252a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T17:59:00+00:00"
-    },
-    {
-      "titel": "AfD-Erfolg in Sachsen-Anhalt: »Uns wurde viel versprochen, aber angekommen ist nichts«",
-      "link": "https://www.spiegel.de/panorama/afd-erfolg-in-sachsen-anhalt-uns-wurde-viel-versprochen-aber-angekommen-ist-nichts-a-f406f67d-de59-4193-a555-bd4a09db233e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T17:59:00+00:00"
-    },
-    {
-      "titel": "Pisa: Was »Checker Tobi« Tobias Krell zum MINT-Scheitern sagt",
-      "link": "https://www.spiegel.de/panorama/bildung/pisa-was-checker-tobi-tobias-krell-zum-mint-scheitern-sagt-a-a052304c-f378-4c97-a522-3ffb74582cdd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T17:56:00+00:00"
+      "titel": "Entwicklungsministerium: „Das ist Raubbau an der internationalen Solidarität“",
+      "link": "https://www.sueddeutsche.de/politik/entwicklungsministerium-deutschland-etatkuerzungen-hilfe-li.3544712",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T18:03:52+00:00"
     },
     {
       "titel": "Abgeordnetenhauswahl: Ermittlungen gegen Berliner SPD-Spitzenkandidaten Krach",
@@ -125,48 +167,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-09T16:15:45+00:00"
-    },
-    {
-      "titel": "Kommentar zu Generaldebatte: Die AfD hat eine Erzählung - der Kanzler nicht",
-      "link": "https://www.tagesschau.de/kommentar/generaldebatte-148.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T16:09:11+00:00"
-    },
-    {
-      "titel": "Gipfeltreffen in Paris: Ruckeliger Start für Europas Weltraummission",
-      "link": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-frankreich-deutschland-space-x-musk-li.3544690",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T15:36:40+00:00"
-    },
-    {
-      "titel": "Zehntausende Lkw-Fahrer fehlen - was hilft den Speditionen?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/lkw-fahrer-mangel-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T15:16:05+00:00"
-    },
-    {
-      "titel": "Jens-Spahn-Comeback im Plenarsaal: „Ich weiß nicht, was das da ist, bei Ihnen im Kopf“",
-      "link": "https://www.sueddeutsche.de/politik/jens-spahn-rueckkehr-bundestag-comeback-afd-li.3544713",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T14:27:57+00:00"
-    },
-    {
-      "titel": "Finanzmarkt: Aufsicht bremst Onlinebank Revolut in Frankreich",
-      "link": "https://www.sueddeutsche.de/wirtschaft/revolut-fintech-lizenz-frankreich-li.3544222",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T14:16:02+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Allein mit einem Syrer? Der Chatbot rät: Ruf lieber den Notruf",
-      "link": "https://www.sueddeutsche.de/panorama/kuenstliche-intelligenz-google-gemini-rassismus-chatgpt-li.3543517",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T13:18:58+00:00"
-    },
-    {
-      "titel": "Mathematik: Open AI will ein Millennium‑Problem gelöst haben",
-      "link": "https://www.sueddeutsche.de/wissen/openai-navier-stokes-problem-streit-li.3544733",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T13:17:08+00:00"
     }
   ]
 }
