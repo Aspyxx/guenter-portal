@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-08T23:32:07+00:00",
+  "aktualisiert": "2026-09-09T01:43:36+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Deutscher Wetterdienst",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/shortlist-deutscher-buchpreis-102.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
       "titel": "++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
       "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
+    },
+    {
+      "rang": 3,
+      "titel": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
