@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-09T15:59:59+00:00",
+  "aktualisiert": "2026-09-09T19:06:10+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Fliegerbombe Hamburg",
-      "link": "https://www.tagesschau.de/kultur/zehn-jahre-elbphilharmonie-erwartungen-uebertroffen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Wer entscheidet bei der AfD, wie es weitergeht?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-regierungsbildung-100.html",
+      "titel": "Sachsen-Anhalts CDU sucht ihren Kurs - und ihren Chef",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-landtagswahl-niederlage-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
+      "rang": 2,
+      "titel": "Harald V. beigesetzt - Trauerfeier für einen geliebten König",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-harald-trauerfeier-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
       "rang": 3,
-      "titel": "EU nimmt Airbnb und Co ins Visier",
-      "link": "https://www.tagesschau.de/wirtschaft/eu-kommission-kurzzeitvermietung-regeln-100.html",
+      "titel": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
