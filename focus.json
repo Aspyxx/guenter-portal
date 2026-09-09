@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-09T06:47:42+00:00",
+  "aktualisiert": "2026-09-09T11:59:49+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "CDU nach Sachsen-Anhalt - was nun, Herr Merz?",
-      "link": "https://www.tagesschau.de/podcast-11km-cdu-merz-100.html",
+      "titel": "Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Mistral",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html",
+      "titel": "Airlines fordern Konsequenzen nach Flugchaos in Großbritannien",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/flughaefen-grossbritannien-ausfaelle-chaos-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "DAX dürfte unter 26.000 Punkte fallen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
+      "titel": "Ölpreis steigt erstmals seit Juli über 100 Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "📈"
     }
   ]
 }
