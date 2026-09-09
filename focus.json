@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-09T01:43:36+00:00",
+  "aktualisiert": "2026-09-09T06:47:42+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Gericht",
-      "link": "https://www.tagesschau.de/ausland/europa/ikea-eugh-markenstreit-rechtsextreme-partei-100.html",
+      "titel": "CDU nach Sachsen-Anhalt - was nun, Herr Merz?",
+      "link": "https://www.tagesschau.de/podcast-11km-cdu-merz-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+      "titel": "Mistral",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
+      "titel": "DAX dürfte unter 26.000 Punkte fallen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     }
   ]
 }
