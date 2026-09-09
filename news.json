@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-09T01:35:14+00:00",
+  "aktualisiert": "2026-09-09T06:44:34+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "»South Park« und Donald Trump: Wie die Serie Trumps Umbenennungen verspottet",
-      "link": "https://www.spiegel.de/ausland/south-park-und-donald-trump-wie-die-serie-trumps-umbenennungen-verspottet-a-edf0b67b-2694-403b-8541-dfaad09a40af#ref=rss",
+      "titel": "Tung Chee-hwa: Hongkongs erster postkolonialer Regierungschef ist tot",
+      "link": "https://www.spiegel.de/ausland/tung-chee-hwa-hongkongs-erster-postkolonialer-regierungschef-ist-tot-a-2ca2ea6c-196e-4fcd-8a8f-6ee381c752ff#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T01:31:00+00:00"
+      "veroeffentlicht": "2026-09-09T06:35:00+00:00"
     },
     {
-      "titel": "Donald Trump will Formel für AfD-Erfolg in Sachsen-Anhalt gefunden haben",
-      "link": "https://www.spiegel.de/politik/donald-trump-will-formel-fuer-afd-erfolg-in-sachsen-anhalt-gefunden-haben-a-fc7f4b39-ac51-4e7c-a0e9-34c53ad0d44a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T01:14:00+00:00"
+      "titel": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-krieg-angriff-tanker-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T06:28:42+00:00"
     },
     {
-      "titel": "USA: Donald Trump verhängt Einfuhrverbot für viele Waren aus Kanada",
-      "link": "https://www.spiegel.de/wirtschaft/usa-donald-trump-verhaengt-einfuhrverbot-fuer-viele-waren-aus-kanada-a-99242e4c-9a14-4674-b884-35151ef8c14c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T00:28:00+00:00"
+      "titel": "Newsblog zum Nahost-Krieg: Iranische Gegenangriffe nach US-Attacken auf Tanker",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-gegenangriff-us-attacken-tanker-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T06:21:38+00:00"
     },
     {
-      "titel": "Ukraine-Krieg: Johann Wadephul drängt Wolodymyr Selenskyj zu mehr deutschen Waffen-Käufen",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-johann-wadephul-draengt-wolodymyr-selenskyj-zu-mehr-deutschen-waffen-kaeufen-a-f4a41a22-5426-4695-8300-78125e3c2eba#ref=rss",
+      "titel": "Freiburg: 74-Jähriger nach Messerangriff gestorben",
+      "link": "https://www.spiegel.de/panorama/justiz/freiburg-74-jaehriger-nach-messerangriff-gestorben-a-2cdbae60-a1c0-49ff-a836-87c8a3496847#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T23:44:00+00:00"
+      "veroeffentlicht": "2026-09-09T06:08:00+00:00"
     },
     {
-      "titel": "Zollstreit mit Kanada: Donald Trump verbannt kanadische Produkte aus US-Behörden",
-      "link": "https://www.spiegel.de/ausland/zollstreit-mit-kanada-donald-trump-verbannt-kanadische-produkte-aus-us-behoerden-a-1153f5cb-cd1c-4b42-94e0-15580be78e55#ref=rss",
+      "titel": "Leichtathletik-EM: Gesa Krause und Lea Meyer – Aussprache nach öffentlicher Kritik",
+      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-gesa-krause-und-lea-meyer-aussprache-nach-oeffentlicher-kritik-a-221ad99d-82e8-4720-a713-b6796e3cf283#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T23:09:00+00:00"
+      "veroeffentlicht": "2026-09-09T05:56:00+00:00"
+    },
+    {
+      "titel": "Jemen: Huthis eskalieren Krieg gegen Saudi-Arabien, Uno warnt",
+      "link": "https://www.spiegel.de/ausland/jemen-huthis-eskalieren-krieg-gegen-saudi-arabien-uno-warnt-a-02265ec9-8e14-4e63-9b8e-74aeaa66a320#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T05:43:00+00:00"
+    },
+    {
+      "titel": "Angela Merkel zu AfD-Sieg in Sachsen-Anhalt: »Mir blutet das Herz«",
+      "link": "https://www.spiegel.de/politik/deutschland/angela-merkel-zu-afd-sieg-in-sachsen-anhalt-mir-blutet-das-herz-a-c10c63a0-533f-45c8-8d39-507b4077c1de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T05:41:00+00:00"
+    },
+    {
+      "titel": "Zwei Kinder bei Unwetter von umgestürzten Bäumen verletzt",
+      "link": "https://www.spiegel.de/panorama/zwei-kinder-bei-unwetter-von-umgestuerzten-baeumen-verletzt-a-3d4b7147-2949-438d-bdb1-2fadbf10798d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T05:32:00+00:00"
+    },
+    {
+      "titel": "Wahl in Sachsen-Anhalt: Trump gratuliert AfD – Bewegung „im Aufwind“",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-trump-gratuliert-afd-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T05:31:18+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Merz gegen Weidel: Generaldebatte nach dem AfD-Wahlerfolg",
+      "link": "https://www.sueddeutsche.de/politik/bundespolitik-amtseid-merz-weidel-generaldebatte-bundestag-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T05:29:43+00:00"
+    },
+    {
+      "titel": "Großbritannien: Airlines fordern Konsequenzen nach über 1000 Flugausfällen",
+      "link": "https://www.spiegel.de/wirtschaft/grossbritannien-airlines-fordern-konsequenzen-nach-ueber-1000-flugausfaellen-a-bf1cafcb-6797-4818-afbd-6f03c173d647#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T05:28:00+00:00"
+    },
+    {
+      "titel": "Eskalation im Iran-Krieg: DAX dürfte unter 26.000 Punkte fallen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T05:27:05+00:00"
+    },
+    {
+      "titel": "Ashley St. Clair: Elon Musk soll von Ex-Freundin »Legion von Kindern vor dem Bürgerkrieg« verlangt haben",
+      "link": "https://www.spiegel.de/panorama/leute/ashley-st-clair-elon-musk-soll-von-ex-freundin-legion-von-kindern-vor-dem-buergerkrieg-verlangt-haben-a-0846b991-f2ba-47e5-b5d2-dfcbcf9aa9dd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T05:15:00+00:00"
+    },
+    {
+      "titel": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T05:13:06+00:00"
+    },
+    {
+      "titel": "AfD-Sieg in Sachsen-Anhalt: West gegen Ost - Zaun drum und ab nach Kasachstan! Echt?",
+      "link": "https://www.spiegel.de/panorama/afd-sieg-in-sachsen-anhalt-west-gegen-ost-zaun-drum-und-ab-nach-kasachstan-echt-a-c629d23e-724b-4c3c-a394-f9c7adb3ce87#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T05:11:00+00:00"
+    },
+    {
+      "titel": "11KM-Podcast: CDU nach Sachsen-Anhalt - was nun, Herr Merz?",
+      "link": "https://www.tagesschau.de/podcast-11km-cdu-merz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T04:57:22+00:00"
+    },
+    {
+      "titel": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T03:57:55+00:00"
+    },
+    {
+      "titel": "Norwegens König Harald V. wird in Oslo beigesetzt",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-beerdigung-koenig-harald-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T03:08:50+00:00"
+    },
+    {
+      "titel": "Wie der Konflikt im Jemen wieder aufflammt",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T03:08:13+00:00"
+    },
+    {
+      "titel": "Generaldebatte mit Wahldesaster im Rücken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-bundeskanzler-wahl-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T03:08:05+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: USA kündigen Einfuhrverbot für einige kanadische Waren an",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kanada-zollstreit-einfuhrverbot-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T03:06:56+00:00"
     },
     {
       "titel": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-08T23:08:56+00:00"
-    },
-    {
-      "titel": "Donald Trump - USA: Gericht untersagt ICE Zugriff auf Steuerdaten von Migranten ohne Aufenthaltstitel",
-      "link": "https://www.spiegel.de/ausland/donald-trump-usa-gericht-untersagt-ice-zugriff-auf-steuerdaten-von-migranten-ohne-aufenthaltstitel-a-fa96d636-bb46-4256-8d4c-bae17ddcf2f9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T22:23:00+00:00"
-    },
-    {
-      "titel": "Champions League: BVB startet mit Sieg – Sorge um Karetsas, kaum Villarreal-Fans",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-bvb-startet-mit-sieg-sorge-um-karetsas-kaum-villarreal-fans-a-13aa74d1-e8c6-436f-b72e-0d28db5e2f4c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T21:26:00+00:00"
     },
     {
       "titel": "Champions League: Dortmund überwindet den Schock um Karetsas",
@@ -61,82 +145,16 @@
       "veroeffentlicht": "2026-09-08T21:08:09+00:00"
     },
     {
-      "titel": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T21:01:22+00:00"
-    },
-    {
-      "titel": "Wegen Paparazzi: Sandra Bullock versteckte Sohn in Hockeytasche",
-      "link": "https://www.spiegel.de/panorama/wegen-paparazzi-sandra-bullock-versteckte-sohn-in-hockeytasche-a-ef6cc210-637e-4128-92e0-20e15e06ae99#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T20:51:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: USA greifen erneut iranische Ziele bei Insel Charg an",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-angriffe-iran-charg-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T20:35:00+00:00"
-    },
-    {
-      "titel": "Basketball-WM der Frauen: Deutschland erreicht Viertelfinale der Heim-WM",
-      "link": "https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-erreicht-viertelfinale-der-heim-wm-a-e18fc9fd-3243-4a20-b22f-99750720b127#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-08T20:33:00+00:00"
-    },
-    {
       "titel": "Basketball-WM: Deutschland mobilisiert seine Kräfte – Viertelfinale erreicht",
       "link": "https://www.sueddeutsche.de/sport/basketball-wm-deutschland-suedkorea-li.3544198",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-08T20:31:25+00:00"
     },
     {
-      "titel": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T20:03:18+00:00"
-    },
-    {
       "titel": "CDU-Fraktion Sachsen-Anhalt: Schulze gewinnt die Machtprobe – dank seiner eigenen Stimme",
       "link": "https://www.sueddeutsche.de/politik/cdu-sachsen-anhalt-schulze-fraktion-li.3544132",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-08T18:05:27+00:00"
-    },
-    {
-      "titel": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
-      "link": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T16:58:03+00:00"
-    },
-    {
-      "titel": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T16:53:32+00:00"
-    },
-    {
-      "titel": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
-      "link": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T16:47:44+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Viele AfD-Maßnahmen zur Migration wären rechtlich unzulässig",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-migration-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T16:44:06+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX schafft eine Punktlandung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T16:37:27+00:00"
-    },
-    {
-      "titel": "Sexualisiertes Fehlverhalten: Fast 2000 Verdachtsfälle bei der Bundeswehr",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/verdachtsfaelle-sexualisiertes-fehlverhalten-bundeswehr-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T16:20:31+00:00"
     },
     {
       "titel": "Demokratie: „Da sagen die Leute irgendwann: Dann bin ich halt ein Nazi“",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-raketen-pistorius-patriot-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-08T15:14:44+00:00"
-    },
-    {
-      "titel": "Neurowissenschaft: Wie sich das Frauengehirn im Laufe des Lebens verändert",
-      "link": "https://www.sueddeutsche.de/gesundheit/gehirnveraenderungen-frauen-pubertaet-schwangerschaft-wechseljahre-li.3542003",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T15:01:00+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: CDU-Fraktion wählt Ministerpräsident Schulze in Kampfabstimmung zum Vorsitzenden",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-schulze-vorsitz-fraktion-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T14:54:00+00:00"
-    },
-    {
-      "titel": "Filmfestspiele Venedig: Wehe, wenn er abhebt",
-      "link": "https://www.sueddeutsche.de/kultur/elon-musk-doku-kino-kritik-li.3543219",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T14:08:03+00:00"
     }
   ]
 }
