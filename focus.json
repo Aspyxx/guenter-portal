@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-09T11:59:49+00:00",
+  "aktualisiert": "2026-09-09T15:59:59+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html",
+      "titel": "Fliegerbombe Hamburg",
+      "link": "https://www.tagesschau.de/kultur/zehn-jahre-elbphilharmonie-erwartungen-uebertroffen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Airlines fordern Konsequenzen nach Flugchaos in Großbritannien",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/flughaefen-grossbritannien-ausfaelle-chaos-100.html",
+      "titel": "Wer entscheidet bei der AfD, wie es weitergeht?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-regierungsbildung-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Ölpreis steigt erstmals seit Juli über 100 Dollar",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html",
+      "titel": "EU nimmt Airbnb und Co ins Visier",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-kommission-kurzzeitvermietung-regeln-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     }
   ]
 }
