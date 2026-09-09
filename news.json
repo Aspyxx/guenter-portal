@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-09T16:40:22+00:00",
+  "aktualisiert": "2026-09-09T19:30:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,118 @@
   },
   "meldungen": [
     {
-      "titel": "Hannover und Berlin: Ermittlungen gegen Berliner SPD-Spitzenkandidaten Krach",
-      "link": "https://www.sueddeutsche.de/politik/berlin-spd-krach-ermittlungen-hannover-li.3544994",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T16:28:00+00:00"
+      "titel": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T19:21:01+00:00"
     },
     {
-      "titel": "Ukraine: Mutter berichtet vom Tod ihres Sohnes durch russischen Angriff",
-      "link": "https://www.spiegel.de/ausland/ukraine-mutter-berichtet-vom-tod-ihres-sohnes-durch-russischen-angriff-a-180d3cee-1d5e-4a8a-8c5b-5176f936948f#ref=rss",
+      "titel": "Newsblog zum Nahost-Krieg: Trump: Krieg endet unmittelbar nach US-Kongresswahlen",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-trump-wahlen-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T19:18:45+00:00"
+    },
+    {
+      "titel": "Newsblog zur Wahl in Sachsen-Anhalt: BSW geht mit der AfD in Gespräche",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-afd-bsw-cdu-spd-gruene-linke-gespraeche-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T19:11:36+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Merz: AfD-Verbot löst das Problem nicht",
+      "link": "https://www.sueddeutsche.de/politik/bundespolitik-amtseid-merz-afd-verbotsverfahren-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T19:06:24+00:00"
+    },
+    {
+      "titel": "Champions League: VfB-Stürmer Demirović überragt, Adeyemi stark für Barcelona",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-vfb-stuermer-demirovic-ueberragt-adeyemi-stark-fuer-barcelona-a-c8dd3a87-0570-484a-b5ed-141d19bdf87b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T16:24:00+00:00"
+      "veroeffentlicht": "2026-09-09T19:02:00+00:00"
+    },
+    {
+      "titel": "Generaldebatte im Bundestag: »Wir sind hier nicht auf dem Fußballplatz«",
+      "link": "https://www.spiegel.de/politik/generaldebatte-im-bundestag-wir-sind-hier-nicht-auf-dem-fussballplatz-a-170fa77d-8785-4959-a3c0-eda0dca10508#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T18:50:00+00:00"
+    },
+    {
+      "titel": "SPD Berlin: Vorwürfe gegen Steffen Krach: Erst die miesen Umfragen, jetzt auch noch die Staatsanwaltschaft",
+      "link": "https://www.spiegel.de/politik/spd-berlin-vorwuerfe-gegen-steffen-krach-erst-die-miesen-umfragen-jetzt-auch-noch-die-staatsanwaltschaft-a-cdb0f134-3cd7-4040-9065-336d3227d24f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T18:50:00+00:00"
+    },
+    {
+      "titel": "iPhone Duo: Apple stellt faltbares Smartphone vor",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-stellt-faltbares-smartphone-vor-a-9a514568-ec6e-479b-a96c-a45ff891ac80#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T18:40:00+00:00"
+    },
+    {
+      "titel": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/verteidigung-ausgaben-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T18:30:48+00:00"
+    },
+    {
+      "titel": "Israel: Haaretz-Bericht zu Warnungen vor dem 7. Oktober 2023 – Was wusste Benjamin Netanyahu?",
+      "link": "https://www.spiegel.de/ausland/israel-haaretz-bericht-zu-warnungen-vor-dem-7-oktober-2023-was-wusste-benjamin-netanyahu-a-485c5a00-41f1-47fe-9496-1d784532443e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T18:08:00+00:00"
+    },
+    {
+      "titel": "Norwegen: Tausende nehmen Abschied von König Harald V. in Oslo",
+      "link": "https://www.spiegel.de/panorama/norwegen-tausende-nehmen-abschied-von-koenig-harald-v-in-oslo-a-3ef9f3a3-2bb8-4561-9d42-c32f6558bffc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T18:03:00+00:00"
+    },
+    {
+      "titel": "Porsche: Trennung von Bugatti und Rimac soll Finanzlage stabilisieren",
+      "link": "https://www.spiegel.de/wirtschaft/porsche-trennung-von-bugatti-und-rimac-soll-finanzlage-stabilisieren-a-d8e06dee-3229-4612-b75e-dd17c00252a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T17:59:00+00:00"
+    },
+    {
+      "titel": "AfD-Erfolg in Sachsen-Anhalt: »Uns wurde viel versprochen, aber angekommen ist nichts«",
+      "link": "https://www.spiegel.de/panorama/afd-erfolg-in-sachsen-anhalt-uns-wurde-viel-versprochen-aber-angekommen-ist-nichts-a-f406f67d-de59-4193-a555-bd4a09db233e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T17:59:00+00:00"
+    },
+    {
+      "titel": "Pisa: Was »Checker Tobi« Tobias Krell zum MINT-Scheitern sagt",
+      "link": "https://www.spiegel.de/panorama/bildung/pisa-was-checker-tobi-tobias-krell-zum-mint-scheitern-sagt-a-a052304c-f378-4c97-a522-3ffb74582cdd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T17:56:00+00:00"
+    },
+    {
+      "titel": "Abgeordnetenhauswahl: Ermittlungen gegen Berliner SPD-Spitzenkandidaten Krach",
+      "link": "https://www.sueddeutsche.de/politik/berlin-spd-krach-ermittlungen-hannover-li.3544994",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T17:50:00+00:00"
+    },
+    {
+      "titel": "Harald V. beigesetzt - Trauerfeier für einen geliebten König",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-harald-trauerfeier-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T17:42:47+00:00"
+    },
+    {
+      "titel": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bgh-urteil-autoversicherungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T16:56:39+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalts CDU sucht ihren Kurs - und ihren Chef",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-landtagswahl-niederlage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T16:50:18+00:00"
     },
     {
       "titel": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
       "link": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-09T16:22:13+00:00"
-    },
-    {
-      "titel": "Heteborn in Sachsen-Anhalt: Sven Schulze ist hier aufgewachsen. Trotzdem wählen die Nachbarn AfD",
-      "link": "https://www.spiegel.de/politik/deutschland/heteborn-in-sachsen-anhalt-sven-schulze-ist-hier-aufgewachsen-trotzdem-waehlen-die-nachbarn-afd-a-df7c3432-4d7f-4b05-b7d7-1ad0b764315b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T16:20:00+00:00"
     },
     {
       "titel": "Marktbericht: Ölpreis über 100 Dollar belastet DAX",
@@ -43,58 +133,10 @@
       "veroeffentlicht": "2026-09-09T16:09:11+00:00"
     },
     {
-      "titel": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T15:59:41+00:00"
-    },
-    {
-      "titel": "Norwegen: Beisetzung von König Harald V. in Oslo",
-      "link": "https://www.spiegel.de/panorama/norwegen-beisetzung-von-koenig-harald-v-in-oslo-a-499d9d3d-2be6-4b45-adb7-da566b6c0a37#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T15:47:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Generaldebatte im Bundestag, Zollstreit USA gegen Kanada, Benjamin Netanyahu gegen »Haaretz«",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-generaldebatte-im-bundestag-zollstreit-usa-gegen-kanada-benjamin-netanyahu-gegen-haaretz-a-6d01e853-cf6a-4264-b185-455b953b8cdd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T15:46:00+00:00"
-    },
-    {
-      "titel": "Weltraumgipfel in Paris: Warum dem Westen Trägerraketen fehlen",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/weltraumgipfel-in-paris-warum-dem-westen-traegerraketen-fehlen-a-4a6d1f90-b769-4d31-9e31-2166654837a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T15:40:00+00:00"
-    },
-    {
-      "titel": "AfD-Sieg in Sachsen-Anhalt: Als Österreicherin kommen mir solche Wahlabende bekannt vor",
-      "link": "https://www.spiegel.de/ausland/afd-sieg-in-sachsen-anhalt-als-oesterreicherin-kommen-mir-solche-wahlabende-bekannt-vor-a-f3d2d51f-172e-4c40-9a5c-17aaa55e2a6b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T15:37:00+00:00"
-    },
-    {
       "titel": "Gipfeltreffen in Paris: Ruckeliger Start für Europas Weltraummission",
       "link": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-frankreich-deutschland-space-x-musk-li.3544690",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-09T15:36:40+00:00"
-    },
-    {
-      "titel": "Mercator-Projektion: Darum will die Uno eine neue Weltkarte",
-      "link": "https://www.spiegel.de/geschichte/mercator-projektion-darum-will-die-uno-eine-neue-weltkarte-a-997c189e-3e93-42f3-aa9e-f133cb6c23a4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T15:28:00+00:00"
-    },
-    {
-      "titel": "Dunning-Kruger-Effekt: Sind es doch die Schlauen, die sich am meisten überschätzen?",
-      "link": "https://www.spiegel.de/wissenschaft/dunning-kruger-effekt-sind-es-doch-die-schlauen-die-sich-am-meisten-ueberschaetzen-a-c3c0ded4-a371-4a8b-96d9-6e4c93be8d5b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T15:28:00+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Rechnungshof moniert stockende Energiewende in der EU",
-      "link": "https://www.spiegel.de/wirtschaft/ukraine-krieg-rechnungshof-moniert-stockende-energiewende-in-der-eu-a-d716c391-e79f-497e-aaee-375b60fd5e9c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T15:17:00+00:00"
     },
     {
       "titel": "Zehntausende Lkw-Fahrer fehlen - was hilft den Speditionen?",
@@ -103,40 +145,10 @@
       "veroeffentlicht": "2026-09-09T15:16:05+00:00"
     },
     {
-      "titel": "\"Wohnungskrise\" in Europa: EU nimmt Airbnb und Co ins Visier",
-      "link": "https://www.tagesschau.de/wirtschaft/eu-kommission-kurzzeitvermietung-regeln-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T15:15:43+00:00"
-    },
-    {
-      "titel": "Ein Register für mehr Leistung - mit Daten gegen den PISA-Schock?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pisa-schueler-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T15:04:43+00:00"
-    },
-    {
-      "titel": "Parteitag der Republikaner: Gute Stimmung für die Zwischenwahlen?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-republikaner-parteitag-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T14:49:43+00:00"
-    },
-    {
       "titel": "Jens-Spahn-Comeback im Plenarsaal: „Ich weiß nicht, was das da ist, bei Ihnen im Kopf“",
       "link": "https://www.sueddeutsche.de/politik/jens-spahn-rueckkehr-bundestag-comeback-afd-li.3544713",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-09T14:27:57+00:00"
-    },
-    {
-      "titel": "PISA-Ergebnisse zeigen laut Schülervertretung \"politisches Versagen\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/debatte-pisa-ergebnisse-schule-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T14:27:40+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: AfD kassiert vier Absagen für Gespräche – BSW will beraten",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-afd-bsw-cdu-spd-gruene-linke-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T14:20:00+00:00"
     },
     {
       "titel": "Finanzmarkt: Aufsicht bremst Onlinebank Revolut in Frankreich",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/wissen/openai-navier-stokes-problem-streit-li.3544733",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-09T13:17:08+00:00"
-    },
-    {
-      "titel": "Reformen: Friedrich Merz sollte jetzt etwas Populismus wagen",
-      "link": "https://www.sueddeutsche.de/meinung/afd-merz-reform-populismus-kommentar-li.3544205",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T13:06:12+00:00"
-    },
-    {
-      "titel": "Europa: EU-Kommission will „Europe first“ bei öffentlichen Aufträgen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/eu-ausschreibung-vergabe-europa-li.3544455",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T12:45:45+00:00"
     }
   ]
 }
