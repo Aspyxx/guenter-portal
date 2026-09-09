@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-09T06:44:34+00:00",
+  "aktualisiert": "2026-09-09T11:58:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Tung Chee-hwa: Hongkongs erster postkolonialer Regierungschef ist tot",
-      "link": "https://www.spiegel.de/ausland/tung-chee-hwa-hongkongs-erster-postkolonialer-regierungschef-ist-tot-a-2ca2ea6c-196e-4fcd-8a8f-6ee381c752ff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T06:35:00+00:00"
-    },
-    {
-      "titel": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-krieg-angriff-tanker-100.html",
+      "titel": "Tote nach russischen Angriffen in mehreren Regionen der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-142.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T06:28:42+00:00"
+      "veroeffentlicht": "2026-09-09T11:46:11+00:00"
     },
     {
-      "titel": "Newsblog zum Nahost-Krieg: Iranische Gegenangriffe nach US-Attacken auf Tanker",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-gegenangriff-us-attacken-tanker-li.3530668",
+      "titel": "Regionalklassen: Wo die Kfz-Versicherung am teuersten ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kfz-versicherung-regionalklassen-schadensbilanz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T11:39:29+00:00"
+    },
+    {
+      "titel": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T11:33:13+00:00"
+    },
+    {
+      "titel": "Airlines fordern Konsequenzen nach Flugchaos in Großbritannien",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/flughaefen-grossbritannien-ausfaelle-chaos-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T11:32:09+00:00"
+    },
+    {
+      "titel": "Lidl-Rückruf: Pestizid in »Deluxe Erdbeeren in weißer Schokolade« nachgewiesen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/lidl-rueckruf-pestizid-in-deluxe-erdbeeren-in-weisser-schokolade-nachgewiesen-a-048ec162-41b8-4d1e-80aa-1ff72eebb5c0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T11:30:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Ukraine meldet zwei Tote bei Angriff auf Grenzübergang nach Moldau",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-raketen-drohnenangriff-moldau-grenzuebergang-li.3524928",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T06:21:38+00:00"
+      "veroeffentlicht": "2026-09-09T11:23:11+00:00"
     },
     {
-      "titel": "Freiburg: 74-Jähriger nach Messerangriff gestorben",
-      "link": "https://www.spiegel.de/panorama/justiz/freiburg-74-jaehriger-nach-messerangriff-gestorben-a-2cdbae60-a1c0-49ff-a836-87c8a3496847#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T06:08:00+00:00"
-    },
-    {
-      "titel": "Leichtathletik-EM: Gesa Krause und Lea Meyer – Aussprache nach öffentlicher Kritik",
-      "link": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-gesa-krause-und-lea-meyer-aussprache-nach-oeffentlicher-kritik-a-221ad99d-82e8-4720-a713-b6796e3cf283#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T05:56:00+00:00"
-    },
-    {
-      "titel": "Jemen: Huthis eskalieren Krieg gegen Saudi-Arabien, Uno warnt",
-      "link": "https://www.spiegel.de/ausland/jemen-huthis-eskalieren-krieg-gegen-saudi-arabien-uno-warnt-a-02265ec9-8e14-4e63-9b8e-74aeaa66a320#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T05:43:00+00:00"
-    },
-    {
-      "titel": "Angela Merkel zu AfD-Sieg in Sachsen-Anhalt: »Mir blutet das Herz«",
-      "link": "https://www.spiegel.de/politik/deutschland/angela-merkel-zu-afd-sieg-in-sachsen-anhalt-mir-blutet-das-herz-a-c10c63a0-533f-45c8-8d39-507b4077c1de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T05:41:00+00:00"
-    },
-    {
-      "titel": "Zwei Kinder bei Unwetter von umgestürzten Bäumen verletzt",
-      "link": "https://www.spiegel.de/panorama/zwei-kinder-bei-unwetter-von-umgestuerzten-baeumen-verletzt-a-3d4b7147-2949-438d-bdb1-2fadbf10798d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T05:32:00+00:00"
-    },
-    {
-      "titel": "Wahl in Sachsen-Anhalt: Trump gratuliert AfD – Bewegung „im Aufwind“",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-trump-gratuliert-afd-li.3540501",
+      "titel": "Leute: Schluss machen wie die Carpendales",
+      "link": "https://www.sueddeutsche.de/panorama/carpendales-getrennt-beziehung-annemarie-wayne-carpendale-promis-li.3544700",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T05:31:18+00:00"
+      "veroeffentlicht": "2026-09-09T11:22:27+00:00"
     },
     {
-      "titel": "Newsblog zur Bundespolitik: Merz gegen Weidel: Generaldebatte nach dem AfD-Wahlerfolg",
+      "titel": "Covenant: US-Rüstungsfirma will Marschflugkörper bei Leipzig produzieren",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/covenant-us-ruestungsfirma-will-marschflugkoerper-bei-leipzig-produzieren-a-2eed6447-3d20-4a89-89d6-e49f7ff24267#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T11:15:00+00:00"
+    },
+    {
+      "titel": "Liveblog zur Generaldebatte: ++ Miersch fordert Demokraten auf, an einem Strang zu ziehen ++",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-generaldebatte-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T11:13:10+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: KI von OpenAI soll Millenniumsrätsel in 88 Stunden gelöst haben",
+      "link": "https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-von-openai-soll-millenniumsraetsel-in-88-stunden-geloest-haben-a-ae808aee-1a76-4ad8-9a90-d870f4d64892#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T11:12:00+00:00"
+    },
+    {
+      "titel": "Bundestag: Für Alice Weidel ist weiterhin jeder Tag Doomsday",
+      "link": "https://www.sueddeutsche.de/meinung/alice-weidel-bundestag-afd-sachsen-anhalt-wahl-kommentar-li.3544694",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T11:10:44+00:00"
+    },
+    {
+      "titel": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T11:08:06+00:00"
+    },
+    {
+      "titel": "Berlin: Anschlag am Holocaustmahnmal – Bundesanwaltschaft erhebt Anklage",
+      "link": "https://www.spiegel.de/panorama/justiz/berlin-anschlag-am-holocaustmahnmal-bundesanwaltschaft-erhebt-anklage-a-7b804b8c-149b-4eed-9be2-cde1b4529735#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T11:07:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt live: AfD kassiert auf Einladungen zu Sondierungsgesprächen Absagen",
+      "link": "https://www.spiegel.de/politik/deutschland/bundestag-live-so-laeuft-die-generaldebatte-in-der-haushaltswoche-a-93bed0ef-22d9-4d5c-885f-fc94d9395b35#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T10:59:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: „Sie sind und Sie bleiben, Frau Weidel, eine destruktive Kraft“",
       "link": "https://www.sueddeutsche.de/politik/bundespolitik-amtseid-merz-weidel-generaldebatte-bundestag-li.3529564",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T05:29:43+00:00"
+      "veroeffentlicht": "2026-09-09T10:54:16+00:00"
     },
     {
-      "titel": "Großbritannien: Airlines fordern Konsequenzen nach über 1000 Flugausfällen",
-      "link": "https://www.spiegel.de/wirtschaft/grossbritannien-airlines-fordern-konsequenzen-nach-ueber-1000-flugausfaellen-a-bf1cafcb-6797-4818-afbd-6f03c173d647#ref=rss",
+      "titel": "Merz macht sich klein, die AfD strotzt vor Kraft und Klöckner droht mit Saalverweis",
+      "link": "https://www.spiegel.de/politik/deutschland/merz-macht-sich-klein-die-afd-strotzt-vor-kraft-und-kloeckner-droht-mit-saalverweis-a-44516a31-2bca-4d26-85f9-418819878b82#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T05:28:00+00:00"
+      "veroeffentlicht": "2026-09-09T10:52:00+00:00"
     },
     {
-      "titel": "Eskalation im Iran-Krieg: DAX dürfte unter 26.000 Punkte fallen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T05:27:05+00:00"
-    },
-    {
-      "titel": "Ashley St. Clair: Elon Musk soll von Ex-Freundin »Legion von Kindern vor dem Bürgerkrieg« verlangt haben",
-      "link": "https://www.spiegel.de/panorama/leute/ashley-st-clair-elon-musk-soll-von-ex-freundin-legion-von-kindern-vor-dem-buergerkrieg-verlangt-haben-a-0846b991-f2ba-47e5-b5d2-dfcbcf9aa9dd#ref=rss",
+      "titel": "Trauer um Haustiere: Wie wird man mit dem Tod von Hund, Katze oder Kaninchen fertig?",
+      "link": "https://www.spiegel.de/wissenschaft/trauer-um-haustiere-wie-wird-man-mit-dem-tod-von-hund-katze-oder-kaninchen-fertig-a-348221bb-80fb-4f97-b719-398f606e11ad#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T05:15:00+00:00"
+      "veroeffentlicht": "2026-09-09T10:52:00+00:00"
     },
     {
-      "titel": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T05:13:06+00:00"
-    },
-    {
-      "titel": "AfD-Sieg in Sachsen-Anhalt: West gegen Ost - Zaun drum und ab nach Kasachstan! Echt?",
-      "link": "https://www.spiegel.de/panorama/afd-sieg-in-sachsen-anhalt-west-gegen-ost-zaun-drum-und-ab-nach-kasachstan-echt-a-c629d23e-724b-4c3c-a394-f9c7adb3ce87#ref=rss",
+      "titel": "Kanada und USA im Handelskrieg: Ottawa lässt sich nicht einschüchtern",
+      "link": "https://www.spiegel.de/wirtschaft/kanada-und-usa-im-handelskrieg-ottawa-laesst-sich-nicht-einschuechtern-a-2c8682ed-c9bd-41c8-bdb8-f1b17576b428#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T05:11:00+00:00"
+      "veroeffentlicht": "2026-09-09T10:51:00+00:00"
     },
     {
-      "titel": "11KM-Podcast: CDU nach Sachsen-Anhalt - was nun, Herr Merz?",
-      "link": "https://www.tagesschau.de/podcast-11km-cdu-merz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T04:57:22+00:00"
+      "titel": "Bei Gwyneth Paltrow und Brad Pitt war es so etwas wie Liebe auf den ersten Blick",
+      "link": "https://www.spiegel.de/panorama/leute/bei-gwyneth-paltrow-und-brad-pitt-war-es-so-etwas-wie-liebe-auf-den-ersten-blick-a-ed95cc70-888a-432c-a0f8-c1814b31747b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T10:49:00+00:00"
     },
     {
-      "titel": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T03:57:55+00:00"
-    },
-    {
-      "titel": "Norwegens König Harald V. wird in Oslo beigesetzt",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-beerdigung-koenig-harald-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T03:08:50+00:00"
-    },
-    {
-      "titel": "Wie der Konflikt im Jemen wieder aufflammt",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T03:08:13+00:00"
-    },
-    {
-      "titel": "Generaldebatte mit Wahldesaster im Rücken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-bundeskanzler-wahl-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T03:08:05+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: USA kündigen Einfuhrverbot für einige kanadische Waren an",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kanada-zollstreit-einfuhrverbot-li.3530667",
+      "titel": "Europa: Brüssel will die Wohnungsnot lindern",
+      "link": "https://www.sueddeutsche.de/politik/eu-mieten-wohnen-airbnb-li.3544279",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T03:06:56+00:00"
+      "veroeffentlicht": "2026-09-09T10:30:00+00:00"
     },
     {
-      "titel": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html",
+      "titel": "Unfall eines Amazon-Frachtjets: Zu schnell und zu spät auf der Landebahn",
+      "link": "https://www.sueddeutsche.de/panorama/amazon-frachtflugzeug-unglueck-landebahn-miami-fuenf-tote-li.3544185",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T09:53:38+00:00"
+    },
+    {
+      "titel": "Champions League: Das Real-Publikum grollt, Mourinho grollt zurück",
+      "link": "https://www.sueddeutsche.de/sport/champions-league-real-madrid-inter-mourinho-vini-publikum-li.3544771",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T09:42:28+00:00"
+    },
+    {
+      "titel": "Basketball-WM: Und jetzt gegen die belgischen Katzen",
+      "link": "https://www.sueddeutsche.de/sport/basketball-wm-2026-deutschland-suedkorea-belgien-li.3544582",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T09:39:36+00:00"
+    },
+    {
+      "titel": "Generaldebatte im Bundestag: So rechnet Friedrich Merz mit Alice Weidel ab",
+      "link": "https://www.sueddeutsche.de/politik/bundestag-merz-weidel-generaldebatte-li.3544701",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-09T09:38:38+00:00"
+    },
+    {
+      "titel": "Merz gegen die AfD im Bundestag: \"Sie sind eine destruktive Kraft\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-weidel-merz-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-08T23:08:56+00:00"
+      "veroeffentlicht": "2026-09-09T09:37:28+00:00"
     },
     {
-      "titel": "Champions League: Dortmund überwindet den Schock um Karetsas",
-      "link": "https://www.sueddeutsche.de/sport/champions-league-dortmund-bvb-villarreal-spielbericht-tore-li.3544370",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T21:08:09+00:00"
+      "titel": "Aufnahmeprogramme für Afghanen: Erneut Geld für Ausstieg geboten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesaufnahmeprogramm-afghanistan-abwicklung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T09:28:42+00:00"
     },
     {
-      "titel": "Basketball-WM: Deutschland mobilisiert seine Kräfte – Viertelfinale erreicht",
-      "link": "https://www.sueddeutsche.de/sport/basketball-wm-deutschland-suedkorea-li.3544198",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T20:31:25+00:00"
-    },
-    {
-      "titel": "CDU-Fraktion Sachsen-Anhalt: Schulze gewinnt die Machtprobe – dank seiner eigenen Stimme",
-      "link": "https://www.sueddeutsche.de/politik/cdu-sachsen-anhalt-schulze-fraktion-li.3544132",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T18:05:27+00:00"
-    },
-    {
-      "titel": "Demokratie: „Da sagen die Leute irgendwann: Dann bin ich halt ein Nazi“",
-      "link": "https://www.sueddeutsche.de/kultur/hartmut-rosa-interview-wahl-sachsen-anhalt-afd-li.3541717",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T15:52:27+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Pistorius kündigt umfangreiche Waffenlieferungen an",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-raketen-pistorius-patriot-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-08T15:14:44+00:00"
+      "titel": "Boom der Batteriespeicher",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T09:26:04+00:00"
     }
   ]
 }
