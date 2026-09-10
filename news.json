@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-10T17:54:13+00:00",
+  "aktualisiert": "2026-09-10T20:53:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,88 @@
   },
   "meldungen": [
     {
-      "titel": "AfD in Sachsen-Anhalt: Ostbeauftragte Elisabeth Kaiser warnt vor Erfolgen der Partei",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss",
+      "titel": "Schweiz: Mehrere Tote und Verletzte bei Unfall mit Reisebus",
+      "link": "https://www.spiegel.de/ausland/schweiz-mehrere-tote-und-verletzte-bei-unfall-mit-reisebus-a-16686a14-f799-4e44-ab0a-57a3ed9d6a75#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T17:45:00+00:00"
+      "veroeffentlicht": "2026-09-10T20:49:00+00:00"
+    },
+    {
+      "titel": "Jimmy Kimmel klagt über Druck von Trump-treuer US-Medienaufsicht",
+      "link": "https://www.spiegel.de/kultur/tv/jimmy-kimmel-klagt-ueber-druck-von-trump-treuer-us-medienaufsicht-a-ab986ad9-cceb-4ac1-8e67-d4b76b5aa95a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T20:16:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Selenskyj will mit Trump in New York Paket für Flugabwehr aushandeln",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-will-mit-trump-in-new-york-paket-fuer-flugabwehr-aushandeln-a-1bd82592-b40e-43b6-867d-22ed8e8f9a5f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T20:10:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Vorwurf geplanter „ethnischer Säuberungen“: AfD-Fraktion zeigt Kanzler Merz an",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-merz-ethnische-saeuberungen-kanzler-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T19:32:12+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Warum die Ukrainer im Donbass plötzlich Boden gutmachen",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-warum-die-ukrainer-im-donbass-ploetzlich-boden-gutmachen-a-3f583752-38e0-4268-ba0f-8029ce9c4934#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T19:24:00+00:00"
+    },
+    {
+      "titel": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T19:23:15+00:00"
+    },
+    {
+      "titel": "Fall Fabian in Rostock: Angeklagt Gina H. verstrickt sich in viele Widersprüche",
+      "link": "https://www.spiegel.de/panorama/justiz/fall-fabian-in-rostock-angeklagt-gina-h-verstrickt-sich-in-viele-widersprueche-a-f7dd3240-b804-459b-9edc-901345ce2c37#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T19:21:00+00:00"
+    },
+    {
+      "titel": "Olympia 2030: Organisationschef Edgar Grospiron tritt von seinem Amt zurück",
+      "link": "https://www.spiegel.de/sport/olympia/olympia-2030-organisationschef-edgar-grospiron-tritt-von-seinem-amt-zurueck-a-b99b0c3f-7509-4df6-a28e-59aa56eb925c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T18:49:00+00:00"
+    },
+    {
+      "titel": "Immunität von Stephan Brandner aufgehoben: Bundestag genehmigt Strafverfahren",
+      "link": "https://www.spiegel.de/politik/immunitaet-von-stephan-brandner-aufgehoben-bundestag-genehmigt-strafverfahren-a-f11f5730-1e2f-41c3-9ce1-bfc7a76951fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T18:33:00+00:00"
+    },
+    {
+      "titel": "Emirate investieren 40 Milliarden Euro in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T18:24:58+00:00"
+    },
+    {
+      "titel": "Polizei in Hamburg: Der normale Wahnsinn für die Davidwache - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/justiz/polizei-in-hamburg-der-normale-wahnsinn-fuer-die-davidwache-spiegel-tv-a-90392b20-0e34-405b-989a-5fb2b333c121#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T18:24:00+00:00"
+    },
+    {
+      "titel": "Guinness-Weltrekord: Hugo ist das größte lebende Pferd der Welt",
+      "link": "https://www.spiegel.de/wissenschaft/natur/guinness-weltrekord-hugo-ist-das-groesste-lebende-pferd-der-welt-a-dbf0b653-b93a-48de-b6b3-300dc1465709#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T18:21:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Tote und Verletzte bei russischen Angriffen auf Dnipro und Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-drohne-russland-infrastruktur-dnipro-kiew-tankstelle-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T18:04:54+00:00"
+    },
+    {
+      "titel": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-bildungspolitik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T18:03:25+00:00"
     },
     {
       "titel": "Bundesanwaltschaft übernimmt Ermittlungen zu Strom-Sabotage",
@@ -19,34 +97,16 @@
       "veroeffentlicht": "2026-09-10T17:43:51+00:00"
     },
     {
-      "titel": "Karim Adeyemi: Wie der frühere BVB-Stürmer beim FC Barcelona aufblüht",
-      "link": "https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht-a-30273bce-bdfe-4f0f-96be-61521d3933b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T17:37:00+00:00"
-    },
-    {
       "titel": "Landtagswahl in Sachsen-Anhalt: Siegmunds schwierige Suche nach einem Partner für die AfD",
       "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-koalitionspartner-wahl-bsw-li.3545265",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-10T17:32:14+00:00"
     },
     {
-      "titel": "Motivation von Schülern: Tipps von »Checker Tobi« für Eltern und Grundschulkinder",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T17:29:00+00:00"
-    },
-    {
-      "titel": "USA unter Donald Trump: Wie sich Techmilliardäre vor der Rache der Demokraten fürchten",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T17:25:00+00:00"
-    },
-    {
-      "titel": "Krankenkassen haben deutlich mehr Geld in Immobilienfonds versenkt als bislang bekannt",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T17:24:00+00:00"
+      "titel": "Fotografie: Falsche Zeit, falscher Ort, falsche Kamera",
+      "link": "https://www.sueddeutsche.de/kultur/robert-capa-foto-milizionaer-gerda-taro-li.3544372",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T17:25:08+00:00"
     },
     {
       "titel": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
@@ -61,46 +121,22 @@
       "veroeffentlicht": "2026-09-10T17:14:11+00:00"
     },
     {
-      "titel": "AfD: Es ist der falsche Zeitpunkt, ein Verbotsverfahren zu fordern",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-es-ist-der-falsche-zeitpunkt-ein-verbotsverfahren-zu-fordern-a-ec0ee266-d769-40d7-8e58-36aab1d71153#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T17:13:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Bundestag hebt Immunität von AfD-Politiker Brandner auf",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-stephan-brandner-afd-immunitaet-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T16:58:15+00:00"
-    },
-    {
-      "titel": "Wahl in Berlin: Linke und CDU liefern sich Kopf-an-Kopf-Rennen – Infratest dimap Umfrage",
-      "link": "https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T16:58:00+00:00"
-    },
-    {
       "titel": "Trotz Ermittlungen: Krach will SPD-Spitzenkandidat in Berlin bleiben",
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-krach-will-weiter-wahlkampf-machen-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-10T16:56:27+00:00"
     },
     {
-      "titel": "Inflation und EZB: Christine Lagarde warnt vor weiteren Preisschocks in Europa",
-      "link": "https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T16:51:00+00:00"
-    },
-    {
-      "titel": "Vereinigte Arabische Emirate: VAE wollen 40 Milliarden Euro in Deutschland investieren",
-      "link": "https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T16:36:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Der DAX dreht ins Minus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-10T16:32:35+00:00"
+    },
+    {
+      "titel": "Elternkolumne „Die Erziehungsberechtigten“: Du wohnst noch zur Miete?",
+      "link": "https://www.sueddeutsche.de/leben/wohnen-mieten-party-elternkolumne-li.3537703",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T16:13:39+00:00"
     },
     {
       "titel": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
@@ -113,24 +149,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/trump-golfstaaten-verhaeltnis-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-10T15:43:18+00:00"
-    },
-    {
-      "titel": "Sind Flutkatastrophen wie im Himalaya auch in den Alpen möglich?",
-      "link": "https://www.tagesschau.de/wissen/sturzflut-gefahr-alpen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T15:09:37+00:00"
-    },
-    {
-      "titel": "ARD-Vorwahlumfrage für Mecklenburg-Vorpommern: AfD klar vor SPD",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-mecklenburg-vorpommern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T15:00:39+00:00"
-    },
-    {
-      "titel": "Weltraumgipfel in Paris: Frankreichs Präsident Macron macht Druck",
-      "link": "https://www.tagesschau.de/ausland/europa/weltraumgipfel-paris-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T14:58:47+00:00"
     },
     {
       "titel": "Weltraumgipfel: Macron will Europäer in zehn Jahren zum Mond bringen",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-2026-deutschland-liveblog-sachsen-anhalt-siegmund-afd-fraktion-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-10T14:02:24+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Selenskij: Attacken auf acht Infrastrukturobjekte",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-flugzeug-drohne-russland-infrastruktur-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T13:31:53+00:00"
-    },
-    {
-      "titel": "Verteidigung: Der Nato-Chef hat Tipps für die Bundesregierung",
-      "link": "https://www.sueddeutsche.de/politik/nato-rutte-trump-auswirkungen-afd-wahl-deutschland-li.3545264",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T13:14:33+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Ärger mit Aufsichtsbehörde: Kimmel zeigt Interview nicht im Fernsehen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-jimmy-kimmel-fcc-james-talarico-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T13:00:32+00:00"
     }
   ]
 }
