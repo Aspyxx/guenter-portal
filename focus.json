@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-10T21:14:57+00:00",
+  "aktualisiert": "2026-09-10T23:15:27+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Trump News",
+      "titel": "Ermittlungen gegen Krach in drei Fällen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
+      "titel": "Wie die Golfstaaten US-Präsident Trump sehen",
       "link": "https://www.tagesschau.de/ausland/asien/trump-golfstaaten-verhaeltnis-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
-      "titel": "Betrug",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsermittlungen-staatsanwaltschaft-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
+      "titel": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
