@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-10T00:16:37+00:00",
+  "aktualisiert": "2026-09-10T05:20:52+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,76 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Fernsehpreis-Verleihung mit politischen Botschaften",
-      "link": "https://www.tagesschau.de/kultur/deutscher-fernsehpreis-verleihung-100.html",
+      "titel": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
+      "link": "https://www.tagesschau.de/ausland/europa/geheimdienst-warnte-offenbar-vor-andrang-in-ceuta-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T23:44:53+00:00"
+      "veroeffentlicht": "2026-09-10T05:15:06+00:00"
     },
     {
-      "titel": "Donald Trump: Neue »Air Force One« startet nach Rutschen-Panne verspätet zum Republikaner-Parteitag",
-      "link": "https://www.spiegel.de/ausland/donald-trump-neue-air-force-one-startet-nach-rutschen-panne-verspaetet-zum-republikaner-parteitag-a-7afe7b10-5a02-4d1c-a055-91b7fee5f302#ref=rss",
+      "titel": "Manuela Schwesig gegen Leif-Erik Holm: Wahl in Mecklenburg-Vorpommern - So lief das TV-Duel",
+      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-gegen-leif-erik-holm-wahl-in-mecklenburg-vorpommern-so-lief-das-tv-duel-a-d8078438-6d12-4728-9264-f1ec86c6e104#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T23:22:00+00:00"
+      "veroeffentlicht": "2026-09-10T05:12:00+00:00"
     },
     {
-      "titel": "BSW geht in Sachsen-Anhalt in Gespräche mit AfD",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bsw-gespraeche-sachsen-anhalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T23:11:07+00:00"
-    },
-    {
-      "titel": "Anthropic meldet vierten Hackerangriff durch eigenes KI-Modell",
-      "link": "https://www.spiegel.de/netzwelt/anthropic-meldet-vierten-hackerangriff-durch-eigenes-ki-modell-a-23bab6d7-3c14-4645-8368-7ed20777ac2e#ref=rss",
+      "titel": "»Babylon Berlin« hat Fernsehgeschichte geschrieben. Kann die letzte Staffel das Niveau halten?",
+      "link": "https://www.spiegel.de/kultur/tv/babylon-berlin-hat-fernsehgeschichte-geschrieben-kann-die-letzte-staffel-das-niveau-halten-a-f70032e6-7229-43da-bdec-4c417f3d3827#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T23:06:00+00:00"
+      "veroeffentlicht": "2026-09-10T05:10:00+00:00"
     },
     {
       "titel": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T22:12:24+00:00"
+      "veroeffentlicht": "2026-09-10T05:07:22+00:00"
     },
     {
-      "titel": "Champions League: Liverpool schlägt Atlético – Florian Wirtz auch ohne Tor und Vorlage stark",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-liverpool-schlaegt-atletico-florian-wirtz-auch-ohne-tor-und-vorlage-stark-a-e32ef22e-d62f-4903-bd9b-b0d5ffd3df56#ref=rss",
+      "titel": "Hufschmiedin werden: Marie Müller erzählt von Ausbildung, Arbeitsalltag und Gehalt",
+      "link": "https://www.spiegel.de/start/hufschmiedin-werden-marie-mueller-erzaehlt-von-ausbildung-arbeitsalltag-und-gehalt-a-53788eaf-7398-41d3-af13-c143312fa010#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T22:01:00+00:00"
+      "veroeffentlicht": "2026-09-10T04:58:00+00:00"
     },
     {
-      "titel": "Laura Wontorra: Moderatorin gewinnt Deutschen Fernsehpreis",
-      "link": "https://www.spiegel.de/kultur/laura-wontorra-moderatorin-gewinnt-deutschen-fernsehpreis-a-9a335ee1-d1a1-4978-aef5-51a9eee61210#ref=rss",
+      "titel": "Jens Spahn: Und plötzlich ist der gefallene Ex-Fraktionschef der CDU wieder da",
+      "link": "https://www.spiegel.de/politik/deutschland/jens-spahn-und-ploetzlich-ist-der-gefallene-ex-fraktionschef-der-cdu-wieder-da-a-ccb857b1-3e8c-41ac-9c7f-5be6b143c3ea#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T20:59:00+00:00"
+      "veroeffentlicht": "2026-09-10T04:55:00+00:00"
     },
     {
-      "titel": "Karsten Wildberger: Digitales Portemonnaie »d-you« startet ab Januar 2027",
-      "link": "https://www.spiegel.de/netzwelt/netzpolitik/karsten-wildberger-digitales-portemonnaie-d-you-startet-ab-januar-2027-a-52eec430-ef8e-4842-961d-145f1e61af9f#ref=rss",
+      "titel": "Cem Özdemir (Grüne) über AfD-Sieg in Sachsen-Anhalt: »Die Ampelregierung trägt eine Mitschuld«",
+      "link": "https://www.spiegel.de/politik/deutschland/cem-oezdemir-gruene-ueber-afd-sieg-in-sachsen-anhalt-die-ampelregierung-traegt-eine-mitschuld-a-457d6060-2168-40c6-af4d-5d377d5015a5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T20:47:00+00:00"
+      "veroeffentlicht": "2026-09-10T04:42:00+00:00"
     },
     {
-      "titel": "AfD: Friedrich Merz sieht mögliches Verbotsverfahren skeptisch",
-      "link": "https://www.spiegel.de/politik/afd-friedrich-merz-sieht-moegliches-verbotsverfahren-skeptisch-a-5c7b5a30-c194-4942-af43-f2afb064a866#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T20:32:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: BSW stimmt für Gespräche mit AfD",
-      "link": "https://www.spiegel.de/politik/sachsen-anhalt-bsw-stimmt-fuer-gespraeche-mit-afd-a-572ad0fa-845f-40eb-ad47-b030b215a079#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T20:15:00+00:00"
-    },
-    {
-      "titel": "Wolodymyr Selenskyj: Flugzeug in Moldau offenbar nur knapp von Drohne verfehlt",
-      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-flugzeug-in-moldau-offenbar-nur-knapp-von-drohne-verfehlt-a-9c0a29a6-a099-4d94-a495-d3541d7ae51b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T20:02:00+00:00"
-    },
-    {
-      "titel": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/apple-iphone-faltbar-100.html",
+      "titel": "Bundesweiter Test von Alarmsystemen an Warntag",
+      "link": "https://www.tagesschau.de/inland/bundesweiter-warntag-130.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T19:58:46+00:00"
+      "veroeffentlicht": "2026-09-10T04:41:25+00:00"
+    },
+    {
+      "titel": "11KM-Podcast: Krimi um Puff-Immobilie: Das \"Pascha\", der Anwalt und die Millionen",
+      "link": "https://www.tagesschau.de/podcast-11km-puff-pascha-koeln-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T04:26:37+00:00"
+    },
+    {
+      "titel": "NRW-Bauministerium: Interne Befragungen zu Machtmissbrauch belasten Führung",
+      "link": "https://www.spiegel.de/politik/deutschland/nrw-bauministerium-interne-befragungen-zu-machtmissbrauch-belasten-fuehrung-a-831f608a-8cce-4be8-af1c-9d0d8eba43fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T04:01:00+00:00"
+    },
+    {
+      "titel": "Sorge vor Spionage - Hunderte Visaanträge aus China abgelehnt",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/visa-china-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T04:00:48+00:00"
+    },
+    {
+      "titel": "Fehlinvestments: Krankenkassen droht womöglich Milliardenverlust",
+      "link": "https://www.tagesschau.de/investigativ/krankenkassen-verluste-anlagen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T04:00:41+00:00"
+    },
+    {
+      "titel": "USA: Trumps Billionenprämie für den Wahlsieg",
+      "link": "https://www.sueddeutsche.de/politik/donald-trump-usa-republikaner-parteitag-us-kongress-zwischenwahl-kongresswahl-midterms-li.3544465",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T03:54:04+00:00"
+    },
+    {
+      "titel": "News: Friedrich Merz, Union, CDU, SPD-Kandidat Steffen Krach, Pisa, Lesen",
+      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-union-cdu-spd-kandidat-steffen-krach-pisa-lesen-a-b9eb3f5d-0552-4d40-846b-b1e544bdd55a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T03:50:00+00:00"
+    },
+    {
+      "titel": "Demenz: Können Multivitamintabletten wirklich davor schützen?",
+      "link": "https://www.spiegel.de/gesundheit/ernaehrung/demenz-koennen-multivitamintabletten-wirklich-davor-schuetzen-a-5246f496-cbd8-460d-a2d0-21aa98fa8c59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T03:30:00+00:00"
+    },
+    {
+      "titel": "Anti-Aging-Methoden im Check: Was Anti-Falten-Produkte heute können",
+      "link": "https://www.spiegel.de/gesundheit/anti-aging-methoden-im-check-was-anti-falten-produkte-heute-koennen-a-78f5faeb-940e-4c75-a11f-b3c025ef8fe8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T03:30:00+00:00"
+    },
+    {
+      "titel": "Deutscher Fernsehpreis: Bitte nicht abschalten",
+      "link": "https://www.sueddeutsche.de/medien/deutscher-fernsehpreis-markus-lanz-stefan-raab-koeln-li.3541235",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T02:48:12+00:00"
+    },
+    {
+      "titel": "Ukraine: Staatsanwaltschaft an Betrug über \"Callcenter\" beteiligt?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsermittlungen-staatsanwaltschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T00:37:15+00:00"
+    },
+    {
+      "titel": "Argentiniens Präsident Milei wittert Chance im Falkland-Streit",
+      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-falkland-trump-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T00:29:28+00:00"
+    },
+    {
+      "titel": "Fernsehpreis-Verleihung mit politischen Botschaften",
+      "link": "https://www.tagesschau.de/kultur/deutscher-fernsehpreis-verleihung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T23:44:53+00:00"
     },
     {
       "titel": "TV-Duell in Mecklenburg-Vorpommern: Wenn Manuela Schwesig ihren Zettel auspackt",
@@ -91,18 +139,6 @@
       "veroeffentlicht": "2026-09-09T19:44:41+00:00"
     },
     {
-      "titel": "Bundeskanzler Merz: AfD-Verbot löst das Problem nicht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-afd-verbot-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T19:38:18+00:00"
-    },
-    {
-      "titel": "Manuela Schwesig gegen Leif-Erik Holm: Wahl in Mecklenburg-Vorpommern - So lief das TV-Duel",
-      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-gegen-leif-erik-holm-wahl-in-mecklenburg-vorpommern-so-lief-das-tv-duel-a-d8078438-6d12-4728-9264-f1ec86c6e104#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T19:35:00+00:00"
-    },
-    {
       "titel": "iPhone Duo: Wie Apples Klapphandy die Fehler der Konkurrenz vermeiden will",
       "link": "https://www.sueddeutsche.de/wirtschaft/apple-iphone-duo-handy-design-technik-li.3539975",
       "quelle": "Süddeutsche",
@@ -115,7 +151,7 @@
       "veroeffentlicht": "2026-09-09T19:18:45+00:00"
     },
     {
-      "titel": "Newsblog zur Wahl in Sachsen-Anhalt: BSW geht mit der AfD in Gespräche",
+      "titel": "Newsblog zur Wahl in Sachsen-Anhalt: BSW geht mit AfD in Gespräche",
       "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-2026-liveblog-afd-bsw-cdu-spd-gruene-linke-gespraeche-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-09T19:11:36+00:00"
@@ -131,42 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/demirovic-drei-tore-stuttgart-stavanger-champions-league-li.3545117",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-09T18:56:56+00:00"
-    },
-    {
-      "titel": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/verteidigung-ausgaben-bundestag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T18:30:48+00:00"
-    },
-    {
-      "titel": "Entwicklungsministerium: „Das ist Raubbau an der internationalen Solidarität“",
-      "link": "https://www.sueddeutsche.de/politik/entwicklungsministerium-deutschland-etatkuerzungen-hilfe-li.3544712",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T18:03:52+00:00"
-    },
-    {
-      "titel": "Abgeordnetenhauswahl: Ermittlungen gegen Berliner SPD-Spitzenkandidaten Krach",
-      "link": "https://www.sueddeutsche.de/politik/berlin-spd-krach-ermittlungen-hannover-li.3544994",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-09T17:50:00+00:00"
-    },
-    {
-      "titel": "Harald V. beigesetzt - Trauerfeier für einen geliebten König",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-harald-trauerfeier-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T17:42:47+00:00"
-    },
-    {
-      "titel": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bgh-urteil-autoversicherungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T16:56:39+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalts CDU sucht ihren Kurs - und ihren Chef",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-landtagswahl-niederlage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T16:50:18+00:00"
     }
   ]
 }
