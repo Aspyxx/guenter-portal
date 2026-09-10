@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-10T14:28:28+00:00",
+  "aktualisiert": "2026-09-10T17:54:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,142 @@
   },
   "meldungen": [
     {
-      "titel": "Steffen Krach: SPD-Spitzenkandidat wehrt sich gegen Korruptionsvorwürfe",
-      "link": "https://www.spiegel.de/politik/deutschland/steffen-krach-spd-spitzenkandidat-wehrt-sich-gegen-korruptionsvorwuerfe-a-88d4c96f-6cf1-4624-8b7a-a9208d18d094#ref=rss",
+      "titel": "AfD in Sachsen-Anhalt: Ostbeauftragte Elisabeth Kaiser warnt vor Erfolgen der Partei",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ostbeauftragte-elisabeth-kaiser-warnt-vor-erfolgen-der-partei-a-7fd853b4-17ac-46fe-b6e9-6ef8e81235bd#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T14:24:00+00:00"
+      "veroeffentlicht": "2026-09-10T17:45:00+00:00"
     },
     {
-      "titel": "AfD: Wie der rechte Streamer »Aktivist Mann« die Partei spaltet",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-wie-der-rechte-streamer-aktivist-mann-die-partei-spaltet-a-06234fc4-f7cc-4067-b760-95a88a3688d6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T14:05:00+00:00"
+      "titel": "Bundesanwaltschaft übernimmt Ermittlungen zu Strom-Sabotage",
+      "link": "https://www.tagesschau.de/inland/strom-sabotage-bundesanwaltschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T17:43:51+00:00"
     },
     {
-      "titel": "Friedrich Merz droht jetzt auch noch ein neuer Steuerstreit",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-jetzt-auch-noch-ein-neuer-steuerstreit-a-dad0e0cd-78b8-4200-95c8-8c954a2e46c9#ref=rss",
+      "titel": "Karim Adeyemi: Wie der frühere BVB-Stürmer beim FC Barcelona aufblüht",
+      "link": "https://www.spiegel.de/sport/fussball/karim-adeyemi-wie-der-fruehere-bvb-stuermer-beim-fc-barcelona-aufblueht-a-30273bce-bdfe-4f0f-96be-61521d3933b7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T14:05:00+00:00"
+      "veroeffentlicht": "2026-09-10T17:37:00+00:00"
+    },
+    {
+      "titel": "Landtagswahl in Sachsen-Anhalt: Siegmunds schwierige Suche nach einem Partner für die AfD",
+      "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-koalitionspartner-wahl-bsw-li.3545265",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T17:32:14+00:00"
+    },
+    {
+      "titel": "Motivation von Schülern: Tipps von »Checker Tobi« für Eltern und Grundschulkinder",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/motivation-von-schuelern-tipps-von-checker-tobi-fuer-eltern-und-grundschulkinder-a-c7c59e0c-bbff-4b52-8e94-69b10f95b1b7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T17:29:00+00:00"
+    },
+    {
+      "titel": "USA unter Donald Trump: Wie sich Techmilliardäre vor der Rache der Demokraten fürchten",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T17:25:00+00:00"
+    },
+    {
+      "titel": "Krankenkassen haben deutlich mehr Geld in Immobilienfonds versenkt als bislang bekannt",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T17:24:00+00:00"
+    },
+    {
+      "titel": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T17:18:47+00:00"
+    },
+    {
+      "titel": "Filmfestspiele in Venedig: „Wir töten diese Kinder absichtlich“",
+      "link": "https://www.sueddeutsche.de/kultur/premiere-gaza-palaestina-israel-lavender-li.3545454",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T17:14:11+00:00"
+    },
+    {
+      "titel": "AfD: Es ist der falsche Zeitpunkt, ein Verbotsverfahren zu fordern",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-es-ist-der-falsche-zeitpunkt-ein-verbotsverfahren-zu-fordern-a-ec0ee266-d769-40d7-8e58-36aab1d71153#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T17:13:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Bundestag hebt Immunität von AfD-Politiker Brandner auf",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-stephan-brandner-afd-immunitaet-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T16:58:15+00:00"
+    },
+    {
+      "titel": "Wahl in Berlin: Linke und CDU liefern sich Kopf-an-Kopf-Rennen – Infratest dimap Umfrage",
+      "link": "https://www.spiegel.de/politik/wahl-in-berlin-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-infratest-dimap-umfrage-a-7dfce167-e150-4496-a347-887dcc1c2a1d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T16:58:00+00:00"
+    },
+    {
+      "titel": "Trotz Ermittlungen: Krach will SPD-Spitzenkandidat in Berlin bleiben",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-krach-will-weiter-wahlkampf-machen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T16:56:27+00:00"
+    },
+    {
+      "titel": "Inflation und EZB: Christine Lagarde warnt vor weiteren Preisschocks in Europa",
+      "link": "https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T16:51:00+00:00"
+    },
+    {
+      "titel": "Vereinigte Arabische Emirate: VAE wollen 40 Milliarden Euro in Deutschland investieren",
+      "link": "https://www.spiegel.de/politik/deutschland/vereinigte-arabische-emirate-vae-wollen-40-milliarden-euro-in-deutschland-investieren-a-bca78c5b-083f-4a4d-a17a-bdf664c29af1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-10T16:36:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Der DAX dreht ins Minus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T16:32:35+00:00"
+    },
+    {
+      "titel": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T16:00:31+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Wie die Golfstaaten US-Präsident Trump sehen",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-golfstaaten-verhaeltnis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T15:43:18+00:00"
+    },
+    {
+      "titel": "Sind Flutkatastrophen wie im Himalaya auch in den Alpen möglich?",
+      "link": "https://www.tagesschau.de/wissen/sturzflut-gefahr-alpen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T15:09:37+00:00"
+    },
+    {
+      "titel": "ARD-Vorwahlumfrage für Mecklenburg-Vorpommern: AfD klar vor SPD",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T15:00:39+00:00"
+    },
+    {
+      "titel": "Weltraumgipfel in Paris: Frankreichs Präsident Macron macht Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/weltraumgipfel-paris-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-10T14:58:47+00:00"
+    },
+    {
+      "titel": "Weltraumgipfel: Macron will Europäer in zehn Jahren zum Mond bringen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/weltraumgipfel-paris-macron-isar-aerospace-starlink-li.3545377",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T14:28:01+00:00"
+    },
+    {
+      "titel": "25 Jahre 9/11: „Wir haben das Feld den Extremisten überlassen“",
+      "link": "https://www.sueddeutsche.de/politik/9-11-interview-gewalt-extremismus-praevention-li.3542453",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-10T14:14:42+00:00"
     },
     {
       "titel": "Newsblog zu den Landtagswahlen: AfD-Fraktionsspitze in Sachsen-Anhalt ohne Gegenstimme wiedergewählt",
@@ -31,40 +151,10 @@
       "veroeffentlicht": "2026-09-10T14:02:24+00:00"
     },
     {
-      "titel": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T13:44:42+00:00"
-    },
-    {
-      "titel": "Ausstellung in Düsseldorf: De Saint Phalle und die Kraft weiblicher Lebensfreude",
-      "link": "https://www.tagesschau.de/kultur/niki-de-saint-phalle-ausstellung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T13:44:27+00:00"
-    },
-    {
-      "titel": "Uganda: Londoner Hobbyfußballer soll König werden",
-      "link": "https://www.spiegel.de/panorama/uganda-londoner-hobbyfussballer-soll-koenig-werden-a-960ada21-a742-4012-b7c0-3ec24f79e4bd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T13:42:00+00:00"
-    },
-    {
-      "titel": "Haushaltsberatungen: Dobrindt verteidigt höhere Ausgaben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-dobrindt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T13:33:02+00:00"
-    },
-    {
       "titel": "Newsblog zum Ukraine-Krieg: Selenskij: Attacken auf acht Infrastrukturobjekte",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-flugzeug-drohne-russland-infrastruktur-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-10T13:31:53+00:00"
-    },
-    {
-      "titel": "Bahn-Chefin Palla kündigt weniger Korridorsanierungen pro Jahr an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-sanierung-palla-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T13:26:25+00:00"
     },
     {
       "titel": "Verteidigung: Der Nato-Chef hat Tipps für die Bundesregierung",
@@ -73,100 +163,10 @@
       "veroeffentlicht": "2026-09-10T13:14:33+00:00"
     },
     {
-      "titel": "Finanzministerium will Krypto-Gewinne künftig besteuern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/besteuerung-krypto-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T13:11:29+00:00"
-    },
-    {
-      "titel": "Uwe Steimle: Staatsanwaltschaft stellt Ermittlungen gegen Kabarettist ein",
-      "link": "https://www.spiegel.de/politik/deutschland/uwe-steimle-staatsanwaltschaft-stellt-ermittlungen-gegen-kabarettist-ein-a-c9fee968-05d0-4ee1-9d90-17774096b4d8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T13:10:00+00:00"
-    },
-    {
-      "titel": "Nepal: Deutsche Familie überlebt Sturzflut - »Wir hatten einen großen Schutzengel«",
-      "link": "https://www.spiegel.de/politik/deutschland/nepal-deutsche-familie-ueberlebt-sturzflut-wir-hatten-einen-grossen-schutzengel-a-84918af8-fa6a-43d6-8253-0aec01dbc03b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T13:07:00+00:00"
-    },
-    {
-      "titel": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
-      "link": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T13:00:40+00:00"
-    },
-    {
       "titel": "USA-Newsblog: Ärger mit Aufsichtsbehörde: Kimmel zeigt Interview nicht im Fernsehen",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-jimmy-kimmel-fcc-james-talarico-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-10T13:00:32+00:00"
-    },
-    {
-      "titel": "Nachruf: Es konnte gar nicht schwer genug sein",
-      "link": "https://www.sueddeutsche.de/kultur/literatur-nachruf-ddr-karl-corino-hessischer-rundfunk-robert-musil-li.3545388",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T12:59:20+00:00"
-    },
-    {
-      "titel": "Reformdebatte: Was kostet die umstrittene „Rente mit 63“?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/rentenreform-rente-mit-63-merz-spd-neue-rechnung-li.3545263",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T12:53:11+00:00"
-    },
-    {
-      "titel": "NRW: Durchsuchung bei mutmaßlichem Stromsaboteur – Notizen mit über 160 Zielen entdeckt",
-      "link": "https://www.spiegel.de/panorama/nrw-durchsuchung-bei-mutmasslichem-stromsaboteur-notizen-mit-ueber-160-zielen-entdeckt-a-41f73bed-65fa-4e14-bc17-6b2830e21898#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T12:52:00+00:00"
-    },
-    {
-      "titel": "Fußball: Die Heimlichtuerei des DFB um Marc Kosicke",
-      "link": "https://www.sueddeutsche.de/sport/dfb-klopp-kosicke-berater-heimlichtuerei-li.3545010",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T12:51:48+00:00"
-    },
-    {
-      "titel": "Europa: Die Rechtspopulisten wurden auch immer wieder von der Macht verjagt",
-      "link": "https://www.sueddeutsche.de/meinung/europa-rechtspopulismus-sachsen-anhalt-afd-kommentar-li.3545236",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T12:49:46+00:00"
-    },
-    {
-      "titel": "Daimler Truck investiert in großem Stil in Wasserstoff-Technologie",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-daimler-truck-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T12:35:48+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Huthi nehmen Hafenstadt Mokka in Jemen ein – wichtige Handelsroute bedroht",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-meerenge-hafenstadt-mokka-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T12:35:00+00:00"
-    },
-    {
-      "titel": "9/11 vor 25 Jahren: »Wir werden eine neue Welt kennenlernen. Und ich mache mir Sorgen«",
-      "link": "https://www.spiegel.de/politik/deutschland/11-september-2001-wir-werden-eine-neue-welt-kennenlernen-und-ich-mache-mir-sorgen-a-1ba7ec68-394e-4e52-8907-45d76a20b2d9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T12:29:00+00:00"
-    },
-    {
-      "titel": "9/11: Wie wurde eine junge Frau erwachsen, deren Vater im World Trade Center starb?",
-      "link": "https://www.spiegel.de/panorama/9-11-wie-wurde-eine-junge-frau-erwachsen-deren-vater-im-world-trade-center-starb-a-d966aa6a-2eb0-4ba0-a65d-5c697c5b4b1d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-10T12:26:00+00:00"
-    },
-    {
-      "titel": "Trotz Ermittlungen: Krach will SPD-Spitzenkandidat in Berlin bleiben",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-krach-will-weiter-wahlkampf-machen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T12:19:36+00:00"
-    },
-    {
-      "titel": "Höhere Zinsen - die Auswirkungen für Verbraucher und die Wirtschaft",
-      "link": "https://www.tagesschau.de/ezb-zinsen-114.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T12:16:55+00:00"
     }
   ]
 }
