@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-10T18:34:26+00:00",
+  "aktualisiert": "2026-09-10T21:14:57+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Wie die Golfstaaten US-Präsident Trump sehen",
+      "titel": "Trump News",
       "link": "https://www.tagesschau.de/ausland/asien/trump-golfstaaten-verhaeltnis-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
+      "rang": 2,
+      "titel": "Betrug",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsermittlungen-staatsanwaltschaft-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
       "rang": 3,
-      "titel": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-bildungspolitik-100.html",
+      "titel": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
