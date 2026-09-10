@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-09T21:58:05+00:00",
+  "aktualisiert": "2026-09-10T00:16:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,40 @@
   },
   "meldungen": [
     {
+      "titel": "Fernsehpreis-Verleihung mit politischen Botschaften",
+      "link": "https://www.tagesschau.de/kultur/deutscher-fernsehpreis-verleihung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T23:44:53+00:00"
+    },
+    {
+      "titel": "Donald Trump: Neue »Air Force One« startet nach Rutschen-Panne verspätet zum Republikaner-Parteitag",
+      "link": "https://www.spiegel.de/ausland/donald-trump-neue-air-force-one-startet-nach-rutschen-panne-verspaetet-zum-republikaner-parteitag-a-7afe7b10-5a02-4d1c-a055-91b7fee5f302#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T23:22:00+00:00"
+    },
+    {
+      "titel": "BSW geht in Sachsen-Anhalt in Gespräche mit AfD",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bsw-gespraeche-sachsen-anhalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-09T23:11:07+00:00"
+    },
+    {
+      "titel": "Anthropic meldet vierten Hackerangriff durch eigenes KI-Modell",
+      "link": "https://www.spiegel.de/netzwelt/anthropic-meldet-vierten-hackerangriff-durch-eigenes-ki-modell-a-23bab6d7-3c14-4645-8368-7ed20777ac2e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T23:06:00+00:00"
+    },
+    {
       "titel": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T21:49:21+00:00"
+      "veroeffentlicht": "2026-09-09T22:12:24+00:00"
+    },
+    {
+      "titel": "Champions League: Liverpool schlägt Atlético – Florian Wirtz auch ohne Tor und Vorlage stark",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-liverpool-schlaegt-atletico-florian-wirtz-auch-ohne-tor-und-vorlage-stark-a-e32ef22e-d62f-4903-bd9b-b0d5ffd3df56#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-09T22:01:00+00:00"
     },
     {
       "titel": "Laura Wontorra: Moderatorin gewinnt Deutschen Fernsehpreis",
@@ -97,28 +127,10 @@
       "veroeffentlicht": "2026-09-09T19:06:24+00:00"
     },
     {
-      "titel": "Champions League: VfB-Stürmer Demirović überragt, Adeyemi stark für Barcelona",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-vfb-stuermer-demirovic-ueberragt-adeyemi-stark-fuer-barcelona-a-c8dd3a87-0570-484a-b5ed-141d19bdf87b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T19:02:00+00:00"
-    },
-    {
       "titel": "Champions League: Drei Demirovic-Tore bei Stuttgarts Sieg gegen Stavanger",
       "link": "https://www.sueddeutsche.de/sport/demirovic-drei-tore-stuttgart-stavanger-champions-league-li.3545117",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-09T18:56:56+00:00"
-    },
-    {
-      "titel": "Generaldebatte im Bundestag: »Wir sind hier nicht auf dem Fußballplatz«",
-      "link": "https://www.spiegel.de/politik/generaldebatte-im-bundestag-wir-sind-hier-nicht-auf-dem-fussballplatz-a-170fa77d-8785-4959-a3c0-eda0dca10508#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T18:50:00+00:00"
-    },
-    {
-      "titel": "SPD Berlin: Vorwürfe gegen Steffen Krach: Erst die miesen Umfragen, jetzt auch noch die Staatsanwaltschaft",
-      "link": "https://www.spiegel.de/politik/spd-berlin-vorwuerfe-gegen-steffen-krach-erst-die-miesen-umfragen-jetzt-auch-noch-die-staatsanwaltschaft-a-cdb0f134-3cd7-4040-9065-336d3227d24f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-09T18:50:00+00:00"
     },
     {
       "titel": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-landtagswahl-niederlage-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-09T16:50:18+00:00"
-    },
-    {
-      "titel": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T16:22:13+00:00"
-    },
-    {
-      "titel": "Marktbericht: Ölpreis über 100 Dollar belastet DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-09T16:15:45+00:00"
     }
   ]
 }
