@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-11T01:13:31+00:00",
+  "aktualisiert": "2026-09-11T06:09:20+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Ermittlungen gegen Krach in drei Fällen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
+      "titel": "Parteitag der US-Republikaner: Vance bezeichnet Demokraten als \"Partei des Hasses\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/republikaner-parteitag-104.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 2,
+      "titel": "Wie der Terror von 9/11 Deutschland verändert hat",
+      "link": "https://www.tagesschau.de/podcast-11km-9-11-veraenderung-deutschland-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
-      "link": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
       "rang": 3,
-      "titel": "Wie die Golfstaaten US-Präsident Trump sehen",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-golfstaaten-verhaeltnis-100.html",
+      "titel": "Ermittlungen gegen Krach in drei Fällen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     }
   ]
 }
