@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-11T06:02:11+00:00",
+  "aktualisiert": "2026-09-11T11:24:52+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Israel versus Iran: Zerstörung von unterirdischer Hisbollah-Basis im Südlibanon",
-      "link": "https://www.spiegel.de/ausland/israel-versus-iran-zerstoerung-von-unterirdischer-hisbollah-basis-im-suedlibanon-a-45e5da13-47d1-459d-889b-6494463d9c8c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T05:53:00+00:00"
-    },
-    {
-      "titel": "11KM-Podcast: Wie der Terror von 9/11 Deutschland verändert hat",
-      "link": "https://www.tagesschau.de/podcast-11km-9-11-veraenderung-deutschland-100.html",
+      "titel": "Fünf Tote nach Busunglück in der Schweiz",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T05:45:25+00:00"
+      "veroeffentlicht": "2026-09-11T11:22:39+00:00"
     },
     {
-      "titel": "Marktbericht: EZB-Zinserhöhung vergrault die Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+      "titel": "Geschäfte sollen künftig Kartenzahlung anbieten müssen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bargeld-cash-bezahlen-einkaufen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T05:37:44+00:00"
-    },
-    {
-      "titel": "Jemen - Iran: Donald Trump hat direkte Angriffe auf Huthis nach Bitte von Mohammed bin Salman offenbar abgelehnt",
-      "link": "https://www.spiegel.de/ausland/jemen-iran-donald-trump-hat-direkte-angriffe-auf-huthis-nach-bitte-von-mohammed-bin-salman-offenbar-abgelehnt-a-9a4e0b51-b224-4fc7-8214-56c3e0cafe91#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T05:37:00+00:00"
-    },
-    {
-      "titel": "Parteitag der US-Republikaner: Vance bezeichnet Demokraten als \"Partei des Hasses\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/republikaner-parteitag-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T05:32:14+00:00"
-    },
-    {
-      "titel": "Lars Klingbeil contra Bargeld: Läden sollen Karten akzeptieren müssen",
-      "link": "https://www.spiegel.de/wirtschaft/service/lars-klingbeil-contra-bargeld-laeden-sollen-karten-akzeptieren-muessen-a-e757575d-e01b-4519-aa7d-fcae9b640e66#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T05:32:00+00:00"
-    },
-    {
-      "titel": "USA: „Dieser Typ hat also viele Leute getäuscht“",
-      "link": "https://www.sueddeutsche.de/politik/parteitag-republikaner-midterms-latinos-li.3544470",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T05:08:46+00:00"
-    },
-    {
-      "titel": "Heino, Jahrgang 1938, ist nach seiner Herz-OP wieder fit",
-      "link": "https://www.spiegel.de/panorama/leute/heino-jahrgang-1938-ist-nach-seiner-herz-op-wieder-fit-a-88dc4e67-416d-4c94-a33b-c2c2def1b3da#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T05:08:00+00:00"
-    },
-    {
-      "titel": "JD Vance: US-Vizepräsident erinnert an Charlie Kirk und nennt Demokraten »Partei des Hasses«",
-      "link": "https://www.spiegel.de/ausland/jd-vance-us-vizepraesident-erinnert-an-charlie-kirk-und-nennt-demokraten-partei-des-hasses-a-1acf641f-5215-4ba8-83b3-5b2aa74ffdfc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T05:06:00+00:00"
-    },
-    {
-      "titel": "USA beginnen mit Abzug ihrer Streitkräfte aus Kurdistan",
-      "link": "https://www.spiegel.de/ausland/usa-beginnen-mit-abzug-ihrer-streitkraefte-aus-kurdistan-a-69169d59-92dc-4ec3-8717-e69c6ef20ee4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T05:01:00+00:00"
-    },
-    {
-      "titel": "Region Mannheim: Schwaches Erdbeben bei Worms – Nachbeben möglich",
-      "link": "https://www.spiegel.de/panorama/region-mannheim-schwaches-erdbeben-bei-worms-nachbeben-moeglich-a-0ab654fa-1a86-4b70-b665-8ff0d8578f9d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T04:48:00+00:00"
-    },
-    {
-      "titel": "Josef Mengele: Schweizer Nachrichtendienst veröffentlicht Dossier zu Nazi-Verbrecher",
-      "link": "https://www.spiegel.de/geschichte/josef-mengele-schweizer-nachrichtendienst-veroeffentlicht-dossier-zu-nazi-verbrecher-a-22ba84e2-1053-4485-9594-c8824b860c5a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T04:39:00+00:00"
-    },
-    {
-      "titel": "9/11 vor 25 Jahren: Gedenkakt in New York ohne Donald Trump",
-      "link": "https://www.spiegel.de/ausland/9-11-vor-25-jahren-gedenkakt-in-new-york-ohne-donald-trump-a-4ed427bb-b42a-4971-96ab-813b2b774c87#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T04:27:00+00:00"
+      "veroeffentlicht": "2026-09-11T11:14:28+00:00"
     },
     {
       "titel": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T04:23:49+00:00"
+      "veroeffentlicht": "2026-09-11T11:13:36+00:00"
     },
     {
-      "titel": "25 Jahre nach 9/11: \"Ich werde jeden Tag an den Anschlag erinnert\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-11-september-jahrestag-interview-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T04:20:44+00:00"
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T11:13:00+00:00"
     },
     {
-      "titel": "USA-Newsblog: US-Vize Vance erinnert an erschossenen Aktivisten Kirk",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-vance-charlie-kirk-republikaner-wahle-junge-waehler-li.3530667",
+      "titel": "Newsblog zum Ukraine-Krieg: Tote und Verletzte bei Angriffen auf Tankstellen in Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-drohne-russland-infrastruktur-dnipro-kiew-tankstelle-li.3524928",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T03:30:41+00:00"
+      "veroeffentlicht": "2026-09-11T11:08:25+00:00"
+    },
+    {
+      "titel": "Elon Musk: Techmilliardär attackiert Regisseur der Doku »Musk«",
+      "link": "https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk-a-740ab13f-d538-452c-a4d7-6b76c26cfd01#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T10:58:00+00:00"
+    },
+    {
+      "titel": "Mafia: Mutmaßliche Mafiosi bei Razzia in Baden-Württemberg festgenommen",
+      "link": "https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen-a-5e827025-b1f4-4000-b2ad-74237b9d9f85#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T10:38:00+00:00"
+    },
+    {
+      "titel": "Beatles: Forscher zitieren die Band in Tausenden Fachartikeln",
+      "link": "https://www.spiegel.de/wissenschaft/beatles-forscher-zitieren-die-band-in-tausenden-fachartikeln-a-dc158af2-f8dc-4e82-97ea-f7a63b3f48d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T10:32:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: So gut schützen Impfungen vor Atemwegsinfekten",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/oktoberfest-grippe-corona-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T10:29:58+00:00"
+    },
+    {
+      "titel": "»The Office«-Produzent Greg Daniels wird auf »Walk of Fame« verewigt und teilt gegen KI aus",
+      "link": "https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus-a-1b1611c8-6146-418b-b950-9d2cfb98cd13#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T10:25:00+00:00"
+    },
+    {
+      "titel": "Italien: Frühere EU-Kommissarin Emma Bonino ist tot",
+      "link": "https://www.spiegel.de/ausland/italien-fruehere-eu-kommissarin-emma-bonino-ist-tot-a-90ef3301-c6e2-424b-ae62-cdfa41752451#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T10:20:00+00:00"
+    },
+    {
+      "titel": "Emirates: Deutscher Airline-Verband kritisiert zusätzliche Verkehrsrechte",
+      "link": "https://www.spiegel.de/wirtschaft/emirates-deutscher-airline-verband-kritisiert-zusaetzliche-verkehrsrechte-a-9783ef9f-4fe2-466b-a383-fe29ff43c198#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T10:19:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Huthi rücken in Jemen auf strategisch wichtige Meerenge Bab al-Mandab vor",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-meerenge-bab-al-mandab-jemen-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T10:16:23+00:00"
+    },
+    {
+      "titel": "USA unter Donald Trump: Investoren zweifeln am Schuldenkurs und an US-Staatsanleihen",
+      "link": "https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T10:11:00+00:00"
+    },
+    {
+      "titel": "Reform der Witwenrente: Rentensplitting würde Ehepaare laut Ifo-Institut ärmer machen",
+      "link": "https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T10:09:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: AfD-Spitzenkandidat Siegmund sorgt für Empörung",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-2026-deutschland-liveblog-sachsen-anhalt-siegmund-afd-fraktion-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T09:58:15+00:00"
+    },
+    {
+      "titel": "Leute: „Wenn irgendjemand irgendetwas Negatives sagt, höre ich auf. Sofort.“",
+      "link": "https://www.sueddeutsche.de/panorama/jennifer-lawrence-instagram-social-media-promis-li.3545844",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T09:42:48+00:00"
+    },
+    {
+      "titel": "Wie der 11. September die US-Außenpolitik verändert hat",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T09:33:10+00:00"
+    },
+    {
+      "titel": "Zeitenwende für Rot-Grün: Berlin und der Schock vom 11. September",
+      "link": "https://www.tagesschau.de/inland/11-september-reaktion-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T09:21:08+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX hält sich vor US-Inflationsdaten stabil",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T09:20:29+00:00"
+    },
+    {
+      "titel": "Arbeitsministerin Bas verspricht Übergangslösung für \"Rente mit 63\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-bundestag-reformen-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T09:08:49+00:00"
+    },
+    {
+      "titel": "Kritik an Wegfall der Info-Pflicht bei höheren Krankenkassenbeiträgen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherzentralen-erhoehung-krankenkassenbeitraege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T08:43:10+00:00"
+    },
+    {
+      "titel": "Berlin-Wahl: Staatsanwaltschaft nennt konkrete Vorwürfe gegen SPD-Kandidaten Krach",
+      "link": "https://www.sueddeutsche.de/politik/steffen-krach-berlin-spd-bestechlichkeitsvorwurf-ermittlungen-li.3545291",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T07:50:00+00:00"
+    },
+    {
+      "titel": "US Open im Tennis: Win-win für alle – außer bei den Finanzen",
+      "link": "https://www.sueddeutsche.de/sport/tennis-us-open-rybakina-sabalenka-li.3545722",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T07:25:37+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: USA gedenken der Terroropfer vom 11. September – Trump bleibt Ground Zero fern",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-vance-11-september-ground-zero-gedenken-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T07:17:17+00:00"
     },
     {
       "titel": "Deutscher Radiopreis: Vom Reden und Schweigen",
-      "link": "https://www.sueddeutsche.de/medien/deutscher-radiopreis-verleihung-hoerfunk-gala-sieger-hamburg-li.3544213",
+      "link": "https://www.sueddeutsche.de/medien/deutscher-radiopreis-2026-verleihung-hoerfunk-gala-sieger-hamburg-li.3544213",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T02:23:37+00:00"
+      "veroeffentlicht": "2026-09-11T07:08:40+00:00"
     },
     {
-      "titel": "Wie der 11. September die deutsche Gesellschaft prägte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/elfter-september-anschlaege-muslime-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T01:37:15+00:00"
-    },
-    {
-      "titel": "Mehrere Tote nach Busunglück in der Schweiz",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T01:03:39+00:00"
-    },
-    {
-      "titel": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
-      "link": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T00:57:21+00:00"
-    },
-    {
-      "titel": "„Maybrit Illner“: Özdemir findet: Deutschland muss von Ostelsheim lernen",
-      "link": "https://www.sueddeutsche.de/medien/cem-oezdemir-ostelsheim-vorbild-deutschland-li.3545345",
+      "titel": "Basketball-WM: Deutschland unter den besten vier – wirklich!",
+      "link": "https://www.sueddeutsche.de/sport/basketball-wm-frauen-wm-deutschland-halbfinale-li.3545701",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T00:16:21+00:00"
-    },
-    {
-      "titel": "Ermittlungen gegen Krach in drei Fällen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-10T22:03:41+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Nach Vorwurf geplanter „ethnischer Säuberungen“: AfD-Fraktion zeigt Kanzler Merz an",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-merz-ethnische-saeuberungen-kanzler-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T19:32:12+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Tote und Verletzte bei russischen Angriffen auf Dnipro und Kiew",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-drohne-russland-infrastruktur-dnipro-kiew-tankstelle-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T18:04:54+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Sachsen-Anhalt: Siegmunds schwierige Suche nach einem Partner für die AfD",
-      "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-koalitionspartner-wahl-bsw-li.3545265",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T17:32:14+00:00"
-    },
-    {
-      "titel": "Fotografie: Falsche Zeit, falscher Ort, falsche Kamera",
-      "link": "https://www.sueddeutsche.de/kultur/robert-capa-foto-milizionaer-gerda-taro-li.3544372",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T17:25:08+00:00"
-    },
-    {
-      "titel": "Filmfestspiele in Venedig: „Wir töten diese Kinder absichtlich“",
-      "link": "https://www.sueddeutsche.de/kultur/premiere-gaza-palaestina-israel-lavender-li.3545454",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-10T17:14:11+00:00"
+      "veroeffentlicht": "2026-09-11T06:48:29+00:00"
     }
   ]
 }
