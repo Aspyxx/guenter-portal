@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-09-11T18:38:21+00:00",
+  "aktualisiert": "2026-09-11T21:20:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Fußball-Bundesliga: Union Berlin unterliegt Schalke 04",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-unterliegt-schalke-04-a-3ecf44a3-4382-45ef-a055-81a033de86b3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T20:56:00+00:00"
+    },
+    {
+      "titel": "Saudi-Arabien: Schäden nach Angriffen – wichtige Ost-West-Pipeline abgeschaltet",
+      "link": "https://www.spiegel.de/ausland/saudi-arabien-schaeden-nach-angriffen-wichtige-ost-west-pipeline-abgeschaltet-a-6dc1de13-62bc-42d7-938f-e08274764ba1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T20:45:00+00:00"
+    },
+    {
+      "titel": "9/11 im historischen Liveticker: Ermittler finden Mohammed Attas »Attentäter-Fibel« im Gepäck",
+      "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T20:31:00+00:00"
+    },
+    {
+      "titel": "Ultimate Championship: Merlin gewinnt Hammerwurf und kassiert 150.000 US-Dollar",
+      "link": "https://www.spiegel.de/sport/leichtathletik/ultimate-championship-merlin-gewinnt-hammerwurf-und-kassiert-150-000-us-dollar-a-a606dc23-5139-4e83-9638-f8aad389c8fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T20:19:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T20:06:57+00:00"
+    },
+    {
+      "titel": "Diktatorenvergleiche – Mbappé beklagt »mangelndes politisches Bewusstsein«",
+      "link": "https://www.spiegel.de/sport/fussball/diktatorenvergleiche-mbappe-beklagt-mangelndes-politisches-bewusstsein-a-35467a47-5970-49b5-b288-04f3ee75682c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T19:45:00+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Ölteppich breitet sich nach US-Angriff in der Straße von Hormus aus",
+      "link": "https://www.spiegel.de/wissenschaft/iran-krieg-oelteppich-breitet-sich-nach-us-angriff-in-der-strasse-von-hormus-aus-a-e3601956-5b3f-449e-ae1e-a1c49843556d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T19:01:00+00:00"
+    },
+    {
+      "titel": "Nadelöhr Bab al-Mandab: Droht im Nahen Osten die nächste Seeblockade?",
+      "link": "https://www.spiegel.de/ausland/nadeloehr-bab-al-mandab-droht-im-nahen-osten-die-naechste-seeblockade-a-48abe99c-0a7a-41b6-a262-57bacb6c2374#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T19:00:00+00:00"
+    },
+    {
+      "titel": "Ebola im Kongo: Neuer Todesfall im Nordwesten verschärft die Lage",
+      "link": "https://www.spiegel.de/ausland/ebola-im-kongo-neuer-todesfall-im-nordwesten-verschaerft-die-lage-a-6234faa0-c405-4c76-bb69-aee3ff3578c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T18:55:00+00:00"
+    },
+    {
+      "titel": "Seenotretter in England als Ziel rechter Anfeindung",
+      "link": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T18:45:23+00:00"
+    },
     {
       "titel": "CDU: Stellvertretende Generalsekretärin Christina Stumpp tritt nun doch ab",
       "link": "https://www.spiegel.de/politik/deutschland/cdu-stellvertretende-generalsekretaerin-christina-stumpp-tritt-nun-doch-ab-a-f9dca61c-01e8-42c9-aba1-eafa638e50fb#ref=rss",
@@ -19,52 +79,16 @@
       "veroeffentlicht": "2026-09-11T18:09:41+00:00"
     },
     {
-      "titel": "Christian von Stetten: Für den CDU-Politiker ist Bärbel Bas als Ministerin »nicht mehr tragbar«",
-      "link": "https://www.spiegel.de/politik/deutschland/christian-von-stetten-fuer-den-cdu-politiker-ist-baerbel-bas-als-ministerin-nicht-mehr-tragbar-a-859e7a08-963b-42be-9444-b6f0d0378ad3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T18:02:00+00:00"
-    },
-    {
-      "titel": "9/11 im historischen Liveticker: Feuerwehrleute retten überlebende Kameraden und Zivilisten aus Trümmern",
-      "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T17:49:00+00:00"
-    },
-    {
-      "titel": "Filmfestival in Venedig: Russell Crowe präsentiert Musik-Doku »What Love Builds«",
-      "link": "https://www.spiegel.de/panorama/leute/filmfestival-in-venedig-russell-crowe-praesentiert-musik-doku-what-love-builds-a-8575c4d7-8ed4-49bf-8db9-e0d79107133d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T17:48:00+00:00"
-    },
-    {
-      "titel": "USA: Wie Donald Trump eine Blamage der Republikaner bei den Midterms abwenden will",
-      "link": "https://www.spiegel.de/ausland/usa-wie-donald-trump-eine-blamage-der-republikaner-bei-den-midterms-abwenden-will-a-617b2fbc-1f9d-4c35-96c9-a6895ab2bc02#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T17:43:00+00:00"
-    },
-    {
       "titel": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-11T17:41:26+00:00"
     },
     {
-      "titel": "»Zauberhafte Schwestern 2« mit Sandra Bullock & Nicole Kidman: Der erstaunlich altmodische Zaubertrick dieser Fortsetzung",
-      "link": "https://www.spiegel.de/kultur/zauberhafte-schwestern-2-mit-sandra-bullock-nicole-kidman-der-erstaunlich-altmodische-zaubertrick-dieser-fortsetzung-a-b5c6f7b4-b8ca-41d6-ac8d-3f1020772f61#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T17:28:00+00:00"
-    },
-    {
       "titel": "Gedenken an 9/11: Amerika tut sich schwer, gemeinsam zu trauern",
       "link": "https://www.sueddeutsche.de/politik/new-york-september-gedenken-spannungen-li.3544431",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-11T17:18:25+00:00"
-    },
-    {
-      "titel": "Beringmeer vor Alaska: 15-Jähriger überlebt tagelang auf gekentertem Boot",
-      "link": "https://www.spiegel.de/panorama/beringmeer-vor-alaska-15-jaehriger-ueberlebt-tagelang-auf-gekentertem-boot-a-ad174563-7c94-4242-95f0-06d99d7d0640#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T16:59:00+00:00"
     },
     {
       "titel": "Rüstungsgüter für \"Abschiebeoffensive\": Empörung über Siegmund-Aussage",
@@ -79,22 +103,10 @@
       "veroeffentlicht": "2026-09-11T16:50:32+00:00"
     },
     {
-      "titel": "Nepal: Warum das Land nach der Sturzflut im Himalaya Entschädigungen fordert",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/nepal-warum-das-land-nach-der-sturzflut-im-himalaya-entschaedigungen-fordert-a-ba8baac5-c96d-4d3e-be9c-c5d6420b3764#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T16:48:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Der DAX stabilisiert sich",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-11T16:32:18+00:00"
-    },
-    {
-      "titel": "Sterbehilfe: Britisches Parlament lehnt Legalisierung in erster Lesung ab",
-      "link": "https://www.spiegel.de/ausland/sterbehilfe-britisches-parlament-lehnt-legalisierung-in-erster-lesung-ab-a-c7abb1b6-3fb5-4474-9335-de682267b52c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T16:27:00+00:00"
     },
     {
       "titel": "Huthi-Miliz greift nach wichtiger Meerenge Bab al-Mandab",
@@ -115,12 +127,6 @@
       "veroeffentlicht": "2026-09-11T15:19:50+00:00"
     },
     {
-      "titel": "Newsblog zum Nahost-Krieg: 46 000 Menschen nach Eskalation in Jemen vertrieben",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-meerenge-bab-al-mandab-jemen-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T15:01:38+00:00"
-    },
-    {
       "titel": "Kunst: Argentinien muss NS-Raubkunst zurückgeben",
       "link": "https://www.sueddeutsche.de/kultur/ns-raubkunst-portraet-einer-dame-juedischer-sammler-li.3546115",
       "quelle": "Süddeutsche",
@@ -139,6 +145,12 @@
       "veroeffentlicht": "2026-09-11T14:32:00+00:00"
     },
     {
+      "titel": "Krieg in Nahost: Huthi erlangen Kontrolle über Meerenge Bab al-Mandab",
+      "link": "https://www.sueddeutsche.de/politik/saudi-arabien-pipeline-angriff-huthi-jemen-li.3545819",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T14:10:43+00:00"
+    },
+    {
       "titel": "Interview mit ESA-Chef Aschbacher: „Europa wacht jetzt auf“",
       "link": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-esa-space-x-isar-aerospace-li.3545838",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-11T13:41:00+00:00"
-    },
-    {
-      "titel": "Was New Yorks Muslime nach 9/11 durchmachen mussten",
-      "link": "https://www.tagesschau.de/ausland/amerika/muslime-new-york-9-11-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T13:37:59+00:00"
-    },
-    {
-      "titel": "Ferienwohnungen: Warum der „Wiesnwahnsinn“ auch auf dem Immobilienmarkt zu spüren ist",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-ferienwohnungen-airbnb-oktoberfest-li.3545045",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T13:16:38+00:00"
     }
   ]
 }
