@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-09-11T21:20:40+00:00",
+  "aktualisiert": "2026-09-11T23:32:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Thorsten Frei (CDU) hält »Bundeszwang« gegen AfD-Landesregierung für möglich",
+      "link": "https://www.spiegel.de/politik/thorsten-frei-cdu-haelt-bundeszwang-gegen-afd-landesregierung-fuer-moeglich-a-e8b6e7e1-faeb-43e2-8791-3f0d3bfb425c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T23:08:00+00:00"
+    },
+    {
+      "titel": "US Open: Alexander Zverev zieht nach drei Sätzen ins Endspiel ein",
+      "link": "https://www.spiegel.de/sport/us-open-alexander-zverev-zieht-nach-drei-saetzen-ins-endspiel-ein-a-b44c721f-6db8-4011-9ebb-04e137e82030#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T23:04:00+00:00"
+    },
+    {
+      "titel": "9/11 im historischen Liveticker: George W. Bush hat Bunker in Nebraska verlassen - »So sieht Krieg im 21. Jahrhundert aus«",
+      "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T22:55:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T21:31:05+00:00"
+    },
+    {
+      "titel": "Frankreich: Zugunglück in der Normandie – mindestens 44 Menschen verletzt",
+      "link": "https://www.spiegel.de/ausland/frankreich-zugunglueck-in-der-normandie-mindestens-44-menschen-verletzt-a-d1157a15-cb92-460d-a55a-da99569c6766#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T21:29:00+00:00"
+    },
     {
       "titel": "Fußball-Bundesliga: Union Berlin unterliegt Schalke 04",
       "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-unterliegt-schalke-04-a-3ecf44a3-4382-45ef-a055-81a033de86b3#ref=rss",
@@ -17,12 +47,6 @@
       "link": "https://www.spiegel.de/ausland/saudi-arabien-schaeden-nach-angriffen-wichtige-ost-west-pipeline-abgeschaltet-a-6dc1de13-62bc-42d7-938f-e08274764ba1#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-11T20:45:00+00:00"
-    },
-    {
-      "titel": "9/11 im historischen Liveticker: Ermittler finden Mohammed Attas »Attentäter-Fibel« im Gepäck",
-      "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T20:31:00+00:00"
     },
     {
       "titel": "Ultimate Championship: Merlin gewinnt Hammerwurf und kassiert 150.000 US-Dollar",
@@ -49,28 +73,10 @@
       "veroeffentlicht": "2026-09-11T19:01:00+00:00"
     },
     {
-      "titel": "Nadelöhr Bab al-Mandab: Droht im Nahen Osten die nächste Seeblockade?",
-      "link": "https://www.spiegel.de/ausland/nadeloehr-bab-al-mandab-droht-im-nahen-osten-die-naechste-seeblockade-a-48abe99c-0a7a-41b6-a262-57bacb6c2374#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T19:00:00+00:00"
-    },
-    {
-      "titel": "Ebola im Kongo: Neuer Todesfall im Nordwesten verschärft die Lage",
-      "link": "https://www.spiegel.de/ausland/ebola-im-kongo-neuer-todesfall-im-nordwesten-verschaerft-die-lage-a-6234faa0-c405-4c76-bb69-aee3ff3578c2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T18:55:00+00:00"
-    },
-    {
       "titel": "Seenotretter in England als Ziel rechter Anfeindung",
       "link": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-11T18:45:23+00:00"
-    },
-    {
-      "titel": "CDU: Stellvertretende Generalsekretärin Christina Stumpp tritt nun doch ab",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-stellvertretende-generalsekretaerin-christina-stumpp-tritt-nun-doch-ab-a-f9dca61c-01e8-42c9-aba1-eafa638e50fb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T18:35:00+00:00"
     },
     {
       "titel": "Gedenken zum 11. September in den USA: Ein ganzes Land trauert",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/bundestrainer-juergen-klopp-stadien-kommentar-li.3545865",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-11T14:05:04+00:00"
-    },
-    {
-      "titel": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T13:41:00+00:00"
     }
   ]
 }
