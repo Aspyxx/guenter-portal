@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-11T11:24:52+00:00",
+  "aktualisiert": "2026-09-11T15:13:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Fünf Tote nach Busunglück in der Schweiz",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T11:22:39+00:00"
-    },
-    {
-      "titel": "Geschäfte sollen künftig Kartenzahlung anbieten müssen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bargeld-cash-bezahlen-einkaufen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T11:14:28+00:00"
-    },
-    {
-      "titel": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T11:13:36+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T11:13:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Tote und Verletzte bei Angriffen auf Tankstellen in Kiew",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-drohne-russland-infrastruktur-dnipro-kiew-tankstelle-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T11:08:25+00:00"
-    },
-    {
-      "titel": "Elon Musk: Techmilliardär attackiert Regisseur der Doku »Musk«",
-      "link": "https://www.spiegel.de/kultur/kino/elon-musk-techmilliardaer-attackiert-regisseur-der-doku-musk-a-740ab13f-d538-452c-a4d7-6b76c26cfd01#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T10:58:00+00:00"
-    },
-    {
-      "titel": "Mafia: Mutmaßliche Mafiosi bei Razzia in Baden-Württemberg festgenommen",
-      "link": "https://www.spiegel.de/panorama/justiz/mafia-mutmassliche-mafiosi-bei-razzia-in-baden-wuerttemberg-festgenommen-a-5e827025-b1f4-4000-b2ad-74237b9d9f85#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T10:38:00+00:00"
-    },
-    {
-      "titel": "Beatles: Forscher zitieren die Band in Tausenden Fachartikeln",
-      "link": "https://www.spiegel.de/wissenschaft/beatles-forscher-zitieren-die-band-in-tausenden-fachartikeln-a-dc158af2-f8dc-4e82-97ea-f7a63b3f48d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T10:32:00+00:00"
-    },
-    {
-      "titel": "Oktoberfest: So gut schützen Impfungen vor Atemwegsinfekten",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/oktoberfest-grippe-corona-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T10:29:58+00:00"
-    },
-    {
-      "titel": "»The Office«-Produzent Greg Daniels wird auf »Walk of Fame« verewigt und teilt gegen KI aus",
-      "link": "https://www.spiegel.de/kultur/tv/the-office-produzent-greg-daniels-wird-auf-walk-of-fame-verewigt-und-teilt-gegen-ki-aus-a-1b1611c8-6146-418b-b950-9d2cfb98cd13#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T10:25:00+00:00"
-    },
-    {
-      "titel": "Italien: Frühere EU-Kommissarin Emma Bonino ist tot",
-      "link": "https://www.spiegel.de/ausland/italien-fruehere-eu-kommissarin-emma-bonino-ist-tot-a-90ef3301-c6e2-424b-ae62-cdfa41752451#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T10:20:00+00:00"
-    },
-    {
-      "titel": "Emirates: Deutscher Airline-Verband kritisiert zusätzliche Verkehrsrechte",
-      "link": "https://www.spiegel.de/wirtschaft/emirates-deutscher-airline-verband-kritisiert-zusaetzliche-verkehrsrechte-a-9783ef9f-4fe2-466b-a383-fe29ff43c198#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T10:19:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Huthi rücken in Jemen auf strategisch wichtige Meerenge Bab al-Mandab vor",
+      "titel": "Newsblog zum Nahost-Krieg: Irans Vizepräsident gratuliert Huthi – Tausende Menschen auf Flucht",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-meerenge-bab-al-mandab-jemen-li.3530668",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T10:16:23+00:00"
+      "veroeffentlicht": "2026-09-11T15:01:38+00:00"
     },
     {
-      "titel": "USA unter Donald Trump: Investoren zweifeln am Schuldenkurs und an US-Staatsanleihen",
-      "link": "https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301#ref=rss",
+      "titel": "Rosch ha-Schana: Das feiern Jüdinnen und Juden am Neujahrsfest",
+      "link": "https://www.spiegel.de/panorama/rosch-ha-schana-das-feiern-juedinnen-und-juden-am-neujahrsfest-a-513a42cb-ba5f-4dd1-99a7-565e1faa2721#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T10:11:00+00:00"
+      "veroeffentlicht": "2026-09-11T14:52:00+00:00"
     },
     {
-      "titel": "Reform der Witwenrente: Rentensplitting würde Ehepaare laut Ifo-Institut ärmer machen",
-      "link": "https://www.spiegel.de/wirtschaft/service/reform-der-witwenrente-rentensplitting-wuerde-ehepaare-laut-ifo-institut-aermer-machen-a-b1656af7-6544-4980-8af4-b300f520bc82#ref=rss",
+      "titel": "25 Jahre nach den Anschlägen - 9/11 ist nicht vorbei",
+      "link": "https://www.tagesschau.de/kommentar/11-september-usa-afghanistan-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T14:46:01+00:00"
+    },
+    {
+      "titel": "Merkur: Der Planet schrumpft stärker als gedacht",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/merkur-der-planet-schrumpft-staerker-als-gedacht-a-1ac12c34-0ff5-43f2-a219-2e799008984f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T10:09:00+00:00"
+      "veroeffentlicht": "2026-09-11T14:44:00+00:00"
     },
     {
-      "titel": "Newsblog zu den Landtagswahlen: AfD-Spitzenkandidat Siegmund sorgt für Empörung",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-2026-deutschland-liveblog-sachsen-anhalt-siegmund-afd-fraktion-li.3540501",
+      "titel": "Sebastian Koch: Ermittlungen gegen AfD-Politiker wegen Waffenfund",
+      "link": "https://www.spiegel.de/panorama/justiz/sebastian-koch-ermittlungen-gegen-afd-politiker-wegen-waffenfund-a-64aaf401-4cbb-450f-91fb-a101997264ad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T14:31:00+00:00"
+    },
+    {
+      "titel": "Ultimate Championship: Dieser neue Wettbewerb soll Leichtathleten reich machen",
+      "link": "https://www.spiegel.de/sport/leichtathletik/ultimate-championship-dieser-neue-wettbewerb-soll-leichtathleten-reich-machen-a-ebd1ba5a-cf63-4672-a4ab-d756a56b9dae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T14:30:00+00:00"
+    },
+    {
+      "titel": "Ulrich Siegmund über Rüstung und Remigration: Verfassungsrechtlich heikel und Affront für das BSW",
+      "link": "https://www.spiegel.de/politik/ulrich-siegmund-ueber-ruestung-und-remigration-verfassungsrechtlich-heikel-und-affront-fuer-das-bsw-a-2d9a3469-42dd-45c2-82f0-08fdf375c727#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T14:18:00+00:00"
+    },
+    {
+      "titel": "CDU Sachsen-Anhalt: Angebliche »Schlammschlacht« – Sepp Müller wehrt sich gegen Schummelvorwürfe",
+      "link": "https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-angebliche-schlammschlacht-sepp-mueller-wehrt-sich-gegen-schummelvorwuerfe-a-8a76daab-c27d-4aca-855c-a533521370f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T14:18:00+00:00"
+    },
+    {
+      "titel": "Interview mit ESA-Chef Aschbacher: „Europa wacht jetzt auf“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-esa-space-x-isar-aerospace-li.3545838",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T09:58:15+00:00"
+      "veroeffentlicht": "2026-09-11T14:06:34+00:00"
     },
     {
-      "titel": "Leute: „Wenn irgendjemand irgendetwas Negatives sagt, höre ich auf. Sofort.“",
-      "link": "https://www.sueddeutsche.de/panorama/jennifer-lawrence-instagram-social-media-promis-li.3545844",
+      "titel": "Deutsche Nationalmannschaft: Klopp hat verstanden, dass ein Bundestrainer zu sehen und zu hören sein muss",
+      "link": "https://www.sueddeutsche.de/sport/bundestrainer-juergen-klopp-stadien-kommentar-li.3545865",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T09:42:48+00:00"
+      "veroeffentlicht": "2026-09-11T14:05:04+00:00"
     },
     {
-      "titel": "Wie der 11. September die US-Außenpolitik verändert hat",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T09:33:10+00:00"
+      "titel": "Norwegen: Prinzessin Astrid ist tot",
+      "link": "https://www.spiegel.de/panorama/norwegen-prinzessin-astrid-ist-tot-a-3295aa78-3437-4a9f-b9c8-5df978eecd31#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T14:02:00+00:00"
     },
     {
-      "titel": "Zeitenwende für Rot-Grün: Berlin und der Schock vom 11. September",
-      "link": "https://www.tagesschau.de/inland/11-september-reaktion-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T09:21:08+00:00"
+      "titel": "9/11 im historischen Liveticker: Der zweite Turm des World Trade Centers stürzt ein",
+      "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T13:59:00+00:00"
     },
     {
-      "titel": "Marktbericht: DAX hält sich vor US-Inflationsdaten stabil",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+      "titel": "Venedig: 25 Minuten Standing Ovations für Gaza-Doku »NAZA«",
+      "link": "https://www.spiegel.de/kultur/kino/venedig-25-minuten-standing-ovations-fuer-gaza-doku-naza-a-2cf54588-3ca6-4361-890d-bfaa7339a0be#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-11T13:43:00+00:00"
+    },
+    {
+      "titel": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T09:20:29+00:00"
+      "veroeffentlicht": "2026-09-11T13:41:00+00:00"
+    },
+    {
+      "titel": "Was New Yorks Muslime nach 9/11 durchmachen mussten",
+      "link": "https://www.tagesschau.de/ausland/amerika/muslime-new-york-9-11-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T13:37:59+00:00"
+    },
+    {
+      "titel": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T13:37:07+00:00"
+    },
+    {
+      "titel": "Anschlagspläne: Hamas-Unterstützer in Berlin angeklagt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/anklage-bundesanwaltschaft-hamas-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T13:14:35+00:00"
+    },
+    {
+      "titel": "Autohersteller: IG Metall fordert VW-Vorstand zu Gesprächen auf",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vw-ig-metall-gewerkschaft-betriebsrat-forderung-li.3545933",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T13:06:23+00:00"
+    },
+    {
+      "titel": "Landtagswahlen: Enge Rennen in zwei Bundesländern",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-berlin-umfragen-spd-afd-linke-cdu-li.3545294",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T13:03:29+00:00"
+    },
+    {
+      "titel": "Medizin: Sollte man sich jetzt gegen Covid und Grippe impfen lassen?",
+      "link": "https://www.sueddeutsche.de/gesundheit/corona-grippe-impfung-muenchen-empfehlungen-li.3544251",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T12:56:46+00:00"
+    },
+    {
+      "titel": "Tourismus: Hoteliers in Sachsen-Anhalt fürchten Stornierungen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/tourismus-sachsen-anhalt-afd-wahlerfolg-stornierungen-li.3545711",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T12:45:52+00:00"
+    },
+    {
+      "titel": "Huthi-Miliz erobert Insel in wichtiger Meerenge Bab al-Mandab",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-rebellen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T12:45:43+00:00"
+    },
+    {
+      "titel": "Jamal Musiala beim FC Bayern: Der harte Weg zum leichten Gefühl",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-musiala-rueckkehr-tor-absencen-li.3545860",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T12:41:48+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: USA gedenken der Terroropfer vom 11. September",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-11-september-ground-zero-gedenken-livestream-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T12:31:00+00:00"
+    },
+    {
+      "titel": "Was eine AfD-Regierung für den Verfassungsschutz bedeuten könnte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-verfassungsschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T12:22:02+00:00"
+    },
+    {
+      "titel": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-firmenpleiten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-11T12:21:33+00:00"
     },
     {
       "titel": "Arbeitsministerin Bas verspricht Übergangslösung für \"Rente mit 63\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bas-bundestag-reformen-bundesregierung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T09:08:49+00:00"
-    },
-    {
-      "titel": "Kritik an Wegfall der Info-Pflicht bei höheren Krankenkassenbeiträgen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherzentralen-erhoehung-krankenkassenbeitraege-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T08:43:10+00:00"
-    },
-    {
-      "titel": "Berlin-Wahl: Staatsanwaltschaft nennt konkrete Vorwürfe gegen SPD-Kandidaten Krach",
-      "link": "https://www.sueddeutsche.de/politik/steffen-krach-berlin-spd-bestechlichkeitsvorwurf-ermittlungen-li.3545291",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T07:50:00+00:00"
-    },
-    {
-      "titel": "US Open im Tennis: Win-win für alle – außer bei den Finanzen",
-      "link": "https://www.sueddeutsche.de/sport/tennis-us-open-rybakina-sabalenka-li.3545722",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T07:25:37+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: USA gedenken der Terroropfer vom 11. September – Trump bleibt Ground Zero fern",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-vance-11-september-ground-zero-gedenken-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T07:17:17+00:00"
-    },
-    {
-      "titel": "Deutscher Radiopreis: Vom Reden und Schweigen",
-      "link": "https://www.sueddeutsche.de/medien/deutscher-radiopreis-2026-verleihung-hoerfunk-gala-sieger-hamburg-li.3544213",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T07:08:40+00:00"
-    },
-    {
-      "titel": "Basketball-WM: Deutschland unter den besten vier – wirklich!",
-      "link": "https://www.sueddeutsche.de/sport/basketball-wm-frauen-wm-deutschland-halbfinale-li.3545701",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T06:48:29+00:00"
+      "veroeffentlicht": "2026-09-11T11:44:51+00:00"
     }
   ]
 }
