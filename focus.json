@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-12T16:23:11+00:00",
+  "aktualisiert": "2026-09-12T18:30:50+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "CDU-Generalsekretärin Hoppermann verteidigt Bundeskanzler Merz",
-      "link": "https://www.tagesschau.de/inland/merz-kritik-hoppermann-100.html",
+      "titel": "Huthi",
+      "link": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Bolsonaros Sohn greift nach der Macht",
-      "link": "https://www.tagesschau.de/ausland/brasilien-bolsonaro-sohn-100.html",
+      "titel": "Droht der nächste Ölpreis-Schock?",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
-      "link": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
+      "titel": "CDU-Generalsekretärin Hoppermann verteidigt Bundeskanzler Merz",
+      "link": "https://www.tagesschau.de/inland/merz-kritik-hoppermann-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     }
   ]
 }
