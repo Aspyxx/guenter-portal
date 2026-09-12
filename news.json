@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-12T01:35:17+00:00",
+  "aktualisiert": "2026-09-12T06:31:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,70 +7,88 @@
   },
   "meldungen": [
     {
-      "titel": "Istanbul: Erdoğan-Rivale İmamoğlu zu zwei Jahren Haft verurteilt",
-      "link": "https://www.spiegel.de/ausland/istanbul-erdogan-rivale-imamoglu-zu-zwei-jahren-haft-verurteilt-a-38d791b4-e7c2-4932-80f7-c4055edab010#ref=rss",
+      "titel": "Justizministerin Stefanie Hubig ruft Beamte auf, rechtswidrigen AfD-Weisungen zu widersprechen",
+      "link": "https://www.spiegel.de/politik/deutschland/justizministerin-stefanie-hubig-ruft-beamte-auf-rechtswidrigen-afd-weisungen-zu-widersprechen-a-e8b16d76-0020-46ae-95e9-b0402f05c277#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T01:20:00+00:00"
+      "veroeffentlicht": "2026-09-12T06:11:00+00:00"
     },
     {
-      "titel": "9/11 im historischen Liveticker: George W. Bush kündigt Vergeltung an – die USA hätten ihre Feinde immer bezwungen, »und wir werden das auch diesmal«",
+      "titel": "Lady Gaga ist offenbar Mutter geworden",
+      "link": "https://www.spiegel.de/panorama/leute/lady-gaga-ist-offenbar-mutter-geworden-a-c5540526-16e1-4730-a915-4e4f0490fa8a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T05:26:00+00:00"
+    },
+    {
+      "titel": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
+      "link": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-12T05:18:36+00:00"
+    },
+    {
+      "titel": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-12T05:04:13+00:00"
+    },
+    {
+      "titel": "Vatersein: Wie geht gleichberechtigte Elternschaft? – Podcast mit Sebastian Tigges",
+      "link": "https://www.spiegel.de/familie/vatersein-wie-geht-gleichberechtigte-elternschaft-podcast-mit-sebastian-tigges-a-765f04fd-41d1-4fc4-b403-ccde71f7216d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T04:50:00+00:00"
+    },
+    {
+      "titel": "9/11 im historischen Liveticker: 2000 Helfer suchen nach Überlebenden, Rudy Giuliani hofft",
       "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T00:36:00+00:00"
+      "veroeffentlicht": "2026-09-12T04:37:00+00:00"
     },
     {
-      "titel": "Thorsten Frei (CDU) hält »Bundeszwang« gegen AfD-Landesregierung für möglich",
-      "link": "https://www.spiegel.de/politik/thorsten-frei-cdu-haelt-bundeszwang-gegen-afd-landesregierung-fuer-moeglich-a-e8b6e7e1-faeb-43e2-8791-3f0d3bfb425c#ref=rss",
+      "titel": "Sachsen-Anhalt: Dubiose Vereine stützen offenbar Wagenknecht-Partei BSW",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-dubiose-vereine-stuetzen-offenbar-wagenknecht-partei-bsw-a-9684f5f9-a346-46ba-ad09-5a7bbe30d0f5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T23:08:00+00:00"
+      "veroeffentlicht": "2026-09-12T04:27:00+00:00"
     },
     {
-      "titel": "US Open: Alexander Zverev zieht nach drei Sätzen ins Endspiel ein",
-      "link": "https://www.spiegel.de/sport/us-open-alexander-zverev-zieht-nach-drei-saetzen-ins-endspiel-ein-a-b44c721f-6db8-4011-9ebb-04e137e82030#ref=rss",
+      "titel": "Zahnmedizin-Hochschule DTMD: Viel Geld für einen Abschluss, der nichts wert ist?",
+      "link": "https://www.spiegel.de/start/zahnmedizin-hochschule-dtmd-viel-geld-fuer-einen-abschluss-der-nichts-wert-ist-a-74aae922-7bda-4725-863c-922f0e8c185f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T23:04:00+00:00"
+      "veroeffentlicht": "2026-09-12T04:24:00+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Wenn die KI Chefin ist – und der Laden Verlust macht",
+      "link": "https://www.spiegel.de/karriere/kuenstliche-intelligenz-wenn-die-ki-chefin-ist-und-der-laden-verlust-macht-a-2c21606a-00d9-4ec1-8037-ffccbf27405c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T04:24:00+00:00"
+    },
+    {
+      "titel": "Tennis: Pelzmantel, Catsuit, Brandy – wenn der Platz zum Laufsteg wird",
+      "link": "https://www.spiegel.de/stil/tennis-pelzmantel-catsuit-brandy-wenn-der-platz-zum-laufsteg-wird-a-caad8567-69ec-4e53-9843-a18eb00c417b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T04:13:00+00:00"
+    },
+    {
+      "titel": "News: Sprache der AfD, Wahl in Schweden, Neubewertung des Philosophen Diderot",
+      "link": "https://www.spiegel.de/politik/deutschland/news-sprache-der-afd-wahl-in-schweden-neubewertung-des-philosophen-diderot-a-c8ae56d0-edd3-447b-8ef6-343f565d71cf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T04:09:00+00:00"
     },
     {
       "titel": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T21:31:05+00:00"
+      "veroeffentlicht": "2026-09-12T03:41:39+00:00"
     },
     {
-      "titel": "Frankreich: Zugunglück in der Normandie – mindestens 44 Menschen verletzt",
-      "link": "https://www.spiegel.de/ausland/frankreich-zugunglueck-in-der-normandie-mindestens-44-menschen-verletzt-a-d1157a15-cb92-460d-a55a-da99569c6766#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T21:29:00+00:00"
+      "titel": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-12T03:12:30+00:00"
     },
     {
-      "titel": "Fußball-Bundesliga: Union Berlin unterliegt Schalke 04",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-unterliegt-schalke-04-a-3ecf44a3-4382-45ef-a055-81a033de86b3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T20:56:00+00:00"
-    },
-    {
-      "titel": "Saudi-Arabien: Schäden nach Angriffen – wichtige Ost-West-Pipeline abgeschaltet",
-      "link": "https://www.spiegel.de/ausland/saudi-arabien-schaeden-nach-angriffen-wichtige-ost-west-pipeline-abgeschaltet-a-6dc1de13-62bc-42d7-938f-e08274764ba1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T20:45:00+00:00"
-    },
-    {
-      "titel": "Ultimate Championship: Merlin gewinnt Hammerwurf und kassiert 150.000 US-Dollar",
-      "link": "https://www.spiegel.de/sport/leichtathletik/ultimate-championship-merlin-gewinnt-hammerwurf-und-kassiert-150-000-us-dollar-a-a606dc23-5139-4e83-9638-f8aad389c8fe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T20:19:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-li.3530668",
+      "titel": "Newsblog zum Nahost-Krieg: Irak reagiert nach Angriff auf saudische Ölpipeline",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-li.3530668",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T20:06:57+00:00"
-    },
-    {
-      "titel": "Diktatorenvergleiche – Mbappé beklagt »mangelndes politisches Bewusstsein«",
-      "link": "https://www.spiegel.de/sport/fussball/diktatorenvergleiche-mbappe-beklagt-mangelndes-politisches-bewusstsein-a-35467a47-5970-49b5-b288-04f3ee75682c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-11T19:45:00+00:00"
+      "veroeffentlicht": "2026-09-12T03:00:43+00:00"
     },
     {
       "titel": "Seenotretter in England als Ziel rechter Anfeindung",
@@ -109,18 +127,6 @@
       "veroeffentlicht": "2026-09-11T16:50:32+00:00"
     },
     {
-      "titel": "Marktbericht: Der DAX stabilisiert sich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T16:32:18+00:00"
-    },
-    {
-      "titel": "Huthi-Miliz greift nach wichtiger Meerenge Bab al-Mandab",
-      "link": "https://www.tagesschau.de/ausland/huthi-eroberung-inseln-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T16:01:53+00:00"
-    },
-    {
       "titel": "Newsblog zur Bundespolitik: CDU-Arbeitnehmerflügel: Merz führt die falschen Debatten",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-merz-arbeitnehmer-kritik-li.3529564",
       "quelle": "Süddeutsche",
@@ -139,12 +145,6 @@
       "veroeffentlicht": "2026-09-11T14:55:33+00:00"
     },
     {
-      "titel": "25 Jahre nach den Anschlägen - 9/11 ist nicht vorbei",
-      "link": "https://www.tagesschau.de/kommentar/11-september-usa-afghanistan-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-11T14:46:01+00:00"
-    },
-    {
       "titel": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-zeltvergabe-gericht-li.3508722",
       "quelle": "Süddeutsche",
@@ -157,16 +157,16 @@
       "veroeffentlicht": "2026-09-11T14:10:43+00:00"
     },
     {
+      "titel": "Zahloptionen in der Gastronomie: Klingbeil bittet zur Kasse, aber keine Angst!",
+      "link": "https://www.sueddeutsche.de/wirtschaft/klingbeil-spd-gastronomie-kartenzahlung-glosse-li.3545890",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-11T14:06:41+00:00"
+    },
+    {
       "titel": "Interview mit ESA-Chef Aschbacher: „Europa wacht jetzt auf“",
       "link": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-esa-space-x-isar-aerospace-li.3545838",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-11T14:06:34+00:00"
-    },
-    {
-      "titel": "Deutsche Nationalmannschaft: Klopp hat verstanden, dass ein Bundestrainer zu sehen und zu hören sein muss",
-      "link": "https://www.sueddeutsche.de/sport/bundestrainer-juergen-klopp-stadien-kommentar-li.3545865",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T14:05:04+00:00"
     }
   ]
 }
