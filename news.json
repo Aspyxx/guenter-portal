@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-09-12T19:38:40+00:00",
+  "aktualisiert": "2026-09-12T21:41:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T20:58:00+00:00"
+    },
+    {
+      "titel": "Filmfestival in Venedig: Goldener Löwe geht an dänisch-ägyptische Regisseurin May El-Toukhy",
+      "link": "https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-goldener-loewe-geht-an-daenisch-aegyptische-regisseurin-may-el-toukhy-a-7fe3c9ff-ef65-47ba-b220-8857e9fe3c4b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T20:46:00+00:00"
+    },
+    {
+      "titel": "2. Fußball-Bundesliga: FC St. Pauli bezwingt VfL Wolfsburg spät",
+      "link": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-bezwingt-vfl-wolfsburg-spaet-a-20e81b3b-df83-4a06-8566-d506f5ea86be#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T20:42:00+00:00"
+    },
+    {
+      "titel": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
+      "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-12T20:36:15+00:00"
+    },
+    {
+      "titel": "Ukraine meldet weltweit erstes Gefecht zwischen Seedrohnen",
+      "link": "https://www.spiegel.de/ausland/ukraine-meldet-weltweit-erstes-gefecht-zwischen-seedrohnen-a-bb0b1e1c-0ac2-4ba5-8e4d-6695b4aed58a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T20:00:00+00:00"
+    },
+    {
+      "titel": "Demokratie: Zehntausende Menschen demonstrieren gegen Rechtsextremismus",
+      "link": "https://www.sueddeutsche.de/politik/demonstrationen-rechtsruck-berlin-hamburg-li.3546403",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T19:59:53+00:00"
+    },
+    {
+      "titel": "Chile: 16 Tote bei Brand in Seniorenheim",
+      "link": "https://www.spiegel.de/ausland/chile-16-tote-bei-brand-in-seniorenheim-a-7d9b2d8b-56fc-40cc-96fc-891d153d3931#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T19:37:00+00:00"
+    },
     {
       "titel": "Ukraine: Wohnung von ukrainischer Profi-Tennisspielerin Dajana Jastremska in Odessa zerstört",
       "link": "https://www.spiegel.de/ausland/ukraine-wohnung-von-ukrainischer-profi-tennisspielerin-dajana-jastremska-in-odessa-zerstoert-a-6939f134-f3fc-4840-9750-137e66b77aea#ref=rss",
@@ -31,22 +73,10 @@
       "veroeffentlicht": "2026-09-12T18:26:00+00:00"
     },
     {
-      "titel": "Anthropic-Chef Dario Amodei warnt vor Tempo der KI-Entwicklung und will Inspekteuren Zugang geben",
-      "link": "https://www.spiegel.de/netzwelt/anthropic-chef-dario-amodei-warnt-vor-tempo-der-ki-entwicklung-und-will-inspekteuren-zugang-geben-a-b58c4f24-72b0-4eb2-a9e9-02cdebe9888f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T18:04:00+00:00"
-    },
-    {
       "titel": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
       "link": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-12T17:55:57+00:00"
-    },
-    {
-      "titel": "9/11 im historischen Liveticker: Genelle Guzman-McMillan, letzte Überlebende, von 9/11 ist gerettet",
-      "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T17:39:00+00:00"
     },
     {
       "titel": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
@@ -65,24 +95,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-12T16:59:53+00:00"
-    },
-    {
-      "titel": "Österreich und seine Skandale: Ibiza-Affäre, FPÖ-Skandale und der Kurz-Sturz",
-      "link": "https://www.spiegel.de/ausland/oesterreich-und-seine-skandale-ibiza-affaere-fpoe-skandale-und-der-kurz-sturz-a-991c9721-7b24-4573-bdd3-650ae639d112#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T16:54:00+00:00"
-    },
-    {
-      "titel": "Sebastian Pufpaff wird 50 und freut sich: »Ich wurde schon immer älter geschätzt«",
-      "link": "https://www.spiegel.de/panorama/leute/sebastian-pufpaff-wird-50-und-freut-sich-ich-wurde-schon-immer-aelter-geschaetzt-a-88ffaa9f-54a0-42ca-9ba9-29dc4af087a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T16:50:00+00:00"
-    },
-    {
-      "titel": "Umgang mit Rechts: Was Gerhard Pfister über Strategien gegen Populisten sagt",
-      "link": "https://www.spiegel.de/ausland/umgang-mit-rechts-was-gerhard-pfister-ueber-strategien-gegen-populisten-sagt-a-a81ac28c-a92b-4ff9-b132-c0fc549ab981#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T16:49:00+00:00"
     },
     {
       "titel": "Basketball-WM: Frankreich zeigt Deutschland die Grenzen auf",
@@ -139,12 +151,6 @@
       "veroeffentlicht": "2026-09-12T12:11:51+00:00"
     },
     {
-      "titel": "CDU-Generalsekretärin Hoppermann verteidigt Bundeskanzler Merz",
-      "link": "https://www.tagesschau.de/inland/merz-kritik-hoppermann-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T11:46:56+00:00"
-    },
-    {
       "titel": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-zeltvergabe-gericht-li.3508722",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-esa-space-x-isar-aerospace-li.3545838",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-12T09:03:35+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Frei und Hubig: Bundeszwang gegen eine AfD-Landesregierung möglich",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-frei-hubig-bundeszwang-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T08:25:00+00:00"
     }
   ]
 }
