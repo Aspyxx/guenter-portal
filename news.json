@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-12T14:24:05+00:00",
+  "aktualisiert": "2026-09-12T17:26:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,100 @@
   },
   "meldungen": [
     {
-      "titel": "Polizei-Irrtum in Heidenheim: SEK stürmt falsche Wohnung",
-      "link": "https://www.spiegel.de/panorama/polizei-irrtum-in-heidenheim-sek-stuermt-falsche-wohnung-a-3ab1bf0a-d0c8-4020-8412-1bf45ffbd1ca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T14:03:00+00:00"
+      "titel": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
+      "link": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-12T16:59:53+00:00"
     },
     {
-      "titel": "Nationalsozialismus: SA-Gefängnis war Vorbild für Folterknast in »Babylon Berlin«",
-      "link": "https://www.spiegel.de/geschichte/am-anfang-war-die-gewalt-a-79572678-0002-0001-0000-000207602129#ref=rss",
+      "titel": "Österreich und seine Skandale: Ibiza-Affäre, FPÖ-Skandale und der Kurz-Sturz",
+      "link": "https://www.spiegel.de/ausland/oesterreich-und-seine-skandale-ibiza-affaere-fpoe-skandale-und-der-kurz-sturz-a-991c9721-7b24-4573-bdd3-650ae639d112#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T14:03:00+00:00"
+      "veroeffentlicht": "2026-09-12T16:54:00+00:00"
     },
     {
-      "titel": "ChatGPT, Claude, Gemini: Für KI bezahlen? Lohnt sich ein Abo wirklich?",
-      "link": "https://www.spiegel.de/netzwelt/web/chatgpt-claude-gemini-fuer-ki-bezahlen-lohnt-sich-ein-abo-wirklich-a-ae51da00-97bb-4f81-9a83-802109adea64#ref=rss",
+      "titel": "Sebastian Pufpaff wird 50: »Ich wurde schon immer älter geschätzt«",
+      "link": "https://www.spiegel.de/panorama/leute/sebastian-pufpaff-wird-50-ich-wurde-schon-immer-aelter-geschaetzt-a-88ffaa9f-54a0-42ca-9ba9-29dc4af087a3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T13:50:00+00:00"
+      "veroeffentlicht": "2026-09-12T16:50:00+00:00"
     },
     {
-      "titel": "Wahl in Schweden: Die Schwedendemokraten greifen nach der Macht",
-      "link": "https://www.spiegel.de/ausland/wahl-in-schweden-die-schwedendemokraten-greifen-nach-der-macht-a-6d0182d3-e78e-4482-a81d-0f019dac113c#ref=rss",
+      "titel": "Umgang mit Rechts: Was Gerhard Pfister über Strategien gegen Populisten sagt",
+      "link": "https://www.spiegel.de/ausland/umgang-mit-rechts-was-gerhard-pfister-ueber-strategien-gegen-populisten-sagt-a-a81ac28c-a92b-4ff9-b132-c0fc549ab981#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T13:47:00+00:00"
+      "veroeffentlicht": "2026-09-12T16:49:00+00:00"
+    },
+    {
+      "titel": "AfD: Zehntausende demonstrieren in über 35 Städten gegen Rechtsextremismus",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-zehntausende-demonstrieren-in-ueber-35-staedten-gegen-rechtsextremismus-a-c80cd2d6-34a7-4904-9ad9-b0a2bf20e77a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T16:43:00+00:00"
+    },
+    {
+      "titel": "Schulanfang: Die Schlacht um die Schreibwaren",
+      "link": "https://www.spiegel.de/familie/schulanfang-die-schlacht-um-die-schreibwaren-a-7d1ebd38-2ca4-4bff-a231-63d9e922ef78#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T16:42:00+00:00"
+    },
+    {
+      "titel": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-12T16:39:40+00:00"
+    },
+    {
+      "titel": "Trier, Kempten, Worms, Heuneburg: Wo liegt die älteste Stadt Deutschlands?",
+      "link": "https://www.spiegel.de/wissenschaft/trier-kempten-worms-heuneburg-wo-liegt-die-aelteste-stadt-deutschlands-a-0fea2647-cc1d-4f94-ad2f-217f505c7bcf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T16:36:00+00:00"
+    },
+    {
+      "titel": "G20-Gipfel in den USA: Wolodymir Selenskyj zu Treffen mit Wladimir Putin bereit, Kreml ziert sich",
+      "link": "https://www.spiegel.de/ausland/g20-gipfel-in-den-usa-wolodymir-selenskyj-zu-treffen-mit-wladimir-putin-bereit-kreml-ziert-sich-a-df95a667-e846-44ce-8865-6958c5e4264d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T16:34:00+00:00"
+    },
+    {
+      "titel": "9/11 im historischen Liveticker: Nato will nach Terrorangriff auf die USA erstmals Bündnisfall nach Artikel 5 beschließen",
+      "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T16:33:00+00:00"
+    },
+    {
+      "titel": "Basketball-WM: Frankreich zeigt Deutschland die Grenzen auf",
+      "link": "https://www.sueddeutsche.de/sport/basketball-wm-frauen-wm-deutschland-halbfinale-li.3546385",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T16:29:37+00:00"
+    },
+    {
+      "titel": "Basketball-WM der Frauen: Deutschland unterliegt im Halbfinale Frankreich",
+      "link": "https://www.spiegel.de/sport/basketball/basketball-wm-der-frauen-deutschland-unterliegt-im-halbfinale-frankreich-a-67679cc3-ff72-4bfd-a498-f4811c5b4bd8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T16:23:00+00:00"
+    },
+    {
+      "titel": "Bundesliga: Kleindienst fliegt an Gladbachs Katastrophentag",
+      "link": "https://www.sueddeutsche.de/sport/spieltag-bundesliga-gladbach-ergebnis-kleindienst-li.3546413",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T16:01:13+00:00"
+    },
+    {
+      "titel": "Demo für AfD-Verbotsverfahren: „Wie lange wollen wir noch zuschauen?“",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-demo-pruef-demo-anti-afd-krause-ludwigstrasse-li.3545446",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T15:31:08+00:00"
+    },
+    {
+      "titel": "Zug entgleist in Frankreich: Ermittler gehen Sabotage-Verdacht nach",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-12T14:57:44+00:00"
+    },
+    {
+      "titel": "Landtagswahl Sachsen-Anhalt: Ein Riss in Siegmunds freundlicher Fassade",
+      "link": "https://www.sueddeutsche.de/meinung/afd-ulrich-siegmund-ruestung-abschiebung-li.3546359",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T14:11:15+00:00"
     },
     {
       "titel": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
@@ -49,24 +121,6 @@
       "veroeffentlicht": "2026-09-12T13:07:48+00:00"
     },
     {
-      "titel": "Boris Pistorius: Verteidigungsminister plant eigene Satelliten für die Bundeswehr",
-      "link": "https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-plant-eigene-satelliten-fuer-die-bundeswehr-a-62d16b6d-9d2e-48e5-b255-8c3806864696#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T12:44:00+00:00"
-    },
-    {
-      "titel": "Berlin: Stefan Evers (CDU) fordert Videoüberwachung zum Schutz Homosexueller",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-stefan-evers-cdu-fordert-videoueberwachung-zum-schutz-homosexueller-a-7ae3a22f-8453-4054-a636-c9fd822a4726#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T12:34:00+00:00"
-    },
-    {
-      "titel": "9/11 im historischen Liveticker: Taliban-Regierung bietet den USA Gespräche über Auslieferung Osama bin Ladens an",
-      "link": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T12:23:00+00:00"
-    },
-    {
       "titel": "USA-Newsblog: Trump will ein vereintes Irland",
       "link": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
       "quelle": "Süddeutsche",
@@ -79,46 +133,16 @@
       "veroeffentlicht": "2026-09-12T11:46:56+00:00"
     },
     {
-      "titel": "Bärbel Bas: Lars Klingbeil verteidigt SPD-Ministerin gegen CDU-Kritik",
-      "link": "https://www.spiegel.de/politik/deutschland/baerbel-bas-lars-klingbeil-verteidigt-spd-ministerin-gegen-cdu-kritik-a-55de8120-6b68-428f-a642-368fead6a7a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T11:40:00+00:00"
-    },
-    {
       "titel": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
       "link": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-12T11:05:29+00:00"
     },
     {
-      "titel": "Donald Trump in Irland: US-Präsident schwärmt von vereintem Irland",
-      "link": "https://www.spiegel.de/ausland/donald-trump-in-irland-us-praesident-schwaermt-von-vereintem-irland-a-78d8f66e-9026-440d-9bcc-0e4632a97a45#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T10:49:00+00:00"
-    },
-    {
-      "titel": "Zug entgleist in Frankreich - Ermittler schließen Sabotage nicht aus",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T10:45:13+00:00"
-    },
-    {
       "titel": "Hubig will Verstöße gegen Mietpreisbremse mit Bußgeldern bestrafen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-mietpreisbremse-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-12T10:43:25+00:00"
-    },
-    {
-      "titel": "Brasilien: Bolsonaros Sohn greift nach der Macht",
-      "link": "https://www.tagesschau.de/ausland/brasilien-bolsonaro-sohn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T10:20:15+00:00"
-    },
-    {
-      "titel": "Alaska: 15-Jähriger nach Tagen auf gekentertem Boot gerettet",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-junge-rettung-boot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T10:04:22+00:00"
     },
     {
       "titel": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-frei-hubig-bundeszwang-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-12T08:25:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Irak reagiert nach Angriff auf saudische Ölpipeline",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T03:00:43+00:00"
-    },
-    {
-      "titel": "US Open im Tennis: Zverev erreicht Finale und kann wieder Grand-Slam-Sieger werden",
-      "link": "https://www.sueddeutsche.de/sport/alexander-zverev-finale-us-open-new-york-li.3546181",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T23:02:08+00:00"
-    },
-    {
-      "titel": "Gedenken an 9/11: Amerika tut sich schwer, gemeinsam zu trauern",
-      "link": "https://www.sueddeutsche.de/politik/new-york-september-gedenken-spannungen-li.3544431",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T17:18:25+00:00"
-    },
-    {
-      "titel": "Kunst: Argentinien muss NS-Raubkunst zurückgeben",
-      "link": "https://www.sueddeutsche.de/kultur/ns-raubkunst-portraet-einer-dame-juedischer-sammler-li.3546115",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-11T14:55:33+00:00"
     }
   ]
 }
