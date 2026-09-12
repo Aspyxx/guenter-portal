@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-09-12T21:41:33+00:00",
+  "aktualisiert": "2026-09-12T23:26:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ermittler sehen bei Zugunglück in Frankreich keine Hinweise auf Anschlag",
+      "link": "https://www.spiegel.de/ausland/ermittler-sehen-bei-zugunglueck-in-frankreich-keine-hinweise-auf-anschlag-a-231b7e60-0400-4656-8225-c31f02e5e240#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T23:00:00+00:00"
+    },
+    {
+      "titel": "Donald Trumps Elternhaus für zwei Millionen US-Dollar verkauft",
+      "link": "https://www.spiegel.de/ausland/donald-trumps-elternhaus-fuer-zwei-millionen-us-dollar-verkauft-a-5fcd2506-5591-4e22-b54e-f4ff6354fe88#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-12T22:37:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
+      "link": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T22:06:34+00:00"
+    },
     {
       "titel": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
       "link": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
@@ -61,16 +79,10 @@
       "veroeffentlicht": "2026-09-12T19:11:00+00:00"
     },
     {
-      "titel": "Donald Trump: Baufirma gesteht Fehler bei Reflecting Pool in Washington ein",
-      "link": "https://www.spiegel.de/ausland/donald-trump-baufirma-gesteht-fehler-bei-reflecting-pool-in-washington-ein-a-de429938-57fc-405d-b975-42614e5e5a9b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T18:38:00+00:00"
-    },
-    {
-      "titel": "Bundesliga: Niclas Füllkrug trifft bei Werder-Remis in Köln",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-niclas-fuellkrug-trifft-bei-werder-remis-in-koeln-a-8775744d-13eb-4a83-b862-32fa09fbaf09#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T18:26:00+00:00"
+      "titel": "Filmfestspiele in Venedig: Vielleicht geht die Welt nächstes Jahr noch mal unter",
+      "link": "https://www.sueddeutsche.de/kultur/goldener-loewe-abschluss-naza-gaza-politik-li.3544938",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T19:09:01+00:00"
     },
     {
       "titel": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
@@ -145,12 +157,6 @@
       "veroeffentlicht": "2026-09-12T13:07:48+00:00"
     },
     {
-      "titel": "USA-Newsblog: Trump will ein vereintes Irland",
-      "link": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T12:11:51+00:00"
-    },
-    {
       "titel": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-zeltvergabe-gericht-li.3508722",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/us-open-new-york-ballauftippen-aufschlag-li.3546277",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-12T09:25:34+00:00"
-    },
-    {
-      "titel": "Interview mit ESA-Chef Aschbacher: „Europa wacht jetzt auf“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-esa-space-x-isar-aerospace-li.3545838",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T09:03:35+00:00"
     }
   ]
 }
