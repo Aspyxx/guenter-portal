@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-13T01:25:57+00:00",
+  "aktualisiert": "2026-09-13T06:47:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,100 @@
   },
   "meldungen": [
     {
-      "titel": "Céline Dion feiert emotionales Comeback",
-      "link": "https://www.spiegel.de/panorama/celine-dion-feiert-emotionales-comeback-a-65f360f3-7e7e-4110-95e3-6b44fbd0b62e#ref=rss",
+      "titel": "Indonesien: Viele Vermisste nach Fährunglück",
+      "link": "https://www.spiegel.de/ausland/indonesien-viele-vermisste-nach-faehrunglueck-a-0d589df2-45d2-401b-ade7-d174521c893b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T01:16:00+00:00"
+      "veroeffentlicht": "2026-09-13T06:25:00+00:00"
     },
     {
-      "titel": "Ebola: Mehr als 7000 Fälle in Demokratischer Republik Kongo erfasst",
-      "link": "https://www.spiegel.de/ausland/ebola-mehr-als-7000-faelle-in-demokratischer-republik-kongo-erfasst-a-660ce1c8-17f6-4d3d-84b6-c56f52c989b2#ref=rss",
+      "titel": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T06:16:32+00:00"
+    },
+    {
+      "titel": "Wie eine explodierende Erbpacht Familien überfordern kann",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T06:15:32+00:00"
+    },
+    {
+      "titel": "Berlin: 15 Verletzte bei Busunfall in Neukölln",
+      "link": "https://www.spiegel.de/panorama/berlin-15-verletzte-bei-busunfall-in-neukoelln-a-9e00d9d5-b82b-4341-9f3d-0931d5f88743#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T00:31:00+00:00"
+      "veroeffentlicht": "2026-09-13T05:49:00+00:00"
+    },
+    {
+      "titel": "Verkehrsminister Bilger will Familienreservierung wieder einführen",
+      "link": "https://www.spiegel.de/wirtschaft/service/verkehrsminister-bilger-will-familienreservierung-wieder-einfuehren-a-8c55f4eb-ff50-4faa-b623-b9496a2be5b8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T05:43:00+00:00"
+    },
+    {
+      "titel": "Anthropic, OpenAI, SpaceXAI: Eskaliert jetzt die KI-Krise?",
+      "link": "https://www.spiegel.de/wirtschaft/anthropic-openai-spacexai-eskaliert-jetzt-die-ki-krise-a-718c08cc-db04-4074-b4e7-c2b91e33617b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T05:33:00+00:00"
+    },
+    {
+      "titel": "US Open: Jelena Rybakina gewinnt in New York gegen Aryna Sabalenka",
+      "link": "https://www.spiegel.de/sport/tennis/us-open-jelena-rybakina-gewinnt-in-new-york-gegen-aryna-sabalenka-a-bf58f45b-3eb0-46b0-879c-31a979ac40b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T05:16:00+00:00"
+    },
+    {
+      "titel": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T04:57:05+00:00"
+    },
+    {
+      "titel": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T04:47:55+00:00"
+    },
+    {
+      "titel": "Psychologie: Wie viel Prägung aus der Kindheit steckt noch in Ihnen? – Selbsttest",
+      "link": "https://www.spiegel.de/familie/psychologie-wie-viel-praegung-aus-der-kindheit-steckt-noch-in-ihnen-selbsttest-a-a1713d0a-93c3-4d1c-9de4-11b45096b89b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T04:35:00+00:00"
+    },
+    {
+      "titel": "Sophie Breuer über Einsamkeit: »Du kannst an einer voll besetzten Tafel sitzen und dich trotzdem sehr einsam fühlen«",
+      "link": "https://www.spiegel.de/start/sophie-breuer-ueber-einsamkeit-du-kannst-an-einer-voll-besetzten-tafel-sitzen-und-dich-trotzdem-sehr-einsam-fuehlen-a-5c82491e-d9d5-4524-8a8a-2e08c39d605d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T04:34:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Selenskij-Vertrauter: Gespräche mit USA und Russland wieder im Oktober",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-usa-gespraeche-oktober-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T04:28:53+00:00"
+    },
+    {
+      "titel": "»Albrecht Weinberg – Es ist immer in meinem Kopf«: Ein Holocaust-Überlebender erzählt",
+      "link": "https://www.spiegel.de/kultur/albrecht-weinberg-es-ist-immer-in-meinem-kopf-ein-holocaust-ueberlebender-erzaehlt-a-d9bbf5d9-32f0-4174-8168-738433b48269#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T04:13:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Sorgen um Ölversorgung nach Angriff auf Schiff in der Straße von Hormus",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-strasse-von-hormus-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T03:54:27+00:00"
+    },
+    {
+      "titel": "VW meldet mehr als 30.000 Bestellungen für E-Polo",
+      "link": "https://www.spiegel.de/wirtschaft/vw-meldet-mehr-als-30-000-bestellungen-fuer-e-polo-a-ef20c8c8-6308-48bb-8e2c-14ffba38bdd9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T03:40:00+00:00"
+    },
+    {
+      "titel": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T02:44:07+00:00"
     },
     {
       "titel": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
@@ -43,62 +127,20 @@
       "veroeffentlicht": "2026-09-12T23:34:16+00:00"
     },
     {
-      "titel": "Ermittler sehen bei Zugunglück in Frankreich keine Hinweise auf Anschlag",
-      "link": "https://www.spiegel.de/ausland/ermittler-sehen-bei-zugunglueck-in-frankreich-keine-hinweise-auf-anschlag-a-231b7e60-0400-4656-8225-c31f02e5e240#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T23:00:00+00:00"
-    },
-    {
-      "titel": "Donald Trumps Elternhaus für zwei Millionen US-Dollar verkauft",
-      "link": "https://www.spiegel.de/ausland/donald-trumps-elternhaus-fuer-zwei-millionen-us-dollar-verkauft-a-5fcd2506-5591-4e22-b54e-f4ff6354fe88#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T22:37:00+00:00"
-    },
-    {
-      "titel": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T20:58:00+00:00"
-    },
-    {
-      "titel": "Filmfestival in Venedig: Goldener Löwe geht an dänisch-ägyptische Regisseurin May El-Toukhy",
-      "link": "https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-goldener-loewe-geht-an-daenisch-aegyptische-regisseurin-may-el-toukhy-a-7fe3c9ff-ef65-47ba-b220-8857e9fe3c4b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T20:46:00+00:00"
-    },
-    {
-      "titel": "2. Fußball-Bundesliga: FC St. Pauli bezwingt VfL Wolfsburg spät",
-      "link": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-bezwingt-vfl-wolfsburg-spaet-a-20e81b3b-df83-4a06-8566-d506f5ea86be#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T20:42:00+00:00"
-    },
-    {
       "titel": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
       "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-12T20:36:15+00:00"
     },
     {
-      "titel": "Ukraine meldet weltweit erstes Gefecht zwischen Seedrohnen",
-      "link": "https://www.spiegel.de/ausland/ukraine-meldet-weltweit-erstes-gefecht-zwischen-seedrohnen-a-bb0b1e1c-0ac2-4ba5-8e4d-6695b4aed58a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T20:00:00+00:00"
-    },
-    {
       "titel": "Demokratie: Zehntausende Menschen demonstrieren gegen Rechtsextremismus",
-      "link": "https://www.sueddeutsche.de/politik/demonstrationen-rechtsruck-berlin-hamburg-li.3546403",
+      "link": "https://www.sueddeutsche.de/politik/demonstrationen-gegen-rechtsextremismus-kundgebungen-afd-li.3546403",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T19:59:53+00:00"
+      "veroeffentlicht": "2026-09-12T20:05:00+00:00"
     },
     {
-      "titel": "Chile: 16 Tote bei Brand in Seniorenheim",
-      "link": "https://www.spiegel.de/ausland/chile-16-tote-bei-brand-in-seniorenheim-a-7d9b2d8b-56fc-40cc-96fc-891d153d3931#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T19:37:00+00:00"
-    },
-    {
-      "titel": "Filmfestspiele in Venedig: Vielleicht geht die Welt auch nächstes Jahr wieder unter",
-      "link": "https://www.sueddeutsche.de/kultur/goldener-loewe-abschluss-naza-gaza-politik-li.3544938",
+      "titel": "Filmfestspiele: Noch einmal bebt die alte Welt",
+      "link": "https://www.sueddeutsche.de/kultur/goldener-loewe-wettbewerb-naza-gaza-politik-festival-li.3544938",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-12T19:09:01+00:00"
     },
@@ -107,24 +149,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-12T17:55:57+00:00"
-    },
-    {
-      "titel": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T17:38:32+00:00"
-    },
-    {
-      "titel": "Droht der nächste Ölpreis-Schock?",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T17:31:20+00:00"
-    },
-    {
-      "titel": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
-      "link": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T16:59:53+00:00"
     },
     {
       "titel": "Basketball-WM: Frankreich zeigt Deutschland die Grenzen auf",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-demo-pruef-demo-anti-afd-krause-ludwigstrasse-li.3545446",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-12T15:31:08+00:00"
-    },
-    {
-      "titel": "Zug entgleist in Frankreich: Ermittler gehen Sabotage-Verdacht nach",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T14:57:44+00:00"
-    },
-    {
-      "titel": "Landtagswahl Sachsen-Anhalt: Ein Riss in Siegmunds freundlicher Fassade",
-      "link": "https://www.sueddeutsche.de/meinung/afd-ulrich-siegmund-ruestung-abschiebung-li.3546359",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T14:11:15+00:00"
-    },
-    {
-      "titel": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T13:22:03+00:00"
-    },
-    {
-      "titel": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-zeltvergabe-gericht-li.3508722",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T09:33:00+00:00"
     }
   ]
 }
