@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-13T12:44:19+00:00",
+  "aktualisiert": "2026-09-13T16:39:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,64 +7,142 @@
   },
   "meldungen": [
     {
-      "titel": "CDU in Sachsen-Anhalt: Interner Chat zeigt Wut nach der Niederlage",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-interner-chat-zeigt-wut-nach-der-niederlage-a-c828396a-8ecd-40c3-b9cd-35896a8b89ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T12:15:00+00:00"
+      "titel": "USA-Newsblog: Trump weist Sicherheitsbedenken zu KI zurück",
+      "link": "https://www.sueddeutsche.de/politik/trump-ki-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T16:07:02+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Kreml hält Friedensverhandlungen im Oktober für möglich",
-      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-kreml-haelt-friedensverhandlungen-im-oktober-fuer-moeglich-a-f6cb4952-fb24-4c63-87e3-d1a127524bc7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T12:07:00+00:00"
+      "titel": "Bundesliga: Hamburg wird zum Leipziger Aufbaugegner",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-leipzig-hsv-spielbericht-tore-li.3546754",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T16:00:40+00:00"
     },
     {
-      "titel": "Heidi Klum und Tom Kaulitz: Wettschuld bringt Stiefsohn einen Ferrari",
-      "link": "https://www.spiegel.de/panorama/heidi-klum-und-tom-kaulitz-wettschuld-bringt-stiefsohn-einen-ferrari-a-85d1fc92-9ce0-404e-b3be-086c2a0533ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T12:03:00+00:00"
+      "titel": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T15:56:14+00:00"
     },
     {
-      "titel": "Eiger-Nordwand in den Alpen: Extremkletterer suchen neue Route im Schatten der Wand",
-      "link": "https://www.spiegel.de/sport/eiger-nordwand-in-den-alpen-extremkletterer-suchen-neue-route-im-schatten-der-wand-a-77e1227d-6907-414c-a32a-60d901a27874#ref=rss",
+      "titel": "Uno: Diese Entscheidung macht die Weltkarte fairer – die guten News der Woche",
+      "link": "https://www.spiegel.de/ausland/uno-diese-entscheidung-macht-die-weltkarte-fairer-die-guten-news-der-woche-a-73960333-8b06-4b49-a22e-8bbd98d64470#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T12:01:00+00:00"
+      "veroeffentlicht": "2026-09-13T15:54:00+00:00"
     },
     {
-      "titel": "Beziehung: Macht permanente Verhaltensanalyse beziehungsunfähig?",
-      "link": "https://www.spiegel.de/partnerschaft/beziehung-macht-permanente-verhaltensanalyse-beziehungsunfaehig-a-05961989-4ae6-403e-bfc8-387811fa2d1f#ref=rss",
+      "titel": "Formel 1: Kimi Antonelli gewinnt Premiere in Madrid, Konkurrenz im Pech",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-premiere-in-madrid-konkurrenz-im-pech-a-75d4608d-f37e-492c-ac99-30f951dfb162#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T11:58:00+00:00"
+      "veroeffentlicht": "2026-09-13T15:51:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz im Tief: In der CDU geht die Angst um",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-im-tief-in-der-cdu-geht-die-angst-um-a-10502655-c11c-42a5-b7e6-79db04e5108a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T15:43:00+00:00"
+    },
+    {
+      "titel": "Bundesliga: Hamburger SV kassiert bei RB Leipzig zweite herbe Pleite in Serie",
+      "link": "https://www.spiegel.de/sport/fussball/bundesliga-hamburger-sv-kassiert-bei-rb-leipzig-zweite-herbe-pleite-in-serie-a-56e2b166-ebba-4d3e-96ab-aa28cce9ea04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T15:23:00+00:00"
+    },
+    {
+      "titel": "»Tatort« heute mit Maria Furtwängler: »König in Gelb« im Schnellcheck",
+      "link": "https://www.spiegel.de/kultur/tv/tatort-heute-mit-maria-furtwaengler-koenig-in-gelb-im-schnellcheck-a-8749e495-2cd2-4cec-a06b-e28078efcfaa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T15:21:00+00:00"
+    },
+    {
+      "titel": "Donald Trump und Künstliche Intelligenz: US-Präsident lehnt mehr KI-Regulierung ab",
+      "link": "https://www.spiegel.de/ausland/donald-trump-und-kuenstliche-intelligenz-us-praesident-lehnt-mehr-ki-regulierung-ab-a-4fc6dc57-505f-40e3-abda-ee8446e0d961#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T15:19:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Russische Drohne trifft Passagierzug nach Warschau",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T15:08:51+00:00"
+    },
+    {
+      "titel": "»Wall Street Journal«: Kanada sondiert offenbar engere Anbindung an die EU",
+      "link": "https://www.spiegel.de/ausland/wall-street-journal-kanada-sondiert-offenbar-engere-anbindung-an-die-eu-a-d6aa97b9-d0f7-4314-9ca3-adc5a8c23e1d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T14:49:00+00:00"
+    },
+    {
+      "titel": "Allgäu in Bayern: Wanderer verwechselt Hirsch mit Bären",
+      "link": "https://www.spiegel.de/panorama/allgaeu-in-bayern-wanderer-verwechselt-hirsch-mit-baeren-a-4e5c0b83-32eb-4425-96bd-8f59808e431c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T14:44:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Wie realistisch sind die Rundfunk-Pläne der AfD?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mdr-rundfunk-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T14:28:14+00:00"
+    },
+    {
+      "titel": "Gianluigi Donnarumma: Nach brutalem Überfall zwei Angeklagte ins Gefängnis",
+      "link": "https://www.spiegel.de/sport/fussball/gianluigi-donnarumma-nach-brutalem-ueberfall-zwei-angeklagte-ins-gefaengnis-a-e609429c-4fc3-4a2c-8887-a2c77fcbb215#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T14:22:00+00:00"
+    },
+    {
+      "titel": "Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T14:09:26+00:00"
+    },
+    {
+      "titel": "KI-Risiken: Die Geister, die sie riefen",
+      "link": "https://www.sueddeutsche.de/politik/ki-anthropic-openai-risiken-li.3546609",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T13:52:28+00:00"
+    },
+    {
+      "titel": "Demo für AfD-Verbotsverfahren: „Wie lange wollen wir noch zuschauen?“",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-demo-pruef-demo-anti-afd-krause-ludwigstrasse-li.3545446",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T13:42:44+00:00"
+    },
+    {
+      "titel": "Leute: Endlich 50",
+      "link": "https://www.sueddeutsche.de/panorama/promis-sebastian-pufpaff-geburtstag-lebensalter-li.3546038",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T13:35:36+00:00"
+    },
+    {
+      "titel": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T13:03:38+00:00"
+    },
+    {
+      "titel": "Comeback von Mitchell Weiser: „Unfassbar schöne zehn Minuten“",
+      "link": "https://www.sueddeutsche.de/sport/werder-bremen-weiser-comeback-1-fc-koeln-li.3546589",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T12:54:39+00:00"
+    },
+    {
+      "titel": "Borussia Dortmund: Weniger Struktur, mehr Spaß",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-dortmund-bvb-karetsas-nmecha-li.3546595",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T12:52:22+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Trump will mit KI vor allem eines: gegen China gewinnen",
+      "link": "https://www.sueddeutsche.de/politik/trump-ki-usa-wettlauf-china-technologie-li.3546610",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T12:21:32+00:00"
     },
     {
       "titel": "China 50 Jahre nach Maos Tod: Immer noch untersteht alles der Partei",
       "link": "https://www.tagesschau.de/ausland/asien/china-50-todestag-mao-zedong-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-13T11:24:56+00:00"
-    },
-    {
-      "titel": "Thüringen: Landesregierung schickt »Verfassungs-Coaches« an Schulen",
-      "link": "https://www.spiegel.de/panorama/bildung/thueringen-landesregierung-schickt-verfassungs-coaches-an-schulen-a-a1659fe4-01fc-4010-840e-7f79ebc58940#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T11:11:00+00:00"
-    },
-    {
-      "titel": "AfD-Erfolg in Sachsen-Anhalt: Richterbund dringt auf Unabhängigkeit der Staatsanwaltschaften",
-      "link": "https://www.spiegel.de/panorama/justiz/afd-erfolg-in-sachsen-anhalt-richterbund-dringt-auf-unabhaengigkeit-der-staatsanwaltschaften-a-22e419df-467b-401b-95e9-c97664414b65#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T10:58:00+00:00"
-    },
-    {
-      "titel": "Brics-Gipfel in Indien: Staaten mahnen zu »maximale Zurückhaltung« im Irankrieg",
-      "link": "https://www.spiegel.de/ausland/brics-gipfel-in-indien-staaten-mahnen-zu-maximale-zurueckhaltung-im-irankrieg-a-1bce2118-945e-404b-9aca-870139fbca09#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T10:44:00+00:00"
-    },
-    {
-      "titel": "NSDAP-Archiv: Der Erinnerungsweltmeister Deutschland hat es sich viel zu bequem gemacht – Meinung",
-      "link": "https://www.spiegel.de/kultur/nsdap-archiv-der-erinnerungsweltmeister-deutschland-hat-es-sich-viel-zu-bequem-gemacht-meinung-a-a8398499-3e3d-4ee2-a933-573af5929e48#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T10:40:00+00:00"
     },
     {
       "titel": "Goethe-Institute in Russland geschlossen",
@@ -85,88 +163,10 @@
       "veroeffentlicht": "2026-09-13T10:18:20+00:00"
     },
     {
-      "titel": "Söder zu Kanzlersturz-Spekulationen: \"Von der CSU auf keinen Fall\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-merz-kanzlerwechsel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T10:11:59+00:00"
-    },
-    {
       "titel": "Bundesregierung: Liebe Christdemokraten, was habt ihr eigentlich von Merz erwartet?",
       "link": "https://www.sueddeutsche.de/meinung/friedrich-merz-cdu-deutschland-autoritaetsverlust-kommentar-li.3546579",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-13T09:22:00+00:00"
-    },
-    {
-      "titel": "Borussia Mönchengladbach: Das Grauen vom Niederrhein, Teil 2",
-      "link": "https://www.sueddeutsche.de/sport/borussia-moenchengladbach-gladbach-polanski-trainer-trennung-li.3546584",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T09:02:12+00:00"
-    },
-    {
-      "titel": "SC Freiburg: „Deutscher Meister wird nur der SCF“",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-freiburg-tabelle-tabellenfuehrer-li.3546588",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T08:59:48+00:00"
-    },
-    {
-      "titel": "Pop-Musiker Jakob Bruckner: „Ich will nicht die Kindheit meiner Kids verpassen“",
-      "link": "https://www.sueddeutsche.de/muenchen/bruckner-band-jakob-matti-familie-karriere-interview-li.3534216",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T08:21:28+00:00"
-    },
-    {
-      "titel": "Literatur: Auch Wünsche sind erblich",
-      "link": "https://www.sueddeutsche.de/kultur/helene-bracht-irma-tanzt-mutter-erben-kritik-interview-li.3535660",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T07:58:33+00:00"
-    },
-    {
-      "titel": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T07:52:19+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Söder: CSU wird Kanzler Merz „auf keinen Fall“ stürzen",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-soeder-merz-cdu-csu-kanzlersturz-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T07:00:00+00:00"
-    },
-    {
-      "titel": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T06:16:32+00:00"
-    },
-    {
-      "titel": "Wie eine explodierende Erbpacht Familien überfordern kann",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T06:15:32+00:00"
-    },
-    {
-      "titel": "US-Open-Siegerin Rybakina: Bei ihren Schlägen raunt das Publikum",
-      "link": "https://www.sueddeutsche.de/sport/jelena-rybakina-us-open-aryna-sabalenka-new-york-li.3546457",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T05:06:57+00:00"
-    },
-    {
-      "titel": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T04:57:05+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Selenskij-Vertrauter: Gespräche mit USA und Russland wieder im Oktober",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-usa-gespraeche-oktober-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T04:28:53+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Sorgen um Ölversorgung nach Angriff auf Schiff in der Straße von Hormus",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-strasse-von-hormus-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T03:54:27+00:00"
     }
   ]
 }
