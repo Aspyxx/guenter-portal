@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-09-13T21:26:48+00:00",
+  "aktualisiert": "2026-09-13T23:35:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "US Open: Alexander Zverev gewinnt Finale in New York gegen Ben Shelton",
+      "link": "https://www.spiegel.de/sport/us-open-alexander-zverev-gewinnt-finale-in-new-york-gegen-ben-shelton-a-b0c7be29-5e8b-4cf3-af67-b34b320a4f62#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T23:29:00+00:00"
+    },
+    {
+      "titel": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T22:35:26+00:00"
+    },
+    {
+      "titel": "Tennisprofi Alexander Zverev: Ob man ihn mag oder nicht – er ist Deutschlands herausragender Sportler",
+      "link": "https://www.sueddeutsche.de/sport/alexander-zverev-us-open-kommentar-li.3546875",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T22:12:54+00:00"
+    },
+    {
+      "titel": "Israel: Minister wollen Regisseuren von Gaza-Dokumentation die Staatsbürgerschaft entziehen",
+      "link": "https://www.spiegel.de/ausland/israel-minister-wollen-regisseuren-von-gaza-dokumentation-die-staatsbuergerschaft-entziehen-a-8e767b75-a750-42a9-ae95-104c666492f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T22:02:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Treffen zwischen Iran und Oman zur Straße von Hormus wurde verschoben",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-strasse-von-hormus-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T22:01:32+00:00"
+    },
+    {
+      "titel": "US Open im Tennis: Zverev gewinnt seinen nächsten Grand-Slam-Titel",
+      "link": "https://www.sueddeutsche.de/sport/us-open-finale-zverev-shelton-li.3546456",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T22:00:37+00:00"
+    },
+    {
+      "titel": "US Open: Alexander Zverev gewinnt gegen Ben Shelton in vier Sätzen",
+      "link": "https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-punktet-locker-ben-shelton-hat-muehe-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T21:36:00+00:00"
+    },
     {
       "titel": "Kommunalwahl: Die CDU bleibt stärkste Kraft in Niedersachsen",
       "link": "https://www.sueddeutsche.de/politik/kommunalwahl-niedersachsen-cdu-spd-li.3546890",
@@ -25,22 +67,10 @@
       "veroeffentlicht": "2026-09-13T20:32:00+00:00"
     },
     {
-      "titel": "Hochrechnung: Sozialdemokraten bei Wahl in Schweden vorn",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T20:28:10+00:00"
-    },
-    {
       "titel": "CDU laut Hochrechnung vor SPD – AfD und Linke legen zu",
       "link": "https://www.spiegel.de/politik/deutschland/cdu-bei-kommunalwahl-in-niedersachsen-vor-spd-afd-und-linke-legen-zu-a-91ba6efc-afa7-49c1-a801-71fddd337478#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-13T20:25:00+00:00"
-    },
-    {
-      "titel": "US Open im Liveticker: Alexander Zverev muss gegen Ben Shelton in den vierten Satz",
-      "link": "https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-punktet-locker-ben-shelton-hat-muehe-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T19:27:00+00:00"
     },
     {
       "titel": "Friedrich Merz: »Mit diesem Bundeskanzler sind keine Wahlen mehr zu gewinnen«",
@@ -67,22 +97,10 @@
       "veroeffentlicht": "2026-09-13T18:44:54+00:00"
     },
     {
-      "titel": "Bier aus Deutschland: Schwester Doris, die letzte Klosterbraumeisterin in Mallersdorf",
-      "link": "https://www.spiegel.de/wirtschaft/bier-aus-deutschland-schwester-doris-die-letzte-klosterbraumeisterin-in-mallersdorf-a-05382341-e826-40e3-8aeb-5d40573b9fac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T18:16:00+00:00"
-    },
-    {
       "titel": "Abschluss des BRICS-Treffens: Wenig Konfrontation, wenig geklärt",
       "link": "https://www.tagesschau.de/ausland/asien/brics-zweiter-tag-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-13T17:43:05+00:00"
-    },
-    {
-      "titel": "FC Bayern München siegt bei der SV Elversberg",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-siegt-bei-der-sv-elversberg-a-1655bfa5-f681-4a9e-b64b-05db51c1048f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T17:41:00+00:00"
     },
     {
       "titel": "Deutsche Bilanz bei der Basketball-WM: „Wir sind jetzt ein anderes Team als früher“",
@@ -137,24 +155,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-demo-pruef-demo-anti-afd-krause-ludwigstrasse-li.3545446",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-13T13:42:44+00:00"
-    },
-    {
-      "titel": "Leute: Endlich 50",
-      "link": "https://www.sueddeutsche.de/panorama/promis-sebastian-pufpaff-geburtstag-lebensalter-li.3546038",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T13:35:36+00:00"
-    },
-    {
-      "titel": "Jüdisches Neujahrsfest: „Nichts ist verloren, solange wir hier stehen“",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-jakobsplatz-schofarblasen-knobloch-li.3546145",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T13:21:55+00:00"
-    },
-    {
-      "titel": "Technologie: KI gerät außer Kontrolle – der Staat muss endlich eingreifen",
-      "link": "https://www.sueddeutsche.de/meinung/kuenstliche-intelligenz-ki-anthropic-open-ai-trump-kommentar-li.3546580",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T13:09:13+00:00"
     },
     {
       "titel": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
