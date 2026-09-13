@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-09-12T23:26:13+00:00",
+  "aktualisiert": "2026-09-13T01:25:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Céline Dion feiert emotionales Comeback",
+      "link": "https://www.spiegel.de/panorama/celine-dion-feiert-emotionales-comeback-a-65f360f3-7e7e-4110-95e3-6b44fbd0b62e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T01:16:00+00:00"
+    },
+    {
+      "titel": "Ebola: Mehr als 7000 Fälle in Demokratischer Republik Kongo erfasst",
+      "link": "https://www.spiegel.de/ausland/ebola-mehr-als-7000-faelle-in-demokratischer-republik-kongo-erfasst-a-660ce1c8-17f6-4d3d-84b6-c56f52c989b2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T00:31:00+00:00"
+    },
+    {
+      "titel": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-13T00:03:56+00:00"
+    },
+    {
+      "titel": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-12T23:53:35+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Trump spricht sich für ein vereintes Irland aus",
+      "link": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T23:48:41+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Bremsmanöver an der Spitze der amerikanischen KI-Branche",
+      "link": "https://www.sueddeutsche.de/medien/kuenstliche-intelligenz-openai-anthropic-altman-amodei-musk-li.3546497",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-12T23:34:16+00:00"
+    },
     {
       "titel": "Ermittler sehen bei Zugunglück in Frankreich keine Hinweise auf Anschlag",
       "link": "https://www.spiegel.de/ausland/ermittler-sehen-bei-zugunglueck-in-frankreich-keine-hinweise-auf-anschlag-a-231b7e60-0400-4656-8225-c31f02e5e240#ref=rss",
@@ -17,12 +53,6 @@
       "link": "https://www.spiegel.de/ausland/donald-trumps-elternhaus-fuer-zwei-millionen-us-dollar-verkauft-a-5fcd2506-5591-4e22-b54e-f4ff6354fe88#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-12T22:37:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
-      "link": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T22:06:34+00:00"
     },
     {
       "titel": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
@@ -67,19 +97,7 @@
       "veroeffentlicht": "2026-09-12T19:37:00+00:00"
     },
     {
-      "titel": "Ukraine: Wohnung von ukrainischer Profi-Tennisspielerin Dajana Jastremska in Odessa zerstört",
-      "link": "https://www.spiegel.de/ausland/ukraine-wohnung-von-ukrainischer-profi-tennisspielerin-dajana-jastremska-in-odessa-zerstoert-a-6939f134-f3fc-4840-9750-137e66b77aea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T19:22:00+00:00"
-    },
-    {
-      "titel": "Markus Söder springt Friedrich Merz bei: CSU-Chef schließt Kanzlersturz aus",
-      "link": "https://www.spiegel.de/politik/deutschland/markus-soeder-springt-friedrich-merz-bei-csu-chef-schliesst-kanzlersturz-aus-a-d2bab5fb-cb69-41b2-a1d8-f3a1868fdd29#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-12T19:11:00+00:00"
-    },
-    {
-      "titel": "Filmfestspiele in Venedig: Vielleicht geht die Welt nächstes Jahr noch mal unter",
+      "titel": "Filmfestspiele in Venedig: Vielleicht geht die Welt auch nächstes Jahr wieder unter",
       "link": "https://www.sueddeutsche.de/kultur/goldener-loewe-abschluss-naza-gaza-politik-li.3544938",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-12T19:09:01+00:00"
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-09-12T13:22:03+00:00"
     },
     {
-      "titel": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T13:20:55+00:00"
-    },
-    {
-      "titel": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
-      "link": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-12T13:07:48+00:00"
-    },
-    {
       "titel": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-zeltvergabe-gericht-li.3508722",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-12T09:33:00+00:00"
-    },
-    {
-      "titel": "US Open im Tennis: Es gibt Ärger um Zverevs neue Aufschlag-Marotte",
-      "link": "https://www.sueddeutsche.de/sport/us-open-new-york-ballauftippen-aufschlag-li.3546277",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-12T09:25:34+00:00"
     }
   ]
 }
