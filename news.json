@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-14T01:43:11+00:00",
+  "aktualisiert": "2026-09-14T07:10:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Wetter in Deutschland: Spätsommer bringt Sonne und Freibadwetter zum Ferienende",
-      "link": "https://www.spiegel.de/panorama/wetter-in-deutschland-spaetsommer-bringt-sonne-und-freibadwetter-zum-ferienende-a-6141ad27-ec6e-46fa-ba64-d4dc21b93c58#ref=rss",
+      "titel": "Nach Angriff auf Zug in der Ukraine: Polen wirft Russland Eskalation vor",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-krisenstab-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T07:08:39+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Kanzler schwer unter Druck – Unionsfraktionsvize: „Ja, ich glaube noch an Friedrich Merz“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-cdu-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-14T07:04:26+00:00"
+    },
+    {
+      "titel": "Oldtimer und AfD: Wie Rechtsextreme die Schrauberszene unterwandern",
+      "link": "https://www.spiegel.de/mobilitaet/auto/oldtimer-und-afd-wie-rechtsextreme-die-schrauberszene-unterwandern-a-54abde96-ec3a-4175-8a9b-08ded209c714#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T01:31:00+00:00"
+      "veroeffentlicht": "2026-09-14T06:50:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Reservistenverband will »Operationsplan Deutschland« zurückholen - im Fall einer AfD-Regierung",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reservistenverband-will-operationsplan-deutschland-zurueckholen-im-fall-einer-afd-regierung-a-e843db5e-3f2c-4a44-a147-69696984f3f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T06:42:00+00:00"
+    },
+    {
+      "titel": "Nordkorea will »Angriffsübung« mit Artillerie und Raketen abgehalten haben",
+      "link": "https://www.spiegel.de/ausland/nordkorea-will-angriffsuebung-mit-artillerie-und-raketen-abgehalten-haben-a-0a239041-0358-40d7-8793-9fc594a217f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T06:38:00+00:00"
+    },
+    {
+      "titel": "Ernährung: Ab wann Babys selbst essen sollten – Fakten zu Baby-led Weaning",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/ernaehrung-ab-wann-babys-selbst-essen-sollten-fakten-zu-baby-led-weaning-a-dd60e92c-882a-4859-83d8-55497e00905e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T06:19:00+00:00"
+    },
+    {
+      "titel": "Waymo: US-Konzern bereitet offenbar Robotaxi-Start in Berlin vor",
+      "link": "https://www.spiegel.de/wirtschaft/waymo-us-konzern-bereitet-offenbar-robotaxi-start-in-berlin-vor-a-fa669152-16fc-405c-8f84-f807cfdfc1c7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T06:15:00+00:00"
+    },
+    {
+      "titel": "Catherine Zeta-Jones findet Bezeichnung »Nepo-Baby« fürchterlich",
+      "link": "https://www.spiegel.de/panorama/leute/catherine-zeta-jones-findet-bezeichnung-nepo-baby-fuerchterlich-a-034b66e6-29e7-4543-9604-971c0343962d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T06:09:00+00:00"
+    },
+    {
+      "titel": "Hannover: Sieben Menschen aus brennendem Haus gerettet",
+      "link": "https://www.spiegel.de/panorama/hannover-sieben-menschen-aus-brennendem-haus-gerettet-a-62cdc4a3-6d5e-45f4-a82a-f9ff99a5210f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T06:01:00+00:00"
+    },
+    {
+      "titel": "Donald Trump und seine Zölle: US-Präsident senkt Abgaben auf irischen Whiskey",
+      "link": "https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoelle-us-praesident-senkt-abgaben-auf-irischen-whiskey-a-b83781fa-be1b-4094-ae80-1adc02f06844#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T05:56:00+00:00"
+    },
+    {
+      "titel": "Parlamentswahl in Schweden: Keine strahlenden Sieger und ein Verlierer",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T05:49:34+00:00"
+    },
+    {
+      "titel": "Marktbericht: Hoher Ölpreis verhagelt den Wochenstart",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T05:47:11+00:00"
+    },
+    {
+      "titel": "US Open: Alexander Zverev gewinnt zweiten Grand-Slam-Titel – die Gründe für das beeindruckende Tennis-Jahr",
+      "link": "https://www.spiegel.de/sport/tennis/us-open-alexander-zverev-gewinnt-zweiten-grand-slam-titel-die-gruende-fuer-das-beeindruckende-tennis-jahr-a-79043d29-f7b7-4c25-82e6-6a806621c8d7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T05:44:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Trump fordert von Selenskij Ende der Angriffe auf russische Raffinerien",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-usa-trump-angriffe-raffinerien-dieselknappheit-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-14T05:40:00+00:00"
+    },
+    {
+      "titel": "Hitze, Feuer, Fluten: Wie das Mittelmeer Europas Wetter verändert",
+      "link": "https://www.tagesschau.de/podcast-11km-mittelmeer-klima-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T05:00:50+00:00"
+    },
+    {
+      "titel": "Kommunalwahlen: Die CDU bleibt stärkste Kraft in Niedersachsen",
+      "link": "https://www.sueddeutsche.de/politik/kommunalwahl-niedersachsen-2026-cdu-spd-afd-li.3546890",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-14T04:40:00+00:00"
+    },
+    {
+      "titel": "Linke legt Fünf-Punkte-Plan für Berlin vor",
+      "link": "https://www.tagesschau.de/inland/linkspartei-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T04:00:51+00:00"
+    },
+    {
+      "titel": "Parlamentswahl: Sozialdemokraten wohl stärkste Kraft in Schweden – Machtverhältnisse unklar",
+      "link": "https://www.sueddeutsche.de/politik/schweden-wahl-andersson-kristersson-sozialdemokraten-li.3546905",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-14T02:30:35+00:00"
+    },
+    {
+      "titel": "Nach Sachsen-Anhalt: Ist die Brandmauer jetzt Geschichte?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-brandmauer-afd-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T02:06:44+00:00"
+    },
+    {
+      "titel": "Wahl in Schweden: Sozialdemokraten vorn - aber reicht es zur Macht?",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-142.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T02:01:04+00:00"
     },
     {
       "titel": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
@@ -19,40 +133,10 @@
       "veroeffentlicht": "2026-09-14T01:22:42+00:00"
     },
     {
-      "titel": "USA - Donald Trump: Kennedy Center warnt offenbar vor unmittelbar bevorstehender Insolvenz",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-kennedy-center-warnt-offenbar-vor-unmittelbar-bevorstehender-insolvenz-a-9bb337c3-a7cb-4cc5-b0ce-99b7977833e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T01:11:00+00:00"
-    },
-    {
-      "titel": "Nahwinden in Thüringen: Auto fliegt bei Unfall rund 70 Meter durch die Luft",
-      "link": "https://www.spiegel.de/panorama/nahwinden-in-thueringen-auto-fliegt-bei-unfall-rund-70-meter-durch-die-luft-a-d2a30588-e34e-476c-b469-38107709cad5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T00:39:00+00:00"
-    },
-    {
-      "titel": "US Open - Sieg von Alexander Zverev: »Ein neuer König in New York« – Pressestimmen im Überblick",
-      "link": "https://www.spiegel.de/sport/tennis/us-open-sieg-von-alexander-zverev-ein-neuer-koenig-in-new-york-pressestimmen-im-ueberblick-a-ac0338e5-f9b3-4d24-bee5-4eb109cf5fa3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T00:08:00+00:00"
-    },
-    {
-      "titel": "Asterix-Comic: Titelbild von \"Asterix bei den Briten\" für Rekordsumme versteigert",
-      "link": "https://www.spiegel.de/panorama/asterix-comic-titelbild-von-asterix-bei-den-briten-fuer-rekordsumme-versteigert-a-8f16d895-efda-49d3-a715-309578d483fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T23:50:00+00:00"
-    },
-    {
-      "titel": "Caren Miosga: In der Spirale der Ratlosigkeit",
+      "titel": "„Caren Miosga“: In der Spirale der Ratlosigkeit",
       "link": "https://www.sueddeutsche.de/medien/caren-miosga-tv-kritik-ard-li.3546725",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-13T23:45:31+00:00"
-    },
-    {
-      "titel": "US Open: Alexander Zverev gewinnt Finale in New York gegen Ben Shelton",
-      "link": "https://www.spiegel.de/sport/us-open-alexander-zverev-gewinnt-finale-in-new-york-gegen-ben-shelton-a-b0c7be29-5e8b-4cf3-af67-b34b320a4f62#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T23:29:00+00:00"
     },
     {
       "titel": "Technologie: Experten fordern: Europa darf bei KI nicht den Anschluss verlieren",
@@ -67,14 +151,8 @@
       "veroeffentlicht": "2026-09-13T22:12:54+00:00"
     },
     {
-      "titel": "Israel: Minister wollen Regisseuren von Gaza-Dokumentation die Staatsbürgerschaft entziehen",
-      "link": "https://www.spiegel.de/ausland/israel-minister-wollen-regisseuren-von-gaza-dokumentation-die-staatsbuergerschaft-entziehen-a-8e767b75-a750-42a9-ae95-104c666492f6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T22:02:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Treffen zwischen Iran und Oman zur Straße von Hormus wurde verschoben",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-strasse-von-hormus-li.3530668",
+      "titel": "Newsblog zum Nahost-Krieg: Treffen zwischen Iran und Oman zur Straße von Hormus verschoben",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-oman-strasse-von-hormus-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-13T22:01:32+00:00"
     },
@@ -85,88 +163,10 @@
       "veroeffentlicht": "2026-09-13T22:00:37+00:00"
     },
     {
-      "titel": "US Open: Alexander Zverev gewinnt gegen Ben Shelton in vier Sätzen",
-      "link": "https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-punktet-locker-ben-shelton-hat-muehe-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T21:36:00+00:00"
-    },
-    {
-      "titel": "Kommunalwahl: Die CDU bleibt stärkste Kraft in Niedersachsen",
-      "link": "https://www.sueddeutsche.de/politik/kommunalwahl-niedersachsen-cdu-spd-li.3546890",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T21:18:07+00:00"
-    },
-    {
-      "titel": "Schweden-Wahl: Sozialdemokraten stärkste Kraft – Ausgang offen",
-      "link": "https://www.spiegel.de/ausland/schweden-wahl-linkes-lager-laut-prognose-knapp-vorn-a-55fb5492-1c51-4db1-a9dc-578ef64dd172#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T21:05:00+00:00"
-    },
-    {
       "titel": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/debatte-merz-nathusius-union-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-13T18:44:54+00:00"
-    },
-    {
-      "titel": "Abschluss des BRICS-Treffens: Wenig Konfrontation, wenig geklärt",
-      "link": "https://www.tagesschau.de/ausland/asien/brics-zweiter-tag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T17:43:05+00:00"
-    },
-    {
-      "titel": "Deutsche Bilanz bei der Basketball-WM: „Wir sind jetzt ein anderes Team als früher“",
-      "link": "https://www.sueddeutsche.de/sport/basketball-wm-berlin-deutschland-spanien-spiel-um-platz-drei-li.3546771",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T17:14:34+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Trump weist Sicherheitsbedenken zu KI zurück",
-      "link": "https://www.sueddeutsche.de/politik/trump-ki-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T16:07:02+00:00"
-    },
-    {
-      "titel": "Hamburger SV: Null Punkte, 0:12 Tore",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-leipzig-hsv-spielbericht-tore-li.3546754",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T16:00:40+00:00"
-    },
-    {
-      "titel": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T15:56:14+00:00"
-    },
-    {
-      "titel": "Ukraine: Russische Drohne trifft Passagierzug nach Warschau",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T15:08:51+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Wie realistisch sind die Rundfunk-Pläne der AfD?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mdr-rundfunk-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T14:28:14+00:00"
-    },
-    {
-      "titel": "Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T14:09:26+00:00"
-    },
-    {
-      "titel": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T13:03:38+00:00"
-    },
-    {
-      "titel": "China 50 Jahre nach Maos Tod: Immer noch untersteht alles der Partei",
-      "link": "https://www.tagesschau.de/ausland/asien/china-50-todestag-mao-zedong-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T11:24:56+00:00"
     }
   ]
 }
