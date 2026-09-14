@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-13T23:35:05+00:00",
+  "aktualisiert": "2026-09-14T01:43:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,58 @@
   },
   "meldungen": [
     {
+      "titel": "Wetter in Deutschland: Spätsommer bringt Sonne und Freibadwetter zum Ferienende",
+      "link": "https://www.spiegel.de/panorama/wetter-in-deutschland-spaetsommer-bringt-sonne-und-freibadwetter-zum-ferienende-a-6141ad27-ec6e-46fa-ba64-d4dc21b93c58#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T01:31:00+00:00"
+    },
+    {
+      "titel": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T01:22:42+00:00"
+    },
+    {
+      "titel": "USA - Donald Trump: Kennedy Center warnt offenbar vor unmittelbar bevorstehender Insolvenz",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-kennedy-center-warnt-offenbar-vor-unmittelbar-bevorstehender-insolvenz-a-9bb337c3-a7cb-4cc5-b0ce-99b7977833e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T01:11:00+00:00"
+    },
+    {
+      "titel": "Nahwinden in Thüringen: Auto fliegt bei Unfall rund 70 Meter durch die Luft",
+      "link": "https://www.spiegel.de/panorama/nahwinden-in-thueringen-auto-fliegt-bei-unfall-rund-70-meter-durch-die-luft-a-d2a30588-e34e-476c-b469-38107709cad5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T00:39:00+00:00"
+    },
+    {
+      "titel": "US Open - Sieg von Alexander Zverev: »Ein neuer König in New York« – Pressestimmen im Überblick",
+      "link": "https://www.spiegel.de/sport/tennis/us-open-sieg-von-alexander-zverev-ein-neuer-koenig-in-new-york-pressestimmen-im-ueberblick-a-ac0338e5-f9b3-4d24-bee5-4eb109cf5fa3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T00:08:00+00:00"
+    },
+    {
+      "titel": "Asterix-Comic: Titelbild von \"Asterix bei den Briten\" für Rekordsumme versteigert",
+      "link": "https://www.spiegel.de/panorama/asterix-comic-titelbild-von-asterix-bei-den-briten-fuer-rekordsumme-versteigert-a-8f16d895-efda-49d3-a715-309578d483fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-13T23:50:00+00:00"
+    },
+    {
+      "titel": "Caren Miosga: In der Spirale der Ratlosigkeit",
+      "link": "https://www.sueddeutsche.de/medien/caren-miosga-tv-kritik-ard-li.3546725",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T23:45:31+00:00"
+    },
+    {
       "titel": "US Open: Alexander Zverev gewinnt Finale in New York gegen Ben Shelton",
       "link": "https://www.spiegel.de/sport/us-open-alexander-zverev-gewinnt-finale-in-new-york-gegen-ben-shelton-a-b0c7be29-5e8b-4cf3-af67-b34b320a4f62#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-13T23:29:00+00:00"
     },
     {
-      "titel": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-13T22:35:26+00:00"
+      "titel": "Technologie: Experten fordern: Europa darf bei KI nicht den Anschluss verlieren",
+      "link": "https://www.sueddeutsche.de/wirtschaft/ki-strategie-europa-deutschland-rechenzentren-li.3545883",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-13T23:01:00+00:00"
     },
     {
       "titel": "Tennisprofi Alexander Zverev: Ob man ihn mag oder nicht – er ist Deutschlands herausragender Sportler",
@@ -59,36 +101,6 @@
       "link": "https://www.spiegel.de/ausland/schweden-wahl-linkes-lager-laut-prognose-knapp-vorn-a-55fb5492-1c51-4db1-a9dc-578ef64dd172#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-13T21:05:00+00:00"
-    },
-    {
-      "titel": "Basketball-WM: USA holen Titel trotz 14-Punkte-Rückstand gegen Frankreich",
-      "link": "https://www.spiegel.de/sport/basketball/basketball-wm-usa-holen-titel-trotz-14-punkte-rueckstand-gegen-frankreich-a-3c174451-9a2b-4efd-866c-557dda06a2bd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T20:32:00+00:00"
-    },
-    {
-      "titel": "CDU laut Hochrechnung vor SPD – AfD und Linke legen zu",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-bei-kommunalwahl-in-niedersachsen-vor-spd-afd-und-linke-legen-zu-a-91ba6efc-afa7-49c1-a801-71fddd337478#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T20:25:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: »Mit diesem Bundeskanzler sind keine Wahlen mehr zu gewinnen«",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-mit-diesem-bundeskanzler-sind-keine-wahlen-mehr-zu-gewinnen-a-9ab85d92-452b-4b34-9024-32ea73bc6e3a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T19:18:00+00:00"
-    },
-    {
-      "titel": "Ultimate Championship: Emil Agyekum pulverisiert deutschen Rekord über 400 Meter Hürden",
-      "link": "https://www.spiegel.de/sport/leichtathletik/ultimate-championship-emil-agyekum-pulverisiert-deutschen-rekord-ueber-400-meter-huerden-a-a9223624-741b-4d6e-a3b7-de86083e353e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T19:11:00+00:00"
-    },
-    {
-      "titel": "Donald Trump und Großbritannien: Was planen Wales, Schottland und Nordirland?",
-      "link": "https://www.spiegel.de/ausland/donald-trump-und-grossbritannien-was-planen-wales-schottland-und-nordirland-a-1cd70c0f-e5c9-40c0-9d76-d851125609a9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-13T19:04:00+00:00"
     },
     {
       "titel": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
@@ -143,18 +155,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-13T14:09:26+00:00"
-    },
-    {
-      "titel": "KI-Risiken: Die Geister, die sie riefen",
-      "link": "https://www.sueddeutsche.de/politik/ki-anthropic-openai-risiken-li.3546609",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T13:52:28+00:00"
-    },
-    {
-      "titel": "Demo für AfD-Verbotsverfahren: „Wie lange wollen wir noch zuschauen?“",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-demo-pruef-demo-anti-afd-krause-ludwigstrasse-li.3545446",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-13T13:42:44+00:00"
     },
     {
       "titel": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
