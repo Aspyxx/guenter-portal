@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-14T13:10:47+00:00",
+  "aktualisiert": "2026-09-14T18:44:23+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
+      "titel": "Schweden steht nach Parlamentswahl vor schwieriger Regierungsbildung",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-112.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Trump kündigt Ende der Zölle auf irischen Whiskey an",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-whiskey-irland-100.html",
+      "titel": "Oasis kündigt Konzerte in Deutschland an",
+      "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Keine strahlenden Sieger und ein Verlierer",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-110.html",
+      "titel": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🌍"
     }
   ]
 }
