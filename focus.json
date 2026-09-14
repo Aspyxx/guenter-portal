@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-13T23:14:49+00:00",
+  "aktualisiert": "2026-09-14T01:15:24+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Goethe-Institute in Russland geschlossen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-schliessung-goethe-institute-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
       "titel": "Sozialdemokraten bei Wahl in Schweden vorn",
       "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
+    },
+    {
+      "rang": 3,
+      "titel": "Goethe-Institute in Russland geschlossen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-schliessung-goethe-institute-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
