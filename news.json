@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-09-14T19:23:30+00:00",
+  "aktualisiert": "2026-09-14T22:45:52+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Lützkampen, Rheinland-Pfalz: Motorradfahrer liegt 19 Stunden verletzt im Wald",
+      "link": "https://www.spiegel.de/panorama/luetzkampen-rheinland-pfalz-motorradfahrer-liegt-19-stunden-verletzt-im-wald-a-9ef9fd47-693a-414a-b94d-f815e2a221bf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T22:26:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Tanker laut Iran in Straße von Hormus durch Mine in Brand geraten – USA widersprechen",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-oman-strasse-von-hormus-tanker-usa-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-14T20:40:16+00:00"
+    },
+    {
+      "titel": "Ed Sheeran wirft Macklemore bei seiner Tour raus",
+      "link": "https://www.spiegel.de/kultur/musik/ed-sheeran-wirft-macklemore-bei-seiner-tour-raus-a-894192ef-4308-440e-8175-fe483cdd54c5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T19:57:00+00:00"
+    },
+    {
+      "titel": "Hannover 96 trennt sich von Trainer Titz – übernimmt jetzt Sandro Wagner?",
+      "link": "https://www.spiegel.de/sport/fussball/hannover-96-trennt-sich-von-trainer-titz-uebernimmt-jetzt-sandro-wagner-a-b05e67e3-abd9-4b06-8434-f4b4eadefdf1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T19:44:00+00:00"
+    },
+    {
+      "titel": "USA: Kraftwerke dürfen bald ohne Limit emittieren",
+      "link": "https://www.spiegel.de/ausland/usa-kraftwerke-duerfen-bald-ohne-limit-emittieren-a-7592ad1e-7bad-4e64-b217-1b9b6145ff75#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T19:32:00+00:00"
+    },
     {
       "titel": "Hannover 96: Das nächste große Ego im Klub der großen Egos?",
       "link": "https://www.sueddeutsche.de/sport/hannover-96-trainer-wagner-titz-boldt-li.3547053",
@@ -79,24 +109,6 @@
       "veroeffentlicht": "2026-09-14T17:50:00+00:00"
     },
     {
-      "titel": "»Germanische Neue Medizin«: Wenn Alternativmedizin auf Reichsbürgerideologie trifft",
-      "link": "https://www.spiegel.de/gesundheit/germanische-neue-medizin-wenn-alternativmedizin-auf-reichsbuergerideologie-trifft-a-70d1da5c-0b70-4959-95c5-f6ed8340e8ac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T17:44:00+00:00"
-    },
-    {
-      "titel": "Großbritannien: 72-Millionen-Spende an Reform UK entfacht Debatte über Einfluss",
-      "link": "https://www.spiegel.de/ausland/grossbritannien-72-millionen-spende-an-reform-uk-entfacht-debatte-ueber-einfluss-a-a30d5c47-a66f-4886-b798-e9371dad84cb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T17:43:00+00:00"
-    },
-    {
-      "titel": "Tanken: Frust an den Tankstellen – »Ich fühle mich abgezockt«",
-      "link": "https://www.spiegel.de/wirtschaft/tanken-frust-an-den-tankstellen-ich-fuehle-mich-abgezockt-a-8ecacc4e-155d-4f93-a83c-d3224423b436#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T17:40:00+00:00"
-    },
-    {
       "titel": "Newsblog zur Bundespolitik: Pistorius: Truppe ist weiter als viele denken",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-pistorius-bundeswehr-li.3529564",
       "quelle": "Süddeutsche",
@@ -113,12 +125,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-schwiegertochter-bettina-trump-russland-putin-umar-kremlev-oligarch-hochzeit-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-14T17:10:00+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Die KI ist außer Kontrolle – weil niemand sie kontrollieren will – Kommentar",
-      "link": "https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-die-ki-ist-ausser-kontrolle-weil-niemand-sie-kontrollieren-will-kommentar-a-ffd49718-3951-4bab-b309-14c3e80fa0ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T17:05:00+00:00"
     },
     {
       "titel": "Oasis kündigt Konzerte in Deutschland an",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-oasis-tour-2027-allianz-arena-li.3547142",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-14T15:30:35+00:00"
-    },
-    {
-      "titel": "Cybersicherheit: So gefährlich ist KI wirklich",
-      "link": "https://www.sueddeutsche.de/wirtschaft/ki-sicherheit-hacking-entwicklungen-deutschland-anthropic-openai-spacex-li.3546764",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T15:00:35+00:00"
     }
   ]
 }
