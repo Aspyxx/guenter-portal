@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-15T12:41:44+00:00",
+  "aktualisiert": "2026-09-15T17:18:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T12:34:00+00:00"
+      "titel": "Brandenburg: Weiterer BSW-Abgeordneter verlässt Partei und Fraktion",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/weiterer-austritt-bsw-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T17:09:38+00:00"
     },
     {
-      "titel": "Vorwurf der Vergewaltigung: Warum der Prozess gegen Yasin Mohamed so besonders ist",
-      "link": "https://www.spiegel.de/panorama/justiz/vorwurf-der-vergwaltigung-warum-der-prozess-gegen-yasin-mohamed-so-besonders-ist-a-4ed63b8d-c092-474d-aa0e-4c5ea6745129#ref=rss",
+      "titel": "Autofahren in London: Mein Opel hat ein Auslandssemester in Oxford gemacht",
+      "link": "https://www.spiegel.de/ausland/mein-opel-hat-ein-auslandssemester-in-oxford-gemacht-a-a9190b7a-20fe-4b0d-807b-43cbed0bd97b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T12:31:00+00:00"
+      "veroeffentlicht": "2026-09-15T17:08:00+00:00"
+    },
+    {
+      "titel": "Nicaragua – Reise nach Granada: Meine Albtraum-Nacht in Nicaragua – Meinung",
+      "link": "https://www.spiegel.de/ausland/nicaragua-reise-nach-granada-meine-albtraum-nacht-in-nicaragua-meinung-a-09caa795-4109-4b13-8d0f-06fab208425d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T17:08:00+00:00"
+    },
+    {
+      "titel": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T17:05:36+00:00"
+    },
+    {
+      "titel": "Bekannt aus \"Das Boot\": Schauspieler Ralf Richter ist tot",
+      "link": "https://www.tagesschau.de/kultur/ralf-richter-tot-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T17:01:14+00:00"
+    },
+    {
+      "titel": "Merz-Rückhalt in der Union bröckelt: Geteilte Stimmungslage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/union-kanzlerfrage-analyse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T16:57:43+00:00"
+    },
+    {
+      "titel": "Wie blockierte Seewege den weltweiten Handel gefährden",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T16:56:26+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Ex-Google-Mitarbeiter warnt vor Gefahren",
+      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ex-google-mitarbeiter-warnt-vor-gefahren-a-0c41091b-83d5-4fcd-8f5d-db579a61a1c7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T16:54:00+00:00"
+    },
+    {
+      "titel": "Balsthal in der Schweiz: Giftschlange beißt Kletterer – Rettung per Hubschrauber",
+      "link": "https://www.spiegel.de/panorama/balsthal-in-der-schweiz-giftschlange-beisst-kletterer-rettung-per-hubschrauber-a-2b7bfdcd-0194-4efe-b8dc-fb60a4e95cc7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T16:46:00+00:00"
+    },
+    {
+      "titel": "Frankfurt am Main: Zwei Flughafen-Anwohner an Malaria erkrankt",
+      "link": "https://www.spiegel.de/panorama/frankfurt-am-main-zwei-flughafen-anwohner-an-malaria-erkrankt-a-7fa91d00-ab88-46e5-ac8f-dcaa62622ed8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T16:38:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Krisensignale häufen sich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T16:20:10+00:00"
+    },
+    {
+      "titel": "Raumfahrt: Warum die Träume von riesigen Mondsiedlungen scheitern dürften",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-warum-die-traeume-von-riesigen-mondsiedlungen-scheitern-duerften-a-7e6a1208-379c-4585-bc9a-3ed01378af23#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T16:15:00+00:00"
+    },
+    {
+      "titel": "München: Oberleitung der S-Bahn repariert: Stammstrecke wieder frei",
+      "link": "https://www.sueddeutsche.de/muenchen/s-bahn-muenchen-stammstrecke-sperrung-heute-nachmittag-li.3547720",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T16:14:00+00:00"
+    },
+    {
+      "titel": "Dietzenbach: 60-Jähriger erschossen – Polizei nimmt drei Verdächtige fest",
+      "link": "https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-erschossen-polizei-nimmt-drei-verdaechtige-fest-a-87d6367e-8887-4586-a8d6-2011df0bd2e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T16:04:00+00:00"
+    },
+    {
+      "titel": "Krieg im All: Die USA stationieren Waffen im Weltraum – kommt es jetzt zum Wettrüsten?",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/krieg-im-all-die-usa-stationieren-waffen-im-weltraum-kommt-es-jetzt-zum-wettruesten-a-7591e91f-bbd6-4d17-8566-5fd366da01e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T16:03:00+00:00"
+    },
+    {
+      "titel": "Gasspeicher in Deutschland: Staatsunternehmen sollen Speicher füllen",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/gasspeicher-in-deutschland-staatsunternehmen-sollen-speicher-fuellen-a-311c4872-c2a7-466b-aac6-2ddc86dbc3fa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T15:52:00+00:00"
+    },
+    {
+      "titel": "Film: Schauspieler Ralf Richter ist tot",
+      "link": "https://www.sueddeutsche.de/kultur/schauspieler-ralf-richter-tot-das-boot-bang-boom-bang-li.3548086",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T15:49:07+00:00"
     },
     {
       "titel": "Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-entlastungen-spritpreise-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T12:24:30+00:00"
+      "veroeffentlicht": "2026-09-15T15:46:28+00:00"
     },
     {
-      "titel": "Sydney Sweeney - Empörung über Werbekampagne: Nackt, aber nicht naiv",
-      "link": "https://www.spiegel.de/sport/sydney-sweeney-empoerung-ueber-werbekampagne-nackt-aber-nicht-naiv-a-03a38ae1-f6c7-4c8c-bd1a-e0e0178bd5b3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T12:23:00+00:00"
-    },
-    {
-      "titel": "Organspende: Sollten Organspenden auch nach Herzstillstand möglich sein?",
-      "link": "https://www.sueddeutsche.de/gesundheit/organspende-herztod-deutschland-debatte-regeln-li.3547683",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T12:20:45+00:00"
-    },
-    {
-      "titel": "Rendite für US-Staatsanleihen steigt auf höchsten Stand seit 2007",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/rendite-fuer-us-staatsanleihen-steigt-auf-hoechsten-stand-seit-2007-a-368de247-a62a-4327-89d1-e6f6647316b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T12:19:00+00:00"
-    },
-    {
-      "titel": "Iran-Krieg: Spritpreis auf Rekordhöhe – jetzt stellt Merz Entlastungen in Aussicht",
-      "link": "https://www.sueddeutsche.de/wirtschaft/spritpreis-merz-benzin-entlastung-li.3547829",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T12:13:09+00:00"
-    },
-    {
-      "titel": "Benzinpreis: Friedrich Merz kündigt Entlastungen an",
-      "link": "https://www.spiegel.de/wirtschaft/benzinpreis-friedrich-merz-kuendigt-entlastungen-an-a-59ec2177-9a42-4a43-bac8-e3a9ed9b4c3d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T12:12:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Was für und gegen Wüst, Söder, Dobrindt und Rhein als Kanzler spricht",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-was-fuer-und-gegen-wuest-soeder-dobrindt-und-rhein-als-kanzler-spricht-a-4f225f9d-c24e-46b0-89e3-5011671d8f15#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T12:05:00+00:00"
-    },
-    {
-      "titel": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
+      "titel": "Türkei: Menschen bei LGBTQ-Solidaritätsdemo festgenommen",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-lgbtq-festnahmen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T12:04:35+00:00"
+      "veroeffentlicht": "2026-09-15T15:45:11+00:00"
     },
     {
-      "titel": "Zinserwartungen verfestigt: US-Rendite auf Niveau der Finanzkrise",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/marktbericht-renditen-100.html",
+      "titel": "Klagen gegen Preiserhöhungen bei Streaming-Anbietern",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/streaminganbieter-rechtsstreit-preiserhoehungen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T12:04:01+00:00"
+      "veroeffentlicht": "2026-09-15T15:30:33+00:00"
     },
     {
-      "titel": "Michael J. Fox spricht bei den Emmys über sein Leben mit Parkinson",
-      "link": "https://www.spiegel.de/kultur/tv/michael-j-fox-spricht-bei-den-emmys-ueber-sein-leben-mit-parkinson-a-19c7273b-4a6a-4b17-a27a-738a42877928#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T11:43:00+00:00"
-    },
-    {
-      "titel": "Apotheken sollen stärker zu medizinischen Dienstleistern werden",
-      "link": "https://www.tagesschau.de/wirtschaft/apotheken-apothekertag-linnemann-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T11:39:22+00:00"
-    },
-    {
-      "titel": "Russland: Wladimir Putin verlegt Waldai-Konferenz wegen Sicherheitsbedenken von Sotschi nach Moskau",
-      "link": "https://www.spiegel.de/ausland/russland-wladimir-putin-verlegt-waldai-konferenz-wegen-sicherheitsbedenken-von-sotschi-nach-moskau-a-f1e822fa-c0be-49e3-b9bb-e3360188b42a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T11:36:00+00:00"
-    },
-    {
-      "titel": "Oberleitungsschaden: Münchner S-Bahn-Stammstrecke komplett gesperrt – zwei Züge mit 150 Passagieren evakuiert",
-      "link": "https://www.sueddeutsche.de/muenchen/s-bahn-muenchen-stammstrecke-sperrung-heute-alternativen-evakuierung-li.3547720",
+      "titel": "Anschlag auf Leipziger Flughafen: Der enge Draht des Drohnen-Attentäters zum russischen Sabotage-Paten",
+      "link": "https://www.sueddeutsche.de/politik/leipzig-drohne-hybrider-krieg-verdaechtige-russland-gru-ermittlungen-li.3547175",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T11:35:00+00:00"
+      "veroeffentlicht": "2026-09-15T15:15:13+00:00"
     },
     {
-      "titel": "Emmy-Awards 2026: Funkelnde Kleider, goldene Trophäen, herausragende Leistungen",
-      "link": "https://www.spiegel.de/kultur/tv/emmy-awards-2026-funkelnde-kleider-goldene-trophaeen-herausragende-leistungen-a-1bb32978-8edd-46dc-9e62-235c1a30f5c0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T11:34:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: USA bestätigen Waffen im Weltall",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-weltall-waffen-li.3530667",
+      "titel": "Podcast: „Auf den Punkt“: Übersteht Kanzler Merz den kommenden Wahlsonntag?",
+      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-merz-cdu-krise-li.3548018",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T11:29:24+00:00"
+      "veroeffentlicht": "2026-09-15T14:35:18+00:00"
     },
     {
-      "titel": "Wie sich Female Body Horror mit Schönheitsidealen auseinandersetzt",
-      "link": "https://www.tagesschau.de/kultur/female-body-horror-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T11:24:00+00:00"
-    },
-    {
-      "titel": "BKA-Lagebild: Kriminelle Gruppen werden digitaler und brutaler",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeslagebild-bandenkriminalitaet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T11:19:28+00:00"
-    },
-    {
-      "titel": "Prozess in Ingolstadt: Angeklagter schweigt zu Mord an Ex-Frau auf offener Straße",
-      "link": "https://www.sueddeutsche.de/bayern/ingolstadt-landgericht-mord-ex-frau-femizid-prozess-li.3547839",
+      "titel": "Newsblog zum Ukraine-Krieg: Operation „Vivaldi“: Ukrainisches Militär spricht von Rückeroberungen im Donbass",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-angriffe-energieanlagen-rueckeroberung-donbass-operation-vivaldi-li.3524928",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T11:10:00+00:00"
+      "veroeffentlicht": "2026-09-15T14:20:00+00:00"
     },
     {
-      "titel": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
-      "link": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T11:05:37+00:00"
-    },
-    {
-      "titel": "Schwieriger Umstieg der Speditionen auf Elektro-Lkw",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umstieg-e-lkw-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T10:34:53+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Keine Koalition für niemand",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-bsw-afd-li.3547700",
+      "titel": "Fernsehen: Nach dem Sandmännchen kommt die AfD",
+      "link": "https://www.sueddeutsche.de/medien/kika-afd-siegmund-zdf-wahl-mecklenburg-vorpommern-li.3547493",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T10:16:30+00:00"
+      "veroeffentlicht": "2026-09-15T13:49:16+00:00"
     },
     {
-      "titel": "Prozess in Traunstein: Polizistin soll 14-Jährige vergewaltigt haben",
-      "link": "https://www.sueddeutsche.de/bayern/traunstein-polizistin-landgericht-prozess-kinderpornografie-vergewaltigung-li.3547822",
+      "titel": "Raumfahrt: Esa warnt vor zu vielen Satelliten",
+      "link": "https://www.sueddeutsche.de/wissen/esa-weltraumschrottbericht-satelliten-erdorbit-li.3547449",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T10:13:36+00:00"
+      "veroeffentlicht": "2026-09-15T13:44:41+00:00"
     },
     {
-      "titel": "Leute: Harrys und Meghans Kinder müssen die Schule wechseln",
-      "link": "https://www.sueddeutsche.de/panorama/harry-meghan-lilibet-archie-schulwechsel-li.3547725",
+      "titel": "Astronauten trainieren für Mondmission: Vom Nördlinger Ries ins Weltall",
+      "link": "https://www.sueddeutsche.de/bayern/noerdlingen-mondmissionen-rieskrater-raumfahrt-astronauten-li.3547944",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T09:51:42+00:00"
+      "veroeffentlicht": "2026-09-15T13:36:29+00:00"
     },
     {
-      "titel": "Staatsanleihen: Schuldenmachen ist für die USA so teuer wie seit 2007 nicht mehr",
-      "link": "https://www.sueddeutsche.de/wirtschaft/us-staatsanleihen-rendite-stand-li.3547747",
+      "titel": "CDU: Die Union bereitet sich auf das Schlimmste vor",
+      "link": "https://www.sueddeutsche.de/politik/cdu-berlin-mecklenburg-vorpommern-landtagswahlen-merz-li.3547763",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T09:41:24+00:00"
-    },
-    {
-      "titel": "Marktbericht: US-Zinsentscheid zwingt Anleger zur Vorsicht",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T08:58:41+00:00"
+      "veroeffentlicht": "2026-09-15T13:11:12+00:00"
     }
   ]
 }
