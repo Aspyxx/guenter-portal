@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-14T22:09:11+00:00",
+  "aktualisiert": "2026-09-15T00:43:01+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Brandmauer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-brandmauer-afd-100.html",
+      "titel": "Donald Trump Jr",
+      "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
+      "titel": "Aufgeladene Debatte über Gaza-Doku \"Naza\"",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
       "titel": "Schweden steht nach Parlamentswahl vor schwieriger Regierungsbildung",
       "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-112.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 3,
-      "titel": "Oasis kündigt Konzerte in Deutschland an",
-      "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
