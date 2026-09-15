@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-09-14T22:45:52+00:00",
+  "aktualisiert": "2026-09-15T01:30:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump: Supreme Court lässt Präsident im Streit um Briefwahl scheitern",
+      "link": "https://www.spiegel.de/ausland/donald-trump-supreme-court-laesst-praesident-im-streit-um-briefwahl-scheitern-a-59049d18-093d-4fb5-9426-a56890e4fa1f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T01:25:00+00:00"
+    },
+    {
+      "titel": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T01:19:00+00:00"
+    },
+    {
+      "titel": "Russland-Ukraine-Krieg: Nato-Kampfjets schießen Drohne über Litauen ab",
+      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-nato-kampfjets-schiessen-drohne-ueber-litauen-ab-a-f8ebc01f-ad75-4094-ad11-f763ac6ef558#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T01:10:00+00:00"
+    },
+    {
+      "titel": "Litauen: NATO-Kampfjets schießen Drohne ab",
+      "link": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T00:46:06+00:00"
+    },
+    {
+      "titel": "Prinz Harry und Herzogin Meghan: Kinder wechseln in Großbritannien die Schule – nach zwei Tagen",
+      "link": "https://www.spiegel.de/panorama/prinz-harry-und-herzogin-meghan-kinder-wechseln-in-grossbritannien-die-schule-nach-zwei-tagen-a-c9e14319-19b5-4a6d-90a6-7bbbbae120c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T23:36:00+00:00"
+    },
+    {
+      "titel": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-14T23:34:17+00:00"
+    },
+    {
+      "titel": "Modedesigner Bob Mackie ist tot: Er entwarf Outfits für Cher, Tina Turner und Marilyn Monroe",
+      "link": "https://www.spiegel.de/panorama/modedesigner-bob-mackie-ist-tot-er-entwarf-outfits-fuer-cher-tina-turner-und-marilyn-monroe-a-283f4c5d-a8c5-42ba-94b2-26c8d4629c59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-14T23:26:00+00:00"
+    },
     {
       "titel": "Lützkampen, Rheinland-Pfalz: Motorradfahrer liegt 19 Stunden verletzt im Wald",
       "link": "https://www.spiegel.de/panorama/luetzkampen-rheinland-pfalz-motorradfahrer-liegt-19-stunden-verletzt-im-wald-a-9ef9fd47-693a-414a-b94d-f815e2a221bf#ref=rss",
@@ -61,12 +103,6 @@
       "veroeffentlicht": "2026-09-14T18:32:08+00:00"
     },
     {
-      "titel": "Anti-AfD-Demos: Wie das Bündnis »Zeit zum Handeln« den Protest gegen die AfD neu denken will",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/anti-afd-demos-wie-das-buendnis-zeit-zum-handeln-den-protest-gegen-die-afd-neu-denken-will-a-3749578b-f3f6-4abb-bd7e-68a3839aeabf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T18:22:00+00:00"
-    },
-    {
       "titel": "Was steckt hinter der Debatte über eine KI-Bremse?",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
       "quelle": "Tagesschau",
@@ -89,24 +125,6 @@
       "link": "https://www.sueddeutsche.de/medien/sydney-sweeney-sportwetten-werbung-sport-novig-li.3547370",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-14T18:05:53+00:00"
-    },
-    {
-      "titel": "Schweiz: Kontroverse im Nationalsport Schwingen - Streit über den Stier",
-      "link": "https://www.spiegel.de/sport/schweiz-kontroverse-im-nationalsport-schwingen-streit-ueber-den-stier-a-795c4b83-4b62-4374-921e-1a97a9c85981#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T17:59:00+00:00"
-    },
-    {
-      "titel": "Schwarzwaldbahn: Betrunkener Fahrdienstleiter sorgt für Stopp von Bahnverkehr",
-      "link": "https://www.spiegel.de/panorama/schwarzwaldbahn-betrunkener-fahrdienstleiter-sorgt-fuer-stopp-von-bahnverkehr-a-f06b8aaf-dc6f-41a3-bf52-85c869acc81a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T17:51:00+00:00"
-    },
-    {
-      "titel": "Oasis kündigt Konzerte in Deutschland an",
-      "link": "https://www.spiegel.de/panorama/oasis-kuendigt-konzerte-in-deutschland-an-a-6a1f9abf-570d-4d28-b74f-313cbe079a9e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T17:50:00+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Pistorius: Truppe ist weiter als viele denken",
@@ -139,28 +157,10 @@
       "veroeffentlicht": "2026-09-14T16:28:06+00:00"
     },
     {
-      "titel": "Marktbericht: KI- und Zinssorgen bremsen DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T16:21:36+00:00"
-    },
-    {
-      "titel": "Pistorius will Soldaten zum Dienst in Litauen auch verpflichten",
-      "link": "https://www.tagesschau.de/ausland/europa/litauen-brigade-verpflichtung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T16:20:32+00:00"
-    },
-    {
       "titel": "Newsblog zum Ukraine-Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energie stoppen",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-polen-zug-angriff-energieanlagen-infrastruktur-trump-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-14T15:59:06+00:00"
-    },
-    {
-      "titel": "Tankstellenverband erwartet Spritpreise um die drei Euro",
-      "link": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T15:42:47+00:00"
     },
     {
       "titel": "Tourdaten offiziell bestätigt: Britpop-Helden Oasis geben 2027 zwei Konzerte in München",
