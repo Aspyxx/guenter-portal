@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-09-15T20:27:49+00:00",
+  "aktualisiert": "2026-09-15T23:11:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Litauen: Abgeschossene Drohne war laut Regierung mit Sprengsatz bestückt",
+      "link": "https://www.spiegel.de/ausland/litauen-abgeschossene-drohne-war-laut-regierung-mit-sprengsatz-bestueckt-a-edd1cbc5-b077-458f-9930-f140c6ff4f20#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T22:47:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Kennedy Center wird laut Trump umgehend geschlossen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kennedy-center-geschlossen-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T21:51:52+00:00"
+    },
+    {
+      "titel": "Lionel Messi spielt noch einmal für Argentinien",
+      "link": "https://www.spiegel.de/sport/lionel-messi-spielt-noch-einmal-fuer-argentinien-a-d98faccd-4915-4487-a900-42014b69558e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T21:44:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Zum Durchschnaufen muss der Kanzler in der Keller",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-zum-durchschnaufen-muss-der-kanzler-in-der-keller-a-1254d182-0b86-463a-8e76-228529c5404f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T21:23:00+00:00"
+    },
+    {
+      "titel": "Kennedy Center: Von Donald Trump eingesetzte Führung beschließt Schließung",
+      "link": "https://www.spiegel.de/ausland/kennedy-center-von-donald-trump-eingesetzte-fuehrung-beschliesst-schliessung-a-802b89d1-4631-4c9c-9c00-51e1c74ae069#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T21:02:00+00:00"
+    },
+    {
+      "titel": "Ralf Richter ist tot: Ein Typ für die Ewigkeit",
+      "link": "https://www.spiegel.de/kultur/ralf-richter-ist-tot-ein-typ-fuer-die-ewigkeit-a-89fa8d82-0ffb-4ebd-be6f-e40fb13a7699#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T20:35:00+00:00"
+    },
     {
       "titel": "Ed Sheeran: Veranstalter entschied laut über Macklemore-Aus bei Tour",
       "link": "https://www.spiegel.de/panorama/ed-sheeran-veranstalter-entschied-laut-ueber-macklemore-aus-bei-tour-a-9be89a6a-a80d-4286-b6f8-7371b3c91c08#ref=rss",
@@ -53,36 +89,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-eralp-linke-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-15T17:58:49+00:00"
-    },
-    {
-      "titel": "Fall Fabian: Der Richter konfrontiert Gina H. mit Widersprüchen ihrer Aussagen",
-      "link": "https://www.spiegel.de/panorama/justiz/fall-fabian-der-richter-konfrontiert-gina-h-mit-widerspruechen-ihrer-aussagen-a-becd12b8-3e66-4195-b030-d21537c5cc31#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T17:58:00+00:00"
-    },
-    {
-      "titel": "Hamburger SV: Vier Jahre saß er eine Dopingsperre ab, jetzt klammert sich der HSV an Mario Vušković",
-      "link": "https://www.spiegel.de/sport/fussball/hamburger-sv-vier-jahre-sass-er-eine-dopingsperre-ab-jetzt-klammert-sich-der-hsv-an-mario-vuskovic-a-73c42835-630a-4f62-a9d9-f67d989ecb34#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T17:39:00+00:00"
-    },
-    {
-      "titel": "Elektroauto gebraucht kaufen: Spritpreis-Schock verknappt das Angebot günstiger Stromer",
-      "link": "https://www.spiegel.de/mobilitaet/auto/elektroauto-gebraucht-kaufen-spritpreis-schock-verknappt-das-angebot-guenstiger-stromer-a-262c2b77-6293-4fb7-ab1b-fdf1e9356e9b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T17:36:00+00:00"
-    },
-    {
-      "titel": "Niedersachsen: AfD kann mehr als 250 Sitze in Kreis- und Gemeinderäten nicht besetzen",
-      "link": "https://www.spiegel.de/panorama/niedersachsen-afd-kann-mehr-als-250-sitze-in-kreis-und-gemeinderaeten-nicht-besetzen-a-b698b100-4069-4e20-9fbb-f148ad737ef7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T17:32:00+00:00"
-    },
-    {
-      "titel": "Wahlkampf in Berlin: »Das war der dümmste Nazi, aber mit dem allerbesten Timing«",
-      "link": "https://www.spiegel.de/panorama/wahlkampf-in-berlin-das-war-der-duemmste-nazi-aber-mit-dem-allerbesten-timing-a-8a161e7e-ed57-416c-a363-df7edff005ca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T17:32:00+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Bericht: Merz sagt Reise zur UN-Vollversammlung ab",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-angriffe-energieanlagen-rueckeroberung-donbass-operation-vivaldi-li.3524928",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-15T14:20:00+00:00"
-    },
-    {
-      "titel": "Fernsehen: Nach dem Sandmännchen kommt die AfD",
-      "link": "https://www.sueddeutsche.de/medien/kika-afd-siegmund-zdf-wahl-mecklenburg-vorpommern-li.3547493",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T13:49:16+00:00"
     }
   ]
 }
