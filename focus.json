@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-15T05:31:00+00:00",
+  "aktualisiert": "2026-09-15T10:32:30+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Niederlage für Trump im Streit um Briefwahl",
-      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
+      "titel": "Russischer Oligarch hat Hochzeit von Trump Jr. mitfinanziert",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-oligarch-trump-jr-hochzeitsfeier-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
-      "link": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html",
+      "titel": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
+      "link": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
       "rang": 3,
-      "titel": "Aufgeladene Debatte über Gaza-Doku \"Naza\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
+      "titel": "US-Zinsentscheid zwingt Anleger zur Vorsicht",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
