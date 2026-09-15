@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-15T01:30:00+00:00",
+  "aktualisiert": "2026-09-15T06:45:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Donald Trump: Supreme Court lässt Präsident im Streit um Briefwahl scheitern",
-      "link": "https://www.spiegel.de/ausland/donald-trump-supreme-court-laesst-praesident-im-streit-um-briefwahl-scheitern-a-59049d18-093d-4fb5-9426-a56890e4fa1f#ref=rss",
+      "titel": "Dietzenbach: 60-Jähriger stirbt nach Schussverletzung in Hessen",
+      "link": "https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen-a-8d87df7c-8907-4aa9-b8c9-e5f94cefa8af#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T01:25:00+00:00"
+      "veroeffentlicht": "2026-09-15T06:03:00+00:00"
+    },
+    {
+      "titel": "Mecklenburg-Vorpommern: Wahlkampf zwischen Euphorie und Entgeisterung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-mecklenburg-vorpommern-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T05:53:49+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Trotz Ankündigung Trumps: Ukraine greift russische Ölraffinerie an",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-polen-zug-angriff-energieanlagen-infrastruktur-trump-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T05:53:42+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX-Schwäche dürfte anhalten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T05:52:53+00:00"
+    },
+    {
+      "titel": "USA: Gavin Newsom will nicht kandidieren, wenn Kamala Harris antritt",
+      "link": "https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt-a-384e470b-6d0c-41ec-a872-beba85b3f343#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T05:40:00+00:00"
+    },
+    {
+      "titel": "Tennis: Boris Becker fordert neue Regel wegen Alexander Zverevs Balltippen",
+      "link": "https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen-a-f6e3b40f-421e-4d6d-9d75-29e0925a6fd4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T05:29:00+00:00"
+    },
+    {
+      "titel": "US-Fernsehpreise: \"Widow's Bay\" und \"The Pitt\" räumen bei Emmys ab",
+      "link": "https://www.tagesschau.de/kultur/emmy-verleihung-130.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T05:27:27+00:00"
+    },
+    {
+      "titel": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
+      "link": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T05:24:12+00:00"
+    },
+    {
+      "titel": "Litauen: NATO-Kampfjets schießen Drohne ab",
+      "link": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T05:15:19+00:00"
+    },
+    {
+      "titel": "New York: Warum Menschen in SoHo für ein 60-Dollar-Brot anstehen",
+      "link": "https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen-a-65c2950e-be41-47a6-bd00-48b236d4a661#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T05:14:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: USA heben Emissionsvorschriften für Kohle- und Gaskraftwerke auf",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-pistorius-ruestung-verteidigung-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T05:00:05+00:00"
+    },
+    {
+      "titel": "Supreme Court: Niederlage für Trump im Streit um Briefwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T04:52:00+00:00"
+    },
+    {
+      "titel": "Nato registriert mehr hybride Angriffe von Russland",
+      "link": "https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland-a-b3e72fc5-4538-4671-9390-a5d9ae84ba12#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T04:44:00+00:00"
+    },
+    {
+      "titel": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/startup-boom-gruendung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T04:43:29+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Führende CDU-Politiker stellen sich hinter den Kanzler",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T04:22:00+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: „Keiner will, dass die Menschheit zerstört wird“",
+      "link": "https://www.sueddeutsche.de/politik/wildberger-interview-kuenstliche-intelligenz-regulierung-li.3547346",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T04:20:12+00:00"
+    },
+    {
+      "titel": "Ernährung: Sind Linsenchips gesünder als Kartoffelchips?",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/ernaehrung-sind-linsenchips-gesuender-als-kartoffelchips-a-a135dde6-51d5-43ae-9bf8-f3d0d4b736b3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T04:09:00+00:00"
+    },
+    {
+      "titel": "»Watzmann ermittelt«: Was lernt man in der Krimi-Serie über Berchtesgaden?",
+      "link": "https://www.spiegel.de/kultur/watzmann-ermittelt-was-lernt-man-in-der-krimi-serie-ueber-berchtesgaden-a-adb9dedc-286e-4c72-9774-4176fee43ae3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T03:59:00+00:00"
+    },
+    {
+      "titel": "News: Hohe Benzinpreise, Merz-Unterstützer in der CDU, Pistorius besucht Hegseth",
+      "link": "https://www.spiegel.de/politik/deutschland/news-hohe-benzinpreise-merz-unterstuetzer-in-der-cdu-pistorius-besucht-hegseth-a-68a2b85c-4188-45fd-a7d9-9e7a694cde41#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T03:39:00+00:00"
+    },
+    {
+      "titel": "Supreme Court: Oberster Gerichtshof stoppt Trumps Pläne zur Briefwahl",
+      "link": "https://www.sueddeutsche.de/politik/trump-us-kongress-us-wahl-supreme-court-briefwahl-li.3547627",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T03:28:55+00:00"
     },
     {
       "titel": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
@@ -19,40 +133,10 @@
       "veroeffentlicht": "2026-09-15T01:19:00+00:00"
     },
     {
-      "titel": "Russland-Ukraine-Krieg: Nato-Kampfjets schießen Drohne über Litauen ab",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-nato-kampfjets-schiessen-drohne-ueber-litauen-ab-a-f8ebc01f-ad75-4094-ad11-f763ac6ef558#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T01:10:00+00:00"
-    },
-    {
-      "titel": "Litauen: NATO-Kampfjets schießen Drohne ab",
-      "link": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T00:46:06+00:00"
-    },
-    {
-      "titel": "Prinz Harry und Herzogin Meghan: Kinder wechseln in Großbritannien die Schule – nach zwei Tagen",
-      "link": "https://www.spiegel.de/panorama/prinz-harry-und-herzogin-meghan-kinder-wechseln-in-grossbritannien-die-schule-nach-zwei-tagen-a-c9e14319-19b5-4a6d-90a6-7bbbbae120c2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T23:36:00+00:00"
-    },
-    {
       "titel": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
       "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-14T23:34:17+00:00"
-    },
-    {
-      "titel": "Modedesigner Bob Mackie ist tot: Er entwarf Outfits für Cher, Tina Turner und Marilyn Monroe",
-      "link": "https://www.spiegel.de/panorama/modedesigner-bob-mackie-ist-tot-er-entwarf-outfits-fuer-cher-tina-turner-und-marilyn-monroe-a-283f4c5d-a8c5-42ba-94b2-26c8d4629c59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T23:26:00+00:00"
-    },
-    {
-      "titel": "Lützkampen, Rheinland-Pfalz: Motorradfahrer liegt 19 Stunden verletzt im Wald",
-      "link": "https://www.spiegel.de/panorama/luetzkampen-rheinland-pfalz-motorradfahrer-liegt-19-stunden-verletzt-im-wald-a-9ef9fd47-693a-414a-b94d-f815e2a221bf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T22:26:00+00:00"
     },
     {
       "titel": "Newsblog zum Nahost-Krieg: Tanker laut Iran in Straße von Hormus durch Mine in Brand geraten – USA widersprechen",
@@ -61,64 +145,16 @@
       "veroeffentlicht": "2026-09-14T20:40:16+00:00"
     },
     {
-      "titel": "Ed Sheeran wirft Macklemore bei seiner Tour raus",
-      "link": "https://www.spiegel.de/kultur/musik/ed-sheeran-wirft-macklemore-bei-seiner-tour-raus-a-894192ef-4308-440e-8175-fe483cdd54c5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T19:57:00+00:00"
-    },
-    {
-      "titel": "Hannover 96 trennt sich von Trainer Titz – übernimmt jetzt Sandro Wagner?",
-      "link": "https://www.spiegel.de/sport/fussball/hannover-96-trennt-sich-von-trainer-titz-uebernimmt-jetzt-sandro-wagner-a-b05e67e3-abd9-4b06-8434-f4b4eadefdf1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T19:44:00+00:00"
-    },
-    {
-      "titel": "USA: Kraftwerke dürfen bald ohne Limit emittieren",
-      "link": "https://www.spiegel.de/ausland/usa-kraftwerke-duerfen-bald-ohne-limit-emittieren-a-7592ad1e-7bad-4e64-b217-1b9b6145ff75#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T19:32:00+00:00"
-    },
-    {
       "titel": "Hannover 96: Das nächste große Ego im Klub der großen Egos?",
       "link": "https://www.sueddeutsche.de/sport/hannover-96-trainer-wagner-titz-boldt-li.3547053",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-14T19:07:51+00:00"
     },
     {
-      "titel": "Hochzeitsfeier von Donald Trump Jr. wurde teilweise von russischem Oligarchen finanziert",
-      "link": "https://www.spiegel.de/ausland/hochzeitsfeier-von-donald-trump-jr-wurde-teilweise-von-russischem-oligarchen-finanziert-a-0cb89d37-a993-434a-a743-20a61bcd1561#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-14T18:55:00+00:00"
-    },
-    {
-      "titel": "Schock und Trotz nach Razzien gegen LGBTQ-Vereine in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/tuerkei-razzien-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T18:38:34+00:00"
-    },
-    {
-      "titel": "Klingbeil stellt Bedingungen für Commerzbank-Übernahme",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klingbeil-bedingungen-unicredit-commerzbank-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T18:32:08+00:00"
-    },
-    {
-      "titel": "Was steckt hinter der Debatte über eine KI-Bremse?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T18:20:40+00:00"
-    },
-    {
       "titel": "Das rät eine Schulpsychologin: Warum ein bisschen Stress in der Schule gar nicht so schlimm ist",
       "link": "https://www.sueddeutsche.de/bayern/bayern-schule-schulanfang-schulstress-schueler-behandlung-li.3545035",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-14T18:20:00+00:00"
-    },
-    {
-      "titel": "Wirbel nach Rekordspenden für Farages Reform-UK-Partei",
-      "link": "https://www.tagesschau.de/ausland/europa/rekordspende-reform-uk-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T18:19:43+00:00"
     },
     {
       "titel": "Debatte: Hier geht es nicht um Sport, Baby",
@@ -131,42 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-pistorius-bundeswehr-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-14T17:27:31+00:00"
-    },
-    {
-      "titel": "Gespräche mit Unicredit: Was sich der Bund für die Commerzbank-Übernahme wünscht",
-      "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-uebernahme-bundesregierung-unicredit-gespraeche-berlin-li.3547170",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T17:14:19+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Trumps Schwiegertochter: Russischer Oligarch zahlte für Partys, nicht für Hochzeit",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-schwiegertochter-bettina-trump-russland-putin-umar-kremlev-oligarch-hochzeit-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T17:10:00+00:00"
-    },
-    {
-      "titel": "Oasis kündigt Konzerte in Deutschland an",
-      "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T16:54:42+00:00"
-    },
-    {
-      "titel": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-gipfel-abschluss-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T16:28:06+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energie stoppen",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-polen-zug-angriff-energieanlagen-infrastruktur-trump-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T15:59:06+00:00"
-    },
-    {
-      "titel": "Tourdaten offiziell bestätigt: Britpop-Helden Oasis geben 2027 zwei Konzerte in München",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-oasis-tour-2027-allianz-arena-li.3547142",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T15:30:35+00:00"
     }
   ]
 }
