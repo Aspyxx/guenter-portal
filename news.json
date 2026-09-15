@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-15T06:45:48+00:00",
+  "aktualisiert": "2026-09-15T12:41:44+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Dietzenbach: 60-Jähriger stirbt nach Schussverletzung in Hessen",
-      "link": "https://www.spiegel.de/panorama/justiz/dietzenbach-60-jaehriger-stirbt-nach-schussverletzung-in-hessen-a-8d87df7c-8907-4aa9-b8c9-e5f94cefa8af#ref=rss",
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T06:03:00+00:00"
+      "veroeffentlicht": "2026-09-15T12:34:00+00:00"
     },
     {
-      "titel": "Mecklenburg-Vorpommern: Wahlkampf zwischen Euphorie und Entgeisterung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-mecklenburg-vorpommern-104.html",
+      "titel": "Vorwurf der Vergewaltigung: Warum der Prozess gegen Yasin Mohamed so besonders ist",
+      "link": "https://www.spiegel.de/panorama/justiz/vorwurf-der-vergwaltigung-warum-der-prozess-gegen-yasin-mohamed-so-besonders-ist-a-4ed63b8d-c092-474d-aa0e-4c5ea6745129#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T12:31:00+00:00"
+    },
+    {
+      "titel": "Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-entlastungen-spritpreise-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T05:53:49+00:00"
+      "veroeffentlicht": "2026-09-15T12:24:30+00:00"
     },
     {
-      "titel": "Newsblog zum Ukraine-Krieg: Trotz Ankündigung Trumps: Ukraine greift russische Ölraffinerie an",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-polen-zug-angriff-energieanlagen-infrastruktur-trump-li.3524928",
+      "titel": "Sydney Sweeney - Empörung über Werbekampagne: Nackt, aber nicht naiv",
+      "link": "https://www.spiegel.de/sport/sydney-sweeney-empoerung-ueber-werbekampagne-nackt-aber-nicht-naiv-a-03a38ae1-f6c7-4c8c-bd1a-e0e0178bd5b3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T12:23:00+00:00"
+    },
+    {
+      "titel": "Organspende: Sollten Organspenden auch nach Herzstillstand möglich sein?",
+      "link": "https://www.sueddeutsche.de/gesundheit/organspende-herztod-deutschland-debatte-regeln-li.3547683",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T05:53:42+00:00"
+      "veroeffentlicht": "2026-09-15T12:20:45+00:00"
     },
     {
-      "titel": "Marktbericht: DAX-Schwäche dürfte anhalten",
+      "titel": "Rendite für US-Staatsanleihen steigt auf höchsten Stand seit 2007",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/rendite-fuer-us-staatsanleihen-steigt-auf-hoechsten-stand-seit-2007-a-368de247-a62a-4327-89d1-e6f6647316b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T12:19:00+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Spritpreis auf Rekordhöhe – jetzt stellt Merz Entlastungen in Aussicht",
+      "link": "https://www.sueddeutsche.de/wirtschaft/spritpreis-merz-benzin-entlastung-li.3547829",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T12:13:09+00:00"
+    },
+    {
+      "titel": "Benzinpreis: Friedrich Merz kündigt Entlastungen an",
+      "link": "https://www.spiegel.de/wirtschaft/benzinpreis-friedrich-merz-kuendigt-entlastungen-an-a-59ec2177-9a42-4a43-bac8-e3a9ed9b4c3d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T12:12:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Was für und gegen Wüst, Söder, Dobrindt und Rhein als Kanzler spricht",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-was-fuer-und-gegen-wuest-soeder-dobrindt-und-rhein-als-kanzler-spricht-a-4f225f9d-c24e-46b0-89e3-5011671d8f15#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T12:05:00+00:00"
+    },
+    {
+      "titel": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T12:04:35+00:00"
+    },
+    {
+      "titel": "Zinserwartungen verfestigt: US-Rendite auf Niveau der Finanzkrise",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/marktbericht-renditen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T12:04:01+00:00"
+    },
+    {
+      "titel": "Michael J. Fox spricht bei den Emmys über sein Leben mit Parkinson",
+      "link": "https://www.spiegel.de/kultur/tv/michael-j-fox-spricht-bei-den-emmys-ueber-sein-leben-mit-parkinson-a-19c7273b-4a6a-4b17-a27a-738a42877928#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T11:43:00+00:00"
+    },
+    {
+      "titel": "Apotheken sollen stärker zu medizinischen Dienstleistern werden",
+      "link": "https://www.tagesschau.de/wirtschaft/apotheken-apothekertag-linnemann-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T11:39:22+00:00"
+    },
+    {
+      "titel": "Russland: Wladimir Putin verlegt Waldai-Konferenz wegen Sicherheitsbedenken von Sotschi nach Moskau",
+      "link": "https://www.spiegel.de/ausland/russland-wladimir-putin-verlegt-waldai-konferenz-wegen-sicherheitsbedenken-von-sotschi-nach-moskau-a-f1e822fa-c0be-49e3-b9bb-e3360188b42a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T11:36:00+00:00"
+    },
+    {
+      "titel": "Oberleitungsschaden: Münchner S-Bahn-Stammstrecke komplett gesperrt – zwei Züge mit 150 Passagieren evakuiert",
+      "link": "https://www.sueddeutsche.de/muenchen/s-bahn-muenchen-stammstrecke-sperrung-heute-alternativen-evakuierung-li.3547720",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T11:35:00+00:00"
+    },
+    {
+      "titel": "Emmy-Awards 2026: Funkelnde Kleider, goldene Trophäen, herausragende Leistungen",
+      "link": "https://www.spiegel.de/kultur/tv/emmy-awards-2026-funkelnde-kleider-goldene-trophaeen-herausragende-leistungen-a-1bb32978-8edd-46dc-9e62-235c1a30f5c0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-15T11:34:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: USA bestätigen Waffen im Weltall",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-weltall-waffen-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T11:29:24+00:00"
+    },
+    {
+      "titel": "Wie sich Female Body Horror mit Schönheitsidealen auseinandersetzt",
+      "link": "https://www.tagesschau.de/kultur/female-body-horror-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T11:24:00+00:00"
+    },
+    {
+      "titel": "BKA-Lagebild: Kriminelle Gruppen werden digitaler und brutaler",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeslagebild-bandenkriminalitaet-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T11:19:28+00:00"
+    },
+    {
+      "titel": "Prozess in Ingolstadt: Angeklagter schweigt zu Mord an Ex-Frau auf offener Straße",
+      "link": "https://www.sueddeutsche.de/bayern/ingolstadt-landgericht-mord-ex-frau-femizid-prozess-li.3547839",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T11:10:00+00:00"
+    },
+    {
+      "titel": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
+      "link": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T11:05:37+00:00"
+    },
+    {
+      "titel": "Schwieriger Umstieg der Speditionen auf Elektro-Lkw",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umstieg-e-lkw-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T10:34:53+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Keine Koalition für niemand",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-bsw-afd-li.3547700",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T10:16:30+00:00"
+    },
+    {
+      "titel": "Prozess in Traunstein: Polizistin soll 14-Jährige vergewaltigt haben",
+      "link": "https://www.sueddeutsche.de/bayern/traunstein-polizistin-landgericht-prozess-kinderpornografie-vergewaltigung-li.3547822",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T10:13:36+00:00"
+    },
+    {
+      "titel": "Leute: Harrys und Meghans Kinder müssen die Schule wechseln",
+      "link": "https://www.sueddeutsche.de/panorama/harry-meghan-lilibet-archie-schulwechsel-li.3547725",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T09:51:42+00:00"
+    },
+    {
+      "titel": "Staatsanleihen: Schuldenmachen ist für die USA so teuer wie seit 2007 nicht mehr",
+      "link": "https://www.sueddeutsche.de/wirtschaft/us-staatsanleihen-rendite-stand-li.3547747",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-15T09:41:24+00:00"
+    },
+    {
+      "titel": "Marktbericht: US-Zinsentscheid zwingt Anleger zur Vorsicht",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T05:52:53+00:00"
-    },
-    {
-      "titel": "USA: Gavin Newsom will nicht kandidieren, wenn Kamala Harris antritt",
-      "link": "https://www.spiegel.de/ausland/usa-gavin-newsom-will-nicht-kandidieren-wenn-kamala-harris-antritt-a-384e470b-6d0c-41ec-a872-beba85b3f343#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T05:40:00+00:00"
-    },
-    {
-      "titel": "Tennis: Boris Becker fordert neue Regel wegen Alexander Zverevs Balltippen",
-      "link": "https://www.spiegel.de/sport/tennis/tennis-boris-becker-fordert-neue-regel-wegen-alexander-zverevs-balltippen-a-f6e3b40f-421e-4d6d-9d75-29e0925a6fd4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T05:29:00+00:00"
-    },
-    {
-      "titel": "US-Fernsehpreise: \"Widow's Bay\" und \"The Pitt\" räumen bei Emmys ab",
-      "link": "https://www.tagesschau.de/kultur/emmy-verleihung-130.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T05:27:27+00:00"
-    },
-    {
-      "titel": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
-      "link": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T05:24:12+00:00"
-    },
-    {
-      "titel": "Litauen: NATO-Kampfjets schießen Drohne ab",
-      "link": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T05:15:19+00:00"
-    },
-    {
-      "titel": "New York: Warum Menschen in SoHo für ein 60-Dollar-Brot anstehen",
-      "link": "https://www.spiegel.de/panorama/new-york-warum-menschen-in-soho-fuer-ein-60-dollar-brot-anstehen-a-65c2950e-be41-47a6-bd00-48b236d4a661#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T05:14:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: USA heben Emissionsvorschriften für Kohle- und Gaskraftwerke auf",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-pistorius-ruestung-verteidigung-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T05:00:05+00:00"
-    },
-    {
-      "titel": "Supreme Court: Niederlage für Trump im Streit um Briefwahl",
-      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T04:52:00+00:00"
-    },
-    {
-      "titel": "Nato registriert mehr hybride Angriffe von Russland",
-      "link": "https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland-a-b3e72fc5-4538-4671-9390-a5d9ae84ba12#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T04:44:00+00:00"
-    },
-    {
-      "titel": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/startup-boom-gruendung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T04:43:29+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Führende CDU-Politiker stellen sich hinter den Kanzler",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-fuehrende-cdu-politiker-stellen-sich-hinter-den-kanzler-a-78919002-9cb8-45fa-80dd-509ea01a7f4e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T04:22:00+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: „Keiner will, dass die Menschheit zerstört wird“",
-      "link": "https://www.sueddeutsche.de/politik/wildberger-interview-kuenstliche-intelligenz-regulierung-li.3547346",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T04:20:12+00:00"
-    },
-    {
-      "titel": "Ernährung: Sind Linsenchips gesünder als Kartoffelchips?",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/ernaehrung-sind-linsenchips-gesuender-als-kartoffelchips-a-a135dde6-51d5-43ae-9bf8-f3d0d4b736b3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T04:09:00+00:00"
-    },
-    {
-      "titel": "»Watzmann ermittelt«: Was lernt man in der Krimi-Serie über Berchtesgaden?",
-      "link": "https://www.spiegel.de/kultur/watzmann-ermittelt-was-lernt-man-in-der-krimi-serie-ueber-berchtesgaden-a-adb9dedc-286e-4c72-9774-4176fee43ae3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T03:59:00+00:00"
-    },
-    {
-      "titel": "News: Hohe Benzinpreise, Merz-Unterstützer in der CDU, Pistorius besucht Hegseth",
-      "link": "https://www.spiegel.de/politik/deutschland/news-hohe-benzinpreise-merz-unterstuetzer-in-der-cdu-pistorius-besucht-hegseth-a-68a2b85c-4188-45fd-a7d9-9e7a694cde41#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T03:39:00+00:00"
-    },
-    {
-      "titel": "Supreme Court: Oberster Gerichtshof stoppt Trumps Pläne zur Briefwahl",
-      "link": "https://www.sueddeutsche.de/politik/trump-us-kongress-us-wahl-supreme-court-briefwahl-li.3547627",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T03:28:55+00:00"
-    },
-    {
-      "titel": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T01:19:00+00:00"
-    },
-    {
-      "titel": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-14T23:34:17+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Tanker laut Iran in Straße von Hormus durch Mine in Brand geraten – USA widersprechen",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-oman-strasse-von-hormus-tanker-usa-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T20:40:16+00:00"
-    },
-    {
-      "titel": "Hannover 96: Das nächste große Ego im Klub der großen Egos?",
-      "link": "https://www.sueddeutsche.de/sport/hannover-96-trainer-wagner-titz-boldt-li.3547053",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T19:07:51+00:00"
-    },
-    {
-      "titel": "Das rät eine Schulpsychologin: Warum ein bisschen Stress in der Schule gar nicht so schlimm ist",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-schule-schulanfang-schulstress-schueler-behandlung-li.3545035",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T18:20:00+00:00"
-    },
-    {
-      "titel": "Debatte: Hier geht es nicht um Sport, Baby",
-      "link": "https://www.sueddeutsche.de/medien/sydney-sweeney-sportwetten-werbung-sport-novig-li.3547370",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T18:05:53+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Pistorius: Truppe ist weiter als viele denken",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-pistorius-bundeswehr-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-14T17:27:31+00:00"
+      "veroeffentlicht": "2026-09-15T08:58:41+00:00"
     }
   ]
 }
