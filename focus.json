@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-15T00:43:01+00:00",
+  "aktualisiert": "2026-09-15T05:31:00+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Donald Trump Jr",
-      "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
+      "titel": "Niederlage für Trump im Streit um Briefwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
+      "titel": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
+      "link": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 3,
       "titel": "Aufgeladene Debatte über Gaza-Doku \"Naza\"",
       "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Schweden steht nach Parlamentswahl vor schwieriger Regierungsbildung",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-112.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
     }
   ]
 }
