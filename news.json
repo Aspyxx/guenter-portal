@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-16T06:48:33+00:00",
+  "aktualisiert": "2026-09-16T12:36:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
+      "titel": "Politische Kommunikation: Was Friedrich Merz von Estlands Präsidentin lernen kann - Kolumne",
+      "link": "https://www.spiegel.de/politik/politische-kommunikation-was-friedrich-merz-von-estlands-praesidentin-lernen-kann-kolumne-a-695a8be8-f640-49cc-8b69-6a6267e2bcc0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T12:32:00+00:00"
+    },
+    {
+      "titel": "iPhone 18 Pro und Pro Max im Test: Das kann Apples neues iPhone-Duo",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/iphone-18-pro-und-pro-max-im-test-das-kann-apples-neues-iphone-duo-a-75b8186e-7fbd-4f47-ac27-05cee3fb0317#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T12:22:00+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: Russischer General Anton Grinus zwei Wochen nach Heldenehrung tot",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-russischer-general-anton-grinus-zwei-wochen-nach-heldenehrung-tot-a-23fb37b8-1473-4396-a1db-4d72b71239ca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T12:12:00+00:00"
+    },
+    {
+      "titel": "Bosch-Betriebsrat fordert Initiativen der Politik gegen weiteren Stellenabbau",
+      "link": "https://www.spiegel.de/wirtschaft/bosch-betriebsrat-fordert-initiativen-der-politik-gegen-weiteren-stellenabbau-a-fc64ca96-a4d3-4479-a8bd-d88d4c465204#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T12:09:00+00:00"
+    },
+    {
+      "titel": "Regierung legt Aktionsplan gegen Sozialbetrug vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-plan-sozialmissbrauch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T12:01:27+00:00"
+    },
+    {
+      "titel": "Bundesregierung: CDU-Ministerpräsidenten springen Merz bei",
+      "link": "https://www.sueddeutsche.de/politik/merz-cdu-spd-bundeskanzler-ministerpraesidenten-wuest-li.3548342",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T11:52:00+00:00"
+    },
+    {
+      "titel": "Dino Toppmöller bei RC Lens: Entlassungsgrund: Loyalität",
+      "link": "https://www.sueddeutsche.de/sport/rc-lens-toppmoeller-entlassung-co-trainer-li.3548351",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T11:49:46+00:00"
+    },
+    {
+      "titel": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
+      "link": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T11:48:26+00:00"
+    },
+    {
+      "titel": "Der Streit um Ed Sheeran und Macklemore – das steckt dahinter",
+      "link": "https://www.spiegel.de/kultur/musik/macklemore-warum-sich-der-streit-um-die-ed-sheeran-tour-gerade-an-ihm-entzuendet-a-08d61831-18e7-4518-bafa-daabe67ddd3a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T11:48:00+00:00"
+    },
+    {
+      "titel": "Den Haag: Kosovos Ex-Präsident Hashim Thaçi zu 25 Jahren Haft verurteilt",
+      "link": "https://www.spiegel.de/ausland/den-haag-kosovos-ex-praesident-hashim-thaci-zu-25-jahren-haft-verurteilt-a-1a738b73-f97d-4421-97e0-73f3c1d70860#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T11:39:00+00:00"
+    },
+    {
+      "titel": "Kreditkarten-Schulden: Der Alltag der Amerikaner läuft auf Pump",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-kreditkarten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T11:36:53+00:00"
+    },
+    {
+      "titel": "Warum der Dollar trotz höherer US-Zinsen schwach bleibt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dollar-trump-fed-zinserhoehung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T11:35:55+00:00"
+    },
+    {
+      "titel": "Australische Tiefseespinne strahlt überirdisch blau",
+      "link": "https://www.spiegel.de/wissenschaft/australische-tiefseespinne-strahlt-ueberirdisch-blau-a-64581779-21a2-4088-936a-7ff7aa2a635f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T11:29:00+00:00"
+    },
+    {
+      "titel": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T11:19:59+00:00"
+    },
+    {
       "titel": "Drohne über Litauen war laut Regierung mit Sprengstoff bestückt",
       "link": "https://www.tagesschau.de/ausland/europa/litauen-drohne-sprengstoff-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T06:39:59+00:00"
+      "veroeffentlicht": "2026-09-16T11:17:54+00:00"
     },
     {
-      "titel": "Mecklenburg-Vorpommern: Der Herausforderer gegen die \"Frau gegen Blau\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-mecklenburg-vorpommern-wahlkampf-100.html",
+      "titel": "Langdock: Berliner KI-Spezialist verlegt Firmensitz aus den USA nach Deutschland",
+      "link": "https://www.spiegel.de/netzwelt/web/langdock-berliner-ki-spezialist-verlegt-firmensitz-aus-den-usa-nach-deutschland-a-9584588e-ee86-4689-9d86-cf41210d06e3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T11:11:00+00:00"
+    },
+    {
+      "titel": "Sudan: Mindestens 60 Tote bei Einsturz von Goldmine",
+      "link": "https://www.spiegel.de/panorama/sudan-mindestens-60-tote-bei-einsturz-von-goldmine-a-ec3b7f4f-9eda-4738-8f66-49dfd8010d90#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T11:02:00+00:00"
+    },
+    {
+      "titel": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T06:13:18+00:00"
+      "veroeffentlicht": "2026-09-16T10:52:32+00:00"
     },
     {
-      "titel": "Kim Kardashian bekommt nach Raubüberfall einen Euro Schadensersatz",
-      "link": "https://www.spiegel.de/panorama/justiz/kim-kardashian-bekommt-nach-raubueberfall-einen-euro-schadensersatz-a-8b50ea4e-8bd1-42ee-a828-ffe859e89d1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T06:13:00+00:00"
+      "titel": "Ursula von der Leyen: Wenn sie nichts zu sagen hat, könnte sie auch nichts sagen",
+      "link": "https://www.sueddeutsche.de/meinung/rede-zur-lage-der-eu-von-der-leyen-kanada-kommentar-li.3547978",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T10:47:56+00:00"
     },
     {
-      "titel": "Mekka: Saudi-Arabien wehrt offenbar Drohne der Huthi-Miliz nahe der heiligen Stadt ab",
-      "link": "https://www.spiegel.de/ausland/mekka-saudi-arabien-wehrt-offenbar-drohne-der-huthi-miliz-nahe-der-heiligen-stadt-ab-a-9831862b-5037-4696-b49f-04ae99fbb699#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T05:49:00+00:00"
+      "titel": "Spritpreise: Die Regierung gießt Benzin ins Feuer der Populisten",
+      "link": "https://www.sueddeutsche.de/meinung/deutschland-benzinpreise-politik-massnahmen-spritkosten-kommentar-li.3548250",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T10:37:33+00:00"
     },
     {
-      "titel": "Marktbericht: Leichte Kursgewinne vor US-Zinsentscheid?",
+      "titel": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
+      "link": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T10:02:53+00:00"
+    },
+    {
+      "titel": "Leute: „Jetzt bin ich heilfroh“",
+      "link": "https://www.sueddeutsche.de/panorama/promis-thomas-gottschalk-krebs-behandlung-li.3548266",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T09:56:44+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Chefökonom hat nachgerechnet, wie viel teurer Bier auf der Wiesn wirklich geworden ist",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-bier-preis-mass-inflation-oekonom-langzeitvergleich-li.3548371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T09:41:31+00:00"
+    },
+    {
+      "titel": "Europäische Union: Von der Leyen will eigenen Artikel 4 für die EU",
+      "link": "https://www.sueddeutsche.de/politik/eu-von-der-leyen-europaparlament-artikel-4-li.3548264",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T09:35:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung: Klingbeil und Bas laden frühere SPD-Chefs zu Lagebesprechung ein",
+      "link": "https://www.sueddeutsche.de/politik/spd-klingbeil-bas-vorgaenger-lagebesprechung-berlin-li.3548314",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T09:13:18+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX startet mit Gewinnen vor US-Zinsentscheid",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T05:47:50+00:00"
+      "veroeffentlicht": "2026-09-16T09:00:34+00:00"
     },
     {
-      "titel": "Pistorius in Washington: Lob und engere Verteidigungskooperation",
-      "link": "https://www.tagesschau.de/ausland/amerika/pistorius-hegseth-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T05:42:14+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Berichte: USA wollen Israel Zehntausende schwere Bomben liefern",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-bomben-israel-ruestungslieferung-li.3530667",
+      "titel": "Newsblog zur Bundespolitik: CDU-Ministerpräsidenten: „Gemeinsam mit dem Bundeskanzler“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-deutschland-cdu-merz-li.3529564",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T05:35:44+00:00"
-    },
-    {
-      "titel": "Spritpreise: Experten warnen – doch der Druck auf Merz wächst",
-      "link": "https://www.spiegel.de/wirtschaft/spritpreise-experten-warnen-doch-der-druck-auf-merz-waechst-a-c5c151ba-df63-4535-85b2-abb55d15f899#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T05:34:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Kiew meldet erfolgreichen Test neuer Drohnenabwehr-Waffe",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-drohnen-abwehr-selenskij-shahed-donbass-li.3524928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T05:20:55+00:00"
-    },
-    {
-      "titel": "Südamerika bleibt gefährlichste Region für Umweltschützer",
-      "link": "https://www.spiegel.de/ausland/suedamerika-bleibt-gefaehrlichste-region-fuer-umweltschuetzer-a-241cae9b-0b9b-4ca0-854c-514ebc9b5192#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T05:18:00+00:00"
-    },
-    {
-      "titel": "Kalifornien: Drei Tote bei Absturz von NBC4-Hubschrauber in Los Angeles",
-      "link": "https://www.spiegel.de/panorama/kalifornien-drei-tote-bei-absturz-von-nbc4-hubschrauber-in-los-angeles-a-76542187-f352-4e03-89c8-8ede120bcb1e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T04:59:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Pistorius und Hegseth unterzeichnen Rüstungsvereinbarung",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-pistorius-ruestung-usa-hegseth-reise-spritpreise-spd-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T04:58:02+00:00"
-    },
-    {
-      "titel": "Streit über Wahlrechtsreform: Melonis Zitterpartie",
-      "link": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-reform-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T04:29:45+00:00"
-    },
-    {
-      "titel": "Gehalt als Referent für Energiepolitik: »Dass ich mal so viel verdiene, habe ich nicht erwartet«",
-      "link": "https://www.spiegel.de/karriere/gehalt-als-referent-fuer-energiepolitik-dass-ich-mal-so-viel-verdiene-habe-ich-nicht-erwartet-a-2d593a79-0cde-48c0-aa66-873c7d96fb45#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T04:22:00+00:00"
-    },
-    {
-      "titel": "Lesen: Söhne sind häufig Lesemuffel. Wie man sie für Bücher begeistert? So nicht!",
-      "link": "https://www.spiegel.de/familie/lesen-soehne-sind-haeufig-lesemuffel-wie-man-sie-fuer-buecher-begeistert-so-nicht-a-d19327fc-b345-42ff-a300-830fae2dcdc3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T04:21:00+00:00"
-    },
-    {
-      "titel": "Die Horror-Comedy-Serie Widows Bay war der große Abräumer bei den Emmys. Vielleicht weil es in der Serie um rein gar nichts geht?",
-      "link": "https://www.spiegel.de/kultur/tv/die-horror-comedy-serie-widows-bay-war-der-grosse-abraeumer-bei-den-emmys-vielleicht-weil-es-in-der-serie-um-rein-gar-nichts-geht-a-fcf4a102-f91f-431a-a7da-ac10ded6f9f2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T04:15:00+00:00"
-    },
-    {
-      "titel": "Boris Pistorius bei Pete Hegseth: Wenn der Musterschüler kommt, gibt sich der »Kriegsminister«freundlich",
-      "link": "https://www.spiegel.de/politik/deutschland/boris-pistorius-bei-pete-hegseth-wenn-der-musterschueler-kommt-gibt-sich-der-kriegsminister-freundlich-a-7677183f-9ae9-4713-a269-0e3b1ba6e328#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T04:07:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: „In Stücke geschossen“ – Irans Außenminister macht sich über US-Verluste lustig",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-us-stuetzpunkt-us-armee-verluste-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T03:26:13+00:00"
-    },
-    {
-      "titel": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
-      "link": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T03:06:56+00:00"
-    },
-    {
-      "titel": "E-Mails zeigen: Ministerium nannte niedrigeren Masken-Marktpreis",
-      "link": "https://www.tagesschau.de/investigativ/swr/maskendeals-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T03:02:36+00:00"
-    },
-    {
-      "titel": "USA: Und jetzt ist das Kennedy Center zu",
-      "link": "https://www.sueddeutsche.de/kultur/kennedy-center-washington-trump-pleite-li.3547572",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T03:02:06+00:00"
-    },
-    {
-      "titel": "Nachfolgedebatte: Söder? Wüst? Dobrindt? Rhein? Oder doch keiner?",
-      "link": "https://www.sueddeutsche.de/politik/merz-soeder-wuest-cdu-csu-nachfolge-li.3547772",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T02:57:01+00:00"
-    },
-    {
-      "titel": "CDU: Im Keller gibt es viel Applaus für Friedrich Merz",
-      "link": "https://www.sueddeutsche.de/politik/friedrich-merz-bundeskanzler-konrad-adenauer-stiftung-cdu-reformen-li.3547710",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T02:56:58+00:00"
-    },
-    {
-      "titel": "Deutschland und USA wollen bei Rüstung mehr zusammenarbeiten",
-      "link": "https://www.tagesschau.de/ausland/pistorius-hegseth-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T02:32:18+00:00"
-    },
-    {
-      "titel": "Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an",
-      "link": "https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T00:17:12+00:00"
-    },
-    {
-      "titel": "CDU: Die Union bereitet sich auf das Schlimmste vor",
-      "link": "https://www.sueddeutsche.de/politik/cdu-berlin-mecklenburg-vorpommern-landtagswahlen-merz-li.3547763",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T17:31:00+00:00"
-    },
-    {
-      "titel": "München: Oberleitung der S-Bahn repariert: Stammstrecke wieder frei",
-      "link": "https://www.sueddeutsche.de/muenchen/s-bahn-muenchen-stammstrecke-sperrung-heute-nachmittag-li.3547720",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-15T16:14:00+00:00"
+      "veroeffentlicht": "2026-09-16T08:50:46+00:00"
     }
   ]
 }
