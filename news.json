@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-09-16T20:25:54+00:00",
+  "aktualisiert": "2026-09-16T23:16:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Susie Wiles: Stabschefin von Donald Trump ist eigenen Angaben zufolge krebsfrei",
+      "link": "https://www.spiegel.de/panorama/susie-wiles-stabschefin-von-donald-trump-ist-eigenen-angaben-zufolge-krebsfrei-a-1de50472-3d9d-449f-a0fb-33ea1fa19c69#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T23:01:00+00:00"
+    },
+    {
+      "titel": "Sachsen: Landtag erlaubt Abschuss von Wölfen nach Angriff auf Nutztiere",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-landtag-erlaubt-abschuss-von-woelfen-nach-angriff-auf-nutztiere-a-710378a0-4dce-4094-971f-2c655f72c88f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T22:43:00+00:00"
+    },
+    {
+      "titel": "»Green Lava«: Vatikan reicht erstmals einen Film bei den Oscars ein",
+      "link": "https://www.spiegel.de/kultur/green-lava-vatikan-reicht-erstmals-einen-film-bei-den-oscars-ein-a-a7ff50a4-0757-479a-95b9-bc1b393b560c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T22:15:00+00:00"
+    },
+    {
+      "titel": "Geldpolitik: US-Notenbank erhöht Zinsen erstmals seit drei Jahren",
+      "link": "https://www.sueddeutsche.de/wirtschaft/us-notenbank-fed-leitzins-erhoehung-warsh-trump-li.3548613",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T21:17:00+00:00"
+    },
+    {
+      "titel": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T21:03:12+00:00"
+    },
+    {
+      "titel": "Bundesregierung: Klingbeil und Bas laden frühere SPD-Chefs zu Lagebesprechung ein",
+      "link": "https://www.sueddeutsche.de/politik/spd-klingbeil-bas-vorgaenger-lagebesprechung-berlin-li.3548314",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T20:36:50+00:00"
+    },
+    {
+      "titel": "Coburg – Bayern: Vermummter soll 45-Jährigen auf Hausparty getötet haben",
+      "link": "https://www.spiegel.de/panorama/justiz/coburg-bayern-vermummter-soll-45-jaehrigen-auf-hausparty-getoetet-haben-a-8e94fa16-38d5-4823-a239-e86591d2f41d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T20:26:00+00:00"
+    },
     {
       "titel": "Lena Dunhams Memoir »Famesick«: Nach Endometriose und Hysterektomie doch noch Mutter geworden",
       "link": "https://www.spiegel.de/panorama/leute/lena-dunhams-memoir-famesick-nach-endometriose-und-hysterektomie-doch-noch-mutter-geworden-a-c076864f-e7f1-422d-a8f6-569c85b6b57b#ref=rss",
@@ -17,12 +59,6 @@
       "link": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-zusammenarbeit-openai-anthropic-google-un-trump-li.3547133",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-16T19:35:59+00:00"
-    },
-    {
-      "titel": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T19:11:50+00:00"
     },
     {
       "titel": "Bärbel Bas – Alexander Dobrindt: Bundesregierung will mit Aktionsplan gegen Sozialbetrug vorgehen",
@@ -55,28 +91,10 @@
       "veroeffentlicht": "2026-09-16T18:17:00+00:00"
     },
     {
-      "titel": "US-Notenbank Fed erhöht Leitzins erstmals seit 2023",
-      "link": "https://www.spiegel.de/wirtschaft/us-notenbank-fed-erhoeht-leitzins-erstmals-seit-2023-a-c72447c1-ff8e-4fdb-a5c1-9745d77ce5b9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T18:13:00+00:00"
-    },
-    {
       "titel": "Syrien: Größte Proteste seit Sturz von Assad",
       "link": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-16T18:11:51+00:00"
-    },
-    {
-      "titel": "Geldpolitik: US-Notenbank erhöht Zinsen erstmals seit drei Jahren",
-      "link": "https://www.sueddeutsche.de/wirtschaft/us-notenbank-fed-leitzins-erhoehung-warsh-trump-li.3548613",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T18:02:30+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Auch Wirtschaftsflügel der Union stellt sich hinter den Kanzler",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-auch-wirtschaftsfluegel-der-union-stellt-sich-hinter-den-kanzler-a-8f66841c-baa0-435c-b001-125f6ea64bec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T17:49:00+00:00"
     },
     {
       "titel": "Vier Jahre \"Frau, Leben, Freiheit\": Was von Irans Protesten geblieben ist",
@@ -89,18 +107,6 @@
       "link": "https://www.sueddeutsche.de/kultur/salzburger-festspiele-oper-bruessel-peter-de-caluwe-li.3548840",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-16T17:37:32+00:00"
-    },
-    {
-      "titel": "Bundesgerichtshof entscheidet über Ausnahme für private Datenschutzverstöße",
-      "link": "https://www.spiegel.de/panorama/justiz/bundesgerichtshof-entscheidet-ueber-ausnahme-fuer-private-datenschutzverstoesse-a-7dbbd793-41d4-4afb-b3be-aebe777dba76#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T17:33:00+00:00"
-    },
-    {
-      "titel": "The Tubs mit dem Album »Hard Life«: Warum kein Anklang aus Deutschland?",
-      "link": "https://www.spiegel.de/kultur/musik/the-tubs-mit-dem-album-hard-life-warum-kein-anklang-aus-deutschland-a-8ca72cf9-586c-42b9-84af-35468bb24aa9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T17:29:00+00:00"
     },
     {
       "titel": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-2026-wiesn-sicherheit-drohnen-polizei-li.3545581",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-16T14:21:26+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Wie KI eine gefährliche Überfüllung der Wiesn verhindern soll",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-ueberfuellung-sicherheit-massnahmen-li.3548401",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T14:09:37+00:00"
     }
   ]
 }
