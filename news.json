@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-15T23:11:31+00:00",
+  "aktualisiert": "2026-09-16T01:27:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ukraine meldet Test neuer Waffe zur Drohnenabwehr",
+      "link": "https://www.spiegel.de/ausland/ukraine-meldet-test-neuer-waffe-zur-drohnenabwehr-a-ba0cf54a-635d-443a-a9d7-79217999015f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T00:33:00+00:00"
+    },
+    {
+      "titel": "Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an",
+      "link": "https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T00:17:12+00:00"
+    },
+    {
+      "titel": "Pete Hegseth: Republikaner stößt Amtsenthebungsverfahren gegen US-Verteidigungsminister an",
+      "link": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-stoesst-amtsenthebungsverfahren-gegen-us-verteidigungsminister-an-a-de29ad8f-f466-4578-9f24-1a16e413addc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T00:05:00+00:00"
+    },
+    {
+      "titel": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-15T23:13:56+00:00"
+    },
     {
       "titel": "Litauen: Abgeschossene Drohne war laut Regierung mit Sprengsatz bestückt",
       "link": "https://www.spiegel.de/ausland/litauen-abgeschossene-drohne-war-laut-regierung-mit-sprengsatz-bestueckt-a-edd1cbc5-b077-458f-9930-f140c6ff4f20#ref=rss",
@@ -67,18 +91,6 @@
       "veroeffentlicht": "2026-09-15T19:17:00+00:00"
     },
     {
-      "titel": "Russlands Angriffe an Polens Grenze: »Wir sollten die Kosten auf russischer Seite erhöhen«",
-      "link": "https://www.spiegel.de/ausland/russlands-angriffe-an-polens-grenze-wir-sollten-die-kosten-auf-russischer-seite-erhoehen-a-6a427f81-64a5-48fe-a393-ed639dfffb10#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T19:11:00+00:00"
-    },
-    {
-      "titel": "Nahost: Die Huthis kontrollieren eine Meerenge - und sind mit Iran verbündet",
-      "link": "https://www.spiegel.de/ausland/nahost-die-huthis-kontrollieren-eine-meerenge-und-sind-mit-iran-verbuendet-a-935c0f04-dec7-44f8-92d9-39c311e20189#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-15T19:08:00+00:00"
-    },
-    {
       "titel": "Bundeskanzler Merz sagt Reise zur UN-Generaldebatte ab",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-un-generaldebatte-absage-100.html",
       "quelle": "Tagesschau",
@@ -113,18 +125,6 @@
       "link": "https://www.tagesschau.de/kultur/ralf-richter-tot-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-15T17:01:14+00:00"
-    },
-    {
-      "titel": "Merz-Rückhalt in der Union bröckelt: Geteilte Stimmungslage",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-kanzlerfrage-analyse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T16:57:43+00:00"
-    },
-    {
-      "titel": "Wie blockierte Seewege den weltweiten Handel gefährden",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-15T16:56:26+00:00"
     },
     {
       "titel": "München: Oberleitung der S-Bahn repariert: Stammstrecke wieder frei",
