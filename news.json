@@ -1,11 +1,107 @@
 {
-  "aktualisiert": "2026-09-16T17:17:39+00:00",
+  "aktualisiert": "2026-09-16T20:25:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Lena Dunhams Memoir »Famesick«: Nach Endometriose und Hysterektomie doch noch Mutter geworden",
+      "link": "https://www.spiegel.de/panorama/leute/lena-dunhams-memoir-famesick-nach-endometriose-und-hysterektomie-doch-noch-mutter-geworden-a-c076864f-e7f1-422d-a8f6-569c85b6b57b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T20:02:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: UN-Generalsekretär warnt vor KI-Risiken",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-zusammenarbeit-openai-anthropic-google-un-trump-li.3547133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T19:35:59+00:00"
+    },
+    {
+      "titel": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T19:11:50+00:00"
+    },
+    {
+      "titel": "Bärbel Bas – Alexander Dobrindt: Bundesregierung will mit Aktionsplan gegen Sozialbetrug vorgehen",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-alexander-dobrindt-bundesregierung-will-mit-aktionsplan-gegen-sozialbetrug-vorgehen-a-5c9dbcb0-ac30-4346-a772-25068fda953b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T19:09:00+00:00"
+    },
+    {
+      "titel": "Ostdeutschland und die AfD: Warum ostdeutsche Männer als »bessere Deutsche« gelten",
+      "link": "https://www.spiegel.de/kultur/ostdeutschland-und-die-afd-warum-ostdeutsche-maenner-als-bessere-deutsche-gelten-a-c7a169ed-1c30-40fa-b128-69f9b210ef57#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T19:04:00+00:00"
+    },
+    {
+      "titel": "Türkei: Journalistin Tugba Tekerek nach Razzia bei LGBT-Organisation in Haft",
+      "link": "https://www.spiegel.de/ausland/tuerkei-journalistin-tugba-tekerek-nach-razzia-bei-lgbt-organisation-in-haft-a-ae20f96e-b594-48e6-8eeb-f6963390a1e2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T18:52:00+00:00"
+    },
+    {
+      "titel": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T18:20:26+00:00"
+    },
+    {
+      "titel": "Monchi zu AfD: Gesichert rechtsextrem? »Das ist den Leuten gesichert scheißegal« - SPIEGEL-Talk",
+      "link": "https://www.spiegel.de/politik/monchi-im-spiegel-talk-gesichert-rechtsextrem-das-ist-den-leuten-gesichert-scheissegal-a-dbbcc598-6f0d-436e-87c8-f55cee93c26c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T18:17:00+00:00"
+    },
+    {
+      "titel": "US-Notenbank Fed erhöht Leitzins erstmals seit 2023",
+      "link": "https://www.spiegel.de/wirtschaft/us-notenbank-fed-erhoeht-leitzins-erstmals-seit-2023-a-c72447c1-ff8e-4fdb-a5c1-9745d77ce5b9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T18:13:00+00:00"
+    },
+    {
+      "titel": "Syrien: Größte Proteste seit Sturz von Assad",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T18:11:51+00:00"
+    },
+    {
+      "titel": "Geldpolitik: US-Notenbank erhöht Zinsen erstmals seit drei Jahren",
+      "link": "https://www.sueddeutsche.de/wirtschaft/us-notenbank-fed-leitzins-erhoehung-warsh-trump-li.3548613",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T18:02:30+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Auch Wirtschaftsflügel der Union stellt sich hinter den Kanzler",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-auch-wirtschaftsfluegel-der-union-stellt-sich-hinter-den-kanzler-a-8f66841c-baa0-435c-b001-125f6ea64bec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T17:49:00+00:00"
+    },
+    {
+      "titel": "Vier Jahre \"Frau, Leben, Freiheit\": Was von Irans Protesten geblieben ist",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-jahrestag-frau-leben-freiheit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-16T17:40:33+00:00"
+    },
+    {
+      "titel": "Salzburger Festspiele: Überraschung auf der Zielgeraden",
+      "link": "https://www.sueddeutsche.de/kultur/salzburger-festspiele-oper-bruessel-peter-de-caluwe-li.3548840",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T17:37:32+00:00"
+    },
+    {
+      "titel": "Bundesgerichtshof entscheidet über Ausnahme für private Datenschutzverstöße",
+      "link": "https://www.spiegel.de/panorama/justiz/bundesgerichtshof-entscheidet-ueber-ausnahme-fuer-private-datenschutzverstoesse-a-7dbbd793-41d4-4afb-b3be-aebe777dba76#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T17:33:00+00:00"
+    },
+    {
+      "titel": "The Tubs mit dem Album »Hard Life«: Warum kein Anklang aus Deutschland?",
+      "link": "https://www.spiegel.de/kultur/musik/the-tubs-mit-dem-album-hard-life-warum-kein-anklang-aus-deutschland-a-8ca72cf9-586c-42b9-84af-35468bb24aa9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T17:29:00+00:00"
+    },
     {
       "titel": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
@@ -25,82 +121,22 @@
       "veroeffentlicht": "2026-09-16T17:03:09+00:00"
     },
     {
-      "titel": "Facebook – Instagram: Meta muss Fakeanzeigen eigenständig entfernen",
-      "link": "https://www.spiegel.de/netzwelt/facebook-instagram-meta-muss-fakeanzeigen-eigenstaendig-entfernen-a-2acdce79-db95-4241-9595-f451538596bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T17:03:00+00:00"
-    },
-    {
       "titel": "Südukraine: Mehrere Tote nach russischem Angriff auf Linienbus",
       "link": "https://www.tagesschau.de/ausland/ukraine-russische-angriffe-verkehrsmittel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-16T16:40:52+00:00"
     },
     {
-      "titel": "Sachsen-Anhalt: Wer steckt hinter dem Verein, der fast 190.000 für den CDU-Wahlkampf spendete?",
-      "link": "https://www.spiegel.de/panorama/sachsen-anhalt-wer-steckt-hinter-dem-verein-der-fast-190-000-fuer-den-cdu-wahlkampf-spendete-a-d0eadf18-98eb-461f-aa11-93f712a0d28c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T16:32:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX schließt im Plus – Fed im Fokus",
+      "titel": "Marktbericht: DAX schließt im Plus - Fed im Fokus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-16T16:25:03+00:00"
     },
     {
-      "titel": "USA luden offenbar Israel und arabische Staaten zu Treffen in Deutschland ein",
-      "link": "https://www.spiegel.de/ausland/usa-luden-offenbar-israel-und-arabische-staaten-zu-treffen-in-deutschland-ein-a-c5ebfc0a-2784-42ae-bce4-50330e949bde#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T16:09:00+00:00"
-    },
-    {
-      "titel": "Autorin Dörte Hansen / »Broder«: Norddeutsche Dorfbegabung",
-      "link": "https://www.spiegel.de/kultur/literatur/autorin-doerte-hansen-broder-norddeutsche-dorfbegabung-a-704fde83-44dd-4231-b057-c0df516146e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T16:06:00+00:00"
-    },
-    {
-      "titel": "Jeff Bezos: Österreichische Polizei schickt Personenschutz für Double von Amazon-Gründer",
-      "link": "https://www.spiegel.de/panorama/jeff-bezos-oesterreichische-polizei-schickt-personenschutz-fuer-double-von-amazon-gruender-a-7edb849c-fd0b-45bb-8ab9-b5ad8e69568f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T16:01:00+00:00"
-    },
-    {
-      "titel": "Westjordanland: Wie sich ein US-Palästinenser gegen gewalttätige Siedler zur Wehr setzt",
-      "link": "https://www.spiegel.de/ausland/westjordanland-wie-sich-ein-us-palaestinenser-gegen-gewalttaetige-siedler-zur-wehr-setzt-a-11430778-8fe7-4962-befe-8c4a629de880#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T16:00:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Mecklenburg-Vorpommern: Warum die CDU um ihre Existenz kämpft",
-      "link": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-warum-die-cdu-um-ihre-existenz-kaempft-a-a7d65dc2-8fd0-4fc4-a101-0a2b0c0ff5e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T15:54:00+00:00"
-    },
-    {
-      "titel": "Berliner Grünen-Spitzenkandidat Graf: Pragmatisch - und wenig bekannt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhauswahl-berlin-werner-graf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T15:39:25+00:00"
-    },
-    {
-      "titel": "Insel Rügen: Gemeinde Binz scheitert mit Klage gegen LNG-Terminal für Flüssiggas",
-      "link": "https://www.spiegel.de/wirtschaft/insel-ruegen-gemeinde-binz-scheitert-mit-klage-gegen-lng-terminal-fuer-fluessiggas-a-e806d4d4-dd68-4d01-9632-3d44e22fbf62#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T15:39:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Ed Sheeran, Ursula von der Leyen, Malaria in Deutschland",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-ed-sheeran-ursula-von-der-leyen-malaria-in-deutschland-a-717efddd-cdd4-4369-9466-9a267a6927fe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T15:36:00+00:00"
-    },
-    {
-      "titel": "Von der Leyen will neuen transatlantischen Bund mit Kanada",
-      "link": "https://www.tagesschau.de/ausland/europa/grundsatzrede-kommission-bruessel-eu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T15:32:58+00:00"
+      "titel": "Film: Dieser Mann wird Ihnen Angst machen",
+      "link": "https://www.sueddeutsche.de/kultur/zach-cregger-resident-evil-film-portraet-li.3520143",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T16:03:54+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Regierungssprecher zweifelt an Seriosität von Umfragen",
@@ -109,16 +145,10 @@
       "veroeffentlicht": "2026-09-16T15:28:22+00:00"
     },
     {
-      "titel": "Wegen Flüchtlingsunterkunft: Dorf in England stimmt symbolisch für Unabhängigkeit",
-      "link": "https://www.tagesschau.de/ausland/europa/piddington-abstimmung-unabhaengigkeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T15:18:10+00:00"
-    },
-    {
-      "titel": "Nach Gesprächen mit den USA: Belarus entlässt 25 politische Häftlinge",
-      "link": "https://www.tagesschau.de/ausland/asien/belarus-freilassung-haeftlinge-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T15:09:33+00:00"
+      "titel": "Medienregulierung: Es geht um Kontrolle, Geld und Macht im Internet",
+      "link": "https://www.sueddeutsche.de/medien/journalismus-internet-digitale-medien-staatsvertrag-rundfunkkommission-li.3548347",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T15:28:04+00:00"
     },
     {
       "titel": "Künstliche Intelligenz: Warum ein amerikanisches Start-up nach Deutschland geht",
@@ -137,36 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-ueberfuellung-sicherheit-massnahmen-li.3548401",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-16T14:09:37+00:00"
-    },
-    {
-      "titel": "DFB-Nominierung: Klopp beruft … die Bundesliga!",
-      "link": "https://www.sueddeutsche.de/sport/klopp-dfb-kader-kandidaten-torwart-elversberg-undav-li.3548288",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T14:00:16+00:00"
-    },
-    {
-      "titel": "Corona-Schutzmasken: Dieses Haushaltsloch könnte dem Bund erspart bleiben",
-      "link": "https://www.sueddeutsche.de/politik/corona-schutzmasken-bundesgerichtshof-li.3548267",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T13:27:34+00:00"
-    },
-    {
-      "titel": "Spritpreise: Der Kanzler will entlasten – bloß wie?",
-      "link": "https://www.sueddeutsche.de/politik/spritpreise-deutschland-entlastung-merz-tankrabatt-li.3548425",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T13:17:28+00:00"
-    },
-    {
-      "titel": "Rechtsextremer Anschlag: OB Krause will beim Wiesn-Einzug der Opfer des Oktoberfestattentats gedenken",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-attentat-wiesn-gedenken-krause-li.3548499",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T12:38:17+00:00"
-    },
-    {
-      "titel": "Zoff in Würzburg: Sollen Lehrer für Schulparkplätze zahlen?",
-      "link": "https://www.sueddeutsche.de/bayern/wuerzburg-gymnasium-lehrer-parkplaetze-gebuehren-li.3547916",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T12:26:56+00:00"
     }
   ]
 }
