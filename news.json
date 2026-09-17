@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-17T01:43:57+00:00",
+  "aktualisiert": "2026-09-17T06:45:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,148 @@
   },
   "meldungen": [
     {
-      "titel": "Donald Trump droht EU wegen Kanada-Annäherung mit »sehr hohen Zöllen«",
-      "link": "https://www.spiegel.de/wirtschaft/donald-trump-droht-eu-wegen-kanada-annaeherung-mit-sehr-hohen-zoellen-a-f4bcbd42-8e0d-4a79-af07-9a0ae0df9f6d#ref=rss",
+      "titel": "Andreas Scheuer und die Pkw-Maut: Was die Staatsanwaltschaft dem Ex-Verkehrsminister vorwirft",
+      "link": "https://www.spiegel.de/panorama/justiz/andreas-scheuer-und-die-pkw-maut-was-die-staatsanwaltschaft-dem-ex-verkehrsminister-vorwirft-a-3e3fcaa5-2047-4469-807c-955eef3639f6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T01:12:00+00:00"
+      "veroeffentlicht": "2026-09-17T06:42:00+00:00"
     },
     {
-      "titel": "US-Kongress stimmt für schärfere Sanktionen gegen Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/usa-russland-sanktionen-136.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T00:13:23+00:00"
-    },
-    {
-      "titel": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T00:07:20+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: US-Kongress erhöht mit Sanktionsgesetz den Druck auf Russland",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-us-kongress-erhoeht-mit-sanktionsgesetz-den-druck-auf-russland-a-fa55cbbc-468d-4641-9032-82892cc931da#ref=rss",
+      "titel": "Künstliche Intelligenz: Hat die KI bei diesem Mathematiker aus Dresden abgeschrieben?",
+      "link": "https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-hat-die-ki-bei-diesem-mathematiker-aus-dresden-abgeschrieben-a-a0a7e0f7-6169-4340-b186-b1dabb6772ec#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T23:51:00+00:00"
+      "veroeffentlicht": "2026-09-17T06:23:00+00:00"
+    },
+    {
+      "titel": "Barack Obama und Michelle Obama: Hündin Sunny ist tot",
+      "link": "https://www.spiegel.de/panorama/leute/barack-obama-und-michelle-obama-huendin-sunny-ist-tot-a-32680807-676c-4d26-a3dc-a1cfccf50f8e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T06:13:00+00:00"
+    },
+    {
+      "titel": "Malaria am Frankfurt am Main: Behörde rät Bürgern zu Mückenschutz",
+      "link": "https://www.spiegel.de/wissenschaft/malaria-am-frankfurt-am-main-behoerde-raet-buergern-zu-mueckenschutz-a-81e9d983-6427-4fb4-bd11-1edab4e0a87a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T05:57:00+00:00"
+    },
+    {
+      "titel": "Bericht der WMO: Wasserspeicher schrumpfen weltweit",
+      "link": "https://www.tagesschau.de/wissen/klima/wmo-bericht-zu-wasserressourcen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T05:55:02+00:00"
+    },
+    {
+      "titel": "Malaria-Fälle im Umfeld des Frankfurter Flughafens festgestellt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/faq-flughafen-malaria-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T05:42:40+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Name „Merz“ fehlt in Ministerpräsidenten-Erklärung: Frei spricht von „Haarspalterei“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-merz-cdu-frei-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T05:40:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger nehmen US-Zinserhöhung gelassen auf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T05:36:45+00:00"
+    },
+    {
+      "titel": "König Charles wirft Dianas Bruder Charles Spencer beeinträchtigtes Urteilsvermögen vor",
+      "link": "https://www.spiegel.de/panorama/leute/koenig-charles-wirft-dianas-bruder-charles-spencer-beeintraechtigtes-urteilsvermoegen-vor-a-1e1e7479-d2e2-4c01-9106-7eef6aacede3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T05:22:00+00:00"
+    },
+    {
+      "titel": "US-Präsident Trump droht EU wegen Annäherung an Kanada",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-kanada-eu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T05:20:35+00:00"
+    },
+    {
+      "titel": "Immobilien: Hohe Bauzinsen dämpfen Nachfrage",
+      "link": "https://www.spiegel.de/wirtschaft/immobilien-hohe-bauzinsen-daempfen-nachfrage-a-8068e68d-7001-42f1-bcc2-f3cf8a4ac271#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T05:08:00+00:00"
+    },
+    {
+      "titel": "Merz-Vertrauter Thorsten Frei: »Friedrich Merz bleibt Kanzler«",
+      "link": "https://www.spiegel.de/politik/deutschland/merz-vertrauter-thorsten-frei-friedrich-merz-bleibt-kanzler-a-26038f6e-d24e-4a55-87bd-98afc3bf42b2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T04:42:00+00:00"
+    },
+    {
+      "titel": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",
+      "link": "https://www.tagesschau.de/ausland/europa/kanada-eu-carney-rede-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T04:30:03+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Open AI macht weitere KI-Probleme öffentlich",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-openai-probleme-zwischenfaelle-li.3547133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T04:29:00+00:00"
+    },
+    {
+      "titel": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/girokonto-kontofuehrungsgebuehr-wechsel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T04:28:03+00:00"
+    },
+    {
+      "titel": "»Titanic«-Herausgeberin über die Menopause: Die Krone der Harmlosigkeit",
+      "link": "https://www.spiegel.de/kultur/titanic-herausgeberin-ueber-die-menopause-die-krone-der-harmlosigkeit-a-830577cd-2bfb-44a8-81e1-d633641df976#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T04:27:00+00:00"
+    },
+    {
+      "titel": "Uno-Bericht: Landwirtschaft verschärft weltweite Grundwasserkrise",
+      "link": "https://www.spiegel.de/wissenschaft/natur/uno-bericht-landwirtschaft-verschaerft-weltweite-grundwasserkrise-a-521194ab-e457-414c-83c3-05402f7688a2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T04:20:00+00:00"
+    },
+    {
+      "titel": "Kritik an Aussetzung des Familiennachzugs wächst",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/familiennachzug-kritik-migration-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T04:00:50+00:00"
+    },
+    {
+      "titel": "Kampf um die Straße von Hormus: Eine Bedrohung auch für die Umwelt",
+      "link": "https://www.tagesschau.de/ausland/asien/hormus-oel-umwelt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T03:47:49+00:00"
+    },
+    {
+      "titel": "USA: Die Obamas trauern um ihre Hündin Sunny",
+      "link": "https://www.sueddeutsche.de/panorama/obama-barack-michelle-trauer-hund-sunny-li.3549152",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T03:47:20+00:00"
+    },
+    {
+      "titel": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
+      "link": "https://www.tagesschau.de/ausland/amerika/openai-kuenstliche-intelligenz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T03:14:12+00:00"
+    },
+    {
+      "titel": "TV-Duell zwischen Schwesig und Holm im NDR: „Ich kann auf Bundesebene was bewegen, Sie nicht“",
+      "link": "https://www.sueddeutsche.de/politik/zweites-tv-duell-schwesig-holm-mecklenburg-vorpommern-li.3547485",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T02:44:17+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-usa-sanktionen-energie-export-li.3524928",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T23:29:08+00:00"
+      "veroeffentlicht": "2026-09-17T02:02:49+00:00"
     },
     {
-      "titel": "Susie Wiles: Stabschefin von Donald Trump ist eigenen Angaben zufolge krebsfrei",
-      "link": "https://www.spiegel.de/panorama/susie-wiles-stabschefin-von-donald-trump-ist-eigenen-angaben-zufolge-krebsfrei-a-1de50472-3d9d-449f-a0fb-33ea1fa19c69#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T23:01:00+00:00"
-    },
-    {
-      "titel": "Sachsen: Landtag erlaubt Abschuss von Wölfen nach Angriff auf Nutztiere",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-landtag-erlaubt-abschuss-von-woelfen-nach-angriff-auf-nutztiere-a-710378a0-4dce-4094-971f-2c655f72c88f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T22:43:00+00:00"
-    },
-    {
-      "titel": "»Green Lava«: Vatikan reicht erstmals einen Film bei den Oscars ein",
-      "link": "https://www.spiegel.de/kultur/green-lava-vatikan-reicht-erstmals-einen-film-bei-den-oscars-ein-a-a7ff50a4-0757-479a-95b9-bc1b393b560c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T22:15:00+00:00"
+      "titel": "USA-Newsblog: Trump droht EU wegen geplanter Annäherung an Kanada",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-eu-zoelle-drohung-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T02:01:59+00:00"
     },
     {
       "titel": "Geldpolitik: US-Notenbank erhöht Zinsen erstmals seit drei Jahren",
@@ -61,112 +157,16 @@
       "veroeffentlicht": "2026-09-16T21:17:00+00:00"
     },
     {
-      "titel": "Bundesregierung: Klingbeil und Bas laden frühere SPD-Chefs zu Lagebesprechung ein",
+      "titel": "Bundesregierung: Klingbeil und Bas laden frühere SPD-Chefs zu Treffen ein",
       "link": "https://www.sueddeutsche.de/politik/spd-klingbeil-bas-vorgaenger-lagebesprechung-berlin-li.3548314",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-16T20:36:50+00:00"
-    },
-    {
-      "titel": "Coburg – Bayern: Vermummter soll 45-Jährigen auf Hausparty getötet haben",
-      "link": "https://www.spiegel.de/panorama/justiz/coburg-bayern-vermummter-soll-45-jaehrigen-auf-hausparty-getoetet-haben-a-8e94fa16-38d5-4823-a239-e86591d2f41d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T20:26:00+00:00"
-    },
-    {
-      "titel": "Lena Dunhams Memoir »Famesick«: Nach Endometriose und Hysterektomie doch noch Mutter geworden",
-      "link": "https://www.spiegel.de/panorama/leute/lena-dunhams-memoir-famesick-nach-endometriose-und-hysterektomie-doch-noch-mutter-geworden-a-c076864f-e7f1-422d-a8f6-569c85b6b57b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T20:02:00+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: UN-Generalsekretär warnt vor KI-Risiken",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-zusammenarbeit-openai-anthropic-google-un-trump-li.3547133",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T19:35:59+00:00"
-    },
-    {
-      "titel": "Bärbel Bas – Alexander Dobrindt: Bundesregierung will mit Aktionsplan gegen Sozialbetrug vorgehen",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-alexander-dobrindt-bundesregierung-will-mit-aktionsplan-gegen-sozialbetrug-vorgehen-a-5c9dbcb0-ac30-4346-a772-25068fda953b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T19:09:00+00:00"
-    },
-    {
-      "titel": "Ostdeutschland und die AfD: Warum ostdeutsche Männer als »bessere Deutsche« gelten",
-      "link": "https://www.spiegel.de/kultur/ostdeutschland-und-die-afd-warum-ostdeutsche-maenner-als-bessere-deutsche-gelten-a-c7a169ed-1c30-40fa-b128-69f9b210ef57#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T19:04:00+00:00"
-    },
-    {
-      "titel": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T18:20:26+00:00"
-    },
-    {
-      "titel": "Syrien: Größte Proteste seit Sturz von Assad",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T18:11:51+00:00"
-    },
-    {
-      "titel": "Vier Jahre \"Frau, Leben, Freiheit\": Was von Irans Protesten geblieben ist",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-jahrestag-frau-leben-freiheit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T17:40:33+00:00"
     },
     {
       "titel": "Salzburger Festspiele: Überraschung auf der Zielgeraden",
       "link": "https://www.sueddeutsche.de/kultur/salzburger-festspiele-oper-bruessel-peter-de-caluwe-li.3548840",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-16T17:37:32+00:00"
-    },
-    {
-      "titel": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T17:15:59+00:00"
-    },
-    {
-      "titel": "Gazastreifen: Tote bei Einsturz von ausgebombtem Wohnhaus",
-      "link": "https://www.tagesschau.de/ausland/europa/gaza-tote-hauseinsturz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T17:13:18+00:00"
-    },
-    {
-      "titel": "Streit um Kultureinrichtung: Trump verweigert Kennedy Center Renovierung",
-      "link": "https://www.tagesschau.de/ausland/amerika/kennedy-center-120.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T17:03:09+00:00"
-    },
-    {
-      "titel": "Südukraine: Mehrere Tote nach russischem Angriff auf Linienbus",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russische-angriffe-verkehrsmittel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T16:40:52+00:00"
-    },
-    {
-      "titel": "Film: Dieser Mann wird Ihnen Angst machen",
-      "link": "https://www.sueddeutsche.de/kultur/zach-cregger-resident-evil-film-portraet-li.3520143",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T16:03:54+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Regierungssprecher zweifelt an Seriosität von Umfragen",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-kornelius-umfragen-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T15:28:22+00:00"
-    },
-    {
-      "titel": "Medienregulierung: Es geht um Kontrolle, Geld und Macht im Internet",
-      "link": "https://www.sueddeutsche.de/medien/journalismus-internet-digitale-medien-staatsvertrag-rundfunkkommission-li.3548347",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T15:28:04+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Warum ein amerikanisches Start-up nach Deutschland geht",
-      "link": "https://www.sueddeutsche.de/wirtschaft/langdock-ki-start-up-firmensitz-usa-berlin-li.3548326",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T14:31:14+00:00"
     }
   ]
 }
