@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-09-16T23:16:12+00:00",
+  "aktualisiert": "2026-09-17T01:43:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump droht EU wegen Kanada-Annäherung mit »sehr hohen Zöllen«",
+      "link": "https://www.spiegel.de/wirtschaft/donald-trump-droht-eu-wegen-kanada-annaeherung-mit-sehr-hohen-zoellen-a-f4bcbd42-8e0d-4a79-af07-9a0ae0df9f6d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T01:12:00+00:00"
+    },
+    {
+      "titel": "US-Kongress stimmt für schärfere Sanktionen gegen Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/usa-russland-sanktionen-136.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T00:13:23+00:00"
+    },
+    {
+      "titel": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T00:07:20+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: US-Kongress erhöht mit Sanktionsgesetz den Druck auf Russland",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-us-kongress-erhoeht-mit-sanktionsgesetz-den-druck-auf-russland-a-fa55cbbc-468d-4641-9032-82892cc931da#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-16T23:51:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-usa-sanktionen-energie-export-li.3524928",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-16T23:29:08+00:00"
+    },
     {
       "titel": "Susie Wiles: Stabschefin von Donald Trump ist eigenen Angaben zufolge krebsfrei",
       "link": "https://www.spiegel.de/panorama/susie-wiles-stabschefin-von-donald-trump-ist-eigenen-angaben-zufolge-krebsfrei-a-1de50472-3d9d-449f-a0fb-33ea1fa19c69#ref=rss",
@@ -29,12 +59,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/us-notenbank-fed-leitzins-erhoehung-warsh-trump-li.3548613",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-16T21:17:00+00:00"
-    },
-    {
-      "titel": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T21:03:12+00:00"
     },
     {
       "titel": "Bundesregierung: Klingbeil und Bas laden frühere SPD-Chefs zu Lagebesprechung ein",
@@ -73,22 +97,10 @@
       "veroeffentlicht": "2026-09-16T19:04:00+00:00"
     },
     {
-      "titel": "Türkei: Journalistin Tugba Tekerek nach Razzia bei LGBT-Organisation in Haft",
-      "link": "https://www.spiegel.de/ausland/tuerkei-journalistin-tugba-tekerek-nach-razzia-bei-lgbt-organisation-in-haft-a-ae20f96e-b594-48e6-8eeb-f6963390a1e2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T18:52:00+00:00"
-    },
-    {
       "titel": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
       "link": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-16T18:20:26+00:00"
-    },
-    {
-      "titel": "Monchi zu AfD: Gesichert rechtsextrem? »Das ist den Leuten gesichert scheißegal« - SPIEGEL-Talk",
-      "link": "https://www.spiegel.de/politik/monchi-im-spiegel-talk-gesichert-rechtsextrem-das-ist-den-leuten-gesichert-scheissegal-a-dbbcc598-6f0d-436e-87c8-f55cee93c26c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-16T18:17:00+00:00"
     },
     {
       "titel": "Syrien: Größte Proteste seit Sturz von Assad",
@@ -133,12 +145,6 @@
       "veroeffentlicht": "2026-09-16T16:40:52+00:00"
     },
     {
-      "titel": "Marktbericht: DAX schließt im Plus - Fed im Fokus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-16T16:25:03+00:00"
-    },
-    {
       "titel": "Film: Dieser Mann wird Ihnen Angst machen",
       "link": "https://www.sueddeutsche.de/kultur/zach-cregger-resident-evil-film-portraet-li.3520143",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/langdock-ki-start-up-firmensitz-usa-berlin-li.3548326",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-16T14:31:14+00:00"
-    },
-    {
-      "titel": "Sicherheit auf dem Oktoberfest: Hunderte Polizisten, 56 Kameras und eine Spezialeinheit gegen Drohnen",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-2026-wiesn-sicherheit-drohnen-polizei-li.3545581",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-16T14:21:26+00:00"
     }
   ]
 }
