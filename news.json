@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-09-17T20:20:43+00:00",
+  "aktualisiert": "2026-09-17T23:07:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump: Präsident zieht Nominierung von ICE-Kandidat Lance Schroyer zurück",
+      "link": "https://www.spiegel.de/ausland/donald-trump-praesident-zieht-nominierung-von-ice-kandidat-lance-schroyer-zurueck-a-730407bb-8c67-4ad6-8a5f-4258459bbaf2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T21:37:00+00:00"
+    },
+    {
+      "titel": "Uno-Bericht: Gleichstellung von Männern und Frauen 171 Jahre entfernt",
+      "link": "https://www.spiegel.de/politik/uno-bericht-gleichstellung-von-maennern-und-frauen-171-jahre-entfernt-a-7ade9f9b-1693-4646-9038-4d8a484561d3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T21:13:00+00:00"
+    },
+    {
+      "titel": "SPD überholt laut Umfrage AfD in Mecklenburg-Vorpommern, Linke in Berlin vorn",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-ueberholt-laut-umfrage-afd-in-mecklenburg-vorpommern-linke-in-berlin-vorn-a-e4656c6f-5d7a-4728-839d-5b035822056f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T20:56:00+00:00"
+    },
+    {
+      "titel": "Michel Friedman: Moderator und Ex-CDU-Mitglied wirbt im Wahlkampf für die Grünen in MV",
+      "link": "https://www.spiegel.de/politik/deutschland/michel-friedman-moderator-und-ex-cdu-mitglied-wirbt-im-wahlkampf-fuer-die-gruenen-in-mv-a-075dcb67-b439-4ee1-803d-0be38aaa4b07#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T20:31:00+00:00"
+    },
+    {
+      "titel": "Hannover: 47 ausgesetzte Meerschweinchen im Wald gefunden",
+      "link": "https://www.spiegel.de/panorama/justiz/hannover-47-ausgesetzte-meerschweinchen-im-wald-gefunden-a-c3b8c820-ff3c-4355-a421-758bcf2db83a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T20:24:00+00:00"
+    },
+    {
+      "titel": "Oliver Baumann über Degradierung durch Julian Nagelsmann – »War unfassbar«",
+      "link": "https://www.spiegel.de/sport/fussball/oliver-baumann-ueber-degradierung-durch-julian-nagelsmann-war-unfassbar-a-4c540a85-4029-417c-a0f1-564f758d2c59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T20:21:00+00:00"
+    },
+    {
+      "titel": "Erneut Läden in Frankfurt am Main durch Explosionen beschädigt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/explosionen-frankfurt-laeden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T20:19:37+00:00"
+    },
     {
       "titel": "USA: Richter schaltet sich in Baumaßnahmen am Kennedy Center ein",
       "link": "https://www.spiegel.de/ausland/usa-richter-schaltet-sich-in-baumassnahmen-am-kennedy-center-ein-a-9fde2b7a-f4b9-412f-8e31-6ae847db6f24#ref=rss",
@@ -31,28 +73,10 @@
       "veroeffentlicht": "2026-09-17T19:21:00+00:00"
     },
     {
-      "titel": "Friedrich Merz ruft zum Kampf gegen Antisemitismus auf",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-ruft-zum-kampf-gegen-antisemitismus-auf-a-cf72344c-58a6-4df4-8914-b63c66170792#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T19:08:00+00:00"
-    },
-    {
       "titel": "USA-Newsblog: Trump stellt Polen einen US-Heeresstützpunkt in Aussicht",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-eu-zoelle-polen-us-armee-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-17T18:59:01+00:00"
-    },
-    {
-      "titel": "Kanzler in der Krise: Der Soli-Brief für Merz ging völlig nach hinten los - Kommentar",
-      "link": "https://www.spiegel.de/politik/deutschland/kanzler-in-der-krise-der-soli-brief-fuer-merz-ging-voellig-nach-hinten-los-kommentar-a-8bbb9f36-61d6-47dd-ade5-ef031ffdb055#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T18:47:00+00:00"
-    },
-    {
-      "titel": "Polen: Donald Tusk warnt vor russischen Drohnenangriffen auf Ukraine-Verbündete",
-      "link": "https://www.spiegel.de/ausland/polen-donald-tusk-warnt-vor-russischen-drohnenangriffen-auf-ukraine-verbuendete-a-52821ea2-2400-4aab-bc2c-ac3021d955f4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T18:45:00+00:00"
     },
     {
       "titel": "Merz in Berlin: „Es ist eine schwere Verantwortung, die auf deinen Schultern ruht, lieber Friedrich“",
@@ -65,24 +89,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-17T18:21:41+00:00"
-    },
-    {
-      "titel": "Nahost: So gefährden die Huthis am Roten Meer den Welthandel",
-      "link": "https://www.spiegel.de/ausland/nahost-so-gefaehrden-die-huthis-am-roten-meer-den-welthandel-a-525d49ba-d9a7-4631-b384-b88feb6d2d75#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T18:08:00+00:00"
-    },
-    {
-      "titel": "Autobahn GmbH: Bilger verspricht Paradigmenwechsel bei der Finanzierung",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-bilger-verspricht-paradigmenwechsel-bei-der-finanzierung-a-d14fde9c-cf06-4f64-9667-f05a552e4e7f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T17:59:00+00:00"
-    },
-    {
-      "titel": "Aktionskünstler Philipp Ruch: »Als hätten Außerirdische eine Bevölkerung ausgetauscht«",
-      "link": "https://www.spiegel.de/kultur/aktionskuenstler-philipp-ruch-als-haetten-ausserirdische-eine-bevoelkerung-ausgetauscht-a-c8a13817-9b44-4b96-8062-33b8208d587d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T17:56:00+00:00"
     },
     {
       "titel": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
@@ -131,12 +137,6 @@
       "link": "https://www.tagesschau.de/inland/regional/hessen/faq-flughafen-malaria-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-17T14:49:02+00:00"
-    },
-    {
-      "titel": "Warum die SPD jetzt auf Manuela Schwesig hofft",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-wahl-mecklenburg-vorpommern-schwesig-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T14:33:03+00:00"
     },
     {
       "titel": "Fahrgeschäfte und Zelte auf der Wiesn: Neuer Nervenkitzel für das Oktoberfest",
