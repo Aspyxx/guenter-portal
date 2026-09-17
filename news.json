@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-17T17:06:16+00:00",
+  "aktualisiert": "2026-09-17T20:20:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,88 @@
   },
   "meldungen": [
     {
-      "titel": "Schule: Lehrkräfte bekommen keinen Ausgleich für Überstunden",
-      "link": "https://www.spiegel.de/panorama/bildung/schule-lehrkraefte-bekommen-keinen-ausgleich-fuer-ueberstunden-a-474f92e6-d9d0-409f-837b-59da5a8aea26#ref=rss",
+      "titel": "USA: Richter schaltet sich in Baumaßnahmen am Kennedy Center ein",
+      "link": "https://www.spiegel.de/ausland/usa-richter-schaltet-sich-in-baumassnahmen-am-kennedy-center-ein-a-9fde2b7a-f4b9-412f-8e31-6ae847db6f24#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T17:00:00+00:00"
+      "veroeffentlicht": "2026-09-17T20:15:00+00:00"
     },
     {
-      "titel": "Buckelwalkuh weicht stundenlang nicht von totem Jungtier",
-      "link": "https://www.spiegel.de/wissenschaft/natur/buckelwalkuh-weicht-stundenlang-nicht-von-totem-jungtier-a-165ff982-7d7f-4eb5-ba81-069f93afe59f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T17:00:00+00:00"
+      "titel": "Wie Russland den ukrainischen Buchmarkt angreift",
+      "link": "https://www.tagesschau.de/kultur/ukraine-verbrannte-buecher-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T20:13:01+00:00"
     },
     {
-      "titel": "Joanna Wietrzyk: Hyrox-Athletin entschuldigt sich nach Durchfall im Wettkampf",
-      "link": "https://www.spiegel.de/sport/joanna-wietrzyk-hyrox-athletin-entschuldigt-sich-fuer-durchfall-im-wettkampf-und-gibt-sieg-zurueck-a-690ed5d0-ff8e-489f-9308-178980e167ba#ref=rss",
+      "titel": "Russland: Wladimir Putin stellt Nestlé unter Zwangsverwaltung",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/russland-wladimir-putin-stellt-nestle-unter-zwangsverwaltung-a-351467f8-e8c8-49bf-a22f-27caa82a7923#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T16:44:00+00:00"
+      "veroeffentlicht": "2026-09-17T19:44:00+00:00"
+    },
+    {
+      "titel": "Robert F. Kennedy Jr.: Ruiniert Donald Trumps Gesundheitsminister das Erbe der Kennedys?",
+      "link": "https://www.spiegel.de/ausland/robert-f-kennedy-jr-ruiniert-donald-trumps-gesundheitsminister-das-erbe-der-kennedys-a-428120b8-fc8b-4d62-abe9-1336b33a618f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T19:21:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz ruft zum Kampf gegen Antisemitismus auf",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-ruft-zum-kampf-gegen-antisemitismus-auf-a-cf72344c-58a6-4df4-8914-b63c66170792#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T19:08:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Trump stellt Polen einen US-Heeresstützpunkt in Aussicht",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-eu-zoelle-polen-us-armee-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T18:59:01+00:00"
+    },
+    {
+      "titel": "Kanzler in der Krise: Der Soli-Brief für Merz ging völlig nach hinten los - Kommentar",
+      "link": "https://www.spiegel.de/politik/deutschland/kanzler-in-der-krise-der-soli-brief-fuer-merz-ging-voellig-nach-hinten-los-kommentar-a-8bbb9f36-61d6-47dd-ade5-ef031ffdb055#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T18:47:00+00:00"
+    },
+    {
+      "titel": "Polen: Donald Tusk warnt vor russischen Drohnenangriffen auf Ukraine-Verbündete",
+      "link": "https://www.spiegel.de/ausland/polen-donald-tusk-warnt-vor-russischen-drohnenangriffen-auf-ukraine-verbuendete-a-52821ea2-2400-4aab-bc2c-ac3021d955f4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T18:45:00+00:00"
+    },
+    {
+      "titel": "Merz in Berlin: „Es ist eine schwere Verantwortung, die auf deinen Schultern ruht, lieber Friedrich“",
+      "link": "https://www.sueddeutsche.de/politik/merz-berlin-cdu-wahlkampf-li.3549430",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T18:36:33+00:00"
+    },
+    {
+      "titel": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
+      "link": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T18:21:41+00:00"
+    },
+    {
+      "titel": "Nahost: So gefährden die Huthis am Roten Meer den Welthandel",
+      "link": "https://www.spiegel.de/ausland/nahost-so-gefaehrden-die-huthis-am-roten-meer-den-welthandel-a-525d49ba-d9a7-4631-b384-b88feb6d2d75#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T18:08:00+00:00"
+    },
+    {
+      "titel": "Autobahn GmbH: Bilger verspricht Paradigmenwechsel bei der Finanzierung",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-bilger-verspricht-paradigmenwechsel-bei-der-finanzierung-a-d14fde9c-cf06-4f64-9667-f05a552e4e7f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T17:59:00+00:00"
+    },
+    {
+      "titel": "Aktionskünstler Philipp Ruch: »Als hätten Außerirdische eine Bevölkerung ausgetauscht«",
+      "link": "https://www.spiegel.de/kultur/aktionskuenstler-philipp-ruch-als-haetten-ausserirdische-eine-bevoelkerung-ausgetauscht-a-c8a13817-9b44-4b96-8062-33b8208d587d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T17:56:00+00:00"
+    },
+    {
+      "titel": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
+      "link": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-17T17:19:34+00:00"
     },
     {
       "titel": "Marktbericht: DAX schließt nach US-Zinserhöhung im Plus",
@@ -31,46 +97,10 @@
       "veroeffentlicht": "2026-09-17T16:40:52+00:00"
     },
     {
-      "titel": "Katar: Scheich-Sohn am Flughafen München verhaftet",
-      "link": "https://www.spiegel.de/panorama/justiz/katar-scheich-sohn-am-flughafen-muenchen-verhaftet-a-a4fcea7b-85a1-4fde-8c99-579b854bd61b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T16:34:00+00:00"
-    },
-    {
       "titel": "Newsblog zum Nahost-Krieg: Diplomaten: US-Delegation traf Huthi-Vertreter im Oman",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-us-stuetzpunkt-us-armee-verluste-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-17T16:16:28+00:00"
-    },
-    {
-      "titel": "Wuppertal: Festnahme nach Brandanschlag auf Synagoge",
-      "link": "https://www.spiegel.de/panorama/justiz/wuppertal-festnahme-nach-brandanschlag-auf-synagoge-a-cf3362e8-773b-4f6f-9485-6fb8b41ea278#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T16:10:00+00:00"
-    },
-    {
-      "titel": "Türkei: Was steckt hinter Recep Tayyip Erdoğans Angriff auf die LGBTQ-Bewegung?",
-      "link": "https://www.spiegel.de/ausland/tuerkei-was-steckt-hinter-recep-tayyip-erdogans-angriff-auf-die-lgbtq-bewegung-a-42ee2164-3a25-4b24-b164-e101569d09dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T16:07:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Wie der Kanzler mit seinem Spritpreis-Versprechen die eigenen Minister überrumpelte",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wie-der-kanzler-mit-seinem-spritpreis-versprechen-die-eigenen-minister-ueberrumpelte-a-2a006c5c-41a4-4662-9396-130f4e4c209a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T15:51:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz in der Krise: Jetzt belauern sich schon die möglichen Nachfolger",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-wie-der-kanzler-um-sein-amt-kaempft-a-c7f02968-0050-4b50-9f49-24692164d1fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T15:49:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Cyberbetrug durch IT-Firma, Kontrolle von KI-Systemen, Tierversuche",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-cyberbetrug-durch-it-firma-kontrolle-von-ki-systemen-tierversuche-a-47e8273e-2c2c-45b6-85d3-75ca29a5e814#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T15:37:00+00:00"
     },
     {
       "titel": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
@@ -109,16 +139,16 @@
       "veroeffentlicht": "2026-09-17T14:33:03+00:00"
     },
     {
-      "titel": "Bundesanwaltschaft: Islamist soll Anschlag auf Kirche vorbereitet haben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/mutmasslicher-islamist-festgenommen-brandenburg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T14:29:47+00:00"
-    },
-    {
       "titel": "Fahrgeschäfte und Zelte auf der Wiesn: Neuer Nervenkitzel für das Oktoberfest",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-neue-fahrgeschaefte-festzelte-li.3545585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-17T14:22:05+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Der „Bundeszwang“ wird gegen die AfD nicht funktionieren",
+      "link": "https://www.sueddeutsche.de/meinung/bundeszwang-afd-sachsen-anhalt-bundesregierung-kolumne-li.3547030",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T14:10:57+00:00"
     },
     {
       "titel": "Jürgen Klopps DFB-Elf: Mehr Liverpool wagen",
@@ -133,40 +163,10 @@
       "veroeffentlicht": "2026-09-17T14:01:32+00:00"
     },
     {
-      "titel": "Wahlarena Berlin: Zwischen Schlagabtausch und Sondierungsgesprächen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/wahlarena-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T13:52:29+00:00"
-    },
-    {
-      "titel": "Tropenkrankheit: Frankfurter Malaria-Patient gestorben",
-      "link": "https://www.sueddeutsche.de/panorama/flughafen-frankfurt-malaria-todesfall-muecken-infektionsschutz-li.3549111",
+      "titel": "Tödliche Gewalt gegen Frauen in Südafrika: „Das Gesicht unserer Wut“",
+      "link": "https://www.sueddeutsche.de/panorama/suedafrika-femizide-ermordete-frauen-li.3548265",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T13:29:19+00:00"
-    },
-    {
-      "titel": "Hohe Benzin- und Dieselpreise: Kommt eine Senkung der Mehrwertsteuer bei den Menschen an?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/mehrwertsteuer-senkung-benzin-deutschland-chancen-risiken-li.3549269",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T13:13:47+00:00"
-    },
-    {
-      "titel": "CDU in der Krise: Warum der Merz-Brief nicht gut ankommt",
-      "link": "https://www.sueddeutsche.de/politik/cdu-ministerpraesidenten-brief-merz-gordon-schnieder-li.3549195",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T13:09:52+00:00"
-    },
-    {
-      "titel": "Britisches Königshaus: „Du kannst dir sicher sein‚ dass wir sie bald genug vergessen werden!“",
-      "link": "https://www.sueddeutsche.de/panorama/koenig-charles-diana-earl-spencer-begraebnis-vergessen-li.3548770",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T13:06:30+00:00"
-    },
-    {
-      "titel": "Urteil des Bundesgerichtshofs: Orange gehört Obi nicht allein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/orange-baumarkt-urteil-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T12:55:34+00:00"
+      "veroeffentlicht": "2026-09-17T13:55:53+00:00"
     }
   ]
 }
