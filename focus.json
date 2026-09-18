@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-18T09:54:42+00:00",
+  "aktualisiert": "2026-09-18T13:55:43+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Wie gefährlich sind die aktuellen Malaria-Fälle?",
-      "link": "https://www.tagesschau.de/wissen/faq-malaria-100.html",
+      "titel": "Tote und Verletzte nach Anschlag in Pakistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Anleger trotz sinkender Ölpreise zurückhaltend",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
+      "titel": "Wie gefährlich sind die aktuellen Malaria-Fälle?",
+      "link": "https://www.tagesschau.de/wissen/faq-malaria-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     }
   ]
 }
