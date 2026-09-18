@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-18T01:17:32+00:00",
+  "aktualisiert": "2026-09-18T06:41:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "USA: Robert F. Kennedy Jr. verspricht Impfgegnern einen Freund im Weißen Haus",
-      "link": "https://www.spiegel.de/ausland/usa-robert-f-kennedy-jr-verspricht-impfgegnern-einen-freund-im-weissen-haus-a-d2638550-a792-4f8e-be05-a38080680d9c#ref=rss",
+      "titel": "Spritpreise: Hoppermann schlägt bis zu 25 Cent Entlastung pro Liter vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-spritpreise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T06:31:11+00:00"
+    },
+    {
+      "titel": "Malaria-Fälle im Umfeld des Frankfurter Flughafens festgestellt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/faq-flughafen-malaria-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T06:28:30+00:00"
+    },
+    {
+      "titel": "Ex-OpenAI-Forscher fordert Stopp: »Wir müssen die KI-Entwicklung im Wesentlichen abschalten«",
+      "link": "https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-a-4890e49b-7fd4-4015-b786-3209140a14f6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T01:07:00+00:00"
+      "veroeffentlicht": "2026-09-18T06:28:00+00:00"
+    },
+    {
+      "titel": "Studie: In der EU sinkt die Impfquote bei Kindern",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T06:27:57+00:00"
+    },
+    {
+      "titel": "Los Angeles: Autofahrerin wegen eines Tötungsdelikts angeklagt",
+      "link": "https://www.spiegel.de/panorama/justiz/los-angeles-autofahrerin-wegen-eines-toetungsdelikts-angeklagt-a-d3a657f7-7756-4202-9878-ef5ddc10a7fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T06:22:00+00:00"
+    },
+    {
+      "titel": "E-Autos: Die Spritpreise steigen, der ADAC verlangt niedrigere Strompreise",
+      "link": "https://www.spiegel.de/wirtschaft/service/e-autos-die-spritpreise-steigen-der-adac-verlangt-niedrigere-strompreise-a-908b5f79-5043-46d9-bc79-5c2522e48c9f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T05:59:00+00:00"
+    },
+    {
+      "titel": "Midterms: Republikanische Abgeordnete María Elvira Salazar stellt sich gegen Präsident Donald TrumpTrump",
+      "link": "https://www.spiegel.de/ausland/midterms-republikanische-abgeordnete-maria-elvira-salazar-stellt-sich-gegen-praesident-donald-trumptrump-a-0a319587-45c4-4a71-844e-a765bba63264#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T05:53:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX dürfte zum Wochenschluss zurückfallen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T05:46:21+00:00"
+    },
+    {
+      "titel": "Urbach in Thüringen: Streifenwagen fährt Radfahrer um",
+      "link": "https://www.spiegel.de/panorama/justiz/urbach-in-thueringen-streifenwagen-faehrt-radfahrer-um-a-d040d03b-e2cc-451d-b9f6-4295abeffc14#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T05:42:00+00:00"
+    },
+    {
+      "titel": "Bundeswehr bekommt ersten F-35-Tarnkappenflieger",
+      "link": "https://www.spiegel.de/politik/bundeswehr-bekommt-ersten-f-35-tarnkappen-flieger-a-d44e9029-34db-4527-a9bc-7c9940d5921f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T05:38:00+00:00"
+    },
+    {
+      "titel": "Irankrieg: Konflikt in Nahost lässt Frachtraten steigen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-konflikt-in-nahost-laesst-frachtraten-steigen-a-1c251317-80cc-4356-8fee-336d54921008#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T05:19:00+00:00"
+    },
+    {
+      "titel": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-ernaehrungsinitiative-selbstversorgung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T05:06:59+00:00"
+    },
+    {
+      "titel": "Duma-Wahl in Russland: Alles unter Kontrolle - und doch ein Stresstest?",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-duma-wahl-auftakt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T05:04:24+00:00"
+    },
+    {
+      "titel": "Prinz Harry absolviert erste Auftritte nach Großbritannienrückkehr",
+      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-absolviert-erste-auftritte-nach-grossbritannienrueckkehr-a-0717152b-2da7-460b-a1d4-3069962a4b60#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T05:00:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: UN-Mission wirft USA Kriegsverbrechen und Iran Verbrechen gegen die Menschlichkeit vor",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-kriegsverbrechen-un-bericht-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T04:53:11+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: DGB warnt vor AfD – und protestiert gegen Regierung",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-dgb-fahimi-afd-protest-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T04:50:00+00:00"
+    },
+    {
+      "titel": "Impfungen für Kinder: In vielen EU-Ländern sinken die Impfquoten",
+      "link": "https://www.spiegel.de/gesundheit/impfungen-fuer-kinder-in-vielen-eu-laendern-sinken-die-impfquoten-a-0d3b913a-076e-4380-823e-fe253bbe3684#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T04:42:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Umfrage: SPD überholt in Mecklenburg-Vorpommern AfD",
+      "link": "https://www.sueddeutsche.de/politik/mecklenburg-vorpommern-spd-afd-umfrage-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T04:40:00+00:00"
+    },
+    {
+      "titel": "Renommierter Körber-Preis für Zellforscherin Wickström",
+      "link": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T03:22:27+00:00"
+    },
+    {
+      "titel": "EU-Finanzminister beraten in Dublin über mögliche Übergewinnsteuer",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-finanzminister-uebergewinnsteuer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T02:55:53+00:00"
+    },
+    {
+      "titel": "Nach Schließung des Konsulats: Deutschlands schwieriger Kurs gegenüber Russland",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generalkonsulat-russland-schliessung-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T02:52:54+00:00"
+    },
+    {
+      "titel": "Audi: Verzögerung durch Technik",
+      "link": "https://www.sueddeutsche.de/wirtschaft/audi-verzoegerung-durch-technik-li.3549257",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T02:00:00+00:00"
     },
     {
       "titel": "Heidi-Fest im Hofbräuhaus: Mit Heidi Klum zurück in die Sauerkrautsuppen-Zeit",
@@ -19,70 +145,10 @@
       "veroeffentlicht": "2026-09-17T23:56:29+00:00"
     },
     {
-      "titel": "F-16-Kampfjet stürzt bei Übung in den USA ab",
-      "link": "https://www.spiegel.de/panorama/f-16-kampfjet-stuerzt-bei-uebung-in-den-usa-ab-a-b5ad4b1e-0d58-4734-b1fc-d3814e0ad293#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T23:48:00+00:00"
-    },
-    {
-      "titel": "Uno-Generalversammlung: Irans Delegation darf reisen, teure Einkäufe stehen unter Beobachtung",
-      "link": "https://www.spiegel.de/ausland/uno-generalversammlung-irans-delegation-darf-reisen-teure-einkaeufe-stehen-unter-beobachtung-a-05a64d06-6a91-4d40-9907-295de4c79fcc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T23:18:00+00:00"
-    },
-    {
       "titel": "Maybrit Illner: Was selbst Hoppermann nicht sagt: Der Merz ist toll",
       "link": "https://www.sueddeutsche.de/medien/illner-merz-hoppermann-repinski-soeder-zdf-bundesregierung-landtagswahlen-cdu-koalition-afd-li.3549241",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-17T23:14:28+00:00"
-    },
-    {
-      "titel": "Donald Trump: Präsident zieht Nominierung von ICE-Kandidat Lance Schroyer zurück",
-      "link": "https://www.spiegel.de/ausland/donald-trump-praesident-zieht-nominierung-von-ice-kandidat-lance-schroyer-zurueck-a-730407bb-8c67-4ad6-8a5f-4258459bbaf2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T21:37:00+00:00"
-    },
-    {
-      "titel": "Uno-Bericht: Gleichstellung von Männern und Frauen 171 Jahre entfernt",
-      "link": "https://www.spiegel.de/politik/uno-bericht-gleichstellung-von-maennern-und-frauen-171-jahre-entfernt-a-7ade9f9b-1693-4646-9038-4d8a484561d3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T21:13:00+00:00"
-    },
-    {
-      "titel": "SPD überholt laut Umfrage AfD in Mecklenburg-Vorpommern, Linke in Berlin vorn",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-ueberholt-laut-umfrage-afd-in-mecklenburg-vorpommern-linke-in-berlin-vorn-a-e4656c6f-5d7a-4728-839d-5b035822056f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T20:56:00+00:00"
-    },
-    {
-      "titel": "Michel Friedman: Moderator und Ex-CDU-Mitglied wirbt im Wahlkampf für die Grünen in MV",
-      "link": "https://www.spiegel.de/politik/deutschland/michel-friedman-moderator-und-ex-cdu-mitglied-wirbt-im-wahlkampf-fuer-die-gruenen-in-mv-a-075dcb67-b439-4ee1-803d-0be38aaa4b07#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T20:31:00+00:00"
-    },
-    {
-      "titel": "Hannover: 47 ausgesetzte Meerschweinchen im Wald gefunden",
-      "link": "https://www.spiegel.de/panorama/justiz/hannover-47-ausgesetzte-meerschweinchen-im-wald-gefunden-a-c3b8c820-ff3c-4355-a421-758bcf2db83a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T20:24:00+00:00"
-    },
-    {
-      "titel": "Oliver Baumann über Degradierung durch Julian Nagelsmann – »War unfassbar«",
-      "link": "https://www.spiegel.de/sport/fussball/oliver-baumann-ueber-degradierung-durch-julian-nagelsmann-war-unfassbar-a-4c540a85-4029-417c-a0f1-564f758d2c59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T20:21:00+00:00"
-    },
-    {
-      "titel": "Erneut Läden in Frankfurt am Main durch Explosionen beschädigt",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/explosionen-frankfurt-laeden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T20:19:37+00:00"
-    },
-    {
-      "titel": "Wie Russland den ukrainischen Buchmarkt angreift",
-      "link": "https://www.tagesschau.de/kultur/ukraine-verbrannte-buecher-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T20:13:01+00:00"
     },
     {
       "titel": "USA-Newsblog: Trump stellt Polen einen US-Heeresstützpunkt in Aussicht",
@@ -97,76 +163,10 @@
       "veroeffentlicht": "2026-09-17T18:36:33+00:00"
     },
     {
-      "titel": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
-      "link": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T18:21:41+00:00"
-    },
-    {
-      "titel": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T17:19:34+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX schließt nach US-Zinserhöhung im Plus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T16:40:52+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Diplomaten: US-Delegation traf Huthi-Vertreter im Oman",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-us-stuetzpunkt-us-armee-verluste-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T16:16:28+00:00"
-    },
-    {
-      "titel": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T15:13:34+00:00"
-    },
-    {
-      "titel": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-risiken-forscher-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T15:11:53+00:00"
-    },
-    {
-      "titel": "Frankfurt am Main: An Malaria erkrankte Person gestorben",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-faelle-frankfurt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T15:11:09+00:00"
-    },
-    {
       "titel": "Kanada und die EU: Wird die totgesagte EU gerade zum interessantesten politischen Projekt der Welt?",
       "link": "https://www.sueddeutsche.de/kultur/mark-carney-kanada-beitritt-eu-strassburg-li.3547048",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-17T15:07:54+00:00"
-    },
-    {
-      "titel": "Malaria-Fälle im Umfeld des Frankfurter Flughafens festgestellt",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/faq-flughafen-malaria-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-17T14:49:02+00:00"
-    },
-    {
-      "titel": "Fahrgeschäfte und Zelte auf der Wiesn: Neuer Nervenkitzel für das Oktoberfest",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-neue-fahrgeschaefte-festzelte-li.3545585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T14:22:05+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Der „Bundeszwang“ wird gegen die AfD nicht funktionieren",
-      "link": "https://www.sueddeutsche.de/meinung/bundeszwang-afd-sachsen-anhalt-bundesregierung-kolumne-li.3547030",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T14:10:57+00:00"
-    },
-    {
-      "titel": "Jürgen Klopps DFB-Elf: Mehr Liverpool wagen",
-      "link": "https://www.sueddeutsche.de/sport/juergen-klopp-premier-league-dfb-kader-nationalmannschaft-li.3549389",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T14:08:07+00:00"
     }
   ]
 }
