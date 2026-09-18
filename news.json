@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-09-18T19:13:11+00:00",
+  "aktualisiert": "2026-09-18T21:43:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump Jr. wird laut seinem Vater Kosten für Hochzeitsfeier an russischen Oligarchen zurückerstatten",
+      "link": "https://www.spiegel.de/ausland/donald-trump-jr-wird-laut-seinem-vater-kosten-fuer-hochzeitsfeier-an-russischen-oligarchen-zurueckerstatten-a-70c4e154-6a23-4937-ae39-c8666f8bc94d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T21:33:00+00:00"
+    },
+    {
+      "titel": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T21:07:18+00:00"
+    },
+    {
+      "titel": "FC Bayern feiert zum Oktoberfest-Auftakt 7:0-Heimsieg",
+      "link": "https://www.spiegel.de/sport/fc-bayern-feiert-zum-oktoberfest-auftakt-7-0-heimsieg-a-28248ccc-c43f-4af0-8678-fcbeefd406de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T21:05:00+00:00"
+    },
+    {
+      "titel": "Jan Böhmermanns und das Ende vom »ZDF Magazin Royale«: Einer gegen alle. Und gegen sich selbst",
+      "link": "https://www.spiegel.de/kultur/tv/jan-boehmermanns-und-das-ende-vom-zdf-magazin-royale-einer-gegen-alle-und-gegen-sich-selbst-a-f7342479-2f44-44d4-acf9-a623013a3156#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T21:05:00+00:00"
+    },
+    {
+      "titel": "Spritpreise: Erst Tankrabatt, dann Preisdeckel für Autofahrer und Wirtschaft",
+      "link": "https://www.spiegel.de/wirtschaft/spritpreise-erst-tankrabatt-dann-preisdeckel-fuer-autofahrer-und-wirtschaft-a-463af428-fe71-48b1-b253-c740334f6116#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T20:57:00+00:00"
+    },
+    {
+      "titel": "Sieg gegen Union Berlin: Die Bayern blasen ihre Torflaute fort",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-union-kane-olise-bundesliga-spielbericht-tore-tabelle-li.3550142",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T20:35:28+00:00"
+    },
+    {
+      "titel": "Wahlwochenende: Schicksalstage für Friedrich Merz",
+      "link": "https://www.sueddeutsche.de/politik/friedrich-merz-cdu-wahlen-mecklenburg-vorpommern-berlin-li.3549855",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T20:28:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Trump verbietet CNN, Politico und MS Now Zugang zum Weißen Haus",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-cnn-politico-weisses-haus-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T19:48:00+00:00"
+    },
+    {
+      "titel": "Energiepreise: Neuer Tankrabatt soll kommen",
+      "link": "https://www.sueddeutsche.de/politik/tankrabatt-preisdeckel-benzin-deutschland-spritpreise-li.3550202",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T19:34:00+00:00"
+    },
+    {
+      "titel": "USA: Trump will CNN, »Politico« und MS Now aus Weißem Haus verbannen",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-trump-droht-cnn-politico-und-ms-now-mit-rauswurf-aus-weissem-haus-a-769d6181-a95e-4da8-8f87-50dbc5b3950d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T19:24:00+00:00"
+    },
     {
       "titel": "Stimmung in Deutschland: »Ob ich die wähle oder die – es ändert sich nichts« - SPIEGEL TV",
       "link": "https://www.spiegel.de/politik/stimmung-in-deutschland-ob-ich-die-waehle-oder-die-es-aendert-sich-nichts-spiegel-tv-a-6e2e1805-ec7f-4a80-bdd7-81c2c3ef167a#ref=rss",
@@ -17,12 +77,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-18T18:30:08+00:00"
-    },
-    {
-      "titel": "Energiepreise: Neuer Tankrabatt soll kommen",
-      "link": "https://www.sueddeutsche.de/politik/tankrabatt-preisdeckel-benzin-deutschland-spritpreise-li.3550202",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T18:26:00+00:00"
     },
     {
       "titel": "Sportpolitik: Uefa und Concacaf erhöhen Druck auf Fifa-Präsident Infantino",
@@ -55,18 +109,6 @@
       "veroeffentlicht": "2026-09-18T17:35:00+00:00"
     },
     {
-      "titel": "Rente mit 63 ist besonders in Ostdeutschland ein Reizthema – zu Recht?",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T17:24:00+00:00"
-    },
-    {
-      "titel": "Andrej Swjaginzew: Kreml stuft Oscar-nominierten Filmemacher als ausländischen Agenten ein",
-      "link": "https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T17:24:00+00:00"
-    },
-    {
       "titel": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
       "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
       "quelle": "Tagesschau",
@@ -83,24 +125,6 @@
       "link": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-18T17:02:36+00:00"
-    },
-    {
-      "titel": "Nigeria: Dutzende Bergleute ersticken offenbar in Gewahrsam von Paramilitärs",
-      "link": "https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers-a-16361901-3a43-47eb-b45d-7e18c23b539a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T16:57:00+00:00"
-    },
-    {
-      "titel": "Entwicklungshilfe: Wie die GIZ im Jemen 15 Millionen Euro verlor",
-      "link": "https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T16:45:00+00:00"
-    },
-    {
-      "titel": "Wanja Oberhof: US-Behörden nehmen deutschen Unternehmer fest",
-      "link": "https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T16:43:00+00:00"
     },
     {
       "titel": "Marktbericht: DAX gibt am großen Verfallstag nach",
@@ -133,12 +157,6 @@
       "veroeffentlicht": "2026-09-18T15:27:15+00:00"
     },
     {
-      "titel": "Anschlag auf Synagoge in NRW: Ermittler vermuten antisemitisches Motiv",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T15:19:00+00:00"
-    },
-    {
       "titel": "Youtuber MrBeast: Ja, möchte mich denn niemand lesen?",
       "link": "https://www.sueddeutsche.de/panorama/mrbeast-buch-roman-the-most-dangerous-games-kritiken-verkaeufe-li.3548833",
       "quelle": "Süddeutsche",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/catherine-ringer-nachruf-frankreich-punk-li.3550005",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-18T15:01:39+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Einigung zu Tankrabatt steht offenbar kurz bevor",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-tankrabatt-bundesregierung-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T14:51:58+00:00"
-    },
-    {
-      "titel": "Theater: Es wird Nacht über Deutschland",
-      "link": "https://www.sueddeutsche.de/kultur/berliner-ensemble-frank-castorf-mephisto-kritik-li.3549865",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T14:49:24+00:00"
-    },
-    {
-      "titel": "Folgen des Hitzesommers: Champagner, der richtig reinknallt",
-      "link": "https://www.sueddeutsche.de/leben/champagner-jahrgang-alkoholgehalt-frankreich-li.3547526",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T14:07:37+00:00"
     }
   ]
 }
