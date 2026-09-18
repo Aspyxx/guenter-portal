@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-18T05:20:14+00:00",
+  "aktualisiert": "2026-09-18T09:54:42+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Präsident",
-      "link": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 2,
-      "titel": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-ernaehrungsinitiative-selbstversorgung-100.html",
+      "titel": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-russland-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 3,
-      "titel": "Renommierter Körber-Preis für Zellforscherin Wickström",
-      "link": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
+      "rang": 2,
+      "titel": "Wie gefährlich sind die aktuellen Malaria-Fälle?",
+      "link": "https://www.tagesschau.de/wissen/faq-malaria-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Anleger trotz sinkender Ölpreise zurückhaltend",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
     }
   ]
 }
