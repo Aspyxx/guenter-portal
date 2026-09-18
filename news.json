@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-18T21:43:49+00:00",
+  "aktualisiert": "2026-09-18T23:37:38+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T22:40:52+00:00"
+    },
+    {
+      "titel": "Dänemark und USA verkünden Einigung im Grönland-Streit",
+      "link": "https://www.spiegel.de/ausland/daenemark-und-usa-verkuenden-einigung-im-groenland-streit-a-3b1862ed-e331-4dde-8265-e5ec805254b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T22:16:00+00:00"
+    },
+    {
+      "titel": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T22:00:25+00:00"
+    },
+    {
+      "titel": "Tankrabatt: Bundesregierung plant milliardenteure Beruhigungspille - Meinung",
+      "link": "https://www.spiegel.de/politik/deutschland/tankrabatt-bundesregierung-plant-milliardenteure-beruhigungspille-meinung-a-68a3c6cf-d150-42d9-8508-9ac1aa1f9b8b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T21:59:00+00:00"
+    },
     {
       "titel": "Donald Trump Jr. wird laut seinem Vater Kosten für Hochzeitsfeier an russischen Oligarchen zurückerstatten",
       "link": "https://www.spiegel.de/ausland/donald-trump-jr-wird-laut-seinem-vater-kosten-fuer-hochzeitsfeier-an-russischen-oligarchen-zurueckerstatten-a-70c4e154-6a23-4937-ae39-c8666f8bc94d#ref=rss",
@@ -19,14 +43,14 @@
       "veroeffentlicht": "2026-09-18T21:07:18+00:00"
     },
     {
-      "titel": "FC Bayern feiert zum Oktoberfest-Auftakt 7:0-Heimsieg",
-      "link": "https://www.spiegel.de/sport/fc-bayern-feiert-zum-oktoberfest-auftakt-7-0-heimsieg-a-28248ccc-c43f-4af0-8678-fcbeefd406de#ref=rss",
+      "titel": "Jan Böhmermanns und das Ende vom »ZDF Magazin Royale«: Einer gegen alle. Und gegen sich selbst",
+      "link": "https://www.spiegel.de/kultur/tv/jan-boehmermanns-und-das-ende-vom-zdf-magazin-royale-einer-gegen-alle-und-gegen-sich-selbst-a-f7342479-2f44-44d4-acf9-a623013a3156#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-18T21:05:00+00:00"
     },
     {
-      "titel": "Jan Böhmermanns und das Ende vom »ZDF Magazin Royale«: Einer gegen alle. Und gegen sich selbst",
-      "link": "https://www.spiegel.de/kultur/tv/jan-boehmermanns-und-das-ende-vom-zdf-magazin-royale-einer-gegen-alle-und-gegen-sich-selbst-a-f7342479-2f44-44d4-acf9-a623013a3156#ref=rss",
+      "titel": "FC Bayern feiert zum Oktoberfest-Auftakt 7:0-Heimsieg",
+      "link": "https://www.spiegel.de/sport/fc-bayern-feiert-zum-oktoberfest-auftakt-7-0-heimsieg-a-28248ccc-c43f-4af0-8678-fcbeefd406de#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-18T21:05:00+00:00"
     },
@@ -97,18 +121,6 @@
       "veroeffentlicht": "2026-09-18T17:42:39+00:00"
     },
     {
-      "titel": "USA: Trump kippt CO₂-Regeln und befeuert Boom schmutziger KI-Gaskraftwerke",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/usa-trump-kippt-co-regeln-und-befeuert-boom-schmutziger-ki-gaskraftwerke-a-66026553-1c6f-48e0-94fe-8918e33c60fc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T17:37:00+00:00"
-    },
-    {
-      "titel": "Volkswagen kappt Gewinnerwartung für 2026 – Aktie rauscht ab",
-      "link": "https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab-a-896b0f60-5375-43d4-b517-8a732d4fea3b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T17:35:00+00:00"
-    },
-    {
       "titel": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
       "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
       "quelle": "Tagesschau",
@@ -133,12 +145,6 @@
       "veroeffentlicht": "2026-09-18T16:25:06+00:00"
     },
     {
-      "titel": "Berlin-Wahl - Kristin Brinker von der AfD: Spitzenkandidatin ohne Regierungschancen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-afd-brinker-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T16:20:49+00:00"
-    },
-    {
       "titel": "Fernsehen: Böhmermann hört mit „ZDF Magazin Royale“ auf",
       "link": "https://www.sueddeutsche.de/medien/boehmermann-zdf-magazin-royale-li.3550325",
       "quelle": "Süddeutsche",
@@ -149,12 +155,6 @@
       "link": "https://www.sueddeutsche.de/panorama/max-riese-radsport-unfall-tod-li.3550197",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-18T15:30:15+00:00"
-    },
-    {
-      "titel": "Investor Warren Buffett übergibt an seinen Sohn",
-      "link": "https://www.tagesschau.de/wirtschaft/buffett-warren-howard-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T15:27:15+00:00"
     },
     {
       "titel": "Youtuber MrBeast: Ja, möchte mich denn niemand lesen?",
