@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-18T16:26:17+00:00",
+  "aktualisiert": "2026-09-18T19:13:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,112 @@
   },
   "meldungen": [
     {
+      "titel": "Stimmung in Deutschland: »Ob ich die wähle oder die – es ändert sich nichts« - SPIEGEL TV",
+      "link": "https://www.spiegel.de/politik/stimmung-in-deutschland-ob-ich-die-waehle-oder-die-es-aendert-sich-nichts-spiegel-tv-a-6e2e1805-ec7f-4a80-bdd7-81c2c3ef167a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T18:37:00+00:00"
+    },
+    {
+      "titel": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T18:30:08+00:00"
+    },
+    {
+      "titel": "Energiepreise: Neuer Tankrabatt soll kommen",
+      "link": "https://www.sueddeutsche.de/politik/tankrabatt-preisdeckel-benzin-deutschland-spritpreise-li.3550202",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T18:26:00+00:00"
+    },
+    {
+      "titel": "Sportpolitik: Uefa und Concacaf erhöhen Druck auf Fifa-Präsident Infantino",
+      "link": "https://www.sueddeutsche.de/sport/uefa-concacaf-geldforderung-fifa-wm-2026-li.3550351",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T18:17:54+00:00"
+    },
+    {
+      "titel": "Spritpreise: Bundesregierung einigt sich auf Tankrabatt und Preisdeckel",
+      "link": "https://www.spiegel.de/politik/deutschland/spritpreise-bundesregierung-einigt-sich-auf-tankrabatt-und-preisdeckel-a-3775ae88-a507-4222-b746-ef2b4b4e8a94#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T18:13:00+00:00"
+    },
+    {
+      "titel": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
+      "link": "https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T17:42:39+00:00"
+    },
+    {
+      "titel": "USA: Trump kippt CO₂-Regeln und befeuert Boom schmutziger KI-Gaskraftwerke",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/usa-trump-kippt-co-regeln-und-befeuert-boom-schmutziger-ki-gaskraftwerke-a-66026553-1c6f-48e0-94fe-8918e33c60fc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T17:37:00+00:00"
+    },
+    {
+      "titel": "Volkswagen kappt Gewinnerwartung für 2026 – Aktie rauscht ab",
+      "link": "https://www.spiegel.de/wirtschaft/volkswagen-kappt-gewinnerwartung-fuer-2026-aktie-rauscht-ab-a-896b0f60-5375-43d4-b517-8a732d4fea3b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T17:35:00+00:00"
+    },
+    {
+      "titel": "Rente mit 63 ist besonders in Ostdeutschland ein Reizthema – zu Recht?",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T17:24:00+00:00"
+    },
+    {
+      "titel": "Andrej Swjaginzew: Kreml stuft Oscar-nominierten Filmemacher als ausländischen Agenten ein",
+      "link": "https://www.spiegel.de/kultur/andrej-swjaginzew-kreml-stuft-oscar-nominierten-filmemacher-als-auslaendischen-agenten-ein-a-f0f5ecba-d008-4883-8bc9-e658bc30be45#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T17:24:00+00:00"
+    },
+    {
+      "titel": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T17:22:37+00:00"
+    },
+    {
+      "titel": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T17:03:15+00:00"
+    },
+    {
+      "titel": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
+      "link": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T17:02:36+00:00"
+    },
+    {
+      "titel": "Nigeria: Dutzende Bergleute ersticken offenbar in Gewahrsam von Paramilitärs",
+      "link": "https://www.spiegel.de/ausland/nigeria-dutzende-bergleute-ersticken-offenbar-in-gewahrsam-von-paramilitaers-a-16361901-3a43-47eb-b45d-7e18c23b539a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T16:57:00+00:00"
+    },
+    {
+      "titel": "Entwicklungshilfe: Wie die GIZ im Jemen 15 Millionen Euro verlor",
+      "link": "https://www.spiegel.de/politik/deutschland/entwicklungshilfe-wie-die-giz-im-jemen-15-millionen-euro-verlor-a-85140edb-2f79-432b-b1a7-49178ca8ef18#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T16:45:00+00:00"
+    },
+    {
+      "titel": "Wanja Oberhof: US-Behörden nehmen deutschen Unternehmer fest",
+      "link": "https://www.spiegel.de/wirtschaft/wanja-oberhof-us-behoerden-nehmen-deutschen-unternehmer-fest-a-4d3c4ba3-0bfc-4710-b779-e11f464d090b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T16:43:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX gibt am großen Verfallstag nach",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T16:25:06+00:00"
+    },
+    {
       "titel": "Berlin-Wahl - Kristin Brinker von der AfD: Spitzenkandidatin ohne Regierungschancen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-afd-brinker-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-18T16:20:49+00:00"
-    },
-    {
-      "titel": "Spritpreise: Regierung offenbar vor Einigung auf Tankpreisdeckel",
-      "link": "https://www.spiegel.de/politik/deutschland/spritpreise-regierung-einigt-sich-offenbar-auf-tankpreisdeckel-a-e8dfdecc-4a64-4b26-8895-94180b30a37d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T16:14:00+00:00"
     },
     {
       "titel": "Fernsehen: Böhmermann hört mit „ZDF Magazin Royale“ auf",
@@ -25,40 +121,10 @@
       "veroeffentlicht": "2026-09-18T15:55:49+00:00"
     },
     {
-      "titel": "Energiepreise: Neuer Tankrabatt soll kommen",
-      "link": "https://www.sueddeutsche.de/politik/tankrabatt-preisdeckel-benzin-deutschland-spritpreise-li.3550202",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T15:50:33+00:00"
-    },
-    {
-      "titel": "Jan Böhmermann hört mit »ZDF Magazin Royale« auf",
-      "link": "https://www.spiegel.de/kultur/tv/jan-boehmermann-hoert-mit-zdf-magazin-royale-auf-a-c17aa6d2-2896-4f77-aaa1-7cb87a854f6f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T15:49:00+00:00"
-    },
-    {
-      "titel": "Afghanistan: Tagebuch der Entrechtung einer jungen Frau – Podcast",
-      "link": "https://www.spiegel.de/ausland/afghanistan-tagebuch-der-entrechtung-einer-jungen-frau-podcast-a-98b42004-571a-4628-91f4-d95554f0f8f8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T15:44:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Israelis pilgern trotz Krieg zu Rosch-ha-Schana-Feier",
-      "link": "https://www.spiegel.de/ausland/ukraine-israelis-pilgern-trotz-krieg-zu-rosch-ha-schana-feier-a-5ca1c979-70be-48d3-91ce-2937e95d9bbb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T15:42:00+00:00"
-    },
-    {
       "titel": "Radsport: Extremsportler Max Riese tödlich verunglückt",
       "link": "https://www.sueddeutsche.de/panorama/max-riese-radsport-unfall-tod-li.3550197",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-18T15:30:15+00:00"
-    },
-    {
-      "titel": "News des Tages: Spritpreise, Tarnkappenbomber F-35, Wahlen",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T15:28:00+00:00"
     },
     {
       "titel": "Investor Warren Buffett übergibt an seinen Sohn",
@@ -73,28 +139,16 @@
       "veroeffentlicht": "2026-09-18T15:19:00+00:00"
     },
     {
-      "titel": "Homer: 1700 Jahre altes Fragment der Odyssee in Utrecht gefunden",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/homer-1700-jahre-altes-fragment-der-odyssee-in-utrecht-gefunden-a-9792cde1-888e-4e43-b4aa-258480ec4185#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T15:15:00+00:00"
+      "titel": "Youtuber MrBeast: Ja, möchte mich denn niemand lesen?",
+      "link": "https://www.sueddeutsche.de/panorama/mrbeast-buch-roman-the-most-dangerous-games-kritiken-verkaeufe-li.3548833",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T15:17:32+00:00"
     },
     {
-      "titel": "Upskirting beim Oktoberfest: Warum das »Teufelsrad« für Frauen gefährlich ist",
-      "link": "https://www.spiegel.de/netzwelt/upskirting-beim-oktoberfest-warum-das-teufelsrad-fuer-frauen-gefaehrlich-ist-a-bfc18c2a-d7a3-437c-bed4-1c0f286bee84#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T15:09:00+00:00"
-    },
-    {
-      "titel": "»FakeTrade«: Staatsanwalt Nino Goldbeck über Cybertrading-Betrug – »Merkmale der Organisierten Kriminalität«",
-      "link": "https://www.spiegel.de/panorama/justiz/faketrade-recherche-staatsanwalt-nino-goldbeck-ueber-cybertrading-betrug-merkmale-der-organisierten-kriminalitaet-a-3d2dee5c-0cca-4911-a496-8631781ae41a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T15:02:00+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: Wie groß ist der Jürgen-Klopp-Effekt – und schadet er sogar?",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-wie-gross-ist-der-juergen-klopp-effekt-und-schadet-er-sogar-a-8da02b3a-efb2-423e-93ae-18ffbd79d6f7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T14:58:00+00:00"
+      "titel": "Pop: Wie etwas Unmögliches",
+      "link": "https://www.sueddeutsche.de/kultur/catherine-ringer-nachruf-frankreich-punk-li.3550005",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-18T15:01:39+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Einigung zu Tankrabatt steht offenbar kurz bevor",
@@ -103,70 +157,16 @@
       "veroeffentlicht": "2026-09-18T14:51:58+00:00"
     },
     {
-      "titel": "Die AfD und ihr Spitzenpersonal: Zwischen Volksnähe und Krawall",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mecklenburg-vorpommern-strategie-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T14:27:34+00:00"
-    },
-    {
-      "titel": "Spenden für Midterms: Rekordsummen für die Kongress-Zwischenwahlen",
-      "link": "https://www.tagesschau.de/ausland/amerika/parteispenden-republikaner-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T14:21:12+00:00"
-    },
-    {
-      "titel": "Die neue Kölner Oper eröffnet - nach 14 Jahren Bauzeit und Milliardenkosten",
-      "link": "https://www.tagesschau.de/kultur/oper-koeln-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T14:17:42+00:00"
-    },
-    {
-      "titel": "Nach Eisenreichs Rücktritt: Die Münchner CSU sucht einen neuen Chef – und nicht nur das",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-csu-eisenreich-nachfolge-li.3549294",
+      "titel": "Theater: Es wird Nacht über Deutschland",
+      "link": "https://www.sueddeutsche.de/kultur/berliner-ensemble-frank-castorf-mephisto-kritik-li.3549865",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T14:05:21+00:00"
+      "veroeffentlicht": "2026-09-18T14:49:24+00:00"
     },
     {
-      "titel": "Frankfurt am Main: An Malaria erkrankte Person gestorben",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-faelle-frankfurt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T13:50:33+00:00"
-    },
-    {
-      "titel": "Merlin Polzin beim Hamburger SV: 0:5, 0:5, Vertragsverlängerung",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-hsv-trainer-polzin-vertrag-li.3549272",
+      "titel": "Folgen des Hitzesommers: Champagner, der richtig reinknallt",
+      "link": "https://www.sueddeutsche.de/leben/champagner-jahrgang-alkoholgehalt-frankreich-li.3547526",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T13:49:22+00:00"
-    },
-    {
-      "titel": "Wahlwochenende: Schicksalstage für Friedrich Merz",
-      "link": "https://www.sueddeutsche.de/politik/friedrich-merz-cdu-wahlen-mecklenburg-vorpommern-berlin-li.3549855",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T12:56:04+00:00"
-    },
-    {
-      "titel": "Öffentlich-Rechtliche: Björn Wilhelm muss gehen",
-      "link": "https://www.sueddeutsche.de/medien/bayerischer-rundfunk-bjoern-wilhelm-programmdirektor-kultur-intendantin-katja-wildermuth-rundfunkrat-li.3550053",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T12:51:55+00:00"
-    },
-    {
-      "titel": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T12:46:17+00:00"
-    },
-    {
-      "titel": "Internet-Auktionen: Das Geschäft mit dem Augenblick",
-      "link": "https://www.sueddeutsche.de/kultur/klopp-kappe-afd-li.3549985",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T12:29:32+00:00"
-    },
-    {
-      "titel": "Volkswagen verliert Platz in Europas wichtigster Börsenliga",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/vw-aktie-europa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T11:40:02+00:00"
+      "veroeffentlicht": "2026-09-18T14:07:37+00:00"
     }
   ]
 }
