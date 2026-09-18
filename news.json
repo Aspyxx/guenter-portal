@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-09-17T23:07:23+00:00",
+  "aktualisiert": "2026-09-18T01:17:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "USA: Robert F. Kennedy Jr. verspricht Impfgegnern einen Freund im Weißen Haus",
+      "link": "https://www.spiegel.de/ausland/usa-robert-f-kennedy-jr-verspricht-impfgegnern-einen-freund-im-weissen-haus-a-d2638550-a792-4f8e-be05-a38080680d9c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T01:07:00+00:00"
+    },
+    {
+      "titel": "Heidi-Fest im Hofbräuhaus: Mit Heidi Klum zurück in die Sauerkrautsuppen-Zeit",
+      "link": "https://www.sueddeutsche.de/muenchen/heidi-klum-heidi-fest-oktoberfest-muenchen-rtl-tv-kritik-li.3542396",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T23:56:29+00:00"
+    },
+    {
+      "titel": "F-16-Kampfjet stürzt bei Übung in den USA ab",
+      "link": "https://www.spiegel.de/panorama/f-16-kampfjet-stuerzt-bei-uebung-in-den-usa-ab-a-b5ad4b1e-0d58-4734-b1fc-d3814e0ad293#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T23:48:00+00:00"
+    },
+    {
+      "titel": "Uno-Generalversammlung: Irans Delegation darf reisen, teure Einkäufe stehen unter Beobachtung",
+      "link": "https://www.spiegel.de/ausland/uno-generalversammlung-irans-delegation-darf-reisen-teure-einkaeufe-stehen-unter-beobachtung-a-05a64d06-6a91-4d40-9907-295de4c79fcc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-17T23:18:00+00:00"
+    },
+    {
+      "titel": "Maybrit Illner: Was selbst Hoppermann nicht sagt: Der Merz ist toll",
+      "link": "https://www.sueddeutsche.de/medien/illner-merz-hoppermann-repinski-soeder-zdf-bundesregierung-landtagswahlen-cdu-koalition-afd-li.3549241",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-17T23:14:28+00:00"
+    },
     {
       "titel": "Donald Trump: Präsident zieht Nominierung von ICE-Kandidat Lance Schroyer zurück",
       "link": "https://www.spiegel.de/ausland/donald-trump-praesident-zieht-nominierung-von-ice-kandidat-lance-schroyer-zurueck-a-730407bb-8c67-4ad6-8a5f-4258459bbaf2#ref=rss",
@@ -49,28 +79,10 @@
       "veroeffentlicht": "2026-09-17T20:19:37+00:00"
     },
     {
-      "titel": "USA: Richter schaltet sich in Baumaßnahmen am Kennedy Center ein",
-      "link": "https://www.spiegel.de/ausland/usa-richter-schaltet-sich-in-baumassnahmen-am-kennedy-center-ein-a-9fde2b7a-f4b9-412f-8e31-6ae847db6f24#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T20:15:00+00:00"
-    },
-    {
       "titel": "Wie Russland den ukrainischen Buchmarkt angreift",
       "link": "https://www.tagesschau.de/kultur/ukraine-verbrannte-buecher-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-17T20:13:01+00:00"
-    },
-    {
-      "titel": "Russland: Wladimir Putin stellt Nestlé unter Zwangsverwaltung",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/russland-wladimir-putin-stellt-nestle-unter-zwangsverwaltung-a-351467f8-e8c8-49bf-a22f-27caa82a7923#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T19:44:00+00:00"
-    },
-    {
-      "titel": "Robert F. Kennedy Jr.: Ruiniert Donald Trumps Gesundheitsminister das Erbe der Kennedys?",
-      "link": "https://www.spiegel.de/ausland/robert-f-kennedy-jr-ruiniert-donald-trumps-gesundheitsminister-das-erbe-der-kennedys-a-428120b8-fc8b-4d62-abe9-1336b33a618f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-17T19:21:00+00:00"
     },
     {
       "titel": "USA-Newsblog: Trump stellt Polen einen US-Heeresstützpunkt in Aussicht",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/juergen-klopp-premier-league-dfb-kader-nationalmannschaft-li.3549389",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-17T14:08:07+00:00"
-    },
-    {
-      "titel": "XXL-Kader des neuen Bundestrainers: Klopps monumentales Nominierungswerk",
-      "link": "https://www.sueddeutsche.de/sport/bundestrainer-klopp-nominierung-kader-nationalmannschaft-li.3549390",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T14:01:32+00:00"
-    },
-    {
-      "titel": "Tödliche Gewalt gegen Frauen in Südafrika: „Das Gesicht unserer Wut“",
-      "link": "https://www.sueddeutsche.de/panorama/suedafrika-femizide-ermordete-frauen-li.3548265",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-17T13:55:53+00:00"
     }
   ]
 }
