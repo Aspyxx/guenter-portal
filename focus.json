@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-19T01:49:07+00:00",
+  "aktualisiert": "2026-09-19T06:45:00+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Grönland",
-      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
+      "titel": "Teufelsrad Oktoberfest",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Es ist etwas in Bewegung gekommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+      "titel": "Wahlomat Berlin 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-afd-brinker-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Was plant Koalition jetzt gegen die Spritpreise?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
+      "titel": "Bundestagswahl",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/straftaten-berliner-wahlkampf-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🗳️"
     }
   ]
 }
