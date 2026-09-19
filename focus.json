@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-19T14:53:22+00:00",
+  "aktualisiert": "2026-09-19T17:31:12+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Was ist über das mögliche Grönland-Abkommen bekannt?",
       "link": "https://www.tagesschau.de/ausland/amerika/groenland-abkommen-usa-daenemark-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Bundestagswahl",
       "link": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
       "quelle": "Tagesschau",
       "icon": "🗳️"
-    },
-    {
-      "rang": 3,
-      "titel": "Auch Googles KI hackte Unternehmen",
-      "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
