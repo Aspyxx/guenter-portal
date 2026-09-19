@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-19T21:49:39+00:00",
+  "aktualisiert": "2026-09-19T23:41:32+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Was ist über das mögliche Grönland-Abkommen bekannt?",
-      "link": "https://www.tagesschau.de/ausland/amerika/groenland-abkommen-usa-daenemark-100.html",
+      "titel": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
+      "titel": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
+      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
       "quelle": "Tagesschau",
-      "icon": "🗳️"
+      "icon": "🔎"
     }
   ]
 }
