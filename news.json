@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-19T18:03:02+00:00",
+  "aktualisiert": "2026-09-19T20:43:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,94 @@
   },
   "meldungen": [
     {
+      "titel": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien haben Wahlkampf beendet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T20:24:16+00:00"
+    },
+    {
+      "titel": "Russland-Ukraine-Krieg: Eine Reise entlang dem Dnipro – und durch eine Ukraine im Krieg",
+      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-eine-reise-entlang-dem-dnipro-und-durch-eine-ukraine-im-krieg-a-68a30900-6279-4e63-afd9-36bd43784586#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T19:41:00+00:00"
+    },
+    {
+      "titel": "Russland - Wladimir Putin: Wie er seinen Krieg gegen die Ukraine rechtfertigt",
+      "link": "https://www.spiegel.de/geschichte/geschichtsklitterung-eines-hobbyhistorikers-wie-putin-seinen-krieg-gegen-die-ukraine-rechtfertigt-a-bb777552-8dea-4580-b6e7-1cfd61658c90#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T19:40:00+00:00"
+    },
+    {
+      "titel": "Donald Trump kündigt »AI Force« zur KI-Überwachung an",
+      "link": "https://www.spiegel.de/ausland/donald-trump-kuendigt-ai-force-zur-ki-ueberwachung-an-a-e2cf0663-c5a1-404b-8910-8605336743e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T19:39:00+00:00"
+    },
+    {
+      "titel": "Peter Hermann ist tot",
+      "link": "https://www.spiegel.de/sport/fussball/peter-hermann-ist-tot-a-0f78f3cc-d673-4b98-8beb-b18a52deeb3a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T19:33:00+00:00"
+    },
+    {
+      "titel": "Jemen-Krieg: Rauchsäule nahe Flughafen – Huthi-Miliz meldet Angriffe auf Riad",
+      "link": "https://www.spiegel.de/ausland/jemen-krieg-rauchsaeule-nahe-flughafen-huthi-miliz-meldet-angriffe-auf-riad-a-4454be6a-b5fc-4de2-b656-db7cb73b5859#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T19:09:00+00:00"
+    },
+    {
+      "titel": "Bremen-Comeback mit Weiser: Noch ein Märchen an der Weser",
+      "link": "https://www.sueddeutsche.de/sport/werder-bremen-bundesliga-augsburg-weiser-li.3550612",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T19:03:21+00:00"
+    },
+    {
+      "titel": "BookTok: Warum deutsche Buchcover so anders aussehen als die Originale",
+      "link": "https://www.spiegel.de/kultur/booktok-warum-deutsche-buchcover-so-anders-aussehen-als-die-originale-a-ddee631c-3bc9-41a2-80cf-eb22bd73b7eb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T18:36:00+00:00"
+    },
+    {
+      "titel": "Céline Dion-Comeback: Wie mir der Superstar den Glauben an das Gute zurückgab - Kolumne",
+      "link": "https://www.spiegel.de/ausland/celine-dion-comeback-wie-mir-der-superstar-den-glauben-an-das-gute-zurueckgab-kolumne-a-68d88281-f04e-45ce-8a31-c2e5653f34b5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T18:36:00+00:00"
+    },
+    {
+      "titel": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
+      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T18:32:06+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Trump kündigt „AI Force“ an",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-trump-usa-sicherheit-li.3547133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T18:31:15+00:00"
+    },
+    {
+      "titel": "Fußball-Bundesliga: VfB Stuttgart verliert gegen Borussia Dortmund durch Maximilian Beier",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-verliert-gegen-borussia-dortmund-durch-maximilian-beier-a-14cd9bf5-37bb-4eef-868c-725359e4cd84#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T18:30:00+00:00"
+    },
+    {
+      "titel": "Carsten Breuer zur Nato: Politiker fordern rasche Neubesetzung an der Bundeswehr-Spitze",
+      "link": "https://www.spiegel.de/politik/carsten-breuer-zur-nato-politiker-fordern-rasche-neubesetzung-an-der-bundeswehr-spitze-a-4ec61e4f-dd93-4440-9b16-dc8d1d975673#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T18:23:00+00:00"
+    },
+    {
+      "titel": "Duma-Wahl: Warum Snegowskij keine Chance gegen Tolstoj hat",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-direktkandidat-jabloko-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T18:03:33+00:00"
+    },
+    {
       "titel": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
       "link": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-19T17:58:34+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Experte Marcel Salathé hält die Weltuntergangs-Warnungen für übertrieben",
-      "link": "https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-experte-marcel-salathe-haelt-die-weltuntergangs-warnungen-fuer-uebertrieben-a-f168c58d-84ef-4b06-b07b-5e7b805d9a70#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T17:19:00+00:00"
     },
     {
       "titel": "Borussia Mönchengladbach: „Bei wieder vier Gegentoren fällt es schwer, etwas schönzureden“",
@@ -43,18 +121,6 @@
       "veroeffentlicht": "2026-09-19T16:17:39+00:00"
     },
     {
-      "titel": "Mecklenburgische Seenplatte: 13-Jähriger stibitzt Auto, klaut Benzin und flieht vor Polizei",
-      "link": "https://www.spiegel.de/panorama/justiz/mecklenburgische-seenplatte-13-jaehriger-stibitzt-auto-klaut-benzin-und-flieht-vor-polizei-a-f4f7c333-ccbb-4715-bcd6-819b7b3cbbd5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T16:00:00+00:00"
-    },
-    {
-      "titel": "»The Social Reckoning«: Aaron Sorkin schreibt, bis die Nase bricht",
-      "link": "https://www.spiegel.de/kultur/kino/the-social-reckoning-aaron-sorkin-schreibt-bis-die-nase-bricht-a-360f7d4e-8f8d-47ba-8770-c65e10dc1f65#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T15:54:00+00:00"
-    },
-    {
       "titel": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
       "quelle": "Tagesschau",
@@ -73,36 +139,6 @@
       "veroeffentlicht": "2026-09-19T15:46:45+00:00"
     },
     {
-      "titel": "Fußball-Bundesliga: Borussia Mönchengladbach verliert auch ihr viertes Saisonspiel und ist Letzter",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-verliert-auch-sein-viertes-saisonspiel-und-ist-letzter-a-1d622dad-54e1-4c51-b4e4-886ddb1d8373#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T15:46:00+00:00"
-    },
-    {
-      "titel": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T15:39:08+00:00"
-    },
-    {
-      "titel": "Nato: Carsten Breuer wird Vorsitzender von Militärausschuss",
-      "link": "https://www.spiegel.de/politik/nato-carsten-breuer-wird-vorsitzender-von-militaerausschuss-a-9959cc51-bbd3-4e74-8068-b56a3aba2308#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T15:27:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Auf die Solidarität der SPD sollte der Kanzler nicht hoffen",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-die-solidaritaet-der-spd-sollte-der-kanzler-nicht-hoffen-a-c094e759-256b-4bb2-a2d6-1cac34e4d70c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T15:08:00+00:00"
-    },
-    {
-      "titel": "2. Bundesliga: Sandro Wagner wird Trainer bei Hannover 96",
-      "link": "https://www.spiegel.de/sport/fussball/sandro-wagner-wird-trainer-bei-hannover-96-a-2e78d300-f6f1-416d-b8b0-63e9367731d3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T15:04:00+00:00"
-    },
-    {
       "titel": "Oktoberfest: Viele Zelte geschlossen – Panne bei Fahrgeschäft",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesnstart-anstich-samstag-liveticker-li.3549371",
       "quelle": "Süddeutsche",
@@ -115,28 +151,10 @@
       "veroeffentlicht": "2026-09-19T14:52:46+00:00"
     },
     {
-      "titel": "Fettleber: Warum so viele betroffen sind – und wie die Leber heilen kann",
-      "link": "https://www.spiegel.de/gesundheit/fettleber-warum-so-viele-betroffen-sind-und-wie-die-leber-heilen-kann-a-e65d42ff-edcd-4c55-a593-768cbd313bc8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T14:42:00+00:00"
-    },
-    {
-      "titel": "Österreich: Sie wurde mit 5000 Penisbildern per WhatsApp belästigt – ganz legal– Podcast",
-      "link": "https://www.spiegel.de/ausland/oesterreich-sie-wurde-mit-5000-penisbildern-per-whatsapp-belaestigt-ganz-legal-podcast-a-95f12f10-06f4-4204-a1b2-d540643fd227#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T14:41:00+00:00"
-    },
-    {
       "titel": "Journalismus: Und raus bist du",
       "link": "https://www.sueddeutsche.de/medien/usa-doepfner-trump-axel-springer-politico-weisses-haus-li.3550456",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T13:35:06+00:00"
-    },
-    {
-      "titel": "Oktoberfest-Anstich in Bildern: Zähes Warten, „Wiesn-Run“ – und dann ein Krause-Plan, der aufgeht",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-wiesnstart-samstag-bilder-li.3545965",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T13:12:00+00:00"
     },
     {
       "titel": "Auch Googles KI hackte Unternehmen",
@@ -149,24 +167,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-19T13:08:46+00:00"
-    },
-    {
-      "titel": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T12:39:46+00:00"
-    },
-    {
-      "titel": "Wie sich Lokaljournalismus weiterentwickelt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T12:20:39+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Die wichtigsten Fragen und Antworten zum Tankrabatt",
-      "link": "https://www.sueddeutsche.de/politik/tankrabatt-bundesregierung-deutschland-benzin-spritpreisdeckel-li.3550484",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T12:10:27+00:00"
     }
   ]
 }
