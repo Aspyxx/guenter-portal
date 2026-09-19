@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-18T23:37:38+00:00",
+  "aktualisiert": "2026-09-19T01:38:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
+      "link": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T00:52:21+00:00"
+    },
+    {
+      "titel": "Durchsuchung bei Mitarbeiter einer AfD-Spitzenkandidatin in Berlin",
+      "link": "https://www.spiegel.de/politik/durchsuchung-bei-mitarbeiter-einer-afd-spitzenkandidatin-in-berlin-a-49aa3dfd-d48f-4085-b620-c04997559841#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T00:34:00+00:00"
+    },
+    {
+      "titel": "Dänemark und USA verkünden Durchbruch im Grönland-Streit",
+      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-18T23:54:48+00:00"
+    },
+    {
+      "titel": "Stromnetz auf Kuba bricht erneut zusammen",
+      "link": "https://www.spiegel.de/ausland/stromnetz-auf-kuba-bricht-erneut-zusammen-a-37ad78b5-f0cc-47c9-98ac-0651b5e9f3ac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-18T23:41:00+00:00"
+    },
     {
       "titel": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
       "link": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
@@ -43,14 +67,14 @@
       "veroeffentlicht": "2026-09-18T21:07:18+00:00"
     },
     {
-      "titel": "Jan Böhmermanns und das Ende vom »ZDF Magazin Royale«: Einer gegen alle. Und gegen sich selbst",
-      "link": "https://www.spiegel.de/kultur/tv/jan-boehmermanns-und-das-ende-vom-zdf-magazin-royale-einer-gegen-alle-und-gegen-sich-selbst-a-f7342479-2f44-44d4-acf9-a623013a3156#ref=rss",
+      "titel": "FC Bayern feiert zum Oktoberfest-Auftakt 7:0-Heimsieg",
+      "link": "https://www.spiegel.de/sport/fc-bayern-feiert-zum-oktoberfest-auftakt-7-0-heimsieg-a-28248ccc-c43f-4af0-8678-fcbeefd406de#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-18T21:05:00+00:00"
     },
     {
-      "titel": "FC Bayern feiert zum Oktoberfest-Auftakt 7:0-Heimsieg",
-      "link": "https://www.spiegel.de/sport/fc-bayern-feiert-zum-oktoberfest-auftakt-7-0-heimsieg-a-28248ccc-c43f-4af0-8678-fcbeefd406de#ref=rss",
+      "titel": "Jan Böhmermanns und das Ende vom »ZDF Magazin Royale«: Einer gegen alle. Und gegen sich selbst",
+      "link": "https://www.spiegel.de/kultur/tv/jan-boehmermanns-und-das-ende-vom-zdf-magazin-royale-einer-gegen-alle-und-gegen-sich-selbst-a-f7342479-2f44-44d4-acf9-a623013a3156#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-18T21:05:00+00:00"
     },
@@ -91,12 +115,6 @@
       "veroeffentlicht": "2026-09-18T19:24:00+00:00"
     },
     {
-      "titel": "Stimmung in Deutschland: »Ob ich die wähle oder die – es ändert sich nichts« - SPIEGEL TV",
-      "link": "https://www.spiegel.de/politik/stimmung-in-deutschland-ob-ich-die-waehle-oder-die-es-aendert-sich-nichts-spiegel-tv-a-6e2e1805-ec7f-4a80-bdd7-81c2c3ef167a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T18:37:00+00:00"
-    },
-    {
       "titel": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
       "quelle": "Tagesschau",
@@ -107,12 +125,6 @@
       "link": "https://www.sueddeutsche.de/sport/uefa-concacaf-geldforderung-fifa-wm-2026-li.3550351",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-18T18:17:54+00:00"
-    },
-    {
-      "titel": "Spritpreise: Bundesregierung einigt sich auf Tankrabatt und Preisdeckel",
-      "link": "https://www.spiegel.de/politik/deutschland/spritpreise-bundesregierung-einigt-sich-auf-tankrabatt-und-preisdeckel-a-3775ae88-a507-4222-b746-ef2b4b4e8a94#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T18:13:00+00:00"
     },
     {
       "titel": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
@@ -131,18 +143,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-18T17:03:15+00:00"
-    },
-    {
-      "titel": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
-      "link": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T17:02:36+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX gibt am großen Verfallstag nach",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T16:25:06+00:00"
     },
     {
       "titel": "Fernsehen: Böhmermann hört mit „ZDF Magazin Royale“ auf",
