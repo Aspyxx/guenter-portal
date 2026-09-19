@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-19T01:38:26+00:00",
+  "aktualisiert": "2026-09-19T06:40:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,82 +7,136 @@
   },
   "meldungen": [
     {
+      "titel": "Oktoberfest: Erste Wiesn-Besucher stehen schon Stunden vor Einlass Schlange",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesnstart-anstich-samstag-liveticker-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T06:13:20+00:00"
+    },
+    {
+      "titel": "Trump will CNN und andere Medien aus dem Weißen Haus verbannen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T06:08:18+00:00"
+    },
+    {
+      "titel": "USA: Donald Trump unterzeichnet Sanktionspaket gegen Russland",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-sanktionspaket-gegen-russland-a-17d79aa5-4d80-42c2-af3d-f5405bcc6162#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T05:42:00+00:00"
+    },
+    {
+      "titel": "Tankrabatt: Bundesregierung plant milliardenteure Beruhigungspille - Meinung",
+      "link": "https://www.spiegel.de/politik/deutschland/tankrabatt-bundesregierung-plant-milliardenteure-beruhigungspille-meinung-a-68a3c6cf-d150-42d9-8508-9ac1aa1f9b8b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T05:31:00+00:00"
+    },
+    {
+      "titel": "Tankrabatt – Benzin: Grüne kritisieren Tankrabatt als »Wahnsinn«",
+      "link": "https://www.spiegel.de/politik/deutschland/tankrabatt-benzin-gruene-kritisieren-tankrabatt-als-wahnsinn-a-0b9bd94f-9e0e-44fa-909c-4df06483aab6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T05:22:00+00:00"
+    },
+    {
+      "titel": "Kommunikation in der Beziehung: Neun typische Fallen – und wie Sie sie vermeiden",
+      "link": "https://www.spiegel.de/partnerschaft/kommunikation-in-der-beziehung-neun-typische-fallen-und-wie-sie-sie-vermeiden-a-34dbdbcf-945f-4d3d-8b91-f9e867bdadec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T05:16:00+00:00"
+    },
+    {
+      "titel": "80 Jahre DER SPIEGEL: Mehr Ex-Nazis als bisher bekannt arbeiteten in der Redaktion",
+      "link": "https://www.spiegel.de/kultur/literatur/80-jahre-der-spiegel-mehr-ex-nazis-als-bisher-bekannt-arbeiteten-in-der-redaktion-a-7bc40122-b970-48c2-aab9-4630445b035d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T05:16:00+00:00"
+    },
+    {
+      "titel": "AfD in Berlin: Was frustrierte Wähler im Osten der Stadt umtreibt",
+      "link": "https://www.spiegel.de/politik/afd-in-berlin-was-frustrierte-waehler-im-osten-der-stadt-umtreibt-a-39ebc89b-36a0-462a-9f83-c44ecafdca61#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T05:15:00+00:00"
+    },
+    {
+      "titel": "Studium: Wie sich der Anstieg der Semesterbeiträge bremsen ließe",
+      "link": "https://www.spiegel.de/start/studium-wie-sich-der-anstieg-der-semesterbeitraege-bremsen-liesse-a-654c1f0d-974b-4bbc-af74-ac4e7099363d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T05:11:00+00:00"
+    },
+    {
+      "titel": "Ulrich Siegmund: Warum für den Unternehmer der Staat der Feind ist",
+      "link": "https://www.spiegel.de/politik/deutschland/ulrich-siegmund-warum-fuer-den-unternehmer-der-staat-der-feind-ist-a-473b5ee1-5ad3-4e30-b2fd-38cfa72ad6e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T05:03:00+00:00"
+    },
+    {
+      "titel": "Nach Machtmissbrauch-Vorwürfen gegen den alten Intendanten: Will der neue die Salzburger Festspiele etwa in die Neunzigerjahre zurückführen?",
+      "link": "https://www.spiegel.de/kultur/nach-machtmissbrauch-vorwuerfen-gegen-den-alten-intendanten-will-der-neue-die-salzburger-festspiele-etwa-in-die-neunzigerjahre-zurueckfuehren-a-8c33e714-2049-4cf0-aaca-fb974301afda#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T04:24:00+00:00"
+    },
+    {
+      "titel": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-wahlen-berlin-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T03:14:59+00:00"
+    },
+    {
+      "titel": "Radikalisierung von Jugendlichen: Die Macht der Islamisten im Netz",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/islamismus-radikalisierung-social-media-gaming-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T03:10:46+00:00"
+    },
+    {
+      "titel": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T03:09:49+00:00"
+    },
+    {
+      "titel": "Oktoberfest beginnt - München für zwei Wochen in Feierlaune",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T03:04:33+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Kritik an Spritpreis-Entlastungspaket von Bund und Ländern",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-tankrabatt-bundesregierung-kritik-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T03:03:20+00:00"
+    },
+    {
+      "titel": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T02:05:33+00:00"
+    },
+    {
+      "titel": "Fernsehen: War doch nur Spaß, oder?",
+      "link": "https://www.sueddeutsche.de/medien/jan-boehmermann-zdf-magazin-royale-fernsehen-li.3550343",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T02:04:09+00:00"
+    },
+    {
+      "titel": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T01:44:22+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Googles KI Gemini hackte ebenfalls andere Unternehmen",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-google-gemini-probleme-zwischenfaelle-li.3547133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T01:43:27+00:00"
+    },
+    {
       "titel": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
       "link": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-19T00:52:21+00:00"
     },
     {
-      "titel": "Durchsuchung bei Mitarbeiter einer AfD-Spitzenkandidatin in Berlin",
-      "link": "https://www.spiegel.de/politik/durchsuchung-bei-mitarbeiter-einer-afd-spitzenkandidatin-in-berlin-a-49aa3dfd-d48f-4085-b620-c04997559841#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T00:34:00+00:00"
-    },
-    {
-      "titel": "Dänemark und USA verkünden Durchbruch im Grönland-Streit",
+      "titel": "Dänemark und USA verkünden Einigung im Grönland-Streit",
       "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-18T23:54:48+00:00"
-    },
-    {
-      "titel": "Stromnetz auf Kuba bricht erneut zusammen",
-      "link": "https://www.spiegel.de/ausland/stromnetz-auf-kuba-bricht-erneut-zusammen-a-37ad78b5-f0cc-47c9-98ac-0651b5e9f3ac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T23:41:00+00:00"
-    },
-    {
-      "titel": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T22:40:52+00:00"
-    },
-    {
-      "titel": "Dänemark und USA verkünden Einigung im Grönland-Streit",
-      "link": "https://www.spiegel.de/ausland/daenemark-und-usa-verkuenden-einigung-im-groenland-streit-a-3b1862ed-e331-4dde-8265-e5ec805254b6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T22:16:00+00:00"
-    },
-    {
-      "titel": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T22:00:25+00:00"
-    },
-    {
-      "titel": "Tankrabatt: Bundesregierung plant milliardenteure Beruhigungspille - Meinung",
-      "link": "https://www.spiegel.de/politik/deutschland/tankrabatt-bundesregierung-plant-milliardenteure-beruhigungspille-meinung-a-68a3c6cf-d150-42d9-8508-9ac1aa1f9b8b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T21:59:00+00:00"
-    },
-    {
-      "titel": "Donald Trump Jr. wird laut seinem Vater Kosten für Hochzeitsfeier an russischen Oligarchen zurückerstatten",
-      "link": "https://www.spiegel.de/ausland/donald-trump-jr-wird-laut-seinem-vater-kosten-fuer-hochzeitsfeier-an-russischen-oligarchen-zurueckerstatten-a-70c4e154-6a23-4937-ae39-c8666f8bc94d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T21:33:00+00:00"
-    },
-    {
-      "titel": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T21:07:18+00:00"
-    },
-    {
-      "titel": "FC Bayern feiert zum Oktoberfest-Auftakt 7:0-Heimsieg",
-      "link": "https://www.spiegel.de/sport/fc-bayern-feiert-zum-oktoberfest-auftakt-7-0-heimsieg-a-28248ccc-c43f-4af0-8678-fcbeefd406de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T21:05:00+00:00"
-    },
-    {
-      "titel": "Jan Böhmermanns und das Ende vom »ZDF Magazin Royale«: Einer gegen alle. Und gegen sich selbst",
-      "link": "https://www.spiegel.de/kultur/tv/jan-boehmermanns-und-das-ende-vom-zdf-magazin-royale-einer-gegen-alle-und-gegen-sich-selbst-a-f7342479-2f44-44d4-acf9-a623013a3156#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T21:05:00+00:00"
-    },
-    {
-      "titel": "Spritpreise: Erst Tankrabatt, dann Preisdeckel für Autofahrer und Wirtschaft",
-      "link": "https://www.spiegel.de/wirtschaft/spritpreise-erst-tankrabatt-dann-preisdeckel-fuer-autofahrer-und-wirtschaft-a-463af428-fe71-48b1-b253-c740334f6116#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T20:57:00+00:00"
     },
     {
       "titel": "Sieg gegen Union Berlin: Die Bayern blasen ihre Torflaute fort",
@@ -109,64 +163,10 @@
       "veroeffentlicht": "2026-09-18T19:34:00+00:00"
     },
     {
-      "titel": "USA: Trump will CNN, »Politico« und MS Now aus Weißem Haus verbannen",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-trump-droht-cnn-politico-und-ms-now-mit-rauswurf-aus-weissem-haus-a-769d6181-a95e-4da8-8f87-50dbc5b3950d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-18T19:24:00+00:00"
-    },
-    {
-      "titel": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T18:30:08+00:00"
-    },
-    {
       "titel": "Sportpolitik: Uefa und Concacaf erhöhen Druck auf Fifa-Präsident Infantino",
       "link": "https://www.sueddeutsche.de/sport/uefa-concacaf-geldforderung-fifa-wm-2026-li.3550351",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-18T18:17:54+00:00"
-    },
-    {
-      "titel": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
-      "link": "https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T17:42:39+00:00"
-    },
-    {
-      "titel": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T17:22:37+00:00"
-    },
-    {
-      "titel": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T17:03:15+00:00"
-    },
-    {
-      "titel": "Fernsehen: Böhmermann hört mit „ZDF Magazin Royale“ auf",
-      "link": "https://www.sueddeutsche.de/medien/boehmermann-zdf-magazin-royale-li.3550325",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T15:55:49+00:00"
-    },
-    {
-      "titel": "Radsport: Extremsportler Max Riese tödlich verunglückt",
-      "link": "https://www.sueddeutsche.de/panorama/max-riese-radsport-unfall-tod-li.3550197",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T15:30:15+00:00"
-    },
-    {
-      "titel": "Youtuber MrBeast: Ja, möchte mich denn niemand lesen?",
-      "link": "https://www.sueddeutsche.de/panorama/mrbeast-buch-roman-the-most-dangerous-games-kritiken-verkaeufe-li.3548833",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T15:17:32+00:00"
-    },
-    {
-      "titel": "Pop: Wie etwas Unmögliches",
-      "link": "https://www.sueddeutsche.de/kultur/catherine-ringer-nachruf-frankreich-punk-li.3550005",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T15:01:39+00:00"
     }
   ]
 }
