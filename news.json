@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-19T06:40:03+00:00",
+  "aktualisiert": "2026-09-19T11:35:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,70 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Oktoberfest: Erste Wiesn-Besucher stehen schon Stunden vor Einlass Schlange",
+      "titel": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T11:30:18+00:00"
+    },
+    {
+      "titel": "Wiesn: Krause zapft mit zwei Schlägen an – welche Promis mit ihm am Tisch sitzen",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesnstart-anstich-samstag-liveticker-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T06:13:20+00:00"
+      "veroeffentlicht": "2026-09-19T11:25:00+00:00"
+    },
+    {
+      "titel": "Was ist über das mögliche Grönland-Abkommen bekannt?",
+      "link": "https://www.tagesschau.de/ausland/amerika/groenland-abkommen-usa-daenemark-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T11:02:09+00:00"
+    },
+    {
+      "titel": "Nordkorea: Unterirdische Atomtests lösen noch Jahre später Erdbeben aus",
+      "link": "https://www.spiegel.de/wissenschaft/nordkorea-unterirdische-atomtests-loesen-noch-jahre-spaeter-erdbeben-aus-a-238a7eac-d1ff-4324-9dfb-b66d2a90c0ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:59:00+00:00"
+    },
+    {
+      "titel": "Sandro Mazzola ist tot: Der Maestro – Nachruf auf eine Inter-Legende",
+      "link": "https://www.spiegel.de/sport/fussball/sandro-mazzola-ist-tot-der-maestro-nachruf-auf-eine-inter-legende-a-696be2d4-1461-4c9f-9495-05e08217f4e2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:56:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Söders einstiges Schreckensbild ist jetzt Realität geworden",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-anzapfen-dominik-krause-markus-soeder-li.3545959",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T10:55:18+00:00"
+    },
+    {
+      "titel": "Oktoberfest-Anstich in Bildern: Zähes Warten, „Wiesn-Run“ – und dann ein Krause-Plan, der aufgeht",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-wiesnstart-samstag-bilder-li.3545965",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T10:52:17+00:00"
+    },
+    {
+      "titel": "Helga-Maria Schmid: Die Top-Diplomatin über die Kunst des Verhandelns",
+      "link": "https://www.spiegel.de/kultur/helga-maria-schmid-die-top-diplomatin-ueber-die-kunst-des-verhandelns-a-fe921914-0933-42e8-a416-7265e85e247b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:38:00+00:00"
+    },
+    {
+      "titel": "Berlin-Kreuzberg: Ein Mensch stirbt bei Feuer in Pflegeeinrichtung in Berlin",
+      "link": "https://www.spiegel.de/panorama/berlin-kreuzberg-ein-mensch-stirbt-bei-feuer-in-pflegeeinrichtung-in-berlin-a-e0a9bc7c-3cde-4c5d-8854-f24365a85ba1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:33:00+00:00"
+    },
+    {
+      "titel": "AfD in Berlin: Was frustrierte Wähler im Osten der Stadt umtreibt",
+      "link": "https://www.spiegel.de/politik/afd-in-berlin-was-frustrierte-waehler-im-osten-der-stadt-umtreibt-a-39ebc89b-36a0-462a-9f83-c44ecafdca61#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:32:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: 340 Drohnen-Vorfälle über Militärstützpunkten in zwölf Monaten",
+      "link": "https://www.spiegel.de/ausland/grossbritannien-340-drohnen-vorfaelle-ueber-militaerstuetzpunkten-in-zwoelf-monaten-a-c059942f-f3d9-44dc-9d2e-b7714a0d2ed8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:27:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Warum die Frauenfiguren am Teufelsrad jetzt Radlerhosen tragen",
+      "link": "https://www.spiegel.de/politik/deutschland/oktoberfest-warum-die-frauenfiguren-am-teufelsrad-jetzt-radlerhosen-tragen-a-b60130cc-2037-4e6d-afd0-f507f4527482#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:18:00+00:00"
+    },
+    {
+      "titel": "FC Bayern München: Sieben besondere Tore die zeigen, was diese Bayern ausmacht",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieben-besondere-tore-die-zeigen-was-diese-bayern-ausmacht-a-191479a3-b097-46bf-873c-360ea5da3e0d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:13:00+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T10:00:00+00:00"
+    },
+    {
+      "titel": "Abgeordnetenhauswahl: So lief der Wahlkampf in Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T09:17:23+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Hunderte demonstrieren gegen Kennedy-Center-Pläne Trumps – Foto zeigt ihn mit Abrissplänen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedy-center-abrissplaene-demonstration-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T09:12:00+00:00"
+    },
+    {
+      "titel": "Vier Kinofilme und eine neue Serie über die Beatles",
+      "link": "https://www.tagesschau.de/kultur/beatles-kino-serie-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T08:40:31+00:00"
+    },
+    {
+      "titel": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T08:18:52+00:00"
+    },
+    {
+      "titel": "Tankrabatt: Wieder begeht die Koalition alte Fehler",
+      "link": "https://www.sueddeutsche.de/meinung/tankrabatt-spritpreise-bundesregierung-kommentar-li.3550373",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T06:18:11+00:00"
     },
     {
       "titel": "Trump will CNN und andere Medien aus dem Weißen Haus verbannen",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-19T06:08:18+00:00"
-    },
-    {
-      "titel": "USA: Donald Trump unterzeichnet Sanktionspaket gegen Russland",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-sanktionspaket-gegen-russland-a-17d79aa5-4d80-42c2-af3d-f5405bcc6162#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T05:42:00+00:00"
-    },
-    {
-      "titel": "Tankrabatt: Bundesregierung plant milliardenteure Beruhigungspille - Meinung",
-      "link": "https://www.spiegel.de/politik/deutschland/tankrabatt-bundesregierung-plant-milliardenteure-beruhigungspille-meinung-a-68a3c6cf-d150-42d9-8508-9ac1aa1f9b8b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T05:31:00+00:00"
-    },
-    {
-      "titel": "Tankrabatt – Benzin: Grüne kritisieren Tankrabatt als »Wahnsinn«",
-      "link": "https://www.spiegel.de/politik/deutschland/tankrabatt-benzin-gruene-kritisieren-tankrabatt-als-wahnsinn-a-0b9bd94f-9e0e-44fa-909c-4df06483aab6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T05:22:00+00:00"
-    },
-    {
-      "titel": "Kommunikation in der Beziehung: Neun typische Fallen – und wie Sie sie vermeiden",
-      "link": "https://www.spiegel.de/partnerschaft/kommunikation-in-der-beziehung-neun-typische-fallen-und-wie-sie-sie-vermeiden-a-34dbdbcf-945f-4d3d-8b91-f9e867bdadec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T05:16:00+00:00"
-    },
-    {
-      "titel": "80 Jahre DER SPIEGEL: Mehr Ex-Nazis als bisher bekannt arbeiteten in der Redaktion",
-      "link": "https://www.spiegel.de/kultur/literatur/80-jahre-der-spiegel-mehr-ex-nazis-als-bisher-bekannt-arbeiteten-in-der-redaktion-a-7bc40122-b970-48c2-aab9-4630445b035d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T05:16:00+00:00"
-    },
-    {
-      "titel": "AfD in Berlin: Was frustrierte Wähler im Osten der Stadt umtreibt",
-      "link": "https://www.spiegel.de/politik/afd-in-berlin-was-frustrierte-waehler-im-osten-der-stadt-umtreibt-a-39ebc89b-36a0-462a-9f83-c44ecafdca61#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T05:15:00+00:00"
-    },
-    {
-      "titel": "Studium: Wie sich der Anstieg der Semesterbeiträge bremsen ließe",
-      "link": "https://www.spiegel.de/start/studium-wie-sich-der-anstieg-der-semesterbeitraege-bremsen-liesse-a-654c1f0d-974b-4bbc-af74-ac4e7099363d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T05:11:00+00:00"
-    },
-    {
-      "titel": "Ulrich Siegmund: Warum für den Unternehmer der Staat der Feind ist",
-      "link": "https://www.spiegel.de/politik/deutschland/ulrich-siegmund-warum-fuer-den-unternehmer-der-staat-der-feind-ist-a-473b5ee1-5ad3-4e30-b2fd-38cfa72ad6e9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T05:03:00+00:00"
-    },
-    {
-      "titel": "Nach Machtmissbrauch-Vorwürfen gegen den alten Intendanten: Will der neue die Salzburger Festspiele etwa in die Neunzigerjahre zurückführen?",
-      "link": "https://www.spiegel.de/kultur/nach-machtmissbrauch-vorwuerfen-gegen-den-alten-intendanten-will-der-neue-die-salzburger-festspiele-etwa-in-die-neunzigerjahre-zurueckfuehren-a-8c33e714-2049-4cf0-aaca-fb974301afda#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T04:24:00+00:00"
     },
     {
       "titel": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
@@ -91,22 +145,10 @@
       "veroeffentlicht": "2026-09-19T03:09:49+00:00"
     },
     {
-      "titel": "Oktoberfest beginnt - München für zwei Wochen in Feierlaune",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T03:04:33+00:00"
-    },
-    {
       "titel": "Newsblog zur Bundespolitik: Kritik an Spritpreis-Entlastungspaket von Bund und Ländern",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-tankrabatt-bundesregierung-kritik-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T03:03:20+00:00"
-    },
-    {
-      "titel": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T02:05:33+00:00"
     },
     {
       "titel": "Fernsehen: War doch nur Spaß, oder?",
@@ -115,58 +157,16 @@
       "veroeffentlicht": "2026-09-19T02:04:09+00:00"
     },
     {
-      "titel": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T01:44:22+00:00"
-    },
-    {
       "titel": "Newsblog zu KI: Googles KI Gemini hackte ebenfalls andere Unternehmen",
       "link": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-google-gemini-probleme-zwischenfaelle-li.3547133",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T01:43:27+00:00"
     },
     {
-      "titel": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
-      "link": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T00:52:21+00:00"
-    },
-    {
-      "titel": "Dänemark und USA verkünden Einigung im Grönland-Streit",
-      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-18T23:54:48+00:00"
-    },
-    {
       "titel": "Sieg gegen Union Berlin: Die Bayern blasen ihre Torflaute fort",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-union-kane-olise-bundesliga-spielbericht-tore-tabelle-li.3550142",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-18T20:35:28+00:00"
-    },
-    {
-      "titel": "Wahlwochenende: Schicksalstage für Friedrich Merz",
-      "link": "https://www.sueddeutsche.de/politik/friedrich-merz-cdu-wahlen-mecklenburg-vorpommern-berlin-li.3549855",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T20:28:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Trump verbietet CNN, Politico und MS Now Zugang zum Weißen Haus",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-cnn-politico-weisses-haus-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T19:48:00+00:00"
-    },
-    {
-      "titel": "Energiepreise: Neuer Tankrabatt soll kommen",
-      "link": "https://www.sueddeutsche.de/politik/tankrabatt-preisdeckel-benzin-deutschland-spritpreise-li.3550202",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T19:34:00+00:00"
-    },
-    {
-      "titel": "Sportpolitik: Uefa und Concacaf erhöhen Druck auf Fifa-Präsident Infantino",
-      "link": "https://www.sueddeutsche.de/sport/uefa-concacaf-geldforderung-fifa-wm-2026-li.3550351",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T18:17:54+00:00"
     }
   ]
 }
