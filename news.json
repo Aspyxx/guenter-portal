@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-19T11:35:16+00:00",
+  "aktualisiert": "2026-09-19T14:49:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -10,13 +10,103 @@
       "titel": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T11:30:18+00:00"
+      "veroeffentlicht": "2026-09-19T14:45:04+00:00"
     },
     {
-      "titel": "Wiesn: Krause zapft mit zwei Schlägen an – welche Promis mit ihm am Tisch sitzen",
+      "titel": "Fettleber: Warum so viele betroffen sind – und wie die Leber heilen kann",
+      "link": "https://www.spiegel.de/gesundheit/fettleber-warum-so-viele-betroffen-sind-und-wie-die-leber-heilen-kann-a-e65d42ff-edcd-4c55-a593-768cbd313bc8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T14:42:00+00:00"
+    },
+    {
+      "titel": "Österreich: Sie wurde mit 5000 Penisbildern per Whatsapp belästigt – ganz legal– Podcast",
+      "link": "https://www.spiegel.de/ausland/oesterreich-sie-wurde-mit-5000-penisbildern-per-whatsapp-belaestigt-ganz-legal-podcast-a-95f12f10-06f4-4204-a1b2-d540643fd227#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T14:41:00+00:00"
+    },
+    {
+      "titel": "Strafen im alten China: Forscher finden Skelett mit abgeschlagener Nase",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/strafen-im-alten-china-forscher-finden-skelett-mit-abgeschlagener-nase-a-0528bc80-4b1d-42dd-8d71-41f35fe2b616#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T14:16:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: Weißes Haus verwehrt Fernsehjournalisten von MS NOW den Zugang",
+      "link": "https://www.spiegel.de/ausland/donald-trump-weisses-haus-verwehrt-fernsehjournalisten-von-ms-now-den-zugang-a-5764ff07-67e0-44e2-8005-5d54860dfa2e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T14:09:00+00:00"
+    },
+    {
+      "titel": "Türkei: Niemand kann sich mehr sicher fühlen - Gastbeitrag",
+      "link": "https://www.spiegel.de/ausland/tuerkei-niemand-kann-sich-mehr-sicher-fuehlen-gastbeitrag-a-b86481f0-f10b-4bc8-a516-e959cd431ca9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T14:06:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Erste Zelte geschlossen – Panne bei Fahrgeschäft",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesnstart-anstich-samstag-liveticker-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T11:25:00+00:00"
+      "veroeffentlicht": "2026-09-19T13:46:00+00:00"
+    },
+    {
+      "titel": "Verdächtige Hilfsbereitschaft: Wer wird denn gleich misstrauisch?",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/verdaechtige-hilfsbereitschaft-wer-wird-denn-gleich-misstrauisch-a-119b2a70-2551-4c8c-b6f6-532ddbe5d876#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T13:35:00+00:00"
+    },
+    {
+      "titel": "»Pressure« im Faktencheck: War es eine Wetterprognose, die über den Erfolg des D-Day entschied?",
+      "link": "https://www.spiegel.de/geschichte/pressure-im-faktencheck-war-es-eine-wetterprognose-die-ueber-den-erfolg-des-d-day-entschied-a-fcddd879-2d2e-4511-8a64-eca2b111fcef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T13:35:00+00:00"
+    },
+    {
+      "titel": "KI-Warnung: Donald Trump ist die Börsenparty wichtiger als das Überleben der Menschheit",
+      "link": "https://www.spiegel.de/ausland/ki-warnung-donald-trump-ist-die-boersenparty-wichtiger-als-das-ueberleben-der-menschheit-a-be3c1832-606f-4577-bd15-0cf8f038431f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T13:25:00+00:00"
+    },
+    {
+      "titel": "Chor aus Ghana in Sachsen-Anhalt: »Wir lieben Germany« – und Magdeburg liebt sie",
+      "link": "https://www.spiegel.de/panorama/chor-aus-ghana-in-sachsen-anhalt-wir-lieben-germany-und-magdeburg-liebt-sie-a-9c600eea-2332-4ced-be7c-8350965e89d7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T13:19:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest-Anstich in Bildern: Zähes Warten, „Wiesn-Run“ – und dann ein Krause-Plan, der aufgeht",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-wiesnstart-samstag-bilder-li.3545965",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T13:12:00+00:00"
+    },
+    {
+      "titel": "Auch Googles KI hackte Unternehmen",
+      "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T13:09:00+00:00"
+    },
+    {
+      "titel": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
+      "link": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T13:08:46+00:00"
+    },
+    {
+      "titel": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T12:39:46+00:00"
+    },
+    {
+      "titel": "Wie sich Lokaljournalismus weiterentwickelt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T12:20:39+00:00"
+    },
+    {
+      "titel": "FC Bayern nach dem 7:0 gegen Union Berlin: Vier Festreden und ein Sonderurlaub",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-union-kane-olise-li.3549823",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T11:22:27+00:00"
     },
     {
       "titel": "Was ist über das mögliche Grönland-Abkommen bekannt?",
@@ -25,70 +115,10 @@
       "veroeffentlicht": "2026-09-19T11:02:09+00:00"
     },
     {
-      "titel": "Nordkorea: Unterirdische Atomtests lösen noch Jahre später Erdbeben aus",
-      "link": "https://www.spiegel.de/wissenschaft/nordkorea-unterirdische-atomtests-loesen-noch-jahre-spaeter-erdbeben-aus-a-238a7eac-d1ff-4324-9dfb-b66d2a90c0ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:59:00+00:00"
-    },
-    {
-      "titel": "Sandro Mazzola ist tot: Der Maestro – Nachruf auf eine Inter-Legende",
-      "link": "https://www.spiegel.de/sport/fussball/sandro-mazzola-ist-tot-der-maestro-nachruf-auf-eine-inter-legende-a-696be2d4-1461-4c9f-9495-05e08217f4e2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:56:00+00:00"
-    },
-    {
       "titel": "Oktoberfest: Söders einstiges Schreckensbild ist jetzt Realität geworden",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-anzapfen-dominik-krause-markus-soeder-li.3545959",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T10:55:18+00:00"
-    },
-    {
-      "titel": "Oktoberfest-Anstich in Bildern: Zähes Warten, „Wiesn-Run“ – und dann ein Krause-Plan, der aufgeht",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-wiesnstart-samstag-bilder-li.3545965",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T10:52:17+00:00"
-    },
-    {
-      "titel": "Helga-Maria Schmid: Die Top-Diplomatin über die Kunst des Verhandelns",
-      "link": "https://www.spiegel.de/kultur/helga-maria-schmid-die-top-diplomatin-ueber-die-kunst-des-verhandelns-a-fe921914-0933-42e8-a416-7265e85e247b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:38:00+00:00"
-    },
-    {
-      "titel": "Berlin-Kreuzberg: Ein Mensch stirbt bei Feuer in Pflegeeinrichtung in Berlin",
-      "link": "https://www.spiegel.de/panorama/berlin-kreuzberg-ein-mensch-stirbt-bei-feuer-in-pflegeeinrichtung-in-berlin-a-e0a9bc7c-3cde-4c5d-8854-f24365a85ba1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:33:00+00:00"
-    },
-    {
-      "titel": "AfD in Berlin: Was frustrierte Wähler im Osten der Stadt umtreibt",
-      "link": "https://www.spiegel.de/politik/afd-in-berlin-was-frustrierte-waehler-im-osten-der-stadt-umtreibt-a-39ebc89b-36a0-462a-9f83-c44ecafdca61#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:32:00+00:00"
-    },
-    {
-      "titel": "Großbritannien: 340 Drohnen-Vorfälle über Militärstützpunkten in zwölf Monaten",
-      "link": "https://www.spiegel.de/ausland/grossbritannien-340-drohnen-vorfaelle-ueber-militaerstuetzpunkten-in-zwoelf-monaten-a-c059942f-f3d9-44dc-9d2e-b7714a0d2ed8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:27:00+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Warum die Frauenfiguren am Teufelsrad jetzt Radlerhosen tragen",
-      "link": "https://www.spiegel.de/politik/deutschland/oktoberfest-warum-die-frauenfiguren-am-teufelsrad-jetzt-radlerhosen-tragen-a-b60130cc-2037-4e6d-afd0-f507f4527482#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:18:00+00:00"
-    },
-    {
-      "titel": "FC Bayern München: Sieben besondere Tore die zeigen, was diese Bayern ausmacht",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieben-besondere-tore-die-zeigen-was-diese-bayern-ausmacht-a-191479a3-b097-46bf-873c-360ea5da3e0d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:13:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T10:00:00+00:00"
     },
     {
       "titel": "Abgeordnetenhauswahl: So lief der Wahlkampf in Berlin",
@@ -109,12 +139,6 @@
       "veroeffentlicht": "2026-09-19T08:40:31+00:00"
     },
     {
-      "titel": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T08:18:52+00:00"
-    },
-    {
       "titel": "Tankrabatt: Wieder begeht die Koalition alte Fehler",
       "link": "https://www.sueddeutsche.de/meinung/tankrabatt-spritpreise-bundesregierung-kommentar-li.3550373",
       "quelle": "Süddeutsche",
@@ -125,24 +149,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-19T06:08:18+00:00"
-    },
-    {
-      "titel": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-wahlen-berlin-mecklenburg-vorpommern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T03:14:59+00:00"
-    },
-    {
-      "titel": "Radikalisierung von Jugendlichen: Die Macht der Islamisten im Netz",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/islamismus-radikalisierung-social-media-gaming-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T03:10:46+00:00"
-    },
-    {
-      "titel": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T03:09:49+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Kritik an Spritpreis-Entlastungspaket von Bund und Ländern",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-google-gemini-probleme-zwischenfaelle-li.3547133",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T01:43:27+00:00"
-    },
-    {
-      "titel": "Sieg gegen Union Berlin: Die Bayern blasen ihre Torflaute fort",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-union-kane-olise-bundesliga-spielbericht-tore-tabelle-li.3550142",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-18T20:35:28+00:00"
     }
   ]
 }
