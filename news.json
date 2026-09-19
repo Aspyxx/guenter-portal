@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-09-19T20:43:05+00:00",
+  "aktualisiert": "2026-09-19T22:30:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Peta-Protest: US-Modeverbandschef Steven Kolb nach Angriff auf Aktivisten zurückgetreten",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/peta-protest-us-modeverbandschef-steven-kolb-nach-angriff-auf-aktivisten-zurueckgetreten-a-08d3b14e-aa6f-4427-bd00-faa97d50e424#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T22:02:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Wiesn-Gast bricht sich beim Armdrücken den Arm",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/oktoberfest-wiesn-gast-bricht-sich-beim-armdruecken-den-arm-a-7583b55e-29dd-4a9c-8e22-59b19fd5f6d6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T20:52:00+00:00"
+    },
     {
       "titel": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien haben Wahlkampf beendet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
@@ -49,14 +61,14 @@
       "veroeffentlicht": "2026-09-19T19:03:21+00:00"
     },
     {
-      "titel": "BookTok: Warum deutsche Buchcover so anders aussehen als die Originale",
-      "link": "https://www.spiegel.de/kultur/booktok-warum-deutsche-buchcover-so-anders-aussehen-als-die-originale-a-ddee631c-3bc9-41a2-80cf-eb22bd73b7eb#ref=rss",
+      "titel": "Céline Dion-Comeback: Wie mir der Superstar den Glauben an das Gute zurückgab - Kolumne",
+      "link": "https://www.spiegel.de/ausland/celine-dion-comeback-wie-mir-der-superstar-den-glauben-an-das-gute-zurueckgab-kolumne-a-68d88281-f04e-45ce-8a31-c2e5653f34b5#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-19T18:36:00+00:00"
     },
     {
-      "titel": "Céline Dion-Comeback: Wie mir der Superstar den Glauben an das Gute zurückgab - Kolumne",
-      "link": "https://www.spiegel.de/ausland/celine-dion-comeback-wie-mir-der-superstar-den-glauben-an-das-gute-zurueckgab-kolumne-a-68d88281-f04e-45ce-8a31-c2e5653f34b5#ref=rss",
+      "titel": "BookTok: Warum deutsche Buchcover so anders aussehen als die Originale",
+      "link": "https://www.spiegel.de/kultur/booktok-warum-deutsche-buchcover-so-anders-aussehen-als-die-originale-a-ddee631c-3bc9-41a2-80cf-eb22bd73b7eb#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-19T18:36:00+00:00"
     },
@@ -71,18 +83,6 @@
       "link": "https://www.sueddeutsche.de/politik/ki-newsblog-trump-usa-sicherheit-li.3547133",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T18:31:15+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: VfB Stuttgart verliert gegen Borussia Dortmund durch Maximilian Beier",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-verliert-gegen-borussia-dortmund-durch-maximilian-beier-a-14cd9bf5-37bb-4eef-868c-725359e4cd84#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T18:30:00+00:00"
-    },
-    {
-      "titel": "Carsten Breuer zur Nato: Politiker fordern rasche Neubesetzung an der Bundeswehr-Spitze",
-      "link": "https://www.spiegel.de/politik/carsten-breuer-zur-nato-politiker-fordern-rasche-neubesetzung-an-der-bundeswehr-spitze-a-4ec61e4f-dd93-4440-9b16-dc8d1d975673#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T18:23:00+00:00"
     },
     {
       "titel": "Duma-Wahl: Warum Snegowskij keine Chance gegen Tolstoj hat",
