@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-19T11:39:30+00:00",
+  "aktualisiert": "2026-09-19T14:53:22+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Oberbürgermeister München",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Was ist über das mögliche Grönland-Abkommen bekannt?",
       "link": "https://www.tagesschau.de/ausland/amerika/groenland-abkommen-usa-daenemark-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Bundestagswahl",
       "link": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
       "quelle": "Tagesschau",
       "icon": "🗳️"
+    },
+    {
+      "rang": 3,
+      "titel": "Auch Googles KI hackte Unternehmen",
+      "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
