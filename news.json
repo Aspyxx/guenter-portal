@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-19T14:49:10+00:00",
+  "aktualisiert": "2026-09-19T18:03:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,112 @@
   },
   "meldungen": [
     {
+      "titel": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T17:58:34+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Experte Marcel Salathé hält die Weltuntergangs-Warnungen für übertrieben",
+      "link": "https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-experte-marcel-salathe-haelt-die-weltuntergangs-warnungen-fuer-uebertrieben-a-f168c58d-84ef-4b06-b07b-5e7b805d9a70#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T17:19:00+00:00"
+    },
+    {
+      "titel": "Borussia Mönchengladbach: „Bei wieder vier Gegentoren fällt es schwer, etwas schönzureden“",
+      "link": "https://www.sueddeutsche.de/sport/borussia-moenchengladbach-mainz-bundesliga-li.3550584",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T17:07:42+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Iran übermittelt USA Bedingungen für Kriegsende",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-bedingungen-kriegsende-uebermittlung-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T17:05:05+00:00"
+    },
+    {
+      "titel": "Promis auf dem Oktoberfest an Tag 1: Pocher und Kaiser, zum Anbeißen",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-promis-bilder-samstag-19-september-florian-silbereisen-claudia-obert-oliver-pocher-li.3549532",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T16:36:30+00:00"
+    },
+    {
+      "titel": "Oktoberfest-Eröffnung: „Manche haben gehofft, man würde sich vielleicht streiten, das Gegenteil ist der Fall“",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-wiesnstart-anzapfen-dominik-krause-markus-soeder-li.3545960",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T16:17:39+00:00"
+    },
+    {
+      "titel": "Mecklenburgische Seenplatte: 13-Jähriger stibitzt Auto, klaut Benzin und flieht vor Polizei",
+      "link": "https://www.spiegel.de/panorama/justiz/mecklenburgische-seenplatte-13-jaehriger-stibitzt-auto-klaut-benzin-und-flieht-vor-polizei-a-f4f7c333-ccbb-4715-bcd6-819b7b3cbbd5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T16:00:00+00:00"
+    },
+    {
+      "titel": "»The Social Reckoning«: Aaron Sorkin schreibt, bis die Nase bricht",
+      "link": "https://www.spiegel.de/kultur/kino/the-social-reckoning-aaron-sorkin-schreibt-bis-die-nase-bricht-a-360f7d4e-8f8d-47ba-8770-c65e10dc1f65#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T15:54:00+00:00"
+    },
+    {
+      "titel": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T15:53:33+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: CNN und „Politico“: Secret Service konfisziert Zutrittskarten fürs Weiße Haus",
+      "link": "https://www.sueddeutsche.de/politik/medien-zugang-weisses-haus-trump-journalismus-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T15:52:35+00:00"
+    },
+    {
+      "titel": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T15:46:45+00:00"
+    },
+    {
+      "titel": "Fußball-Bundesliga: Borussia Mönchengladbach verliert auch ihr viertes Saisonspiel und ist Letzter",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-verliert-auch-sein-viertes-saisonspiel-und-ist-letzter-a-1d622dad-54e1-4c51-b4e4-886ddb1d8373#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T15:46:00+00:00"
+    },
+    {
       "titel": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T14:45:04+00:00"
+      "veroeffentlicht": "2026-09-19T15:39:08+00:00"
+    },
+    {
+      "titel": "Nato: Carsten Breuer wird Vorsitzender von Militärausschuss",
+      "link": "https://www.spiegel.de/politik/nato-carsten-breuer-wird-vorsitzender-von-militaerausschuss-a-9959cc51-bbd3-4e74-8068-b56a3aba2308#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T15:27:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Auf die Solidarität der SPD sollte der Kanzler nicht hoffen",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-die-solidaritaet-der-spd-sollte-der-kanzler-nicht-hoffen-a-c094e759-256b-4bb2-a2d6-1cac34e4d70c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T15:08:00+00:00"
+    },
+    {
+      "titel": "2. Bundesliga: Sandro Wagner wird Trainer bei Hannover 96",
+      "link": "https://www.spiegel.de/sport/fussball/sandro-wagner-wird-trainer-bei-hannover-96-a-2e78d300-f6f1-416d-b8b0-63e9367731d3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T15:04:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Viele Zelte geschlossen – Panne bei Fahrgeschäft",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesnstart-anstich-samstag-liveticker-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-19T14:53:00+00:00"
+    },
+    {
+      "titel": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T14:52:46+00:00"
     },
     {
       "titel": "Fettleber: Warum so viele betroffen sind – und wie die Leber heilen kann",
@@ -19,58 +121,16 @@
       "veroeffentlicht": "2026-09-19T14:42:00+00:00"
     },
     {
-      "titel": "Österreich: Sie wurde mit 5000 Penisbildern per Whatsapp belästigt – ganz legal– Podcast",
+      "titel": "Österreich: Sie wurde mit 5000 Penisbildern per WhatsApp belästigt – ganz legal– Podcast",
       "link": "https://www.spiegel.de/ausland/oesterreich-sie-wurde-mit-5000-penisbildern-per-whatsapp-belaestigt-ganz-legal-podcast-a-95f12f10-06f4-4204-a1b2-d540643fd227#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-19T14:41:00+00:00"
     },
     {
-      "titel": "Strafen im alten China: Forscher finden Skelett mit abgeschlagener Nase",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/strafen-im-alten-china-forscher-finden-skelett-mit-abgeschlagener-nase-a-0528bc80-4b1d-42dd-8d71-41f35fe2b616#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T14:16:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: Weißes Haus verwehrt Fernsehjournalisten von MS NOW den Zugang",
-      "link": "https://www.spiegel.de/ausland/donald-trump-weisses-haus-verwehrt-fernsehjournalisten-von-ms-now-den-zugang-a-5764ff07-67e0-44e2-8005-5d54860dfa2e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T14:09:00+00:00"
-    },
-    {
-      "titel": "Türkei: Niemand kann sich mehr sicher fühlen - Gastbeitrag",
-      "link": "https://www.spiegel.de/ausland/tuerkei-niemand-kann-sich-mehr-sicher-fuehlen-gastbeitrag-a-b86481f0-f10b-4bc8-a516-e959cd431ca9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T14:06:00+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Erste Zelte geschlossen – Panne bei Fahrgeschäft",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesnstart-anstich-samstag-liveticker-li.3549371",
+      "titel": "Journalismus: Und raus bist du",
+      "link": "https://www.sueddeutsche.de/medien/usa-doepfner-trump-axel-springer-politico-weisses-haus-li.3550456",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T13:46:00+00:00"
-    },
-    {
-      "titel": "Verdächtige Hilfsbereitschaft: Wer wird denn gleich misstrauisch?",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/verdaechtige-hilfsbereitschaft-wer-wird-denn-gleich-misstrauisch-a-119b2a70-2551-4c8c-b6f6-532ddbe5d876#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T13:35:00+00:00"
-    },
-    {
-      "titel": "»Pressure« im Faktencheck: War es eine Wetterprognose, die über den Erfolg des D-Day entschied?",
-      "link": "https://www.spiegel.de/geschichte/pressure-im-faktencheck-war-es-eine-wetterprognose-die-ueber-den-erfolg-des-d-day-entschied-a-fcddd879-2d2e-4511-8a64-eca2b111fcef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T13:35:00+00:00"
-    },
-    {
-      "titel": "KI-Warnung: Donald Trump ist die Börsenparty wichtiger als das Überleben der Menschheit",
-      "link": "https://www.spiegel.de/ausland/ki-warnung-donald-trump-ist-die-boersenparty-wichtiger-als-das-ueberleben-der-menschheit-a-be3c1832-606f-4577-bd15-0cf8f038431f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T13:25:00+00:00"
-    },
-    {
-      "titel": "Chor aus Ghana in Sachsen-Anhalt: »Wir lieben Germany« – und Magdeburg liebt sie",
-      "link": "https://www.spiegel.de/panorama/chor-aus-ghana-in-sachsen-anhalt-wir-lieben-germany-und-magdeburg-liebt-sie-a-9c600eea-2332-4ced-be7c-8350965e89d7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T13:19:00+00:00"
+      "veroeffentlicht": "2026-09-19T13:35:06+00:00"
     },
     {
       "titel": "Oktoberfest-Anstich in Bildern: Zähes Warten, „Wiesn-Run“ – und dann ein Krause-Plan, der aufgeht",
@@ -103,70 +163,10 @@
       "veroeffentlicht": "2026-09-19T12:20:39+00:00"
     },
     {
-      "titel": "FC Bayern nach dem 7:0 gegen Union Berlin: Vier Festreden und ein Sonderurlaub",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-union-kane-olise-li.3549823",
+      "titel": "Bundespolitik: Die wichtigsten Fragen und Antworten zum Tankrabatt",
+      "link": "https://www.sueddeutsche.de/politik/tankrabatt-bundesregierung-deutschland-benzin-spritpreisdeckel-li.3550484",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T11:22:27+00:00"
-    },
-    {
-      "titel": "Was ist über das mögliche Grönland-Abkommen bekannt?",
-      "link": "https://www.tagesschau.de/ausland/amerika/groenland-abkommen-usa-daenemark-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T11:02:09+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Söders einstiges Schreckensbild ist jetzt Realität geworden",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-anzapfen-dominik-krause-markus-soeder-li.3545959",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T10:55:18+00:00"
-    },
-    {
-      "titel": "Abgeordnetenhauswahl: So lief der Wahlkampf in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T09:17:23+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Hunderte demonstrieren gegen Kennedy-Center-Pläne Trumps – Foto zeigt ihn mit Abrissplänen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedy-center-abrissplaene-demonstration-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T09:12:00+00:00"
-    },
-    {
-      "titel": "Vier Kinofilme und eine neue Serie über die Beatles",
-      "link": "https://www.tagesschau.de/kultur/beatles-kino-serie-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T08:40:31+00:00"
-    },
-    {
-      "titel": "Tankrabatt: Wieder begeht die Koalition alte Fehler",
-      "link": "https://www.sueddeutsche.de/meinung/tankrabatt-spritpreise-bundesregierung-kommentar-li.3550373",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T06:18:11+00:00"
-    },
-    {
-      "titel": "Trump will CNN und andere Medien aus dem Weißen Haus verbannen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T06:08:18+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Kritik an Spritpreis-Entlastungspaket von Bund und Ländern",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-tankrabatt-bundesregierung-kritik-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T03:03:20+00:00"
-    },
-    {
-      "titel": "Fernsehen: War doch nur Spaß, oder?",
-      "link": "https://www.sueddeutsche.de/medien/jan-boehmermann-zdf-magazin-royale-fernsehen-li.3550343",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T02:04:09+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: Googles KI Gemini hackte ebenfalls andere Unternehmen",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-google-gemini-probleme-zwischenfaelle-li.3547133",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T01:43:27+00:00"
+      "veroeffentlicht": "2026-09-19T12:10:27+00:00"
     }
   ]
 }
