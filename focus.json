@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-18T23:51:14+00:00",
+  "aktualisiert": "2026-09-19T01:49:07+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Grönland",
+      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Es ist etwas in Bewegung gekommen",
       "link": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Was plant Koalition jetzt gegen die Spritpreise?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
-      "link": "https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
