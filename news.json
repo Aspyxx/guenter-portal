@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-20T10:08:14+00:00",
+  "aktualisiert": "2026-09-20T14:14:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "++ Liveticker zur Berlin-Wahl: Auch SPD-Spitzenkandidat Krach an der Urne ++",
+      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Wahlbeteiligung voraussichtlich höher als 2021 ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T14:01:21+00:00"
+    },
+    {
+      "titel": "++ Liveticker zur Berlin-Wahl: Hohe Wahlbeteiligung zeichnet sich ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T09:58:24+00:00"
+      "veroeffentlicht": "2026-09-20T14:00:23+00:00"
     },
     {
-      "titel": "DFB: Deniz Undav war von Nicht-Nominierung von Jürgen Klopp überrascht",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-deniz-undav-war-von-nicht-nominierung-von-juergen-klopp-ueberrascht-a-95dc76c2-7283-41f9-b755-dd405afc1d3f#ref=rss",
+      "titel": "Brandenburg: Waffenfund in Keller – Anwohner in Rathenow evakuiert",
+      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-waffenfund-in-keller-anwohner-in-rathenow-evakuiert-a-7630fa91-6f85-4ab7-ae92-f6a4047e5db6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T09:41:00+00:00"
+      "veroeffentlicht": "2026-09-20T13:57:00+00:00"
     },
     {
-      "titel": "Warum die Nazi-Kartei ein Wendepunkt des Gedenkens in Deutschland ist",
-      "link": "https://www.spiegel.de/geschichte/warum-die-nazi-kartei-ein-wendepunkt-des-gedenkens-in-deutschland-ist-a-a479b43f-5a2d-4e1e-90c5-0d75442ef0ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T09:41:00+00:00"
+      "titel": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T13:46:29+00:00"
     },
     {
-      "titel": "Frankfurt am Main: Mitarbeiter von Abschleppdienst beschossen",
-      "link": "https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mitarbeiter-von-abschleppdienst-beschossen-a-95724d54-73a9-48bb-b1f2-128aa8353d4c#ref=rss",
+      "titel": "Hamburg: Sperrung auf A1 sorgt für Staus in Richtung Süden",
+      "link": "https://www.spiegel.de/panorama/hamburg-sperrung-auf-a1-sorgt-fuer-staus-in-richtung-sueden-a-acd3badd-f131-4063-a20e-c7e9ecc9f638#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T09:34:00+00:00"
+      "veroeffentlicht": "2026-09-20T13:39:00+00:00"
+    },
+    {
+      "titel": "SPIEGEL-Datenprojekt Babynächte: Mein Mann schlummerte neben dem schreienden Baby",
+      "link": "https://www.spiegel.de/familie/spiegel-datenprojekt-babynaechte-mein-mann-schlummerte-neben-dem-schreienden-baby-a-64a1a29e-1563-40c3-82fd-4eef5fa40e62#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T13:37:00+00:00"
+    },
+    {
+      "titel": "Sri Lanka: Mönche beten aus der Luft für Regen in Dürregebiet",
+      "link": "https://www.spiegel.de/panorama/sri-lanka-moenche-beten-aus-der-luft-fuer-regen-in-duerregebiet-a-dfb65c15-ec51-46ce-aa8b-251311b2c21a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T13:36:00+00:00"
+    },
+    {
+      "titel": "US-Präsident Thomas Jefferson zeugte Kinder mit seiner Sklavin",
+      "link": "https://www.spiegel.de/geschichte/us-praesident-thomas-jefferson-zeugte-kinder-mit-seiner-sklavin-a-3d62b785-648a-4d5d-829f-512e452a635b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T13:34:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Kreislaufprobleme: OB Dominik Krause muss Auftritt am Gay Sunday absagen",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-sonntag-liveticker-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T13:12:00+00:00"
+    },
+    {
+      "titel": "FC Bayern auf dem Oktoberfest: Fußball-Stars mit Skibrille und Wollmütze",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-fc-bayern-muenchen-wiesn-harry-kane-fussball-stars-li.3549540",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T13:10:07+00:00"
+    },
+    {
+      "titel": "Donald Trump will aus seinem Triumphbogen plötzlich einen Militärkomplex machen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-will-aus-seinem-triumphbogen-ploetzlich-einen-militaerkomplex-machen-a-1d038789-4998-471e-97a3-bd6479ee99f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T13:07:00+00:00"
+    },
+    {
+      "titel": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T13:02:26+00:00"
+    },
+    {
+      "titel": "Bildung: Mediziner Mahmut Yüksel über Ungleichheit - »Mein Potenzial wurde nicht gesehen«",
+      "link": "https://www.spiegel.de/panorama/bildung/bildung-mediziner-mahmut-yueksel-ueber-ungleichheit-mein-potenzial-wurde-nicht-gesehen-a-d74b6fe9-721b-4b9f-915e-8225014afbc1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T13:00:00+00:00"
+    },
+    {
+      "titel": "Trump verkündet Einigung: Neues, altes Abkommen mit Grönland",
+      "link": "https://www.sueddeutsche.de/politik/usa-daenemark-verteidigungsabkommen-groenland-li.3550725",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T12:53:01+00:00"
+    },
+    {
+      "titel": "Darts: Luke Littler erwägt Boykott von Turnieren in den Niederlanden",
+      "link": "https://www.spiegel.de/sport/darts-luke-littler-erwaegt-boykott-von-turnieren-in-den-niederlanden-a-071500f7-f752-4902-8c5c-823f19da9480#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T12:53:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Wie Seelsorger Sascha Ellinghaus Schausteller auf der Wiesn begleitet",
+      "link": "https://www.spiegel.de/panorama/oktoberfest-wie-seelsorger-sascha-ellinghaus-schausteller-auf-der-wiesn-begleitet-a-c8afcd1a-f691-457a-8845-94349197b263#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T12:46:00+00:00"
+    },
+    {
+      "titel": "Brighton & Hove Albion in der Premier League: Die Seemöwen rupfen Arsenal",
+      "link": "https://www.sueddeutsche.de/sport/brighton-pascal-gross-arsenal-huerzeler-gross-premier-league-li.3550618",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T12:35:41+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Kleine Wahlpanne in Rostock: ein Bus als Wahllokal",
+      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-umfrage-wahllokale-rostock-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T12:17:18+00:00"
+    },
+    {
+      "titel": "Ludwig-Maximilians-Universität München von Hackerangriff betroffen",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-lmu-muenchen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T12:14:26+00:00"
+    },
+    {
+      "titel": "Kenias Präsident setzt auf Stimmung gegen Migranten",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T12:09:09+00:00"
+    },
+    {
+      "titel": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T11:59:35+00:00"
+    },
+    {
+      "titel": "Frankfurt gegen Freiburg: Klopps Motivationskur wirkt",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-eintracht-frankfurt-sc-freiburg-klopp-li.3550620",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T11:29:12+00:00"
+    },
+    {
+      "titel": "Krise in der Industrie: Nur beim Personal zu sparen, rettet die deutschen Autohersteller nicht",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vw-mercedes-bmw-china-trump-auto-autokonzerne-li.3548484",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T11:25:55+00:00"
+    },
+    {
+      "titel": "Verpflichtung von Sandro Wagner: Hannover 96 wird zum Pulverfässchen",
+      "link": "https://www.sueddeutsche.de/sport/hannover-96-trainer-sandro-wagner-boldt-kind-kommentar-li.3550734",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T11:20:15+00:00"
+    },
+    {
+      "titel": "Tabellenführer der Bundesliga: Der BVB, ein Verteidigungsmonster",
+      "link": "https://www.sueddeutsche.de/sport/bvb-stuttgart-kovac-beier-bundesliga-li.3550712",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T11:19:06+00:00"
     },
     {
       "titel": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
@@ -37,136 +163,10 @@
       "veroeffentlicht": "2026-09-20T09:33:43+00:00"
     },
     {
-      "titel": "Fall Scarlett: Fundstück könnte neue Spur im Vermisstenfall liefern",
-      "link": "https://www.spiegel.de/panorama/justiz/fall-scarlett-fundstueck-koennte-neue-spur-im-vermisstenfall-liefern-a-cdec57ae-71d8-4c19-a4d4-1b8d2bdc0dc1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T09:29:00+00:00"
-    },
-    {
-      "titel": "Für Kinder erklärt: Wer zähmt die KI?",
-      "link": "https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-wer-zaehmt-die-ki-a-73dda3fa-6d40-4d48-a6e3-1bce8aeee082#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T09:21:00+00:00"
-    },
-    {
-      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Holm hat schon abgestimmt++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T09:00:25+00:00"
-    },
-    {
       "titel": "Künstliche Intelligenz: US-Präsident Trump kündigt \"AI Force\" an",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ki-taskforce-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-20T08:58:11+00:00"
-    },
-    {
-      "titel": "Mittelstand: „Ich fand schon immer: Der Kleiderbügel ist unterbewertet“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/mawa-kleiderbuegelproduktion-billigkonkurrenz-mittelstand-li.3548063",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T08:55:28+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Was am zweiten Wiesn-Tag ansteht – Menschen hängen kopfüber in Fahrgeschäft fest",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-sonntag-liveticker-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T08:53:00+00:00"
-    },
-    {
-      "titel": "Tansania: Zehn Löwen in Naturschutzgebiet in tot aufgefunden – Vergiftungsverdacht",
-      "link": "https://www.spiegel.de/panorama/tansania-zehn-loewen-in-naturschutzgebiet-in-tot-aufgefunden-vergiftungsverdacht-a-bbc9a6de-824f-411d-b881-9c572cf9d2a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T08:52:00+00:00"
-    },
-    {
-      "titel": "Rätsel der Woche: Flächendifferenz gesucht",
-      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-flaechendifferenz-gesucht-a-43d8f9c0-d27c-4069-b6f6-b62d2bf60047#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T08:30:00+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: Der Hamburger SV hat nach dem Sieg gegen den 1. FC Köln noch Puls",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-hamburger-sv-hat-nach-dem-sieg-gegen-den-1-fc-koeln-noch-puls-a-3d368afc-d031-45be-b710-988ed993bb5f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T08:26:00+00:00"
-    },
-    {
-      "titel": "Gen Z: So viel arbeiten junge Menschen – die guten News der Woche",
-      "link": "https://www.spiegel.de/ausland/gen-z-so-viel-arbeiten-junge-menschen-die-guten-news-der-woche-a-5fd066a3-92ff-4e91-9b5a-94f775289f91#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T08:23:00+00:00"
-    },
-    {
-      "titel": "Fernsehen: Und wer bitteschön sollte das ZDF kaufen wollen?",
-      "link": "https://www.sueddeutsche.de/meinung/zdf-weimer-verkauf-rtl-fernsehen-kommentar-li.3549665",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T08:21:24+00:00"
-    },
-    {
-      "titel": "Hamburger SV: Zumindest eine bundesligataugliche Halbzeit",
-      "link": "https://www.sueddeutsche.de/sport/hamburger-sv-koeln-fussball-bundesliga-polzin-li.3550621",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T08:18:10+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Wirtschaftsweise Veronika Grimm hält Tankrabatt für „zynisch“",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-tankrabatt-bundesregierung-kritik-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T08:06:13+00:00"
-    },
-    {
-      "titel": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
-      "link": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T07:59:20+00:00"
-    },
-    {
-      "titel": "Promis auf dem Oktoberfest an Tag 1: Cavanis schlägt zu, die Geissens ganz zahm",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-promis-bilder-samstag-19-september-geissen-silbereisen-pocher-dj-oetzi-li.3549532",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T07:51:08+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Wahllokale in Berlin und Mecklenburg-Vorpommern geöffnet",
-      "link": "https://www.sueddeutsche.de/politik/mecklenburg-vorpommern-spd-afd-umfrage-berlin-wahllokale-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T06:37:20+00:00"
-    },
-    {
-      "titel": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
-      "link": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T05:57:07+00:00"
-    },
-    {
-      "titel": "Warum wir noch immer so viel Essen wegwerfen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T03:38:41+00:00"
-    },
-    {
-      "titel": "FAQ: Was Sie zur Wahl in Berlin wissen müssen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-abgeordnetenhauswahl-2026-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T03:38:24+00:00"
-    },
-    {
-      "titel": "Was zur Wahl in Mecklenburg-Vorpommern wichtig ist",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-wahl-mecklenburg-vorpommern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T03:38:16+00:00"
-    },
-    {
-      "titel": "Bremen-Comeback mit Weiser: Noch ein Märchen an der Weser",
-      "link": "https://www.sueddeutsche.de/sport/werder-bremen-bundesliga-augsburg-weiser-li.3550612",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T19:03:21+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: Trump kündigt „AI Force“ an",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-trump-usa-sicherheit-li.3547133",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T18:31:15+00:00"
     }
   ]
 }
