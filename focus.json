@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-20T07:09:42+00:00",
+  "aktualisiert": "2026-09-20T12:30:45+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "titel": "Rot Weiss Essen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
       "quelle": "Tagesschau",
-      "icon": "🗳️"
+      "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Der Wahlsieger steht wohl jetzt schon fest",
-      "link": "https://www.tagesschau.de/ausland/europa/duma-wahl-russland-100.html",
+      "titel": "Kenias Präsident setzt auf Stimmung gegen Migranten",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
-      "link": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
+      "titel": "Bundestagswahl",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🗳️"
     }
   ]
 }
