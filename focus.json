@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-20T16:33:07+00:00",
+  "aktualisiert": "2026-09-20T19:06:40+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Monster Netflix",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
+      "rang": 2,
       "titel": "Bundestagswahl",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
       "quelle": "Tagesschau",
       "icon": "🗳️"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Kenias Präsident setzt auf Stimmung gegen Migranten",
       "link": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 3,
-      "titel": "Wann wird es wie eng für den Kanzler?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     }
