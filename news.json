@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-19T22:30:54+00:00",
+  "aktualisiert": "2026-09-20T00:25:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Niederlande: Rechtsradikale randalieren bei Protest im Zentrum von Den Haag",
+      "link": "https://www.spiegel.de/ausland/niederlande-rechtsradikale-randalieren-bei-protest-im-zentrum-von-den-haag-a-f9633e18-9dae-4298-af77-eb38b326d670#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T23:32:00+00:00"
+    },
+    {
+      "titel": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T23:11:09+00:00"
+    },
+    {
+      "titel": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
+      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-19T23:10:56+00:00"
+    },
+    {
+      "titel": "»Zum Spaß« Bilder nahe der Mona Lisa aufgehängt – zwei Deutsche im Louvre festgenommen",
+      "link": "https://www.spiegel.de/panorama/justiz/zum-spass-bilder-nahe-der-mona-lisa-aufgehaengt-zwei-deutsche-im-louvre-festgenommen-a-f1760885-db09-4fa0-a28c-f08a6924bad4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-19T22:53:00+00:00"
+    },
     {
       "titel": "Peta-Protest: US-Modeverbandschef Steven Kolb nach Angriff auf Aktivisten zurückgetreten",
       "link": "https://www.spiegel.de/panorama/gesellschaft/peta-protest-us-modeverbandschef-steven-kolb-nach-angriff-auf-aktivisten-zurueckgetreten-a-08d3b14e-aa6f-4427-bd00-faa97d50e424#ref=rss",
@@ -59,18 +83,6 @@
       "link": "https://www.sueddeutsche.de/sport/werder-bremen-bundesliga-augsburg-weiser-li.3550612",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T19:03:21+00:00"
-    },
-    {
-      "titel": "Céline Dion-Comeback: Wie mir der Superstar den Glauben an das Gute zurückgab - Kolumne",
-      "link": "https://www.spiegel.de/ausland/celine-dion-comeback-wie-mir-der-superstar-den-glauben-an-das-gute-zurueckgab-kolumne-a-68d88281-f04e-45ce-8a31-c2e5653f34b5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T18:36:00+00:00"
-    },
-    {
-      "titel": "BookTok: Warum deutsche Buchcover so anders aussehen als die Originale",
-      "link": "https://www.spiegel.de/kultur/booktok-warum-deutsche-buchcover-so-anders-aussehen-als-die-originale-a-ddee631c-3bc9-41a2-80cf-eb22bd73b7eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T18:36:00+00:00"
     },
     {
       "titel": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/medien/usa-doepfner-trump-axel-springer-politico-weisses-haus-li.3550456",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T13:35:06+00:00"
-    },
-    {
-      "titel": "Auch Googles KI hackte Unternehmen",
-      "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T13:09:00+00:00"
-    },
-    {
-      "titel": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
-      "link": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T13:08:46+00:00"
     }
   ]
 }
