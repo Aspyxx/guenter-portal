@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-20T01:51:31+00:00",
+  "aktualisiert": "2026-09-20T07:09:42+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
+      "titel": "Bundestagswahl",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🗳️"
     },
     {
       "rang": 2,
-      "titel": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
+      "titel": "Der Wahlsieger steht wohl jetzt schon fest",
+      "link": "https://www.tagesschau.de/ausland/europa/duma-wahl-russland-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
-      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
+      "titel": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
+      "link": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
