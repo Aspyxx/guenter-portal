@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-09-20T12:30:45+00:00",
+  "aktualisiert": "2026-09-20T16:33:07+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Rot Weiss Essen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
+      "titel": "Bundestagswahl",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🗳️"
     },
     {
       "rang": 2,
@@ -17,10 +17,10 @@
     },
     {
       "rang": 3,
-      "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "titel": "Wann wird es wie eng für den Kanzler?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
       "quelle": "Tagesschau",
-      "icon": "🗳️"
+      "icon": "🏛️"
     }
   ]
 }
