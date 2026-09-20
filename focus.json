@@ -1,10 +1,10 @@
 {
-  "aktualisiert": "2026-09-20T21:39:35+00:00",
+  "aktualisiert": "2026-09-20T23:38:00+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Giffey nicht mehr im Abgeordnetenhaus ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
@@ -17,10 +17,10 @@
     },
     {
       "rang": 3,
-      "titel": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
-      "link": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
+      "titel": "Die Nachrichten auf tagesschau24",
+      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     }
   ]
 }
