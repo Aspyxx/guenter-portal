@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-20T05:26:37+00:00",
+  "aktualisiert": "2026-09-20T10:08:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "Oktoberfest-Tracht: Wie Dirndl und Lederhosen zum Dresscode wurden",
-      "link": "https://www.spiegel.de/stil/oktoberfest-tracht-wie-dirndl-und-lederhosen-zum-dresscode-wurden-a-b7690aef-a219-4554-b446-83ac97e3571e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T05:13:00+00:00"
+      "titel": "++ Liveticker zur Berlin-Wahl: Auch SPD-Spitzenkandidat Krach an der Urne ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T09:58:24+00:00"
     },
     {
-      "titel": "Hobby-Geisterjäger im Schwarzwald: Ein Abend voller verstörender Erkenntnisse",
-      "link": "https://www.spiegel.de/wissenschaft/hobby-geisterjaeger-im-schwarzwald-ein-abend-voller-verstoerender-erkenntnisse-a-8558093e-54f8-4406-930f-afc6ee82f5b6#ref=rss",
+      "titel": "DFB: Deniz Undav war von Nicht-Nominierung von Jürgen Klopp überrascht",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-deniz-undav-war-von-nicht-nominierung-von-juergen-klopp-ueberrascht-a-95dc76c2-7283-41f9-b755-dd405afc1d3f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T05:12:00+00:00"
+      "veroeffentlicht": "2026-09-20T09:41:00+00:00"
     },
     {
-      "titel": "Badischer Riesenregenwurm im Schwarzwald: Klimakrise bedroht Existenz von seltenem Wurm",
-      "link": "https://www.spiegel.de/wissenschaft/badischer-riesenregenwurm-im-schwarzwald-klimakrise-bedroht-existenz-von-seltenem-wurm-a-82e26a1b-baec-43b6-bed6-ea6631128ac5#ref=rss",
+      "titel": "Warum die Nazi-Kartei ein Wendepunkt des Gedenkens in Deutschland ist",
+      "link": "https://www.spiegel.de/geschichte/warum-die-nazi-kartei-ein-wendepunkt-des-gedenkens-in-deutschland-ist-a-a479b43f-5a2d-4e1e-90c5-0d75442ef0ad#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T05:11:00+00:00"
+      "veroeffentlicht": "2026-09-20T09:41:00+00:00"
     },
     {
-      "titel": "Oktoberfest: Viele Zelte geschlossen – Panne bei Fahrgeschäft",
+      "titel": "Frankfurt am Main: Mitarbeiter von Abschleppdienst beschossen",
+      "link": "https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mitarbeiter-von-abschleppdienst-beschossen-a-95724d54-73a9-48bb-b1f2-128aa8353d4c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T09:34:00+00:00"
+    },
+    {
+      "titel": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T09:33:43+00:00"
+    },
+    {
+      "titel": "Fall Scarlett: Fundstück könnte neue Spur im Vermisstenfall liefern",
+      "link": "https://www.spiegel.de/panorama/justiz/fall-scarlett-fundstueck-koennte-neue-spur-im-vermisstenfall-liefern-a-cdec57ae-71d8-4c19-a4d4-1b8d2bdc0dc1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T09:29:00+00:00"
+    },
+    {
+      "titel": "Für Kinder erklärt: Wer zähmt die KI?",
+      "link": "https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-wer-zaehmt-die-ki-a-73dda3fa-6d40-4d48-a6e3-1bce8aeee082#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T09:21:00+00:00"
+    },
+    {
+      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Holm hat schon abgestimmt++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T09:00:25+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: US-Präsident Trump kündigt \"AI Force\" an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ki-taskforce-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T08:58:11+00:00"
+    },
+    {
+      "titel": "Mittelstand: „Ich fand schon immer: Der Kleiderbügel ist unterbewertet“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/mawa-kleiderbuegelproduktion-billigkonkurrenz-mittelstand-li.3548063",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T08:55:28+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Was am zweiten Wiesn-Tag ansteht – Menschen hängen kopfüber in Fahrgeschäft fest",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-sonntag-liveticker-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T05:09:39+00:00"
+      "veroeffentlicht": "2026-09-20T08:53:00+00:00"
+    },
+    {
+      "titel": "Tansania: Zehn Löwen in Naturschutzgebiet in tot aufgefunden – Vergiftungsverdacht",
+      "link": "https://www.spiegel.de/panorama/tansania-zehn-loewen-in-naturschutzgebiet-in-tot-aufgefunden-vergiftungsverdacht-a-bbc9a6de-824f-411d-b881-9c572cf9d2a5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T08:52:00+00:00"
+    },
+    {
+      "titel": "Rätsel der Woche: Flächendifferenz gesucht",
+      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-flaechendifferenz-gesucht-a-43d8f9c0-d27c-4069-b6f6-b62d2bf60047#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T08:30:00+00:00"
+    },
+    {
+      "titel": "Fußball-Bundesliga: Der Hamburger SV hat nach dem Sieg gegen den 1. FC Köln noch Puls",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-hamburger-sv-hat-nach-dem-sieg-gegen-den-1-fc-koeln-noch-puls-a-3d368afc-d031-45be-b710-988ed993bb5f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T08:26:00+00:00"
+    },
+    {
+      "titel": "Gen Z: So viel arbeiten junge Menschen – die guten News der Woche",
+      "link": "https://www.spiegel.de/ausland/gen-z-so-viel-arbeiten-junge-menschen-die-guten-news-der-woche-a-5fd066a3-92ff-4e91-9b5a-94f775289f91#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T08:23:00+00:00"
+    },
+    {
+      "titel": "Fernsehen: Und wer bitteschön sollte das ZDF kaufen wollen?",
+      "link": "https://www.sueddeutsche.de/meinung/zdf-weimer-verkauf-rtl-fernsehen-kommentar-li.3549665",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T08:21:24+00:00"
+    },
+    {
+      "titel": "Hamburger SV: Zumindest eine bundesligataugliche Halbzeit",
+      "link": "https://www.sueddeutsche.de/sport/hamburger-sv-koeln-fussball-bundesliga-polzin-li.3550621",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T08:18:10+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Wirtschaftsweise Veronika Grimm hält Tankrabatt für „zynisch“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-tankrabatt-bundesregierung-kritik-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T08:06:13+00:00"
+    },
+    {
+      "titel": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
+      "link": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T07:59:20+00:00"
+    },
+    {
+      "titel": "Promis auf dem Oktoberfest an Tag 1: Cavanis schlägt zu, die Geissens ganz zahm",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-promis-bilder-samstag-19-september-geissen-silbereisen-pocher-dj-oetzi-li.3549532",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T07:51:08+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Wahllokale in Berlin und Mecklenburg-Vorpommern geöffnet",
+      "link": "https://www.sueddeutsche.de/politik/mecklenburg-vorpommern-spd-afd-umfrage-berlin-wahllokale-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T06:37:20+00:00"
+    },
+    {
+      "titel": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
+      "link": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T05:57:07+00:00"
     },
     {
       "titel": "Warum wir noch immer so viel Essen wegwerfen",
@@ -49,124 +157,16 @@
       "veroeffentlicht": "2026-09-20T03:38:16+00:00"
     },
     {
-      "titel": "Ed Sheeran: So eröffnet der Sänger erstes Konzert nach dem Eklat um Macklemore",
-      "link": "https://www.spiegel.de/kultur/musik/ed-sheeran-so-eroeffnet-der-saenger-erstes-konzert-nach-dem-eklat-um-macklemore-a-6ede16b5-9673-46ee-bbf6-31116e00d27e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T03:34:00+00:00"
-    },
-    {
-      "titel": "Langzeitbeziehungen: Wie Paare sich von gesellschaftlichen Idealen lösen",
-      "link": "https://www.spiegel.de/partnerschaft/langzeitbeziehungen-wie-paare-sich-von-gesellschaftlichen-idealen-loesen-a-3a4bc3ab-30fd-4079-a9b4-b9bfaf5d4980#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T03:30:00+00:00"
-    },
-    {
-      "titel": "Sex in Langzeitbeziehungen: Was Paare tun können, wenn körperliche Nähe zum Problem wird",
-      "link": "https://www.spiegel.de/partnerschaft/sex-in-langzeitbeziehungen-was-paare-tun-koennen-wenn-koerperliche-naehe-zum-problem-wird-a-27c97448-be16-441c-8835-a616913db807#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T03:30:00+00:00"
-    },
-    {
-      "titel": "Duma-Wahl in Russland endet: Der Wahlsieger steht wohl jetzt schon fest",
-      "link": "https://www.tagesschau.de/ausland/europa/duma-wahl-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T03:29:28+00:00"
-    },
-    {
-      "titel": "Tankrabatt: Wirtschaftsweise Veronika Grimm übt scharfe Kritik",
-      "link": "https://www.spiegel.de/wirtschaft/wirtschaftsweise-veronika-grimm-kritisiert-neuen-tankrabatt-scharf-a-9a7b83fd-da6f-4e40-9359-f2234f8cb33e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T02:31:00+00:00"
-    },
-    {
-      "titel": "US-Medien kritisierten Trumps Hausverbot als rechtswidrigen Angriff auf die Pressefreiheit",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T01:55:19+00:00"
-    },
-    {
-      "titel": "Karibik: USA töten vier Menschen auf mutmaßlichem Drogenboot",
-      "link": "https://www.spiegel.de/ausland/usa-toeten-vier-menschen-auf-mutmasslichem-drogenboot-in-der-karibik-a-2d19e1c2-d00d-431b-89a5-0d01d3e8902f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T01:28:00+00:00"
-    },
-    {
-      "titel": "Niederlande: Rechtsradikale randalieren im Zentrum von Den Haag",
-      "link": "https://www.spiegel.de/ausland/niederlande-rechtsradikale-randalieren-bei-protest-im-zentrum-von-den-haag-a-f9633e18-9dae-4298-af77-eb38b326d670#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-19T23:32:00+00:00"
-    },
-    {
-      "titel": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T23:11:09+00:00"
-    },
-    {
-      "titel": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
-      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T23:10:56+00:00"
-    },
-    {
-      "titel": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien haben Wahlkampf beendet ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T20:24:16+00:00"
-    },
-    {
       "titel": "Bremen-Comeback mit Weiser: Noch ein Märchen an der Weser",
       "link": "https://www.sueddeutsche.de/sport/werder-bremen-bundesliga-augsburg-weiser-li.3550612",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T19:03:21+00:00"
     },
     {
-      "titel": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
-      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-19T18:32:06+00:00"
-    },
-    {
       "titel": "Newsblog zu KI: Trump kündigt „AI Force“ an",
       "link": "https://www.sueddeutsche.de/politik/ki-newsblog-trump-usa-sicherheit-li.3547133",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-19T18:31:15+00:00"
-    },
-    {
-      "titel": "Borussia Mönchengladbach: „Bei wieder vier Gegentoren fällt es schwer, etwas schönzureden“",
-      "link": "https://www.sueddeutsche.de/sport/borussia-moenchengladbach-mainz-bundesliga-li.3550584",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T17:07:42+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Iran übermittelt USA Bedingungen für Kriegsende",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-bedingungen-kriegsende-uebermittlung-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T17:05:05+00:00"
-    },
-    {
-      "titel": "Promis auf dem Oktoberfest an Tag 1: Pocher und Kaiser, zum Anbeißen",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-promis-bilder-samstag-19-september-florian-silbereisen-claudia-obert-oliver-pocher-li.3549532",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T16:36:30+00:00"
-    },
-    {
-      "titel": "Oktoberfest-Eröffnung: „Manche haben gehofft, man würde sich vielleicht streiten, das Gegenteil ist der Fall“",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-wiesnstart-anzapfen-dominik-krause-markus-soeder-li.3545960",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T16:17:39+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: CNN und „Politico“: Secret Service konfisziert Zutrittskarten fürs Weiße Haus",
-      "link": "https://www.sueddeutsche.de/politik/medien-zugang-weisses-haus-trump-journalismus-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T15:52:35+00:00"
-    },
-    {
-      "titel": "Journalismus: Und raus bist du",
-      "link": "https://www.sueddeutsche.de/medien/usa-doepfner-trump-axel-springer-politico-weisses-haus-li.3550456",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-19T13:35:06+00:00"
     }
   ]
 }
