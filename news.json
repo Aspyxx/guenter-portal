@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-20T19:47:06+00:00",
+  "aktualisiert": "2026-09-20T22:28:04+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "++ Liveblog zur Berlin-Wahl: BSW verpasst Einzug ins Abgeordnetenhaus wohl knapp ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T19:45:22+00:00"
-    },
-    {
-      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schult verteidigt Direktmandat ++",
+      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: BSW enttäuscht über Ergebnis ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T19:43:29+00:00"
+      "veroeffentlicht": "2026-09-20T22:15:50+00:00"
+    },
+    {
+      "titel": "TV-Berichterstattung: Wie Merz den „Schicksalsabend“ für sich absagte",
+      "link": "https://www.sueddeutsche.de/medien/merz-fernsehen-cdu-afd-li.3550170",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T22:12:40+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: CDU verpasst Einzug in den Landtag von Mecklenburg-Vorpommern",
+      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-verpasst-einzug-landtag-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T22:07:53+00:00"
+    },
+    {
+      "titel": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T22:04:03+00:00"
+    },
+    {
+      "titel": "AfD bei den Landtagswahlen: Der machtlose Sieger",
+      "link": "https://www.spiegel.de/politik/afd-bei-den-landtagswahlen-der-machtlose-sieger-a-3ab097ef-f334-4804-9750-9cc2e8245c82#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T21:35:00+00:00"
+    },
+    {
+      "titel": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T21:25:25+00:00"
+    },
+    {
+      "titel": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T21:21:39+00:00"
+    },
+    {
+      "titel": "Wahl in Berlin 2026: Linke laut Hochrechnung deutlich vor der CDU",
+      "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-aktuelle-hochrechnung-die-linke-cdu-spd-afd-li.3550919",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T21:17:15+00:00"
+    },
+    {
+      "titel": "Landtagswahl in Mecklenburg-Vorpommern 2026: AfD laut Hochrechnung vor der SPD - CDU muss bangen",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-2026-aktuelle-hochrechnung-afd-spd-cdu-li.3550920",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T21:15:40+00:00"
+    },
+    {
+      "titel": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T21:03:42+00:00"
+    },
+    {
+      "titel": "CDU: Friedrich Merz will nicht weichen",
+      "link": "https://www.sueddeutsche.de/politik/merz-bundeskanzler-konsequenzen-landtagswahlen-cdu-berlin-mecklenburg-vorpommern-li.3547883",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T21:00:00+00:00"
+    },
+    {
+      "titel": "Ludwig-Maximilians-Universität in München: Hacker erbeutet Daten von Studierenden",
+      "link": "https://www.spiegel.de/netzwelt/ludwig-maximilians-universitaet-in-muenchen-hacker-erbeutet-daten-von-studierenden-a-cada352e-cb1e-44d5-bd64-6ffa225b7038#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T20:55:00+00:00"
+    },
+    {
+      "titel": "Wahl in Mecklenburg-Vorpommern: Für die SPD ist das Ergebnis ein Erfolg. Trotzdem fließen Tränen",
+      "link": "https://www.spiegel.de/politik/deutschland/wahl-in-mecklenburg-vorpommern-fuer-die-spd-ist-das-ergebnis-ein-erfolg-trotzdem-fliessen-traenen-a-15b078c2-8fa8-47a4-ae14-7eaf3101d8d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T20:50:00+00:00"
+    },
+    {
+      "titel": "Berlin: Wer der Linken bei der Abgeordnetenhauswahl zum Sieg verhalf",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-wer-der-linken-bei-der-abgeordnetenhauswahl-zum-sieg-verhalf-a-9c93bd22-e6d2-4494-94e5-528ed8abe451#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T20:43:00+00:00"
+    },
+    {
+      "titel": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T20:23:11+00:00"
+    },
+    {
+      "titel": "Bundesliga: SC Paderborn feiert gegen TSG Hoffenheim ersten Erstliga-Sieg seit mehr als sechs Jahren",
+      "link": "https://www.spiegel.de/sport/fussball/bundesliga-sc-paderborn-feiert-gegen-tsg-hoffenheim-ersten-erstliga-sieg-seit-mehr-als-sechs-jahren-a-67aa1836-814d-41c9-8e2d-0fb06dcca743#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T20:10:00+00:00"
+    },
+    {
+      "titel": "Berlin-Wahl: Wird die Hauptstadt jetzt auf links gedreht?",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-wird-die-hauptstadt-jetzt-auf-links-gedreht-a-f5270e1a-6ac8-4048-9adb-95317621494e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T20:10:00+00:00"
+    },
+    {
+      "titel": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T20:03:02+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Wie steht es um den Kanzler nach den Wahlen in Berlin und Mecklenburg-Vorpommern?",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wie-steht-es-um-den-kanzler-nach-den-wahlen-in-berlin-und-mecklenburg-vorpommern-a-816c1642-b38d-473d-b1c6-edfc3d0cbda3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T19:53:00+00:00"
+    },
+    {
+      "titel": "Wolodymyr Selenskyj kündigt Treffen mit Donald Trump in New York an",
+      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-treffen-mit-donald-trump-in-new-york-an-a-2e80dc9f-e662-4b2e-b785-dfdf637f79f4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T19:50:00+00:00"
     },
     {
       "titel": "Mecklenburg-Vorpommern: Wie Menschen auf den AfD-Erfolg reagieren",
@@ -31,76 +139,16 @@
       "veroeffentlicht": "2026-09-20T19:22:00+00:00"
     },
     {
-      "titel": "Mecklenburg-Vorpommern: Wer bei der Landtagswahl für die AfD stimmte",
-      "link": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-wer-bei-der-landtagswahl-fuer-die-afd-stimmte-a-c47df5fe-d195-4d8c-b50d-c1223a9684f9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T19:20:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz in der Krise: Jetzt beginnen die besonders heiklen Tage für den Kanzler",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-jetzt-beginnen-die-besonders-heiklen-tage-fuer-den-kanzler-a-68dc930c-5efe-469d-818d-32eedef0688a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T19:13:00+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Zitterpartie für CDU in Mecklenburg-Vorpommern",
-      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-zitterpartie-hochrechnungen-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T19:10:00+00:00"
-    },
-    {
       "titel": "Landtagswahl Mecklenburg-Vorpommern: Ziel knapp verfehlt",
       "link": "https://www.sueddeutsche.de/politik/mecklenburg-vorpommern-landtagswahl-2026-spd-afd-schwesig-li.3547881",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-20T19:09:06+00:00"
     },
     {
-      "titel": "Russland: Prognosen sehen Kremlpartei Einiges Russland als Sieger bei Parlamentswahl",
-      "link": "https://www.spiegel.de/ausland/russland-prognosen-sehen-kremlpartei-einiges-russland-als-sieger-bei-parlamentswahl-a-2b4a2913-ce72-4866-87ba-1141c614547f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T19:07:00+00:00"
-    },
-    {
       "titel": "Abgeordnetenhauswahl in Berlin: Jeder zweite junge Wähler stimmt für die Linke",
       "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-datenanalyse-linke-afd-cdu-li.3545534",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-20T18:58:09+00:00"
-    },
-    {
-      "titel": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T18:41:16+00:00"
-    },
-    {
-      "titel": "Alain Claude Sulzer und sein Künstlerroman »Szenenwechsel«: Spaßiger Theater-Abgesang",
-      "link": "https://www.spiegel.de/kultur/literatur/alain-claude-sulzer-und-sein-kuenstlerroman-szenenwechsel-spassiger-theater-abgesang-a-3511fab4-7ce2-4999-87a7-ed585e52f0f8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T18:41:00+00:00"
-    },
-    {
-      "titel": "Berlin: Clan-Größe Issa Remmo auf Linken-Wahlparty – Partei distanziert sich",
-      "link": "https://www.spiegel.de/politik/berlin-clan-groesse-auf-linken-wahlparty-partei-distanziert-sich-a-46c82afd-a820-4d58-89f8-99340a8c91fb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T18:41:00+00:00"
-    },
-    {
-      "titel": "Wahlen in Berlin und Mecklenburg-Vorpommern: Kanzler angeschlagen, AfD und Linke feiern",
-      "link": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-kanzler-angeschlagen-afd-und-linke-feiern-a-179dfce8-3e74-4610-b8fe-411f16c450a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T18:34:00+00:00"
-    },
-    {
-      "titel": "Berlin-Wahl: Linke überholt CDU und sorgt für politische Sensation",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-linke-ueberholt-cdu-und-sorgt-fuer-politische-sensation-a-ffe054c8-7072-4686-97fb-f54c4a3d7ba0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T18:27:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Zwei Tote bei Hängegleiter-Unfall während Fluggeräte-Festival",
-      "link": "https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-haengegleiter-unfall-waehrend-fluggeraete-festival-a-b4b1ef21-cd24-4dfa-8007-d370d9fff4cc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T18:26:00+00:00"
     },
     {
       "titel": "Nach den Landtagswahlen: Merz spielt auf Zeit",
@@ -115,58 +163,10 @@
       "veroeffentlicht": "2026-09-20T18:16:06+00:00"
     },
     {
-      "titel": "Wahlen in Mecklenburg-Vorpommern und Berlin: Blau wächst",
-      "link": "https://www.sueddeutsche.de/politik/afd-mecklenburg-vorpommern-berlin-li.3547898",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T18:01:00+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern: Die SPD ist plötzlich Akademikerpartei",
-      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-datenanalyse-afd-spd-cdu-2026-li.3545529",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T17:50:53+00:00"
-    },
-    {
-      "titel": "Wahl in Berlin 2026: Linke laut Hochrechnung deutlich vor der CDU",
-      "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-aktuelle-hochrechnung-die-linke-cdu-afd-spd-li.3550919",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T17:38:16+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Mecklenburg-Vorpommern 2026: AfD laut Hochrechnung leicht vor der SPD",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-2026-aktuelle-hochrechnung-afd-spd-cdu-li.3550920",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T17:36:14+00:00"
-    },
-    {
       "titel": "Abgeordnetenhaus Berlin: Wichtigste Umfragen im Überblick",
       "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-abgeordnetenhaus-berlin-2026-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-20T16:16:19+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern: Wichtigste Umfragen im Überblick",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-ltw-mecklenburg-vorpommern-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T16:12:56+00:00"
-    },
-    {
-      "titel": "Wählerwanderung in Berlin - wer holte Stimmen von wem?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-abgeordnetenhaus-berlin-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T16:10:02+00:00"
-    },
-    {
-      "titel": "Wählerwanderung: Wer in Mecklenburg-Vorpommern wo Stimmen holte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-ltw-mecklenburg-vorpommern-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T16:08:05+00:00"
-    },
-    {
-      "titel": "So wählten die Bevölkerungsgruppen in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-abgeordnetenhauswahl-berlin-2026-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T16:05:44+00:00"
     }
   ]
 }
