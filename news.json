@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-20T22:28:04+00:00",
+  "aktualisiert": "2026-09-21T00:31:07+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,64 @@
   },
   "meldungen": [
     {
-      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: BSW enttäuscht über Ergebnis ++",
+      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T22:15:50+00:00"
+      "veroeffentlicht": "2026-09-21T00:28:23+00:00"
+    },
+    {
+      "titel": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T00:02:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Bürgermeister Mamdani will Trump in New York treffen",
+      "link": "https://www.sueddeutsche.de/politik/trump-mamdani-new-york-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T23:01:30+00:00"
+    },
+    {
+      "titel": "Texas: ICE-Agent verletzt Mann bei Schüssen in liberaler Enklave Austin",
+      "link": "https://www.spiegel.de/ausland/texas-ice-agent-verletzt-mann-bei-schuessen-in-liberaler-enklave-austin-a-2d0e44c6-1999-4b4b-a6df-72a10152218f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T23:00:00+00:00"
+    },
+    {
+      "titel": "Ergebnis der Mecklenburg-Vorpommern-Wahl: AfD siegt vor SPD, CDU fliegt aus Landtag",
+      "link": "https://www.spiegel.de/politik/ergebnis-der-mecklenburg-vorpommern-wahl-afd-siegt-vor-spd-cdu-fliegt-aus-landtag-a-bbfe6a92-70b3-4452-a295-fc84972f6019#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T22:46:00+00:00"
+    },
+    {
+      "titel": "Wahldebakel in Mecklenburg-Vorpommern: Jetzt kann für Merz' Zukunft niemand mehr garantieren",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-jetzt-beginnen-die-besonders-heiklen-tage-fuer-den-kanzler-a-68dc930c-5efe-469d-818d-32eedef0688a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-20T22:39:00+00:00"
+    },
+    {
+      "titel": "Mecklenburg-Vorpommern und Berlin: Fünf Erkenntnisse aus den Wahlen",
+      "link": "https://www.sueddeutsche.de/politik/wahlen-mecklenburg-vorpommern-berlin-2026-ergebnisse-prognose-analyse-li.3548057",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T22:31:34+00:00"
+    },
+    {
+      "titel": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-20T22:29:07+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: CDU verpasst Einzug in den Landtag von Schwerin",
+      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-verpasst-einzug-landtag-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-20T22:27:19+00:00"
     },
     {
       "titel": "TV-Berichterstattung: Wie Merz den „Schicksalsabend“ für sich absagte",
       "link": "https://www.sueddeutsche.de/medien/merz-fernsehen-cdu-afd-li.3550170",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-20T22:12:40+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: CDU verpasst Einzug in den Landtag von Mecklenburg-Vorpommern",
-      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-verpasst-einzug-landtag-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T22:07:53+00:00"
-    },
-    {
-      "titel": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T22:04:03+00:00"
     },
     {
       "titel": "AfD bei den Landtagswahlen: Der machtlose Sieger",
@@ -115,24 +151,6 @@
       "veroeffentlicht": "2026-09-20T20:03:02+00:00"
     },
     {
-      "titel": "Friedrich Merz: Wie steht es um den Kanzler nach den Wahlen in Berlin und Mecklenburg-Vorpommern?",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wie-steht-es-um-den-kanzler-nach-den-wahlen-in-berlin-und-mecklenburg-vorpommern-a-816c1642-b38d-473d-b1c6-edfc3d0cbda3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T19:53:00+00:00"
-    },
-    {
-      "titel": "Wolodymyr Selenskyj kündigt Treffen mit Donald Trump in New York an",
-      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-treffen-mit-donald-trump-in-new-york-an-a-2e80dc9f-e662-4b2e-b785-dfdf637f79f4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T19:50:00+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern: Wie Menschen auf den AfD-Erfolg reagieren",
-      "link": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-wie-menschen-auf-den-afd-erfolg-reagieren-a-bd5108bc-baad-452e-b70d-c28edb93ad46#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T19:23:00+00:00"
-    },
-    {
       "titel": "Wahl zum Abgeordnetenhaus: „Ab heute verändern wir gemeinsam Berlin“",
       "link": "https://www.sueddeutsche.de/politik/berlin-abgeordnetenhauswahl-2026-linke-cdu-afd-ergebnisse-li.3547930",
       "quelle": "Süddeutsche",
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-09-20T19:09:06+00:00"
     },
     {
-      "titel": "Abgeordnetenhauswahl in Berlin: Jeder zweite junge Wähler stimmt für die Linke",
-      "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-datenanalyse-linke-afd-cdu-li.3545534",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T18:58:09+00:00"
-    },
-    {
       "titel": "Nach den Landtagswahlen: Merz spielt auf Zeit",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-nach-den-wahlen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-20T18:20:08+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Klingbeil kündigt Kurskorrektur an",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-klingbeil-reformkurs-koaliton-kluessendorf-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T18:16:06+00:00"
-    },
-    {
-      "titel": "Abgeordnetenhaus Berlin: Wichtigste Umfragen im Überblick",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-abgeordnetenhaus-berlin-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T16:16:19+00:00"
     }
   ]
 }
