@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-21T00:31:07+00:00",
+  "aktualisiert": "2026-09-21T05:31:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,130 @@
   },
   "meldungen": [
     {
-      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+      "titel": "Marktbericht: Anleger nehmen Wahlausgang gelassen auf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T00:28:23+00:00"
+      "veroeffentlicht": "2026-09-21T05:28:55+00:00"
+    },
+    {
+      "titel": "Berlin-Wahl: Umfrage zeigt Mehrheit gegen Enteignung von Wohnkonzernen",
+      "link": "https://www.spiegel.de/wirtschaft/berlin-wahl-umfrage-zeigt-mehrheit-gegen-enteignung-von-wohnkonzernen-a-06c70892-619a-4c67-91f8-05d811d6fe55#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T05:21:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Kreislaufprobleme: OB Dominik Krause muss Auftritt am Gay Sunday absagen",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T05:13:00+00:00"
+    },
+    {
+      "titel": "Nahostkrise: Schiffsverkehr durch Straße von Hormus kommt praktisch zum Erliegen",
+      "link": "https://www.spiegel.de/wirtschaft/nahostkrise-schiffsverkehr-durch-strasse-von-hormus-kommt-praktisch-zum-erliegen-a-c6606b16-1a6f-4d45-bdd2-42af859203ee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T05:05:00+00:00"
+    },
+    {
+      "titel": "Lebensmittelmotten in der Küche: Was hilft? Mit diesen Tipps werden Sie die Insekten los",
+      "link": "https://www.spiegel.de/wissenschaft/natur/lebensmittelmotten-in-der-kueche-was-hilft-mit-diesen-tipps-werden-sie-die-insekten-los-a-caa03569-f0de-477d-8ecc-edc693fb88de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T04:53:00+00:00"
+    },
+    {
+      "titel": "Einsamkeit: Was wir von queeren Menschen über das Alleinsein lernen können",
+      "link": "https://www.spiegel.de/psychologie/einsamkeit-was-wir-von-queeren-menschen-ueber-das-alleinsein-lernen-koennen-a-f74127f2-a470-4115-8047-f9d7152723b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T04:49:00+00:00"
+    },
+    {
+      "titel": "11KM-Podcast: Scheuer vor Gericht - Das Maut-Debakel",
+      "link": "https://www.tagesschau.de/podcast-11km-scheuer-prozess-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T04:47:22+00:00"
+    },
+    {
+      "titel": "Immer mehr Produktrückrufe bei Lebensmitteln",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittel-rueckrufe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T04:45:15+00:00"
+    },
+    {
+      "titel": "Laura McAllister: Wer ist die Frau, die sich gegen Fifa-Boss Gianni Infantino erhebt?",
+      "link": "https://www.spiegel.de/sport/fussball/laura-mcallister-wer-ist-die-frau-die-sich-gegen-fifa-boss-gianni-infantino-erhebt-a-8e20f91c-133a-47ae-afb5-62dd51d0a4ac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T04:39:00+00:00"
+    },
+    {
+      "titel": "Berlin Abgeordnetenhauswahl: Wie die Linke Berlin erobert hat",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-abgeordnetenhauswahl-wie-die-linke-berlin-erobert-hat-a-4422f96d-65c5-4943-b78d-50ccc9874e8c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T04:22:00+00:00"
+    },
+    {
+      "titel": "Mecklenburg-Vorpommern-Wahl: Wie die CDU im blau-roten Zweikampf einfach verschwand - Datenanalyse",
+      "link": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-wahl-wie-die-cdu-im-blau-roten-zweikampf-einfach-verschwand-datenanalyse-a-6ca35c2f-d8f1-471a-9d26-947e68436066#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T04:18:00+00:00"
+    },
+    {
+      "titel": "Presley Gerber: Sohn von Cindy Crawford ist tot",
+      "link": "https://www.spiegel.de/panorama/presley-gerber-sohn-von-cindy-crawford-ist-tot-a-fa226f94-a44e-41d2-b9d1-9337fb8c9171#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T04:12:00+00:00"
+    },
+    {
+      "titel": "Karriere: Delegieren lernen – Wege aus dem Dauerstress im Arbeitsalltag",
+      "link": "https://www.spiegel.de/karriere/karriere-delegieren-lernen-wege-aus-dem-dauerstress-im-arbeitsalltag-a-b47665e2-8775-4923-b862-94406e03194a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T03:30:00+00:00"
+    },
+    {
+      "titel": "Fünf Erkenntnisse aus den Wahlen in Mecklenburg-Vorpommern und Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/erkenntnisse-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T03:26:35+00:00"
+    },
+    {
+      "titel": "Caren Miosga: „Sie machen das, was Frau von Storch Ihnen aufgeschrieben hat“",
+      "link": "https://www.sueddeutsche.de/medien/caren-miosga-mecklenburg-vorpommern-berlin-wahl-kluessendorf-alexander-von-storch-middelberg-li.3550856",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T03:20:47+00:00"
+    },
+    {
+      "titel": "Selenskyj kündigt Treffen mit Trump diese Woche in New York an",
+      "link": "https://www.tagesschau.de/ausland/amerika/treffen-selenskyj-trump-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T03:17:57+00:00"
+    },
+    {
+      "titel": "CDU: Bringt die CDU noch genug Geduld auf für Friedrich Merz?",
+      "link": "https://www.sueddeutsche.de/politik/cdu-wahlergebnis-mecklenburg-vorpommern-berlin-friedrich-merz-parteizukunft-li.3551028",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T03:07:04+00:00"
+    },
+    {
+      "titel": "Ex-Verkehrsminister Scheuer vor Gericht: Vorwurf der Falschaussage",
+      "link": "https://www.tagesschau.de/inland/pkw-maut-scheuer-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T02:36:45+00:00"
+    },
+    {
+      "titel": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
+      "link": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T02:22:58+00:00"
     },
     {
       "titel": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T00:02:00+00:00"
+      "veroeffentlicht": "2026-09-21T00:31:52+00:00"
+    },
+    {
+      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T00:28:23+00:00"
     },
     {
       "titel": "USA-Newsblog: Bürgermeister Mamdani will Trump in New York treffen",
@@ -25,34 +139,10 @@
       "veroeffentlicht": "2026-09-20T23:01:30+00:00"
     },
     {
-      "titel": "Texas: ICE-Agent verletzt Mann bei Schüssen in liberaler Enklave Austin",
-      "link": "https://www.spiegel.de/ausland/texas-ice-agent-verletzt-mann-bei-schuessen-in-liberaler-enklave-austin-a-2d0e44c6-1999-4b4b-a6df-72a10152218f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T23:00:00+00:00"
-    },
-    {
-      "titel": "Ergebnis der Mecklenburg-Vorpommern-Wahl: AfD siegt vor SPD, CDU fliegt aus Landtag",
-      "link": "https://www.spiegel.de/politik/ergebnis-der-mecklenburg-vorpommern-wahl-afd-siegt-vor-spd-cdu-fliegt-aus-landtag-a-bbfe6a92-70b3-4452-a295-fc84972f6019#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T22:46:00+00:00"
-    },
-    {
-      "titel": "Wahldebakel in Mecklenburg-Vorpommern: Jetzt kann für Merz' Zukunft niemand mehr garantieren",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-jetzt-beginnen-die-besonders-heiklen-tage-fuer-den-kanzler-a-68dc930c-5efe-469d-818d-32eedef0688a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T22:39:00+00:00"
-    },
-    {
       "titel": "Mecklenburg-Vorpommern und Berlin: Fünf Erkenntnisse aus den Wahlen",
       "link": "https://www.sueddeutsche.de/politik/wahlen-mecklenburg-vorpommern-berlin-2026-ergebnisse-prognose-analyse-li.3548057",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-20T22:31:34+00:00"
-    },
-    {
-      "titel": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T22:29:07+00:00"
     },
     {
       "titel": "Newsblog zu den Landtagswahlen: CDU verpasst Einzug in den Landtag von Schwerin",
@@ -67,24 +157,6 @@
       "veroeffentlicht": "2026-09-20T22:12:40+00:00"
     },
     {
-      "titel": "AfD bei den Landtagswahlen: Der machtlose Sieger",
-      "link": "https://www.spiegel.de/politik/afd-bei-den-landtagswahlen-der-machtlose-sieger-a-3ab097ef-f334-4804-9750-9cc2e8245c82#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T21:35:00+00:00"
-    },
-    {
-      "titel": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T21:25:25+00:00"
-    },
-    {
-      "titel": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T21:21:39+00:00"
-    },
-    {
       "titel": "Wahl in Berlin 2026: Linke laut Hochrechnung deutlich vor der CDU",
       "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-aktuelle-hochrechnung-die-linke-cdu-spd-afd-li.3550919",
       "quelle": "Süddeutsche",
@@ -95,78 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-2026-aktuelle-hochrechnung-afd-spd-cdu-li.3550920",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-20T21:15:40+00:00"
-    },
-    {
-      "titel": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T21:03:42+00:00"
-    },
-    {
-      "titel": "CDU: Friedrich Merz will nicht weichen",
-      "link": "https://www.sueddeutsche.de/politik/merz-bundeskanzler-konsequenzen-landtagswahlen-cdu-berlin-mecklenburg-vorpommern-li.3547883",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T21:00:00+00:00"
-    },
-    {
-      "titel": "Ludwig-Maximilians-Universität in München: Hacker erbeutet Daten von Studierenden",
-      "link": "https://www.spiegel.de/netzwelt/ludwig-maximilians-universitaet-in-muenchen-hacker-erbeutet-daten-von-studierenden-a-cada352e-cb1e-44d5-bd64-6ffa225b7038#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T20:55:00+00:00"
-    },
-    {
-      "titel": "Wahl in Mecklenburg-Vorpommern: Für die SPD ist das Ergebnis ein Erfolg. Trotzdem fließen Tränen",
-      "link": "https://www.spiegel.de/politik/deutschland/wahl-in-mecklenburg-vorpommern-fuer-die-spd-ist-das-ergebnis-ein-erfolg-trotzdem-fliessen-traenen-a-15b078c2-8fa8-47a4-ae14-7eaf3101d8d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T20:50:00+00:00"
-    },
-    {
-      "titel": "Berlin: Wer der Linken bei der Abgeordnetenhauswahl zum Sieg verhalf",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-wer-der-linken-bei-der-abgeordnetenhauswahl-zum-sieg-verhalf-a-9c93bd22-e6d2-4494-94e5-528ed8abe451#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T20:43:00+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T20:23:11+00:00"
-    },
-    {
-      "titel": "Bundesliga: SC Paderborn feiert gegen TSG Hoffenheim ersten Erstliga-Sieg seit mehr als sechs Jahren",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-sc-paderborn-feiert-gegen-tsg-hoffenheim-ersten-erstliga-sieg-seit-mehr-als-sechs-jahren-a-67aa1836-814d-41c9-8e2d-0fb06dcca743#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T20:10:00+00:00"
-    },
-    {
-      "titel": "Berlin-Wahl: Wird die Hauptstadt jetzt auf links gedreht?",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-wahl-wird-die-hauptstadt-jetzt-auf-links-gedreht-a-f5270e1a-6ac8-4048-9adb-95317621494e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-20T20:10:00+00:00"
-    },
-    {
-      "titel": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
-      "link": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T20:03:02+00:00"
-    },
-    {
-      "titel": "Wahl zum Abgeordnetenhaus: „Ab heute verändern wir gemeinsam Berlin“",
-      "link": "https://www.sueddeutsche.de/politik/berlin-abgeordnetenhauswahl-2026-linke-cdu-afd-ergebnisse-li.3547930",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T19:22:00+00:00"
-    },
-    {
-      "titel": "Landtagswahl Mecklenburg-Vorpommern: Ziel knapp verfehlt",
-      "link": "https://www.sueddeutsche.de/politik/mecklenburg-vorpommern-landtagswahl-2026-spd-afd-schwesig-li.3547881",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T19:09:06+00:00"
-    },
-    {
-      "titel": "Nach den Landtagswahlen: Merz spielt auf Zeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-nach-den-wahlen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-20T18:20:08+00:00"
     }
   ]
 }
