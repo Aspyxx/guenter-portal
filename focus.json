@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-21T01:52:20+00:00",
+  "aktualisiert": "2026-09-21T07:18:50+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+      "titel": "Dos Santos-Wintz: \"Merz hat unser Vertrauen\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Merz spielt auf Zeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-nach-den-wahlen-100.html",
+      "titel": "China und USA beraten über KI",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-china-ki-gespraeche-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Die Nachrichten auf tagesschau24",
-      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
+      "titel": "Anleger nehmen Wahlausgang gelassen auf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     }
   ]
 }
