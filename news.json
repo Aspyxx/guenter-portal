@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-21T17:04:47+00:00",
+  "aktualisiert": "2026-09-21T21:05:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,100 @@
   },
   "meldungen": [
     {
-      "titel": "Liveticker: ++ \"Die politische Mitte ist entleert\" ++",
+      "titel": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T20:59:55+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Unfall am Fahrgeschäft „Hangover“: Mitarbeiter eingequetscht",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-unfall-hangover-fahrgeschaeft-mitarbeiter-verletzt-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T20:31:18+00:00"
+    },
+    {
+      "titel": "USA: Trumps Zustimmungswerte fallen auf Rekordtief",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-umfrage-zwischenwahlen-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T19:53:05+00:00"
+    },
+    {
+      "titel": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T17:03:19+00:00"
+      "veroeffentlicht": "2026-09-21T19:26:21+00:00"
+    },
+    {
+      "titel": "US-Ostküste: Flugstopp an mehreren Flughäfen",
+      "link": "https://www.spiegel.de/mobilitaet/us-ostkueste-flugstopp-an-mehreren-flughaefen-a-824afdb3-0ce4-4419-9fa4-efd2883eb44b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T19:15:00+00:00"
+    },
+    {
+      "titel": "So gefährden die eigenen Genossen Eralps Einzug ins Rote Rathaus",
+      "link": "https://www.spiegel.de/politik/deutschland/so-gefaehrden-die-eigenen-genossen-eralps-einzug-ins-rote-rathaus-a-8cb8e614-c19f-4271-8222-536dd21e8a20#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T18:52:00+00:00"
+    },
+    {
+      "titel": "Nach Rauswurf durch Trump - Sender schränken Berichterstattung ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-trump-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T18:36:07+00:00"
+    },
+    {
+      "titel": "Wahl in Mecklenburg-Vorpommern: CDU-Chef Peters geht, Amthor rückt nach",
+      "link": "https://www.spiegel.de/politik/wahl-in-mecklenburg-vorpommern-cdu-chef-peters-geht-amthor-rueckt-nach-a-309c33c5-fdb9-4322-b5ae-4f45997b3c61#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T18:20:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Spitzenkandidat Peters tritt nach CDU-Debakel in Mecklenburg-Vorpommern zurück",
+      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-peters-cdu-landesvorsitz-ruecktritt-amthor-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T18:07:06+00:00"
+    },
+    {
+      "titel": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-mv-berlin-cdu-folgen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T18:03:50+00:00"
+    },
+    {
+      "titel": "Bundesregierung: Merz: Rente mit 63 habe im Wahlkampf „praktisch keine Rolle gespielt“",
+      "link": "https://www.sueddeutsche.de/politik/rente-merz-spd-cdu-wahlen-li.3551216",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T17:44:00+00:00"
+    },
+    {
+      "titel": "Andreas Scheuer und die Pkw-Maut: Der Ex-Minister will an ein Verschiebeangebot keine Erinnerung haben – damals nicht, heute auch nicht",
+      "link": "https://www.spiegel.de/panorama/justiz/andreas-scheuer-und-die-pkw-maut-der-ex-minister-will-an-ein-verschiebeangebot-keine-erinnerung-haben-damals-nicht-heute-auch-nicht-a-c7c26999-aa32-413b-9ecf-e199f661ca12#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T17:43:00+00:00"
+    },
+    {
+      "titel": "Paramount und Warner Bros.: Einigung im Streit um 111-Milliarden-Fusion",
+      "link": "https://www.spiegel.de/wirtschaft/paramount-und-warner-bros-einigung-im-streit-um-111-milliarden-fusion-a-6f0b6fba-c09c-4776-811d-df34a2a1f21c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T17:43:00+00:00"
+    },
+    {
+      "titel": "Klage gegen Paramount: Streit über Warner-Übernahme offenbar beigelegt",
+      "link": "https://www.tagesschau.de/wirtschaft/warner-paramount-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T17:20:54+00:00"
+    },
+    {
+      "titel": "Merz kündigt Gesetz gegen linke Enteignungspläne an",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/enteignung-vergesellschaftung-wohnungen-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T17:11:31+00:00"
+    },
+    {
+      "titel": "CDU in Mecklenburg-Vorpommern: Eine Volkspartei lebt ihren Albtraum",
+      "link": "https://www.spiegel.de/politik/deutschland/cdu-in-mecklenburg-vorpommern-eine-volkspartei-lebt-ihren-albtraum-a-e3354e52-c041-4aa0-a8d6-07b7cadd056e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T17:02:00+00:00"
     },
     {
       "titel": "Wahlen: Friedrich Merz stellt Ungleichbehandlung im Gesundheitssystem infrage",
@@ -37,24 +127,6 @@
       "veroeffentlicht": "2026-09-21T16:21:00+00:00"
     },
     {
-      "titel": "Hessischer Rundfunk: Vorsitzender der jüdischen Gemeinden tritt aus HR-Gremium zurück",
-      "link": "https://www.spiegel.de/panorama/hessischer-rundfunk-vorsitzender-der-juedischen-gemeinden-tritt-aus-hr-gremium-zurueck-a-88c51da3-04dc-471d-bce0-e72dde9cd3cd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T16:19:00+00:00"
-    },
-    {
-      "titel": "CDU in Mecklenburg-Vorpommern: Eine Volkspartei lebt ihren Albtraum",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-in-mecklenburg-vorpommern-eine-volkspartei-lebt-ihren-albtraum-a-e3354e52-c041-4aa0-a8d6-07b7cadd056e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T16:13:00+00:00"
-    },
-    {
-      "titel": "Robert Farken: Wie der Läufer die deutsche Leichtathletik inspiriert",
-      "link": "https://www.spiegel.de/sport/leichtathletik/robert-farken-wie-der-laeufer-die-deutsche-leichtathletik-inspiriert-a-b3128506-6583-4ffd-8c1e-a2b5860f5cb8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T16:12:00+00:00"
-    },
-    {
       "titel": "Duma-Wahl: Putins Sieg an der Zahlenfront",
       "link": "https://www.tagesschau.de/ausland/europa/russland-nach-duma-wahl-100.html",
       "quelle": "Tagesschau",
@@ -67,64 +139,10 @@
       "veroeffentlicht": "2026-09-21T16:04:23+00:00"
     },
     {
-      "titel": "Japan wappnet sich für Taifun \"Dujuan\"",
-      "link": "https://www.tagesschau.de/ausland/asien/taifun-dujuan-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T16:02:43+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Clan-Mitglied und Palästina-Aktivist bei Linken-Party: Grüne sehen Klärungsbedarf",
-      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-gruene-linke-wahlparty-issa-remmo-ibrahim-ibrahim-li.3540501",
+      "titel": "Wiesnbummel von Hummels: Willkommen bei Cathys Content-Basar",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-promis-2026-cathy-hummels-wiesnbummel-li.3544292",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T16:02:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz und die CDU: Wie es nach dem Wahldesaster weitergehen kann",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-cdu-wie-es-nach-dem-wahldesaster-weitergehen-kann-a-decf8c30-f2ce-4714-ae72-781c729abd09#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T16:00:00+00:00"
-    },
-    {
-      "titel": "Nach Rauswurf durch Trump - Sender schränken Berichterstattung ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T15:58:28+00:00"
-    },
-    {
-      "titel": "Was Beschäftigte in der Autoindustrie dem Management vorwerfen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autoindustrie-protest-aktionstag-mercedes-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T15:56:46+00:00"
-    },
-    {
-      "titel": "Bayern Landesregierung bekommt neue Minister für Justiz und Jugend",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/neue-minister-in-bayern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T15:38:13+00:00"
-    },
-    {
-      "titel": "Berlin: Remmo-Sohn veröffentlicht angebliche Chats mit Linke-Abgeordnetem Ferat Koçak",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-remmo-sohn-veroeffentlicht-angebliche-chats-mit-linke-abgeordnetem-ferat-kocak-a-3c56502d-64a1-4908-82be-0e9a9ff15945#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T15:38:00+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern: Wie Schweriner auf die CDU-Wahlschlappe reagieren",
-      "link": "https://www.spiegel.de/politik/mecklenburg-vorpommern-wie-schweriner-auf-die-cdu-wahlschlappe-reagieren-a-bc3ed07c-2afe-46e9-bba8-0f1bd37abd44#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T15:34:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Nach Medien-Rauswurf: TV-Sender schränken Trump-Begleitung ein",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-tv-sender-trump-termine-rauswurf-cnn-ms-now-politico-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T15:27:36+00:00"
-    },
-    {
-      "titel": "Planetary Health Check: Patientin Erde ist schwer angeschlagen",
-      "link": "https://www.tagesschau.de/wissen/forschung/planetary-health-check-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T15:09:11+00:00"
+      "veroeffentlicht": "2026-09-21T15:44:31+00:00"
     },
     {
       "titel": "Teufelsrad: Zehntausende Upskirting-Videos von Oktoberfest-Besucherinnen aufgetaucht",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-rosa-montag-braeurosl-li.3545955",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-21T14:31:29+00:00"
-    },
-    {
-      "titel": "Sixt-Damenwiesn: Plötzlich stehen Hunderte Frauen vorm Schützenzelt Schlange",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-sixt-damenwiesn-dominik-krause-andreas-gabalier-li.3547963",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T13:52:55+00:00"
-    },
-    {
-      "titel": "Deutsche Olympiabewerbung: „Mir macht die gesamte politische Situation Sorgen“",
-      "link": "https://www.sueddeutsche.de/sport/berlin-koeln-muenchen-bewerbung-olympische-spiele-thomas-haertel-li.3551244",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T13:50:57+00:00"
-    },
-    {
-      "titel": "Berlin: Die Linke ist selbst schuld, dass viele Menschen sich vor ihr fürchten",
-      "link": "https://www.sueddeutsche.de/meinung/berlin-linke-antisemitismus-kommenzar-li.3551034",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T13:43:50+00:00"
     }
   ]
 }
