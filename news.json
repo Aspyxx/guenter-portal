@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-21T05:31:57+00:00",
+  "aktualisiert": "2026-09-21T11:07:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Marktbericht: Anleger nehmen Wahlausgang gelassen auf",
+      "titel": "Google: 403 Millionen Euro Strafe wegen unerlaubt gesammelter Ortungsdaten",
+      "link": "https://www.spiegel.de/netzwelt/netzpolitik/google-403-millionen-euro-strafe-wegen-unerlaubt-gesammelter-ortungsdaten-a-977fc73c-ea90-4248-b9fc-6c8870f975c0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T10:52:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Wieder fit: Oberbürgermeister Krause kommt zur „Wiesn mit Herz“",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T10:52:00+00:00"
+    },
+    {
+      "titel": "Kremlpartei Geeintes Russland gewinnt Duma-Wahl",
+      "link": "https://www.tagesschau.de/ausland/asien/wahlergebnis-duma-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T10:48:00+00:00"
+    },
+    {
+      "titel": "Erfurt: Mann wiegt sein Marihuana auf Supermarktwaage ab",
+      "link": "https://www.spiegel.de/panorama/erfurt-mann-wiegt-sein-marihuana-auf-supermarktwaage-ab-a-b52f79f4-9779-4723-a16f-06b281f7958d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T10:44:00+00:00"
+    },
+    {
+      "titel": "Tilly Norwood bei Piers Morgan: Und dann spricht die KI-Schauspielerin bei auf einmal Chinesisch",
+      "link": "https://www.spiegel.de/kultur/tilly-norwood-bei-piers-morgan-und-dann-spricht-die-ki-schauspielerin-bei-auf-einmal-chinesisch-a-ae9f6dfe-90ae-427e-8e9c-324d00839880#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T10:43:00+00:00"
+    },
+    {
+      "titel": "Antje Kunstmann ist tot: Münchner Verlegerin mit 77 Jahren gestorben",
+      "link": "https://www.spiegel.de/kultur/literatur/antje-kunstmann-ist-tot-muenchner-verlegerin-mit-77-jahren-gestorben-a-1be76b56-6111-4523-bd0c-bda4fca726b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T10:40:00+00:00"
+    },
+    {
+      "titel": "Liveticker: ++ SPD-Spitze gegen ein \"Weiter so\" im Bund ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T10:38:28+00:00"
+    },
+    {
+      "titel": "Jürgen Klopp: Wenn Klopp einen anschreit – BVB-Ikone Dickel erinnert sich",
+      "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-wenn-klopp-einen-anschreit-bvb-ikone-dickel-erinnert-sich-a-fc553581-ee5a-4ef9-8da3-e5100f2ebc0f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T10:28:00+00:00"
+    },
+    {
+      "titel": "Iran: Warum Iranerinnen und Iraner nach Armenien fliehen",
+      "link": "https://www.spiegel.de/ausland/iran-warum-iranerinnen-und-iraner-nach-armenien-fliehen-a-513009c7-9abb-445e-9ded-65ff59ad9d60#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T10:09:00+00:00"
+    },
+    {
+      "titel": "Moosburg: 16-Jähriger klettert auf Zugdach und wird schwer verletzt",
+      "link": "https://www.spiegel.de/panorama/justiz/moosburg-16-jaehriger-klettert-auf-zugdach-und-wird-schwer-verletzt-a-d145b53f-967a-4adf-9c06-59d2c376c67c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T09:57:00+00:00"
+    },
+    {
+      "titel": "Granit Xhaka gesteht »Erwerb« einer Corona-Impfbestätigung",
+      "link": "https://www.spiegel.de/sport/fussball/granit-xhaka-gesteht-erwerb-einer-corona-impfbestaetigung-a-b8173d55-bf6b-4cb0-b2e0-69187ee260c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T09:53:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Schwesig setzt auf Rot-Rot-Grün in Mecklenburg-Vorpommern",
+      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-livestream-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T09:50:11+00:00"
+    },
+    {
+      "titel": "Jemen: Saudi-Arabiens einsamer Kampf gegen die Huthis am Bab al-Mandab",
+      "link": "https://www.spiegel.de/ausland/jemen-saudi-arabiens-einsamer-kampf-gegen-die-huthis-am-bab-al-mandab-a-a9db1261-27ef-4cad-bf1a-d9e10b27f5e4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T09:43:00+00:00"
+    },
+    {
+      "titel": "Landtagswahlen: Das ganze Drama eines Kanzlers, dem nur noch schlechte und weniger schlechte Optionen bleiben",
+      "link": "https://www.sueddeutsche.de/meinung/cdu-wahl-2026-merz-koalition-demokratie-deutschland-li.3551026",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T09:34:53+00:00"
+    },
+    {
+      "titel": "IT-Sicherheit: Hackerangriff auf die LMU größer als bisher bekannt",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-lmu-hackerangriff-studenten-persoenliche-daten-li.3550811",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T09:31:25+00:00"
+    },
+    {
+      "titel": "Was ein Notschalter für KI bringen könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/notschalter-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T09:22:53+00:00"
+    },
+    {
+      "titel": "CDU sortiert sich nach Wahlniederlagen neu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T09:21:42+00:00"
+    },
+    {
+      "titel": "Medizin: Phagentherapie: Hilfe für Patienten, denen kein Antibiotikum mehr hilft",
+      "link": "https://www.sueddeutsche.de/gesundheit/phagentherapie-infektionen-antibiotika-resistenzen-leitlinie-li.3550166",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T09:20:31+00:00"
+    },
+    {
+      "titel": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T05:28:55+00:00"
+      "veroeffentlicht": "2026-09-21T08:38:27+00:00"
     },
     {
-      "titel": "Berlin-Wahl: Umfrage zeigt Mehrheit gegen Enteignung von Wohnkonzernen",
-      "link": "https://www.spiegel.de/wirtschaft/berlin-wahl-umfrage-zeigt-mehrheit-gegen-enteignung-von-wohnkonzernen-a-06c70892-619a-4c67-91f8-05d811d6fe55#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T05:21:00+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Kreislaufprobleme: OB Dominik Krause muss Auftritt am Gay Sunday absagen",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T05:13:00+00:00"
-    },
-    {
-      "titel": "Nahostkrise: Schiffsverkehr durch Straße von Hormus kommt praktisch zum Erliegen",
-      "link": "https://www.spiegel.de/wirtschaft/nahostkrise-schiffsverkehr-durch-strasse-von-hormus-kommt-praktisch-zum-erliegen-a-c6606b16-1a6f-4d45-bdd2-42af859203ee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T05:05:00+00:00"
-    },
-    {
-      "titel": "Lebensmittelmotten in der Küche: Was hilft? Mit diesen Tipps werden Sie die Insekten los",
-      "link": "https://www.spiegel.de/wissenschaft/natur/lebensmittelmotten-in-der-kueche-was-hilft-mit-diesen-tipps-werden-sie-die-insekten-los-a-caa03569-f0de-477d-8ecc-edc693fb88de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T04:53:00+00:00"
-    },
-    {
-      "titel": "Einsamkeit: Was wir von queeren Menschen über das Alleinsein lernen können",
-      "link": "https://www.spiegel.de/psychologie/einsamkeit-was-wir-von-queeren-menschen-ueber-das-alleinsein-lernen-koennen-a-f74127f2-a470-4115-8047-f9d7152723b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T04:49:00+00:00"
-    },
-    {
-      "titel": "11KM-Podcast: Scheuer vor Gericht - Das Maut-Debakel",
-      "link": "https://www.tagesschau.de/podcast-11km-scheuer-prozess-100.html",
+      "titel": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/berentzen-uebernahme-us-konzern-sazerac-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T04:47:22+00:00"
+      "veroeffentlicht": "2026-09-21T08:31:09+00:00"
     },
     {
-      "titel": "Immer mehr Produktrückrufe bei Lebensmitteln",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittel-rueckrufe-100.html",
+      "titel": "Nachruf: Die Überzeugungstäterin",
+      "link": "https://www.sueddeutsche.de/kultur/antje-kunstmann-verlag-muenchen-geschichte-wirkung-li.3549598",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T08:21:41+00:00"
+    },
+    {
+      "titel": "CDU nach den Wahlen: Merz hat keine Chance - die könnte er nutzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T04:45:15+00:00"
+      "veroeffentlicht": "2026-09-21T08:17:37+00:00"
     },
     {
-      "titel": "Laura McAllister: Wer ist die Frau, die sich gegen Fifa-Boss Gianni Infantino erhebt?",
-      "link": "https://www.spiegel.de/sport/fussball/laura-mcallister-wer-ist-die-frau-die-sich-gegen-fifa-boss-gianni-infantino-erhebt-a-8e20f91c-133a-47ae-afb5-62dd51d0a4ac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T04:39:00+00:00"
+      "titel": "Newsblog zur Bundespolitik: CDU-Ministerpräsidenten haben ohne Merz beraten",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-parteien-gremien-pressekonferenz-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T08:12:29+00:00"
     },
     {
-      "titel": "Berlin Abgeordnetenhauswahl: Wie die Linke Berlin erobert hat",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-abgeordnetenhauswahl-wie-die-linke-berlin-erobert-hat-a-4422f96d-65c5-4943-b78d-50ccc9874e8c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T04:22:00+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern-Wahl: Wie die CDU im blau-roten Zweikampf einfach verschwand - Datenanalyse",
-      "link": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-wahl-wie-die-cdu-im-blau-roten-zweikampf-einfach-verschwand-datenanalyse-a-6ca35c2f-d8f1-471a-9d26-947e68436066#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T04:18:00+00:00"
-    },
-    {
-      "titel": "Presley Gerber: Sohn von Cindy Crawford ist tot",
-      "link": "https://www.spiegel.de/panorama/presley-gerber-sohn-von-cindy-crawford-ist-tot-a-fa226f94-a44e-41d2-b9d1-9337fb8c9171#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T04:12:00+00:00"
-    },
-    {
-      "titel": "Karriere: Delegieren lernen – Wege aus dem Dauerstress im Arbeitsalltag",
-      "link": "https://www.spiegel.de/karriere/karriere-delegieren-lernen-wege-aus-dem-dauerstress-im-arbeitsalltag-a-b47665e2-8775-4923-b862-94406e03194a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T03:30:00+00:00"
-    },
-    {
-      "titel": "Fünf Erkenntnisse aus den Wahlen in Mecklenburg-Vorpommern und Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/erkenntnisse-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
+      "titel": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T03:26:35+00:00"
+      "veroeffentlicht": "2026-09-21T08:05:25+00:00"
     },
     {
-      "titel": "Caren Miosga: „Sie machen das, was Frau von Storch Ihnen aufgeschrieben hat“",
-      "link": "https://www.sueddeutsche.de/medien/caren-miosga-mecklenburg-vorpommern-berlin-wahl-kluessendorf-alexander-von-storch-middelberg-li.3550856",
+      "titel": "Streaming: Streik unter mörderischen Bedingungen",
+      "link": "https://www.sueddeutsche.de/medien/slow-horses-gary-oldman-serie-apple-tv-li.3538749",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T03:20:47+00:00"
+      "veroeffentlicht": "2026-09-21T07:57:40+00:00"
     },
     {
-      "titel": "Selenskyj kündigt Treffen mit Trump diese Woche in New York an",
-      "link": "https://www.tagesschau.de/ausland/amerika/treffen-selenskyj-trump-100.html",
+      "titel": "Livestream: Die Nachrichten auf tagesschau24",
+      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T03:17:57+00:00"
+      "veroeffentlicht": "2026-09-21T06:59:27+00:00"
     },
     {
-      "titel": "CDU: Bringt die CDU noch genug Geduld auf für Friedrich Merz?",
-      "link": "https://www.sueddeutsche.de/politik/cdu-wahlergebnis-mecklenburg-vorpommern-berlin-friedrich-merz-parteizukunft-li.3551028",
+      "titel": "Almauftrieb bei Käfer: Das ganze Zelt feiert – und dann wird es hektisch am Tisch von Bill Kaulitz",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-promis-2026-muenchen-almauftrieb-kaeferzelt-bill-kaulitz-oliver-pocher-frank-thelen-fotos-li.3547960",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T03:07:04+00:00"
-    },
-    {
-      "titel": "Ex-Verkehrsminister Scheuer vor Gericht: Vorwurf der Falschaussage",
-      "link": "https://www.tagesschau.de/inland/pkw-maut-scheuer-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T02:36:45+00:00"
-    },
-    {
-      "titel": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
-      "link": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T02:22:58+00:00"
-    },
-    {
-      "titel": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T00:31:52+00:00"
-    },
-    {
-      "titel": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T00:28:23+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Bürgermeister Mamdani will Trump in New York treffen",
-      "link": "https://www.sueddeutsche.de/politik/trump-mamdani-new-york-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T23:01:30+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern und Berlin: Fünf Erkenntnisse aus den Wahlen",
-      "link": "https://www.sueddeutsche.de/politik/wahlen-mecklenburg-vorpommern-berlin-2026-ergebnisse-prognose-analyse-li.3548057",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T22:31:34+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: CDU verpasst Einzug in den Landtag von Schwerin",
-      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-verpasst-einzug-landtag-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T22:27:19+00:00"
-    },
-    {
-      "titel": "TV-Berichterstattung: Wie Merz den „Schicksalsabend“ für sich absagte",
-      "link": "https://www.sueddeutsche.de/medien/merz-fernsehen-cdu-afd-li.3550170",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T22:12:40+00:00"
-    },
-    {
-      "titel": "Wahl in Berlin 2026: Linke laut Hochrechnung deutlich vor der CDU",
-      "link": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-aktuelle-hochrechnung-die-linke-cdu-spd-afd-li.3550919",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T21:17:15+00:00"
-    },
-    {
-      "titel": "Landtagswahl in Mecklenburg-Vorpommern 2026: AfD laut Hochrechnung vor der SPD - CDU muss bangen",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-2026-aktuelle-hochrechnung-afd-spd-cdu-li.3550920",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-20T21:15:40+00:00"
+      "veroeffentlicht": "2026-09-21T06:44:56+00:00"
     }
   ]
 }
