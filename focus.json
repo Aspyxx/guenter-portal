@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-22T11:52:52+00:00",
+  "aktualisiert": "2026-09-22T15:48:17+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Warum ein Buch über Prinzessin Diana für Furore sorgt",
-      "link": "https://www.tagesschau.de/ausland/europa/prinzessin-diana-buch-bruder-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Anleger warten auf Trumps UN-Auftritt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
+      "titel": "Abgestürzte Drohne in Wunstorf - Ermittler finden offenbar Sprengstoff",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/wunstorf-drohne-sprengstoff-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
-      "rang": 3,
-      "titel": "UN wollen neues \"Rolltreppen-Gate\" mit Trump verhindern",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-un-128.html",
+      "rang": 2,
+      "titel": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
+    },
+    {
+      "rang": 3,
+      "titel": "Tote bei russischen Angriffen auf Industriestädte",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-tote-118.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
     }
   ]
 }
