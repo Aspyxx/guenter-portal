@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-22T15:48:17+00:00",
+  "aktualisiert": "2026-09-22T19:18:15+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Abgestürzte Drohne in Wunstorf - Ermittler finden offenbar Sprengstoff",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/wunstorf-drohne-sprengstoff-100.html",
+      "titel": "Plötzlich Prinzessin",
+      "link": "https://www.tagesschau.de/ausland/europa/prinzessin-diana-buch-bruder-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html",
+      "titel": "Tatort Glück Allein",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/behrendt-ballauf-koelner-tatortkommissar-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Tote bei russischen Angriffen auf Industriestädte",
-      "link": "https://www.tagesschau.de/ausland/asien/ukraine-tote-118.html",
+      "titel": "Merz und die Krankenkassen - was meinte der Kanzler?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🏛️"
     }
   ]
 }
