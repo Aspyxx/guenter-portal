@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-22T14:56:37+00:00",
+  "aktualisiert": "2026-09-22T18:56:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Markus Söder: Warum der CSU-Chef seine Kanzlerchancen über Umwege sucht",
-      "link": "https://www.spiegel.de/politik/deutschland/markus-soeder-warum-der-csu-chef-seine-kanzlerchancen-ueber-umwege-sucht-a-4f10776c-6ecb-42af-897a-3aa405f41f58#ref=rss",
+      "titel": "Sachsen: Kein Anspruch auf Lehrerausbildung für Tochter von Götz Kubitschek",
+      "link": "https://www.spiegel.de/panorama/bildung/sachsen-kein-anspruch-auf-lehrerausbildung-fuer-tochter-von-goetz-kubitschek-a-a9deaae5-091c-4a00-9ff4-5c934cdf63a8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:45:00+00:00"
+      "veroeffentlicht": "2026-09-22T18:47:00+00:00"
+    },
+    {
+      "titel": "Berlin: Zentralrat der Juden warnt vor Linke-Regierung",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-zentralrat-der-juden-warnt-vor-linke-regierung-a-98ef2a95-0bcb-4781-a996-7cc93cc99921#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T18:43:00+00:00"
+    },
+    {
+      "titel": "Merz und die Krankenkassen - was meinte der Kanzler?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T18:27:10+00:00"
+    },
+    {
+      "titel": "Trump bei den UN: „Soll ich sie zur Hölle schicken?“",
+      "link": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-ki-klimawandel-li.3551641",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-22T18:21:56+00:00"
+    },
+    {
+      "titel": "Kommentar zum Grönland-Abkommen: Ein alter Deal in neuer Verpackung",
+      "link": "https://www.tagesschau.de/kommentar/groenland-abkommen-trump-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T18:11:15+00:00"
+    },
+    {
+      "titel": "Marsberg: 15-Jähriger im Sauerland getötet – Verdächtige stellen sich",
+      "link": "https://www.spiegel.de/panorama/justiz/marsberg-15-jaehriger-im-sauerland-getoetet-polizei-sucht-zwei-maenner-a-98be5c94-e5f8-4bbd-a052-12d0be99efd7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T18:11:00+00:00"
+    },
+    {
+      "titel": "Sympatex-Prozess: Warum der gefallene Starberater Stephan Goetz sich als Justizopfer sieht",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/sympatex-prozess-warum-der-gefallene-starberater-stephan-goetz-sich-als-justizopfer-sieht-a-a0168c35-40b7-4ce3-a4ea-7fbf5cd64d5c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T17:45:00+00:00"
+    },
+    {
+      "titel": "Wunstorf: Gefundene Drohne weist »Parallelen« zur Drohne von Leipziger Flughafen auf",
+      "link": "https://www.spiegel.de/politik/wunstorf-gefundene-drohne-weisst-parallelen-zur-drohne-von-leipziger-flughafen-auf-a-74ee9669-8935-4438-891a-078e1a2a08e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T17:41:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Ex-CDU-Generalsekretär Mario Czaja übt heftige Kritik",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-ex-cdu-generalsekretaer-mario-czaja-uebt-heftige-kritik-a-cb60b3b7-3f37-4f45-95ca-6411d2321fd3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T17:39:00+00:00"
+    },
+    {
+      "titel": "EU streicht zwei russische Oligarchen von Sanktionsliste",
+      "link": "https://www.tagesschau.de/ausland/europa/sanktionen-eu-oligarchen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T17:11:38+00:00"
+    },
+    {
+      "titel": "Drohnenabwehr in Deutschland: Was das DLR in Sachsen-Anhalt erforscht",
+      "link": "https://www.spiegel.de/wissenschaft/technik/drohnenabwehr-in-deutschland-was-das-dlr-in-sachsen-anhalt-erforscht-a-5414b56f-8128-4943-a843-d7716438286e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T17:09:00+00:00"
+    },
+    {
+      "titel": "Nordkorea: Warum Südkoreas Präsident die Sanktionen lockern will",
+      "link": "https://www.spiegel.de/ausland/nordkorea-warum-suedkoreas-praesident-die-sanktionen-lockern-will-a-c81cc0fc-79f7-4763-bbc7-ee984846e057#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T17:09:00+00:00"
+    },
+    {
+      "titel": "Olympia in Deutschland: Kommission setzt München vor Rhein-Ruhr und Berlin",
+      "link": "https://www.spiegel.de/sport/olympia/olympia-in-deutschland-kommission-setzt-muenchen-vor-rhein-ruhr-und-berlin-a-dae4ead6-6320-49b8-b880-c3aa827a08bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T16:37:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Die Märkte hoffen auf Frieden",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T16:35:53+00:00"
+    },
+    {
+      "titel": "Bundestag: Die Abgeordneten sind sauer, aber vorerst schonen sie den Kanzler",
+      "link": "https://www.sueddeutsche.de/politik/friedrich-merz-unionsfraktion-sitzung-cdu-bundestag-li.3552143",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-22T16:19:02+00:00"
     },
     {
       "titel": "Reaktionen auf tödlichen Wiesn-Unfall: „Unser ganzes Team ist geschockt und entsetzt“",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-unfall-fahrgeschaeft-hangover-freefall-reaktionen-ursache-li.3551977",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T14:42:00+00:00"
+      "veroeffentlicht": "2026-09-22T16:18:00+00:00"
     },
     {
-      "titel": "Réne Benko in neuem Verfahren zu zweieinhalb Jahren Haft verurteilt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-in-neuem-verfahren-zu-zweieinhalb-jahren-haft-verurteilt-a-f72ebb4c-b656-4675-b1db-ead264e20f62#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:40:00+00:00"
-    },
-    {
-      "titel": "Rammo: Wer genau steckt hinter dem Clan und wer ist Issa Rammo?",
-      "link": "https://www.spiegel.de/panorama/rammo-wer-genau-steckt-hinter-dem-clan-und-wer-ist-issa-rammo-a-a3c1da98-6ac3-4652-914c-039f51021173#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:30:00+00:00"
-    },
-    {
-      "titel": "IG Metall will fünf Prozent mehr Lohn fordern",
-      "link": "https://www.spiegel.de/wirtschaft/ig-metall-wird-offenbar-fuenf-prozent-mehr-lohn-fordern-a-cb61bed9-620e-494e-b13c-e9c012003874#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:25:00+00:00"
-    },
-    {
-      "titel": "Spangdahlem in Rheinland-Pfalz: Militärflugzeug bei US-Airbase abgestürzt – ein Verletzter",
-      "link": "https://www.spiegel.de/politik/spangdahlem-in-rheinland-pfalz-militaerflugzeug-bei-us-airbase-abgestuerzt-ein-verletzter-a-585677f9-f510-4c73-a6dd-7aaf2a414ffa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:21:00+00:00"
-    },
-    {
-      "titel": "Jimmy Kimmel und Matthew McConaughey – große Emotionen auf der Herrentoilette",
-      "link": "https://www.spiegel.de/kultur/tv/jimmy-kimmel-und-matthew-mcconaughey-grosse-emotionen-auf-der-herrentoilette-a-02d89945-7684-4348-9b55-abb9442ef582#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:18:00+00:00"
-    },
-    {
-      "titel": "Nach Berlin-Wahl: SPD-Fraktionschef Saleh will nicht erneut kandidieren",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/spd-fraktionschef-saleh-100.html",
+      "titel": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T14:13:46+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Iran stellt vor UN-Treffen Öffnung der Straße von Hormus in Aussicht",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-un-strasse-von-hormus-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T14:10:03+00:00"
-    },
-    {
-      "titel": "Marsberg im Hochsauerland: 15-Jähriger getötet – Polizei sucht zwei Männer",
-      "link": "https://www.spiegel.de/panorama/justiz/marsberg-im-hochsauerland-15-jaehriger-getoetet-polizei-sucht-zwei-maenner-a-98be5c94-e5f8-4bbd-a052-12d0be99efd7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:09:00+00:00"
-    },
-    {
-      "titel": "UNHCR rechnet bald mit 230.000 Vertriebenen im Jemen",
-      "link": "https://www.tagesschau.de/ausland/asien/hunderttausende-vertriebene-jemen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T14:05:57+00:00"
-    },
-    {
-      "titel": "Auf Acker bei Köln: Sondengänger findet Schatz aus der Römerzeit",
-      "link": "https://www.spiegel.de/wissenschaft/auf-acker-bei-koeln-sondengaenger-findet-schatz-aus-der-roemerzeit-a-ea5f270f-d89d-432d-b812-ead4a92e3593#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:05:00+00:00"
-    },
-    {
-      "titel": "CDU-Politiker Bareiß trotz Ermittlungen der Staatsanwaltschaft zurück im Bundestag",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-politiker-bareiss-trotz-ermittlungen-der-staatsanwaltschaft-zurueck-im-bundestag-a-30f3163a-b7cc-4a90-951d-1697e185b0fc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T14:02:00+00:00"
-    },
-    {
-      "titel": "Die Linke: Ferat Koçak zieht sich vorerst zurück",
-      "link": "https://www.sueddeutsche.de/politik/ferat-kocak-remmo-berlin-bundestag-rueckzug-li.3552272",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T14:01:12+00:00"
-    },
-    {
-      "titel": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T13:46:48+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
-      "link": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T13:45:32+00:00"
+      "veroeffentlicht": "2026-09-22T16:12:08+00:00"
     },
     {
       "titel": "Wahlparty in Berlin: Linken-Politiker Kocak distanziert sich von Remmo",
       "link": "https://www.tagesschau.de/inland/regional/berlin/linken-politiker-kocak-remmo-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T13:26:00+00:00"
+      "veroeffentlicht": "2026-09-22T16:11:18+00:00"
     },
     {
-      "titel": "Newsblog zu den Landtagswahlen: Linke-Abgeordneter Koçak zieht sich vorerst aus der Öffentlichkeit zurück",
-      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-linke-kocak-remmo-clankriminalitaet-li.3540501",
+      "titel": "USA-Newsblog: Grönland, USA und Dänemark unterzeichnen Abkommen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-un-groenland-daenemark-abkommen-li.3530667",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T13:17:24+00:00"
+      "veroeffentlicht": "2026-09-22T16:10:00+00:00"
     },
     {
-      "titel": "Oktoberfest: Festnahme nach Upskirting im Festzelt",
+      "titel": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T16:02:38+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Nach tödlichem Mitarbeiter-Unfall: „Hangover“ nimmt Betrieb wieder auf",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-dienstag-toedlicher-unfall-hangover-fahrgeschaeft-upskirting-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T13:04:00+00:00"
+      "veroeffentlicht": "2026-09-22T15:56:00+00:00"
     },
     {
-      "titel": "Franziska Giffey: „Wir können den Leuten nicht erzählen, ihr seht das Problem nur falsch“",
-      "link": "https://www.sueddeutsche.de/politik/franziska-giffey-berlin-wahl-karriere-li.3551682",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T13:01:11+00:00"
-    },
-    {
-      "titel": "Joyce Beatty: Diese Frau will das Kennedy Center vor Donald Trump retten",
-      "link": "https://www.sueddeutsche.de/meinung/joyce-beatty-trump-kennedy-center-washington-profil-li.3549822",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T12:57:57+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Tote bei russischen Angriffen auf Industriestädte",
-      "link": "https://www.tagesschau.de/ausland/asien/ukraine-tote-118.html",
+      "titel": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/frauengesundheit-forschung-allianz-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T12:57:28+00:00"
+      "veroeffentlicht": "2026-09-22T15:50:46+00:00"
     },
     {
-      "titel": "Britisches Königshaus: König Charles, das bockige Kind",
-      "link": "https://www.sueddeutsche.de/panorama/prinzessin-diana-buch-earl-spencer-koenig-charles-bockig-li.3551578",
+      "titel": "Union und SPD wollen noch mal über Reformen verhandeln",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T15:49:08+00:00"
+    },
+    {
+      "titel": "Podcast: „Auf den Punkt“: Kann die Linke in Berlin regieren?",
+      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-linke-berlin-eralp-li.3552010",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T12:54:37+00:00"
+      "veroeffentlicht": "2026-09-22T15:08:18+00:00"
     },
     {
-      "titel": "Philipp Amthor: „Die CDU ist nie tot, sie wird mehr gebraucht denn je!“",
-      "link": "https://www.sueddeutsche.de/politik/philipp-amthor-cdu-mecklenburg-vorpommern-landespartei-vorsitz-li.3551984",
+      "titel": "„International Panel on Inequality“: Deutsche Wissenschaftler fordern Welt-Ungleichheitsrat",
+      "link": "https://www.sueddeutsche.de/wirtschaft/ungleichheitsrat-forderungen-professoren-politiker-li.3550044",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T12:19:41+00:00"
+      "veroeffentlicht": "2026-09-22T15:07:52+00:00"
     },
     {
-      "titel": "Debatte über Krankenkassensystem: \"Merz hat recht\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-system-merz-debatte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T12:00:24+00:00"
+      "titel": "Joseph Stiglitz: „Hohe Ungleichheit schwächt langfristig die Wirtschaftsleistung“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/ungleichheit-wirtschaft-interview-stiglitz-li.3551053",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-22T15:06:52+00:00"
     },
     {
-      "titel": "Iran-Krieg und Last-Minute-Trend zehren an TUI-Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-tui-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T12:00:03+00:00"
-    },
-    {
-      "titel": "AfD-Wahlerfolg in Sachsen-Anhalt: Steht die Kulturpolitik vor einem Kurswechsel?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/afd-sachsen-anhalt-kultur-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T11:06:01+00:00"
+      "titel": "Newsblog zu den Landtagswahlen: Berliner SPD-Fraktionschef tritt nicht mehr an und kritisiert Partei",
+      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-raed-saleh-kritik-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-22T14:50:00+00:00"
     }
   ]
 }
