@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-22T00:09:09+00:00",
+  "aktualisiert": "2026-09-22T05:00:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,112 @@
   },
   "meldungen": [
     {
-      "titel": "Oktoberfest: Mitarbeiter stirbt bei Unfall mit Free-Fall-Turm",
-      "link": "https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-stirbt-bei-unfall-mit-free-fall-turm-a-4cbe9819-9b96-4dbe-a450-af07b0401f6b#ref=rss",
+      "titel": "Wolfgang Petry wird 75: Deutsche Oasis",
+      "link": "https://www.spiegel.de/kultur/musik/wolfgang-petry-wird-75-deutsche-oasis-a-b70b4cfb-143c-4df8-aef8-0f6b3384dd9c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T23:31:00+00:00"
+      "veroeffentlicht": "2026-09-22T04:48:00+00:00"
+    },
+    {
+      "titel": "Unfall auf Oktoberfest: Mitarbeiter tödlich verunglückt",
+      "link": "https://www.tagesschau.de/inland/oktoberfest-unfall-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T04:47:30+00:00"
+    },
+    {
+      "titel": "Ägypten: Geschäftssinn in Kairos Schönheitssalons",
+      "link": "https://www.spiegel.de/ausland/aegypten-geschaeftssinn-in-kairos-schoenheitssalons-a-3aca9245-98ae-46c2-b1d0-e4818e9edb37#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T04:47:00+00:00"
+    },
+    {
+      "titel": "Schlaf und Gesundheit: Wie Sie die beste Schlafposition für sich finden",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/schlaf-und-gesundheit-wie-sie-die-beste-schlafposition-fuer-sich-finden-a-6f4d2132-2e61-4cb9-a072-0132117bbb73#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T04:43:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Trump: Mamdani hat Potenzial zu großartigem Bürgermeister",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-mamdani-lob-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-22T04:29:41+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Regierung bringt Tankrabatt auf den Weg",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-parteien-merz-tankrabatt-regierung-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-22T04:13:25+00:00"
+    },
+    {
+      "titel": "Tote und Vermisste nach Taifun \"Dujuan\" in Japan",
+      "link": "https://www.tagesschau.de/ausland/japan-taifun-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T04:08:44+00:00"
+    },
+    {
+      "titel": "Donald Trump wirft Journalisten raus - und wird nun vor Gericht gezerrt",
+      "link": "https://www.spiegel.de/ausland/donald-trump-wirft-journalisten-raus-und-wird-nun-vor-gericht-gezerrt-a-12a6d462-72ec-4a9e-908d-ef7e006216a5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T04:07:00+00:00"
+    },
+    {
+      "titel": "Windenergiebranche: Milliardenpoker um Offshore-Parks",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bp-offshore-windparks-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T04:00:16+00:00"
+    },
+    {
+      "titel": "»Swang Song«: Klatsch über Charles und eine Affäre mit der Queen. Was steht wirklich im Enthüllungsbuch von Dianas Bruder?",
+      "link": "https://www.spiegel.de/kultur/swang-song-klatsch-ueber-charles-und-eine-affaere-mit-der-queen-was-steht-wirklich-im-enthuellungsbuch-von-dianas-bruder-a-4fc9d3c8-6165-4d40-9088-cb30ed3a55be#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T03:50:00+00:00"
+    },
+    {
+      "titel": "News: Friedrich Merz in Berlin statt New York, Boom in Cottbus, Charles Spencer schreibt über Prinzessin Diana",
+      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-berlin-statt-new-york-boom-in-cottbus-charles-spencer-schreibt-ueber-prinzessin-diana-a-e29cc826-2a3c-43ec-90e6-717c575904b0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T03:45:00+00:00"
+    },
+    {
+      "titel": "Regeneration: Hype um Recovery-Technologien – welche Geräte Sie wirklich brauchen",
+      "link": "https://www.spiegel.de/fitness/regeneration-hype-um-recovery-technologien-welche-geraete-sie-wirklich-brauchen-a-15c35fb0-6e57-47ab-963e-cad7208e0c78#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T03:30:00+00:00"
+    },
+    {
+      "titel": "Kabinett bringt Tankrabatt auf den Weg",
+      "link": "https://www.tagesschau.de/wirtschaft/tankrabatt-254.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T03:04:01+00:00"
+    },
+    {
+      "titel": "Autoindustrie: Studie warnt vor teureren E-Autos durch EU-Zölle und Auflagen",
+      "link": "https://www.spiegel.de/wirtschaft/autoindustrie-studie-warnt-vor-teureren-e-autos-durch-eu-zoelle-und-auflagen-a-645fc0ed-3a21-4553-a18d-5c2538955d0d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T03:02:00+00:00"
+    },
+    {
+      "titel": "Angela-Merkel-Porträt: Warum sich die Ex-Kanzlerin in einem blauen Blazer malen ließ",
+      "link": "https://www.spiegel.de/panorama/angela-merkel-portraet-warum-sich-die-ex-kanzlerin-in-einem-blauen-blazer-malen-liess-a-f2093b90-c0cf-46bb-8419-fe9c84ce1825#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T02:56:00+00:00"
+    },
+    {
+      "titel": "Was die Wahlergebnisse für die Regierungsbildungen bedeuten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-berlin-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T02:53:25+00:00"
+    },
+    {
+      "titel": "Reaktionen auf Wahlen: Deutschland sorgt gerade viele in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-afd-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T02:05:13+00:00"
+    },
+    {
+      "titel": "UN-Generaldebatte in New York - Rede von Trump geplant",
+      "link": "https://www.tagesschau.de/ausland/un-trump-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T00:39:03+00:00"
     },
     {
       "titel": "Oktoberfest: Oktoberfest: Mitarbeiter nach Fahrgeschäft-Unfall gestorben",
@@ -19,28 +121,10 @@
       "veroeffentlicht": "2026-09-21T23:12:16+00:00"
     },
     {
-      "titel": "Neuer Nationaltrainer: Jürgen Klopp buhlt in Brief um die Hilfe alle Ex-Fußballnationalspieler",
-      "link": "https://www.spiegel.de/sport/fussball/neuer-nationaltrainer-juergen-klopp-buhlt-in-brief-um-die-hilfe-alle-ex-fussballnationalspieler-a-e1d4e1a1-8cd1-43ed-8a7f-78531516a2fa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T23:09:00+00:00"
-    },
-    {
       "titel": "SPD-Vize Rehlinger fordert \"echte Reformen und nicht nur Kürzungsvorschläge\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-regierung-rehlinger-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-21T22:55:54+00:00"
-    },
-    {
-      "titel": "Kanada: Mann eröffnet Feuer auf Polizisten vor Synagoge",
-      "link": "https://www.spiegel.de/panorama/kanada-mann-eroeffnet-feuer-auf-polizisten-vor-synagoge-a-7ed2eddc-e2cc-44ec-9f92-7a56d4580e85#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T21:55:00+00:00"
-    },
-    {
-      "titel": "Ferat Koçak: Linkenabgeordneter erklärt sich zu Chats mit Remmo-Sohn",
-      "link": "https://www.spiegel.de/politik/ferat-kocak-linkenabgeordneter-erklaert-sich-zu-chats-mit-remmo-sohn-a-69c91948-030c-4b73-9b70-85f2aec866ac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T21:23:00+00:00"
     },
     {
       "titel": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
@@ -49,40 +133,16 @@
       "veroeffentlicht": "2026-09-21T21:20:07+00:00"
     },
     {
-      "titel": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T20:59:55+00:00"
-    },
-    {
-      "titel": "USA: Trumps Zustimmungswerte fallen auf Rekordtief",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-umfrage-zwischenwahlen-li.3530667",
+      "titel": "USA: Solidarität mit CNN: US-Sender schränken Trump-Begleitung ein",
+      "link": "https://www.sueddeutsche.de/medien/weisses-haus-cnn-politico-klagen-trump-li.3551745",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T19:53:05+00:00"
+      "veroeffentlicht": "2026-09-21T18:47:54+00:00"
     },
     {
-      "titel": "US-Ostküste: Flugstopp an mehreren Flughäfen",
-      "link": "https://www.spiegel.de/mobilitaet/us-ostkueste-flugstopp-an-mehreren-flughaefen-a-824afdb3-0ce4-4419-9fa4-efd2883eb44b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T19:15:00+00:00"
-    },
-    {
-      "titel": "So gefährden die eigenen Genossen Eralps Einzug ins Rote Rathaus",
-      "link": "https://www.spiegel.de/politik/deutschland/so-gefaehrden-die-eigenen-genossen-eralps-einzug-ins-rote-rathaus-a-8cb8e614-c19f-4271-8222-536dd21e8a20#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T18:52:00+00:00"
-    },
-    {
-      "titel": "Nach Rauswurf durch Trump - Sender schränken Berichterstattung ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T18:36:07+00:00"
-    },
-    {
-      "titel": "Wahl in Mecklenburg-Vorpommern: CDU-Chef Peters geht, Amthor rückt nach",
-      "link": "https://www.spiegel.de/politik/wahl-in-mecklenburg-vorpommern-cdu-chef-peters-geht-amthor-rueckt-nach-a-309c33c5-fdb9-4322-b5ae-4f45997b3c61#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T18:20:00+00:00"
+      "titel": "Debatte: Was, wenn Frauen nicht mehr gegen ihre Interessen wählen?",
+      "link": "https://www.sueddeutsche.de/kultur/linke-landtagswahl-berlin-mecklenburg-vorpommern-elif-eralp-simone-oldenburg-li.3551260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T18:22:55+00:00"
     },
     {
       "titel": "Newsblog zu den Landtagswahlen: Spitzenkandidat Peters tritt nach CDU-Debakel in Mecklenburg-Vorpommern zurück",
@@ -91,52 +151,10 @@
       "veroeffentlicht": "2026-09-21T18:07:06+00:00"
     },
     {
-      "titel": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-mv-berlin-cdu-folgen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T18:03:50+00:00"
-    },
-    {
       "titel": "Bundesregierung: Merz: Rente mit 63 habe im Wahlkampf „praktisch keine Rolle gespielt“",
       "link": "https://www.sueddeutsche.de/politik/rente-merz-spd-cdu-wahlen-li.3551216",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-21T17:44:00+00:00"
-    },
-    {
-      "titel": "Andreas Scheuer und die Pkw-Maut: Der Ex-Minister will an ein Verschiebeangebot keine Erinnerung haben – damals nicht, heute auch nicht",
-      "link": "https://www.spiegel.de/panorama/justiz/andreas-scheuer-und-die-pkw-maut-der-ex-minister-will-an-ein-verschiebeangebot-keine-erinnerung-haben-damals-nicht-heute-auch-nicht-a-c7c26999-aa32-413b-9ecf-e199f661ca12#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T17:43:00+00:00"
-    },
-    {
-      "titel": "Paramount und Warner Bros.: Einigung im Streit um 111-Milliarden-Fusion",
-      "link": "https://www.spiegel.de/wirtschaft/paramount-und-warner-bros-einigung-im-streit-um-111-milliarden-fusion-a-6f0b6fba-c09c-4776-811d-df34a2a1f21c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T17:43:00+00:00"
-    },
-    {
-      "titel": "Klage gegen Paramount: Streit über Warner-Übernahme offenbar beigelegt",
-      "link": "https://www.tagesschau.de/wirtschaft/warner-paramount-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T17:20:54+00:00"
-    },
-    {
-      "titel": "Merz kündigt Gesetz gegen linke Enteignungspläne an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/enteignung-vergesellschaftung-wohnungen-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T17:11:31+00:00"
-    },
-    {
-      "titel": "Marktbericht: Entspannung am Ölmarkt stützt den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T16:27:04+00:00"
-    },
-    {
-      "titel": "Duma-Wahl: Putins Sieg an der Zahlenfront",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-nach-duma-wahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T16:08:23+00:00"
     },
     {
       "titel": "Wiesnbummel von Hummels: Willkommen bei Cathys Content-Basar",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-teufelsrad-upskirting-videos-recherche-meta-youtube-tiktok-monetarisierung-li.3544366",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-21T15:04:33+00:00"
-    },
-    {
-      "titel": "Ed Sheeran: Und? Auf welcher Seite stehst du?",
-      "link": "https://www.sueddeutsche.de/kultur/ed-sheeran-macklemore-gaza-israel-debatte-li.3549373",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T15:02:25+00:00"
-    },
-    {
-      "titel": "Ludwig-Maximilians-Universität: Was zum Hackerangriff auf die LMU bekannt ist",
-      "link": "https://www.sueddeutsche.de/muenchen/lmu-muenchen-hackerangriff-studierendendaten-umfang-folgen-li.3551232",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T14:50:00+00:00"
-    },
-    {
-      "titel": "Queeres Event auf dem Oktoberfest: „Jeder, der hier ist, setzt ein Statement“",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-rosa-montag-braeurosl-li.3545955",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T14:31:29+00:00"
     }
   ]
 }
