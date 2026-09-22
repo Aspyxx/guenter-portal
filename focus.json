@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-22T01:18:24+00:00",
+  "aktualisiert": "2026-09-22T06:23:19+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "UN-Generaldebatte in New York - Rede von Trump geplant",
-      "link": "https://www.tagesschau.de/ausland/un-trump-102.html",
+      "titel": "Unfall Oktoberfest",
+      "link": "https://www.tagesschau.de/inland/oktoberfest-unfall-104.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Was Beschäftigte in der Autoindustrie dem Management vorwerfen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autoindustrie-protest-aktionstag-mercedes-100.html",
+      "titel": "Nachrichten",
+      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Streit über Warner-Übernahme offenbar beigelegt",
-      "link": "https://www.tagesschau.de/wirtschaft/warner-paramount-110.html",
+      "titel": "DAX könnte Erholung fortsetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     }
   ]
 }
