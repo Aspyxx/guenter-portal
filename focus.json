@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-22T06:23:19+00:00",
+  "aktualisiert": "2026-09-22T11:52:52+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Unfall Oktoberfest",
-      "link": "https://www.tagesschau.de/inland/oktoberfest-unfall-104.html",
+      "titel": "Warum ein Buch über Prinzessin Diana für Furore sorgt",
+      "link": "https://www.tagesschau.de/ausland/europa/prinzessin-diana-buch-bruder-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Nachrichten",
-      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
+      "titel": "Anleger warten auf Trumps UN-Auftritt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "DAX könnte Erholung fortsetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
+      "titel": "UN wollen neues \"Rolltreppen-Gate\" mit Trump verhindern",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-un-128.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     }
   ]
 }
