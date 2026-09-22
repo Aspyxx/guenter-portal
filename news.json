@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-22T18:56:26+00:00",
+  "aktualisiert": "2026-09-22T22:11:42+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,76 @@
   },
   "meldungen": [
     {
+      "titel": "Trump würde Richterspruch zu CNN und Co. »wahrscheinlich« befolgen",
+      "link": "https://www.spiegel.de/ausland/trump-wuerde-richterspruch-zu-cnn-und-co-wahrscheinlich-befolgen-a-17bd27dc-c7aa-4475-95c9-8f55c3dd00c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T21:41:00+00:00"
+    },
+    {
+      "titel": "Vereinte Nationen: Gaza, Gaza und nochmal Gaza",
+      "link": "https://www.sueddeutsche.de/politik/diplomatie-usa-trump-palaestina-vereinte-nationen-li.3552073",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-22T21:21:06+00:00"
+    },
+    {
+      "titel": "Leizen: Verdacht auf giftiges Quecksilber – DHL-Zentrum evakuiert",
+      "link": "https://www.spiegel.de/panorama/leizen-verdacht-auf-giftiges-quecksilber-dhl-zentrum-evakuiert-a-09a4c753-133f-468b-b797-f2ffb9cbd51e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T20:24:00+00:00"
+    },
+    {
+      "titel": "Champions League: Die Bayern-Frauen verlieren zwei Punkte im Pyro-Nebel",
+      "link": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-manchester-city-fussball-frauen-pyro-li.3552400",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-22T20:05:04+00:00"
+    },
+    {
+      "titel": "Taylor Swift kündigt neue Single »Patient Zero« an",
+      "link": "https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-neue-single-patient-zero-an-a-07d989ed-e702-4370-8a65-1c218eebd820#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T20:01:00+00:00"
+    },
+    {
+      "titel": "Clavicular: »Looksmaxxing«-Influencer wegen Vergewaltigung angeklagt",
+      "link": "https://www.spiegel.de/panorama/clavicular-looksmaxxing-influencer-wegen-vergewaltigung-angeklagt-a-f3b70a77-2922-495a-b813-a0ff5592dc94#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T20:00:00+00:00"
+    },
+    {
+      "titel": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T19:58:52+00:00"
+    },
+    {
+      "titel": "Olympia in Deutschland: München punktet bei Reisezeiten, Rhein-Ruhr bei Tickets",
+      "link": "https://www.spiegel.de/sport/olympia/olympia-in-deutschland-muenchen-punktet-bei-reisezeiten-rhein-ruhr-bei-tickets-a-c2f558a8-04bc-4d8e-9163-560f090b7ae3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T19:28:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: EU hebt Sanktionen gegen zwei russische Milliardäre auf",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-eu-hebt-sanktionen-gegen-zwei-russische-milliardaere-auf-a-8d56c46a-89f8-40ed-b2a8-37f27f747d84#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T19:28:00+00:00"
+    },
+    {
+      "titel": "Jordaniens König: Israel will palästinensisches Leben in Gaza auslöschen",
+      "link": "https://www.spiegel.de/ausland/jordaniens-koenig-israel-will-palaestinensisches-leben-in-gaza-ausloeschen-a-df86eaad-8675-494d-8d59-1eced5cac897#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T19:26:00+00:00"
+    },
+    {
+      "titel": "CDU/CSU: Ex-Fraktionschef Brinkhaus rechnet mit Friedrich Merz ab",
+      "link": "https://www.spiegel.de/politik/deutschland/cdu-csu-ex-fraktionschef-brinkhaus-rechnet-mit-friedrich-merz-ab-a-af21db75-8dcc-4cbb-80c8-ca80524e0c18#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T19:24:00+00:00"
+    },
+    {
       "titel": "Sachsen: Kein Anspruch auf Lehrerausbildung für Tochter von Götz Kubitschek",
       "link": "https://www.spiegel.de/panorama/bildung/sachsen-kein-anspruch-auf-lehrerausbildung-fuer-tochter-von-goetz-kubitschek-a-a9deaae5-091c-4a00-9ff4-5c934cdf63a8#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-22T18:47:00+00:00"
-    },
-    {
-      "titel": "Berlin: Zentralrat der Juden warnt vor Linke-Regierung",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-zentralrat-der-juden-warnt-vor-linke-regierung-a-98ef2a95-0bcb-4781-a996-7cc93cc99921#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T18:43:00+00:00"
     },
     {
       "titel": "Merz und die Krankenkassen - was meinte der Kanzler?",
@@ -37,52 +97,10 @@
       "veroeffentlicht": "2026-09-22T18:11:15+00:00"
     },
     {
-      "titel": "Marsberg: 15-Jähriger im Sauerland getötet – Verdächtige stellen sich",
-      "link": "https://www.spiegel.de/panorama/justiz/marsberg-15-jaehriger-im-sauerland-getoetet-polizei-sucht-zwei-maenner-a-98be5c94-e5f8-4bbd-a052-12d0be99efd7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T18:11:00+00:00"
-    },
-    {
-      "titel": "Sympatex-Prozess: Warum der gefallene Starberater Stephan Goetz sich als Justizopfer sieht",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/sympatex-prozess-warum-der-gefallene-starberater-stephan-goetz-sich-als-justizopfer-sieht-a-a0168c35-40b7-4ce3-a4ea-7fbf5cd64d5c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T17:45:00+00:00"
-    },
-    {
-      "titel": "Wunstorf: Gefundene Drohne weist »Parallelen« zur Drohne von Leipziger Flughafen auf",
-      "link": "https://www.spiegel.de/politik/wunstorf-gefundene-drohne-weisst-parallelen-zur-drohne-von-leipziger-flughafen-auf-a-74ee9669-8935-4438-891a-078e1a2a08e5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T17:41:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Ex-CDU-Generalsekretär Mario Czaja übt heftige Kritik",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-ex-cdu-generalsekretaer-mario-czaja-uebt-heftige-kritik-a-cb60b3b7-3f37-4f45-95ca-6411d2321fd3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T17:39:00+00:00"
-    },
-    {
       "titel": "EU streicht zwei russische Oligarchen von Sanktionsliste",
       "link": "https://www.tagesschau.de/ausland/europa/sanktionen-eu-oligarchen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-22T17:11:38+00:00"
-    },
-    {
-      "titel": "Drohnenabwehr in Deutschland: Was das DLR in Sachsen-Anhalt erforscht",
-      "link": "https://www.spiegel.de/wissenschaft/technik/drohnenabwehr-in-deutschland-was-das-dlr-in-sachsen-anhalt-erforscht-a-5414b56f-8128-4943-a843-d7716438286e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T17:09:00+00:00"
-    },
-    {
-      "titel": "Nordkorea: Warum Südkoreas Präsident die Sanktionen lockern will",
-      "link": "https://www.spiegel.de/ausland/nordkorea-warum-suedkoreas-praesident-die-sanktionen-lockern-will-a-c81cc0fc-79f7-4763-bbc7-ee984846e057#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T17:09:00+00:00"
-    },
-    {
-      "titel": "Olympia in Deutschland: Kommission setzt München vor Rhein-Ruhr und Berlin",
-      "link": "https://www.spiegel.de/sport/olympia/olympia-in-deutschland-kommission-setzt-muenchen-vor-rhein-ruhr-und-berlin-a-dae4ead6-6320-49b8-b880-c3aa827a08bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T16:37:00+00:00"
     },
     {
       "titel": "Marktbericht: Die Märkte hoffen auf Frieden",
@@ -139,12 +157,6 @@
       "veroeffentlicht": "2026-09-22T15:50:46+00:00"
     },
     {
-      "titel": "Union und SPD wollen noch mal über Reformen verhandeln",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T15:49:08+00:00"
-    },
-    {
       "titel": "Podcast: „Auf den Punkt“: Kann die Linke in Berlin regieren?",
       "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-linke-berlin-eralp-li.3552010",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/ungleichheitsrat-forderungen-professoren-politiker-li.3550044",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-22T15:07:52+00:00"
-    },
-    {
-      "titel": "Joseph Stiglitz: „Hohe Ungleichheit schwächt langfristig die Wirtschaftsleistung“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/ungleichheit-wirtschaft-interview-stiglitz-li.3551053",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T15:06:52+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Berliner SPD-Fraktionschef tritt nicht mehr an und kritisiert Partei",
-      "link": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-raed-saleh-kritik-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-22T14:50:00+00:00"
     }
   ]
 }
