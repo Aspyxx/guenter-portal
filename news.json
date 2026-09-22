@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-21T21:05:30+00:00",
+  "aktualisiert": "2026-09-22T00:09:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,58 @@
   },
   "meldungen": [
     {
+      "titel": "Oktoberfest: Mitarbeiter stirbt bei Unfall mit Free-Fall-Turm",
+      "link": "https://www.spiegel.de/panorama/oktoberfest-mitarbeiter-stirbt-bei-unfall-mit-free-fall-turm-a-4cbe9819-9b96-4dbe-a450-af07b0401f6b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T23:31:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Oktoberfest: Mitarbeiter nach Fahrgeschäft-Unfall gestorben",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-unfall-hangover-fahrgeschaeft-mitarbeiter-verletzt-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-21T23:12:16+00:00"
+    },
+    {
+      "titel": "Neuer Nationaltrainer: Jürgen Klopp buhlt in Brief um die Hilfe alle Ex-Fußballnationalspieler",
+      "link": "https://www.spiegel.de/sport/fussball/neuer-nationaltrainer-juergen-klopp-buhlt-in-brief-um-die-hilfe-alle-ex-fussballnationalspieler-a-e1d4e1a1-8cd1-43ed-8a7f-78531516a2fa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T23:09:00+00:00"
+    },
+    {
+      "titel": "SPD-Vize Rehlinger fordert \"echte Reformen und nicht nur Kürzungsvorschläge\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-regierung-rehlinger-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T22:55:54+00:00"
+    },
+    {
+      "titel": "Kanada: Mann eröffnet Feuer auf Polizisten vor Synagoge",
+      "link": "https://www.spiegel.de/panorama/kanada-mann-eroeffnet-feuer-auf-polizisten-vor-synagoge-a-7ed2eddc-e2cc-44ec-9f92-7a56d4580e85#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T21:55:00+00:00"
+    },
+    {
+      "titel": "Ferat Koçak: Linkenabgeordneter erklärt sich zu Chats mit Remmo-Sohn",
+      "link": "https://www.spiegel.de/politik/ferat-kocak-linkenabgeordneter-erklaert-sich-zu-chats-mit-remmo-sohn-a-69c91948-030c-4b73-9b70-85f2aec866ac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-21T21:23:00+00:00"
+    },
+    {
+      "titel": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-21T21:20:07+00:00"
+    },
+    {
       "titel": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-21T20:59:55+00:00"
     },
     {
-      "titel": "Oktoberfest: Unfall am Fahrgeschäft „Hangover“: Mitarbeiter eingequetscht",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-unfall-hangover-fahrgeschaeft-mitarbeiter-verletzt-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-21T20:31:18+00:00"
-    },
-    {
       "titel": "USA: Trumps Zustimmungswerte fallen auf Rekordtief",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-umfrage-zwischenwahlen-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-21T19:53:05+00:00"
-    },
-    {
-      "titel": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T19:26:21+00:00"
     },
     {
       "titel": "US-Ostküste: Flugstopp an mehreren Flughäfen",
@@ -97,46 +127,16 @@
       "veroeffentlicht": "2026-09-21T17:11:31+00:00"
     },
     {
-      "titel": "CDU in Mecklenburg-Vorpommern: Eine Volkspartei lebt ihren Albtraum",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-in-mecklenburg-vorpommern-eine-volkspartei-lebt-ihren-albtraum-a-e3354e52-c041-4aa0-a8d6-07b7cadd056e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T17:02:00+00:00"
-    },
-    {
-      "titel": "Wahlen: Friedrich Merz stellt Ungleichbehandlung im Gesundheitssystem infrage",
-      "link": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-hohe-wahlbeteiligung-zeichnet-sich-ab-a-69aea6a5-b618-4d80-99c2-87575ce49412#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T16:36:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Entspannung am Ölmarkt stützt den DAX",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-21T16:27:04+00:00"
     },
     {
-      "titel": "Zhang Youxia und Liu Zhenli: China schließt Top-Generäle aus Partei und Militär aus",
-      "link": "https://www.spiegel.de/ausland/zhang-youxia-und-liu-zhenli-china-schliesst-top-generaele-aus-partei-und-militaer-aus-a-4ef9d87a-e608-4ce6-888b-5e2cad274fcf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T16:26:00+00:00"
-    },
-    {
-      "titel": "News des Tages: CDU sucht Richtung, Trumps Abschiebemaschinerie, jung gebliebene Ältere",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-sucht-richtung-trumps-abschiebemaschinerie-jung-gebliebene-aeltere-a-df9e72c3-c673-42da-9699-d7757f77f0ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-21T16:21:00+00:00"
-    },
-    {
       "titel": "Duma-Wahl: Putins Sieg an der Zahlenfront",
       "link": "https://www.tagesschau.de/ausland/europa/russland-nach-duma-wahl-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-21T16:08:23+00:00"
-    },
-    {
-      "titel": "Berlin-Wahl: Giffey verpasst Einzug ins Abgeordnetenhaus",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-wahl-2026-giffey-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-21T16:04:23+00:00"
     },
     {
       "titel": "Wiesnbummel von Hummels: Willkommen bei Cathys Content-Basar",
