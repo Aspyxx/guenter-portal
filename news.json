@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-23T19:04:31+00:00",
+  "aktualisiert": "2026-09-23T22:18:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "Sachsen-Anhalt/Mecklenburg-Vorpommern: Johannes stimmte für die AfD, Lea für die Linke",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-mecklenburg-vorpommern-johannes-stimmte-fuer-die-afd-lea-fuer-die-linke-a-9bacdda7-5db4-4d48-aab8-9444b6b4e8f0#ref=rss",
+      "titel": "Brasilien: Rekordhitze und El Niño verschärfen Feuerkrise in Manaus",
+      "link": "https://www.spiegel.de/ausland/brasilien-rekordhitze-und-el-nino-verschaerfen-feuerkrise-in-manaus-a-7610ae95-6c83-4bb0-952a-d90134701abc#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T18:42:00+00:00"
+      "veroeffentlicht": "2026-09-23T21:34:00+00:00"
     },
     {
-      "titel": "Somalia: Nach Dürre nun Flut – Hunderttausende Menschen in Gefahr",
-      "link": "https://www.spiegel.de/ausland/somalia-nach-duerre-nun-flut-hunderttausende-menschen-in-gefahr-a-db442646-712c-48c5-bf4d-7a236552351b#ref=rss",
+      "titel": "Ukraine: Wolodymyr Selenskyj bezeichnet Putin als »Patient Null« der Kriegstreiberei",
+      "link": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bezeichnet-putin-als-patient-null-der-kriegstreiberei-a-bdb18d17-6f3a-4525-8119-b5a90a5b6ff7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T18:36:00+00:00"
+      "veroeffentlicht": "2026-09-23T21:14:00+00:00"
+    },
+    {
+      "titel": "Chefs von Anthropic und OpenAI warnen vor KI-Gefahren »für die gesamte Menschheit«",
+      "link": "https://www.spiegel.de/ausland/chefs-von-anthropic-und-openai-warnen-vor-ki-gefahren-fuer-die-gesamte-menschheit-a-569e2d42-a45d-4959-ba57-e22e5c17ab30#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T20:41:00+00:00"
+    },
+    {
+      "titel": "Wahlkommission in Israel stimmt für Ausschluss arabischer Parteien",
+      "link": "https://www.spiegel.de/ausland/wahlkommission-in-israel-stimmt-fuer-ausschluss-arabischer-parteien-a-0e8ae7f1-4123-41ab-9384-5747cfc79600#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T20:19:00+00:00"
+    },
+    {
+      "titel": "BER stellte Flugbetrieb wegen Drohnensichtung kurzzeitig ein",
+      "link": "https://www.spiegel.de/panorama/ber-stellte-flugbetrieb-wegen-drohnensichtung-kurzzeitig-ein-a-39fe3069-3408-40d0-9589-721c5073f92a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T20:01:00+00:00"
+    },
+    {
+      "titel": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T19:59:52+00:00"
+    },
+    {
+      "titel": "Nvidia-Chef Jensen Huang und Donald Trump: Der KI-Einflüsterer",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-chef-jensen-huang-und-donald-trump-der-ki-einfluesterer-a-fad307df-42fa-4911-badb-cdd21d6a4d2d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T19:35:00+00:00"
+    },
+    {
+      "titel": "Äthiopien: Rebellen bringen Flughafen in Tigray unter ihre Kontrolle",
+      "link": "https://www.spiegel.de/ausland/aethiopien-rebellen-bringen-flughafen-in-tigray-unter-ihre-kontrolle-a-728c9d2c-463b-4055-9c03-0d3785accf33#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T19:24:00+00:00"
+    },
+    {
+      "titel": "Grevenbroich: Kugelbombe in der Nähe von Strommast im Rheinland gefunden",
+      "link": "https://www.spiegel.de/panorama/grevenbroich-kugelbombe-in-der-naehe-von-strommast-im-rheinland-gefunden-a-c931cc24-4456-49d4-9962-ec7f3d8396de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T19:12:00+00:00"
+    },
+    {
+      "titel": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T19:11:42+00:00"
+    },
+    {
+      "titel": "Jurassica Parka: Prozess gegen die Dragqueen wegen Besitz von Missbrauchsbildern von Kindern",
+      "link": "https://www.spiegel.de/panorama/jurassica-parka-prozess-gegen-die-dragqueen-wegen-besitz-von-missbrauchsbildern-von-kindern-a-e1f35cb7-2029-4627-859e-0dc06607b8ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T19:05:00+00:00"
+    },
+    {
+      "titel": "Nations League: Das Klopp-Zeitalter beginnt",
+      "link": "https://www.sueddeutsche.de/sport/nations-league-juergen-klopp-elftal-fussball-nationalmannschaft-niederlande-li.3552927",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-23T19:04:23+00:00"
     },
     {
       "titel": "Iran wehrt sich vor UN gegen Trump-Drohungen",
@@ -37,52 +97,10 @@
       "veroeffentlicht": "2026-09-23T18:15:43+00:00"
     },
     {
-      "titel": "Serie »Brothers« mit Matthew McConaughey und Woody Harrelson: Betuliche Bromance",
-      "link": "https://www.spiegel.de/kultur/serie-brothers-mit-matthew-mcconaughey-und-woody-harrelson-betuliche-bromance-a-81f918fb-a1ff-4bad-acf5-10220bde95d3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T18:11:00+00:00"
-    },
-    {
-      "titel": "Österreich will Spritpreise um zwölf Cent senken",
-      "link": "https://www.spiegel.de/ausland/oesterreich-will-spritpreise-um-12-cent-senken-a-1cb34244-0bed-436e-afcf-22e4c405ea59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T18:01:00+00:00"
-    },
-    {
-      "titel": "Bier, Boobs und Brezn: Die erste lesbische Party auf dem Oktoberfest ist ein politischer Akt wider Willen",
-      "link": "https://www.spiegel.de/panorama/bier-boobs-und-brezn-die-erste-lesbische-party-auf-dem-oktoberfest-ist-ein-politischer-akt-wider-willen-a-5d39ebf3-6ca3-43cb-8b2e-9746297c5af3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T17:48:00+00:00"
-    },
-    {
-      "titel": "Oktoberfest 2026 in München: Die Wiesn ist ein Ort, an dem sich Täter sicher fühlen",
-      "link": "https://www.spiegel.de/panorama/oktoberfest-2026-in-muenchen-die-wiesn-ist-ein-ort-an-dem-sich-taeter-sicher-fuehlen-a-9e4f4ad9-ea39-4cc3-972a-a88a4cd0508a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T17:42:00+00:00"
-    },
-    {
       "titel": "Urteil in Berlin: „Ich will da nie wieder hin zurück“",
       "link": "https://www.sueddeutsche.de/panorama/prozess-dragqueen-jurassica-parka-kinderpornografie-urteil-li.3549973",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-23T17:36:41+00:00"
-    },
-    {
-      "titel": "US-Midterms: OSZE erstmals nicht zur Wahlbeobachtung in die USA eingeladen",
-      "link": "https://www.spiegel.de/ausland/us-midterms-osze-erstmals-nicht-zur-wahlbeobachtung-in-die-usa-eingeladen-a-a0996e01-9beb-47ea-9148-961933df1003#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T17:36:00+00:00"
-    },
-    {
-      "titel": "Mini-AKW: Katherina Reiche wirbt für Atomenergie – nun entzaubern ihre Leute kleine Kernkraftwerke",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/mini-akw-katherina-reiche-wirbt-fuer-atomenergie-nun-entzaubern-ihre-leute-kleine-kernkraftwerke-a-dee6390e-3212-41d1-8be1-b3c9ff08e035#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T17:28:00+00:00"
-    },
-    {
-      "titel": "Gesundheitssystem: Ende der Privatversicherung? So hat Friedrich Merz das doch nicht gemeint",
-      "link": "https://www.spiegel.de/politik/deutschland/gesundheitssystem-ende-der-privatversicherung-so-hat-friedrich-merz-das-doch-nicht-gemeint-a-3d8de180-43a1-4709-8250-94d56c546d3c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T16:56:00+00:00"
     },
     {
       "titel": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
@@ -127,16 +145,10 @@
       "veroeffentlicht": "2026-09-23T14:56:47+00:00"
     },
     {
-      "titel": "Große Staubwolke durch massiven Felssturz an der Zugspitze",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/br-felssturz-zugspitze-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T14:27:45+00:00"
-    },
-    {
-      "titel": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-auf-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T14:19:14+00:00"
+      "titel": "Bundestrainer: Klopps Debüt in einer Liga, die er für die „sinnloseste“ der Fußballwelt hielt",
+      "link": "https://www.sueddeutsche.de/sport/klopp-nations-league-deutschland-niederlande-li.3552413",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-23T14:19:29+00:00"
     },
     {
       "titel": "Sportpolitik: Berlin will seine Olympia-Bewerbung zurückziehen",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/eu-sanktionen-russland-usmanow-fridman-kommentar-li.3552617",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-23T13:46:14+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Wie die Stadt Jagd auf Wiesn-Streamer macht",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-livestreams-influencer-verbot-kontrolle-li.3552374",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T13:44:45+00:00"
-    },
-    {
-      "titel": "Register für Defibrillatoren: Wie Helfer künftig schneller einen Notfallschocker finden sollen",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-defibrillatoren-notfall-hilfe-herz-kreislauf-erkrankungen-wiederbelebung-li.3552732",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T13:42:54+00:00"
     }
   ]
 }
