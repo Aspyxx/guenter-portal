@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-22T22:11:42+00:00",
+  "aktualisiert": "2026-09-23T00:38:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump bei der Uno: Ein bisschen drohen, ein bisschen kuscheln",
+      "link": "https://www.spiegel.de/ausland/donald-trump-bei-der-uno-ein-bisschen-drohen-ein-bisschen-kuscheln-a-9dafdd6f-d8ac-489e-986b-94242834a103#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T00:20:00+00:00"
+    },
+    {
+      "titel": "USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-exportstopp-fuer-diesel-wegen-hoher-spritpreise-a-154ac142-90ab-493e-b792-e85e630b00c9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T00:04:00+00:00"
+    },
+    {
+      "titel": "Mehr Staatsmann und weniger Konfrontation",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-22T22:44:43+00:00"
+    },
+    {
+      "titel": "Flughafen Düsseldorf: Rauch an Bord – Eurowings-Maschine muss kurz nach Start umdrehen",
+      "link": "https://www.spiegel.de/panorama/flughafen-duesseldorf-rauch-an-bord-eurowings-maschine-muss-kurz-nach-start-umdrehen-a-cbf60484-c10d-47d0-95bc-7266cdfabd74#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-22T22:43:00+00:00"
+    },
     {
       "titel": "Trump würde Richterspruch zu CNN und Co. »wahrscheinlich« befolgen",
       "link": "https://www.spiegel.de/ausland/trump-wuerde-richterspruch-zu-cnn-und-co-wahrscheinlich-befolgen-a-17bd27dc-c7aa-4475-95c9-8f55c3dd00c3#ref=rss",
@@ -59,24 +83,6 @@
       "link": "https://www.spiegel.de/ausland/ukraine-krieg-eu-hebt-sanktionen-gegen-zwei-russische-milliardaere-auf-a-8d56c46a-89f8-40ed-b2a8-37f27f747d84#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-22T19:28:00+00:00"
-    },
-    {
-      "titel": "Jordaniens König: Israel will palästinensisches Leben in Gaza auslöschen",
-      "link": "https://www.spiegel.de/ausland/jordaniens-koenig-israel-will-palaestinensisches-leben-in-gaza-ausloeschen-a-df86eaad-8675-494d-8d59-1eced5cac897#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T19:26:00+00:00"
-    },
-    {
-      "titel": "CDU/CSU: Ex-Fraktionschef Brinkhaus rechnet mit Friedrich Merz ab",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-csu-ex-fraktionschef-brinkhaus-rechnet-mit-friedrich-merz-ab-a-af21db75-8dcc-4cbb-80c8-ca80524e0c18#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T19:24:00+00:00"
-    },
-    {
-      "titel": "Sachsen: Kein Anspruch auf Lehrerausbildung für Tochter von Götz Kubitschek",
-      "link": "https://www.spiegel.de/panorama/bildung/sachsen-kein-anspruch-auf-lehrerausbildung-fuer-tochter-von-goetz-kubitschek-a-a9deaae5-091c-4a00-9ff4-5c934cdf63a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-22T18:47:00+00:00"
     },
     {
       "titel": "Merz und die Krankenkassen - was meinte der Kanzler?",
@@ -149,12 +155,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-dienstag-toedlicher-unfall-hangover-fahrgeschaeft-upskirting-li.3549371",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-22T15:56:00+00:00"
-    },
-    {
-      "titel": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/frauengesundheit-forschung-allianz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-22T15:50:46+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Kann die Linke in Berlin regieren?",
