@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-09-22T22:19:51+00:00",
+  "aktualisiert": "2026-09-23T00:44:49+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Remmo-Clan",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 2,
       "titel": "Kommentar zum Grönland-Abkommen: Ein alter Deal in neuer Verpackung",
       "link": "https://www.tagesschau.de/kommentar/groenland-abkommen-trump-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 2,
+      "titel": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
     },
     {
       "rang": 3,
