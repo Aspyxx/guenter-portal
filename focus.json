@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-23T10:08:22+00:00",
+  "aktualisiert": "2026-09-23T15:06:23+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Warnungen vor Koalition mit der Linken in Berlin",
-      "link": "https://www.tagesschau.de/inland/linke-berlin-antisemitismus-100.html",
+      "titel": "Berlin zieht Olympia-Bewerbung zurück",
+      "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Kanzleramtschefin Warken verspricht Tempo bei Reformen",
-      "link": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
+      "titel": "Trump und Chinas Staatschef vor schwierigen Gesprächen",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-xi-jinping-treffen-trump-washington-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Beratung über Strafverschärfung bei Delikten mit K.-o.-Tropfen",
-      "link": "https://www.tagesschau.de/inland/ko-tropfen-strafen-gesetzentwurf-100.html",
+      "titel": "Nach einer Studie investieren immer mehr Deutsche in Aktien",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktienmarkt-investieren-dax-ing-bank-marktbericht-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
