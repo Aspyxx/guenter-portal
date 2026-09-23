@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-23T15:02:28+00:00",
+  "aktualisiert": "2026-09-23T19:04:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Rente: Mitglieder der Rentenkommission drängen Friedrich Merz und Koalition zum Handeln",
-      "link": "https://www.spiegel.de/politik/deutschland/rente-mitglieder-der-rentenkommission-draengen-friedrich-merz-und-koalition-zum-handeln-a-872ad3d1-08f9-4a5b-94fc-f5289596676d#ref=rss",
+      "titel": "Sachsen-Anhalt/Mecklenburg-Vorpommern: Johannes stimmte für die AfD, Lea für die Linke",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-mecklenburg-vorpommern-johannes-stimmte-fuer-die-afd-lea-fuer-die-linke-a-9bacdda7-5db4-4d48-aab8-9444b6b4e8f0#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:57:00+00:00"
+      "veroeffentlicht": "2026-09-23T18:42:00+00:00"
+    },
+    {
+      "titel": "Somalia: Nach Dürre nun Flut – Hunderttausende Menschen in Gefahr",
+      "link": "https://www.spiegel.de/ausland/somalia-nach-duerre-nun-flut-hunderttausende-menschen-in-gefahr-a-db442646-712c-48c5-bf4d-7a236552351b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T18:36:00+00:00"
+    },
+    {
+      "titel": "Iran wehrt sich vor UN gegen Trump-Drohungen",
+      "link": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T18:34:47+00:00"
+    },
+    {
+      "titel": "Ex-Hollywood-Produzent Harvey Weinstein erneut verurteilt",
+      "link": "https://www.tagesschau.de/ausland/usa-weinstein-haft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T18:27:35+00:00"
+    },
+    {
+      "titel": "Berliner Polizei geht gegen illegalen Schusswaffenhandel vor",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T18:15:43+00:00"
+    },
+    {
+      "titel": "Serie »Brothers« mit Matthew McConaughey und Woody Harrelson: Betuliche Bromance",
+      "link": "https://www.spiegel.de/kultur/serie-brothers-mit-matthew-mcconaughey-und-woody-harrelson-betuliche-bromance-a-81f918fb-a1ff-4bad-acf5-10220bde95d3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T18:11:00+00:00"
+    },
+    {
+      "titel": "Österreich will Spritpreise um zwölf Cent senken",
+      "link": "https://www.spiegel.de/ausland/oesterreich-will-spritpreise-um-12-cent-senken-a-1cb34244-0bed-436e-afcf-22e4c405ea59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T18:01:00+00:00"
+    },
+    {
+      "titel": "Bier, Boobs und Brezn: Die erste lesbische Party auf dem Oktoberfest ist ein politischer Akt wider Willen",
+      "link": "https://www.spiegel.de/panorama/bier-boobs-und-brezn-die-erste-lesbische-party-auf-dem-oktoberfest-ist-ein-politischer-akt-wider-willen-a-5d39ebf3-6ca3-43cb-8b2e-9746297c5af3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T17:48:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest 2026 in München: Die Wiesn ist ein Ort, an dem sich Täter sicher fühlen",
+      "link": "https://www.spiegel.de/panorama/oktoberfest-2026-in-muenchen-die-wiesn-ist-ein-ort-an-dem-sich-taeter-sicher-fuehlen-a-9e4f4ad9-ea39-4cc3-972a-a88a4cd0508a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T17:42:00+00:00"
+    },
+    {
+      "titel": "Urteil in Berlin: „Ich will da nie wieder hin zurück“",
+      "link": "https://www.sueddeutsche.de/panorama/prozess-dragqueen-jurassica-parka-kinderpornografie-urteil-li.3549973",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-23T17:36:41+00:00"
+    },
+    {
+      "titel": "US-Midterms: OSZE erstmals nicht zur Wahlbeobachtung in die USA eingeladen",
+      "link": "https://www.spiegel.de/ausland/us-midterms-osze-erstmals-nicht-zur-wahlbeobachtung-in-die-usa-eingeladen-a-a0996e01-9beb-47ea-9148-961933df1003#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T17:36:00+00:00"
+    },
+    {
+      "titel": "Mini-AKW: Katherina Reiche wirbt für Atomenergie – nun entzaubern ihre Leute kleine Kernkraftwerke",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/mini-akw-katherina-reiche-wirbt-fuer-atomenergie-nun-entzaubern-ihre-leute-kleine-kernkraftwerke-a-dee6390e-3212-41d1-8be1-b3c9ff08e035#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T17:28:00+00:00"
+    },
+    {
+      "titel": "Gesundheitssystem: Ende der Privatversicherung? So hat Friedrich Merz das doch nicht gemeint",
+      "link": "https://www.spiegel.de/politik/deutschland/gesundheitssystem-ende-der-privatversicherung-so-hat-friedrich-merz-das-doch-nicht-gemeint-a-3d8de180-43a1-4709-8250-94d56c546d3c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-23T16:56:00+00:00"
+    },
+    {
+      "titel": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T16:50:49+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Irans Präsident: Werden zivile Atomenergie nicht aufgeben",
+      "link": "https://www.sueddeutsche.de/politik/iran-fluege-region-nahost-blog-iran-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-23T16:23:46+00:00"
     },
     {
       "titel": "Berlin zieht Olympia-Bewerbung zurück",
       "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T14:55:51+00:00"
+      "veroeffentlicht": "2026-09-23T16:23:08+00:00"
     },
     {
-      "titel": "Fledermäuse stammen wohl ursprünglich aus Europa",
-      "link": "https://www.spiegel.de/wissenschaft/natur/fledermaeuse-stammen-wohl-urspruenglich-aus-europa-a-77d7ef52-0926-4501-9ec2-f7506dd44391#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:52:00+00:00"
+      "titel": "Marktbericht: DAX baut Verluste aus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T16:00:34+00:00"
     },
     {
-      "titel": "Masoud Pezeshkian: Irans Präsident wirft den USA Terrorismus vor",
-      "link": "https://www.spiegel.de/ausland/masoud-pezeshkian-irans-praesident-wirft-den-usa-terrorismus-vor-a-4378d947-712b-4345-84dd-c3bd92835cee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:48:00+00:00"
+      "titel": "USA-Newsblog: USA laden Putin zu G-20-Gipfel ein",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-putin-g-20-gipfel-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-23T15:51:18+00:00"
     },
     {
-      "titel": "Elyas M'Barek gibt Trennung von seiner Frau bekannt",
-      "link": "https://www.spiegel.de/panorama/elyas-mbarek-gibt-trennung-von-seiner-frau-bekannt-a-d7415111-79cf-4a78-a118-4a1aeec710cc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:45:00+00:00"
+      "titel": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
+      "link": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T15:44:34+00:00"
     },
     {
-      "titel": "Eurovision Song Contest 2027: Niederlande kehren zum ESC zurück",
-      "link": "https://www.spiegel.de/kultur/tv/eurovision-song-contest-2027-niederlande-kehren-zum-esc-zurueck-a-2955a749-9c56-4780-9535-dc15499d54a9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:41:00+00:00"
+      "titel": "Podcast: „Auf den Punkt“: Was will Xi mit KI?",
+      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ki-china-usa-xi-trump-li.3552624",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-23T14:56:47+00:00"
     },
     {
       "titel": "Große Staubwolke durch massiven Felssturz an der Zugspitze",
@@ -49,40 +133,16 @@
       "veroeffentlicht": "2026-09-23T14:27:45+00:00"
     },
     {
-      "titel": "Nachtzüge auf der Innotrans: Neue Konzepte von Nox, Luna Rail und Alisa",
-      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/nachtzuege-auf-der-innotrans-neue-konzepte-von-nox-luna-rail-und-alisa-a-d20e3eef-1fcd-4fbb-ba7c-7edac53d42b0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:27:00+00:00"
-    },
-    {
-      "titel": "Russland: Behörden berichten von Bärenplage in Sibirien",
-      "link": "https://www.spiegel.de/panorama/russland-behoerden-berichten-von-baerenplage-in-sibirien-a-6938dc95-e509-4b11-bce8-0b189ae2e4ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:27:00+00:00"
-    },
-    {
       "titel": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/angriffe-auf-ukraine-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-23T14:19:14+00:00"
     },
     {
-      "titel": "AfD: Was jetzt geschehen müsste, um die Rechtsextremen zu stoppen – ein Leitartikel von Ann-Katrin Müller",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-was-jetzt-geschehen-muesste-um-die-rechtsextremen-zu-stoppen-ein-leitartikel-von-ann-katrin-mueller-a-24884a72-05bc-453d-945c-332bac28031b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:19:00+00:00"
-    },
-    {
       "titel": "Sportpolitik: Berlin will seine Olympia-Bewerbung zurückziehen",
       "link": "https://www.sueddeutsche.de/sport/berlin-olympiabewerbung-rueckzug-li.3552914",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-23T14:12:34+00:00"
-    },
-    {
-      "titel": "Olympia: Berlin will Bewerbung zurückziehen",
-      "link": "https://www.spiegel.de/sport/olympia/olympia-berlin-will-bewerbung-zurueckziehen-a-59562992-3e18-4ae7-870f-c6f68cbabdde#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T14:12:00+00:00"
     },
     {
       "titel": "Schongau: Hätte die Gewalttat am Welfen-Gymnasium verhindert werden können?",
@@ -97,76 +157,16 @@
       "veroeffentlicht": "2026-09-23T13:46:14+00:00"
     },
     {
-      "titel": "Kabinett beschließt Gesetzentwurf für digitalen Kassenbon ab 2028",
-      "link": "https://www.tagesschau.de/inland/kassenbon-digital-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T13:36:24+00:00"
-    },
-    {
-      "titel": "Xi in den USA: Trump und Chinas Staatschef vor schwierigen Gesprächen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-xi-jinping-treffen-trump-washington-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T13:35:40+00:00"
-    },
-    {
-      "titel": "Versandapotheke der Drogeriemarktkette dm vor Gericht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dm-med-apotheke-klage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T13:01:00+00:00"
-    },
-    {
-      "titel": "Nach der Wahl in Berlin: Grüne und SPD-Politiker warnen vor Sicherheitsrisiken durch die Linke",
-      "link": "https://www.sueddeutsche.de/politik/linke-berlin-risiken-sicherheit-spd-gruene-koalition-li.3552582",
+      "titel": "Oktoberfest: Wie die Stadt Jagd auf Wiesn-Streamer macht",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-livestreams-influencer-verbot-kontrolle-li.3552374",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T12:48:02+00:00"
+      "veroeffentlicht": "2026-09-23T13:44:45+00:00"
     },
     {
-      "titel": "Newsblog zu den Landtagswahlen: Aufstand in SPD gegen Linksbündnis",
-      "link": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-li.3540501",
+      "titel": "Register für Defibrillatoren: Wie Helfer künftig schneller einen Notfallschocker finden sollen",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-defibrillatoren-notfall-hilfe-herz-kreislauf-erkrankungen-wiederbelebung-li.3552732",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T12:48:01+00:00"
-    },
-    {
-      "titel": "Nach einer Studie investieren immer mehr Deutsche in Aktien",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktienmarkt-investieren-dax-ing-bank-marktbericht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T12:43:28+00:00"
-    },
-    {
-      "titel": "Berlin: Issa Remmo ist der Linken-Freund, der nun kein Freund mehr sein soll",
-      "link": "https://www.sueddeutsche.de/politik/berlin-linke-issa-rammo-verbindungen-gruenes-gewoelbe-bode-museum-li.3552376",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T12:40:13+00:00"
-    },
-    {
-      "titel": "Drei Konzerte in der Allianz-Arena: Oasis geben Zusatzkonzert in München",
-      "link": "https://www.sueddeutsche.de/muenchen/oasis-tour-2027-muenchen-konzerte-allianz-arena-tickets-zusatzkonzert-li.3547142",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T12:20:00+00:00"
-    },
-    {
-      "titel": "Staubwolke durch massiven Felssturz an der Zugspitze",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/felssturz-zugspitze-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T12:15:08+00:00"
-    },
-    {
-      "titel": "Prozess um Tötung einer zweifachen Mutter: Partnerin getötet und verscharrt: Zehn Jahre Haft",
-      "link": "https://www.sueddeutsche.de/bayern/lauben-landgericht-memmingen-totschlag-partnerin-getoetet-landwirt-urteil-li.3552606",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T12:15:08+00:00"
-    },
-    {
-      "titel": "Liberale: Der FDP droht das Schicksal der Tierschutzpartei",
-      "link": "https://www.sueddeutsche.de/politik/fdp-wahlen-kubicki-li.3552123",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T12:04:59+00:00"
-    },
-    {
-      "titel": "Wie die Gebärdensprache Teilhabe ermöglicht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gebaerdensprache-160.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T11:11:11+00:00"
+      "veroeffentlicht": "2026-09-23T13:42:54+00:00"
     }
   ]
 }
