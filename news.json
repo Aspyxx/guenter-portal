@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-23T22:18:28+00:00",
+  "aktualisiert": "2026-09-24T00:54:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump empfängt Xi Jinping in den USA - die Fotos",
+      "link": "https://www.spiegel.de/ausland/donald-trump-empfaengt-xi-jinping-in-den-usa-die-fotos-a-622f38c4-c8f1-4cf0-ba14-988f8b55666c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T00:06:00+00:00"
+    },
+    {
+      "titel": "Hoffen auf Israel: die Drusen auf den Golanhöhen",
+      "link": "https://www.tagesschau.de/ausland/asien/drusen-golanhoehen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T23:58:29+00:00"
+    },
+    {
+      "titel": "Tech-Bosse warnen UN-Sicherheitsrat vor KI",
+      "link": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-23T23:58:22+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-xi-jinping-chine-staatsbesuch-washington-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-23T22:40:01+00:00"
+    },
     {
       "titel": "Brasilien: Rekordhitze und El Niño verschärfen Feuerkrise in Manaus",
       "link": "https://www.spiegel.de/ausland/brasilien-rekordhitze-und-el-nino-verschaerfen-feuerkrise-in-manaus-a-7610ae95-6c83-4bb0-952a-d90134701abc#ref=rss",
@@ -67,12 +91,6 @@
       "veroeffentlicht": "2026-09-23T19:11:42+00:00"
     },
     {
-      "titel": "Jurassica Parka: Prozess gegen die Dragqueen wegen Besitz von Missbrauchsbildern von Kindern",
-      "link": "https://www.spiegel.de/panorama/jurassica-parka-prozess-gegen-die-dragqueen-wegen-besitz-von-missbrauchsbildern-von-kindern-a-e1f35cb7-2029-4627-859e-0dc06607b8ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T19:05:00+00:00"
-    },
-    {
       "titel": "Nations League: Das Klopp-Zeitalter beginnt",
       "link": "https://www.sueddeutsche.de/sport/nations-league-juergen-klopp-elftal-fussball-nationalmannschaft-niederlande-li.3552927",
       "quelle": "Süddeutsche",
@@ -119,24 +137,6 @@
       "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-23T16:23:08+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX baut Verluste aus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T16:00:34+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: USA laden Putin zu G-20-Gipfel ein",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-putin-g-20-gipfel-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T15:51:18+00:00"
-    },
-    {
-      "titel": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
-      "link": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T15:44:34+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Was will Xi mit KI?",
