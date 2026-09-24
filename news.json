@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-24T17:13:48+00:00",
+  "aktualisiert": "2026-09-24T20:32:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,64 +7,94 @@
   },
   "meldungen": [
     {
-      "titel": "Rennpferd muss wegen Hitler-Anspielung umbenannt werden",
-      "link": "https://www.spiegel.de/panorama/rennpferd-muss-wegen-hitler-anspielung-umbenannt-werden-a-43260a34-0c70-4035-84d3-21ab609f4f29#ref=rss",
+      "titel": "Polen: Tödlicher Messerangriff in Kloster nahe ukrainischer Grenze",
+      "link": "https://www.spiegel.de/ausland/polen-toedlicher-messerangriff-in-kloster-nahe-ukrainischer-grenze-a-0984a92e-226d-483d-be40-7a5981fd765d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T17:04:00+00:00"
+      "veroeffentlicht": "2026-09-24T20:14:00+00:00"
     },
     {
-      "titel": "Jürgen Klopp: Crashkurs beim Debüt als neuer Bundestrainer",
-      "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-crashkurs-beim-debuet-als-neuer-bundestrainer-a-bf0f04b6-81ff-49f2-8716-b4eb6cb41933#ref=rss",
+      "titel": "Frankreich: Emmanuel Macron will Truppen zum Schutz von Energieinfrastruktur entsenden",
+      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-will-truppen-zum-schutz-von-energieinfrastruktur-entsenden-a-e868121c-b266-4559-a03f-e45a9b599e44#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T17:01:00+00:00"
+      "veroeffentlicht": "2026-09-24T20:09:00+00:00"
     },
     {
-      "titel": "Psychologie: Warum wir unbequeme Gefühle nicht bekämpfen sollten",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/psychologie-warum-wir-unbequeme-gefuehle-nicht-bekaempfen-sollten-a-445b4986-5dd8-40ef-8167-b2e9382778dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T16:58:00+00:00"
+      "titel": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T19:51:55+00:00"
     },
     {
-      "titel": "OpenAI und Anthropic und KI-Risiken: Die Brandstifter leiten den Löscheinsatz – da kann was nicht stimmen – Meinung",
-      "link": "https://www.spiegel.de/netzwelt/openai-und-anthropic-und-ki-risiken-die-brandstifter-leiten-den-loescheinsatz-da-kann-was-nicht-stimmen-meinung-a-7c47f455-9abb-4902-a6ab-442a70aa4631#ref=rss",
+      "titel": "Nationalsozialismus: Stadtrat verbietet neue Stolpersteine im sächsischen Heidenau",
+      "link": "https://www.spiegel.de/panorama/nationalsozialismus-stadtrat-verbietet-neue-stolpersteine-im-saechsischen-heidenau-a-13836354-59d3-454f-9c09-be5e8e93db65#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T16:56:00+00:00"
-    },
-    {
-      "titel": "Meta Muse: Das hat es mit Mark Zuckerbergs neuer Kuschel-KI auf sich",
-      "link": "https://www.spiegel.de/netzwelt/apps/meta-muse-das-hat-es-mit-mark-zuckerbergs-neuer-kuschel-ki-auf-sich-a-64f24f8f-fad5-42b0-8000-161ba450f7a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T16:54:00+00:00"
+      "veroeffentlicht": "2026-09-24T19:45:00+00:00"
     },
     {
       "titel": "Prunk und Pandas: Trump empfängt Xi in Washington",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T16:53:28+00:00"
+      "veroeffentlicht": "2026-09-24T19:43:38+00:00"
     },
     {
-      "titel": "Oscar-Kandidat »Von Scham und Geld«: Wenn dich der Stillstand zerstört",
-      "link": "https://www.spiegel.de/kultur/kino/oscar-kandidat-von-scham-und-geld-wenn-dich-der-stillstand-zerstoert-a-8053ac92-f180-480d-a3f0-790d2d4087b3#ref=rss",
+      "titel": "Benjamin Netanyahu: Etliche Delegierte verlassen vor Rede bei der Uno-Vollversammlung den Saal",
+      "link": "https://www.spiegel.de/ausland/benjamin-netanyahu-etliche-delegierte-verlassen-vor-rede-bei-der-uno-vollversammlung-den-saal-a-1f659f23-0245-4799-a44f-2655805a2619#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T16:52:00+00:00"
+      "veroeffentlicht": "2026-09-24T19:25:00+00:00"
     },
     {
-      "titel": "NS-Verbrechen: Staatsanwaltschaft ermittelt gegen 105-Jährigen wegen Beihilfe zum Mord",
-      "link": "https://www.spiegel.de/panorama/justiz/ns-verbrechen-staatsanwaltschaft-ermittelt-gegen-105-jaehrigen-wegen-beihilfe-zum-mord-a-b4268cb9-3432-4f32-92c0-53cf30d44176#ref=rss",
+      "titel": "Macklemore: Rapper plant »Free Palestine Tour« nach Ausschluss von Sheeran-Tour",
+      "link": "https://www.spiegel.de/kultur/musik/macklemore-rapper-plant-free-palestine-tour-nach-ausschluss-von-sheeran-tour-a-a546ea61-a054-4a68-8650-8e379a4ad38a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T16:51:00+00:00"
+      "veroeffentlicht": "2026-09-24T19:04:00+00:00"
     },
     {
-      "titel": "Jens Spahn: Im Haushaltsausschuss aus »familiären Gründen« entschuldigt",
-      "link": "https://www.spiegel.de/politik/deutschland/jens-spahn-im-haushaltsausschuss-aus-familiaeren-gruenden-entschuldigt-a-0cf46708-e6fd-4012-9320-e8736017243f#ref=rss",
+      "titel": "Donald Trump: Xi Jinping besucht Weißes Haus und kündigt Panda-Geschenk an",
+      "link": "https://www.spiegel.de/ausland/donald-trump-xi-jinping-besucht-weisses-haus-und-kuendigt-panda-geschenk-an-a-b62f24b2-2ab0-460c-b4f0-54235371828b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T16:43:00+00:00"
+      "veroeffentlicht": "2026-09-24T18:42:00+00:00"
     },
     {
-      "titel": "Donald Trump und die Pressefreiheit: CNN, Politico und MS NOW haben nun doch wieder Zugang zum Weißen Haus",
-      "link": "https://www.spiegel.de/ausland/donald-trump-und-die-pressefreiheit-cnn-politico-und-ms-now-haben-nun-doch-wieder-zugang-zum-weissen-haus-a-26255a40-8683-43a2-9af8-811a201bb918#ref=rss",
+      "titel": "Deutschland gegen Niederlande - Liveticker: Klopps Premiere mit dem DFB-Team",
+      "link": "https://www.spiegel.de/sport/fussball/deutschland-gegen-niederlande-liveticker-klopps-premiere-mit-dem-dfb-team-a-ea1c39a2-be9e-41f7-bb9b-c69147d46193#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T16:37:00+00:00"
+      "veroeffentlicht": "2026-09-24T18:06:00+00:00"
+    },
+    {
+      "titel": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T17:54:13+00:00"
+    },
+    {
+      "titel": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T17:50:55+00:00"
+    },
+    {
+      "titel": "Igor Levit verwechselt Iris Berben mit Senta Berger",
+      "link": "https://www.spiegel.de/panorama/leute/igor-levit-verwechselt-iris-berben-mit-senta-berger-a-984b7aeb-1001-4379-94b0-df1ee68a7249#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T17:46:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Land verzichtet nach AfD-Wahlsieg auf MPK-Vorsitz",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-land-verzichtet-nach-afd-wahlsieg-auf-mpk-vorsitz-a-902b8f11-785f-4ab5-8e85-4805ea3e5dc6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T17:42:00+00:00"
+    },
+    {
+      "titel": "Nach Richterspruch - Weißes Haus lässt CNN-Reporter wieder zu",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T17:20:41+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Reporter haben wieder Zugang zum Weißen Haus",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-zugang-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T17:06:00+00:00"
     },
     {
       "titel": "Wechsel zum IWF: EZB-Direktorin Schnabel tritt vorzeitig ab",
@@ -77,6 +107,12 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-24T16:35:21+00:00"
+    },
+    {
+      "titel": "Discounter in Regenstauf: Ratten in Norma-Zentrallager - Behörden greifen ein",
+      "link": "https://www.sueddeutsche.de/bayern/regenstauf-norma-zentrallager-ratten-rattenbefall-hygienemaengel-li.3553588",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T16:29:33+00:00"
     },
     {
       "titel": "Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an",
@@ -109,28 +145,10 @@
       "veroeffentlicht": "2026-09-24T15:15:03+00:00"
     },
     {
-      "titel": "Wie Wien erfolgreich gegen Wohnungsnot und hohe Mieten vorgeht",
-      "link": "https://www.tagesschau.de/ausland/europa/wie-der-wiener-wohnungsbau-gelingt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T14:58:34+00:00"
-    },
-    {
-      "titel": "Trotz vorläufigen Richterspruchs: Weißes Haus weist Reporter weiter ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T14:47:55+00:00"
-    },
-    {
-      "titel": "Staatsanwaltschaft Dortmund ermittelt gegen 105-jährigen NS-Wachmann",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/ermittlungen-gegen-105-jaehrigen-frueheren-ns-wachmann-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T14:45:27+00:00"
-    },
-    {
-      "titel": "Nächster Anlauf im Bundestag zu umstrittenen Organspende-Regeln",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestagsdebatte-organspende-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T14:35:19+00:00"
+      "titel": "Gebirge: Neue Erkenntnisse zu Felssturz an Zugspitze",
+      "link": "https://www.sueddeutsche.de/bayern/zugspitze-felssturz-bayern-neue-erkenntnisse-li.3553530",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T14:49:11+00:00"
     },
     {
       "titel": "Finanzprobleme: Augsburg verhängt Haushaltssperre",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/australien-ki-hack-chatgpt-sicherheitsvorfall-gesundheitssystem-li.3553165",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-24T14:02:08+00:00"
-    },
-    {
-      "titel": "Fördergelder: Die Berliner CDU hat ein Problem mit ihrer Antisemitismus-Bekämpfung",
-      "link": "https://www.sueddeutsche.de/politik/antisemitismus-berlin-cdu-ahmad-mansour-li.3545841",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T14:00:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Weiterhin kein Zutritt ins Weiße Haus für Reporter",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T13:54:37+00:00"
-    },
-    {
-      "titel": "Bayerisches Chemiedreieck: Burghausen verklagt PFAS-Produzenten",
-      "link": "https://www.sueddeutsche.de/bayern/burghausen-chemiehersteller-pfas-belastung-klage-li.3553144",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T13:53:58+00:00"
     }
   ]
 }
