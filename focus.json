@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-24T10:35:00+00:00",
+  "aktualisiert": "2026-09-24T15:31:55+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "\"Jetzt beginnt dort echter Hunger\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
+      "titel": "Nächster Anlauf im Bundestag zu umstrittenen Organspende-Regeln",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestagsdebatte-organspende-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Deutlich höheres Wirtschaftswachstum erwartet als bisher angenommen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
+      "titel": "Boeing muss um neue China-Bestellungen bangen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boeing-bestellungen-china-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Kontroverse Debatte um Reform der Nachrichtendienste im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html",
+      "titel": "Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     }
   ]
 }
