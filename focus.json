@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-24T15:31:55+00:00",
+  "aktualisiert": "2026-09-24T19:32:12+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Nächster Anlauf im Bundestag zu umstrittenen Organspende-Regeln",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestagsdebatte-organspende-100.html",
+      "titel": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 2,
+      "titel": "Geheimdienst-Reform braucht ernsthafte Debatte",
+      "link": "https://www.tagesschau.de/kommentar/nachrichtendienste-mit-mehr-befugnissen-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 2,
-      "titel": "Boeing muss um neue China-Bestellungen bangen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boeing-bestellungen-china-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
       "rang": 3,
-      "titel": "Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html",
+      "titel": "Hohe Ölpreise fachen Inflations- und Zinsängste an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
