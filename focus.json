@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-24T00:36:55+00:00",
+  "aktualisiert": "2026-09-24T05:33:47+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Polen Russland",
-      "link": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
+      "titel": "Das große backen 2026",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/br-felssturz-zugspitze-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
+      "titel": "Wie das überlastete Stromnetz die Energiewende ausbremst",
+      "link": "https://www.tagesschau.de/podcast-11km-energiewende-strom-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Berlin zieht Olympia-Bewerbung zurück",
-      "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
+      "titel": "Ölpreis und Zinsängste belasten die Börsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
