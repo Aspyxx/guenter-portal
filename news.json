@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-09-24T20:32:31+00:00",
+  "aktualisiert": "2026-09-24T23:30:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "New York: Susan Sarandon nach Protest gegen Netanjahu festgenommen",
+      "link": "https://www.spiegel.de/panorama/justiz/new-york-susan-sarandon-nach-protest-gegen-netanjahu-festgenommen-a-f313c7fc-8b6f-4c6d-a4f5-1e5d5ff2c4be#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T23:02:00+00:00"
+    },
+    {
+      "titel": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/evers-cdu-fraktion-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T22:56:25+00:00"
+    },
+    {
+      "titel": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T21:51:23+00:00"
+    },
+    {
+      "titel": "Nations League: Deutschland remis gegen Niederlande bei Debüt von Jürgen Klopp",
+      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-remis-gegen-niederlande-bei-debuet-von-juergen-klopp-a-0616fce9-7540-4017-9f4f-d2345446e019#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T21:45:00+00:00"
+    },
+    {
+      "titel": "DFB-Elf in der Einzelkritik: Ter Stegen bügelt seine eigenen Fehler aus",
+      "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-niederlande-einzelkritik-ter-stegen-li.3553278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T21:23:57+00:00"
+    },
+    {
+      "titel": "Deutschland in der Einzelkritik: Ter Stegen zwischen Held und Torwartdebatte",
+      "link": "https://www.spiegel.de/sport/fussball/deutschland-in-der-einzelkritik-ter-stegen-zwischen-held-und-torwartdebatte-a-8e3c69e4-6146-460b-9896-c80461376ebb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T21:14:00+00:00"
+    },
+    {
+      "titel": "Deutsche Nationalmannschaft: Kleiner Schock für Klopp in der Nachspielzeit",
+      "link": "https://www.sueddeutsche.de/sport/fussball-nations-league-deutschland-niederlande-klopp-nmecha-li.3553279",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T21:07:50+00:00"
+    },
+    {
+      "titel": "Strafe gegen X: US-Regierung stellt sich im EU-Konflikt hinter Elon Musk",
+      "link": "https://www.spiegel.de/netzwelt/netzpolitik/strafe-gegen-x-us-regierung-stellt-sich-im-eu-konflikt-hinter-elon-musk-a-5b836371-65e7-4ea8-8021-92ef50fd8520#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T20:48:00+00:00"
+    },
+    {
+      "titel": "Bono und U2: Letzte gemeinsame Aufnahme mit Dolly Parton veröffentlicht",
+      "link": "https://www.spiegel.de/panorama/leute/bono-und-u2-letzte-gemeinsame-aufnahme-mit-dolly-parton-veroeffentlicht-a-a06beeff-fae1-41bb-aa7d-562ebcbef53b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T20:33:00+00:00"
+    },
     {
       "titel": "Polen: Tödlicher Messerangriff in Kloster nahe ukrainischer Grenze",
       "link": "https://www.spiegel.de/ausland/polen-toedlicher-messerangriff-in-kloster-nahe-ukrainischer-grenze-a-0984a92e-226d-483d-be40-7a5981fd765d#ref=rss",
@@ -17,12 +71,6 @@
       "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-will-truppen-zum-schutz-von-energieinfrastruktur-entsenden-a-e868121c-b266-4559-a03f-e45a9b599e44#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-24T20:09:00+00:00"
-    },
-    {
-      "titel": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T19:51:55+00:00"
     },
     {
       "titel": "Nationalsozialismus: Stadtrat verbietet neue Stolpersteine im sächsischen Heidenau",
@@ -43,24 +91,6 @@
       "veroeffentlicht": "2026-09-24T19:25:00+00:00"
     },
     {
-      "titel": "Macklemore: Rapper plant »Free Palestine Tour« nach Ausschluss von Sheeran-Tour",
-      "link": "https://www.spiegel.de/kultur/musik/macklemore-rapper-plant-free-palestine-tour-nach-ausschluss-von-sheeran-tour-a-a546ea61-a054-4a68-8650-8e379a4ad38a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T19:04:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: Xi Jinping besucht Weißes Haus und kündigt Panda-Geschenk an",
-      "link": "https://www.spiegel.de/ausland/donald-trump-xi-jinping-besucht-weisses-haus-und-kuendigt-panda-geschenk-an-a-b62f24b2-2ab0-460c-b4f0-54235371828b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T18:42:00+00:00"
-    },
-    {
-      "titel": "Deutschland gegen Niederlande - Liveticker: Klopps Premiere mit dem DFB-Team",
-      "link": "https://www.spiegel.de/sport/fussball/deutschland-gegen-niederlande-liveticker-klopps-premiere-mit-dem-dfb-team-a-ea1c39a2-be9e-41f7-bb9b-c69147d46193#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T18:06:00+00:00"
-    },
-    {
       "titel": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
       "quelle": "Tagesschau",
@@ -71,18 +101,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-24T17:50:55+00:00"
-    },
-    {
-      "titel": "Igor Levit verwechselt Iris Berben mit Senta Berger",
-      "link": "https://www.spiegel.de/panorama/leute/igor-levit-verwechselt-iris-berben-mit-senta-berger-a-984b7aeb-1001-4379-94b0-df1ee68a7249#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T17:46:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Land verzichtet nach AfD-Wahlsieg auf MPK-Vorsitz",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-land-verzichtet-nach-afd-wahlsieg-auf-mpk-vorsitz-a-902b8f11-785f-4ab5-8e85-4805ea3e5dc6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T17:42:00+00:00"
     },
     {
       "titel": "Nach Richterspruch - Weißes Haus lässt CNN-Reporter wieder zu",
@@ -133,12 +151,6 @@
       "veroeffentlicht": "2026-09-24T15:52:07+00:00"
     },
     {
-      "titel": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren",
-      "link": "https://www.tagesschau.de/ausland/afrika/tigray-konflikt-eskalation-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T15:18:06+00:00"
-    },
-    {
       "titel": "Vor der Kandidatenkür: Eine neue Olympiastadt für München – das sind die Pläne",
       "link": "https://www.sueddeutsche.de/muenchen/olympisches-dorf-muenchen-planung-stadtteil-sommerspiele-li.3553205",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/augsburg-haushaltssperre-freund-li.3553499",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-24T14:27:35+00:00"
-    },
-    {
-      "titel": "Parteien: Wenn die CDU nicht aufpasst, schrumpft sie auf FDP-Größe",
-      "link": "https://www.sueddeutsche.de/meinung/cdu-merz-landtagswahlen-kommentar-li.3553145",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T14:06:15+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Warum Australiens Regierungschef Sam Altman schimpft",
-      "link": "https://www.sueddeutsche.de/wirtschaft/australien-ki-hack-chatgpt-sicherheitsvorfall-gesundheitssystem-li.3553165",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T14:02:08+00:00"
     }
   ]
 }
