@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-24T06:12:34+00:00",
+  "aktualisiert": "2026-09-24T11:53:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Wieder Tote bei russischen Angriffen auf Kiew",
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T11:48:00+00:00"
+    },
+    {
+      "titel": "Bachmannpreis: »Es gibt überall Kleingeistigkeit und Inkompetenz«",
+      "link": "https://www.spiegel.de/kultur/literatur/bachmannpreis-es-gibt-ueberall-kleingeistigkeit-und-inkompetenz-a-3efefd2b-1242-4827-97aa-fdcae5128bc0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T11:46:00+00:00"
+    },
+    {
+      "titel": "Markus Söder gegen Hendrik Wüst: Wer die Olympia-Bewerbung gewinnt, kann Kanzler werden",
+      "link": "https://www.spiegel.de/politik/markus-soeder-gegen-hendrik-wuest-wer-die-olympia-bewerbung-gewinnt-kann-kanzler-werden-a-a871fec5-12f2-4407-96a0-eb51d3eebd13#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T11:41:00+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Was Donald Trump und Xi Jinping im KI-Konflikt verbindet",
+      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-was-donald-trump-und-xi-jinping-im-ki-konflikt-verbindet-a-64a37a80-ff2a-4e57-9cdc-3cef12144d31#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T11:40:00+00:00"
+    },
+    {
+      "titel": "David Alaba nach Italien: Vorletztes Kapitel: Udine",
+      "link": "https://www.sueddeutsche.de/sport/alaba-verein-wechsel-udinese-calcio-transfer-serie-a-li.3552938",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T11:34:17+00:00"
+    },
+    {
+      "titel": "Österreich: Wien macht Schluss mit »Pizzamopeds«",
+      "link": "https://www.spiegel.de/mobilitaet/fahrrad/oesterreich-wien-macht-schluss-mit-pizzamopeds-a-462c4533-bed5-49a8-9d7d-1f89a627c18d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T11:31:00+00:00"
+    },
+    {
+      "titel": "Rudolf Augstein: Warum Ex-Nazis in den Anfangsjahren für den SPIEGEL schrieben",
+      "link": "https://www.spiegel.de/kultur/literatur/rudolf-augstein-warum-ex-nazis-in-den-anfangsjahren-fuer-den-spiegel-schrieben-a-d2b550b5-fb21-45f2-805a-a5489ba066ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T11:30:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Boeing muss um neue China-Bestellungen bangen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boeing-bestellungen-china-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T11:28:15+00:00"
+    },
+    {
+      "titel": "Stadtverkehr: Härtere Strafen für Autoposer",
+      "link": "https://www.sueddeutsche.de/politik/autoposer-tuning-bremen-strafen-bundesrat-li.3552267",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T11:28:02+00:00"
+    },
+    {
+      "titel": "Nach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T11:19:49+00:00"
+    },
+    {
+      "titel": "Wie Lotte Reiniger den ersten Animationsfilm drehte",
+      "link": "https://www.tagesschau.de/kultur/lotte-reiniger-trickfilm-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T11:14:14+00:00"
+    },
+    {
+      "titel": "Deutlich höheres Wirtschaftswachstum erwartet als bisher",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T11:00:47+00:00"
+    },
+    {
+      "titel": "Uno-Klimagipfel in der Türkei: Elektroautos, Wärmepumpen und Industrie sollen Klimaschutz ersetzen",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-in-der-tuerkei-elektroautos-waermepumpen-und-industrie-sollen-klimaschutz-ersetzen-a-bc34983c-7222-4b34-8009-a11914e4facb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T10:52:00+00:00"
+    },
+    {
+      "titel": "Düsseldorf: Zoll hebt illegale Zigarettenfabrik aus – Millionenschaden",
+      "link": "https://www.spiegel.de/panorama/justiz/duesseldorf-zoll-hebt-illegale-zigarettenfabrik-aus-millionenschaden-a-c9d7645a-cf1a-4f28-a8f2-5e8f55e195fb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T10:41:00+00:00"
+    },
+    {
+      "titel": "Hendrik Holt: Festnahme in Dubai - Ermittler »waren ihm durchgehend auf der Spur«",
+      "link": "https://www.spiegel.de/panorama/hendrik-holt-festnahme-in-dubai-ermittler-waren-ihm-durchgehend-auf-der-spur-a-e3275510-3951-4b7b-9200-60c2dbeb7dfb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T10:32:00+00:00"
+    },
+    {
+      "titel": "Frontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T10:28:36+00:00"
+    },
+    {
+      "titel": "Leute: Das verflixte vierte Jahr",
+      "link": "https://www.sueddeutsche.de/panorama/promis-elyas-m-barek-trennung-jessica-riso-li.3553166",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T10:12:56+00:00"
+    },
+    {
+      "titel": "Kontroverse Debatte um Reform der Nachrichtendienste im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T10:09:28+00:00"
+    },
+    {
+      "titel": "Nachbarschaftsstreit: Eilentscheidung des Gerichts: Uli Hoeneß‘ Bäume dürfen stehen bleiben",
+      "link": "https://www.sueddeutsche.de/muenchen/uli-hoeness-gericht-muenchen-streit-nachbarn-baeume-li.3552313",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T09:41:23+00:00"
+    },
+    {
+      "titel": "Wieder Tote bei russischen Angriffen auf die Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T06:07:25+00:00"
+      "veroeffentlicht": "2026-09-24T09:23:30+00:00"
     },
     {
-      "titel": "Berechnung der Allianz: Hitze dämpfte Europas Wirtschaftsleistung",
-      "link": "https://www.spiegel.de/wirtschaft/berechnung-der-allianz-hitze-daempfte-europas-wirtschaftsleistung-a-297d80d8-a8c2-4503-b05b-e6ab5b29b75e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T06:06:00+00:00"
-    },
-    {
-      "titel": "Gavin Newsom: Kaliforniens Gouverneur warnt vor Wahlsabotage durch Trump",
-      "link": "https://www.spiegel.de/wissenschaft/gavin-newsom-kaliforniens-gouverneur-warnt-vor-wahlsabotage-durch-trump-a-4f778baf-305f-44f1-a016-4b8ff5336a32#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T06:04:00+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Höherer Anteil internationaler Besucher am ersten Wiesn-Wochenende",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
+      "titel": "Promis auf dem Oktoberfest an Tag 5: Eine Wiesn-Besucherin, die Spekulationen anheizt",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-laura-schmitt-uschi-glas-viktoria-lauterbach-promis-bilder-mittwoch-li.3552800",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T06:03:00+00:00"
+      "veroeffentlicht": "2026-09-24T09:20:21+00:00"
     },
     {
-      "titel": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/wadephul-russland-eskalation-100.html",
+      "titel": "Newsblog zur Bundespolitik: Bundestag berät über mögliche Neuregelung der Organspende",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-bundestag-organspende-widerspruch-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T09:04:45+00:00"
+    },
+    {
+      "titel": "Immobilienpreise in Deutschland steigen nicht mehr so stark",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-haeuser-wohnungen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T05:57:58+00:00"
+      "veroeffentlicht": "2026-09-24T08:59:05+00:00"
     },
     {
-      "titel": "Taylor Lautner: »Twilight«-Star und seine gleichnamige Ehefrau nennen Kind ebenfalls Taylor – mit Zweitnamen",
-      "link": "https://www.spiegel.de/panorama/leute/taylor-lautner-twilight-star-und-seine-gleichnamige-ehefrau-nennen-kind-ebenfalls-taylor-mit-zweitnamen-a-cc2d5689-9887-44b8-aee5-b808caa1860c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T05:55:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Richter hebt Trumps Ausschluss von US-Medien vorerst auf",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T05:50:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
+      "titel": "Marktbericht: DAX startet mit Verlusten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T05:26:00+00:00"
+      "veroeffentlicht": "2026-09-24T08:58:38+00:00"
     },
     {
-      "titel": "USA und China verlängern Waffenstillstand im Zollkrieg",
-      "link": "https://www.spiegel.de/wirtschaft/usa-und-china-verlaengern-waffenstillstand-im-zollkrieg-a-607298b8-c373-42dc-8888-79456db8eba0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T05:18:00+00:00"
-    },
-    {
-      "titel": "Neustadt in Sachsen: 23 Verletzte nach Chemikalienvorfall bei Wohnmobilhersteller",
-      "link": "https://www.spiegel.de/panorama/neustadt-in-sachsen-23-verletzte-nach-chemikalienvorfall-bei-wohnmobilhersteller-a-03ca5fd0-aacf-4de7-8971-6b0142034e8b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T05:03:00+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Russland greift mit ballistischen Raketen an – Tote in Kyjiw",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-ballistischen-raketen-an-tote-in-kyjiw-a-f8c95b03-e86a-4bcf-9104-f575523866ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T04:58:00+00:00"
-    },
-    {
-      "titel": "Autohersteller haben im Sommer mehr Autos verkauft",
-      "link": "https://www.spiegel.de/wirtschaft/autohersteller-haben-im-sommer-mehr-autos-verkauft-a-c3507889-de4d-4653-a395-c91dca74cd3f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T04:53:00+00:00"
-    },
-    {
-      "titel": "Roboter »Raibo2« lief in Südkorea Marathon unter viereinhalb Stunden",
-      "link": "https://www.spiegel.de/wissenschaft/roboter-raibo2-lief-in-suedkorea-marathon-unter-viereinhalb-stunden-a-18f8655b-4491-4098-937c-f7a620fcf00f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T04:50:00+00:00"
-    },
-    {
-      "titel": "Tempo 30 und Tempo 50 in deutschen Städten: Nützlicher Flickenteppich",
-      "link": "https://www.spiegel.de/mobilitaet/auto/tempo-30-und-tempo-50-in-deutschen-staedten-nuetzlicher-flickenteppich-a-8982ee47-4730-46bb-b0e4-a9fe9f33e30b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T04:44:00+00:00"
-    },
-    {
-      "titel": "11KM-Podcast: Wie das überlastete Stromnetz die Energiewende ausbremst",
-      "link": "https://www.tagesschau.de/podcast-11km-energiewende-strom-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T04:43:17+00:00"
-    },
-    {
-      "titel": "Staatsbesuch in den USA: Xi bringt schwierige Themen mit",
-      "link": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T04:42:27+00:00"
-    },
-    {
-      "titel": "Organspende: Argumente für und gegen die Widerspruchslösung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/transplantation-organspende-bundestag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T04:12:17+00:00"
-    },
-    {
-      "titel": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
-      "link": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T03:32:22+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Reguliert uns",
-      "link": "https://www.sueddeutsche.de/wirtschaft/usa-uno-kuenstliche-intelligenz-sam-altman-dario-amodei-openai-anthropic-kontrolle-regulierung-li.3552934",
+      "titel": "Private Radiosender in der Krise: Hallo da draußen, hört ihr mich?",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-radio-hoerer-gong-energy-charivari-antenne-bayern-3-arabella-li.3511352",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T03:07:08+00:00"
+      "veroeffentlicht": "2026-09-24T08:45:03+00:00"
     },
     {
-      "titel": "Reform der Nachrichtendienste - Revolution oder Tabubruch?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-bundestag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T03:02:58+00:00"
-    },
-    {
-      "titel": "Hoffen auf Israel: die Drusen auf den Golanhöhen",
-      "link": "https://www.tagesschau.de/ausland/asien/drusen-golanhoehen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T23:58:29+00:00"
-    },
-    {
-      "titel": "Vereinte Nationen: Die Sorge vor einer Ausweitung des Krieges durch Russland wächst",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-gefahr-russland-krieg-trump-putin-selenskij-li.3552809",
+      "titel": "Oktoberfest: „Seit Montag liegt ein Schatten über der Wiesn“",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T23:52:05+00:00"
+      "veroeffentlicht": "2026-09-24T08:12:00+00:00"
     },
     {
-      "titel": "Nations League: Das Klopp-Zeitalter beginnt",
-      "link": "https://www.sueddeutsche.de/sport/nations-league-juergen-klopp-elftal-fussball-nationalmannschaft-niederlande-li.3552927",
+      "titel": "Newsblog zum Ukraine-Krieg: Russland beschießt Kiew und die Region Charkiw: Tote und Verletzte",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-angriffe-kiew-charkiw-li.3549696",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T19:04:23+00:00"
-    },
-    {
-      "titel": "Vereinte Nationen: USA und Iran greifen einander an – diesmal mit Worten",
-      "link": "https://www.sueddeutsche.de/politik/iran-usa-un-generalversammlung-verhandlungen-strasse-von-hormus-li.3552814",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T18:22:06+00:00"
-    },
-    {
-      "titel": "Urteil in Berlin: „Ich will da nie wieder hin zurück“",
-      "link": "https://www.sueddeutsche.de/panorama/prozess-dragqueen-jurassica-parka-kinderpornografie-urteil-li.3549973",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T17:36:41+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Irans Präsident: Werden zivile Atomenergie nicht aufgeben",
-      "link": "https://www.sueddeutsche.de/politik/iran-fluege-region-nahost-blog-iran-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T16:23:46+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Was will Xi mit KI?",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ki-china-usa-xi-trump-li.3552624",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T14:56:47+00:00"
+      "veroeffentlicht": "2026-09-24T07:07:55+00:00"
     }
   ]
 }
