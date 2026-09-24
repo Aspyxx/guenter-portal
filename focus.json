@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-24T05:33:47+00:00",
+  "aktualisiert": "2026-09-24T10:35:00+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Das große backen 2026",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/br-felssturz-zugspitze-100.html",
+      "titel": "\"Jetzt beginnt dort echter Hunger\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Wie das überlastete Stromnetz die Energiewende ausbremst",
-      "link": "https://www.tagesschau.de/podcast-11km-energiewende-strom-100.html",
+      "titel": "Deutlich höheres Wirtschaftswachstum erwartet als bisher angenommen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Ölpreis und Zinsängste belasten die Börsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
+      "titel": "Kontroverse Debatte um Reform der Nachrichtendienste im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🏛️"
     }
   ]
 }
