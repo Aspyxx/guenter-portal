@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-24T00:54:02+00:00",
+  "aktualisiert": "2026-09-24T06:12:34+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Donald Trump empfängt Xi Jinping in den USA - die Fotos",
-      "link": "https://www.spiegel.de/ausland/donald-trump-empfaengt-xi-jinping-in-den-usa-die-fotos-a-622f38c4-c8f1-4cf0-ba14-988f8b55666c#ref=rss",
+      "titel": "Wieder Tote bei russischen Angriffen auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T06:07:25+00:00"
+    },
+    {
+      "titel": "Berechnung der Allianz: Hitze dämpfte Europas Wirtschaftsleistung",
+      "link": "https://www.spiegel.de/wirtschaft/berechnung-der-allianz-hitze-daempfte-europas-wirtschaftsleistung-a-297d80d8-a8c2-4503-b05b-e6ab5b29b75e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T00:06:00+00:00"
+      "veroeffentlicht": "2026-09-24T06:06:00+00:00"
+    },
+    {
+      "titel": "Gavin Newsom: Kaliforniens Gouverneur warnt vor Wahlsabotage durch Trump",
+      "link": "https://www.spiegel.de/wissenschaft/gavin-newsom-kaliforniens-gouverneur-warnt-vor-wahlsabotage-durch-trump-a-4f778baf-305f-44f1-a016-4b8ff5336a32#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T06:04:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Höherer Anteil internationaler Besucher am ersten Wiesn-Wochenende",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T06:03:00+00:00"
+    },
+    {
+      "titel": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/wadephul-russland-eskalation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T05:57:58+00:00"
+    },
+    {
+      "titel": "Taylor Lautner: »Twilight«-Star und seine gleichnamige Ehefrau nennen Kind ebenfalls Taylor – mit Zweitnamen",
+      "link": "https://www.spiegel.de/panorama/leute/taylor-lautner-twilight-star-und-seine-gleichnamige-ehefrau-nennen-kind-ebenfalls-taylor-mit-zweitnamen-a-cc2d5689-9887-44b8-aee5-b808caa1860c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T05:55:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Richter hebt Trumps Ausschluss von US-Medien vorerst auf",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T05:50:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T05:26:00+00:00"
+    },
+    {
+      "titel": "USA und China verlängern Waffenstillstand im Zollkrieg",
+      "link": "https://www.spiegel.de/wirtschaft/usa-und-china-verlaengern-waffenstillstand-im-zollkrieg-a-607298b8-c373-42dc-8888-79456db8eba0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T05:18:00+00:00"
+    },
+    {
+      "titel": "Neustadt in Sachsen: 23 Verletzte nach Chemikalienvorfall bei Wohnmobilhersteller",
+      "link": "https://www.spiegel.de/panorama/neustadt-in-sachsen-23-verletzte-nach-chemikalienvorfall-bei-wohnmobilhersteller-a-03ca5fd0-aacf-4de7-8971-6b0142034e8b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T05:03:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Russland greift mit ballistischen Raketen an – Tote in Kyjiw",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-ballistischen-raketen-an-tote-in-kyjiw-a-f8c95b03-e86a-4bcf-9104-f575523866ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T04:58:00+00:00"
+    },
+    {
+      "titel": "Autohersteller haben im Sommer mehr Autos verkauft",
+      "link": "https://www.spiegel.de/wirtschaft/autohersteller-haben-im-sommer-mehr-autos-verkauft-a-c3507889-de4d-4653-a395-c91dca74cd3f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T04:53:00+00:00"
+    },
+    {
+      "titel": "Roboter »Raibo2« lief in Südkorea Marathon unter viereinhalb Stunden",
+      "link": "https://www.spiegel.de/wissenschaft/roboter-raibo2-lief-in-suedkorea-marathon-unter-viereinhalb-stunden-a-18f8655b-4491-4098-937c-f7a620fcf00f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T04:50:00+00:00"
+    },
+    {
+      "titel": "Tempo 30 und Tempo 50 in deutschen Städten: Nützlicher Flickenteppich",
+      "link": "https://www.spiegel.de/mobilitaet/auto/tempo-30-und-tempo-50-in-deutschen-staedten-nuetzlicher-flickenteppich-a-8982ee47-4730-46bb-b0e4-a9fe9f33e30b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-24T04:44:00+00:00"
+    },
+    {
+      "titel": "11KM-Podcast: Wie das überlastete Stromnetz die Energiewende ausbremst",
+      "link": "https://www.tagesschau.de/podcast-11km-energiewende-strom-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T04:43:17+00:00"
+    },
+    {
+      "titel": "Staatsbesuch in den USA: Xi bringt schwierige Themen mit",
+      "link": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T04:42:27+00:00"
+    },
+    {
+      "titel": "Organspende: Argumente für und gegen die Widerspruchslösung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/transplantation-organspende-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T04:12:17+00:00"
+    },
+    {
+      "titel": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
+      "link": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T03:32:22+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Reguliert uns",
+      "link": "https://www.sueddeutsche.de/wirtschaft/usa-uno-kuenstliche-intelligenz-sam-altman-dario-amodei-openai-anthropic-kontrolle-regulierung-li.3552934",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-24T03:07:08+00:00"
+    },
+    {
+      "titel": "Reform der Nachrichtendienste - Revolution oder Tabubruch?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-24T03:02:58+00:00"
     },
     {
       "titel": "Hoffen auf Israel: die Drusen auf den Golanhöhen",
@@ -19,76 +133,10 @@
       "veroeffentlicht": "2026-09-23T23:58:29+00:00"
     },
     {
-      "titel": "Tech-Bosse warnen UN-Sicherheitsrat vor KI",
-      "link": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T23:58:22+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-xi-jinping-chine-staatsbesuch-washington-li.3530667",
+      "titel": "Vereinte Nationen: Die Sorge vor einer Ausweitung des Krieges durch Russland wächst",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-gefahr-russland-krieg-trump-putin-selenskij-li.3552809",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T22:40:01+00:00"
-    },
-    {
-      "titel": "Brasilien: Rekordhitze und El Niño verschärfen Feuerkrise in Manaus",
-      "link": "https://www.spiegel.de/ausland/brasilien-rekordhitze-und-el-nino-verschaerfen-feuerkrise-in-manaus-a-7610ae95-6c83-4bb0-952a-d90134701abc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T21:34:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Wolodymyr Selenskyj bezeichnet Putin als »Patient Null« der Kriegstreiberei",
-      "link": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bezeichnet-putin-als-patient-null-der-kriegstreiberei-a-bdb18d17-6f3a-4525-8119-b5a90a5b6ff7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T21:14:00+00:00"
-    },
-    {
-      "titel": "Chefs von Anthropic und OpenAI warnen vor KI-Gefahren »für die gesamte Menschheit«",
-      "link": "https://www.spiegel.de/ausland/chefs-von-anthropic-und-openai-warnen-vor-ki-gefahren-fuer-die-gesamte-menschheit-a-569e2d42-a45d-4959-ba57-e22e5c17ab30#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T20:41:00+00:00"
-    },
-    {
-      "titel": "Wahlkommission in Israel stimmt für Ausschluss arabischer Parteien",
-      "link": "https://www.spiegel.de/ausland/wahlkommission-in-israel-stimmt-fuer-ausschluss-arabischer-parteien-a-0e8ae7f1-4123-41ab-9384-5747cfc79600#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T20:19:00+00:00"
-    },
-    {
-      "titel": "BER stellte Flugbetrieb wegen Drohnensichtung kurzzeitig ein",
-      "link": "https://www.spiegel.de/panorama/ber-stellte-flugbetrieb-wegen-drohnensichtung-kurzzeitig-ein-a-39fe3069-3408-40d0-9589-721c5073f92a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T20:01:00+00:00"
-    },
-    {
-      "titel": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T19:59:52+00:00"
-    },
-    {
-      "titel": "Nvidia-Chef Jensen Huang und Donald Trump: Der KI-Einflüsterer",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-chef-jensen-huang-und-donald-trump-der-ki-einfluesterer-a-fad307df-42fa-4911-badb-cdd21d6a4d2d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T19:35:00+00:00"
-    },
-    {
-      "titel": "Äthiopien: Rebellen bringen Flughafen in Tigray unter ihre Kontrolle",
-      "link": "https://www.spiegel.de/ausland/aethiopien-rebellen-bringen-flughafen-in-tigray-unter-ihre-kontrolle-a-728c9d2c-463b-4055-9c03-0d3785accf33#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T19:24:00+00:00"
-    },
-    {
-      "titel": "Grevenbroich: Kugelbombe in der Nähe von Strommast im Rheinland gefunden",
-      "link": "https://www.spiegel.de/panorama/grevenbroich-kugelbombe-in-der-naehe-von-strommast-im-rheinland-gefunden-a-c931cc24-4456-49d4-9962-ec7f3d8396de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-23T19:12:00+00:00"
-    },
-    {
-      "titel": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T19:11:42+00:00"
+      "veroeffentlicht": "2026-09-23T23:52:05+00:00"
     },
     {
       "titel": "Nations League: Das Klopp-Zeitalter beginnt",
@@ -97,22 +145,10 @@
       "veroeffentlicht": "2026-09-23T19:04:23+00:00"
     },
     {
-      "titel": "Iran wehrt sich vor UN gegen Trump-Drohungen",
-      "link": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T18:34:47+00:00"
-    },
-    {
-      "titel": "Ex-Hollywood-Produzent Harvey Weinstein erneut verurteilt",
-      "link": "https://www.tagesschau.de/ausland/usa-weinstein-haft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T18:27:35+00:00"
-    },
-    {
-      "titel": "Berliner Polizei geht gegen illegalen Schusswaffenhandel vor",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T18:15:43+00:00"
+      "titel": "Vereinte Nationen: USA und Iran greifen einander an – diesmal mit Worten",
+      "link": "https://www.sueddeutsche.de/politik/iran-usa-un-generalversammlung-verhandlungen-strasse-von-hormus-li.3552814",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-23T18:22:06+00:00"
     },
     {
       "titel": "Urteil in Berlin: „Ich will da nie wieder hin zurück“",
@@ -121,52 +157,16 @@
       "veroeffentlicht": "2026-09-23T17:36:41+00:00"
     },
     {
-      "titel": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T16:50:49+00:00"
-    },
-    {
       "titel": "Newsblog zum Nahost-Krieg: Irans Präsident: Werden zivile Atomenergie nicht aufgeben",
       "link": "https://www.sueddeutsche.de/politik/iran-fluege-region-nahost-blog-iran-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-23T16:23:46+00:00"
     },
     {
-      "titel": "Berlin zieht Olympia-Bewerbung zurück",
-      "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-23T16:23:08+00:00"
-    },
-    {
       "titel": "Podcast: „Auf den Punkt“: Was will Xi mit KI?",
       "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ki-china-usa-xi-trump-li.3552624",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-23T14:56:47+00:00"
-    },
-    {
-      "titel": "Bundestrainer: Klopps Debüt in einer Liga, die er für die „sinnloseste“ der Fußballwelt hielt",
-      "link": "https://www.sueddeutsche.de/sport/klopp-nations-league-deutschland-niederlande-li.3552413",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T14:19:29+00:00"
-    },
-    {
-      "titel": "Sportpolitik: Berlin will seine Olympia-Bewerbung zurückziehen",
-      "link": "https://www.sueddeutsche.de/sport/berlin-olympiabewerbung-rueckzug-li.3552914",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T14:12:34+00:00"
-    },
-    {
-      "titel": "Schongau: Hätte die Gewalttat am Welfen-Gymnasium verhindert werden können?",
-      "link": "https://www.sueddeutsche.de/bayern/gewalt-welfen-gymnasium-schongau-polizei-justiz-kritik-li.3552561",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T13:52:18+00:00"
-    },
-    {
-      "titel": "Europäische Union: Wer diesen Oligarchen verschont, macht sich lächerlich",
-      "link": "https://www.sueddeutsche.de/meinung/eu-sanktionen-russland-usmanow-fridman-kommentar-li.3552617",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-23T13:46:14+00:00"
     }
   ]
 }
