@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-25T18:38:41+00:00",
+  "aktualisiert": "2026-09-25T21:50:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,94 @@
   },
   "meldungen": [
     {
+      "titel": "Hawaii: Sturmböe fegt Ironman Caspar Stornes beim Training vom Rad",
+      "link": "https://www.spiegel.de/sport/hawaii-sturmboee-fegt-ironman-caspar-stornes-beim-training-vom-rad-a-aa9d5479-3874-49b9-9fd1-8cdc40335407#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T21:37:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: KI-bearbeitetes Trump-Foto von Xis Staatsbesuch sorgt für Kritik",
+      "link": "https://www.spiegel.de/ausland/donald-trump-ki-bearbeitetes-trump-foto-von-xis-staatsbesuch-sorgt-fuer-kritik-a-5d08330b-eb62-4751-addb-7d0f869f4158#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T21:31:00+00:00"
+    },
+    {
+      "titel": "Lettland: Vier italienische Nato-Soldaten bei Übung in Ādaži verletzt",
+      "link": "https://www.spiegel.de/ausland/lettland-vier-italienische-nato-soldaten-bei-uebung-in-adazi-verletzt-a-6bceb4e2-719f-46e4-ada6-207363175677#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T20:42:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: Zwei Jahre nach Attentat – Rally-Teilnehmer erliegt Verletzungen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-zwei-jahre-nach-attentat-rally-teilnehmer-erliegt-verletzungen-a-bd5d9271-b4c6-4401-9c25-0074479081fb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T20:20:00+00:00"
+    },
+    {
+      "titel": "Diplomatie: Ein Prosit auf Kanada",
+      "link": "https://www.sueddeutsche.de/politik/usa-kanada-deutschland-verteidigung-uboote-eu-li.3553517",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T19:42:45+00:00"
+    },
+    {
+      "titel": "Inside Russia: Hinter dem neuen eisernen Vorhang - SPIEGEL TV",
+      "link": "https://www.spiegel.de/ausland/inside-russia-hinter-dem-neuen-eisernen-vorhang-spiegel-tv-a-5b50ae6c-3fd1-4013-957e-95516de3e1a0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T19:34:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Berliner Linke wehrt sich gegen Vorwürfe",
+      "link": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-antisemitismus-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T19:30:00+00:00"
+    },
+    {
+      "titel": "Russland-Ukraine-Krieg: Putin erklärt, er plane keine Aggression gegen Europa",
+      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-putin-erklaert-er-plane-keine-aggression-gegen-europa-a-3bc1be25-96e9-416b-91e2-9651aad03f88#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T19:28:00+00:00"
+    },
+    {
+      "titel": "Festakt in Augsburg: Ein Preis für Merkels „inneren Kompass“",
+      "link": "https://www.sueddeutsche.de/bayern/angela-merkel-augsburg-elisabethpreis-caritas-li.3553734",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T19:24:33+00:00"
+    },
+    {
+      "titel": "Berlin: „Wir haben erreicht, dass die Menschen wieder Hoffnung auf ein besseres Leben haben“",
+      "link": "https://www.sueddeutsche.de/politik/berlin-sondierungen-gruenen-spd-li.3554030",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T19:18:38+00:00"
+    },
+    {
+      "titel": "New York: Kanalisation-Kletterer stellen Polizei vor ein Rätsel",
+      "link": "https://www.spiegel.de/panorama/new-york-kanalisation-kletterer-stellen-polizei-vor-ein-raetsel-a-86c37194-cf7b-43ce-b697-a85dc7e1251d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T19:11:00+00:00"
+    },
+    {
       "titel": "Berliner Linkspartei stimmt für Gespräche mit Grünen und SPD",
       "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T18:23:55+00:00"
+      "veroeffentlicht": "2026-09-25T19:08:33+00:00"
     },
     {
-      "titel": "Berlin-Wahl 2026: Linke strebt Sondierungsgespräche mit Grünen und SPD an",
-      "link": "https://www.spiegel.de/politik/berlin-wahl-2026-linke-strebt-sondierungsgespraeche-mit-gruenen-und-spd-an-a-0fd276d7-a49f-46f2-a552-74bb6a299f6b#ref=rss",
+      "titel": "Ukraine: Wofür braucht das Land zusätzliche 27 Milliarden Dollar in diesem Jahr?",
+      "link": "https://www.spiegel.de/ausland/ukraine-wofuer-braucht-das-land-zusaetzliche-27-milliarden-dollar-in-diesem-jahr-a-930743f2-afd3-4b62-bd77-c15c1cdbcb87#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T18:23:00+00:00"
+      "veroeffentlicht": "2026-09-25T19:04:00+00:00"
+    },
+    {
+      "titel": "Outfit beim State Dinner: Melania Trump trägt Hosen. Hosen!",
+      "link": "https://www.spiegel.de/stil/outfit-beim-state-dinner-melania-trump-traegt-hosen-hosen-a-8f9a1204-eb57-4d78-a2d3-0b9c8c77781e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T18:59:00+00:00"
+    },
+    {
+      "titel": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T18:38:15+00:00"
     },
     {
       "titel": "Muss Spahn nun auch um seinen Platz im Haushaltsausschuss bangen?",
@@ -25,70 +103,22 @@
       "veroeffentlicht": "2026-09-25T18:20:24+00:00"
     },
     {
-      "titel": "Shein, AliExpress, Temu: Neue Zwei-Euro-Abgabe auf Billigimporte in die EU",
-      "link": "https://www.spiegel.de/wirtschaft/shein-aliexpress-temu-neue-zwei-euro-abgabe-auf-billigimporte-in-die-eu-a-f00367f3-1cbb-40aa-9eae-be9dee7fad93#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T18:16:00+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Berliner Linke will mit Grünen und SPD sondieren",
-      "link": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-antisemitismus-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T17:57:26+00:00"
-    },
-    {
-      "titel": "Tochter von Götz Kubitschek geht auf die Justiz los - Streit um Lehramts-Referendariat",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/tochter-von-goetz-kubitschek-geht-auf-die-justiz-los-streit-um-lehramts-referendariat-a-7b59baef-2772-4cf1-9f61-55e676dec882#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T17:53:00+00:00"
-    },
-    {
-      "titel": "Gleich drei Hurrikane im Pazifik – Hawaii und Mexiko bedroht",
-      "link": "https://www.spiegel.de/panorama/gleich-drei-hurrikane-im-pazifik-hawaii-und-mexiko-bedroht-a-4d51f7cc-9752-4bce-99f8-a55edaf7a2f6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T17:49:00+00:00"
-    },
-    {
-      "titel": "Xi bei Trump: »Eine wirklich große Freundschaft« – Podcast",
-      "link": "https://www.spiegel.de/ausland/eine-wirklich-grosse-freundschaft-a-63b88aa8-be2d-4d24-8be6-baa44e9eeea2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T17:41:00+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Bill Gates warnt vor einer Milliarde Todesfällen durch KI",
-      "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T17:35:00+00:00"
-    },
-    {
       "titel": "Newsblog zu KI: Gates: KI könnte Tod einer Milliarde Menschen verursachen",
       "link": "https://www.sueddeutsche.de/politik/ki-newsblog-trump-usa-kuenstliche-intelligenz-gates-warnung-microsoftgruender-li.3547133",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-25T17:20:00+00:00"
     },
     {
-      "titel": "Spanien: 87-jährige Maricarmen Abascal muss ihre Wohnung nach 70 Jahren zwangsräumen",
-      "link": "https://www.spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T17:00:00+00:00"
-    },
-    {
-      "titel": "Xi Jinping lädt Donald Trump nach China ein",
-      "link": "https://www.spiegel.de/ausland/xi-jinping-laedt-donald-trump-nach-china-ein-a-15d085f6-a9a5-478b-aba9-c7a907904ee0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T16:56:00+00:00"
+      "titel": "Bundespolitik: Alles noch viel schlimmer",
+      "link": "https://www.sueddeutsche.de/medien/cdu-friedrich-merz-fernsehen-doku-wahlkampf-kritik-li.3551810",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T16:49:26+00:00"
     },
     {
       "titel": "Diego Garcia - Streit um einen Militärstützpunkt",
       "link": "https://www.tagesschau.de/ausland/afrika/afrika-indischer-ozean-chagos-usa-mauritius-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-25T16:47:04+00:00"
-    },
-    {
-      "titel": "Nikotin-Pouches: Unionspolitiker drängen darauf, tabakfreie Nikotinbeutel zu erlauben",
-      "link": "https://www.spiegel.de/politik/deutschland/nikotin-pouches-unionspolitiker-draengen-darauf-tabakfreie-nikotinbeutel-zu-erlauben-a-5b637aa1-27e7-4f6f-96bb-b90baf9aaeb7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T16:46:00+00:00"
     },
     {
       "titel": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen",
@@ -133,40 +163,10 @@
       "veroeffentlicht": "2026-09-25T14:36:26+00:00"
     },
     {
-      "titel": "Deutsche Olympiabewerbung: Eine falsche Aussage und eine heimliche Korrektur",
-      "link": "https://www.sueddeutsche.de/sport/dosb-olympia-koelnrheinruhr-muenchen-entscheidung-li.3553993",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T13:56:21+00:00"
-    },
-    {
       "titel": "Proteste gegen Wehrpflicht - Tausende Schüler demonstrieren bundesweit",
       "link": "https://www.tagesschau.de/inland/gesellschaft/wehrpflicht-proteste-schueler-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-25T13:56:05+00:00"
-    },
-    {
-      "titel": "Entlastung im Bundestag: So schnell soll der \"Tankrabatt\" kommen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T13:48:03+00:00"
-    },
-    {
-      "titel": "Konjunktur: Eine schlechte gute Nachricht",
-      "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-deutschland-katherina-reiche-li.3553837",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T13:21:40+00:00"
-    },
-    {
-      "titel": "Herbstklausur der Fraktion: AfD fordert „Abschiebe-Cent“ für Unternehmen",
-      "link": "https://www.sueddeutsche.de/bayern/afd-bayern-klausur-cent-landtag-asyl-li.3552816",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T13:21:11+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Weg für erneuten Tankrabatt ist frei",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-bundesatg-spritpreise-tankrabatt-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T13:15:58+00:00"
     }
   ]
 }
