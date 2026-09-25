@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-24T23:30:14+00:00",
+  "aktualisiert": "2026-09-25T01:56:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,7 +7,19 @@
   },
   "meldungen": [
     {
-      "titel": "New York: Susan Sarandon nach Protest gegen Netanjahu festgenommen",
+      "titel": "Markus Lanz: Ein lehrreicher Ausflug in die Todeszone",
+      "link": "https://www.sueddeutsche.de/medien/markus-lanz-tv-kritik-zdf-li.3553422",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T01:27:29+00:00"
+    },
+    {
+      "titel": "Kanada: Stadtrat von Ottawa streicht Trump-Avenue aus dem Stadtplan",
+      "link": "https://www.spiegel.de/ausland/kanada-stadtrat-von-ottawa-streicht-trump-avenue-aus-dem-stadtplan-a-98333477-f291-4085-854c-fdb16eab7b22#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T00:07:00+00:00"
+    },
+    {
+      "titel": "New York: Susan Sarandon nach Protest gegen Netanyahu festgenommen",
       "link": "https://www.spiegel.de/panorama/justiz/new-york-susan-sarandon-nach-protest-gegen-netanjahu-festgenommen-a-f313c7fc-8b6f-4c6d-a4f5-1e5d5ff2c4be#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-24T23:02:00+00:00"
@@ -85,12 +97,6 @@
       "veroeffentlicht": "2026-09-24T19:43:38+00:00"
     },
     {
-      "titel": "Benjamin Netanyahu: Etliche Delegierte verlassen vor Rede bei der Uno-Vollversammlung den Saal",
-      "link": "https://www.spiegel.de/ausland/benjamin-netanyahu-etliche-delegierte-verlassen-vor-rede-bei-der-uno-vollversammlung-den-saal-a-1f659f23-0245-4799-a44f-2655805a2619#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T19:25:00+00:00"
-    },
-    {
       "titel": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
       "quelle": "Tagesschau",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/zugspitze-felssturz-bayern-neue-erkenntnisse-li.3553530",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-24T14:49:11+00:00"
-    },
-    {
-      "titel": "Finanzprobleme: Augsburg verhängt Haushaltssperre",
-      "link": "https://www.sueddeutsche.de/bayern/augsburg-haushaltssperre-freund-li.3553499",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T14:27:35+00:00"
     }
   ]
 }
