@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-25T07:51:40+00:00",
+  "aktualisiert": "2026-09-25T13:50:19+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "»Journal Deluxe«: ZDF kündigt neue Satiresendung mit Florian Schroeder an",
-      "link": "https://www.spiegel.de/kultur/tv/journal-deluxe-zdf-kuendigt-neue-satiresendung-mit-florian-schroeder-an-a-f0167364-3410-43f3-a53a-76e524c5a509#ref=rss",
+      "titel": "WhatsApp: Kriminelle kapern Konten über fingierte Abstimmungsanfragen",
+      "link": "https://www.spiegel.de/netzwelt/apps/whatsapp-kriminelle-kapern-konten-ueber-fingierte-abstimmungsanfragen-a-3440aa8d-a545-4315-94c4-360b1090ad41#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T07:33:00+00:00"
+      "veroeffentlicht": "2026-09-25T13:37:00+00:00"
     },
     {
-      "titel": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+      "titel": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-reise-frankreich-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T07:27:57+00:00"
+      "veroeffentlicht": "2026-09-25T13:34:08+00:00"
     },
     {
-      "titel": "Oktoberfest: Stadt nennt Zahlen zu Influencer-Lizenzen auf der Wiesn",
+      "titel": "Evonik: Übernahmespekulationen durch BASF treiben Aktie deutlich an",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/evonik-uebernahmespekulationen-durch-basf-treiben-aktie-deutlich-an-a-00a771f7-8b2c-4db3-87f3-1ba76eca84fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T13:31:00+00:00"
+    },
+    {
+      "titel": "Bundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T13:30:47+00:00"
+    },
+    {
+      "titel": "Arbeitsmarkt: Flexible Personalplanung nimmt zu, Beschäftigte tragen die Last",
+      "link": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T13:29:00+00:00"
+    },
+    {
+      "titel": "»Grüffelo«: Illustrator Axel Scheffler will seinen Grüffelo nicht auf dem Oktoberfest sehen",
+      "link": "https://www.spiegel.de/kultur/grueffelo-illustrator-axel-scheffler-will-seinen-grueffelo-nicht-auf-dem-oktoberfest-sehen-a-7b1a17e4-40b6-4715-83cc-a0322a601c7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T13:22:00+00:00"
+    },
+    {
+      "titel": "Tankrabatt: Bundestag und Bundesrat beschließen neuen Tankrabatt",
+      "link": "https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-im-eilverfahren-neuen-tankrabatt-a-fa1fd7d4-7f5e-438e-9e5a-15f2feb2ffd3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T13:22:00+00:00"
+    },
+    {
+      "titel": "Konjunktur: Eine schlechte gute Nachricht",
+      "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-deutschland-katherina-reiche-li.3553837",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T13:21:40+00:00"
+    },
+    {
+      "titel": "Herbstklausur der Fraktion: AfD fordert „Abschiebe-Cent“ für Unternehmen",
+      "link": "https://www.sueddeutsche.de/bayern/afd-bayern-klausur-cent-landtag-asyl-li.3552816",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T13:21:11+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Weg für erneuten Tankrabatt ist frei",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-bundesatg-spritpreise-tankrabatt-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T13:15:58+00:00"
+    },
+    {
+      "titel": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fruehstartrente-bundestag-debatte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T13:11:27+00:00"
+    },
+    {
+      "titel": "England: Zwiebel so groß wie Basketbälle - Was Gemüsegärtner in Malvern ernten",
+      "link": "https://www.spiegel.de/panorama/england-zwiebel-so-gross-wie-basketbaelle-was-gemuesegaertner-in-malvern-ernten-a-8ad200f1-ef62-4212-ad69-b2bed4ef0f42#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T13:11:00+00:00"
+    },
+    {
+      "titel": "Die Backstreet Boys spielen zehn Abende in Düsseldorf",
+      "link": "https://www.tagesschau.de/kultur/backstreet-boys-residenzkonzerte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T13:01:38+00:00"
+    },
+    {
+      "titel": "Bodo Ramelow verlangt von seinem Parteigenossen Ferat Koçak Klarheit",
+      "link": "https://www.spiegel.de/politik/deutschland/bodo-ramelow-verlangt-von-seinem-parteigenossen-ferat-kocak-klarheit-a-b78b839f-b73d-47df-a63a-4ba09b0403db#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T12:51:00+00:00"
+    },
+    {
+      "titel": "Kinderkrankentage: Was die Kürzung für Familien bedeutet",
+      "link": "https://www.spiegel.de/politik/deutschland/kinderkrankentage-was-die-kuerzung-fuer-familien-bedeutet-a-bcc369cd-91f4-48f3-a36e-8890c2fba556#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T12:40:00+00:00"
+    },
+    {
+      "titel": "Stellenabbau: Deutsche Konzerne streichen die meisten Jobs",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/stellenabbau-deutsche-konzerne-streichen-die-meisten-jobs-a-a4bb88f5-8ed3-4b52-83ea-da1f8e99a5c0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T12:33:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Kokain, Upskirting und Attacke auf Security: Polizei meldet zahlreiche Straftaten",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-freitag-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T07:19:00+00:00"
+      "veroeffentlicht": "2026-09-25T12:26:00+00:00"
     },
     {
-      "titel": "Präsident Macron: Frankreichs neues Gefühl der Ohnmacht",
-      "link": "https://www.sueddeutsche.de/politik/frankreich-macron-spritpreise-protestwelle-li.3553366",
+      "titel": "Newsblog zum Ukraine-Krieg: USA, Ukraine und Russland sollen sich in den VAE treffen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-selenskij-vae-usa-treffen-li.3549696",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T06:57:45+00:00"
+      "veroeffentlicht": "2026-09-25T12:13:37+00:00"
     },
     {
-      "titel": "Israel: Zwei Soldaten bei Explosion israelischer Drohne im Gazastreifen getötet",
-      "link": "https://www.spiegel.de/ausland/israel-zwei-soldaten-bei-explosion-israelischer-drohne-im-gazastreifen-getoetet-a-54ee43fb-1615-4696-8a51-53b8207e57a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T06:51:00+00:00"
+      "titel": "Halter von E-Scootern haften künftig bei Unfällen",
+      "link": "https://www.tagesschau.de/inland/bundesrat-escooter-haftung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T12:06:53+00:00"
     },
     {
-      "titel": "Jürgen Klopp: Pressekonferenz nach dem 1:1 in den Niederlanden im Fokus",
-      "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-pressekonferenz-nach-dem-1-1-in-den-niederlanden-im-fokus-a-7660d6ea-1259-4b1d-bb75-437b53f7f7f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T06:32:00+00:00"
+      "titel": "VW, Audi, Seat müssen mehr als eine Million Autos zurückrufen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-lenkungsausfall-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T11:55:15+00:00"
     },
     {
-      "titel": "Berlin: Studie: Vergesellschaftung kann Anstieg der Mieten bremsen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/linke-berlin-enteignungen-vergesellschaftung-mieten-studie-li.3553444",
+      "titel": "Leute: „Er hat das sehr gut gemacht“",
+      "link": "https://www.sueddeutsche.de/panorama/franca-lehfeldt-christian-lindner-tochter-vater-familie-promis-li.3553855",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T06:31:05+00:00"
+      "veroeffentlicht": "2026-09-25T11:23:16+00:00"
     },
     {
-      "titel": "Berliner Linke entscheidet auf Parteitag über Sondierungen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T05:58:46+00:00"
-    },
-    {
-      "titel": "Marktbericht: Stoppt der DAX seine Verlustserie?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T05:57:17+00:00"
-    },
-    {
-      "titel": "Donald Trump empfäng Xi Jinping: Was der Gipfel im Weißen Haus verändert",
-      "link": "https://www.spiegel.de/ausland/donald-trump-empfaeng-xi-jinping-was-der-gipfel-im-weissen-haus-veraendert-a-acc50516-a770-4094-8330-236661e5ba82#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T05:46:00+00:00"
-    },
-    {
-      "titel": "Norma: Ratten in bayerischem Zentrallager – Zwangsgelder verhängt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/norma-ratten-in-bayerischem-zentrallager-zwangsgelder-verhaengt-a-5756853b-a361-4a44-80e0-85586fd234f2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T05:44:00+00:00"
-    },
-    {
-      "titel": "A66 bei Wiesbaden: 88-Jähriger fährt mit Elektro-Rollstuhl auf die Autobahn",
-      "link": "https://www.spiegel.de/panorama/a66-bei-wiesbaden-88-jaehriger-faehrt-mit-elektro-rollstuhl-auf-die-autobahn-a-2ed187a4-d240-4b6d-9f97-332040621392#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T05:44:00+00:00"
-    },
-    {
-      "titel": "Pop: Eine Sensation",
-      "link": "https://www.sueddeutsche.de/kultur/uche-yara-bilderbuch-album-interview-li.3550854",
+      "titel": "DFB-Debütant Philipp Treu: Die Entdeckung aus dem gar nicht so fernen Baden",
+      "link": "https://www.sueddeutsche.de/sport/philipp-treu-nationalmannschaft-deutschland-debuet-nations-league-li.3553871",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T05:16:15+00:00"
+      "veroeffentlicht": "2026-09-25T11:12:25+00:00"
     },
     {
-      "titel": "Berlin: Bauarbeiter mit Urin übergossen und Flaschen beworfen – Polizeieinsatz",
-      "link": "https://www.spiegel.de/panorama/justiz/berlin-bauarbeiter-mit-urin-uebergossen-und-flaschen-beworfen-polizeieinsatz-a-65e5e373-ebe6-42fa-bf8d-edef971a6be2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T05:12:00+00:00"
+      "titel": "Marktbericht: Verbraucher halten ihr Geld zusammen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T11:11:04+00:00"
     },
     {
-      "titel": "Sachsen: CDU-Innenminister Armin Schuster will Grundrecht auf Asyl streichen",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-cdu-innenminister-armin-schuster-will-grundrecht-auf-asyl-streichen-a-70fa62a7-9f06-4d42-9f35-b62bc7ef027a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T05:11:00+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Berliner SPD-Vizechefin für Koalitionsverhandlungen mit Linken und Grünen",
-      "link": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-li.3540501",
+      "titel": "Haushaltssperre in Augsburg: Kein Shutdown, aber eine „sehr ernste Haushaltslage“",
+      "link": "https://www.sueddeutsche.de/bayern/augsburg-haushaltssperre-finanzen-sparmassnahmen-freund-li.3553499",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T04:55:00+00:00"
+      "veroeffentlicht": "2026-09-25T11:03:00+00:00"
     },
     {
-      "titel": "Berlin-Wahl 2026: SPD-Vize Kiziltepe dringt auf Rot-Grün-Rot in der Hauptstadt",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-spd-vize-cansel-kiziltepe-spricht-sich-fuer-rot-gruen-rot-aus-a-cadea9ed-3fb0-441f-ad7f-448caa0cc472#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T04:43:00+00:00"
-    },
-    {
-      "titel": "Xi bei Trump: Fanfaren, Spalier, Bankett - aber kaum Lösungen",
-      "link": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-104.html",
+      "titel": "Kindergeld soll von 2027 an ohne Antrag ausgezahlt werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-antragsloses-kindergeld-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T04:41:49+00:00"
+      "veroeffentlicht": "2026-09-25T10:55:27+00:00"
     },
     {
-      "titel": "Newsblog zum Nahost-Krieg: Frankreichs Militär will Ölhafen in Saudi-Arabien schützen",
-      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-frankreich-saudi-arabien-li.3530668",
+      "titel": "Kommentar: Der \"Tankrabatt\" ist politisch richtig",
+      "link": "https://www.tagesschau.de/kommentar/tankrabatt-kommentar-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T10:42:45+00:00"
+    },
+    {
+      "titel": "Möglicher Defekt an Lenkung: Volkswagen muss Millionen Autos zurückrufen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vw-rueckruf-volkswagen-audi-seat-golf-tiguan-li.3553823",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T04:30:00+00:00"
-    },
-    {
-      "titel": "Journalismus: Männerbünde",
-      "link": "https://www.sueddeutsche.de/medien/axel-springer-award-peter-thiel-mathias-doepfner-preisverleihung-berlin-li.3552058",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T03:53:59+00:00"
-    },
-    {
-      "titel": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
-      "link": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T03:44:09+00:00"
-    },
-    {
-      "titel": "Manipulationsskandal an der türkischen Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T03:22:52+00:00"
-    },
-    {
-      "titel": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
-      "link": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T03:22:44+00:00"
-    },
-    {
-      "titel": "Ägäis: Spannungen zwischen Griechenland und der Türkei nehmen zu",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-tuerkei-spannungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T02:48:00+00:00"
-    },
-    {
-      "titel": "Markus Lanz: Ein lehrreicher Ausflug in die Todeszone",
-      "link": "https://www.sueddeutsche.de/medien/markus-lanz-tv-kritik-zdf-roedder-muenkler-li.3553422",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T01:27:29+00:00"
-    },
-    {
-      "titel": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/evers-cdu-fraktion-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T22:56:25+00:00"
-    },
-    {
-      "titel": "Vereinte Nationen: Netanjahu und die „größte Lüge des Jahrhunderts“",
-      "link": "https://www.sueddeutsche.de/politik/israel-un-generalversammlung-rede-netanjahu-proteste-new-york-li.3553221",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T22:27:33+00:00"
+      "veroeffentlicht": "2026-09-25T10:29:59+00:00"
     }
   ]
 }
