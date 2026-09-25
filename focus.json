@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-25T05:39:10+00:00",
+  "aktualisiert": "2026-09-25T10:38:39+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "So schnell soll der Tankrabatt kommen",
+      "titel": "Warum iranische Airlines weiter in die Türkei fliegen",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-iran-sanktionen-flugverbot-usa-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
+      "titel": "So schnell soll der \"Tankrabatt\" kommen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 2,
-      "titel": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
       "rang": 3,
-      "titel": "Berliner Linke entscheidet auf Parteitag über Sondierungen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
+      "titel": "Sinkende Ölpreise bewegen DAX ins Plus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
