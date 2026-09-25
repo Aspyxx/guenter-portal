@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-25T01:56:08+00:00",
+  "aktualisiert": "2026-09-25T07:51:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,154 @@
   },
   "meldungen": [
     {
+      "titel": "»Journal Deluxe«: ZDF kündigt neue Satiresendung mit Florian Schroeder an",
+      "link": "https://www.spiegel.de/kultur/tv/journal-deluxe-zdf-kuendigt-neue-satiresendung-mit-florian-schroeder-an-a-f0167364-3410-43f3-a53a-76e524c5a509#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T07:33:00+00:00"
+    },
+    {
+      "titel": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T07:27:57+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Stadt nennt Zahlen zu Influencer-Lizenzen auf der Wiesn",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-freitag-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T07:19:00+00:00"
+    },
+    {
+      "titel": "Präsident Macron: Frankreichs neues Gefühl der Ohnmacht",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-macron-spritpreise-protestwelle-li.3553366",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T06:57:45+00:00"
+    },
+    {
+      "titel": "Israel: Zwei Soldaten bei Explosion israelischer Drohne im Gazastreifen getötet",
+      "link": "https://www.spiegel.de/ausland/israel-zwei-soldaten-bei-explosion-israelischer-drohne-im-gazastreifen-getoetet-a-54ee43fb-1615-4696-8a51-53b8207e57a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T06:51:00+00:00"
+    },
+    {
+      "titel": "Jürgen Klopp: Pressekonferenz nach dem 1:1 in den Niederlanden im Fokus",
+      "link": "https://www.spiegel.de/sport/fussball/juergen-klopp-pressekonferenz-nach-dem-1-1-in-den-niederlanden-im-fokus-a-7660d6ea-1259-4b1d-bb75-437b53f7f7f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T06:32:00+00:00"
+    },
+    {
+      "titel": "Berlin: Studie: Vergesellschaftung kann Anstieg der Mieten bremsen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/linke-berlin-enteignungen-vergesellschaftung-mieten-studie-li.3553444",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T06:31:05+00:00"
+    },
+    {
+      "titel": "Berliner Linke entscheidet auf Parteitag über Sondierungen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T05:58:46+00:00"
+    },
+    {
+      "titel": "Marktbericht: Stoppt der DAX seine Verlustserie?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T05:57:17+00:00"
+    },
+    {
+      "titel": "Donald Trump empfäng Xi Jinping: Was der Gipfel im Weißen Haus verändert",
+      "link": "https://www.spiegel.de/ausland/donald-trump-empfaeng-xi-jinping-was-der-gipfel-im-weissen-haus-veraendert-a-acc50516-a770-4094-8330-236661e5ba82#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T05:46:00+00:00"
+    },
+    {
+      "titel": "Norma: Ratten in bayerischem Zentrallager – Zwangsgelder verhängt",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/norma-ratten-in-bayerischem-zentrallager-zwangsgelder-verhaengt-a-5756853b-a361-4a44-80e0-85586fd234f2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T05:44:00+00:00"
+    },
+    {
+      "titel": "A66 bei Wiesbaden: 88-Jähriger fährt mit Elektro-Rollstuhl auf die Autobahn",
+      "link": "https://www.spiegel.de/panorama/a66-bei-wiesbaden-88-jaehriger-faehrt-mit-elektro-rollstuhl-auf-die-autobahn-a-2ed187a4-d240-4b6d-9f97-332040621392#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T05:44:00+00:00"
+    },
+    {
+      "titel": "Pop: Eine Sensation",
+      "link": "https://www.sueddeutsche.de/kultur/uche-yara-bilderbuch-album-interview-li.3550854",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T05:16:15+00:00"
+    },
+    {
+      "titel": "Berlin: Bauarbeiter mit Urin übergossen und Flaschen beworfen – Polizeieinsatz",
+      "link": "https://www.spiegel.de/panorama/justiz/berlin-bauarbeiter-mit-urin-uebergossen-und-flaschen-beworfen-polizeieinsatz-a-65e5e373-ebe6-42fa-bf8d-edef971a6be2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T05:12:00+00:00"
+    },
+    {
+      "titel": "Sachsen: CDU-Innenminister Armin Schuster will Grundrecht auf Asyl streichen",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-cdu-innenminister-armin-schuster-will-grundrecht-auf-asyl-streichen-a-70fa62a7-9f06-4d42-9f35-b62bc7ef027a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T05:11:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Berliner SPD-Vizechefin für Koalitionsverhandlungen mit Linken und Grünen",
+      "link": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T04:55:00+00:00"
+    },
+    {
+      "titel": "Berlin-Wahl 2026: SPD-Vize Kiziltepe dringt auf Rot-Grün-Rot in der Hauptstadt",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-spd-vize-cansel-kiziltepe-spricht-sich-fuer-rot-gruen-rot-aus-a-cadea9ed-3fb0-441f-ad7f-448caa0cc472#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-25T04:43:00+00:00"
+    },
+    {
+      "titel": "Xi bei Trump: Fanfaren, Spalier, Bankett - aber kaum Lösungen",
+      "link": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T04:41:49+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Frankreichs Militär will Ölhafen in Saudi-Arabien schützen",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-frankreich-saudi-arabien-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T04:30:00+00:00"
+    },
+    {
+      "titel": "Journalismus: Männerbünde",
+      "link": "https://www.sueddeutsche.de/medien/axel-springer-award-peter-thiel-mathias-doepfner-preisverleihung-berlin-li.3552058",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-25T03:53:59+00:00"
+    },
+    {
+      "titel": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
+      "link": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T03:44:09+00:00"
+    },
+    {
+      "titel": "Manipulationsskandal an der türkischen Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T03:22:52+00:00"
+    },
+    {
+      "titel": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
+      "link": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T03:22:44+00:00"
+    },
+    {
+      "titel": "Ägäis: Spannungen zwischen Griechenland und der Türkei nehmen zu",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-tuerkei-spannungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-25T02:48:00+00:00"
+    },
+    {
       "titel": "Markus Lanz: Ein lehrreicher Ausflug in die Todeszone",
-      "link": "https://www.sueddeutsche.de/medien/markus-lanz-tv-kritik-zdf-li.3553422",
+      "link": "https://www.sueddeutsche.de/medien/markus-lanz-tv-kritik-zdf-roedder-muenkler-li.3553422",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-25T01:27:29+00:00"
-    },
-    {
-      "titel": "Kanada: Stadtrat von Ottawa streicht Trump-Avenue aus dem Stadtplan",
-      "link": "https://www.spiegel.de/ausland/kanada-stadtrat-von-ottawa-streicht-trump-avenue-aus-dem-stadtplan-a-98333477-f291-4085-854c-fdb16eab7b22#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T00:07:00+00:00"
-    },
-    {
-      "titel": "New York: Susan Sarandon nach Protest gegen Netanyahu festgenommen",
-      "link": "https://www.spiegel.de/panorama/justiz/new-york-susan-sarandon-nach-protest-gegen-netanjahu-festgenommen-a-f313c7fc-8b6f-4c6d-a4f5-1e5d5ff2c4be#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T23:02:00+00:00"
     },
     {
       "titel": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
@@ -31,142 +163,10 @@
       "veroeffentlicht": "2026-09-24T22:56:25+00:00"
     },
     {
-      "titel": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T21:51:23+00:00"
-    },
-    {
-      "titel": "Nations League: Deutschland remis gegen Niederlande bei Debüt von Jürgen Klopp",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-remis-gegen-niederlande-bei-debuet-von-juergen-klopp-a-0616fce9-7540-4017-9f4f-d2345446e019#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T21:45:00+00:00"
-    },
-    {
-      "titel": "DFB-Elf in der Einzelkritik: Ter Stegen bügelt seine eigenen Fehler aus",
-      "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-niederlande-einzelkritik-ter-stegen-li.3553278",
+      "titel": "Vereinte Nationen: Netanjahu und die „größte Lüge des Jahrhunderts“",
+      "link": "https://www.sueddeutsche.de/politik/israel-un-generalversammlung-rede-netanjahu-proteste-new-york-li.3553221",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T21:23:57+00:00"
-    },
-    {
-      "titel": "Deutschland in der Einzelkritik: Ter Stegen zwischen Held und Torwartdebatte",
-      "link": "https://www.spiegel.de/sport/fussball/deutschland-in-der-einzelkritik-ter-stegen-zwischen-held-und-torwartdebatte-a-8e3c69e4-6146-460b-9896-c80461376ebb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T21:14:00+00:00"
-    },
-    {
-      "titel": "Deutsche Nationalmannschaft: Kleiner Schock für Klopp in der Nachspielzeit",
-      "link": "https://www.sueddeutsche.de/sport/fussball-nations-league-deutschland-niederlande-klopp-nmecha-li.3553279",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T21:07:50+00:00"
-    },
-    {
-      "titel": "Strafe gegen X: US-Regierung stellt sich im EU-Konflikt hinter Elon Musk",
-      "link": "https://www.spiegel.de/netzwelt/netzpolitik/strafe-gegen-x-us-regierung-stellt-sich-im-eu-konflikt-hinter-elon-musk-a-5b836371-65e7-4ea8-8021-92ef50fd8520#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T20:48:00+00:00"
-    },
-    {
-      "titel": "Bono und U2: Letzte gemeinsame Aufnahme mit Dolly Parton veröffentlicht",
-      "link": "https://www.spiegel.de/panorama/leute/bono-und-u2-letzte-gemeinsame-aufnahme-mit-dolly-parton-veroeffentlicht-a-a06beeff-fae1-41bb-aa7d-562ebcbef53b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T20:33:00+00:00"
-    },
-    {
-      "titel": "Polen: Tödlicher Messerangriff in Kloster nahe ukrainischer Grenze",
-      "link": "https://www.spiegel.de/ausland/polen-toedlicher-messerangriff-in-kloster-nahe-ukrainischer-grenze-a-0984a92e-226d-483d-be40-7a5981fd765d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T20:14:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Emmanuel Macron will Truppen zum Schutz von Energieinfrastruktur entsenden",
-      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-will-truppen-zum-schutz-von-energieinfrastruktur-entsenden-a-e868121c-b266-4559-a03f-e45a9b599e44#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T20:09:00+00:00"
-    },
-    {
-      "titel": "Nationalsozialismus: Stadtrat verbietet neue Stolpersteine im sächsischen Heidenau",
-      "link": "https://www.spiegel.de/panorama/nationalsozialismus-stadtrat-verbietet-neue-stolpersteine-im-saechsischen-heidenau-a-13836354-59d3-454f-9c09-be5e8e93db65#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-24T19:45:00+00:00"
-    },
-    {
-      "titel": "Prunk und Pandas: Trump empfängt Xi in Washington",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T19:43:38+00:00"
-    },
-    {
-      "titel": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T17:54:13+00:00"
-    },
-    {
-      "titel": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T17:50:55+00:00"
-    },
-    {
-      "titel": "Nach Richterspruch - Weißes Haus lässt CNN-Reporter wieder zu",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T17:20:41+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Reporter haben wieder Zugang zum Weißen Haus",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-zugang-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T17:06:00+00:00"
-    },
-    {
-      "titel": "Wechsel zum IWF: EZB-Direktorin Schnabel tritt vorzeitig ab",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-schnabel-ezb-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T16:35:53+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Ermittler werten Videos zum tödlichen Unfall am „Hangover“ aus",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T16:35:21+00:00"
-    },
-    {
-      "titel": "Discounter in Regenstauf: Ratten in Norma-Zentrallager - Behörden greifen ein",
-      "link": "https://www.sueddeutsche.de/bayern/regenstauf-norma-zentrallager-ratten-rattenbefall-hygienemaengel-li.3553588",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T16:29:33+00:00"
-    },
-    {
-      "titel": "Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T16:18:29+00:00"
-    },
-    {
-      "titel": "Springer-Verlag: Freunde des Hauses",
-      "link": "https://www.sueddeutsche.de/medien/jens-spahn-axel-springer-bild-li.3553368",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T16:00:48+00:00"
-    },
-    {
-      "titel": "Kommentar: Geheimdienst-Reform braucht ernsthafte Debatte",
-      "link": "https://www.tagesschau.de/kommentar/nachrichtendienste-mit-mehr-befugnissen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-24T15:52:07+00:00"
-    },
-    {
-      "titel": "Vor der Kandidatenkür: Eine neue Olympiastadt für München – das sind die Pläne",
-      "link": "https://www.sueddeutsche.de/muenchen/olympisches-dorf-muenchen-planung-stadtteil-sommerspiele-li.3553205",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T15:15:03+00:00"
-    },
-    {
-      "titel": "Gebirge: Neue Erkenntnisse zu Felssturz an Zugspitze",
-      "link": "https://www.sueddeutsche.de/bayern/zugspitze-felssturz-bayern-neue-erkenntnisse-li.3553530",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-24T14:49:11+00:00"
+      "veroeffentlicht": "2026-09-24T22:27:33+00:00"
     }
   ]
 }
