@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-26T10:22:06+00:00",
+  "aktualisiert": "2026-09-26T14:35:20+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bangkok",
-      "link": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
+      "titel": "Pflegereform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "US-Präsident Trump schließt CNN von Reise aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-cnn-112.html",
+      "titel": "SPD will Eigenanteil für Pflegeheimkosten deckeln",
+      "link": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
+      "titel": "Durchtrennte Kabel in Gelsenkirchen: Zugausfälle und Umleitungen im Ruhrgebiet",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/kabelklau-gelsenkirchen-zugausfaelle--umleitungen-ruhrgebiet-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     }
   ]
 }
