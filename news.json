@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-26T21:12:33+00:00",
+  "aktualisiert": "2026-09-26T23:39:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Zehntausende demonstrieren nach Zwangsräumung von 87-Jähriger in Madrid",
+      "link": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T23:32:15+00:00"
+    },
+    {
+      "titel": "Spanien: Zehntausende protestieren in Madrid gegen Zwangsräumung von 87-jähriger Maricarmen Abascal",
+      "link": "https://www.spiegel.de/ausland/spanien-zehntausende-protestieren-in-madrid-gegen-zwangsraeumung-von-87-jaehriger-maricarmen-abascal-a-054ee7f8-5efd-4063-b5a9-851187ed72e4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T22:36:00+00:00"
+    },
+    {
+      "titel": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
+      "link": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T22:29:36+00:00"
+    },
+    {
+      "titel": "EU will 700 Millionen Euro für Krisenhilfe weltweit zahlen",
+      "link": "https://www.spiegel.de/ausland/eu-will-700-millionen-euro-fuer-krisenhilfe-weltweit-zahlen-a-cee52829-a16b-444d-b157-df99c1f4ba73#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T21:31:00+00:00"
+    },
     {
       "titel": "Boeing meldet Softwarefehler bei Pannen-Flugzeug 737 Max",
       "link": "https://www.spiegel.de/wirtschaft/unternehmen/boeing-meldet-softwarefehler-bei-pannen-flugzeug-737-max-a-7a41d3ef-ff38-4813-a89a-c61c55426627#ref=rss",
@@ -65,18 +89,6 @@
       "link": "https://www.spiegel.de/politik/deutschland/zehntausende-menschen-demonstrieren-gegen-sozialabbau-a-ce8f3c8b-dc5b-44b3-b43d-5f65704d2e92#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-26T18:16:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Russische Besatzung – in Oleschky essen sie Unkraut, um zu überleben",
-      "link": "https://www.spiegel.de/ausland/ukraine-unter-russischer-besatzung-hungerkrise-in-oleschky-a-16b18f20-727b-44d4-9f4d-8e626e9ab249#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T18:06:00+00:00"
-    },
-    {
-      "titel": "Tom Holland bekommt Sabrina Carpenter als Tanzpartnerin",
-      "link": "https://www.spiegel.de/panorama/leute/tom-holland-bekommt-sabrina-carpenter-als-tanzpartnerin-a-0ba96d66-b647-4343-bf5a-f0439ebdd89e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T17:51:00+00:00"
     },
     {
       "titel": "Papst Leo XIV. feiert Messe mit 800.000 Menschen in Paris",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/olympia-muenchen-chancen-international-kandidaten-li.3554292",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-26T14:36:00+00:00"
-    },
-    {
-      "titel": "Zehntausende protestieren in mehreren Städten gegen Sozialreformen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T13:54:08+00:00"
-    },
-    {
-      "titel": "Überschwemmungen: Behörden rufen Katastrophenfall in Bangkok aus",
-      "link": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T13:22:36+00:00"
     }
   ]
 }
