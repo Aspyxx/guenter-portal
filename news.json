@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-26T05:32:27+00:00",
+  "aktualisiert": "2026-09-26T10:17:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Reinhard Mey hat eine neues Album veröffentlicht. Was kann uns der Liedermacher noch über Deutschland erzählen?",
-      "link": "https://www.spiegel.de/kultur/reinhard-mey-hat-eine-neues-album-veroeffentlicht-was-kann-uns-der-83-jaehrige-liedermacher-noch-ueber-deutschland-erzaehlen-a-88102117-a1c1-43eb-9f6d-0185ec1e3127#ref=rss",
+      "titel": "Außerirdisches Leben: Mikroben könnten unter Enceladus-Eis überleben",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-leben-mikroben-koennten-unter-enceladus-eis-ueberleben-a-22a6db7d-6947-482c-94c5-7a3aa54fa134#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T04:51:00+00:00"
+      "veroeffentlicht": "2026-09-26T10:12:00+00:00"
     },
     {
-      "titel": "News: Parteitag der Berliner Linken, Wohnungskrise, Papst Leo in Frankreich",
-      "link": "https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss",
+      "titel": "Frankreich: Rechte entdecken den Katholizismus als politische Waffe",
+      "link": "https://www.spiegel.de/ausland/frankreich-rechte-entdecken-den-katholizismus-als-politische-waffe-a-c1019fd0-5f27-4f97-a3dd-349824a71927#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T04:44:00+00:00"
+      "veroeffentlicht": "2026-09-26T09:48:00+00:00"
+    },
+    {
+      "titel": "Israel-Gaza-Krieg: Warnung vor Hamas-Angriff – Bericht erhöht Druck auf Netanyahu",
+      "link": "https://www.spiegel.de/ausland/israel-gaza-krieg-warnung-vor-hamas-angriff-bericht-erhoeht-druck-auf-netanyahu-a-4db1ad99-f104-4ee3-97d6-350180e77017#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T09:28:00+00:00"
+    },
+    {
+      "titel": "Kabeldiebstahl legt Bahnverkehr um Gelsenkirchen herum still",
+      "link": "https://www.spiegel.de/panorama/kabeldiebstahl-legt-bahnverkehr-um-gelsenkirchen-herum-still-a-13dc25b4-3869-4631-9356-ed4a847bc0f4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T09:18:00+00:00"
+    },
+    {
+      "titel": "Wie lange gibt es diesen Gletscher noch? Weltkarte zeigt Schmelze",
+      "link": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T09:16:37+00:00"
+    },
+    {
+      "titel": "Kann die Linke in der Hauptstadt regieren?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T09:16:05+00:00"
+    },
+    {
+      "titel": "Deutsche Krankenhausgesellschaft: Forderung nach schnellerer Anerkennung ausländischer Abschlüsse",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/deutsche-krankenhausgesellschaft-forderung-nach-schnellerer-anerkennung-auslaendischer-abschluesse-a-9ca4ab2f-efd9-481c-a171-196eb619fabe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T09:15:00+00:00"
+    },
+    {
+      "titel": "Außenminister Wadephul spricht vor UN-Generalversammlung",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-versammlung-wadephul-lawrow-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T09:11:14+00:00"
+    },
+    {
+      "titel": "Peter Nogly ist tot: Die Hamburger Eiche - Nachruf auf den HSV-Kapitän",
+      "link": "https://www.spiegel.de/sport/fussball/peter-nogly-ist-tot-die-hamburger-eiche-nachruf-auf-den-hsv-kapitaen-a-78fa1c48-e635-4a22-993b-01a2f217db9f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T08:48:00+00:00"
+    },
+    {
+      "titel": "Union: Söder gegen Wüst – wer kriegt Olympia?",
+      "link": "https://www.sueddeutsche.de/politik/muenchen-koeln-entscheidung-olympia-bewerbung-li.3553476",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T08:45:57+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Trump lehnt Irans Plan zur Öffnung der Straße von Hormus offenbar ab",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-trump-meerenge-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T08:41:04+00:00"
+    },
+    {
+      "titel": "VW-Rückrufaktion: Jetzt gehen Volkswagen auch noch die Schrauben aus",
+      "link": "https://www.spiegel.de/wirtschaft/vw-rueckrufaktion-jetzt-gehen-volkswagen-auch-noch-die-schrauben-aus-a-79d9a254-8ad4-42c4-9eb6-219d57bc377a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T08:22:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Großer Andrang erwartet – Massen stürmen in die Zelte",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T08:21:00+00:00"
+    },
+    {
+      "titel": "Wie eine Brücke ein Dorf belebt",
+      "link": "https://www.tagesschau.de/inland/mittendrin/haengeseilbruecke-geierlay-dorf-moersdorf-tourismus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T08:07:43+00:00"
+    },
+    {
+      "titel": "Halloween: Brettspiele für einen schaurigen Spieleabend",
+      "link": "https://www.spiegel.de/tests/brettspiele/halloween-brettspiele-fuer-einen-schaurigen-spieleabend-a-434d95db-7dfb-454c-b47c-9a8130976961#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T08:01:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Selenskij bittet EU, nächste Milliarden-Zahlungen vorzuziehen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-eu-milliarden-drohnen-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T08:00:00+00:00"
+    },
+    {
+      "titel": "Mobbing: Wie Eltern Anzeichen erkennen und angemessen reagieren – Podcast",
+      "link": "https://www.spiegel.de/familie/mobbing-wie-eltern-anzeichen-erkennen-und-angemessen-reagieren-podcast-a-15704d41-da52-4534-b7fe-c986afa4a179#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T08:00:00+00:00"
+    },
+    {
+      "titel": "Überschwemmungen: Behörden rufen Katastrophenfall in Bangkok aus",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T07:59:24+00:00"
+    },
+    {
+      "titel": "US-Präsident Trump schließt CNN von Reise aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-cnn-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T07:43:28+00:00"
+    },
+    {
+      "titel": "Berlin: Mieten, Clans und Merz-Kritik: Eindrücke vom Linken-Parteitag in Berlin",
+      "link": "https://www.sueddeutsche.de/politik/berlin-linke-parteitag-sondierungen-gruene-spd-clans-mieten-li.3554030",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T07:30:58+00:00"
+    },
+    {
+      "titel": "Promis auf dem Oktoberfest an Tag 7: Bill hält Händchen und Heidi schießt Seifenblasen",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-wiesn-promis-tradition-augustinerzelt-li.3554151",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T07:13:02+00:00"
     },
     {
       "titel": "Deutsche Olympia-Bewerbung: Wer macht das Rennen?",
       "link": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T04:00:21+00:00"
+      "veroeffentlicht": "2026-09-26T06:53:27+00:00"
     },
     {
-      "titel": "Newsblog zum Nahost-Krieg: Iran: Haben USA Plan übermittelt, nun ist Washington am Zug",
-      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-li.3530668",
+      "titel": "OpenAI informiert über weiteres Fehlverhalten von KI",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ki-openai-regierungswebseiten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T06:47:22+00:00"
+    },
+    {
+      "titel": "Iran macht Vorschlag für Öffnung der Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T06:26:54+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Vor Kabinettsbeschluss: SPD will bei Pflegereform nachverhandeln",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-spd-pflegereform-li.3529564",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T03:50:25+00:00"
-    },
-    {
-      "titel": "Donald Trump: CNN von Trumps Reise nach Tennessee ausgeschlossen",
-      "link": "https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T03:38:00+00:00"
-    },
-    {
-      "titel": "Sprachreisen: Warum Menschen über 50 auf Sprachreise gehen – und wie sie aus dem Ausland zurückkehren",
-      "link": "https://www.spiegel.de/reise/sprachreisen-warum-menschen-ueber-50-auf-sprachreise-gehen-und-wie-sie-aus-dem-ausland-zurueckkehren-a-e73dff55-1e26-4787-9400-01ea258bd0be#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T03:30:00+00:00"
+      "veroeffentlicht": "2026-09-26T05:39:20+00:00"
     },
     {
       "titel": "USA-Newsblog: Streit geht weiter: CNN darf Trump nicht auf Reise begleiten",
@@ -49,124 +163,10 @@
       "veroeffentlicht": "2026-09-26T02:45:52+00:00"
     },
     {
-      "titel": "Pflegeversicherung: SPD erhöht Druck auf Linnemann vor Kabinettsbeschluss",
-      "link": "https://www.spiegel.de/politik/pflegeversicherung-spd-erhoeht-druck-auf-linnemann-vor-kabinettsbeschluss-a-9039f608-015d-4b83-8629-b6a4285f41aa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T01:16:00+00:00"
-    },
-    {
-      "titel": "OpenAI: KI brachte Nutzerbilder eigenmächtig auf Onlineplattformen",
-      "link": "https://www.spiegel.de/netzwelt/openai-ki-brachte-nutzerbilder-eigenmaechtig-auf-online-plattformen-a-ae11722d-b2e1-4853-a68e-596b13a0770d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T00:28:00+00:00"
-    },
-    {
-      "titel": "Berlin: Unionsfraktionschef Frei warnt SPD und Grüne vor Linksbündnis",
-      "link": "https://www.spiegel.de/politik/berlin-unionsfraktionschef-frei-warnt-spd-und-gruene-vor-linksbuendnis-a-50979d0c-abed-490b-b923-6da88a6c7c97#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T23:35:00+00:00"
-    },
-    {
-      "titel": "Hawaii: Sturmböe fegt Ironman Caspar Stornes beim Training vom Rad",
-      "link": "https://www.spiegel.de/sport/hawaii-sturmboee-fegt-ironman-caspar-stornes-beim-training-vom-rad-a-aa9d5479-3874-49b9-9fd1-8cdc40335407#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T21:37:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: KI-bearbeitetes Trump-Foto von Xis Staatsbesuch sorgt für Kritik",
-      "link": "https://www.spiegel.de/ausland/donald-trump-ki-bearbeitetes-trump-foto-von-xis-staatsbesuch-sorgt-fuer-kritik-a-5d08330b-eb62-4751-addb-7d0f869f4158#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T21:31:00+00:00"
-    },
-    {
       "titel": "Diplomatie: Ein Prosit auf Kanada",
       "link": "https://www.sueddeutsche.de/politik/usa-kanada-deutschland-verteidigung-uboote-eu-li.3553517",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-25T19:42:45+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Berliner Linke wehrt sich gegen Vorwürfe",
-      "link": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-antisemitismus-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T19:30:00+00:00"
-    },
-    {
-      "titel": "Festakt in Augsburg: Ein Preis für Merkels „inneren Kompass“",
-      "link": "https://www.sueddeutsche.de/bayern/angela-merkel-augsburg-elisabethpreis-caritas-li.3553734",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T19:24:33+00:00"
-    },
-    {
-      "titel": "Berlin: „Wir haben erreicht, dass die Menschen wieder Hoffnung auf ein besseres Leben haben“",
-      "link": "https://www.sueddeutsche.de/politik/berlin-sondierungen-gruenen-spd-li.3554030",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T19:18:38+00:00"
-    },
-    {
-      "titel": "Berliner Linkspartei stimmt für Gespräche mit Grünen und SPD",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T19:08:33+00:00"
-    },
-    {
-      "titel": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T18:38:15+00:00"
-    },
-    {
-      "titel": "Muss Spahn nun auch um seinen Platz im Haushaltsausschuss bangen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-haushaltsausschuss-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T18:20:24+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: Gates: KI könnte Tod einer Milliarde Menschen verursachen",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-trump-usa-kuenstliche-intelligenz-gates-warnung-microsoftgruender-li.3547133",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T17:20:00+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Alles noch viel schlimmer",
-      "link": "https://www.sueddeutsche.de/medien/cdu-friedrich-merz-fernsehen-doku-wahlkampf-kritik-li.3551810",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T16:49:26+00:00"
-    },
-    {
-      "titel": "Diego Garcia - Streit um einen Militärstützpunkt",
-      "link": "https://www.tagesschau.de/ausland/afrika/afrika-indischer-ozean-chagos-usa-mauritius-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T16:47:04+00:00"
-    },
-    {
-      "titel": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T16:44:11+00:00"
-    },
-    {
-      "titel": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T16:31:47+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Polizei stoppt Drohne über Festgelände – Grapscher erhält Wiesn-Verbot",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-freitag-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T16:00:50+00:00"
-    },
-    {
-      "titel": "BASF wirft ein Auge auf Konkurrent Evonik",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T15:37:05+00:00"
-    },
-    {
-      "titel": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T14:36:26+00:00"
     }
   ]
 }
