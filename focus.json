@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-26T05:50:17+00:00",
+  "aktualisiert": "2026-09-26T10:22:06+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Bangkok",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
+      "titel": "US-Präsident Trump schließt CNN von Reise aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-cnn-112.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
       "titel": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 2,
-      "titel": "Neue Friedenshoffnungen machen DAX-Anlegern Mut",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 3,
-      "titel": "Wer macht das Rennen?",
-      "link": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
