@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-26T18:04:56+00:00",
+  "aktualisiert": "2026-09-26T21:12:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,70 @@
   },
   "meldungen": [
     {
+      "titel": "Boeing meldet Softwarefehler bei Pannen-Flugzeug 737 Max",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/boeing-meldet-softwarefehler-bei-pannen-flugzeug-737-max-a-7a41d3ef-ff38-4813-a89a-c61c55426627#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T21:03:00+00:00"
+    },
+    {
+      "titel": "Lufthansa: Flug von Frankfurt nach Toronto wegen Geruchs in Kabine umgeleitet",
+      "link": "https://www.spiegel.de/panorama/lufthansa-flug-von-frankfurt-nach-toronto-wegen-geruchs-in-kabine-umgeleitet-a-dfa987ec-cfde-42a9-aacd-f0c493ec4242#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T20:37:00+00:00"
+    },
+    {
+      "titel": "Berliner SPD will mit Linken und Grünen sondieren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-spd-linke-gruene-sondierungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T20:07:54+00:00"
+    },
+    {
+      "titel": "Alexander Dobrindt will mehr Befugnisse für Frontex",
+      "link": "https://www.spiegel.de/politik/alexander-dobrindt-will-mehr-befugnisse-fuer-frontex-a-b3d76f64-2f6b-4d99-850f-d4cba827706d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T19:53:00+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: Sergej Lawrow kritisiert Johann Wadephul nach Treffen in New York",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-sergej-lawrow-kritisiert-johann-wadephul-nach-treffen-in-new-york-a-bf7d170c-0059-4e39-a3fd-aaaf1278cc0b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T19:28:00+00:00"
+    },
+    {
       "titel": "Wadephul trifft überraschend Lawrow in New York",
       "link": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T17:54:50+00:00"
+      "veroeffentlicht": "2026-09-26T19:00:59+00:00"
+    },
+    {
+      "titel": "Berlin: SPD-Landesvorstand stimmt für Sondierungsgespräche mit der Linken",
+      "link": "https://www.spiegel.de/politik/deutschland/berliner-spd-landesvorstand-stimmt-fuer-sondierungsgespraeche-mit-der-linken-a-9da32451-28a7-4d9f-b17d-07fb6d786697#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T18:50:00+00:00"
+    },
+    {
+      "titel": "Kylian Mbappé verletzt: Real Madrid gibt Diagnose bekannt",
+      "link": "https://www.spiegel.de/sport/fussball/kylian-mbappe-verletzt-real-madrid-gibt-diagnose-bekannt-a-413d0efc-8457-4c70-8a25-3ed4811902c6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T18:41:00+00:00"
+    },
+    {
+      "titel": "Kommentar zur deutschen Olympiabewerbung: München ist qualifizierter Außenseiter",
+      "link": "https://www.tagesschau.de/kommentar/olympia-bewerbung-deutschland-kommentar-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T18:23:42+00:00"
+    },
+    {
+      "titel": "Deutschland: Zehntausende Menschen demonstrieren gegen Sozialabbau",
+      "link": "https://www.spiegel.de/politik/deutschland/zehntausende-menschen-demonstrieren-gegen-sozialabbau-a-ce8f3c8b-dc5b-44b3-b43d-5f65704d2e92#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T18:16:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Russische Besatzung – in Oleschky essen sie Unkraut, um zu überleben",
+      "link": "https://www.spiegel.de/ausland/ukraine-unter-russischer-besatzung-hungerkrise-in-oleschky-a-16b18f20-727b-44d4-9f4d-8e626e9ab249#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T18:06:00+00:00"
     },
     {
       "titel": "Tom Holland bekommt Sabrina Carpenter als Tanzpartnerin",
@@ -19,58 +79,16 @@
       "veroeffentlicht": "2026-09-26T17:51:00+00:00"
     },
     {
-      "titel": "Danger Dan spricht über frühere Beziehung zu einem Mann",
-      "link": "https://www.spiegel.de/panorama/leute/danger-dan-spricht-ueber-fruehere-beziehung-zu-einem-mann-a-dee1bf39-aec0-44a5-838d-435a387a1712#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T17:21:00+00:00"
-    },
-    {
-      "titel": "Nations League: Irische Spieler stimmen gegen Boykott des Spiels gegen Israel",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-irische-spieler-stimmen-gegen-boykott-des-spiels-gegen-israel-a-8dc80cd3-9db7-46a9-ae3f-c1884fabe445#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T16:43:00+00:00"
-    },
-    {
-      "titel": "Olympia-Bewerbung: München siegt gegen Rhein-Ruhr. Nun beginnt das eigentliche Rennen.",
-      "link": "https://www.spiegel.de/sport/olympia/olympia-bewerbung-muenchen-siegt-gegen-rhein-ruhr-nun-beginnt-das-eigentliche-rennen-a-db8c8b4e-ac66-404b-8921-86e5063bcde5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T16:33:00+00:00"
-    },
-    {
-      "titel": "Intensive Gefühle: Warum uns nachts die Emotionen überwältigen",
-      "link": "https://www.spiegel.de/psychologie/intensive-gefuehle-warum-uns-nachts-die-emotionen-ueberwaeltigen-a-dc168029-cf63-4771-9ce1-4d04dc9c7d4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T16:27:00+00:00"
-    },
-    {
       "titel": "Papst Leo XIV. feiert Messe mit 800.000 Menschen in Paris",
       "link": "https://www.tagesschau.de/ausland/europa/papst-paris-messe-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-26T16:25:33+00:00"
     },
     {
-      "titel": "Katherina Reiche teilt ein Video über Enteignung – die Linke klagt auf Unterlassung",
-      "link": "https://www.spiegel.de/politik/deutschland/katherina-reiche-teilt-ein-video-ueber-enteignung-die-linke-klagt-auf-unterlassung-a-d00cca97-2344-41d3-917f-c0460a8b23a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T16:23:00+00:00"
-    },
-    {
       "titel": "Newsblog zum Nahost-Krieg: Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
       "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-trump-meerenge-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-26T16:21:56+00:00"
-    },
-    {
-      "titel": "Äthiopien - Kämpfe in Tigray: »Es gab genug Warnungen«",
-      "link": "https://www.spiegel.de/ausland/aethiopien-kaempfe-in-tigray-es-gab-genug-warnungen-a-2d5374d7-04ae-482d-8ada-eba871cc0d48#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T16:18:00+00:00"
-    },
-    {
-      "titel": "Iran: Donald Trump lehnt Teherans Vorschlag zur Straße von Hormus ab",
-      "link": "https://www.spiegel.de/ausland/iran-donald-trump-lehnt-teherans-vorschlag-zur-strasse-von-hormus-ab-a-9112d53a-9fb7-407e-bbce-c60cbd46ebce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T16:06:00+00:00"
     },
     {
       "titel": "Papst Leo XIV. in Frankreich: Ein Empfang wie für einen Popstar",
@@ -107,12 +125,6 @@
       "link": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-26T15:27:14+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Johann Wadephul trifft Sergej Lawrow zu Gesprächen",
-      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-johann-wadephul-trifft-sergej-lawrow-zu-gespraechen-a-18810c36-42f9-4cd5-ba78-520fd73842c1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T15:13:00+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Wadephul und Lawrow treffen sich zu Gesprächen",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-26T13:22:36+00:00"
-    },
-    {
-      "titel": "Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln",
-      "link": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T12:30:06+00:00"
-    },
-    {
-      "titel": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T11:27:04+00:00"
     }
   ]
 }
