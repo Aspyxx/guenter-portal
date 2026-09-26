@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-26T14:44:45+00:00",
+  "aktualisiert": "2026-09-26T18:04:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,142 @@
   },
   "meldungen": [
     {
-      "titel": "Formel 1 in Baku: George Russell zittert sich vor Max Verstappen zum Sieg",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-in-baku-george-russell-zittert-sich-vor-max-verstappen-zum-sieg-a-9c19cf34-225b-4715-ab79-846f5dd2a375#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T14:21:00+00:00"
+      "titel": "Wadephul trifft überraschend Lawrow in New York",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T17:54:50+00:00"
     },
     {
-      "titel": "Newsblog zur Bundespolitik: Vor Kabinettsbeschluss: SPD droht mit Blockade der Pflegereform",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-spd-pflegereform-li.3529564",
+      "titel": "Tom Holland bekommt Sabrina Carpenter als Tanzpartnerin",
+      "link": "https://www.spiegel.de/panorama/leute/tom-holland-bekommt-sabrina-carpenter-als-tanzpartnerin-a-0ba96d66-b647-4343-bf5a-f0439ebdd89e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T17:51:00+00:00"
+    },
+    {
+      "titel": "Danger Dan spricht über frühere Beziehung zu einem Mann",
+      "link": "https://www.spiegel.de/panorama/leute/danger-dan-spricht-ueber-fruehere-beziehung-zu-einem-mann-a-dee1bf39-aec0-44a5-838d-435a387a1712#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T17:21:00+00:00"
+    },
+    {
+      "titel": "Nations League: Irische Spieler stimmen gegen Boykott des Spiels gegen Israel",
+      "link": "https://www.spiegel.de/sport/fussball/nations-league-irische-spieler-stimmen-gegen-boykott-des-spiels-gegen-israel-a-8dc80cd3-9db7-46a9-ae3f-c1884fabe445#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T16:43:00+00:00"
+    },
+    {
+      "titel": "Olympia-Bewerbung: München siegt gegen Rhein-Ruhr. Nun beginnt das eigentliche Rennen.",
+      "link": "https://www.spiegel.de/sport/olympia/olympia-bewerbung-muenchen-siegt-gegen-rhein-ruhr-nun-beginnt-das-eigentliche-rennen-a-db8c8b4e-ac66-404b-8921-86e5063bcde5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T16:33:00+00:00"
+    },
+    {
+      "titel": "Intensive Gefühle: Warum uns nachts die Emotionen überwältigen",
+      "link": "https://www.spiegel.de/psychologie/intensive-gefuehle-warum-uns-nachts-die-emotionen-ueberwaeltigen-a-dc168029-cf63-4771-9ce1-4d04dc9c7d4a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T16:27:00+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. feiert Messe mit 800.000 Menschen in Paris",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-paris-messe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T16:25:33+00:00"
+    },
+    {
+      "titel": "Katherina Reiche teilt ein Video über Enteignung – die Linke klagt auf Unterlassung",
+      "link": "https://www.spiegel.de/politik/deutschland/katherina-reiche-teilt-ein-video-ueber-enteignung-die-linke-klagt-auf-unterlassung-a-d00cca97-2344-41d3-917f-c0460a8b23a5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T16:23:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-trump-meerenge-li.3530668",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T14:20:14+00:00"
+      "veroeffentlicht": "2026-09-26T16:21:56+00:00"
     },
     {
-      "titel": "SPD-Fraktionschef Miersch setzt CDU bei Pflegereform unter Druck",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-fraktionschef-miersch-setzt-cdu-bei-pflegereform-unter-druck-a-89d9a612-e5db-4189-9a6d-b7e62cbefe19#ref=rss",
+      "titel": "Äthiopien - Kämpfe in Tigray: »Es gab genug Warnungen«",
+      "link": "https://www.spiegel.de/ausland/aethiopien-kaempfe-in-tigray-es-gab-genug-warnungen-a-2d5374d7-04ae-482d-8ada-eba871cc0d48#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T14:19:00+00:00"
+      "veroeffentlicht": "2026-09-26T16:18:00+00:00"
     },
     {
-      "titel": "Kandidatenkür des DOSB: „München kann Olympia“ - das Alte Rathaus im Jubelrausch",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-altes-rathaus-olympische-spiele-kandidatenkuer-li.3549553",
+      "titel": "Iran: Donald Trump lehnt Teherans Vorschlag zur Straße von Hormus ab",
+      "link": "https://www.spiegel.de/ausland/iran-donald-trump-lehnt-teherans-vorschlag-zur-strasse-von-hormus-ab-a-9112d53a-9fb7-407e-bbce-c60cbd46ebce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T16:06:00+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. in Frankreich: Ein Empfang wie für einen Popstar",
+      "link": "https://www.sueddeutsche.de/politik/papst-leo-xiv-paris-empfang-messe-li.3553392",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T14:10:34+00:00"
+      "veroeffentlicht": "2026-09-26T15:53:02+00:00"
     },
     {
-      "titel": "Wiedereröffnetes Schauspiel Köln: So teuer die Sanierung, so billig die Witze auf der Bühne",
-      "link": "https://www.spiegel.de/kultur/wiedereroeffnetes-schauspiel-koeln-so-teuer-die-sanierung-so-billig-die-witze-auf-der-buehne-a-a50aa83a-90ae-40d8-aa95-3ff4566c593c#ref=rss",
+      "titel": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T15:50:22+00:00"
+    },
+    {
+      "titel": "Markus Söder: Hurra, NRW ist schon mal besiegt",
+      "link": "https://www.sueddeutsche.de/sport/muenchen-olympiabewerbung-sportpolitik-bayern-soeder-li.3553975",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T15:31:02+00:00"
+    },
+    {
+      "titel": "Entscheidung über die Olympiabewerbung: Wie München sich gegen Köln-Rhein-Ruhr durchgesetzt hat",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-olympische-spiele-bewerbung-dosb-entscheidung-li.3370202",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T15:30:00+00:00"
+    },
+    {
+      "titel": "Pflege in Schweden: So lange wie möglich zu Hause",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-pflege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T15:29:01+00:00"
+    },
+    {
+      "titel": "Dobrindt will schnelle Eingreiftruppe der EU-Grenzschutzagentur Frontex",
+      "link": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T15:27:14+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Johann Wadephul trifft Sergej Lawrow zu Gesprächen",
+      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-johann-wadephul-trifft-sergej-lawrow-zu-gespraechen-a-18810c36-42f9-4cd5-ba78-520fd73842c1#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T14:06:00+00:00"
+      "veroeffentlicht": "2026-09-26T15:13:00+00:00"
     },
     {
-      "titel": "AfD und Linke im Aufwind: Warum Jungs eher rechts und Mädchen eher links sind",
-      "link": "https://www.spiegel.de/ausland/afd-und-linke-im-aufwind-warum-jungs-eher-rechts-und-maedchen-eher-links-sind-a-2d43c7e0-a62c-4d46-8fe3-d1375cd5e19b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T13:56:00+00:00"
+      "titel": "Newsblog zum Ukraine-Krieg: Wadephul und Lawrow treffen sich zu Gesprächen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lawrow-wadephul-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T15:06:39+00:00"
     },
     {
-      "titel": "Oktoberfest: Stadt rät: Aktuell nicht mehr zum Oktoberfest kommen",
+      "titel": "Oktoberfest: Großer Andrang auf der Wiesn ist vorbei - Lage entspannt sich",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T13:55:00+00:00"
+      "veroeffentlicht": "2026-09-26T14:55:00+00:00"
+    },
+    {
+      "titel": "München setzt sich bei der Nominierung durch: Die Olympiapläne sind ein Boost für OB Krause - aber es muss schnell gehen",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-olympia-olympische-spiele-bewerbung-infrastruktur-investitionen-li.3554116",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T14:54:39+00:00"
+    },
+    {
+      "titel": "Klarer Sieg für München: Mia san Olympiabewerber",
+      "link": "https://www.sueddeutsche.de/sport/olympia-deutscher-bewerber-muenchen-jubel-stimmen-li.3554290",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T14:46:36+00:00"
+    },
+    {
+      "titel": "Olympiabewerbung: Olympia in München? So stehen die internationalen Chancen",
+      "link": "https://www.sueddeutsche.de/sport/olympia-muenchen-chancen-international-kandidaten-li.3554292",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T14:36:00+00:00"
     },
     {
       "titel": "Zehntausende protestieren in mehreren Städten gegen Sozialreformen",
@@ -55,58 +151,10 @@
       "veroeffentlicht": "2026-09-26T13:54:08+00:00"
     },
     {
-      "titel": "Arktis: Großmanöver mit Störsignalen soll Widerstand gegen Russland stärken",
-      "link": "https://www.spiegel.de/wissenschaft/technik/arktis-grossmanoever-mit-stoersignalen-soll-widerstand-gegen-russland-staerken-a-635c0168-c42c-4add-abc4-b7161c3fdea7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T13:44:00+00:00"
-    },
-    {
-      "titel": "Betrüger sollen mit KI-gefälschter Stimme 36 Millionen Euro erbeutet haben",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/betrueger-sollen-mit-ki-gefaelschter-stimme-36-millionen-euro-erbeutet-haben-a-09cf1bd6-babd-45aa-a1fd-6ed963f48bf7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T13:35:00+00:00"
-    },
-    {
-      "titel": "Alexander Newski: Wie ein Vasall der Mongolen zu Russlands Nationalheld wurde",
-      "link": "https://www.spiegel.de/geschichte/heldenverehrung-in-russland-wie-ein-mongolischer-vasall-zum-russischen-nationalhelden-wurde-a-6b21d689-1e4c-407c-bf4a-0faade04cb62#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T13:30:00+00:00"
-    },
-    {
-      "titel": "Small Talk in Lift oder Eisdiele: Warum versage ich bei der Begegnung mit anderen Menschen?",
-      "link": "https://www.spiegel.de/psychologie/small-talk-in-lift-oder-eisdiele-warum-versage-ich-bei-der-begegnung-mit-anderen-menschen-a-ad822d44-384c-4166-95aa-7ae2883d581b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T13:26:00+00:00"
-    },
-    {
       "titel": "Überschwemmungen: Behörden rufen Katastrophenfall in Bangkok aus",
       "link": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-26T13:22:36+00:00"
-    },
-    {
-      "titel": "Nationale Olympia-Entscheidung: Wie Augsburg von Münchens möglichen Spielen profitieren will",
-      "link": "https://www.sueddeutsche.de/bayern/augsburg-olympische-spiele-bewerbung-eiskanal-kajak-kanu-li.3553877",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T13:19:38+00:00"
-    },
-    {
-      "titel": "Entscheidung über die Olympiabewerbung: Wie München sich gegen Köln-Rhein-Ruhr durchgesetzt hat",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-olympische-spiele-bewerbung-dosb-entscheidung-li.3370202",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T13:13:14+00:00"
-    },
-    {
-      "titel": "DOSB-Entscheidung: München ist der deutsche Olympia-Bewerber",
-      "link": "https://www.sueddeutsche.de/sport/olympia-kandidat-muenchen-koeln-nrw-entscheidung-li.3554274",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T12:49:24+00:00"
-    },
-    {
-      "titel": "Olympia: München wird deutscher Bewerber für Sommerspiele ab 2036",
-      "link": "https://www.spiegel.de/sport/olympia/olympia-muenchen-wird-deutscher-bewerber-fuer-sommerspiele-ab-2036-a-935a16f2-e6c1-4692-aa61-e7ce3b52a864#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-26T12:43:00+00:00"
     },
     {
       "titel": "Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln",
@@ -115,58 +163,10 @@
       "veroeffentlicht": "2026-09-26T12:30:06+00:00"
     },
     {
-      "titel": "Prozess gegen Manchester City: „Die Hölle bricht aus“",
-      "link": "https://www.sueddeutsche.de/sport/premier-league-manchester-city-finanzen-schuldig-strafe-li.3554301",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T11:32:25+00:00"
-    },
-    {
       "titel": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-26T11:27:04+00:00"
-    },
-    {
-      "titel": "Jubiläum des Comics \"Tim und Struppi\": Beliebt wie eh und je",
-      "link": "https://www.tagesschau.de/kultur/tim-struppi-comics-jubilaeum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T11:11:51+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: USA und China vereinbaren Zollsenkungen in Höhe von 30 Milliarden Dollar",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-china-zollsenkungen-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T11:11:45+00:00"
-    },
-    {
-      "titel": "Durchtrennte Kabel in Gelsenkirchen: Zugausfälle und Umleitungen im Ruhrgebiet",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/kabelklau-gelsenkirchen-zugausfaelle--umleitungen-ruhrgebiet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T11:09:00+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: Gates: KI könnte Tod einer Milliarde Menschen verursachen",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-trump-usa-kuenstliche-intelligenz-gates-warnung-microsoftgruender-li.3547133",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-26T10:45:53+00:00"
-    },
-    {
-      "titel": "Wie lange gibt es diesen Gletscher noch? Weltkarte zeigt Schmelze",
-      "link": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T09:16:37+00:00"
-    },
-    {
-      "titel": "Kann die Linke in der Hauptstadt regieren?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T09:16:05+00:00"
-    },
-    {
-      "titel": "Außenminister Wadephul spricht vor UN-Generalversammlung",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-versammlung-wadephul-lawrow-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-26T09:11:14+00:00"
     }
   ]
 }
