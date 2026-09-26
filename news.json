@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-26T00:38:08+00:00",
+  "aktualisiert": "2026-09-26T05:32:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,7 +7,55 @@
   },
   "meldungen": [
     {
-      "titel": "OpenAI: KI brachte Nutzerbilder eigenmächtig auf Online-Plattformen",
+      "titel": "Reinhard Mey hat eine neues Album veröffentlicht. Was kann uns der Liedermacher noch über Deutschland erzählen?",
+      "link": "https://www.spiegel.de/kultur/reinhard-mey-hat-eine-neues-album-veroeffentlicht-was-kann-uns-der-83-jaehrige-liedermacher-noch-ueber-deutschland-erzaehlen-a-88102117-a1c1-43eb-9f6d-0185ec1e3127#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T04:51:00+00:00"
+    },
+    {
+      "titel": "News: Parteitag der Berliner Linken, Wohnungskrise, Papst Leo in Frankreich",
+      "link": "https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T04:44:00+00:00"
+    },
+    {
+      "titel": "Deutsche Olympia-Bewerbung: Wer macht das Rennen?",
+      "link": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-26T04:00:21+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Iran: Haben USA Plan übermittelt, nun ist Washington am Zug",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T03:50:25+00:00"
+    },
+    {
+      "titel": "Donald Trump: CNN von Trumps Reise nach Tennessee ausgeschlossen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T03:38:00+00:00"
+    },
+    {
+      "titel": "Sprachreisen: Warum Menschen über 50 auf Sprachreise gehen – und wie sie aus dem Ausland zurückkehren",
+      "link": "https://www.spiegel.de/reise/sprachreisen-warum-menschen-ueber-50-auf-sprachreise-gehen-und-wie-sie-aus-dem-ausland-zurueckkehren-a-e73dff55-1e26-4787-9400-01ea258bd0be#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T03:30:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Streit geht weiter: CNN darf Trump nicht auf Reise begleiten",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-zugang-tennessee-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-26T02:45:52+00:00"
+    },
+    {
+      "titel": "Pflegeversicherung: SPD erhöht Druck auf Linnemann vor Kabinettsbeschluss",
+      "link": "https://www.spiegel.de/politik/pflegeversicherung-spd-erhoeht-druck-auf-linnemann-vor-kabinettsbeschluss-a-9039f608-015d-4b83-8629-b6a4285f41aa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-26T01:16:00+00:00"
+    },
+    {
+      "titel": "OpenAI: KI brachte Nutzerbilder eigenmächtig auf Onlineplattformen",
       "link": "https://www.spiegel.de/netzwelt/openai-ki-brachte-nutzerbilder-eigenmaechtig-auf-online-plattformen-a-ae11722d-b2e1-4853-a68e-596b13a0770d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-26T00:28:00+00:00"
@@ -31,40 +79,16 @@
       "veroeffentlicht": "2026-09-25T21:31:00+00:00"
     },
     {
-      "titel": "Lettland: Vier italienische Nato-Soldaten bei Übung in Ādaži verletzt",
-      "link": "https://www.spiegel.de/ausland/lettland-vier-italienische-nato-soldaten-bei-uebung-in-adazi-verletzt-a-6bceb4e2-719f-46e4-ada6-207363175677#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T20:42:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: Zwei Jahre nach Attentat – Rally-Teilnehmer erliegt Verletzungen",
-      "link": "https://www.spiegel.de/ausland/donald-trump-zwei-jahre-nach-attentat-rally-teilnehmer-erliegt-verletzungen-a-bd5d9271-b4c6-4401-9c25-0074479081fb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T20:20:00+00:00"
-    },
-    {
       "titel": "Diplomatie: Ein Prosit auf Kanada",
       "link": "https://www.sueddeutsche.de/politik/usa-kanada-deutschland-verteidigung-uboote-eu-li.3553517",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-25T19:42:45+00:00"
     },
     {
-      "titel": "Inside Russia: Hinter dem neuen eisernen Vorhang - SPIEGEL TV",
-      "link": "https://www.spiegel.de/ausland/inside-russia-hinter-dem-neuen-eisernen-vorhang-spiegel-tv-a-5b50ae6c-3fd1-4013-957e-95516de3e1a0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T19:34:00+00:00"
-    },
-    {
       "titel": "Newsblog zu den Landtagswahlen: Berliner Linke wehrt sich gegen Vorwürfe",
       "link": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-antisemitismus-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-25T19:30:00+00:00"
-    },
-    {
-      "titel": "Russland-Ukraine-Krieg: Putin erklärt, er plane keine Aggression gegen Europa",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-putin-erklaert-er-plane-keine-aggression-gegen-europa-a-3bc1be25-96e9-416b-91e2-9651aad03f88#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T19:28:00+00:00"
     },
     {
       "titel": "Festakt in Augsburg: Ein Preis für Merkels „inneren Kompass“",
@@ -77,12 +101,6 @@
       "link": "https://www.sueddeutsche.de/politik/berlin-sondierungen-gruenen-spd-li.3554030",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-25T19:18:38+00:00"
-    },
-    {
-      "titel": "New York: Kanalisation-Kletterer stellen Polizei vor ein Rätsel",
-      "link": "https://www.spiegel.de/panorama/new-york-kanalisation-kletterer-stellen-polizei-vor-ein-raetsel-a-86c37194-cf7b-43ce-b697-a85dc7e1251d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-25T19:11:00+00:00"
     },
     {
       "titel": "Berliner Linkspartei stimmt für Gespräche mit Grünen und SPD",
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-09-25T15:37:05+00:00"
     },
     {
-      "titel": "Möglicher Defekt an Lenkung: VW muss Millionen Autos zurückrufen - diese Modelle sind betroffen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/vw-rueckruf-volkswagen-audi-seat-golf-tiguan-li.3553823",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T15:19:03+00:00"
-    },
-    {
-      "titel": "Literatur und KI: „Ich würde niemals behaupten, ich erkenne KI sofort“",
-      "link": "https://www.sueddeutsche.de/kultur/thelyson-orelien-roman-ki-uebersetzer-interview-li.3554003",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-25T15:16:34+00:00"
-    },
-    {
       "titel": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-25T14:36:26+00:00"
-    },
-    {
-      "titel": "Proteste gegen Wehrpflicht - Tausende Schüler demonstrieren bundesweit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wehrpflicht-proteste-schueler-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-25T13:56:05+00:00"
     }
   ]
 }
