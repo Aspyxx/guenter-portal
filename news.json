@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-09-27T18:26:27+00:00",
+  "aktualisiert": "2026-09-27T21:38:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Deutschland in der Einzelkritik: Kimmich sieht aus wie ein Kapitän ohne Mannschaft",
+      "link": "https://www.sueddeutsche.de/sport/deutschland-griechenland-dfb-einzelkritik-li.3554790",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-27T21:13:21+00:00"
+    },
+    {
+      "titel": "Philipp Amthor erntet Häme für Strandkorb im Kanzleramt",
+      "link": "https://www.spiegel.de/panorama/leute/philipp-amthor-erntet-haeme-fuer-strandkorb-im-kanzleramt-a-c5433a3e-5010-4bd7-b0f8-99bc7ae6e632#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-27T21:09:00+00:00"
+    },
+    {
+      "titel": "Nations League: Griechenland zieht Klopp den Stecker",
+      "link": "https://www.sueddeutsche.de/sport/klopp-griechenland-deutschland-niederlage-li.3554807",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-27T20:49:45+00:00"
+    },
+    {
+      "titel": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-27T20:02:02+00:00"
+    },
+    {
+      "titel": "Serbien: Präsident Aleksandar Vučić tritt zurück",
+      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-tritt-zurueck-a-b00878be-2670-416c-987b-44f9df7da1e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-27T18:56:00+00:00"
+    },
+    {
+      "titel": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
+      "link": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-27T18:34:10+00:00"
+    },
     {
       "titel": "Hannover: Belit Onay als Oberbürgermeister wiedergewählt",
       "link": "https://www.spiegel.de/politik/deutschland/hannover-belit-onay-als-oerbuergermeister-wiedergewaehlt-a-0861c578-806a-4762-b87d-6a88e987bafa#ref=rss",
@@ -25,8 +61,8 @@
       "veroeffentlicht": "2026-09-27T17:44:00+00:00"
     },
     {
-      "titel": "Nations League: Deutschland vs. Griechenland im Liveticker - Gelingt Klopp der erste Sieg beim Heimdebüt gegen Griechenland?",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-vs-griechenland-im-liveticker-gelingt-klopp-der-erste-sieg-beim-heimdebuet-gegen-griechenland-a-40206da4-e6ad-4465-bb58-a3fdda40c628#ref=rss",
+      "titel": "Deutschland – Griechenland: Nations League im Live-Ticker",
+      "link": "https://www.spiegel.de/sport/fussball/deutschland-griechenland-nations-league-im-live-ticker-a-40206da4-e6ad-4465-bb58-a3fdda40c628#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-27T17:44:00+00:00"
     },
@@ -67,16 +103,10 @@
       "veroeffentlicht": "2026-09-27T16:11:00+00:00"
     },
     {
-      "titel": "Indien und China: Unterwegs mit indischen Touristen in der Volksrepublik",
-      "link": "https://www.spiegel.de/ausland/indien-und-china-unterwegs-mit-indischen-touristen-in-der-volksrepublik-a-91c5ff36-d07b-4732-8326-5c848c101171#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T15:39:00+00:00"
-    },
-    {
-      "titel": "Deutschland: Die unterschätzten Stärken der Bundesrepublik vor der Wiedervereinigung",
-      "link": "https://www.spiegel.de/politik/deutschland/deutschland-die-unterschaetzten-staerken-der-bundesrepublik-vor-der-wiedervereinigung-a-230abee2-95bc-47ed-b52d-01243a9953ba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T15:25:00+00:00"
+      "titel": "Podcast „Auf den Punkt“: Die UN hat Fehler. Gebraucht wird sie trotzdem",
+      "link": "https://www.sueddeutsche.de/politik/podcast-nachricht-auf-den-punkt-un-vollversammlung-li.3554057",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-27T14:53:54+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Abgeriegelte Frontstadt Oleschky erhält Lebensmittel aus der Luft",
@@ -121,28 +151,10 @@
       "veroeffentlicht": "2026-09-27T13:48:58+00:00"
     },
     {
-      "titel": "Oktoberfest: Eine Wiesn, beinahe so schön, wie sie sein soll",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-wiesn-halbzeitbilanz-li.3547282",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-27T13:17:10+00:00"
-    },
-    {
       "titel": "Zehntausende demonstrieren nach Zwangsräumung bei 87-Jähriger in Madrid",
       "link": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-27T13:15:09+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Wie Open AI mit seinen KI-Agenten ringt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/openai-ki-training-sicherheitsvorfaelle-usa-li.3554671",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-27T13:10:49+00:00"
-    },
-    {
-      "titel": "CDU: Bewährungsfrist für Spahn nach Sardinien-Reise",
-      "link": "https://www.sueddeutsche.de/politik/jens-spahn-bundestag-haushaltsausschuss-sardinien-reise-li.3554578",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-27T12:54:48+00:00"
     },
     {
       "titel": "Milchprodukte könnten spürbar teurer werden",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/sizilien-catania-aetna-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-27T12:40:57+00:00"
-    },
-    {
-      "titel": "Polen: Wenn der Krieg näher kommt",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-27T12:01:01+00:00"
-    },
-    {
-      "titel": "Wurde Israel von Ägypten vor Hamas-Überfall gewarnt?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-warnungen-hamas-ueberfall-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-27T11:27:48+00:00"
     }
   ]
 }
