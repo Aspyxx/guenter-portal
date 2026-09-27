@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-09-27T21:38:36+00:00",
+  "aktualisiert": "2026-09-27T23:59:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Serbiens Präsident Vucic tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-27T23:13:56+00:00"
+    },
+    {
+      "titel": "Frankreich: Rassemblement National (RN) hat künftig mehr Rechte im Senat",
+      "link": "https://www.spiegel.de/ausland/frankreich-rassemblement-national-rn-hat-kuenftig-mehr-rechte-im-senat-a-7e2c5a9e-709e-49d2-8007-1335ceb0b9c6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-27T22:20:00+00:00"
+    },
+    {
+      "titel": "DFB: Pressestimmen zur Niederlage unter Jürgen Klopp – »Griechische Tragödie«",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pressestimmen-zur-niederlage-unter-juergen-klopp-griechische-tragoedie-a-7b9d4480-fd44-47bc-9e77-5a906d5b1d3c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-27T22:05:00+00:00"
+    },
+    {
+      "titel": "Nations League: Deutschland gegen Griechenland: Erste Pleite für Jürgen Klopp als Bundestrainer",
+      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-griechenland-erste-pleite-fuer-juergen-klopp-als-bundestrainer-a-968b61e9-0128-4cbc-8e65-ffe7d6024792#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-27T21:49:00+00:00"
+    },
+    {
+      "titel": "DFB-Team in der Einzelkritik: Karim Adeyemi schwankt zwischen Brillanz und Stümpertum, Joshua Kimmich sucht seine Rolle",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-team-in-der-einzelkritik-karim-adeyemi-schwankt-zwischen-brillanz-und-stuempertum-joshua-kimmich-sucht-seine-rolle-a-666ab7c6-d8ac-4804-85f6-2c38b0861c1a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-27T21:38:00+00:00"
+    },
     {
       "titel": "Deutschland in der Einzelkritik: Kimmich sieht aus wie ein Kapitän ohne Mannschaft",
       "link": "https://www.sueddeutsche.de/sport/deutschland-griechenland-dfb-einzelkritik-li.3554790",
@@ -73,34 +103,10 @@
       "veroeffentlicht": "2026-09-27T16:57:19+00:00"
     },
     {
-      "titel": "Traumziel Paraguay: Warum immer mehr Deutsche nach Südamerika auswandern",
-      "link": "https://www.spiegel.de/ausland/traumziel-paraguay-warum-immer-mehr-deutsche-nach-suedamerika-auswandern-a-8eeea25c-52e7-47eb-83b1-f55554b24377#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T16:53:00+00:00"
-    },
-    {
-      "titel": "Lufthansa: Brennende Powerbank zwingt Maschine zur Landung",
-      "link": "https://www.spiegel.de/panorama/lufthansa-brennende-powerbank-zwingt-maschine-zur-landung-a-6178f573-6d85-4e65-a72e-593a97ca14e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T16:43:00+00:00"
-    },
-    {
       "titel": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-27T16:14:05+00:00"
-    },
-    {
-      "titel": "Einsamkeit in der ersten eigenen Wohnung: Wie Kim Kaltofen das Alleinleben lernt",
-      "link": "https://www.spiegel.de/start/einsamkeit-in-der-ersten-eigenen-wohnung-wie-kim-kaltofen-das-alleinleben-lernt-a-123a0744-6413-473a-b68f-8bc07d4be80f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T16:14:00+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV. in Frankreich: Streit mit Macron, Jubel von Le Pen",
-      "link": "https://www.spiegel.de/ausland/papst-leo-xiv-in-frankreich-streit-mit-macron-jubel-von-le-pen-a-c7a4851a-abd5-4800-970a-8a8ed51f555a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T16:11:00+00:00"
     },
     {
       "titel": "Podcast „Auf den Punkt“: Die UN hat Fehler. Gebraucht wird sie trotzdem",
@@ -161,12 +167,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher-milch-preise-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-27T12:44:33+00:00"
-    },
-    {
-      "titel": "Sizilien: Ätna legt erneut Flugbetrieb in Catania lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/sizilien-catania-aetna-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-27T12:40:57+00:00"
     }
   ]
 }
