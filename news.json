@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-27T23:59:39+00:00",
+  "aktualisiert": "2026-09-28T05:27:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,100 @@
   },
   "meldungen": [
     {
+      "titel": "Start-ups in Deutschland: KI- und Rüstungsboom treibt Zahl der Unicorns",
+      "link": "https://www.spiegel.de/wirtschaft/start-ups-in-deutschland-ki-und-ruestungsboom-treibt-zahl-der-unicorns-a-6ce42514-3787-4312-a450-6096e9bba4c1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T05:14:00+00:00"
+    },
+    {
+      "titel": "AfD: Hendrik Wüst hält Aufstieg für umkehrbar und mahnt etablierte Parteien",
+      "link": "https://www.spiegel.de/politik/afd-hendrik-wuest-haelt-aufstieg-fuer-umkehrbar-und-mahnt-etablierte-parteien-a-cc896574-2bd4-4d4b-b337-be85e2f87391#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T05:09:00+00:00"
+    },
+    {
+      "titel": "SEK: Beamten haben offenbar diskriminierende und sexistische Texte und Fotos in Chats geteilt",
+      "link": "https://www.spiegel.de/panorama/justiz/sek-beamten-haben-offenbar-diskriminierende-und-sexistische-texte-und-fotos-in-chats-geteilt-a-db78b73d-e62d-4ef7-9116-a9754a61b514#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T04:58:00+00:00"
+    },
+    {
+      "titel": "Christian Klein: SAP-Chef setzt auf KI-Agenten und erwartet »weiteren wirklichen Schub«",
+      "link": "https://www.spiegel.de/wirtschaft/christian-klein-sap-chef-setzt-auf-ki-agenten-und-erwartet-weiteren-wirklichen-schub-a-1bcef515-ab1e-4de3-a0ea-b1ab6138925b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T04:52:00+00:00"
+    },
+    {
+      "titel": "Russland: Kyjiw wirft Moskau vor, Friedensbereitschaft nur vorzutäuschen",
+      "link": "https://www.spiegel.de/politik/russland-kyjiw-wirft-moskau-vor-friedensbereitschaft-nur-vorzutaeuschen-a-22c921c6-a00c-45fb-9303-6f31ce087c2c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T04:36:00+00:00"
+    },
+    {
+      "titel": "Pflege, Rente, Steuern: An diesen Konflikten könnte die Koalition scheitern",
+      "link": "https://www.spiegel.de/politik/deutschland/pflege-rente-steuern-an-diesen-konflikten-koennte-die-koalition-scheitern-a-5f8b9dc5-ede1-47c2-a277-7b6b26cef2eb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T04:27:00+00:00"
+    },
+    {
+      "titel": "»Schumacher´94 – Geburt einer Legende«: Was erfährt man in der Netflix-Doku Neues?",
+      "link": "https://www.spiegel.de/kultur/tv/schumacher-94-geburt-einer-legende-was-erfaehrt-man-in-der-netflix-doku-neues-a-9170907f-0433-4de1-b6f9-057a9c6a3dcc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T04:01:00+00:00"
+    },
+    {
+      "titel": "Lebensmittelpreise: Droht die nächste Inflationswelle?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittelpreise-weizen-mais-zucker-inflation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-28T04:00:07+00:00"
+    },
+    {
+      "titel": "Israels Wahlkampf mit harten Bandagen - Ausschluss arabischer Parteien?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-parteien-arabisch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-28T03:54:40+00:00"
+    },
+    {
+      "titel": "News: Hendrik Wüst in der Türkei, 75 Jahre Bundesverfassungsgericht, Exportboom nach Polen",
+      "link": "https://www.spiegel.de/politik/deutschland/news-hendrik-wuest-in-der-tuerkei-75-jahre-bundesverfassungsgericht-exportboom-nach-polen-a-6bb88ef7-5b8c-4642-955b-5b624bdee5cf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T03:40:00+00:00"
+    },
+    {
+      "titel": "Erster Führungsjob: Wie der Rollenwechsel ohne Kontrollwahn gelingt",
+      "link": "https://www.spiegel.de/karriere/erster-fuehrungsjob-wie-der-rollenwechsel-ohne-kontrollwahn-gelingt-a-62278613-0113-4ac4-ae49-4e9c29582619#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T03:30:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Antisemitismusvorwurf: Elif Eralp zeigt Alexander Dobrindt an",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-berlin-alexander-dobrindt-elif-eralp-berlin-antisemitismus-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-28T02:55:08+00:00"
+    },
+    {
+      "titel": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
+      "link": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-28T01:22:23+00:00"
+    },
+    {
+      "titel": "„Caren Miosga“: Der Beobachter vom Nordpol",
+      "link": "https://www.sueddeutsche.de/medien/tv-kritik-robert-habeck-caren-miosga-waermepumpe-li.3554055",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-28T00:00:48+00:00"
+    },
+    {
       "titel": "Serbiens Präsident Vucic tritt zurück",
       "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-27T23:13:56+00:00"
     },
     {
-      "titel": "Frankreich: Rassemblement National (RN) hat künftig mehr Rechte im Senat",
-      "link": "https://www.spiegel.de/ausland/frankreich-rassemblement-national-rn-hat-kuenftig-mehr-rechte-im-senat-a-7e2c5a9e-709e-49d2-8007-1335ceb0b9c6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T22:20:00+00:00"
-    },
-    {
-      "titel": "DFB: Pressestimmen zur Niederlage unter Jürgen Klopp – »Griechische Tragödie«",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pressestimmen-zur-niederlage-unter-juergen-klopp-griechische-tragoedie-a-7b9d4480-fd44-47bc-9e77-5a906d5b1d3c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T22:05:00+00:00"
-    },
-    {
-      "titel": "Nations League: Deutschland gegen Griechenland: Erste Pleite für Jürgen Klopp als Bundestrainer",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-griechenland-erste-pleite-fuer-juergen-klopp-als-bundestrainer-a-968b61e9-0128-4cbc-8e65-ffe7d6024792#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T21:49:00+00:00"
-    },
-    {
-      "titel": "DFB-Team in der Einzelkritik: Karim Adeyemi schwankt zwischen Brillanz und Stümpertum, Joshua Kimmich sucht seine Rolle",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-team-in-der-einzelkritik-karim-adeyemi-schwankt-zwischen-brillanz-und-stuempertum-joshua-kimmich-sucht-seine-rolle-a-666ab7c6-d8ac-4804-85f6-2c38b0861c1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T21:38:00+00:00"
-    },
-    {
       "titel": "Deutschland in der Einzelkritik: Kimmich sieht aus wie ein Kapitän ohne Mannschaft",
       "link": "https://www.sueddeutsche.de/sport/deutschland-griechenland-dfb-einzelkritik-li.3554790",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-27T21:13:21+00:00"
-    },
-    {
-      "titel": "Philipp Amthor erntet Häme für Strandkorb im Kanzleramt",
-      "link": "https://www.spiegel.de/panorama/leute/philipp-amthor-erntet-haeme-fuer-strandkorb-im-kanzleramt-a-c5433a3e-5010-4bd7-b0f8-99bc7ae6e632#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T21:09:00+00:00"
     },
     {
       "titel": "Nations League: Griechenland zieht Klopp den Stecker",
@@ -61,39 +115,15 @@
       "veroeffentlicht": "2026-09-27T20:02:02+00:00"
     },
     {
-      "titel": "Serbien: Präsident Aleksandar Vučić tritt zurück",
-      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-tritt-zurueck-a-b00878be-2670-416c-987b-44f9df7da1e1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T18:56:00+00:00"
-    },
-    {
       "titel": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
       "link": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-27T18:34:10+00:00"
     },
     {
-      "titel": "Hannover: Belit Onay als Oberbürgermeister wiedergewählt",
-      "link": "https://www.spiegel.de/politik/deutschland/hannover-belit-onay-als-oerbuergermeister-wiedergewaehlt-a-0861c578-806a-4762-b87d-6a88e987bafa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T18:13:00+00:00"
-    },
-    {
-      "titel": "Carsten Linnemann stellt sich gegen SPD-Forderung nach Pflegedeckel",
-      "link": "https://www.spiegel.de/politik/deutschland/carsten-linnemann-stellt-sich-gegen-spd-forderung-nach-pflegedeckel-a-18cc302c-9d34-4168-b66a-f6f238a4f747#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-27T17:47:00+00:00"
-    },
-    {
       "titel": "Oktoberfest: Polizisten erwischen Kokser neben Bavaria – und stoppen sexuelle Übergriffe auf der Wiesn",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-sonntag-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-27T17:44:00+00:00"
-    },
-    {
-      "titel": "Deutschland – Griechenland: Nations League im Live-Ticker",
-      "link": "https://www.spiegel.de/sport/fussball/deutschland-griechenland-nations-league-im-live-ticker-a-40206da4-e6ad-4465-bb58-a3fdda40c628#ref=rss",
-      "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-27T17:44:00+00:00"
     },
     {
@@ -107,6 +137,12 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-27T16:14:05+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Trump erwartet kommende Woche weitere Gespräche mit Teheran",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-trump-erwartet-einigung-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-27T15:56:00+00:00"
     },
     {
       "titel": "Podcast „Auf den Punkt“: Die UN hat Fehler. Gebraucht wird sie trotzdem",
@@ -131,42 +167,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-banaszak-brantner-bundesvorsitz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-27T14:31:58+00:00"
-    },
-    {
-      "titel": "Volksabstimmung in der Schweiz: Mehrheit gegen verschärfte Neutralität",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-27T14:30:59+00:00"
-    },
-    {
-      "titel": "DFB-Stürmer Younes Ebnoutalib: Verbandsliga, Regionalliga, Nationalmannschaft",
-      "link": "https://www.sueddeutsche.de/sport/nationalelf-ebnoutalib-griechenland-klopp-li.3554688",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-27T14:28:12+00:00"
-    },
-    {
-      "titel": "Astrid Prolls Erinnerungen: „Wir langweilten uns zu Tode und erfanden die RAF“",
-      "link": "https://www.sueddeutsche.de/politik/astrid-proll-raf-leben-flucht-england-zwischen-sturm-und-stille-li.3529809",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-27T13:49:11+00:00"
-    },
-    {
-      "titel": "Wohnkrise als Demokratiegefahr: Bezahlbar wohnen statt AfD belohnen",
-      "link": "https://www.sueddeutsche.de/politik/heinze-kurtenbach-die-wohnkrise-rezension-li.3549838",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-27T13:48:58+00:00"
-    },
-    {
-      "titel": "Zehntausende demonstrieren nach Zwangsräumung bei 87-Jähriger in Madrid",
-      "link": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-27T13:15:09+00:00"
-    },
-    {
-      "titel": "Milchprodukte könnten spürbar teurer werden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher-milch-preise-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-27T12:44:33+00:00"
     }
   ]
 }
