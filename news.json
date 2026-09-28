@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-28T19:41:28+00:00",
+  "aktualisiert": "2026-09-28T23:57:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "Ukraine: Auswärtiges Amt verurteilt russischen Angriff auf Nationale Akademie der Wissenschaften in Kyjiw",
-      "link": "https://www.spiegel.de/ausland/ukraine-auswaertiges-amt-verurteilt-russischen-angriff-auf-nationale-akademie-der-wissenschaften-in-kyjiw-a-924ec138-267a-4117-85e6-0d688652dca0#ref=rss",
+      "titel": "»Villa der Versuchung« 2026: Frenzy gewinnt Finale der Reality-Show",
+      "link": "https://www.spiegel.de/kultur/villa-der-versuchung-2026-frenzy-gewinnt-finale-der-reality-show-a-c9fd15d1-ef8e-4175-a02a-83ef44279f56#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T19:33:00+00:00"
+      "veroeffentlicht": "2026-09-28T23:28:00+00:00"
     },
     {
-      "titel": "Italien: Drei ägyptische Geheimdienstler im Fall Giulio Regeni verurteilt",
-      "link": "https://www.spiegel.de/ausland/italien-drei-aegyptische-geheimdienstler-im-fall-giulio-regeni-verurteilt-a-8ee70e34-1d59-4b4a-a765-22effa72a8fe#ref=rss",
+      "titel": "Newsblog zum Ukraine-Krieg: Putin stockt russische Armee auf 1,55 Millionen Soldaten auf",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-armee-soldaten-putin-mobilmachung-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-28T23:21:39+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. will Menschen vor KI schützen: Aufruf zu globalem Dialog",
+      "link": "https://www.spiegel.de/panorama/papst-leo-xiv-will-menschen-vor-ki-schuetzen-aufruf-zu-globalem-dialog-a-cf478f13-de2a-4831-9e07-fc31352b41c5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T19:24:00+00:00"
+      "veroeffentlicht": "2026-09-28T23:09:00+00:00"
+    },
+    {
+      "titel": "Wohnungsnot in Spanien: Zwangsgeräumte 87-Jährige soll zurück in ihre Wohnung",
+      "link": "https://www.spiegel.de/ausland/wohnungsnot-in-spanien-zwangsgeraeumte-87-jaehrige-soll-zurueck-in-ihre-wohnung-a-a58d6993-0d19-4f68-bcc5-4cc9a4ca2477#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T22:04:00+00:00"
+    },
+    {
+      "titel": "Markus Söder und Dominik Krause auf dem Oktoberfest: Fünf Loopings für Olympia-München",
+      "link": "https://www.spiegel.de/panorama/leute/markus-soeder-und-dominik-krause-auf-dem-oktoberfest-fuenf-loopings-fuer-olympia-muenchen-a-6eb1e400-52e4-4027-8f99-66bbe5a9c4ca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T22:01:00+00:00"
+    },
+    {
+      "titel": "Erneuerbare Energien: Höchstes Windrad der Welt überragt fast den Berliner Fernsehturm",
+      "link": "https://www.spiegel.de/wirtschaft/erneuerbare-energien-hoechstes-windrad-der-welt-ueberragt-fast-den-berliner-fernsehturm-a-7bef3183-c302-40e4-a38c-1efea7807882#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T21:33:00+00:00"
+    },
+    {
+      "titel": "Schweden: Magdalena Andersson erklärt Sondierungen für gescheitert",
+      "link": "https://www.spiegel.de/ausland/schweden-magdalena-andersson-erklaert-sondierungen-fuer-gescheitert-a-d9bbc420-9b1c-446a-8c9d-d4bb15b8cd32#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T21:15:00+00:00"
+    },
+    {
+      "titel": "Nordirland: Rückkehr des Drumcree-Marschs schürt politische Spannungen",
+      "link": "https://www.spiegel.de/ausland/nordirland-rueckkehr-des-drumcree-marschs-schuert-politische-spannungen-a-491293e5-fb44-4945-9f38-ba91d91e7863#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T21:03:00+00:00"
+    },
+    {
+      "titel": "Israel: Außenministerium wirft Spanien Kampagne gegen Israel vor",
+      "link": "https://www.spiegel.de/ausland/israel-aussenministerium-wirft-spanien-kampagne-gegen-israel-vor-a-62631833-e409-4b91-b45f-1370a21f717a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T20:42:00+00:00"
+    },
+    {
+      "titel": "Podcast »Im Verhör«: Gangster-Rap und Hells Angels – Rapper suchen Schutz - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/podcast-im-verhoer-gangster-rap-und-hells-angels-rapper-suchen-schutz-spiegel-tv-a-1341b89d-83d8-4b86-9c65-a58f7574e514#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-28T20:07:00+00:00"
+    },
+    {
+      "titel": "Türkei: Comedian Göktaş zu 18 Monaten Haft verurteilt",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkischer-comedian-kommt-aus-haft-frei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-28T19:53:21+00:00"
     },
     {
       "titel": "NRW-Landeschef Wüst trifft überraschend Erdogan in Türkei",
       "link": "https://www.tagesschau.de/ausland/asien/hendrik-wuest-erdogan-tuerkei-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-28T19:05:03+00:00"
-    },
-    {
-      "titel": "NRW-Ministerpräsident in der Türkei: Und dann sitzt Wüst auf einmal bei Erdoğan",
-      "link": "https://www.spiegel.de/politik/deutschland/nrw-ministerpraesident-in-der-tuerkei-und-dann-sitzt-wuest-auf-einmal-bei-erdogan-a-2a690cd1-9240-4866-ba1d-ca6f226a4a66#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T18:58:00+00:00"
-    },
-    {
-      "titel": "Elon Musk: Starship erreicht Orbit – SpaceX riskiert Abschied von Falcon 9",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/elon-musk-starship-erreicht-orbit-spacex-riskiert-abschied-von-falcon-9-a-6cbcf7c2-c15b-4013-a325-1f2b553ba87c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T18:57:00+00:00"
-    },
-    {
-      "titel": "Erster Zwischenbericht zum Beinahe-Crash am Flughafen München: Der Kapitän hat gebremst",
-      "link": "https://www.spiegel.de/wissenschaft/technik/erster-zwischenbericht-zum-beinahe-crash-am-flughafen-muenchen-der-kapitaen-hat-gebremst-a-712c94b6-e81e-4e16-90b9-caf55e84279f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T18:56:00+00:00"
-    },
-    {
-      "titel": "Antisemitismusvorwurf: Streit zwischen Alexander Dobrindt und Elif Eralp beschäftigt Justiz",
-      "link": "https://www.spiegel.de/panorama/justiz/antisemitismusvorwurf-streit-zwischen-alexander-dobrindt-und-elif-eralp-beschaeftigt-justiz-a-e5b23671-25de-4bcd-9a17-389d11a13423#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T18:55:00+00:00"
     },
     {
       "titel": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
@@ -61,18 +91,6 @@
       "veroeffentlicht": "2026-09-28T18:34:20+00:00"
     },
     {
-      "titel": "Kimberly Guilfoyle: US-Botschafterin in Griechenland soll Sturz von rumänischer Regierung angekündigt haben",
-      "link": "https://www.spiegel.de/ausland/kimberly-guilfoyle-us-botschafterin-in-griechenland-soll-sturz-von-rumaenischer-regierung-angekuendigt-haben-a-66e66726-dfc9-49d3-aad6-359ae77eeaf0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T18:17:00+00:00"
-    },
-    {
-      "titel": "Jan Böhmermann: Ende von »ZDF Magazin Royale« sei seine eigene Entscheidung gewesen",
-      "link": "https://www.spiegel.de/kultur/tv/jan-boehmermann-ende-von-zdf-magazin-royale-sei-seine-eigene-entscheidung-gewesen-a-c0f311a3-3096-4eee-be35-eb8ecc28e3a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T18:06:00+00:00"
-    },
-    {
       "titel": "\"Starship\"-Rakete erreicht erstmals Erdumlaufbahn",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/space-x-raketenstart-100.html",
       "quelle": "Tagesschau",
@@ -83,12 +101,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-soeder-krause-oktoberfest-achterbahn-li.3555092",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-28T17:52:58+00:00"
-    },
-    {
-      "titel": "Pflegeversicherung: Die SPD will die Beiträge fürs Heim deckeln. Kann das funktionieren?",
-      "link": "https://www.spiegel.de/wirtschaft/pflegeversicherung-die-spd-will-die-beitraege-fuers-heim-deckeln-kann-das-funktionieren-a-7067fdc3-29c1-4ba6-865e-fcd6529d16af#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T17:52:00+00:00"
     },
     {
       "titel": "Papst in Metz - Eine Rede an Europas Gewissen",
@@ -121,22 +133,10 @@
       "veroeffentlicht": "2026-09-28T16:21:45+00:00"
     },
     {
-      "titel": "Regierungsbildung in Schweden: Andersson gibt auf - kommt jetzt Kristersson?",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T16:05:59+00:00"
-    },
-    {
       "titel": "Evidenzbasierte Medizin: Bund streicht renommierter Cochrane-Stiftung die Förderung",
       "link": "https://www.sueddeutsche.de/politik/warken-ausstieg-foerderung-cochrane-evidenzbasiert-medizin-li.3553545",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-28T15:12:11+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Nationale Akademie der Wissenschaften in Kiew in Flammen",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-rueckeroberung-gebiete-donezk-li.3549696",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-28T14:12:00+00:00"
     },
     {
       "titel": "Theater: Sie wollen nur Liebe – oder Geld",
