@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-28T23:57:48+00:00",
+  "aktualisiert": "2026-09-29T05:46:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,64 +7,118 @@
   },
   "meldungen": [
     {
-      "titel": "»Villa der Versuchung« 2026: Frenzy gewinnt Finale der Reality-Show",
-      "link": "https://www.spiegel.de/kultur/villa-der-versuchung-2026-frenzy-gewinnt-finale-der-reality-show-a-c9fd15d1-ef8e-4175-a02a-83ef44279f56#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T23:28:00+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Putin stockt russische Armee auf 1,55 Millionen Soldaten auf",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-armee-soldaten-putin-mobilmachung-li.3549696",
+      "titel": "Newsblog zum Ukraine-Krieg: Selenskij: Nordkorea verstärkt Truppen in Russland",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-nodkorea-russland-armee-soldaten-li.3549696",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-28T23:21:39+00:00"
+      "veroeffentlicht": "2026-09-29T05:36:59+00:00"
     },
     {
-      "titel": "Papst Leo XIV. will Menschen vor KI schützen: Aufruf zu globalem Dialog",
-      "link": "https://www.spiegel.de/panorama/papst-leo-xiv-will-menschen-vor-ki-schuetzen-aufruf-zu-globalem-dialog-a-cf478f13-de2a-4831-9e07-fc31352b41c5#ref=rss",
+      "titel": "Netzwerken im Job: Weshalb Kontakte knüpfen wie Flirten ist – und wann es riskant wird",
+      "link": "https://www.spiegel.de/karriere/netzwerken-im-job-weshalb-kontakte-knuepfen-wie-flirten-ist-und-wann-es-riskant-wird-a-98520fa2-1248-474d-bc47-3ff115fd91a4#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T23:09:00+00:00"
+      "veroeffentlicht": "2026-09-29T05:31:00+00:00"
     },
     {
-      "titel": "Wohnungsnot in Spanien: Zwangsgeräumte 87-Jährige soll zurück in ihre Wohnung",
-      "link": "https://www.spiegel.de/ausland/wohnungsnot-in-spanien-zwangsgeraeumte-87-jaehrige-soll-zurueck-in-ihre-wohnung-a-a58d6993-0d19-4f68-bcc5-4cc9a4ca2477#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T22:04:00+00:00"
+      "titel": "Marktbericht: Schwache Wall Street drückt auf die Stimmung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T05:30:37+00:00"
     },
     {
-      "titel": "Markus Söder und Dominik Krause auf dem Oktoberfest: Fünf Loopings für Olympia-München",
-      "link": "https://www.spiegel.de/panorama/leute/markus-soeder-und-dominik-krause-auf-dem-oktoberfest-fuenf-loopings-fuer-olympia-muenchen-a-6eb1e400-52e4-4027-8f99-66bbe5a9c4ca#ref=rss",
+      "titel": "USA vor den Midterms: Rückkehr des Wahlkämpfers Donald Trump",
+      "link": "https://www.spiegel.de/ausland/usa-vor-den-midterms-rueckkehr-des-wahlkaempfers-donald-trump-a-90b6cff4-62cf-494b-b594-e01b566f520a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T22:01:00+00:00"
+      "veroeffentlicht": "2026-09-29T05:26:00+00:00"
     },
     {
-      "titel": "Erneuerbare Energien: Höchstes Windrad der Welt überragt fast den Berliner Fernsehturm",
-      "link": "https://www.spiegel.de/wirtschaft/erneuerbare-energien-hoechstes-windrad-der-welt-ueberragt-fast-den-berliner-fernsehturm-a-7bef3183-c302-40e4-a38c-1efea7807882#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T21:33:00+00:00"
+      "titel": "11KM-Podcast: Unter den Rock gefilmt - Geschäft mit Oktoberfest-Videos",
+      "link": "https://www.tagesschau.de/podcast-11km-oktoberfest-videos-teufelsrad-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T05:21:28+00:00"
     },
     {
-      "titel": "Schweden: Magdalena Andersson erklärt Sondierungen für gescheitert",
-      "link": "https://www.spiegel.de/ausland/schweden-magdalena-andersson-erklaert-sondierungen-fuer-gescheitert-a-d9bbc420-9b1c-446a-8c9d-d4bb15b8cd32#ref=rss",
+      "titel": "Utah: 71-Jähriger nach Jahrzehnten im Todestrakt freigelassen",
+      "link": "https://www.spiegel.de/panorama/justiz/utah-71-jaehriger-nach-jahrzehnten-im-todestrakt-freigelassen-a-5d82c613-3651-47fb-b96a-c1e32e8e2b27#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T21:15:00+00:00"
+      "veroeffentlicht": "2026-09-29T05:14:00+00:00"
     },
     {
-      "titel": "Nordirland: Rückkehr des Drumcree-Marschs schürt politische Spannungen",
-      "link": "https://www.spiegel.de/ausland/nordirland-rueckkehr-des-drumcree-marschs-schuert-politische-spannungen-a-491293e5-fb44-4945-9f38-ba91d91e7863#ref=rss",
+      "titel": "Ukraine-Krieg: Wolodymyr Selenskyj warnt vor zusätzlicher russischer Mobilmachung",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-zusaetzlicher-russischer-mobilmachung-a-8fb2f7b0-885d-4803-a5f6-9d0c7efd8d5e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T21:03:00+00:00"
+      "veroeffentlicht": "2026-09-29T05:06:00+00:00"
     },
     {
-      "titel": "Israel: Außenministerium wirft Spanien Kampagne gegen Israel vor",
-      "link": "https://www.spiegel.de/ausland/israel-aussenministerium-wirft-spanien-kampagne-gegen-israel-vor-a-62631833-e409-4b91-b45f-1370a21f717a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T20:42:00+00:00"
+      "titel": "OpenAI stoppt Veröffentlichung von neuem KI-Modell wegen Sicherheitsbedenken",
+      "link": "https://www.tagesschau.de/ausland/amerika/openai-ki-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T05:03:40+00:00"
     },
     {
-      "titel": "Podcast »Im Verhör«: Gangster-Rap und Hells Angels – Rapper suchen Schutz - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/podcast-im-verhoer-gangster-rap-und-hells-angels-rapper-suchen-schutz-spiegel-tv-a-1341b89d-83d8-4b86-9c65-a58f7574e514#ref=rss",
+      "titel": "Ebola im Kongo: Behörden melden mehr als 8000 Infektionen – bald 4000 Tote",
+      "link": "https://www.spiegel.de/ausland/ebola-im-kongo-behoerden-melden-mehr-als-8000-infektionen-bald-4000-tote-a-87fd6ab4-b9c5-4607-bcc8-ee025d8aac13#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-28T20:07:00+00:00"
+      "veroeffentlicht": "2026-09-29T04:54:00+00:00"
+    },
+    {
+      "titel": "Niedrigwasser am Rhein: Düsseldorfer Rheinfähre meldet Kurzarbeit an",
+      "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-am-rhein-duesseldorfer-rheinfaehre-meldet-kurzarbeit-an-a-74b5074e-5de9-4c2b-8e91-ad0bca77b979#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T04:54:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Open AI stoppt Veröffentlichung von neuem KI-Modell wegen Sicherheitsbedenken",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-kuenstliche-intelligenz-open-ai-chat-gpt-li.3547133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T04:46:31+00:00"
+    },
+    {
+      "titel": "Jungfernhäutchen: Medizinerin erklärt den Mythos vom vermeintlichen Reinheitssiegel",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/jungfernhaeutchen-medizinerin-erklaert-den-mythos-vom-vermeintlichen-reinheitssiegel-a-3123d731-9f82-4c02-b8ee-7d1da0f0d7d7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T04:04:00+00:00"
+    },
+    {
+      "titel": "Weltwirtschaftsforum in Davos: Wirbel um angebliche Attentatspläne auf Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/wef-trump-verdacht-anschlag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T04:00:56+00:00"
+    },
+    {
+      "titel": "Frank-Walter Steinmeier: Warum er Staatsgäste im Verteidigungsministerium empfängt",
+      "link": "https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-warum-er-staatsgaeste-im-verteidigungsministerium-empfaengt-a-8d1045cf-5f4a-4a4a-9884-cb16138c7043#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T04:00:00+00:00"
+    },
+    {
+      "titel": "Australien: Walkadaver sorgt für Hai-Alarm am Stadtstrand von Perth",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-perth-gestrandeter-wal-hai-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T03:59:31+00:00"
+    },
+    {
+      "titel": "News: Philipp Amthor und der Strandkorb, Rente mit 63, Sylvester Stallone im SPIEGEL-Gespräch",
+      "link": "https://www.spiegel.de/politik/deutschland/news-philipp-amthor-und-der-strandkorb-rente-mit-63-sylvester-stallone-im-spiegel-gespraech-a-2caccfc2-e81d-402e-bd0f-2e90d69899b9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T03:34:00+00:00"
+    },
+    {
+      "titel": "Verteidigung im All: Bundeswehr und Rüstungsbranche bündeln Kräfte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruestungsindustrie-weltraum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T03:00:33+00:00"
+    },
+    {
+      "titel": "Oktoberfest - Das Geschäft mit den \"Teufelsrad\"-Videos",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/oktoberfest-muenchen-teufelsrad-videos-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T03:00:27+00:00"
+    },
+    {
+      "titel": "Nach Zwangsräumung in Madrid: 87-Jährige darf in ihre Wohnung zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T00:31:37+00:00"
     },
     {
       "titel": "Türkei: Comedian Göktaş zu 18 Monaten Haft verurteilt",
@@ -73,64 +127,16 @@
       "veroeffentlicht": "2026-09-28T19:53:21+00:00"
     },
     {
-      "titel": "NRW-Landeschef Wüst trifft überraschend Erdogan in Türkei",
-      "link": "https://www.tagesschau.de/ausland/asien/hendrik-wuest-erdogan-tuerkei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T19:05:03+00:00"
-    },
-    {
-      "titel": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-kriminalisierung-lgbt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T18:54:46+00:00"
-    },
-    {
-      "titel": "Griechenland will während EU-Ratsvorsitz Abschiebezentrum in Afrika einrichten",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-will-abschiebezentren-in-afrika-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T18:34:20+00:00"
-    },
-    {
-      "titel": "\"Starship\"-Rakete erreicht erstmals Erdumlaufbahn",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/space-x-raketenstart-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T18:05:57+00:00"
-    },
-    {
       "titel": "Olympia-Versprechen eingelöst: Ministerpräsident Söder wagt sich mit OB Krause in die Achterbahn",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-soeder-krause-oktoberfest-achterbahn-li.3555092",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-28T17:52:58+00:00"
     },
     {
-      "titel": "Papst in Metz - Eine Rede an Europas Gewissen",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T17:30:16+00:00"
-    },
-    {
-      "titel": "Russland stellt Metros Vermögenswerte unter Zwangsverwaltung",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T17:14:23+00:00"
-    },
-    {
       "titel": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa",
       "link": "https://www.sueddeutsche.de/wirtschaft/vw-partnerschaft-china-powerco-gotion-li.3555272",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-28T17:08:40+00:00"
-    },
-    {
-      "titel": "Worum Union und SPD bei der Pflegereform ringen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-pflege-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T16:30:58+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX gibt nur wenig nach",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-28T16:21:45+00:00"
     },
     {
       "titel": "Evidenzbasierte Medizin: Bund streicht renommierter Cochrane-Stiftung die Förderung",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/cdu-arbeitnehmerfluegel-cda-kritik-dennis-radtke-johannes-winkel-li.3555000",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-28T13:12:14+00:00"
-    },
-    {
-      "titel": "Landgericht München I: Domina soll Kunden wegen seines Erbes getötet haben",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-landgericht-mordprozess-domina-erbmord-li.3553511",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-28T13:10:09+00:00"
     }
   ]
 }
