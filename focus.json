@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-09-28T23:59:58+00:00",
+  "aktualisiert": "2026-09-29T04:33:52+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Teufelsrad Oktoberfest",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/oktoberfest-muenchen-teufelsrad-videos-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Comedian Göktaş zu 18 Monaten Haft verurteilt",
       "link": "https://www.tagesschau.de/ausland/europa/tuerkischer-comedian-kommt-aus-haft-frei-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Worum Union und SPD bei der Pflegereform ringen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-pflege-100.html",
+      "rang": 3,
+      "titel": "Weltwirtschaftsforum in Davos: Wirbel um angebliche Attentatspläne auf Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/wef-trump-verdacht-anschlag-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Regierungsbildung in Schweden: Andersson gibt auf - kommt jetzt Kristersson?",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-112.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
     }
   ]
 }
