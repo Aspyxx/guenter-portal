@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-29T12:56:27+00:00",
+  "aktualisiert": "2026-09-29T18:39:21+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Oktoberfest: Wiesn-Besucher liegt nach Faustschlag im Koma",
+      "titel": "Reformdebatte in der schwarz-roten Koalition",
+      "link": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T18:25:40+00:00"
+    },
+    {
+      "titel": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T18:25:01+00:00"
+    },
+    {
+      "titel": "Marokko-Reise nach dem Abitur: »Wir waren jung, hatten kaum Geld und brauchten einen Schlafplatz«",
+      "link": "https://www.spiegel.de/panorama/marokko-reise-nach-dem-abitur-wir-waren-jung-hatten-kaum-geld-und-brauchten-einen-schlafplatz-a-9bc2bd6c-f96e-4bcb-883b-54de177f5b83#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T18:17:00+00:00"
+    },
+    {
+      "titel": "Eckernförde: Wie Taucher Müll und Kurioses aus dem Hafen holen",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/eckernfoerde-wie-taucher-muell-und-kurioses-aus-dem-hafen-holen-a-7f8917cf-4759-476d-a02e-5b7deee49143#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T18:16:00+00:00"
+    },
+    {
+      "titel": "Gangster-Rap und Rocker: Wie die Unterwelt Schutz und »Rücken« organisiert - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/justiz/gangster-rap-und-rocker-wie-die-unterwelt-schutz-und-ruecken-organisiert-spiegel-tv-a-b7fbe117-6d92-4e20-8cba-05644abb61a3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T18:13:00+00:00"
+    },
+    {
+      "titel": "Antisemitismus-Vorwüfe gegen Jordan Bardella: Bremst dieser Skandal Marine Le Pen aus?",
+      "link": "https://www.spiegel.de/ausland/antisemitismus-vorwuefe-gegen-jordan-bardella-bremst-dieser-skandal-marine-le-pen-aus-a-6adb17d4-f8fb-47bc-9310-a48c6cff49a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T18:12:00+00:00"
+    },
+    {
+      "titel": "Donald Trump vor den Midterms: »Es ist eine Abstimmung über ein gebrochenes Versprechen«",
+      "link": "https://www.spiegel.de/ausland/donald-trump-vor-den-midterms-es-ist-eine-abstimmung-ueber-ein-gebrochenes-versprechen-a-3b9bba09-4745-455e-934f-ddb13f3a7ef7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T18:12:00+00:00"
+    },
+    {
+      "titel": "Kasachstan: Künftig mehr Öllieferungen an Deutschland",
+      "link": "https://www.spiegel.de/wirtschaft/kasachstan-kuenftig-mehr-oellieferungen-an-deutschland-a-6b3217eb-422a-4bdd-b548-e30e114e55fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T18:10:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: Er wird es richten müssen",
+      "link": "https://www.sueddeutsche.de/politik/grossbritannien-labour-andy-burnham-parteitag-li.3555620",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T18:09:48+00:00"
+    },
+    {
+      "titel": "Ferhat Gündogdu: Türkischer Schiedsrichter-Chef festgenommen",
+      "link": "https://www.spiegel.de/sport/fussball/ferhat-guendogdu-tuerkischer-schiedsrichter-chef-festgenommen-a-ed4062e8-81ec-44be-addf-a6c2a9a38420#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T18:08:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz sprach von »Gerechtigkeit«, da sah die SPD ihre Chance gekommen",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-sprach-von-gerechtigkeit-da-sah-die-spd-ihre-chance-gekommen-a-55195cae-5553-4395-b73b-ef943e8e8665#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T17:11:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: Andy Burnham will Mehrheitswahlrecht abschaffen",
+      "link": "https://www.spiegel.de/ausland/grossbritannien-andy-burnham-will-mehrheitswahlrecht-abschaffen-a-f74fcf50-de48-453c-8b2d-7549920097f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T17:04:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger weiter zuversichtlich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T16:37:28+00:00"
+    },
+    {
+      "titel": "Europäische Staatsanwaltschaft: Mutmaßlicher Millionenbetrug mit Samsung-Smartphones",
+      "link": "https://www.sueddeutsche.de/politik/samsung-handy-betrug-steuerhinterziehung-deutschland-li.3553442",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T16:31:00+00:00"
+    },
+    {
+      "titel": "Kino: Ist das Tom Cruise? Ja, leider",
+      "link": "https://www.sueddeutsche.de/kultur/digger-film-kritik-tom-cruise-sandra-hueller-li.3549591",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T16:01:00+00:00"
+    },
+    {
+      "titel": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
+      "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T15:55:24+00:00"
+    },
+    {
+      "titel": "Westjordanland: Siedler verhindern Rückkehr vertriebener Palästinenser",
+      "link": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T15:50:53+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Eralp war Mitglied der linksextremistischen „Roten Hilfe“",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-berlin-eralp-rote-hilfe-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T15:41:58+00:00"
+    },
+    {
+      "titel": "Commerzbank-Übernahme: Orcel schaltet wieder auf Attacke um",
+      "link": "https://www.sueddeutsche.de/wirtschaft/unicredit-commerzbank-andrea-orcel-li.3555476",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T15:40:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Die AfD braucht das BSW, aber traut ihm nicht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-sachsen-anhalt-afd-bsw-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T15:32:12+00:00"
+    },
+    {
+      "titel": "Zwangsverwaltung: Metro ohne Einfluss auf bisherigen Russland-Chef",
+      "link": "https://www.tagesschau.de/ausland/asien/metro-russland-uebertragung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T15:23:54+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Was hinter der Revolte der Schankkellner im Paulaner-Zelt steckt",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-paulaner-festzelt-schankkellner-aufstand-li.3555522",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T15:21:44+00:00"
+    },
+    {
+      "titel": "Reformpolitik: Wissenschaftler fordern volle Umsetzung des Rentenpakets",
+      "link": "https://www.sueddeutsche.de/politik/rente-reform-ohne-abstriche-erklaerung-wirtschafts-wissenschaftler-li.3555773",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T15:01:45+00:00"
+    },
+    {
+      "titel": "Sonntagsfahrverbot für Lkw bleibt vielerorts ausgesetzt",
+      "link": "https://www.tagesschau.de/wirtschaft/lkw-sonntagsfahrverbot-ausnahme-verlaengerung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T14:54:11+00:00"
+    },
+    {
+      "titel": "Spanische Regierung will Mietverträge entfristen und Zwangsräumungen verbieten",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T14:29:56+00:00"
+    },
+    {
+      "titel": "Urlaub in Frankreich: Die raue Schönheit des Finistère",
+      "link": "https://www.sueddeutsche.de/reise/finistere-frankreich-bretagne-nebensaison-straende-li.3542262",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T14:29:49+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Wiesn-Besucher liegt nach Faustschlag im Koma – sexueller Übergriff auf 31-Jährige",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-dienstag-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T12:48:58+00:00"
-    },
-    {
-      "titel": "AfD in Sachsen-Anhalt: Ulrich Siegmund will sich im Dezember zur Wahl stellen",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-ulrich-siegmund-will-sich-im-dezember-zur-wahl-stellen-a-05dac361-08f9-4453-ac41-ba5ef68100c7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T12:46:00+00:00"
-    },
-    {
-      "titel": "EU: Pro Bürger landen jährlich 129 Kilo Lebensmittel im Müll",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-lebensmittel-muell-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T12:45:14+00:00"
-    },
-    {
-      "titel": "KI außer Kontrolle: Wer haftet in so einem Fall eigentlich?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T12:44:40+00:00"
-    },
-    {
-      "titel": "Exklave Kaliningrad: Nato verurteilt russische Gewaltandrohung »aufs Schärfste«",
-      "link": "https://www.spiegel.de/ausland/exklave-kaliningrad-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste-a-6db820e2-492c-493b-b9b4-10571b64f217#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T12:41:00+00:00"
-    },
-    {
-      "titel": "Oktoberfest-Heimkehrer: Achtung, Achtung, hier spricht die Party-Polizei!",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-polizei-hackerbruecke-theresienwiese-musik-li.3545954",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T12:37:43+00:00"
-    },
-    {
-      "titel": "Debattenkultur: Julia Klöckners Kritik ist zum Gähnen",
-      "link": "https://www.sueddeutsche.de/meinung/bundestag-reden-parlament-kritik-julia-kloeckner-kommentar-li.3555473",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T12:32:40+00:00"
-    },
-    {
-      "titel": "Hitzesommer schlägt sich auch an der Börse nieder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hitzesommer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T12:31:39+00:00"
-    },
-    {
-      "titel": "Militär greift Markt in Myanmar an - mindestens 50 Tote",
-      "link": "https://www.tagesschau.de/ausland/asien/luftangriffe-myanmar-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T12:23:05+00:00"
-    },
-    {
-      "titel": "Berlin - Issa Rammo: Wie Clan-Chef auf die Wahlparty der Linken kam - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/berlin-issa-rammo-wie-clan-chef-auf-die-wahlparty-der-linken-kam-spiegel-tv-a-55786068-6562-488e-b0df-2914ac214a8b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T12:19:00+00:00"
-    },
-    {
-      "titel": "KI und Literatur: Virginie Despentes schreibt per Hand",
-      "link": "https://www.spiegel.de/kultur/ki-und-literatur-virginie-despentes-schreibt-per-hand-a-a34cb5ba-eb64-4a81-939b-82fddf40937e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T12:12:00+00:00"
-    },
-    {
-      "titel": "Medienbericht: US-Botschafterin in Griechenland soll Athen indirekt gedroht haben",
-      "link": "https://www.sueddeutsche.de/politik/usa-griechenland-guilfoyle-botschafterin-li.3555539",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T12:09:44+00:00"
-    },
-    {
-      "titel": "Kolumbiens Präsident macht karibisches Touristenmekka zur Kampfzone",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-kaempfe-touristengebiet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T11:57:43+00:00"
-    },
-    {
-      "titel": "Snooker: Ex-Weltmeister Graeme Dott wegen sexuellen Missbrauchs zu sieben Jahren Haft verurteilt",
-      "link": "https://www.spiegel.de/sport/snooker-ex-weltmeister-graeme-dott-wegen-sexuellen-missbrauchs-zu-sieben-jahren-haft-verurteilt-a-3135f21a-caaa-4280-99d9-b6c49c09bd08#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T11:56:00+00:00"
-    },
-    {
-      "titel": "Leute: Lieber einen intensiven Blick als einen dicken Bizeps",
-      "link": "https://www.sueddeutsche.de/panorama/sylvester-stallone-erfolgsgeheimnis-intensiver-blick-muskeln-li.3555486",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T11:49:12+00:00"
-    },
-    {
-      "titel": "Deutschland ist OECD-Spitzenreiter bei MINT-Abschlüssen",
-      "link": "https://www.tagesschau.de/inland/bildung-oecd-studie-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T11:46:56+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T11:39:00+00:00"
-    },
-    {
-      "titel": "Kanzlerdebatte: Wie Wüst die Deutschtürken umwirbt",
-      "link": "https://www.sueddeutsche.de/politik/wuest-ankara-erdogan-kanzler-wehrpflicht-li.3555462",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T11:31:16+00:00"
-    },
-    {
-      "titel": "Großrazzia - Offenbar rund eine Million gefälschte Handys im Umlauf",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/razzia-nrw-smartphone-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T11:31:07+00:00"
-    },
-    {
-      "titel": "Niedersachsen: Staatsanwaltschaft ermittelt gegen Lehrkräfte nach Tod eines Elfjährigen",
-      "link": "https://www.spiegel.de/panorama/justiz/niedersachsen-staatsanwaltschaft-ermittelt-gegen-lehrkraefte-nach-tod-eines-elfjaehrigen-a-0d59ec01-6c34-4580-9333-1bbfa3551e12#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T11:24:00+00:00"
-    },
-    {
-      "titel": "Mercedes: Autobauer streicht Möglichkeit von Homeoffice weitgehend zusammen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-autobauer-streicht-moeglichkeit-von-homeoffice-weitgehend-zusammen-a-4b4cbeda-eb03-4833-9da3-3ec8a13ae7d3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T11:23:00+00:00"
-    },
-    {
-      "titel": "OECD-Studie: Fast jede fünfte Lehrkraft in Deutschland ist unvollständig qualifiziert",
-      "link": "https://www.spiegel.de/panorama/bildung/oecd-studie-fast-jede-fuenfte-lehrkraft-in-deutschland-ist-unvollstaendig-qualifiziert-a-c55b53bd-009e-447d-8a5a-8248582cd422#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T11:20:00+00:00"
-    },
-    {
-      "titel": "Untersuchungsbericht: Warum ein Dreamliner-Flug in München fast in einer Katastrophe endete",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-dreamliner-start-beinahe-katastrophe-li.3555494",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T11:15:21+00:00"
-    },
-    {
-      "titel": "Schule in Hessen gewinnt Schulpreis",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/deutscher-schulpreis-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T10:42:13+00:00"
-    },
-    {
-      "titel": "Ökostrom-Gesetz: Die Union geht an die Substanz der Energiewende",
-      "link": "https://www.sueddeutsche.de/wirtschaft/energiewende-deutschland-union-aenderungen-foerderung-li.3555480",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T10:41:38+00:00"
-    },
-    {
-      "titel": "Hinrichtungen in Iran: Geflüchtet, zurückgekehrt, zum Tode verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-ali-zarei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T10:31:09+00:00"
-    },
-    {
-      "titel": "Extremwetter: El Niño ist jetzt so stark wie nie zuvor",
-      "link": "https://www.sueddeutsche.de/wissen/el-nino-pazifik-messwerte-temperatur-li.3555043",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T10:07:55+00:00"
+      "veroeffentlicht": "2026-09-29T14:15:21+00:00"
     }
   ]
 }
