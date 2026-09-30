@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-09-30T07:30:09+00:00",
+  "aktualisiert": "2026-09-30T14:15:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Elterngeld: Karin Prien »offen« für Beibehaltung von 14 Monaten",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/elterngeld-karin-prien-offen-fuer-beibehaltung-von-14-monaten-a-449a3a06-3dac-4755-8ec6-b5143e5e7199#ref=rss",
+      "titel": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-30T14:06:15+00:00"
+    },
+    {
+      "titel": "Razzia wegen Geldwäsche-Netzwerk um \"Hells Angels\"",
+      "link": "https://www.tagesschau.de/inland/razzia-geldwaesche-banden-hells-angels-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-30T14:05:10+00:00"
+    },
+    {
+      "titel": "Pep Guardiola stellt sich hinter Manchester City: »Ich bin für euch da«",
+      "link": "https://www.spiegel.de/sport/fussball/pep-guardiola-stellt-sich-hinter-manchester-city-ich-bin-fuer-euch-da-a-0edb03c9-5cb0-42e9-8a07-cd34d60ca8ab#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T07:20:00+00:00"
+      "veroeffentlicht": "2026-09-30T14:05:00+00:00"
     },
     {
-      "titel": "US-Truppen ziehen ab - Im Irak beginnt eine neue Ära",
-      "link": "https://www.tagesschau.de/ausland/asien/irak-usa-truppenabzug-100.html",
+      "titel": "Volkswagen kündigt zum Jahresende fast alle Tarifverträge",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T07:13:56+00:00"
+      "veroeffentlicht": "2026-09-30T14:00:31+00:00"
     },
     {
-      "titel": "Vergewaltigungsvorwürfe an US-Elite-Uni Cornell werden neu untersucht",
-      "link": "https://www.tagesschau.de/ausland/amerika/kritik-cornell-vorwuerfe-vergewaltigung-100.html",
+      "titel": "AfD: Landtag in Thüringen berät über mögliches Verbotsverfahren",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-landtag-in-thueringen-beraet-ueber-moegliches-verbotsverfahren-a-6ecb9d3b-68ed-44d4-b155-8dd8f3124206#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T13:55:00+00:00"
+    },
+    {
+      "titel": "Niedrigwasser: Rhein-Pegel vielerorts unter null gefallen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-rhein-pegel-vielerorts-unter-null-gefallen-a-e0fa26eb-c993-4eae-9cfb-03b8e7d05f20#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T13:55:00+00:00"
+    },
+    {
+      "titel": "Flydubai: Notlandung in Saudi-Arabien – was über Flug FZ1073 bekannt ist",
+      "link": "https://www.spiegel.de/ausland/flydubai-notlandung-in-saudi-arabien-was-ueber-flug-fz1073-bekannt-ist-a-abbf4ca8-42b8-4da7-93e9-3e3855c29c42#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T13:48:00+00:00"
+    },
+    {
+      "titel": "Sachsen: Heidenau verteidigt Beschluss zu Stolpersteinen",
+      "link": "https://www.spiegel.de/ausland/sachsen-heidenau-verteidigt-beschluss-zu-stolpersteinen-a-f14b6bca-d282-48cd-a400-d26b59831d32#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T13:44:00+00:00"
+    },
+    {
+      "titel": "Urteil gegen Manchester City: Der Fußball beginnt sich zu besinnen. Ein Kommentar",
+      "link": "https://www.spiegel.de/sport/fussball/urteil-gegen-manchester-city-der-fussball-beginnt-sich-zu-besinnen-ein-kommentar-a-9c651fe6-6c0d-481b-9e88-5cbb2e1893ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T13:42:00+00:00"
+    },
+    {
+      "titel": "Bremen: Ex-Partnerin auf offener Straße erstochen – lebenslange Freiheitsstrafe",
+      "link": "https://www.spiegel.de/panorama/justiz/bremen-ex-partnerin-auf-offener-strasse-erstochen-lebenslange-freiheitsstrafe-a-546a618a-1bd3-4dac-93b6-bad7232af274#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T13:33:00+00:00"
+    },
+    {
+      "titel": "Ostbeauftragte Kaiser will mehr Ostdeutsche in Führungspositionen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-beauftragte-bundesregierung-ostdeutschland-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T07:08:37+00:00"
+      "veroeffentlicht": "2026-09-30T13:27:25+00:00"
     },
     {
-      "titel": "Oktoberfest: Jeder vierte Besucher kommt mit dem Auto zur Wiesn",
+      "titel": "AfD-Wahlkampf in Sachsen-Anhalt: Staatsrechtler zweifeln Gültigkeit der Wahl an",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-wahlkampf-in-sachsen-anhalt-staatsrechtler-zweifeln-gueltigkeit-der-wahl-an-a-137983c8-4b6d-4ef0-bff9-308cbcdfdaf9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T13:27:00+00:00"
+    },
+    {
+      "titel": "Frauen-Bundesliga: Entscheidet sich die Meisterschaft bald über Playoffs?",
+      "link": "https://www.sueddeutsche.de/sport/fussball-frauen-bundesliga-modus-playoffs-meisterschaft-fbl-katharina-kiel-li.3556372",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-30T13:25:00+00:00"
+    },
+    {
+      "titel": "Deutsche Wirtschaft: Warum die Initiative »Made for Germany« ihr Versprechen verfehlt",
+      "link": "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-warum-die-initiative-made-for-germany-ihr-versprechen-verfehlt-a-fb3af4e3-a54b-47b7-849b-efb6958a0324#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T13:16:00+00:00"
+    },
+    {
+      "titel": "Gesundheitswesen: Das steckt im Pflege-Sparpaket",
+      "link": "https://www.sueddeutsche.de/politik/pflege-sparpaket-pflegegrad-kabinett-li.3556245",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-30T13:14:30+00:00"
+    },
+    {
+      "titel": "Deutsche Nationalmannschaft: Klopp testet die Entwöhnung von Kimmich",
+      "link": "https://www.sueddeutsche.de/sport/dfb-nationalmannschaft-ohne-kimmich-klopp-kommentar-li.3556342",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-30T13:12:39+00:00"
+    },
+    {
+      "titel": "Flydubai-Maschine muss nach Vorfall an Bord notlanden",
+      "link": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-30T13:10:21+00:00"
+    },
+    {
+      "titel": "Pflege: Der neue Gesundheitsminister bändigt die SPD. Gut so!",
+      "link": "https://www.sueddeutsche.de/meinung/gesundheitsminister-linnemann-pflegereform-streit-spd-kommentar-li.3555598",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-30T13:02:28+00:00"
+    },
+    {
+      "titel": "Inflationsrate steigt im September auf 3,3 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-30T12:52:15+00:00"
+    },
+    {
+      "titel": "Reformpolitik: Koalition vertagt Streitpunkte zur Pflege",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-gesetzentwurf-pflegereform-einigung-koalition-li.3556280",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-30T12:39:16+00:00"
+    },
+    {
+      "titel": "Britischer Premier: Wie geht’s? So geht’s!",
+      "link": "https://www.sueddeutsche.de/meinung/andy-burnham-rede-grossbritannien-eu-debatte-rechtspopulismus-kommentar-li.3554983",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-30T12:02:34+00:00"
+    },
+    {
+      "titel": "Marktbericht: Commerzbank-Aktie gerät unter Druck",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-30T11:38:08+00:00"
+    },
+    {
+      "titel": "Pläne der Bundesregierung - Härtere Strafen für Angriffe gegen Einsatzkräfte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/strafe-angriffe-zugbegleiter-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-30T11:36:38+00:00"
+    },
+    {
+      "titel": "Aktuelles Lexikon: Was ist die Rote Hilfe?",
+      "link": "https://www.sueddeutsche.de/meinung/rote-hilfe-linke-eralp-li.3556277",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-30T11:36:19+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Rollstuhlfahrerin stirbt nach Sturz auf der Wiesn",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-mittwoch-li.3549371",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T07:05:44+00:00"
+      "veroeffentlicht": "2026-09-30T11:20:25+00:00"
     },
     {
-      "titel": "Oktoberfest: Was hinter der Revolte der Schankkellner im Paulaner-Zelt steckt",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-paulaner-festzelt-schankkellner-aufstand-bedienung-bier-li.3555522",
+      "titel": "Newsblog zur Bundespolitik: Kabinett beschließt Pflegereform – Kinderlose sollen mehr zahlen",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-pflege-reform-li.3529564",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T07:01:43+00:00"
+      "veroeffentlicht": "2026-09-30T11:03:11+00:00"
     },
     {
-      "titel": "Bundeswehr bekommt sexuelles Fehlverhalten nicht unter Kontrolle",
-      "link": "https://www.tagesschau.de/investigativ/report-mainz/bundeswehr-frauen-102.html",
+      "titel": "Bundesregierung bringt Pflegereform auf den Weg",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T07:00:54+00:00"
-    },
-    {
-      "titel": "USA: Freizeitpark in Kalifornien schließt gefährliche Achterbahn",
-      "link": "https://www.spiegel.de/panorama/usa-freizeitpark-in-kalifornien-schliesst-gefaehrliche-achterbahn-a-6f6f5981-8ba4-49a9-8585-ba354412133e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T06:50:00+00:00"
-    },
-    {
-      "titel": "USA: Pete Hegseth will Zahl der Generäle und Admiräle weiter reduzieren",
-      "link": "https://www.spiegel.de/ausland/usa-pete-hegseth-will-zahl-der-generaele-und-admiraele-weiter-reduzieren-a-47c1dd07-116e-47b5-97b1-14d78e123390#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T06:44:00+00:00"
-    },
-    {
-      "titel": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T06:37:26+00:00"
-    },
-    {
-      "titel": "Erbschaftsteuer: Ostbeauftragte Elisabeth Kaiser fordert Ausgleich",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich-a-ea94f768-3967-46a5-a2fb-85595423d787#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T06:37:00+00:00"
-    },
-    {
-      "titel": "Markus Söder und Dominik Krause: Die unwahrscheinliche schwarz-grüne Bromance",
-      "link": "https://www.spiegel.de/politik/deutschland/markus-soeder-und-dominik-krause-die-unwahrscheinliche-schwarz-gruene-bromance-a-b219da1b-6c09-4442-b7af-94f9fcd38407#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T06:25:00+00:00"
-    },
-    {
-      "titel": "Deutschlandticket wird wohl wieder teurer",
-      "link": "https://www.tagesschau.de/wirtschaft/deutschlandticket-preis-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T06:13:10+00:00"
-    },
-    {
-      "titel": "HDI-Berufestudie: Deutsche haben immer weniger Lust zu arbeiten",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/hdi-berufestudie-deutsche-haben-immer-weniger-lust-zu-arbeiten-a-bdaa9610-10b2-4188-a813-05abe67b8239#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T06:09:00+00:00"
-    },
-    {
-      "titel": "Nations League: Thomas Tuchel siegt mit England – neue Debatte um Alexander-Arnold",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-thomas-tuchel-siegt-mit-england-neue-debatte-um-alexander-arnold-a-174bb316-93fd-445b-889b-d0a6a9fe2870#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T06:03:00+00:00"
-    },
-    {
-      "titel": "Kristi Noem reicht nach 34 Jahren Ehe die Scheidung ein",
-      "link": "https://www.spiegel.de/ausland/kristi-noem-reicht-nach-34-jahren-ehe-die-scheidung-ein-a-3e6a8e2d-dfe4-48c4-9fd4-884b74b79a20#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T06:01:00+00:00"
-    },
-    {
-      "titel": "Warum Tschechien einen fiktiven Erfinder verehrt",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-cimrman-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T05:59:24+00:00"
-    },
-    {
-      "titel": "Marktbericht: Künstliche Intelligenz bleibt Stütze",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T05:52:28+00:00"
-    },
-    {
-      "titel": "Duisburg: Razzia gegen mutmaßliches Geldwäsche-Netzwerk um die Hells Angels",
-      "link": "https://www.spiegel.de/panorama/justiz/duisburg-razzia-gegen-mutmassliches-geldwaesche-netzwerk-um-die-hells-angels-a-106a8a4d-35b3-4984-a01d-7d252bd5e086#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T05:35:00+00:00"
-    },
-    {
-      "titel": "Preisträgerinnen des Alternativen Nobelpreises bekannt gegeben",
-      "link": "https://www.tagesschau.de/ausland/europa/preistraeger-right-livelihood-award-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T04:54:58+00:00"
-    },
-    {
-      "titel": "11KM-Podcast: El Niño - warum der Pazifik zur globalen Heizung wird",
-      "link": "https://www.tagesschau.de/podcast-11km-wetterphaenomen-el-nino-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T04:22:09+00:00"
-    },
-    {
-      "titel": "Schufa-Score: Was die Schufa lieber nicht erzählt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/schufa-score-transparenz-verbraucher-daten-weitergabe-li.3555342",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T04:00:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Bundesregierung plant härtere Strafen für Angriffe auf Zugbegleiter und Polizisten",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-kabinett-angriffe-zugbegleiter-polizisten-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T02:12:21+00:00"
-    },
-    {
-      "titel": "Körperliche Aktivität: Kinder laufen täglich zwischen 1000 und 30 000 Schritte",
-      "link": "https://www.sueddeutsche.de/gesundheit/kinder-laender-schritte-tag-bewegungsunterschiede-li.3553825",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T00:00:00+00:00"
-    },
-    {
-      "titel": "Maischberger und der Antisemitismus bei den Linken: „Das Problem haben sie doch schon seit Jahren“",
-      "link": "https://www.sueddeutsche.de/medien/maischberger-elif-eralp-aken-linke-antisemitismus-li.3555725",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T23:43:52+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: Trump und Tech-Chefs unterschreiben „moralisch bindendes“ KI-Dokument",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-open-trump-ki-verfassung-ai-chat-gpt-sicherheitsbedenken-li.3547133",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T21:29:17+00:00"
-    },
-    {
-      "titel": "Untersuchungsbericht: Warum ein „Dreamliner“-Flug in München fast in einer Katastrophe endete",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-dreamliner-start-beinahe-katastrophe-li.3555494",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T20:43:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Oberster Gerichtshof erlaubt vorerst wieder Abschiebungen in Drittstaaten",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-abschiebungen-supreme-court-drittstaaten-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T20:19:51+00:00"
+      "veroeffentlicht": "2026-09-30T10:39:33+00:00"
     }
   ]
 }
