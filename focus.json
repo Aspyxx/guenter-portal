@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-30T12:48:43+00:00",
+  "aktualisiert": "2026-09-30T18:10:21+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Commerzbank-Aktie gerät unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
-      "rang": 2,
-      "titel": "Wohnen wird für Studierende auch 2026 teurer",
-      "link": "https://www.tagesschau.de/inland/wohnkosten-studierende-steigen-100.html",
+      "titel": "Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gericht-schweinehaltung-vierter-stock-verbot-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
       "rang": 3,
-      "titel": "Inflationsrate steigt im September auf 3,3 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
+      "titel": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
+      "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
