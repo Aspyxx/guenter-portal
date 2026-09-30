@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-30T06:04:08+00:00",
+  "aktualisiert": "2026-09-30T12:48:43+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Künstliche Intelligenz bleibt Stütze",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
+      "titel": "Commerzbank-Aktie gerät unter Druck",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 2,
+      "titel": "Wohnen wird für Studierende auch 2026 teurer",
+      "link": "https://www.tagesschau.de/inland/wohnkosten-studierende-steigen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Kasachischer Präsident beim Kanzler: Öl, Rohstoffe und Putin",
-      "link": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
       "rang": 3,
-      "titel": "Warum Tschechien einen fiktiven Erfinder verehrt",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-cimrman-100.html",
+      "titel": "Inflationsrate steigt im September auf 3,3 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
