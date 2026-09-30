@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-30T18:10:21+00:00",
+  "aktualisiert": "2026-09-30T22:24:47+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/gericht-schweinehaltung-vierter-stock-verbot-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
+      "titel": "Micron Aktie",
       "link": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
+      "rang": 2,
+      "titel": "Das große backen 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
       "rang": 3,
-      "titel": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
-      "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
+      "titel": "Was über den Vorfall bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
