@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-09-30T00:35:33+00:00",
+  "aktualisiert": "2026-09-30T06:04:08+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Künstliche Intelligenz bleibt Stütze",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Kasachischer Präsident beim Kanzler: Öl, Rohstoffe und Putin",
       "link": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 2,
-      "titel": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Burnham kündigt auf Labour-Parteitag Reformen an",
-      "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
+      "titel": "Warum Tschechien einen fiktiven Erfinder verehrt",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-cimrman-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
