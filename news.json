@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-09-29T22:39:23+00:00",
+  "aktualisiert": "2026-09-30T01:37:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "AfD in Sachsen-Anhalt: Prien droht mit Klagen und Rückforderung von Bundesgeld",
+      "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-prien-droht-mit-klagen-und-rueckforderung-von-bundesgeld-a-c751f2e0-f116-4d32-90e9-178021e5ce66#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T00:53:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Hunderte Festnahmen bei Protesten an Gymnasien",
+      "link": "https://www.spiegel.de/ausland/frankreich-hunderte-festnahmen-bei-protesten-an-gymnasien-a-92915609-81e5-4bd4-9c8b-4b3346686d8b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T00:36:00+00:00"
+    },
+    {
+      "titel": "Maischberger und der Antisemitismus bei den Linken: „Das Problem haben sie doch schon seit Jahren“",
+      "link": "https://www.sueddeutsche.de/medien/maischberger-und-der-antisemitismus-bei-den-linken-das-problem-haben-sie-doch-schon-seit-jahren-li.3555725",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-09-29T23:43:52+00:00"
+    },
+    {
+      "titel": "Zohran Mamdani: Wie New Yorks Bürgermeister gegen Antisemitismus vorgehen will",
+      "link": "https://www.spiegel.de/ausland/zohran-mamdani-wie-new-yorks-buergermeister-gegen-antisemitismus-vorgehen-will-a-38336797-52cb-4362-ad04-12459aa42607#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T23:09:00+00:00"
+    },
+    {
+      "titel": "»Game of Thrones«: Kino-Film »Aegon's Conquest« für 2029 angekündigt",
+      "link": "https://www.spiegel.de/kultur/game-of-thrones-kino-film-aegons-conquest-fuer-2029-angekuendigt-a-0fbcd819-af9a-47d5-b6b1-b46e5cef1611#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-29T23:05:00+00:00"
+    },
+    {
+      "titel": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-29T23:02:24+00:00"
+    },
     {
       "titel": "Friedrich Merz: Kanzler kämpft bei Schulpreis-Verleihung mit den Tränen",
       "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-kaempft-bei-schulpreis-verleihung-mit-den-traenen-a-0808bd83-5ef1-4e3c-8630-aa46dceccb83#ref=rss",
@@ -43,14 +79,14 @@
       "veroeffentlicht": "2026-09-29T20:19:51+00:00"
     },
     {
-      "titel": "USA: Supreme Court erlaubt vorerst wieder Abschiebungen in Drittstaaten",
-      "link": "https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-vorerst-wieder-abschiebungen-in-drittstaaten-a-f9358695-ac1d-46ea-9cf8-9c6e71d6fbf8#ref=rss",
+      "titel": "Russlands Attacken auf Kyjiw: Luftangriffe zu jeder Tages- und Nachtzeit",
+      "link": "https://www.spiegel.de/ausland/russlands-attacken-auf-kyjiw-luftangriffe-zu-jeder-tages-und-nachtzeit-a-0c1baf4d-dcff-432d-91e4-9dd811b55410#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-29T20:15:00+00:00"
     },
     {
-      "titel": "Russlands Attacken auf Kyjiw: Luftangriffe zu jeder Tages- und Nachtzeit",
-      "link": "https://www.spiegel.de/ausland/russlands-attacken-auf-kyjiw-luftangriffe-zu-jeder-tages-und-nachtzeit-a-0c1baf4d-dcff-432d-91e4-9dd811b55410#ref=rss",
+      "titel": "USA: Supreme Court erlaubt vorerst wieder Abschiebungen in Drittstaaten",
+      "link": "https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-vorerst-wieder-abschiebungen-in-drittstaaten-a-f9358695-ac1d-46ea-9cf8-9c6e71d6fbf8#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-09-29T20:15:00+00:00"
     },
@@ -79,18 +115,6 @@
       "veroeffentlicht": "2026-09-29T19:11:36+00:00"
     },
     {
-      "titel": "SPD: Lars Klingbeil weist Forderung nach Trennung von Parteiamt und Regierung zurück",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-weist-forderung-nach-trennung-von-parteiamt-und-regierung-zurueck-a-4b98083c-6193-4d04-8a9a-ac1c270990ac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T19:10:00+00:00"
-    },
-    {
-      "titel": "Hamm: Mutmaßlicher Anschlagsplan – 16-Jähriger angeklagt",
-      "link": "https://www.spiegel.de/panorama/justiz/hamm-mutmasslicher-anschlagsplan-16-jaehriger-angeklagt-a-51be22d8-549d-4c19-9762-4f9a1fc78b91#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T18:38:00+00:00"
-    },
-    {
       "titel": "Reformdebatte in der schwarz-roten Koalition",
       "link": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
       "quelle": "Tagesschau",
@@ -101,18 +125,6 @@
       "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-29T18:25:01+00:00"
-    },
-    {
-      "titel": "Marokko-Reise nach dem Abitur: »Wir waren jung, hatten kaum Geld und brauchten einen Schlafplatz«",
-      "link": "https://www.spiegel.de/panorama/marokko-reise-nach-dem-abitur-wir-waren-jung-hatten-kaum-geld-und-brauchten-einen-schlafplatz-a-9bc2bd6c-f96e-4bcb-883b-54de177f5b83#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T18:17:00+00:00"
-    },
-    {
-      "titel": "Eckernförde: Wie Taucher Müll und Kurioses aus dem Hafen holen",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/eckernfoerde-wie-taucher-muell-und-kurioses-aus-dem-hafen-holen-a-7f8917cf-4759-476d-a02e-5b7deee49143#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-29T18:16:00+00:00"
     },
     {
       "titel": "Großbritannien: Er wird es richten müssen",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/hamburg-fremde-sonne-schimmelpfennig-schauspielhaus-karin-beier-antikenzyklus-kritik-li.3554167",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-29T15:48:12+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Eralp war Mitglied der linksextremistischen „Roten Hilfe“",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-berlin-eralp-rote-hilfe-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-29T15:41:58+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Die AfD braucht das BSW, aber traut ihm nicht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-sachsen-anhalt-afd-bsw-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-29T15:32:12+00:00"
     }
   ]
 }
