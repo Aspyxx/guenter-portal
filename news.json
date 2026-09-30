@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-09-30T19:28:16+00:00",
+  "aktualisiert": "2026-09-30T23:12:59+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hape Kerkeling zum AfD-Verbot: Wann, wenn nicht jetzt?",
+      "link": "https://www.spiegel.de/politik/deutschland/hape-kerkeling-zum-afd-verbot-wann-wenn-nicht-jetzt-a-2b15ab6d-9152-4c7c-b58e-92d458ed1eee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T21:12:00+00:00"
+    },
+    {
+      "titel": "Elon Musk und Pentagon: Techmilliardär soll zentrale Rolle bei »Projekt Meridian« spielen",
+      "link": "https://www.spiegel.de/panorama/leute/elon-musk-und-pentagon-techmilliardaer-soll-zentrale-rolle-bei-projekt-meridian-spielen-a-fb5328d9-df67-4277-96cc-5da04553fd47#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T20:55:00+00:00"
+    },
+    {
+      "titel": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-30T20:31:18+00:00"
+    },
+    {
+      "titel": "Cristiano Ronaldo: Verlässt Portugals Nationalteam – Rücktritt offen",
+      "link": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-verlaesst-portugals-nationalteam-ruecktritt-weiter-offen-a-34318352-5380-4fe2-8266-460eb2614a26#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T19:37:00+00:00"
+    },
     {
       "titel": "Türkei: Unabhängiges Onlineportal muss wegen angeblicher »LGBT-Propaganda« schließen",
       "link": "https://www.spiegel.de/ausland/tuerkei-unabhaengiges-onlineportal-muss-wegen-angeblicher-lgbt-propaganda-schliessen-a-1d710ed2-9c1e-4f4d-84eb-333c8bf4718f#ref=rss",
@@ -49,28 +73,10 @@
       "veroeffentlicht": "2026-09-30T18:21:00+00:00"
     },
     {
-      "titel": "Irak: USA beenden Anti-IS-Militäreinsatz nach mehr als einem Jahrzehnt",
-      "link": "https://www.spiegel.de/ausland/irak-usa-beenden-anti-is-militaereinsatz-nach-mehr-als-einem-jahrzehnt-a-aee3e7ad-b567-4448-a814-900c98d4ea1f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T18:17:00+00:00"
-    },
-    {
       "titel": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
       "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-30T18:07:15+00:00"
-    },
-    {
-      "titel": "Marokko: König Mohammed VI. ernennt Fatima Ezzahra El Mansouri zur erste Premierministerin",
-      "link": "https://www.spiegel.de/ausland/marokko-koenig-mohammed-vi-ernennt-fatima-ezzahra-el-mansouri-zur-erste-premierministerin-a-f9ab1075-46b5-499b-996e-0a9a1fe3d9f7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T18:06:00+00:00"
-    },
-    {
-      "titel": "Nato: Militärbündnis erhält Westfälischen Friedenspreis in Münster",
-      "link": "https://www.spiegel.de/politik/deutschland/nato-militaerbuendnis-erhaelt-westfaelischen-friedenspreis-in-muenster-a-78128f0f-d32b-40b3-bdd6-8cf35f4750b9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T17:54:00+00:00"
     },
     {
       "titel": "DFB-Team: Klopps kleine Verteidigungsrede",
@@ -125,12 +131,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/heimatschutzdivision-bundeswehr-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-09-30T15:57:43+00:00"
-    },
-    {
-      "titel": "Versuchter Terror? Gewaltvorfall in Cockpit von Flydubai-Maschine",
-      "link": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-terrorverdacht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T15:55:45+00:00"
     },
     {
       "titel": "Eklat auf dem Oktoberfest: Junge Linke provoziert mit israelfeindlichen Parolen – FDP-Stadtrat geohrfeigt",
