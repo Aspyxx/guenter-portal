@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-01T02:12:12+00:00",
+  "aktualisiert": "2026-10-01T09:01:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Supreme Court erlaubt Hinrichtung von Frau in Tennessee",
-      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-frau-us-bundesstaat-tennessee-100.html",
+      "titel": "Manchester City unter Druck: Zwangsabstieg? Juventus Turin hat das schon mitgemacht",
+      "link": "https://www.spiegel.de/sport/fussball/manchester-city-unter-druck-zwangsabstieg-juventus-turin-hat-das-schon-mitgemacht-a-d08c1ccd-7ba2-4222-a5f4-af69ef6456dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T08:52:00+00:00"
+    },
+    {
+      "titel": "Reformpläne: Hohe Erwartungen an die Pflegekommission",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-208.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T02:01:37+00:00"
+      "veroeffentlicht": "2026-10-01T08:50:11+00:00"
     },
     {
-      "titel": "Flydubai: Benjamin Netanyahu würdigt Piloten nach Angriff als »wahren Helden«",
-      "link": "https://www.spiegel.de/ausland/flydubai-benjamin-netanyahu-wuerdigt-piloten-nach-angriff-als-wahren-helden-a-827820ff-8aa8-4849-b587-77288050548d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T01:50:00+00:00"
-    },
-    {
-      "titel": "Minnesota: US-Regierung will Richter wegen Medienäußerungen maßregeln",
-      "link": "https://www.spiegel.de/ausland/minnesota-us-regierung-will-richter-wegen-medienaeusserungen-massregeln-a-7c4da0cd-316d-4d51-acfd-884b0d38fdb3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T01:13:00+00:00"
-    },
-    {
-      "titel": "Schweizer Gletscher: Forscher sehen 2026 beispiellosen Eisschwund",
-      "link": "https://www.spiegel.de/wissenschaft/schweizer-gletscher-forscher-sehen-2026-beispiellosen-eisschwund-a-60d1fcde-2864-46bf-bf9e-91d558075140#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T00:51:00+00:00"
-    },
-    {
-      "titel": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
+      "titel": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T00:28:55+00:00"
+      "veroeffentlicht": "2026-10-01T08:34:33+00:00"
     },
     {
-      "titel": "Lionel Messi: Universität von Buenos Aires verleiht ihm Ehrendoktorwürde",
-      "link": "https://www.spiegel.de/panorama/lionel-messi-universitaet-von-buenos-aires-verleiht-ihm-ehrendoktorwuerde-a-8624c0b4-6242-4076-ab47-e98aa2502330#ref=rss",
+      "titel": "Amelia Earhart: Expedition sucht Überreste der verschollenen Pilotin",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/amelia-earhart-expedition-sucht-ueberreste-der-verschollenen-pilotin-a-dc8c11c3-31a1-4429-8cfa-24dde5a6a3bb#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T00:16:00+00:00"
+      "veroeffentlicht": "2026-10-01T08:27:00+00:00"
     },
     {
-      "titel": "US-Verteidigungsminister Hegseth verschlankt US-Armee - neue Rolle für Musk",
+      "titel": "Marktbericht: DAX fällt unter 25.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T08:26:21+00:00"
+    },
+    {
+      "titel": "Cornell University: Aufsatz schreiben als Strafe nach einer mutmaßlichen Vergewaltigung",
+      "link": "https://www.sueddeutsche.de/panorama/gruppenvergewaltigung-cornell-university-usa-li.3555761",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T08:25:46+00:00"
+    },
+    {
+      "titel": "Überwachung in China: Der Staat will alles sehen",
+      "link": "https://www.tagesschau.de/ausland/asien/china-ueberwachung-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T08:23:14+00:00"
+    },
+    {
+      "titel": "Neue Ausreiseverbote für Chinas \"nationale Sicherheit\"",
+      "link": "https://www.tagesschau.de/ausland/asien/china-ausreisebeschraenkungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T08:22:51+00:00"
+    },
+    {
+      "titel": "Cannabis-Medikamente: Koalition rudert nach Lobbyismusvorwürfen zurück",
+      "link": "https://www.spiegel.de/politik/deutschland/cannabis-medikamente-koalition-rudert-nach-lobbyismusvorwuerfen-zurueck-a-382cb765-8d77-4685-bacc-74067e7ba40e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T08:17:00+00:00"
+    },
+    {
+      "titel": "Pflegereform: Das bedeuten die Reformen für Ihr Konto – Steuern, Rente, Versicherung",
+      "link": "https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T08:10:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: Was die Labour-Erfolge für Friedrich Merz bedeuten",
+      "link": "https://www.spiegel.de/ausland/grossbritannien-was-die-labour-erfolge-fuer-friedrich-merz-bedeuten-a-669096a7-90be-4f25-94c0-f49c055b661a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T07:39:00+00:00"
+    },
+    {
+      "titel": "Die Linke in Berlin: Wie gefährlich sind Clankontakte und Antisemitismusproblem?",
+      "link": "https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-wie-gefaehrlich-sind-clankontakte-und-antisemitismusproblem-a-1d394a12-86e5-49ec-9dee-43574261d8a4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T07:39:00+00:00"
+    },
+    {
+      "titel": "Übernahme durch Unicredit: Ex-HVB-Chef Michael Diederich für Commerzbank-Spitze im Gespräch",
+      "link": "https://www.sueddeutsche.de/wirtschaft/unicredit-vorstandschef-commerzbank-diederich-li.3556846",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T07:38:08+00:00"
+    },
+    {
+      "titel": "Ostdeutschland: Nur 17 Prozent behielten nach der Wende ihren Beruf",
+      "link": "https://www.spiegel.de/wirtschaft/ostdeutschland-nur-17-prozent-behielten-nach-der-wende-ihren-beruf-a-61e2c380-9b03-49e4-93de-cba03c100164#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T07:26:00+00:00"
+    },
+    {
+      "titel": "Gewalt im Cockpit: Flydubai-Passagiere sicher nach Tel Aviv gebracht",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-fly-dubai-vorfall-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T07:11:34+00:00"
+    },
+    {
+      "titel": "Fußball: Cristiano Ronaldo verlässt Portugals Nationalelf - Pressestimmen",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-cristiano-ronaldo-verlaesst-portugals-nationalelf-pressestimmen-a-e3e450c6-5075-4f89-ad02-37fa9895f5e6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T07:02:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: So wird das Wetter zum Wiesn-Endspurt",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T06:54:18+00:00"
+    },
+    {
+      "titel": "Wadephul für schnellen EU-Beitritt der Westbalkan-Länder",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-reise-balkan-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T06:48:36+00:00"
+    },
+    {
+      "titel": "Volkswagen: VW sagt Nvidia ab und setzt beim autonomen Fahren auf Wayve",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-sagt-nvidia-ab-und-setzt-beim-autonomen-fahren-auf-wayve-a-b1ffd8f0-cf2a-416c-b99e-1c38244a1d19#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T06:33:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Tankrabatt startet – Preise sinken regional unterschiedlich stark",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-spritpreise-tankstellen-kosten-tanken-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T06:02:48+00:00"
+    },
+    {
+      "titel": "Gescheiterte Hinrichtung: Verurteilte überlebt zwei Giftspritzen",
+      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-usa-supreme-court-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T05:56:36+00:00"
+    },
+    {
+      "titel": "Generale und Admirale - Hegseth streicht ein Fünftel aller Stellen",
       "link": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T23:16:22+00:00"
+      "veroeffentlicht": "2026-10-01T05:45:02+00:00"
     },
     {
-      "titel": "Tennessee: Supreme Court erlaubt Hinrichtung von Christa Pike",
-      "link": "https://www.spiegel.de/panorama/justiz/tennessee-supreme-court-erlaubt-hinrichtung-von-christa-pike-a-25e2b508-4b04-41ce-80d2-dfd5c9103488#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T23:15:00+00:00"
-    },
-    {
-      "titel": "Hape Kerkeling zum AfD-Verbot: Wann, wenn nicht jetzt?",
-      "link": "https://www.spiegel.de/politik/deutschland/hape-kerkeling-zum-afd-verbot-wann-wenn-nicht-jetzt-a-2b15ab6d-9152-4c7c-b58e-92d458ed1eee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T21:12:00+00:00"
-    },
-    {
-      "titel": "Elon Musk und Pentagon: Techmilliardär soll zentrale Rolle bei »Projekt Meridian« spielen",
-      "link": "https://www.spiegel.de/panorama/leute/elon-musk-und-pentagon-techmilliardaer-soll-zentrale-rolle-bei-projekt-meridian-spielen-a-fb5328d9-df67-4277-96cc-5da04553fd47#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T20:55:00+00:00"
-    },
-    {
-      "titel": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T20:31:18+00:00"
-    },
-    {
-      "titel": "Cristiano Ronaldo: Verlässt Portugals Nationalteam – Rücktritt offen",
-      "link": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-verlaesst-portugals-nationalteam-ruecktritt-weiter-offen-a-34318352-5380-4fe2-8266-460eb2614a26#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T19:37:00+00:00"
-    },
-    {
-      "titel": "Türkei: Unabhängiges Onlineportal muss wegen angeblicher »LGBT-Propaganda« schließen",
-      "link": "https://www.spiegel.de/ausland/tuerkei-unabhaengiges-onlineportal-muss-wegen-angeblicher-lgbt-propaganda-schliessen-a-1d710ed2-9c1e-4f4d-84eb-333c8bf4718f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T19:20:00+00:00"
-    },
-    {
-      "titel": "Linke-Politiker Kocak gibt Sitz im Innenausschuss des Bundestages auf",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T18:59:10+00:00"
-    },
-    {
-      "titel": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
-      "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T18:07:15+00:00"
-    },
-    {
-      "titel": "DFB-Team: Klopps kleine Verteidigungsrede",
-      "link": "https://www.sueddeutsche.de/sport/klopp-muenchen-pressekonferenz-kapitaen-li.3556612",
+      "titel": "Robert Habeck über die Arktis: Tiefenbohrung in fragilem Eis",
+      "link": "https://www.sueddeutsche.de/politik/robert-habeck-buch-arktis-geopolitik-klimaschutz-arctic-meltdown-li.3547453",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T17:45:15+00:00"
+      "veroeffentlicht": "2026-10-01T04:59:47+00:00"
     },
     {
-      "titel": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
-      "link": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T17:23:51+00:00"
-    },
-    {
-      "titel": "Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T17:02:10+00:00"
-    },
-    {
-      "titel": "Unter einem Dach: Wie Kita-Kinder und Senioren voneinander lernen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pflegeheim-kita-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T17:01:51+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Linken-Politiker Koçak gibt Sitz im Innenausschuss ganz auf",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-ferat-kocak-linke-clans-li.3529564",
+      "titel": "Verfassungsgericht: Steht es Politikern denn zu, eine mögliche Gefahr für die Demokratie auszusitzen?",
+      "link": "https://www.sueddeutsche.de/meinung/afd-verbot-verfassungsgericht-regierungsmehrheit-kommentar-li.3555655",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T16:19:33+00:00"
+      "veroeffentlicht": "2026-10-01T04:39:25+00:00"
     },
     {
-      "titel": "Podcast „Auf den Punkt“: Was die Pflege braucht, ist längst klar – nur umgesetzt wird es nicht",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-gesundheit-pflege-plegereform-li.3556367",
+      "titel": "Newsblog zu den Landtagswahlen: Gespräche zur Regierungsbildung in Berlin beginnen",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-berlin-rathaus-regierungsbildung-linke-gruene-spd-li.3540501",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T16:00:59+00:00"
+      "veroeffentlicht": "2026-10-01T03:23:30+00:00"
     },
     {
-      "titel": "Eklat auf dem Oktoberfest: Junge Linke provoziert mit israelfeindlichen Parolen – FDP-Stadtrat geohrfeigt",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-linke-ohrfeige-joerg-hoffmann-ratsbox-li.3556609",
+      "titel": "USA-Newsblog: Musk soll für Pentagon „Zukunft der Kriegsführung“ erforschen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-elon-musk-pete-hegseth-ki-kriegsfuehrung-pentagon-verteidigung-waffen-militaer-li.3530667",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T15:40:27+00:00"
+      "veroeffentlicht": "2026-10-01T02:42:18+00:00"
     },
     {
-      "titel": "Deutscher Olympischer Sportbund: Streit ums Schattenkabinett",
-      "link": "https://www.sueddeutsche.de/sport/olympia-dosb-kandidat-mronz-widerstand-li.3556333",
+      "titel": "AfD-Verbot: „Je länger Sie warten, desto radikaler wird die Partei“",
+      "link": "https://www.sueddeutsche.de/politik/afd-verbot-thueringen-kerkeling-rede-landtag-li.3555590",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T14:31:27+00:00"
-    },
-    {
-      "titel": "Buchhandlungspreis: „Es wird empfohlen, dem Votum der Jury zu folgen“",
-      "link": "https://www.sueddeutsche.de/kultur/buchhandlungspreis-wolfram-weimer-literatur-widerspruch-aussagen-li.3556449",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T14:11:10+00:00"
-    },
-    {
-      "titel": "Bayerischer Landtag: Zwei neue Minister und eine hitzige Debatte über die Amtszeit von Markus Söder",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-landtag-manuel-knoll-josef-schmid-markus-soeder-li.3552704",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T14:09:16+00:00"
-    },
-    {
-      "titel": "BMW: „Wir müssen kleiner und schlagkräftiger werden“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/bmw-wir-muessen-kleiner-und-schlagkraeftiger-werden-li.3555602",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T14:07:44+00:00"
-    },
-    {
-      "titel": "Frauen-Bundesliga: Playoffs um die Meisterschaft?",
-      "link": "https://www.sueddeutsche.de/sport/fussball-frauen-bundesliga-modus-playoffs-meisterschaft-fbl-katharina-kiel-li.3556372",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-09-30T13:25:00+00:00"
+      "veroeffentlicht": "2026-10-01T02:11:21+00:00"
     }
   ]
 }
