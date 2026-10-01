@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-01T16:28:01+00:00",
+  "aktualisiert": "2026-10-01T21:24:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,148 @@
   },
   "meldungen": [
     {
+      "titel": "Zwei US-Amerikaner, ein Kanadier und ein Russe sind unterwegs zur ISS",
+      "link": "https://www.spiegel.de/panorama/zwei-us-amerikaner-ein-kanadier-und-ein-russe-sind-unterwegs-zur-iss-a-5319942b-1036-4f6e-a2e1-59ca437be6de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T21:17:00+00:00"
+    },
+    {
+      "titel": "DFB-Team in der Einzelkritik: Pavlović und Bischof prägen das Klopp-Team",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-team-in-der-einzelkritik-pavlovic-und-bischof-praegen-das-klopp-team-a-35574bd0-8b85-4a4b-b0ee-812aa8660ea2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T21:12:00+00:00"
+    },
+    {
+      "titel": "Nations League: Wirtz zaubert Klopp zum ersten Sieg",
+      "link": "https://www.sueddeutsche.de/sport/deutschland-serbien-spielbericht-nations-league-li.3557284",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T21:03:08+00:00"
+    },
+    {
+      "titel": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T21:02:22+00:00"
+    },
+    {
+      "titel": "DFB-Sieg gegen Serbien: DFB-Elf feiert den ersten Sieg unter Bundestrainer Jürgen Klopp",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-dfb-elf-feiert-den-ersten-sieg-unter-bundestrainer-juergen-klopp-a-8140e1d4-3503-4859-9da2-625e7dc9afbf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T20:54:00+00:00"
+    },
+    {
+      "titel": "Wichtige Rede in Münster: Warum Merz gerade jetzt der Urkaine die Solidarität versichert",
+      "link": "https://www.spiegel.de/politik/deutschland/wichtige-rede-in-muenster-warum-merz-gerade-jetzt-der-urkaine-die-solidaritaet-versichert-a-0ba9cab7-3ebb-4b03-9920-44563d7f6706#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T20:27:00+00:00"
+    },
+    {
+      "titel": "Netanjahu schreibt dem Flydubai-Co-Piloten islamistische Gesinnung zu",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-flydubai-copilot-islamistisch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T19:54:14+00:00"
+    },
+    {
+      "titel": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T19:41:16+00:00"
+    },
+    {
+      "titel": "Zinédine Zidane findet seinen Kopfstoß nicht gerade toll, aber...",
+      "link": "https://www.spiegel.de/sport/fussball/zinedine-zidane-findet-seinen-kopfstoss-nicht-gerade-toll-aber-a-eb33b746-4bed-4c07-975c-46d3349e29d6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T19:33:00+00:00"
+    },
+    {
+      "titel": "Christa Pike – Tennessee: Verurteilte nach Hinrichtung offenbar in kritischem Zustand",
+      "link": "https://www.spiegel.de/ausland/christa-pike-tennessee-verurteilte-nach-hinrichtung-offenbar-in-kritischem-zustand-a-884ad6f8-568f-4858-8906-ac110c38458a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T19:23:00+00:00"
+    },
+    {
+      "titel": "Todesstrafe in den USA: Wie konnte Christa Pike zwei Hinrichtungsversuche überleben?",
+      "link": "https://www.sueddeutsche.de/panorama/usa-tennessee-christa-pike-todesstrafe-hinrichtung-giftspritze-ueberlebt-li.3556899",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T19:18:08+00:00"
+    },
+    {
+      "titel": "Gescheiterte Hinrichtung in den USA sorgt für Entsetzen - Debatte über Todesstrafe",
+      "link": "https://www.tagesschau.de/ausland/amerika/ende-der-todesstrafe-in-den-usa-gefordert-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T19:11:40+00:00"
+    },
+    {
+      "titel": "Frankreich: Proteste an Schulen und Unis wegen maroder Gebäude und Rattenbefall",
+      "link": "https://www.spiegel.de/ausland/frankreich-proteste-an-schulen-und-unis-wegen-maroder-gebaeude-und-rattenbefall-a-e03684af-47d1-44af-8599-3d0b9252d5bd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T19:08:00+00:00"
+    },
+    {
+      "titel": "Pistorius lässt Drohnenregiment aufstellen",
+      "link": "https://www.spiegel.de/politik/pistorius-laesst-drohnenregiment-aufstellen-a-9ce56de4-0fd5-4f22-93f2-c4c28e9f86ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T19:03:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: „Sie stimmen oft gegen mich“: Trump bereut Nominierung von Supreme-Court-Richtern",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-supreme-court-richter-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T19:00:45+00:00"
+    },
+    {
+      "titel": "Merz warnt vor Russland und den »Parolen der AfD und ihrer russischen Hintermänner«",
+      "link": "https://www.spiegel.de/politik/merz-warnt-vor-russland-und-den-parolen-der-afd-und-ihrer-russischen-hintermaenner-a-f5aa8df7-d72d-480d-a4da-b0201e635f22#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T18:59:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Selenskij: Ukraine setzt erstmals neue ballistische Rakete ein",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-ballistische-rakete-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T18:35:01+00:00"
+    },
+    {
+      "titel": "Abgeordnetenhauswahl in Berlin: Erstes Vorgespräch Rot-Grün-Rot ergebnislos",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-regierungsbildung-vorgespraeche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T18:11:07+00:00"
+    },
+    {
+      "titel": "Auf dem Weg nach Tel Aviv: Wie Flug FZ1073 nur knapp der Katastrophe entkam",
+      "link": "https://www.sueddeutsche.de/politik/fz1073-flug-israel-flydubai-entfuehrung-katastrophe-li.3556670",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T18:10:00+00:00"
+    },
+    {
+      "titel": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T17:49:18+00:00"
+    },
+    {
+      "titel": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T17:25:59+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Mann beim Koksen an der Bavaria erwischt – jetzt muss er 30 000 Euro Sicherheitsleistung zahlen",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T16:57:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX schließt unter 25.000 Punkten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T16:41:56+00:00"
+    },
+    {
       "titel": "Newsblog zur Bundespolitik: Pistorius lässt erstes Drohnenregiment aufstellen",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-pistorius-drohnenregiment-bundeswehr-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-01T16:17:04+00:00"
-    },
-    {
-      "titel": "AfD in Sachsen-Anhalt: Mögliche Wahlanfechtung - Opposition fordert Konsequenzen",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-moegliche-wahlanfechtung-opposition-fordert-konsequenzen-a-803929b8-0669-489e-b65d-80270572a5e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T16:10:00+00:00"
     },
     {
       "titel": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück",
@@ -25,148 +157,16 @@
       "veroeffentlicht": "2026-10-01T16:05:21+00:00"
     },
     {
-      "titel": "Renée Good: Hinterbliebene klagen gegen die US-Regierung",
-      "link": "https://www.spiegel.de/ausland/renee-good-hinterbliebene-klagen-gegen-die-us-regierung-a-05c09361-b9fb-4690-ae07-ea63357bedad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T16:05:00+00:00"
-    },
-    {
-      "titel": "ARD-DeutschlandTrend: Drei Viertel der Deutschen spüren vor allem Belastungen",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-oktober-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T16:00:14+00:00"
-    },
-    {
-      "titel": "Frankreich: Warum die Schüler sich Straßenschlachten mit der Polizei liefern",
-      "link": "https://www.spiegel.de/ausland/frankreich-warum-die-schueler-sich-strassenschlachten-mit-der-polizei-liefern-a-860a3db3-b458-42f1-bd1e-ef3725452e13#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T15:51:00+00:00"
-    },
-    {
-      "titel": "Leipzig: Arzt durfte nicht selbst Corona-Impfstoff herstellen",
-      "link": "https://www.spiegel.de/panorama/justiz/leipzig-arzt-durfte-nicht-selbst-corona-impfstoff-herstellen-a-e594e06e-ab3c-40ea-b0e3-e8e9d4c80fba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T15:50:00+00:00"
-    },
-    {
-      "titel": "BGH kippt Preiserhöhung bei Amazon Prime",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T15:47:54+00:00"
-    },
-    {
-      "titel": "News des Tages: Zuckersteuer gestoppt, Angriff in Flydubai-Maschine, Gescheiterte Hinrichtung von Christa Pike",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-gestoppt-angriff-in-flydubai-maschine-gescheiterte-hinrichtung-von-christa-pike-a-c5d15566-5ef8-4b33-92f7-2fcaf6ec3cfc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T15:45:00+00:00"
-    },
-    {
       "titel": "Friedenspreis für die Nato: Kehrt das „Grauen des Krieges“ zurück nach Deutschland? Merz warnt davor",
       "link": "https://www.sueddeutsche.de/politik/friedrich-merz-russland-ukraine-nato-friedenspreis-li.3556853",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-01T15:36:15+00:00"
     },
     {
-      "titel": "Netanjahu schreibt dem Flydubai-Copiloten islamistische Gesinnung zu",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-flydubai-copilot-islamistisch-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T15:27:15+00:00"
-    },
-    {
-      "titel": "London: Naomi Campbell wehrt sich erfolgreich gegen Vorwurf der Veruntreuung von Spenden",
-      "link": "https://www.spiegel.de/panorama/leute/london-naomi-campbell-wehrt-sich-erfolgreich-gegen-vorwurf-der-veruntreuung-von-spenden-a-967bb46f-25b7-4469-8400-6ed370cb0ee6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T15:26:00+00:00"
-    },
-    {
-      "titel": "Abgeordnetenhauswahl in Berlin: Rot-Grün-Rot führt Vorgespräche",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-regierungsbildung-vorgespraeche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T15:25:40+00:00"
-    },
-    {
-      "titel": "Fall Christa Pike: Wie kann man zwei Hinrichtungsversuche mit der Giftspritze überleben?",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/fall-christa-pike-wie-kann-man-zwei-hinrichtungsversuche-mit-der-giftspritze-ueberleben-a-ed8e0517-0d47-448e-9158-171c1eb88cdf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T15:24:00+00:00"
-    },
-    {
-      "titel": "Amazon: Bundesgerichtshof kippt Preiserhöhung bei Amazon Prime",
-      "link": "https://www.spiegel.de/netzwelt/web/amazon-bundesgerichtshof-kippt-preiserhoehung-bei-amazon-prime-a-9f0ec767-95e9-44e5-99ad-58fef620acfe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T15:23:00+00:00"
-    },
-    {
-      "titel": "Heizkosten: So teuer ist Heizen in Ihrer Region im Vergleich",
-      "link": "https://www.spiegel.de/wirtschaft/heizkosten-so-teuer-ist-heizen-in-ihrer-region-im-vergleich-a-d0ad078b-6e24-4c5e-a8de-25d52dbad709#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T15:16:00+00:00"
-    },
-    {
       "titel": "Der CSU-Chef und Münchens OB: So nah war Söder einem Grünen selten. Wem nutzt die neue „Bromance“?",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-markus-soeder-dominik-krause-csu-gruene-olympia-2036-li.3555870",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-01T15:14:58+00:00"
-    },
-    {
-      "titel": "Durchschnittsalter auf dem Land steigt stärker als in Städten",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/alter-stadt-land-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T14:23:02+00:00"
-    },
-    {
-      "titel": "Start des neuen \"Tankrabatts\": Spritpreise sinken deutlich",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-320.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T14:11:15+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Mann beim Koksen an der Bavaria erwischt – jetzt muss er 30 000 Euro Sicherheitsleistung zahlen",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T14:10:59+00:00"
-    },
-    {
-      "titel": "Bremst Israel deutsche Gaza-Hilfe aus?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-bremst-deutsche-gazahilfe-aus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T13:53:48+00:00"
-    },
-    {
-      "titel": "Dieser eine Satz: Für Markus Söder gibt es gute Grüne und böse Grüne",
-      "link": "https://www.sueddeutsche.de/meinung/markus-soeder-dominik-krause-oktoberfest-2026-schwarz-gruen-kolumne-li.3555653",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T13:48:58+00:00"
-    },
-    {
-      "titel": "EU schafft rechtliche Basis für Abschiebezentren in Drittstaaten",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-drittstaaten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T13:48:13+00:00"
-    },
-    {
-      "titel": "Sicherheit: Die Ostseeküste bekommt ein neues Drohnenschutz-System",
-      "link": "https://www.sueddeutsche.de/politik/ostseekueste-drohnenabwehr-mecklenburg-vorpommern-drohnenerkennungs-system-kritische-infrastruktur-li.3556851",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T13:35:31+00:00"
-    },
-    {
-      "titel": "Schuldenkrise in Frankreich: Die Lage ist prekär – und die Einsicht ist flüchtig",
-      "link": "https://www.sueddeutsche.de/politik/frankreich-schuldenkrise-lecornu-steuern-macron-li.3556826",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T13:27:12+00:00"
-    },
-    {
-      "titel": "Berlin: SPD, Grüne und Linke nähern sich vorsichtig an",
-      "link": "https://www.sueddeutsche.de/politik/berlin-gespraech-linke-spd-gruene-antisemitismus-li.3556878",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T13:16:24+00:00"
-    },
-    {
-      "titel": "Koalition: Merz stoppt die Zuckersteuer und provoziert neue Fliehkräfte",
-      "link": "https://www.sueddeutsche.de/politik/koalition-zuckersteuer-haushalt-merz-klingbeil-li.3556839",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T13:06:55+00:00"
     }
   ]
 }
