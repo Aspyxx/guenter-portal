@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-01T07:17:14+00:00",
+  "aktualisiert": "2026-10-01T14:36:26+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Flydubai-Passagiere sicher nach Tel Aviv gebracht",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-fly-dubai-vorfall-100.html",
+      "titel": "Dieter Schwarz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
+      "rang": 2,
+      "titel": "Start des neuen \"Tankrabatts\": Spritpreise sinken deutlich",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-320.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "DAX dürfte mit Verlusten starten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
       "rang": 3,
-      "titel": "Freiwilliger Spritpreisdeckel - auch in Deutschland denkbar?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-deckel-europa-deutschland-100.html",
+      "titel": "Bremst Israel deutsche Gaza-Hilfe aus?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-bremst-deutsche-gazahilfe-aus-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
