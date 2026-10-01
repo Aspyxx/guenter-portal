@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-09-30T23:12:59+00:00",
+  "aktualisiert": "2026-10-01T02:12:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Supreme Court erlaubt Hinrichtung von Frau in Tennessee",
+      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-frau-us-bundesstaat-tennessee-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T02:01:37+00:00"
+    },
+    {
+      "titel": "Flydubai: Benjamin Netanyahu würdigt Piloten nach Angriff als »wahren Helden«",
+      "link": "https://www.spiegel.de/ausland/flydubai-benjamin-netanyahu-wuerdigt-piloten-nach-angriff-als-wahren-helden-a-827820ff-8aa8-4849-b587-77288050548d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T01:50:00+00:00"
+    },
+    {
+      "titel": "Minnesota: US-Regierung will Richter wegen Medienäußerungen maßregeln",
+      "link": "https://www.spiegel.de/ausland/minnesota-us-regierung-will-richter-wegen-medienaeusserungen-massregeln-a-7c4da0cd-316d-4d51-acfd-884b0d38fdb3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T01:13:00+00:00"
+    },
+    {
+      "titel": "Schweizer Gletscher: Forscher sehen 2026 beispiellosen Eisschwund",
+      "link": "https://www.spiegel.de/wissenschaft/schweizer-gletscher-forscher-sehen-2026-beispiellosen-eisschwund-a-60d1fcde-2864-46bf-bf9e-91d558075140#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T00:51:00+00:00"
+    },
+    {
+      "titel": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-01T00:28:55+00:00"
+    },
+    {
+      "titel": "Lionel Messi: Universität von Buenos Aires verleiht ihm Ehrendoktorwürde",
+      "link": "https://www.spiegel.de/panorama/lionel-messi-universitaet-von-buenos-aires-verleiht-ihm-ehrendoktorwuerde-a-8624c0b4-6242-4076-ab47-e98aa2502330#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T00:16:00+00:00"
+    },
+    {
+      "titel": "US-Verteidigungsminister Hegseth verschlankt US-Armee - neue Rolle für Musk",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-09-30T23:16:22+00:00"
+    },
+    {
+      "titel": "Tennessee: Supreme Court erlaubt Hinrichtung von Christa Pike",
+      "link": "https://www.spiegel.de/panorama/justiz/tennessee-supreme-court-erlaubt-hinrichtung-von-christa-pike-a-25e2b508-4b04-41ce-80d2-dfd5c9103488#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-09-30T23:15:00+00:00"
+    },
     {
       "titel": "Hape Kerkeling zum AfD-Verbot: Wann, wenn nicht jetzt?",
       "link": "https://www.spiegel.de/politik/deutschland/hape-kerkeling-zum-afd-verbot-wann-wenn-nicht-jetzt-a-2b15ab6d-9152-4c7c-b58e-92d458ed1eee#ref=rss",
@@ -43,36 +91,6 @@
       "veroeffentlicht": "2026-09-30T18:59:10+00:00"
     },
     {
-      "titel": "AfD: Länder passen Beschlusspraxis aus Sorge vor Blockade an",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-laender-passen-beschlusspraxis-aus-sorge-vor-blockade-an-a-0109861c-2a28-448e-8094-6e4ac58b3784#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T18:41:00+00:00"
-    },
-    {
-      "titel": "AfD in Sachsen-Anhalt: Blufft Ulrich Siegmund bei der MP-Wahl?",
-      "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-blufft-ulrich-siegmund-bei-der-mp-wahl-a-07bb1150-6c26-43db-b18a-0c05311c849d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T18:39:00+00:00"
-    },
-    {
-      "titel": "Ägypten: Sicherheitsapparat nimmt gesamte Redaktion von Faktencheck-Plattform »Matsada2sh« fest",
-      "link": "https://www.spiegel.de/ausland/aegypten-sicherheitsapparat-nimmt-gesamte-redaktion-von-faktencheck-plattform-matsada2sh-fest-a-e21dc845-f985-435f-82a6-6682f73d5214#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T18:36:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Mehr als 110 Verletzte bei Schulprotesten – 625 Festnahmen",
-      "link": "https://www.spiegel.de/ausland/frankreich-mehr-als-110-verletzte-bei-schulprotesten-625-festnahmen-a-2a39ea80-970c-499e-af2d-122a33b442eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T18:29:00+00:00"
-    },
-    {
-      "titel": "Wahlkampfhilfe für Donald Trump: USA wollen Europas Diesel-Vorräte freipressen",
-      "link": "https://www.spiegel.de/wirtschaft/wahlkampfhilfe-fuer-donald-trump-usa-wollen-europas-diesel-vorraete-freipressen-a-0e013ec0-61d3-4cb9-86d5-be36f9d8d9b5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-09-30T18:21:00+00:00"
-    },
-    {
       "titel": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
       "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
       "quelle": "Tagesschau",
@@ -103,18 +121,6 @@
       "veroeffentlicht": "2026-09-30T17:01:51+00:00"
     },
     {
-      "titel": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
-      "link": "https://www.tagesschau.de/ausland/europa/bardella-vorwuerfe-antisemitismus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T16:59:44+00:00"
-    },
-    {
-      "titel": "Marktbericht: Zinsängste schrecken DAX-Anleger ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T16:22:36+00:00"
-    },
-    {
       "titel": "Newsblog zur Bundespolitik: Linken-Politiker Koçak gibt Sitz im Innenausschuss ganz auf",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-ferat-kocak-linke-clans-li.3529564",
       "quelle": "Süddeutsche",
@@ -125,12 +131,6 @@
       "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-gesundheit-pflege-plegereform-li.3556367",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-09-30T16:00:59+00:00"
-    },
-    {
-      "titel": "Übung der Heimatschutzdivision: Spannungsfall an der Autobahnbrücke",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/heimatschutzdivision-bundeswehr-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-09-30T15:57:43+00:00"
     },
     {
       "titel": "Eklat auf dem Oktoberfest: Junge Linke provoziert mit israelfeindlichen Parolen – FDP-Stadtrat geohrfeigt",
