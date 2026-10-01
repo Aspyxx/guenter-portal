@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-01T14:36:26+00:00",
+  "aktualisiert": "2026-10-01T19:55:50+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Dieter Schwarz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 2,
-      "titel": "Start des neuen \"Tankrabatts\": Spritpreise sinken deutlich",
+      "titel": "Ceuta",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-320.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Deutschland fußball",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-deckel-europa-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "icon": "⚽"
+    },
+    {
       "rang": 3,
-      "titel": "Bremst Israel deutsche Gaza-Hilfe aus?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-bremst-deutsche-gazahilfe-aus-100.html",
+      "titel": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
