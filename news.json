@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-10-01T21:24:03+00:00",
+  "aktualisiert": "2026-10-02T01:05:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump: US-Präsident räumt Imageproblem vor Zwischenwahlen ein",
+      "link": "https://www.spiegel.de/ausland/donald-trump-us-praesident-raeumt-imageproblem-vor-zwischenwahlen-ein-a-b74faa7c-0f43-4a88-985f-fe7da6c36ce5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T00:27:00+00:00"
+    },
+    {
+      "titel": "Nike: Holprige Erholung – Sportartikelkonzern spart noch härter",
+      "link": "https://www.spiegel.de/wirtschaft/nike-holprige-erholung-sportartikelkonzern-spart-noch-haerter-a-a8a7bc62-667e-4262-9aa0-3491e3735b26#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T23:34:00+00:00"
+    },
+    {
+      "titel": "Äthiopien und Eritrea: Einstige Kriegskoalition bricht Beziehungen ab",
+      "link": "https://www.spiegel.de/ausland/aethiopien-und-eritrea-einstige-kriegskoalition-bricht-beziehungen-ab-a-7ac64171-a21f-4f24-a310-3405ea0a735f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-01T22:56:00+00:00"
+    },
+    {
+      "titel": "Deutschland gegen Serbien in der Einzelkritik: Pavlovic ist der Herr der Bälle",
+      "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-serbien-wirtz-einzelkritik-li.3557283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-01T21:23:59+00:00"
+    },
     {
       "titel": "Zwei US-Amerikaner, ein Kanadier und ein Russe sind unterwegs zur ISS",
       "link": "https://www.spiegel.de/panorama/zwei-us-amerikaner-ein-kanadier-und-ein-russe-sind-unterwegs-zur-iss-a-5319942b-1036-4f6e-a2e1-59ca437be6de#ref=rss",
@@ -79,28 +103,10 @@
       "veroeffentlicht": "2026-10-01T19:11:40+00:00"
     },
     {
-      "titel": "Frankreich: Proteste an Schulen und Unis wegen maroder Gebäude und Rattenbefall",
-      "link": "https://www.spiegel.de/ausland/frankreich-proteste-an-schulen-und-unis-wegen-maroder-gebaeude-und-rattenbefall-a-e03684af-47d1-44af-8599-3d0b9252d5bd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T19:08:00+00:00"
-    },
-    {
-      "titel": "Pistorius lässt Drohnenregiment aufstellen",
-      "link": "https://www.spiegel.de/politik/pistorius-laesst-drohnenregiment-aufstellen-a-9ce56de4-0fd5-4f22-93f2-c4c28e9f86ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T19:03:00+00:00"
-    },
-    {
       "titel": "USA-Newsblog: „Sie stimmen oft gegen mich“: Trump bereut Nominierung von Supreme-Court-Richtern",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-supreme-court-richter-li.3530667",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-01T19:00:45+00:00"
-    },
-    {
-      "titel": "Merz warnt vor Russland und den »Parolen der AfD und ihrer russischen Hintermänner«",
-      "link": "https://www.spiegel.de/politik/merz-warnt-vor-russland-und-den-parolen-der-afd-und-ihrer-russischen-hintermaenner-a-f5aa8df7-d72d-480d-a4da-b0201e635f22#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T18:59:00+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Selenskij: Ukraine setzt erstmals neue ballistische Rakete ein",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/friedrich-merz-russland-ukraine-nato-friedenspreis-li.3556853",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-01T15:36:15+00:00"
-    },
-    {
-      "titel": "Der CSU-Chef und Münchens OB: So nah war Söder einem Grünen selten. Wem nutzt die neue „Bromance“?",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-markus-soeder-dominik-krause-csu-gruene-olympia-2036-li.3555870",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T15:14:58+00:00"
     }
   ]
 }
