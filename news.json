@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-02T01:05:17+00:00",
+  "aktualisiert": "2026-10-02T07:01:42+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,130 @@
   },
   "meldungen": [
     {
-      "titel": "Donald Trump: US-Präsident räumt Imageproblem vor Zwischenwahlen ein",
-      "link": "https://www.spiegel.de/ausland/donald-trump-us-praesident-raeumt-imageproblem-vor-zwischenwahlen-ein-a-b74faa7c-0f43-4a88-985f-fe7da6c36ce5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-02T00:27:00+00:00"
+      "titel": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
+      "link": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-02T06:52:44+00:00"
     },
     {
-      "titel": "Nike: Holprige Erholung – Sportartikelkonzern spart noch härter",
-      "link": "https://www.spiegel.de/wirtschaft/nike-holprige-erholung-sportartikelkonzern-spart-noch-haerter-a-a8a7bc62-667e-4262-9aa0-3491e3735b26#ref=rss",
+      "titel": "Nations League - DFB-Sieg gegen Serbien: Auf Krawall eingestellt",
+      "link": "https://www.spiegel.de/sport/fussball/nations-league-dfb-sieg-gegen-serbien-auf-krawall-eingestellt-a-56a97c3f-5297-4c28-8a22-9fc85cb20982#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T23:34:00+00:00"
+      "veroeffentlicht": "2026-10-02T06:50:00+00:00"
     },
     {
-      "titel": "Äthiopien und Eritrea: Einstige Kriegskoalition bricht Beziehungen ab",
-      "link": "https://www.spiegel.de/ausland/aethiopien-und-eritrea-einstige-kriegskoalition-bricht-beziehungen-ab-a-7ac64171-a21f-4f24-a310-3405ea0a735f#ref=rss",
+      "titel": "Zuckersteuer: Lars Klingbeil hält nach vorläufigem Stopp vom Kanzleramt an umstrittener Reform fest",
+      "link": "https://www.spiegel.de/politik/deutschland/zuckersteuer-lars-klingbeil-haelt-nach-vorlaeufigem-stopp-vom-kanzleramt-an-umstrittener-reform-fest-a-d7b71c75-60cc-4589-a1dd-5c93b175e877#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T22:56:00+00:00"
+      "veroeffentlicht": "2026-10-02T06:46:00+00:00"
+    },
+    {
+      "titel": "North Carolina: Polizei droht Festgenommenen mit Taylor-Swift-Songs in Dauerschleife",
+      "link": "https://www.spiegel.de/panorama/leute/north-carolina-polizei-droht-festgenommenen-mit-taylor-swift-songs-in-dauerschleife-a-ebec642a-b3e9-49cd-9149-68fca74b3dba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T06:43:00+00:00"
+    },
+    {
+      "titel": "Polen führt Übergewinnsteuer für Mineralölkonzerne ein",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/polen-fuehrt-uebergewinnsteuer-fuer-mineraloelkonzerne-ein-a-296dd7cd-921e-48a4-a8c3-b699442fb97b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T06:41:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Klingbeil rechnet mit schneller Einigung bei Zuckersteuer",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-zuckersteuer-klingbeil-koalition-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-02T06:33:10+00:00"
+    },
+    {
+      "titel": "Abgeordnetenhauswahl in Berlin: Erstes Vorgespräch Rot-Grün-Rot ergebnislos",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-regierungsbildung-vorgespraeche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-02T06:24:26+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: »Putin hat eine Obsession mit der Ukraine« – Podcast",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-putin-hat-eine-obsession-mit-der-ukraine-podcast-a-97f3a8c3-68eb-4235-85c3-b63c02037b49#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T06:16:00+00:00"
+    },
+    {
+      "titel": "Israel verprellen oder die Europäer? Deutschland steckt im Dilemma",
+      "link": "https://www.spiegel.de/politik/deutschland/israel-verprellen-oder-die-europaeer-deutschland-steckt-im-dilemma-a-38233c49-5d0a-4425-a7c2-e70a1d63df81#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T06:14:00+00:00"
+    },
+    {
+      "titel": "Christa Pike überlebt zwei Giftspitzen: Gouverneur setzt alle weiteren Hinrichtungen für den Rest des Jahres",
+      "link": "https://www.spiegel.de/ausland/christa-pike-ueberlebt-zwei-giftspitzen-gouverneur-setzt-alle-weiteren-hinrichtungen-fuer-den-rest-des-jahres-a-7c869dba-7660-4fed-a3b9-a4b9822223a0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T06:12:00+00:00"
+    },
+    {
+      "titel": "OpenAI feuert nach KI-Enthüllungen mehrere Mitarbeiter",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/openai-feuert-nach-ki-enthuellungen-mehrere-mitarbeiter-a-854c5496-6556-4f07-983f-31d69bbafcba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T05:58:00+00:00"
+    },
+    {
+      "titel": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
+      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-tennessee-giftspritze-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-02T05:45:36+00:00"
+    },
+    {
+      "titel": "Astronauten erreichen ISS in Rekordzeit",
+      "link": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-02T05:22:09+00:00"
+    },
+    {
+      "titel": "Marktbericht: Schafft der DAX die 25.000-Punkte-Marke?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-02T05:10:48+00:00"
+    },
+    {
+      "titel": "Bahnstrecke Hannover-Berlin seit dem Morgen gesperrt",
+      "link": "https://www.spiegel.de/wirtschaft/service/bahnstrecke-hannover-berlin-seit-dem-morgen-gesperrt-a-e5cae207-41af-4eb8-b6b7-fc63096923c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T05:10:00+00:00"
+    },
+    {
+      "titel": "Todesstrafe in den USA: Wie konnte Christa Pike zwei Hinrichtungsversuche überleben?",
+      "link": "https://www.sueddeutsche.de/panorama/usa-tennessee-christa-pike-todesstrafe-hinrichtung-giftspritze-ueberlebt-li.3556899",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-02T04:45:00+00:00"
+    },
+    {
+      "titel": "Datenpannen von Top-Spionen - Handynummer von BND-Vize im Internet",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/datenpanne-bnd-geheimdienst-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-02T04:00:48+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Bericht: Tanker in der Straße von Hormus unter Beschuss",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-trump-tanker-handel-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-02T03:15:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Trump: Machen guten Job, aber schlechte PR",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-wahlen-kongress-republikaner-kongresswahlen-zwischenwahlen-li.3530667",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-02T02:51:18+00:00"
+    },
+    {
+      "titel": "Francis Fukuyama bei Markus Lanz: „Die Deutschen scheinen zu glauben, dass ihr System stecken geblieben ist“",
+      "link": "https://www.sueddeutsche.de/medien/markus-lanz-zdf-francis-fukuyama-sven-schulze-li.3557113",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-02T01:50:17+00:00"
+    },
+    {
+      "titel": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-02T01:49:37+00:00"
     },
     {
       "titel": "Deutschland gegen Serbien in der Einzelkritik: Pavlovic ist der Herr der Bälle",
@@ -31,20 +139,8 @@
       "veroeffentlicht": "2026-10-01T21:23:59+00:00"
     },
     {
-      "titel": "Zwei US-Amerikaner, ein Kanadier und ein Russe sind unterwegs zur ISS",
-      "link": "https://www.spiegel.de/panorama/zwei-us-amerikaner-ein-kanadier-und-ein-russe-sind-unterwegs-zur-iss-a-5319942b-1036-4f6e-a2e1-59ca437be6de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T21:17:00+00:00"
-    },
-    {
-      "titel": "DFB-Team in der Einzelkritik: Pavlović und Bischof prägen das Klopp-Team",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-team-in-der-einzelkritik-pavlovic-und-bischof-praegen-das-klopp-team-a-35574bd0-8b85-4a4b-b0ee-812aa8660ea2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T21:12:00+00:00"
-    },
-    {
       "titel": "Nations League: Wirtz zaubert Klopp zum ersten Sieg",
-      "link": "https://www.sueddeutsche.de/sport/deutschland-serbien-spielbericht-nations-league-li.3557284",
+      "link": "https://www.sueddeutsche.de/sport/deutschland-serbien-spielbericht-nations-league-wirtz-klopp-li.3557284",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-01T21:03:08+00:00"
     },
@@ -55,58 +151,10 @@
       "veroeffentlicht": "2026-10-01T21:02:22+00:00"
     },
     {
-      "titel": "DFB-Sieg gegen Serbien: DFB-Elf feiert den ersten Sieg unter Bundestrainer Jürgen Klopp",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-sieg-gegen-serbien-dfb-elf-feiert-den-ersten-sieg-unter-bundestrainer-juergen-klopp-a-8140e1d4-3503-4859-9da2-625e7dc9afbf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T20:54:00+00:00"
-    },
-    {
-      "titel": "Wichtige Rede in Münster: Warum Merz gerade jetzt der Urkaine die Solidarität versichert",
-      "link": "https://www.spiegel.de/politik/deutschland/wichtige-rede-in-muenster-warum-merz-gerade-jetzt-der-urkaine-die-solidaritaet-versichert-a-0ba9cab7-3ebb-4b03-9920-44563d7f6706#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T20:27:00+00:00"
-    },
-    {
       "titel": "Netanjahu schreibt dem Flydubai-Co-Piloten islamistische Gesinnung zu",
       "link": "https://www.tagesschau.de/ausland/asien/netanjahu-flydubai-copilot-islamistisch-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-01T19:54:14+00:00"
-    },
-    {
-      "titel": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T19:41:16+00:00"
-    },
-    {
-      "titel": "Zinédine Zidane findet seinen Kopfstoß nicht gerade toll, aber...",
-      "link": "https://www.spiegel.de/sport/fussball/zinedine-zidane-findet-seinen-kopfstoss-nicht-gerade-toll-aber-a-eb33b746-4bed-4c07-975c-46d3349e29d6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T19:33:00+00:00"
-    },
-    {
-      "titel": "Christa Pike – Tennessee: Verurteilte nach Hinrichtung offenbar in kritischem Zustand",
-      "link": "https://www.spiegel.de/ausland/christa-pike-tennessee-verurteilte-nach-hinrichtung-offenbar-in-kritischem-zustand-a-884ad6f8-568f-4858-8906-ac110c38458a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-01T19:23:00+00:00"
-    },
-    {
-      "titel": "Todesstrafe in den USA: Wie konnte Christa Pike zwei Hinrichtungsversuche überleben?",
-      "link": "https://www.sueddeutsche.de/panorama/usa-tennessee-christa-pike-todesstrafe-hinrichtung-giftspritze-ueberlebt-li.3556899",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T19:18:08+00:00"
-    },
-    {
-      "titel": "Gescheiterte Hinrichtung in den USA sorgt für Entsetzen - Debatte über Todesstrafe",
-      "link": "https://www.tagesschau.de/ausland/amerika/ende-der-todesstrafe-in-den-usa-gefordert-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T19:11:40+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: „Sie stimmen oft gegen mich“: Trump bereut Nominierung von Supreme-Court-Richtern",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-supreme-court-richter-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T19:00:45+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Selenskij: Ukraine setzt erstmals neue ballistische Rakete ein",
@@ -115,58 +163,10 @@
       "veroeffentlicht": "2026-10-01T18:35:01+00:00"
     },
     {
-      "titel": "Abgeordnetenhauswahl in Berlin: Erstes Vorgespräch Rot-Grün-Rot ergebnislos",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-regierungsbildung-vorgespraeche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T18:11:07+00:00"
-    },
-    {
       "titel": "Auf dem Weg nach Tel Aviv: Wie Flug FZ1073 nur knapp der Katastrophe entkam",
       "link": "https://www.sueddeutsche.de/politik/fz1073-flug-israel-flydubai-entfuehrung-katastrophe-li.3556670",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-01T18:10:00+00:00"
-    },
-    {
-      "titel": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T17:49:18+00:00"
-    },
-    {
-      "titel": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T17:25:59+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Mann beim Koksen an der Bavaria erwischt – jetzt muss er 30 000 Euro Sicherheitsleistung zahlen",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T16:57:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX schließt unter 25.000 Punkten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T16:41:56+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Pistorius lässt erstes Drohnenregiment aufstellen",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-pistorius-drohnenregiment-bundeswehr-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T16:17:04+00:00"
-    },
-    {
-      "titel": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück",
-      "link": "https://www.tagesschau.de/ausland/asien/letzte-bundeswehr-soldaten-aus-irak-zurueckgekehrt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-01T16:05:21+00:00"
-    },
-    {
-      "titel": "Friedenspreis für die Nato: Kehrt das „Grauen des Krieges“ zurück nach Deutschland? Merz warnt davor",
-      "link": "https://www.sueddeutsche.de/politik/friedrich-merz-russland-ukraine-nato-friedenspreis-li.3556853",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-01T15:36:15+00:00"
     }
   ]
 }
