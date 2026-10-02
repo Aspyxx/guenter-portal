@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-02T09:04:16+00:00",
+  "aktualisiert": "2026-10-02T15:53:37+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "DAX wieder über 25.000 Punkten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+      "titel": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
+      "link": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 2,
+      "titel": "Nikes Schwäche nutzt Konkurrenten wie Adidas",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nike-adidas-dax-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
-      "rang": 2,
-      "titel": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
-      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-tennessee-giftspritze-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Werft will 4,7 Milliarden Euro von Deutschland",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html",
+      "titel": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
