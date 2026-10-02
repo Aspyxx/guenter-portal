@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-02T15:53:37+00:00",
+  "aktualisiert": "2026-10-02T20:11:44+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "DAX geht versöhnlich ins Wochenende",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
+      "rang": 2,
       "titel": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
       "link": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
-      "titel": "Nikes Schwäche nutzt Konkurrenten wie Adidas",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nike-adidas-dax-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
       "rang": 3,
-      "titel": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
+      "titel": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
+      "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     }
   ]
 }
