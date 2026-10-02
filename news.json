@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-10-02T19:21:03+00:00",
+  "aktualisiert": "2026-10-02T23:16:32+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Großbritannien: Verdächtiger im Mordfall Ann Widdecombe soll auch Anschlag auf Nigel Farage geplant haben",
+      "link": "https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T21:34:00+00:00"
+    },
+    {
+      "titel": "Christa Pike – Tennessee: Nach gescheiterter Hinrichtung intubiert und beatmet",
+      "link": "https://www.spiegel.de/ausland/christa-pike-tennessee-nach-gescheiterter-hinrichtung-intubiert-und-beatmet-a-e973d002-7ece-4acc-befa-f1a4097d5ca0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T20:35:00+00:00"
+    },
+    {
+      "titel": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
+      "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-02T19:28:18+00:00"
+    },
     {
       "titel": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
       "link": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
@@ -67,22 +85,10 @@
       "veroeffentlicht": "2026-10-02T18:13:00+00:00"
     },
     {
-      "titel": "Katherina Reiche drängt Gaskonzerne zum Einspeichern",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern-a-848d910c-3a74-4e34-a12e-a7ac93e756d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-02T17:58:00+00:00"
-    },
-    {
       "titel": "Warum es in der schwarz-roten Koalition knirscht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-02T17:53:12+00:00"
-    },
-    {
-      "titel": "BKA: Junge »Killer-Kinder« als billige Täter für »Violence as a Service« - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/justiz/bka-junge-killer-kinder-als-billige-taeter-fuer-violence-as-a-service-spiegel-tv-a-02aaaa2f-6960-4551-bab4-5c4d3a4c9ca3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-02T17:23:00+00:00"
     },
     {
       "titel": "Nach Pisa-Schock: Sechs Stunden Nachsitzen für Bayerns Grundschüler",
@@ -137,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/bull-supercomputer-europa-digitale-souveraenitaet-ki-li.3556471",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-02T15:02:59+00:00"
-    },
-    {
-      "titel": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
-      "link": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-02T14:59:41+00:00"
     },
     {
       "titel": "USA-Newsblog: Trump: Europa gibt große Mengen an Dieselvorräten frei",
