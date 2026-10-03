@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-03T17:39:25+00:00",
+  "aktualisiert": "2026-10-03T20:15:34+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bremen",
+      "titel": "Spanien",
       "link": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
-      "link": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
+      "titel": "Partei von Ministerpräsident laut Prognose in Führung",
+      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Flydubai-Co-Pilot galt zuvor als Sicherheitsrisiko",
-      "link": "https://www.tagesschau.de/ausland/flydubai-co-pilot-sicherheitsrisiko-100.html",
+      "titel": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     }
   ]
 }
