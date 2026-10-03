@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-10-02T23:16:32+00:00",
+  "aktualisiert": "2026-10-03T02:20:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Brasilien: Streit über Justizeingriff in TV-Debatte vor Lula-Bolsonaro-Wahl",
+      "link": "https://www.spiegel.de/ausland/brasilien-streit-ueber-justizeingriff-in-tv-debatte-vor-lula-bolsonaro-wahl-a-d80b4aff-00a0-44b2-90b3-9b872ad5d869#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T02:18:00+00:00"
+    },
+    {
+      "titel": "New Yorks Gouverneurin kündigt nach Gruppenvergewaltigung an Uni Aufklärung an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-gruppenvergewaltigung-elite-uni-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T01:55:59+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Bericht: Wieder Angriff auf Tanker in der Straße von Hormus",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-trump-tanker-handel-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-03T00:56:50+00:00"
+    },
+    {
+      "titel": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
+      "link": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T00:18:32+00:00"
+    },
+    {
+      "titel": "Grok: Musks xAI setzt US-Gesetz gegen KI-Nacktbilder vorerst außer Kraft",
+      "link": "https://www.spiegel.de/netzwelt/grok-musks-xai-setzt-us-gesetz-gegen-ki-nacktbilder-vorerst-ausser-kraft-a-8629cb55-4cd8-44d1-8c6c-050e5466217f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T00:11:00+00:00"
+    },
+    {
+      "titel": "Sächsisches Innenministerium: Behörde löscht umstrittenen Post zu Berliner Linken",
+      "link": "https://www.spiegel.de/politik/saechsisches-innenministerium-behoerde-loescht-umstrittenen-post-zu-berliner-linken-a-6a172141-f50f-402b-8a98-9db4933e6653#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-02T23:13:00+00:00"
+    },
     {
       "titel": "Großbritannien: Verdächtiger im Mordfall Ann Widdecombe soll auch Anschlag auf Nigel Farage geplant haben",
       "link": "https://www.spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6#ref=rss",
@@ -67,24 +103,6 @@
       "veroeffentlicht": "2026-10-02T18:37:50+00:00"
     },
     {
-      "titel": "Rente: Rechnungshof warnt vor wachsender Belastung des Bundeshaushalts",
-      "link": "https://www.spiegel.de/politik/deutschland/rente-rechnungshof-warnt-vor-wachsender-belastung-des-bundeshaushalts-a-078e77e8-7152-4158-8fba-dd68fca2779d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-02T18:36:00+00:00"
-    },
-    {
-      "titel": "Türkei: Kleinanleger bangen um ihr Geld – während Erdoğan-Vertraute Millionen gemacht haben soll",
-      "link": "https://www.spiegel.de/ausland/tuerkei-kleinanleger-bangen-um-ihr-geld-waehrend-erdogan-vertraute-millionen-gemacht-haben-soll-a-8a9b303a-8fb5-48de-8c83-7bcf5ef8bb50#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-02T18:15:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Unruhen an 560 Schulen – Gymnasiasten distanzieren sich von Gewalt",
-      "link": "https://www.spiegel.de/ausland/frankreich-unruhen-an-560-schulen-gymnasiasten-distanzieren-sich-von-gewalt-a-9955ff80-d670-44cc-8bab-06a6a854c65f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-02T18:13:00+00:00"
-    },
-    {
       "titel": "Warum es in der schwarz-roten Koalition knirscht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
       "quelle": "Tagesschau",
@@ -115,12 +133,6 @@
       "veroeffentlicht": "2026-10-02T16:18:24+00:00"
     },
     {
-      "titel": "USA: Trumps Republikaner unter Druck vor den Midterms",
-      "link": "https://www.tagesschau.de/ausland/midterms-republikaner-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-02T15:54:40+00:00"
-    },
-    {
       "titel": "Oktoberfest: 38-Jähriger wird in Wiesn-Camp reanimiert und stirbt in Klinik",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-freitag-li.3549371",
       "quelle": "Süddeutsche",
@@ -131,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-tipps-erster-wiesn-besuch-li.3313951",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-02T15:07:31+00:00"
-    },
-    {
-      "titel": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
-      "link": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-02T15:04:08+00:00"
     },
     {
       "titel": "Supercomputer-Hersteller Bull: Diese Firma soll Europas Abhängigkeit von US-Tech-Konzernen verringern",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-berlin-rathaus-afd-direktmandat-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-02T14:18:29+00:00"
-    },
-    {
-      "titel": "Medizin: Machtmissbrauch und sexuelle Übergriffe: Ärzte erheben schwere Vorwürfe gegen Uniklinikum Magdeburg",
-      "link": "https://www.sueddeutsche.de/gesundheit/magdeburg-uniklinikum-machtmissbrauch-sexuelle-uebergriffe-neurochirurgie-li.3525928",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-02T14:15:12+00:00"
     }
   ]
 }
