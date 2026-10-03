@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-03T02:29:19+00:00",
+  "aktualisiert": "2026-10-03T08:26:09+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "DAX geht versöhnlich ins Wochenende",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 2,
-      "titel": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
-      "link": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
+      "titel": "Flydubai-Co-Pilot galt zuvor als Sicherheitsrisiko",
+      "link": "https://www.tagesschau.de/ausland/flydubai-co-pilot-sicherheitsrisiko-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
-      "titel": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
-      "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
+      "rang": 2,
+      "titel": "Mysteriöse Einbruchserie bei Abgeordneten in Finnland",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-einbrueche-abgeordnete-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
