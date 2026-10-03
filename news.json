@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-03T13:56:04+00:00",
+  "aktualisiert": "2026-10-03T17:58:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,106 @@
   },
   "meldungen": [
     {
-      "titel": "Oetinger-Verlag: Wie der Kinderbuchverlag gegen die Lesekrise kämpft",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/oetinger-verlag-wie-der-kinderbuchverlag-gegen-die-lesekrise-kaempft-a-f59a1641-248c-4f81-884a-a9a3e12ef5c7#ref=rss",
+      "titel": "USA: 9/11, Obama, Trump – so radikal hat sich Amerika in 30 Jahren verändert",
+      "link": "https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T13:48:00+00:00"
+      "veroeffentlicht": "2026-10-03T17:50:00+00:00"
     },
     {
-      "titel": "Tag der Deutschen Einheit: Frank-Walter Steinmeier attackiert Extremisten – AfD-Chef verweigert Applaus",
-      "link": "https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T13:43:00+00:00"
+      "titel": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T17:41:01+00:00"
     },
     {
-      "titel": "Berlin: Volksbühne eröffnet neue Intendanz mit Geschichts-Shows wie »House of Hopes«",
-      "link": "https://www.spiegel.de/kultur/berlin-volksbuehne-eroeffnet-neue-intendanz-mit-geschichts-shows-wie-house-of-hopes-a-0ef17c0e-0ee8-4ca2-8f48-9f07286ea6bf#ref=rss",
+      "titel": "Ukraine-Krieg: Russland warnt Ausländer vor Aufenthalt in Kyjiw",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T13:29:00+00:00"
+      "veroeffentlicht": "2026-10-03T17:32:00+00:00"
     },
     {
-      "titel": "Tennisturnier in Peking: Alexander Zverev trifft im Viertelfinale auf Novak Djokovic",
-      "link": "https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic-a-203c6584-8c42-4edc-ac4c-61c09338953f#ref=rss",
+      "titel": "Bayern: Dachzelt-Diebe scheitern an Tiefgaragendecke",
+      "link": "https://www.spiegel.de/panorama/justiz/bayern-dachzelt-diebe-scheitern-an-tiefgaragendecke-a-6214fcab-d4bf-4cba-8f00-8ffb5f3ffbcd#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T13:21:00+00:00"
+      "veroeffentlicht": "2026-10-03T17:16:00+00:00"
+    },
+    {
+      "titel": "Irak - Abzug der US-Truppen: Was wird aus dem Land? Eine Reportage",
+      "link": "https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage-a-8a51b9f1-75f0-4ebb-bda9-d3f1e6121df3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T17:12:00+00:00"
+    },
+    {
+      "titel": "Nicht jeder Ton saß, aber sie hatten offenbar Spaß – SPD- und CDU-Politiker singen in Hotelbar",
+      "link": "https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar-a-247581ed-d121-4f4a-ba1b-2bc8fa28688a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T17:07:00+00:00"
+    },
+    {
+      "titel": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
+      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T17:04:05+00:00"
+    },
+    {
+      "titel": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T16:40:33+00:00"
+    },
+    {
+      "titel": "Michael Douglas und sein spätes Geständnis über Kathleen Turner",
+      "link": "https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner-a-c80af387-51e1-42dc-ac07-eafa624abd41#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T15:51:00+00:00"
+    },
+    {
+      "titel": "Hawaii: Berühmter Felsbogen eingestürzt - Warnung vor instabilen Klippen",
+      "link": "https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen-a-4b128500-252c-43e1-958c-97dcc0ff9301#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T15:37:00+00:00"
+    },
+    {
+      "titel": "Christa Pike: Gescheiterte Hinrichtung - Chef von Gefängnisbehörde tritt zurück",
+      "link": "https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck-a-43c9bc30-c8df-4498-ad57-401df0eaebe4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T15:35:00+00:00"
+    },
+    {
+      "titel": "München warnt vor Überfüllung des Oktoberfests",
+      "link": "https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests-a-a416b3d8-eb59-40ff-9d77-f9318fc51105#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T15:14:00+00:00"
+    },
+    {
+      "titel": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
+      "link": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T15:03:41+00:00"
+    },
+    {
+      "titel": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T14:59:21+00:00"
+    },
+    {
+      "titel": "Tag der Deutschen Einheit: „Wir sind stärker als die Niedertracht“",
+      "link": "https://www.sueddeutsche.de/politik/tag-der-deutschen-einheit-steinmeier-bundespraesident-merz-bremen-rechtsextremismus-demokratie-li.3557632",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-03T14:35:24+00:00"
+    },
+    {
+      "titel": "Landesweit große Demos gegen Wohnungsnot in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T14:22:55+00:00"
+    },
+    {
+      "titel": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T14:03:39+00:00"
     },
     {
       "titel": "Impressionen vom Oktoberfest: Zwei Wochen Wiesn-Wahnsinn in Bildern",
@@ -43,88 +121,16 @@
       "veroeffentlicht": "2026-10-03T13:03:27+00:00"
     },
     {
-      "titel": "Unwetter: Deutsche Urlauberin stirbt durch Blitzeinschlag auf Rhodos",
-      "link": "https://www.spiegel.de/panorama/unwetter-deutsche-urlauberin-stirbt-durch-blitzeinschlag-auf-rhodos-a-e6961af0-5540-4ea5-bea7-4bfec5a2ee07#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T13:03:00+00:00"
-    },
-    {
       "titel": "Freigabe von G7-Energiereserven stößt auf gemischte Reaktionen",
       "link": "https://www.tagesschau.de/ausland/europa/freigabe-oelreserven-reaktionen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-03T12:54:53+00:00"
     },
     {
-      "titel": "Oktoberfest: „Bitte kommen Sie zu einem späteren Zeitpunkt“: Stadt München meldet volle Theresienwiese",
+      "titel": "Oktoberfest: Stadt München meldet volle Theresienwiese",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-03T12:32:51+00:00"
-    },
-    {
-      "titel": "Tag der Deutschen Einheit: Frank-Walter Steinmeier ruft zu Verteidigung der Demokratie auf",
-      "link": "https://www.spiegel.de/politik/tag-der-deutschen-einheit-frank-walter-steinmeier-ruft-zu-verteidigung-der-demokratie-auf-a-553ee67b-8809-4362-86b5-7a5694e07284#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T12:30:00+00:00"
-    },
-    {
-      "titel": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T12:29:08+00:00"
-    },
-    {
-      "titel": "Deutscher Schulpreis: Besuch in der Bertha-von-Suttner-Schule in Hessen",
-      "link": "https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen-a-ee10b1f6-b1fc-4523-af26-2bdeab618944#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T12:27:00+00:00"
-    },
-    {
-      "titel": "Russland beschießt erneut Brücke in Kiew",
-      "link": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T12:14:23+00:00"
-    },
-    {
-      "titel": "USA: Florida verzeichnet größten Denguefieber-Ausbruch seit Jahrzehnten",
-      "link": "https://www.spiegel.de/ausland/usa-florida-verzeichnet-groessten-denguefieber-ausbruch-seit-jahrzehnten-a-4164b989-1a06-4cf9-89bb-73a90292c0ed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T12:05:00+00:00"
-    },
-    {
-      "titel": "Brasilien: Bolsonaro-Sohn Flávio fordert Lula bei Präsidentschaftswahl heraus",
-      "link": "https://www.spiegel.de/ausland/brasilien-bolsonaro-sohn-flavio-fordert-lula-bei-praesidentschaftswahl-heraus-a-b935bf4f-1699-4d5b-b652-6e1a1dae8f06#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T11:08:00+00:00"
-    },
-    {
-      "titel": "Walfang-Konferenz in Australien: Schutzgebiet scheitert erneut",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-walschutz-konferenz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T10:56:13+00:00"
-    },
-    {
-      "titel": "Frankreich: Seit Montag mehr als 5.000 Festnahmen bei Schülerprotesten",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schuelerproteste-festnahmen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T10:47:51+00:00"
-    },
-    {
-      "titel": "Wohnungsnot: Kommunen fordern Konzept für ländlichen Raum",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T10:42:24+00:00"
-    },
-    {
-      "titel": "Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T09:54:11+00:00"
-    },
-    {
-      "titel": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant",
-      "link": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T09:11:57+00:00"
     },
     {
       "titel": "Gescheiterte Hinrichtung in Tennessee: „Dies ist im Namen von uns allen geschehen“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/bull-supercomputer-europa-digitale-souveraenitaet-ki-li.3556471",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-02T15:02:59+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Nach Druck der USA: G-7-Staaten geben 100 Millionen Barrel Öl und Diesel frei",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-diesel-energiekrise-eu-g7-zwischenwahlen-li.3530667",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-02T14:59:36+00:00"
     }
   ]
 }
