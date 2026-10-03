@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-10-03T17:58:13+00:00",
+  "aktualisiert": "2026-10-03T21:19:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nation League: England demütigt Kroatien mit 7:0",
+      "link": "https://www.spiegel.de/sport/fussball/nation-league-england-demuetigt-kroatien-mit-7-0-a-a5fe4205-6068-4258-8e29-aa88d557395c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T20:48:00+00:00"
+    },
+    {
+      "titel": "Bremen: Vier Polizisten bei Demonstration am Tag der Einheit verletzt",
+      "link": "https://www.spiegel.de/panorama/justiz/bremen-vier-polizisten-bei-demonstration-am-tag-der-einheit-verletzt-a-2b2abad6-9b37-4937-aa9a-3ce290c57652#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T19:32:00+00:00"
+    },
+    {
+      "titel": "US-Küstenwache sucht nach verschwundenem Flugzeug",
+      "link": "https://www.spiegel.de/ausland/us-kuestenwache-sucht-nach-verschwundenem-flugzeug-a-1bfcff98-24d8-48aa-adf0-58ec3ec08ad9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T18:41:00+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Stadt München hebt Warnung für überfüllte Theresienwiese auf",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-03T18:32:53+00:00"
+    },
+    {
+      "titel": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
+      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T18:28:32+00:00"
+    },
+    {
+      "titel": "Südtirol: Deutscher stürzt bei Meran 50 Meter in die Tiefe und stirbt",
+      "link": "https://www.spiegel.de/panorama/wanderunfall-deutscher-stuerzt-in-suedtirol-50-meter-in-die-tiefe-und-stirbt-a-df5340ed-0c96-464d-bb6a-6cc2ed6fa42b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T18:09:00+00:00"
+    },
+    {
+      "titel": "Frauen-Bundesliga: Bühl entscheidet das Spitzenspiel",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-eintracht-frankfurt-bundesliga-klara-buehl-fussball-li.3558002",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-03T18:03:28+00:00"
+    },
     {
       "titel": "USA: 9/11, Obama, Trump – so radikal hat sich Amerika in 30 Jahren verändert",
       "link": "https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss",
@@ -37,7 +79,7 @@
       "veroeffentlicht": "2026-10-03T17:12:00+00:00"
     },
     {
-      "titel": "Nicht jeder Ton saß, aber sie hatten offenbar Spaß – SPD- und CDU-Politiker singen in Hotelbar",
+      "titel": "Tag der Deutschen Einheit: SPD- und CDU-Politiker singen in Hotelbar",
       "link": "https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar-a-247581ed-d121-4f4a-ba1b-2bc8fa28688a#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-03T17:07:00+00:00"
@@ -53,30 +95,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-03T16:40:33+00:00"
-    },
-    {
-      "titel": "Michael Douglas und sein spätes Geständnis über Kathleen Turner",
-      "link": "https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner-a-c80af387-51e1-42dc-ac07-eafa624abd41#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T15:51:00+00:00"
-    },
-    {
-      "titel": "Hawaii: Berühmter Felsbogen eingestürzt - Warnung vor instabilen Klippen",
-      "link": "https://www.spiegel.de/panorama/hawaii-beruehmter-felsbogen-eingestuerzt-warnung-vor-instabilen-klippen-a-4b128500-252c-43e1-958c-97dcc0ff9301#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T15:37:00+00:00"
-    },
-    {
-      "titel": "Christa Pike: Gescheiterte Hinrichtung - Chef von Gefängnisbehörde tritt zurück",
-      "link": "https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck-a-43c9bc30-c8df-4498-ad57-401df0eaebe4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T15:35:00+00:00"
-    },
-    {
-      "titel": "München warnt vor Überfüllung des Oktoberfests",
-      "link": "https://www.spiegel.de/panorama/muenchen-warnt-vor-ueberfuellung-des-oktoberfests-a-a416b3d8-eb59-40ff-9d77-f9318fc51105#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T15:14:00+00:00"
     },
     {
       "titel": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
@@ -121,18 +139,6 @@
       "veroeffentlicht": "2026-10-03T13:03:27+00:00"
     },
     {
-      "titel": "Freigabe von G7-Energiereserven stößt auf gemischte Reaktionen",
-      "link": "https://www.tagesschau.de/ausland/europa/freigabe-oelreserven-reaktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T12:54:53+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Stadt München meldet volle Theresienwiese",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-03T12:32:51+00:00"
-    },
-    {
       "titel": "Gescheiterte Hinrichtung in Tennessee: „Dies ist im Namen von uns allen geschehen“",
       "link": "https://www.sueddeutsche.de/panorama/usa-hinrichtung-tennessee-hoechststrafe-death-penalty-information-centers-li.3557133",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-tipps-erster-wiesn-besuch-li.3313951",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-02T15:07:31+00:00"
-    },
-    {
-      "titel": "Supercomputer-Hersteller Bull: Diese Firma soll Europas Abhängigkeit von US-Tech-Konzernen verringern",
-      "link": "https://www.sueddeutsche.de/wirtschaft/bull-supercomputer-europa-digitale-souveraenitaet-ki-li.3556471",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-02T15:02:59+00:00"
     }
   ]
 }
