@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-10-04T20:11:31+00:00",
+  "aktualisiert": "2026-10-04T23:13:53+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "RAF Fairford: US-Luftwaffe zieht alle Bomber nach Anschlagsverdacht ab",
+      "link": "https://www.spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T22:56:00+00:00"
+    },
+    {
+      "titel": "Deutschland in der Einzelkritik: Pavlović überzeugt, Woltemade bleibt unsichtbar",
+      "link": "https://www.spiegel.de/sport/deutschland-in-der-einzelkritik-pavlovic-ueberzeugt-woltemade-bleibt-unsichtbar-a-c4b1a86c-bb21-4a88-bc3d-bea58af63bc4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T21:37:00+00:00"
+    },
+    {
+      "titel": "Deutschland unter Jürgen Klopp: Das Vorspiel ist vorbei. Es war so lala",
+      "link": "https://www.spiegel.de/sport/fussball/deutschland-unter-juergen-klopp-das-vorspiel-ist-vorbei-es-war-so-lala-a-a63cd344-fb2e-423d-8879-535c363b648a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T21:33:00+00:00"
+    },
+    {
+      "titel": "Deutschland in der Einzelkritik: Derry Scherhant arbeitet an seinem Aufstieg",
+      "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-griechenland-einzelkritik-li.3558326",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-04T21:31:02+00:00"
+    },
+    {
+      "titel": "Nations League: Klopps Ballett muss sich noch weiter eintanzen",
+      "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-griechenland-li.3558325",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-04T21:01:53+00:00"
+    },
+    {
+      "titel": "Oktoberfest: Aus is!",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-sonntag-ende-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-04T20:42:08+00:00"
+    },
     {
       "titel": "Israels Spieler tragen Armbinden in Gedenken an Terror-Opfer",
       "link": "https://www.spiegel.de/ausland/israels-spieler-tragen-armbinden-in-gedenken-an-terror-opfer-a-b65a6bbe-f010-4c7d-86fc-f6a01a775390#ref=rss",
@@ -49,7 +85,7 @@
       "veroeffentlicht": "2026-10-04T17:43:26+00:00"
     },
     {
-      "titel": "Gegen 7 Uhr steigt der Kanzler aus dem Zug, um 7:45 Uhr gibt es den ersten Luftalarm",
+      "titel": "Gegen 7 Uhr steigt der Kanzler aus dem Zug, um 7.45 Uhr gibt es den ersten Luftalarm",
       "link": "https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-04T17:38:00+00:00"
@@ -67,28 +103,10 @@
       "veroeffentlicht": "2026-10-04T16:43:05+00:00"
     },
     {
-      "titel": "AfD-Brandmauer: Hessens Regierungschef Boris Rhein plädiert für Ausschussposten für AfD",
-      "link": "https://www.spiegel.de/politik/afd-brandmauer-hessens-regierungschef-boris-rhein-plaediert-fuer-ausschussposten-fuer-afd-a-5090f962-e76d-4664-ae7b-ef19a74ee683#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T16:38:00+00:00"
-    },
-    {
       "titel": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
       "link": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-04T16:18:17+00:00"
-    },
-    {
-      "titel": "Nation League: Warum das Fußballspiel Irland gegen Israel politisch so aufgeladen ist",
-      "link": "https://www.spiegel.de/ausland/nation-league-warum-das-fussballspiel-irland-gegen-israel-politisch-so-aufgeladen-ist-a-a76c7fea-f24c-4933-bd68-68f422fccc8f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T16:12:00+00:00"
-    },
-    {
-      "titel": "Teppich von Bayeux: So will das British Museum die Warteschlangen verkürzen",
-      "link": "https://www.spiegel.de/panorama/teppich-von-bayeux-so-will-das-british-museum-die-warteschlangen-verkuerzen-a-5c06cff2-87cd-4807-a7c8-72b583100959#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T16:10:00+00:00"
     },
     {
       "titel": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
@@ -113,12 +131,6 @@
       "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-huthi-saudi-arabien-jemen-oel-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-04T14:43:39+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Wiesn 2026 stellt Besucherrekord auf",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-sonntag-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T14:19:00+00:00"
     },
     {
       "titel": "Wahl in Brasilien: Kommen die Bolsonaros zurück?",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/bayern-muenchen-giulia-gwinn-verletzung-bundesliga-spitzenspiel-eintracht-frankfurt-li.3558003",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-04T13:06:30+00:00"
-    },
-    {
-      "titel": "Nationaltorhüter: All inclusive für Jonas Urbig",
-      "link": "https://www.sueddeutsche.de/sport/klopp-urbig-griechenland-torhueter-aufstellung-li.3558230",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T12:41:35+00:00"
-    },
-    {
-      "titel": "Merz in Kiew: „Herr Putin, hören Sie diesen sinnlosen Krieg auf“",
-      "link": "https://www.sueddeutsche.de/politik/merz-kiew-ukraine-waffenlieferungen-li.3558025",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T12:40:07+00:00"
     }
   ]
 }
