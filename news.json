@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-10-03T21:19:03+00:00",
+  "aktualisiert": "2026-10-04T00:05:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Israelischer Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-03T23:54:49+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Russland droht mit massiven Angriffen auf Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-angriffe-reisewarnung-kiew-selenskij-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-03T22:00:12+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: OpenAI-Sicherheitsmitarbeiter kündigt und warnt vor Risiken",
+      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-openai-sicherheitsmitarbeiter-kuendigt-und-warnt-vor-risiken-a-8d157f6b-796b-434e-8372-090705ec7eda#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-03T21:48:00+00:00"
+    },
     {
       "titel": "Nation League: England demütigt Kroatien mit 7:0",
       "link": "https://www.spiegel.de/sport/fussball/nation-league-england-demuetigt-kroatien-mit-7-0-a-a5fe4205-6068-4258-8e29-aa88d557395c#ref=rss",
@@ -79,12 +97,6 @@
       "veroeffentlicht": "2026-10-03T17:12:00+00:00"
     },
     {
-      "titel": "Tag der Deutschen Einheit: SPD- und CDU-Politiker singen in Hotelbar",
-      "link": "https://www.spiegel.de/panorama/nicht-jeder-ton-sass-aber-sie-hatten-offenbar-spass-spd-und-cdu-politiker-singen-in-hotelbar-a-247581ed-d121-4f4a-ba1b-2bc8fa28688a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T17:07:00+00:00"
-    },
-    {
       "titel": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
       "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
       "quelle": "Tagesschau",
@@ -133,12 +145,6 @@
       "veroeffentlicht": "2026-10-03T13:20:37+00:00"
     },
     {
-      "titel": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T13:03:27+00:00"
-    },
-    {
       "titel": "Gescheiterte Hinrichtung in Tennessee: „Dies ist im Namen von uns allen geschehen“",
       "link": "https://www.sueddeutsche.de/panorama/usa-hinrichtung-tennessee-hoechststrafe-death-penalty-information-centers-li.3557133",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/markus-soeder-bayern-kroatien-zagreb-gas-pipeline-flugzeug-warnlampe-li.3552710",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-02T17:00:05+00:00"
-    },
-    {
-      "titel": "Kleiner Knigge für Oktoberfest-Neulinge: Mit diesen acht Dingen outen Sie sich sofort als Wiesn-Tourist",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-tipps-erster-wiesn-besuch-li.3313951",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-02T15:07:31+00:00"
     }
   ]
 }
