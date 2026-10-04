@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-04T00:05:09+00:00",
+  "aktualisiert": "2026-10-04T05:57:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,7 +7,103 @@
   },
   "meldungen": [
     {
-      "titel": "Israelischer Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
+      "titel": "Flucht und Migration in die EU: Asylanträge in Europa gehen um fast ein Viertel zurück",
+      "link": "https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck-a-ab0839aa-101d-4452-a52b-857942fea985#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T05:49:00+00:00"
+    },
+    {
+      "titel": "Russisches Haus in Berlin: Staatsanwaltschaft ermittelt wegen Sanktionsverstößen",
+      "link": "https://www.sueddeutsche.de/politik/russisches-haus-berlin-ermittlungen-staatsanwaltschaft-li.3557651",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-04T05:44:08+00:00"
+    },
+    {
+      "titel": "Lettland: Pro-europäische Regierungspartei von Andris Kulbergs gewinnt Parlamentswahl",
+      "link": "https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl-a-bba7c178-fa10-475f-ae52-cec9ac770ae3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T05:27:00+00:00"
+    },
+    {
+      "titel": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
+      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-04T05:00:52+00:00"
+    },
+    {
+      "titel": "Ostküste der USA: Küstenwache findet Trümmer von vermisstem Kleinflugzeug",
+      "link": "https://www.spiegel.de/panorama/ostkueste-der-usa-kuestenwache-findet-truemmer-von-vermisstem-kleinflugzeug-a-803a79c2-6106-4f0b-b235-347f534bda1f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T04:58:00+00:00"
+    },
+    {
+      "titel": "Krieg gegen die Ukraine: Kanzler Merz besucht Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/eilmeldung-merz-kiew-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-04T04:44:05+00:00"
+    },
+    {
+      "titel": "Russland-Ukraine-Krieg: Friedrich Merz überraschend in Kyjiw eingetroffen",
+      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen-a-c6e7607a-70a0-4a19-b913-46020ce53a2d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T04:23:00+00:00"
+    },
+    {
+      "titel": "Überraschender Besuch: Merz in Kiew: „Auf unsere Hilfe könnt ihr weiter zählen“",
+      "link": "https://www.sueddeutsche.de/politik/kiew-friedrich-merz-ukraine-militaerhilfe-russland-li.3558024",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-04T04:13:52+00:00"
+    },
+    {
+      "titel": "Netflix-Serie »East of Eden«: Ist die Neuverfilmung besser als der James-Dean-Klassiker?",
+      "link": "https://www.spiegel.de/kultur/tv/netflix-serie-east-of-eden-ist-die-neuverfilmung-besser-als-der-james-dean-klassiker-a-87575ec7-db60-48f1-aaba-f194c4f06ca4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T04:00:00+00:00"
+    },
+    {
+      "titel": "Lippstadt in NRW: Unbekannter sticht 21-Jährigem in den Rücken",
+      "link": "https://www.spiegel.de/panorama/justiz/lippstadt-in-nrw-unbekannter-sticht-21-jaehrigem-in-den-ruecken-a-8e112114-7499-4786-a444-9925630ac047#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T03:50:00+00:00"
+    },
+    {
+      "titel": "Beziehung: Wie vegane und nicht vegane Partner ihren Alltag organisieren",
+      "link": "https://www.spiegel.de/partnerschaft/beziehung-wie-vegane-und-nicht-vegane-partner-ihren-alltag-organisieren-a-fa8ac109-e5b9-464d-acf3-c1a94c23ba88#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T03:30:00+00:00"
+    },
+    {
+      "titel": "Ernährung in der Partnerschaft: Wenn das Essen zu Konflikten führt - und was helfen kann",
+      "link": "https://www.spiegel.de/partnerschaft/ernaehrung-in-der-partnerschaft-wenn-das-essen-zu-konflikten-fuehrt-und-was-helfen-kann-a-c2129f2a-bcf5-432a-9f8f-7c927d87b61b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T03:30:00+00:00"
+    },
+    {
+      "titel": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
+      "link": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-04T03:04:08+00:00"
+    },
+    {
+      "titel": "Donald Trump postet im Streit über Zeitumstellung Handynummer von Tom Cotton",
+      "link": "https://www.spiegel.de/ausland/donald-trump-postet-im-streit-ueber-zeitumstellung-handynummer-von-tom-cotton-a-5b166b1b-c367-445e-9934-9aed4646e3a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T02:28:00+00:00"
+    },
+    {
+      "titel": "Hessischer Ministerpräsident Rhein will AfD Ausschussvorsitze ermöglichen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-04T02:05:39+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn will Familienticket dauerhaft anbieten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-04T00:51:20+00:00"
+    },
+    {
+      "titel": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-03T23:54:49+00:00"
@@ -19,46 +115,10 @@
       "veroeffentlicht": "2026-10-03T22:00:12+00:00"
     },
     {
-      "titel": "Künstliche Intelligenz: OpenAI-Sicherheitsmitarbeiter kündigt und warnt vor Risiken",
-      "link": "https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-openai-sicherheitsmitarbeiter-kuendigt-und-warnt-vor-risiken-a-8d157f6b-796b-434e-8372-090705ec7eda#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T21:48:00+00:00"
-    },
-    {
-      "titel": "Nation League: England demütigt Kroatien mit 7:0",
-      "link": "https://www.spiegel.de/sport/fussball/nation-league-england-demuetigt-kroatien-mit-7-0-a-a5fe4205-6068-4258-8e29-aa88d557395c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T20:48:00+00:00"
-    },
-    {
-      "titel": "Bremen: Vier Polizisten bei Demonstration am Tag der Einheit verletzt",
-      "link": "https://www.spiegel.de/panorama/justiz/bremen-vier-polizisten-bei-demonstration-am-tag-der-einheit-verletzt-a-2b2abad6-9b37-4937-aa9a-3ce290c57652#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T19:32:00+00:00"
-    },
-    {
-      "titel": "US-Küstenwache sucht nach verschwundenem Flugzeug",
-      "link": "https://www.spiegel.de/ausland/us-kuestenwache-sucht-nach-verschwundenem-flugzeug-a-1bfcff98-24d8-48aa-adf0-58ec3ec08ad9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T18:41:00+00:00"
-    },
-    {
       "titel": "Oktoberfest: Stadt München hebt Warnung für überfüllte Theresienwiese auf",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-03T18:32:53+00:00"
-    },
-    {
-      "titel": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
-      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T18:28:32+00:00"
-    },
-    {
-      "titel": "Südtirol: Deutscher stürzt bei Meran 50 Meter in die Tiefe und stirbt",
-      "link": "https://www.spiegel.de/panorama/wanderunfall-deutscher-stuerzt-in-suedtirol-50-meter-in-die-tiefe-und-stirbt-a-df5340ed-0c96-464d-bb6a-6cc2ed6fa42b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T18:09:00+00:00"
     },
     {
       "titel": "Frauen-Bundesliga: Bühl entscheidet das Spitzenspiel",
@@ -67,34 +127,10 @@
       "veroeffentlicht": "2026-10-03T18:03:28+00:00"
     },
     {
-      "titel": "USA: 9/11, Obama, Trump – so radikal hat sich Amerika in 30 Jahren verändert",
-      "link": "https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T17:50:00+00:00"
-    },
-    {
       "titel": "Holocaust-Überlebende Irene Butter in den USA verstorben",
       "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-03T17:41:01+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Russland warnt Ausländer vor Aufenthalt in Kyjiw",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T17:32:00+00:00"
-    },
-    {
-      "titel": "Bayern: Dachzelt-Diebe scheitern an Tiefgaragendecke",
-      "link": "https://www.spiegel.de/panorama/justiz/bayern-dachzelt-diebe-scheitern-an-tiefgaragendecke-a-6214fcab-d4bf-4cba-8f00-8ffb5f3ffbcd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T17:16:00+00:00"
-    },
-    {
-      "titel": "Irak - Abzug der US-Truppen: Was wird aus dem Land? Eine Reportage",
-      "link": "https://www.spiegel.de/ausland/irak-abzug-der-us-truppen-was-wird-aus-dem-land-eine-reportage-a-8a51b9f1-75f0-4ebb-bda9-d3f1e6121df3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-03T17:12:00+00:00"
     },
     {
       "titel": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
@@ -109,34 +145,10 @@
       "veroeffentlicht": "2026-10-03T16:40:33+00:00"
     },
     {
-      "titel": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
-      "link": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T15:03:41+00:00"
-    },
-    {
-      "titel": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T14:59:21+00:00"
-    },
-    {
       "titel": "Tag der Deutschen Einheit: „Wir sind stärker als die Niedertracht“",
       "link": "https://www.sueddeutsche.de/politik/tag-der-deutschen-einheit-steinmeier-bundespraesident-merz-bremen-rechtsextremismus-demokratie-li.3557632",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-03T14:35:24+00:00"
-    },
-    {
-      "titel": "Landesweit große Demos gegen Wohnungsnot in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T14:22:55+00:00"
-    },
-    {
-      "titel": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-03T14:03:39+00:00"
     },
     {
       "titel": "Impressionen vom Oktoberfest: Zwei Wochen Wiesn-Wahnsinn in Bildern",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-trump-tanker-handel-li.3530668",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-03T00:56:50+00:00"
-    },
-    {
-      "titel": "Nach Pisa-Schock: Sechs Stunden Nachsitzen für Bayerns Grundschüler",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-grundschulen-unterricht-pisa-mehr-stunden-lehrermangel-li.3555593",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-02T17:04:00+00:00"
-    },
-    {
-      "titel": "Warnlampe im Cockpit: Söders Tagestrip nach Kroatien gerät auf der Zielgeraden ins Schlingern",
-      "link": "https://www.sueddeutsche.de/bayern/markus-soeder-bayern-kroatien-zagreb-gas-pipeline-flugzeug-warnlampe-li.3552710",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-02T17:00:05+00:00"
     }
   ]
 }
