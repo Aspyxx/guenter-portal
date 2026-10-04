@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-10-04T17:03:10+00:00",
+  "aktualisiert": "2026-10-04T20:11:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Israels Spieler tragen Armbinden in Gedenken an Terror-Opfer",
+      "link": "https://www.spiegel.de/ausland/israels-spieler-tragen-armbinden-in-gedenken-an-terror-opfer-a-b65a6bbe-f010-4c7d-86fc-f6a01a775390#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T19:30:00+00:00"
+    },
+    {
+      "titel": "Cornell University: Anwalt berichtet von Drohungen gegen »Jane Doe«",
+      "link": "https://www.spiegel.de/ausland/cornell-university-anwalt-berichtet-von-drohungen-gegen-jane-doe-a-294edb3b-c9f0-4192-ac54-c03faa20e873#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T19:19:00+00:00"
+    },
+    {
+      "titel": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-04T18:58:00+00:00"
+    },
+    {
+      "titel": "Alexander Karp: Palantir-Chef lässt 15.000 Hektar Wald in Schweden kaufen",
+      "link": "https://www.spiegel.de/ausland/alexander-karp-palantir-chef-laesst-15-000-hektar-wald-in-schweden-kaufen-a-506afcaa-a0bf-4b3d-b656-4382470a7911#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T18:56:00+00:00"
+    },
+    {
+      "titel": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-04T18:40:10+00:00"
+    },
+    {
+      "titel": "Deutschland – Griechenland im Liveticker: DFB-Team hofft in der Nations League auf Sieg in Thessaloniki",
+      "link": "https://www.spiegel.de/sport/fussball/deutschland-griechenland-im-liveticker-dfb-team-hofft-in-der-nations-league-auf-sieg-in-thessaloniki-a-a6e83161-46f6-48da-9e83-83340a27bee3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T18:35:00+00:00"
+    },
+    {
+      "titel": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-04T17:43:26+00:00"
+    },
+    {
+      "titel": "Gegen 7 Uhr steigt der Kanzler aus dem Zug, um 7:45 Uhr gibt es den ersten Luftalarm",
+      "link": "https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T17:38:00+00:00"
+    },
+    {
+      "titel": "Bad Neuenahr-Ahrweiler: Unbekannter zerkratzt Autos und hinterlässt Nummer eine Frau",
+      "link": "https://www.spiegel.de/panorama/justiz/bad-neuenahr-ahrweiler-unbekannter-zerkratzt-autos-und-hinterlaesst-nummer-eine-frau-a-e0c9baac-56d2-4a54-a487-56419557e010#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-04T17:09:00+00:00"
+    },
     {
       "titel": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
       "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html",
@@ -43,46 +97,10 @@
       "veroeffentlicht": "2026-10-04T16:06:59+00:00"
     },
     {
-      "titel": "Jemen: Regierung kündigt Großoffensive gegen die Huthis an",
-      "link": "https://www.spiegel.de/ausland/jemen-regierung-kuendigt-grossoffensive-gegen-die-huthis-an-a-ab8c8d68-ae38-426e-8cdd-db696817fd59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T15:59:00+00:00"
-    },
-    {
       "titel": "Manöver “Dispersed Operations“: Kampfjets starten zu Übungszwecken vom Flughafen Nürnberg",
       "link": "https://www.sueddeutsche.de/bayern/bayern-nuernberg-flughafen-kampfjets-uebung-li.3558306",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-04T15:44:31+00:00"
-    },
-    {
-      "titel": "Tennis: Novak Djokovic bremst Alexander Zverev bei der Jagd auf die Weltranglistenspitze aus",
-      "link": "https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus-a-fc47a7c4-9e02-4440-b964-1ed99b1f236f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T15:21:00+00:00"
-    },
-    {
-      "titel": "»Tatort« heute aus Ludwigshafen: »Explosive Mischung« im Schnellcheck",
-      "link": "https://www.spiegel.de/kultur/tv/tatort-heute-aus-ludwigshafen-explosive-mischung-im-schnellcheck-a-f8f94eac-8646-472b-8b6e-dd1316376956#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T15:18:00+00:00"
-    },
-    {
-      "titel": "A2 in Niedersachsen: Hochzeitskorso bremst Verkehr aus",
-      "link": "https://www.spiegel.de/panorama/justiz/a2-in-niedersachsen-hochzeitskorso-bremst-verkehr-aus-a-f8c57d91-7275-4d99-b13b-26c1d07ddcb0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T15:04:00+00:00"
-    },
-    {
-      "titel": "Xi Jinping bei Donald Trump: Spekulationen über Gesundheitszustand von Chinas Staatschef",
-      "link": "https://www.spiegel.de/ausland/xi-jinping-bei-donald-trump-spekulationen-ueber-gesundheitszustand-von-chinas-staatschef-a-c762a865-a6eb-4ee4-8029-ef33d13c559e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T15:02:00+00:00"
-    },
-    {
-      "titel": "Formel 1 in Malaysia: Fahrer kritisieren Software-Probleme",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-in-malaysia-fahrer-kritisieren-software-probleme-a-d604865a-9308-4eaa-a71c-14203ac2f911#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T14:57:00+00:00"
     },
     {
       "titel": "Hamburg behält Vorsitz der Justizministerkonferenz",
@@ -127,18 +145,6 @@
       "veroeffentlicht": "2026-10-04T13:36:18+00:00"
     },
     {
-      "titel": "Merz-Besuch in Kiew: Eine Milliarde Militärhilfe für die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T13:33:30+00:00"
-    },
-    {
-      "titel": "Mehrere Verletzte bei Campingplatz-Brand am Gardasee",
-      "link": "https://www.tagesschau.de/ausland/europa/gardasee-brand-campingplatz-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T13:32:18+00:00"
-    },
-    {
       "titel": "Großbritannien: Grüne setzen Zionismus mit Rassismus gleich",
       "link": "https://www.sueddeutsche.de/politik/britische-gruene-zionismus-grossbritannien-brighton-parteitag-2026-li.3557248",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/merz-kiew-ukraine-waffenlieferungen-li.3558025",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-04T12:40:07+00:00"
-    },
-    {
-      "titel": "Rekord-Wiesn: 7,4 Millionen Besucher auf dem Oktoberfest",
-      "link": "https://www.tagesschau.de/inland/oktoberfest-bilanz-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T12:32:14+00:00"
     }
   ]
 }
