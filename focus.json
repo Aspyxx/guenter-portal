@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-04T14:28:21+00:00",
+  "aktualisiert": "2026-10-04T18:15:31+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Stuttgart – Union Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
+      "titel": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Eine Milliarde Militärhilfe für die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
+      "titel": "Was macht die Auszeichnung so bedeutend?",
+      "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Kommen die Bolsonaros zurück?",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-160.html",
+      "titel": "Tote bei schweren Unwettern in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     }
   ]
 }
