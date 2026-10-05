@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-05T02:04:27+00:00",
+  "aktualisiert": "2026-10-05T09:07:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-      "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
+      "titel": "Epstein-Skandal: Ex-Prinz Andrew geht wegen seiner Festnahme im Februar gegen Polizei vor",
+      "link": "https://www.spiegel.de/panorama/justiz/epstein-skandal-ex-prinz-andrew-geht-wegen-seiner-festnahme-im-februar-gegen-polizei-vor-a-64a63b21-4f29-4b99-a1d6-45c8083aacc1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T09:02:00+00:00"
+    },
+    {
+      "titel": "Kash Patel: FBI-Chef ist verlobt – seine Freundin hat »die Justiz eingeschaltet«",
+      "link": "https://www.spiegel.de/ausland/kash-patel-fbi-chef-ist-verlobt-seine-freundin-hat-die-justiz-eingeschaltet-a-a6ceb75e-10b4-4f66-9511-4ec3d0154c04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T08:57:00+00:00"
+    },
+    {
+      "titel": "Solidarität mit Studentin \"Jane Doe\" nach Vergewaltigungsklage",
+      "link": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T01:56:23+00:00"
+      "veroeffentlicht": "2026-10-05T08:34:36+00:00"
     },
     {
-      "titel": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
+      "titel": "»Digger«: Film von Alejandro G. Iñárritu mit Tom Cruise floppt an Kinokassen",
+      "link": "https://www.spiegel.de/kultur/kino/digger-film-von-alejandro-g-inarritu-mit-tom-cruise-floppt-an-kinokassen-a-a5917fd0-e1f6-4373-bf35-034f21196857#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T08:31:00+00:00"
+    },
+    {
+      "titel": "Dänemark: Unbekannte verschaffen sich Zugriff auf Melderegister und Daten von 8,8 Millionen Menschen",
+      "link": "https://www.spiegel.de/netzwelt/daenemark-unbekannte-verschaffen-sich-zugriff-auf-melderegister-und-daten-von-8-8-millionen-menschen-a-e250ae9e-84b7-45ee-a15b-58a5cf3d1a9b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T08:23:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: Jemenitische Regierungstruppen greifen Huthi-Stellungen an",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-huthi-saudi-arabien-jemen-oel-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T08:20:05+00:00"
+    },
+    {
+      "titel": "Cristiano Ronaldo: Portugals Trainer hält Rückkehr in Nationalteam offen",
+      "link": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-portugals-trainer-haelt-rueckkehr-in-nationalteam-offen-a-22577fa3-d984-40e3-84f4-139ac765c91a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T08:20:00+00:00"
+    },
+    {
+      "titel": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T01:35:56+00:00"
+      "veroeffentlicht": "2026-10-05T08:11:20+00:00"
     },
     {
-      "titel": "Lula und Bolsonaro-Sohn Flávio müssen in Brasilien in die Stichwahl",
-      "link": "https://www.spiegel.de/ausland/lula-und-bolsonaro-sohn-flavio-muessen-in-brasilien-in-die-stichwahl-a-fd58869c-7522-423c-8f26-753ace8ccfe8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T00:52:00+00:00"
+      "titel": "Oktoberfest: So schön war der letzte Wiesn-Abend",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-ende-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T08:02:00+00:00"
     },
     {
-      "titel": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
-      "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+      "titel": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T00:33:07+00:00"
+      "veroeffentlicht": "2026-10-05T07:52:58+00:00"
     },
     {
-      "titel": "DFB-Remis gegen Griechenland: «Die Klopp-Ära kommt nicht in Gang» – die Pressestimmen",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-remis-gegen-griechenland-die-klopp-aera-kommt-nicht-in-gang-die-pressestimmen-a-4f619207-f675-4769-a42e-1892e64f870a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T23:39:00+00:00"
+      "titel": "Marktbericht: DAX mit angezogener Handbremse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-05T07:51:50+00:00"
     },
     {
-      "titel": "RAF Fairford: US-Luftwaffe zieht alle Bomber nach Anschlagsverdacht ab",
-      "link": "https://www.spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T22:56:00+00:00"
+      "titel": "Spanien: Regierungschef Sánchez kündigt vorgezogene Neuwahl an",
+      "link": "https://www.sueddeutsche.de/politik/spanien-regierung-pedro-sanchez-erklaerung-li.3558493",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T07:50:51+00:00"
     },
     {
-      "titel": "Deutschland in der Einzelkritik: Pavlović überzeugt, Woltemade bleibt unsichtbar",
-      "link": "https://www.spiegel.de/sport/deutschland-in-der-einzelkritik-pavlovic-ueberzeugt-woltemade-bleibt-unsichtbar-a-c4b1a86c-bb21-4a88-bc3d-bea58af63bc4#ref=rss",
+      "titel": "Linke zieht nun gegen Katherina Reiche vors Verfassungsgericht",
+      "link": "https://www.spiegel.de/politik/deutschland/linke-zieht-nun-gegen-katherina-reiche-vors-verfassungsgericht-a-46e8d59b-33e1-4fa2-bd9f-c0dbff123f85#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T21:37:00+00:00"
+      "veroeffentlicht": "2026-10-05T07:37:00+00:00"
     },
     {
-      "titel": "Deutschland unter Jürgen Klopp: Das Vorspiel ist vorbei. Es war so lala",
-      "link": "https://www.spiegel.de/sport/fussball/deutschland-unter-juergen-klopp-das-vorspiel-ist-vorbei-es-war-so-lala-a-a63cd344-fb2e-423d-8879-535c363b648a#ref=rss",
+      "titel": "Vietnam: Männerbande soll an die 2700 Katzen zum Schlachten gestohlen haben",
+      "link": "https://www.spiegel.de/panorama/vietnam-maennerbande-soll-an-die-2700-katzen-zum-schlachten-gestohlen-haben-a-0deaca85-08e1-41db-a54d-c60f56608d26#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T21:33:00+00:00"
+      "veroeffentlicht": "2026-10-05T07:34:00+00:00"
+    },
+    {
+      "titel": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-05T07:22:10+00:00"
+    },
+    {
+      "titel": "Spanien: Pedro Sánchez kündigt nach Abstimmungsniederlage Neuwahlen an",
+      "link": "https://www.spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an-a-120740d7-5959-4ed5-b5e6-4857ec59857b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T07:16:00+00:00"
+    },
+    {
+      "titel": "Nürnberg: Pokémon-Ausstellung: Pikachu zieht in den Weltraum",
+      "link": "https://www.sueddeutsche.de/bayern/nuernberg-pokemon-ausstellung-zukunftsmuseum-weltraum-li.3558441",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T07:15:00+00:00"
+    },
+    {
+      "titel": "Energiepreise: Rechner zeigt, wie teuer der Winter für Sie wird",
+      "link": "https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird-a-e34814a0-0f22-42d7-ad36-148a9b206647#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T07:13:00+00:00"
+    },
+    {
+      "titel": "Australien: Alge kann Methan-Ausstoß von Rindern reduzieren",
+      "link": "https://www.tagesschau.de/wissen/klima/australien-methan-kuehe-futter-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-05T07:03:08+00:00"
+    },
+    {
+      "titel": "Ukraine: Neuer deutscher Besuch, neue russische Angriffe",
+      "link": "https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-05T07:02:36+00:00"
+    },
+    {
+      "titel": "Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-05T06:54:00+00:00"
+    },
+    {
+      "titel": "Stichwahl nötig: Brasilien rückt weiter nach rechts",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-ergebnis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-05T05:41:41+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Schulze schließt CDU-Unterstützung bei Siegmund-Wahl aus",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-berlin-schulze-afd-wahl-ministerpraesident-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T04:48:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Linke zieht gegen Ministerin Reiche vor Bundesverfassungsgericht",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-linke-reiche-video-wirtschaftsministerin-bundesverfassungsgericht-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T04:47:15+00:00"
+    },
+    {
+      "titel": "Präsidentschaftswahl in Brasilien: Flávio Bolsonaro geht als Sieger aus der ersten Runde hervor",
+      "link": "https://www.sueddeutsche.de/politik/brasilien-wahl-bolsonaro-lula-stichwahl-usa-trump-li.3558160",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T03:35:08+00:00"
     },
     {
       "titel": "Deutschland in der Einzelkritik: Derry Scherhant arbeitet an seinem Aufstieg",
@@ -62,111 +164,9 @@
     },
     {
       "titel": "Nations League: Klopps Ballett muss sich noch weiter eintanzen",
-      "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-griechenland-li.3558325",
+      "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-griechenland-spielbericht-klopp-li.3558325",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-04T21:01:53+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Aus is!",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-sonntag-ende-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T20:42:08+00:00"
-    },
-    {
-      "titel": "Israels Spieler tragen Armbinden in Gedenken an Terror-Opfer",
-      "link": "https://www.spiegel.de/ausland/israels-spieler-tragen-armbinden-in-gedenken-an-terror-opfer-a-b65a6bbe-f010-4c7d-86fc-f6a01a775390#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T19:30:00+00:00"
-    },
-    {
-      "titel": "Cornell University: Anwalt berichtet von Drohungen gegen »Jane Doe«",
-      "link": "https://www.spiegel.de/ausland/cornell-university-anwalt-berichtet-von-drohungen-gegen-jane-doe-a-294edb3b-c9f0-4192-ac54-c03faa20e873#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T19:19:00+00:00"
-    },
-    {
-      "titel": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T18:58:00+00:00"
-    },
-    {
-      "titel": "Alexander Karp: Palantir-Chef lässt 15.000 Hektar Wald in Schweden kaufen",
-      "link": "https://www.spiegel.de/ausland/alexander-karp-palantir-chef-laesst-15-000-hektar-wald-in-schweden-kaufen-a-506afcaa-a0bf-4b3d-b656-4382470a7911#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T18:56:00+00:00"
-    },
-    {
-      "titel": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T18:40:10+00:00"
-    },
-    {
-      "titel": "Deutschland – Griechenland im Liveticker: DFB-Team hofft in der Nations League auf Sieg in Thessaloniki",
-      "link": "https://www.spiegel.de/sport/fussball/deutschland-griechenland-im-liveticker-dfb-team-hofft-in-der-nations-league-auf-sieg-in-thessaloniki-a-a6e83161-46f6-48da-9e83-83340a27bee3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-04T18:35:00+00:00"
-    },
-    {
-      "titel": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T17:43:26+00:00"
-    },
-    {
-      "titel": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T16:43:05+00:00"
-    },
-    {
-      "titel": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T16:18:17+00:00"
-    },
-    {
-      "titel": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-      "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-04T16:06:59+00:00"
-    },
-    {
-      "titel": "Manöver “Dispersed Operations“: Kampfjets starten zu Übungszwecken vom Flughafen Nürnberg",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-nuernberg-flughafen-kampfjets-uebung-li.3558306",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T15:44:31+00:00"
-    },
-    {
-      "titel": "Newsblog zum Nahost-Krieg: Huthi-Miliz meldet Angriffe auf Ölanlagen in Saudi-Arabien",
-      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-huthi-saudi-arabien-jemen-oel-li.3530668",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T14:43:39+00:00"
-    },
-    {
-      "titel": "Oktoberfest-Bilanz: Die Sonnen-Wiesn: Noch nie zog es so viele aufs Oktoberfest",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-besucherrekord-wiesn-li.3547284",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T13:54:44+00:00"
-    },
-    {
-      "titel": "Formel 1: Max Verstappen erlöst Red Bull nach 301 Tagen",
-      "link": "https://www.sueddeutsche.de/sport/formel-1-max-verstappen-sieg-bahrain-malaysia-chaos-software-li.3558165",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T13:36:18+00:00"
-    },
-    {
-      "titel": "Großbritannien: Grüne setzen Zionismus mit Rassismus gleich",
-      "link": "https://www.sueddeutsche.de/politik/britische-gruene-zionismus-grossbritannien-brighton-parteitag-2026-li.3557248",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T13:17:47+00:00"
-    },
-    {
-      "titel": "Frauen-Bundesliga: Schreckmoment für die Bayern – und für den Bundestrainer",
-      "link": "https://www.sueddeutsche.de/sport/bayern-muenchen-giulia-gwinn-verletzung-bundesliga-spitzenspiel-eintracht-frankfurt-li.3558003",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-04T13:06:30+00:00"
     }
   ]
 }
