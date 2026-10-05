@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-05T13:06:26+00:00",
+  "aktualisiert": "2026-10-05T21:19:37+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Euro fällt unter 1,12 Dollar",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-euro-frankreich-spanien-100.html",
+      "titel": "Preise für Benzin und Diesel steigen wieder leicht",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-120.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Influencer",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html",
+      "titel": "Warum die Linke wegen eines Insta-Posts bis vor das Verfassungsgericht zieht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
+      "titel": "Shida Bazyar erhält Deutschen Buchpreis 2026",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-shida-bazyar-buchpreis-2026-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     }
   ]
 }
