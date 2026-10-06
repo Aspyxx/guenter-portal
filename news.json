@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-06T14:13:27+00:00",
+  "aktualisiert": "2026-10-06T19:35:36+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Sachsen-Anhalt: Rechtsextremer AfD-Mann wird Landtagspräsident",
-      "link": "https://www.spiegel.de/politik/sachsen-anhalt-rechtsextremer-afd-mann-wird-landtagspraesident-a-dc6cf7cf-1516-4785-b0af-faba8068633a#ref=rss",
+      "titel": "Cornell: Juristin Sally Yates soll Umgang der Universität mit »Jane Doe«-Fall prüfen",
+      "link": "https://www.spiegel.de/ausland/cornell-juristin-sally-yates-soll-umgang-der-universitaet-mit-jane-doe-fall-pruefen-a-e47620cc-c130-422f-ba4d-c2045c41a767#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T13:57:00+00:00"
+      "veroeffentlicht": "2026-10-06T19:30:00+00:00"
     },
     {
-      "titel": "Liveblog Sachsen-Anhalt: Die Wahl der Vizepräsidenten beginnt – AfD und BSW ändern Geschäftsordnung",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-liveblog-landtagspraesident-tobias-rausch-wahl-vizepraesidenten-li.3556472",
+      "titel": "Karl Bushby: Nach 28 Jahren kehrt der Weltumwanderer nach England zurück",
+      "link": "https://www.spiegel.de/panorama/karl-bushby-nach-28-jahren-kehrt-der-weltumwanderer-nach-england-zurueck-a-11078e97-d245-480e-b4e9-25ab5159cc04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T19:25:00+00:00"
+    },
+    {
+      "titel": "August Hanning: Festnahme des Ex-BND-Chefs erschüttert Sicherheitsapparat",
+      "link": "https://www.spiegel.de/panorama/justiz/august-hanning-festnahme-des-ex-bnd-chefs-erschuettert-sicherheitsapparat-a-0120eb6b-d2f0-400c-8d31-b9a967acbd98#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T19:12:00+00:00"
+    },
+    {
+      "titel": "Debatte in Israel: Wer trägt die Verantwortung für das FlyDubai-Desaster?",
+      "link": "https://www.spiegel.de/ausland/debatte-in-israel-wer-traegt-die-verantwortung-fuer-das-flydubai-desaster-a-302232e8-7493-482f-b0e9-17dd28fd7ce4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T19:00:00+00:00"
+    },
+    {
+      "titel": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
+      "link": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T18:57:31+00:00"
+    },
+    {
+      "titel": "SPD-Fraktion startet Protestmarsch durch Berlin, Pistorius stimmt Nationalhymne an",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-fraktion-startet-protestmarsch-durch-berlin-pistorius-stimmt-nationalhymne-an-a-1ad545c7-0197-47d3-9c7b-c796a4320885#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T18:48:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Erleben wir eine Neuauflage der 68er-Revolte?",
+      "link": "https://www.spiegel.de/ausland/frankreich-erleben-wir-eine-neuauflage-der-68er-revolte-a-e69fec9f-b0cc-4ffd-a1ef-6e2342930697#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T18:20:00+00:00"
+    },
+    {
+      "titel": "Landarztquote: Vertragsstrafe bestätigt – Gericht stärkt Freiheiten für einige Studierende",
+      "link": "https://www.spiegel.de/panorama/bildung/landarztquote-vertragsstrafe-bestaetigt-gericht-staerkt-freiheiten-fuer-einige-studierende-a-030895bd-9574-4227-b2ec-1345211651df#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T18:15:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Selenskij warnt vor bevorstehendem Großangriff Russlands",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-warnung-grossangriff-russland-li.3549696",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T13:54:47+00:00"
+      "veroeffentlicht": "2026-10-06T18:13:19+00:00"
     },
     {
-      "titel": "Krebs am Arbeitsplatz: EU will Grenzwerte für gesundheitsschädliche Stoffe verschärfen",
-      "link": "https://www.spiegel.de/wirtschaft/krebs-am-arbeitsplatz-eu-will-grenzwerte-fuer-gesundheitsschaedliche-stoffe-verschaerfen-a-f4182db3-db96-4c17-ad3e-d6acc8bf5ea0#ref=rss",
+      "titel": "Sachsen-Anhalt: AfD-Politiker Rausch wird Landtagspräsident",
+      "link": "https://www.spiegel.de/politik/sachsen-anhalt-afd-politiker-rausch-wird-landtagspraesident-a-4808a020-6805-40a5-9170-6c35b3742347#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T13:46:00+00:00"
+      "veroeffentlicht": "2026-10-06T18:04:00+00:00"
     },
     {
-      "titel": "Russland: Was über den Pestverdacht nach dem Tod einer Frau in Sibirien bekannt ist",
-      "link": "https://www.spiegel.de/wissenschaft/russland-was-ueber-den-pestverdacht-nach-dem-tod-einer-frau-in-sibirien-bekannt-ist-a-aa70fea6-c700-4abb-8975-2a6b28760fd0#ref=rss",
+      "titel": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
+      "link": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T18:01:14+00:00"
+    },
+    {
+      "titel": "Donald Trump: Künstler stellt im EU-Parlament nackte Statue des US-Präsidenten aus",
+      "link": "https://www.spiegel.de/ausland/donald-trump-kuenstler-stellt-im-eu-parlament-nackte-statue-des-us-praesidenten-aus-a-985126d5-7562-4fe2-9218-6b5871e8ecf1#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T13:45:00+00:00"
+      "veroeffentlicht": "2026-10-06T17:44:00+00:00"
     },
     {
-      "titel": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
+      "titel": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T13:42:34+00:00"
+      "veroeffentlicht": "2026-10-06T17:43:36+00:00"
     },
     {
-      "titel": "Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen",
-      "link": "https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html",
+      "titel": "Marktbericht: Neue Zuversicht an der Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T13:42:12+00:00"
+      "veroeffentlicht": "2026-10-06T17:10:54+00:00"
     },
     {
-      "titel": "Separatistenführer Puigdemont kann nach Spanien zurückkehren",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-puigdemont-verfassungsgericht-100.html",
+      "titel": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T13:40:37+00:00"
+      "veroeffentlicht": "2026-10-06T17:05:00+00:00"
     },
     {
-      "titel": "Tankstellen: Verstöße gegen die 12-Uhr-Regel werden weniger",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/zwoelf-uhr-tank-regel-100.html",
+      "titel": "Propaganda, Dementi und Unklarheit im Jemen-Krieg",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-propaganda-kaempfe-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T13:29:54+00:00"
+      "veroeffentlicht": "2026-10-06T16:31:55+00:00"
     },
     {
-      "titel": "Hollywood: Paramount finalisiert Warner-Übernahme",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/hollywood-paramount-finalisiert-warner-uebernahme-a-7fe775d9-2793-4ef8-88cc-bf426814102e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T13:23:00+00:00"
+      "titel": "Sachsen-Anhalt: AfD-Erfolg bringt CDU und Schulze in Bedrängnis",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T16:22:39+00:00"
     },
     {
-      "titel": "Tesla Grünheide: Abgelehnter Bewerber droht mit Anschlägen und schickt Schweineaugen",
-      "link": "https://www.spiegel.de/karriere/tesla-gruenheide-abgelehnter-bewerber-droht-mit-anschlaegen-und-schickt-schweineaugen-a-26079233-cae2-44a7-8c59-d915f7850cbe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T13:12:00+00:00"
+      "titel": "Sachsen-Anhalt: Ein Meilenstein für die AfD auf dem Weg zur Macht",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-afd-landtagspraesident-li.3557701",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T16:18:47+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident",
+      "link": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T16:15:19+00:00"
+    },
+    {
+      "titel": "Liveblog Sachsen-Anhalt: AfD stellt mit Tillschneider auch einen Vizepräsidenten - SPD-Kandidat fällt durch",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-liveblog-landtagsvizepraesident-hans-thomas-tillschneider-afd-li.3556472",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T15:54:14+00:00"
+    },
+    {
+      "titel": "Entsetzen nach Festnahme des Ex-BND-Chefs Hanning",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/festnahme-hanning-bnd-reaktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T15:51:40+00:00"
     },
     {
       "titel": "Sachsen-Anhalt: AfD stellt zum ersten Mal Landtagspräsidenten",
       "link": "https://www.sueddeutsche.de/politik/landtag-sachsen-anhalt-landtagspraesident-rausch-afd-li.3558847",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T13:08:36+00:00"
+      "veroeffentlicht": "2026-10-06T14:20:00+00:00"
     },
     {
-      "titel": "Todesfall in Sibirien: Was, wenn es die Pest war?",
-      "link": "https://www.sueddeutsche.de/gesundheit/sibirien-pest-li.3559086",
+      "titel": "Sachsen-Anhalt: Dieser 6. Oktober wird in die deutsche Geschichte eingehen",
+      "link": "https://www.sueddeutsche.de/meinung/sachsen-anhalt-afd-landtag-rausch-praesident-li.3558748",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T12:59:27+00:00"
+      "veroeffentlicht": "2026-10-06T14:08:35+00:00"
     },
     {
-      "titel": "Günstig Kochen: Cremige Zaddy-Bohnen für attraktive Männer mittleren Alters (und alle anderen)",
-      "link": "https://www.spiegel.de/effilee/guenstig-kochen-cremige-zaddy-bohnen-fuer-attraktive-maenner-mittleren-alters-und-alle-anderen-a-1460c763-6cbf-4dff-a2a7-b468a5a5d855#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T12:56:00+00:00"
-    },
-    {
-      "titel": "Österreichs Kanzleramt gab Alleinerziehenden Tipps gegen »Selbstmitleid« – nun ist die Broschüre offline",
-      "link": "https://www.spiegel.de/ausland/oesterreichs-kanzleramt-gab-alleinerziehenden-tipps-gegen-selbstmitleid-nun-ist-die-broschuere-offline-a-561ad0a9-b701-4370-b31b-969d2307eeae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T12:44:00+00:00"
-    },
-    {
-      "titel": "Nicht-invasiver Pränataltest: Abgeordnete von Union, SPD, Grünen und Linken streiten über Kassenleistung",
-      "link": "https://www.spiegel.de/politik/deutschland/nicht-invasiver-praenataltest-abgeordnete-von-union-spd-gruenen-und-linken-streiten-ueber-kassenleistung-a-43d790db-8a2c-47e6-8b9a-a970917e9ae3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T12:33:00+00:00"
-    },
-    {
-      "titel": "USA: Die Abkanzlerin kehrt zurück",
-      "link": "https://www.sueddeutsche.de/medien/karoline-leavitt-fox-news-trump-pressesprecherin-li.3559022",
+      "titel": "EU-Erweiterung: Wie sich Europa vor dem nächsten Orbán schützen will",
+      "link": "https://www.sueddeutsche.de/politik/eu-erweiterung-merz-montenegro-ukraine-li.3558581",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T12:31:43+00:00"
+      "veroeffentlicht": "2026-10-06T14:05:53+00:00"
     },
     {
-      "titel": "Ex-Präsident festgenommen: Und noch ein BND-Skandal: Neues aus der Unsicherheitsbehörde",
-      "link": "https://www.sueddeutsche.de/meinung/hanning-bnd-festnahme-spionage-geheimdienst-gesetz-parlament-meinung-li.3559055",
+      "titel": "Fundsache der besonderen Art: Warum Halfing 10 000 Euro für einen Kater ausgibt",
+      "link": "https://www.sueddeutsche.de/bayern/halfing-kater-mucki-kosten-10-000-euro-li.3559308",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T12:28:04+00:00"
+      "veroeffentlicht": "2026-10-06T13:50:59+00:00"
     },
     {
-      "titel": "Istanbul: Jugendliche sticht an Schule mit Messer um sich - acht Verletzte",
-      "link": "https://www.spiegel.de/panorama/justiz/istanbul-jugendliche-sticht-an-schule-mit-messer-um-sich-acht-verletzte-a-4966bb32-48ed-4252-9c38-cc217e83672f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T12:25:00+00:00"
-    },
-    {
-      "titel": "Rheinmetall erschließt sich das Weltall",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rheinmetall-weltall-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T12:09:30+00:00"
-    },
-    {
-      "titel": "Leute: „Einer von uns musste gehen“",
-      "link": "https://www.sueddeutsche.de/panorama/sylvester-stallone-autobiografie-the-steps-richard-gere-promis-li.3559041",
+      "titel": "Sportartikelhersteller: Der künftige DFB-Ausrüster Nike steckt in einer tiefen Krise",
+      "link": "https://www.sueddeutsche.de/wirtschaft/nike-dfb-krise-adidas-sportartikelhersteller-li.3558495",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T11:59:30+00:00"
+      "veroeffentlicht": "2026-10-06T13:48:42+00:00"
     },
     {
-      "titel": "Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T11:47:11+00:00"
-    },
-    {
-      "titel": "Tennis: Der Weg für Zverev zur Nummer eins ist frei",
-      "link": "https://www.sueddeutsche.de/sport/tennis-sinner-zverev-nummer-eins-weltrangliste-li.3559091",
+      "titel": "Neues „Flaucher Quartier“: Per Bauturbo: Hier entstehen 210 neue Werkswohnungen in Isarnähe",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flaucher-quartier-werkswohnungen-bauturbo-stadtwerke-muenchen-li.3558633",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T11:28:18+00:00"
-    },
-    {
-      "titel": "Affäre beim BND: Spionageverdacht: Ex-Geheimdienstchef August Hanning verhaftet",
-      "link": "https://www.sueddeutsche.de/politik/hanning-festnahme-spionage-bnd-geheimnisverrat-verdacht-gba-li.3558640",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T11:18:37+00:00"
-    },
-    {
-      "titel": "Unternehmen: Modemarke Marc Cain wird doch nicht an die Mitarbeiter verschenkt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/mode-marc-cain-helmut-schlotterer-li.3559078",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T11:05:47+00:00"
-    },
-    {
-      "titel": "Livestream: Die Nachrichten auf tagesschau24",
-      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T11:05:15+00:00"
-    },
-    {
-      "titel": "Drohnenangriffe im Schwarzen Meer: Frachter vor Bulgarien gesunken",
-      "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-drohnenangriff-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T11:00:35+00:00"
-    },
-    {
-      "titel": "US-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle",
-      "link": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T09:36:32+00:00"
+      "veroeffentlicht": "2026-10-06T13:39:51+00:00"
     }
   ]
 }
