@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-06T00:21:21+00:00",
+  "aktualisiert": "2026-10-06T06:52:58+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,148 @@
   },
   "meldungen": [
     {
-      "titel": "RAF Fairford: Trump widerspricht Rubio nach hastigem Abzug von US-Bombern",
-      "link": "https://www.spiegel.de/ausland/raf-fairford-trump-widerspricht-rubio-nach-hastigem-abzug-von-us-bombern-a-c7632e56-a533-4209-bd86-250d594358a1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T23:52:00+00:00"
-    },
-    {
-      "titel": "Flydubai: Co-Pilot soll Anschlag auf Flughafen Ben Gurion geplant haben",
-      "link": "https://www.spiegel.de/ausland/flydubai-co-pilot-soll-anschlag-auf-flughafen-ben-gurion-geplant-haben-a-8d0f2b7c-02a1-48c6-bed5-ce53e6b40949#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T21:16:00+00:00"
-    },
-    {
-      "titel": "Wohnungskrise in Spanien: Gewerkschaften rufen zum Generalstreik auf",
-      "link": "https://www.spiegel.de/ausland/wohnungskrise-in-spanien-gewerkschaften-rufen-zum-generalstreik-auf-a-21d19ec4-f67e-4c73-a11b-7e0c36481f34#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T20:29:00+00:00"
-    },
-    {
-      "titel": "Mekka-Allianz: Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
-      "link": "https://www.spiegel.de/ausland/mekka-allianz-tuerkei-und-pakistan-entsenden-truppen-nach-saudi-arabien-a-85af32de-b1b0-40b0-a292-8eb4e3ca281a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T20:22:00+00:00"
-    },
-    {
-      "titel": "Covenant: US-Start-up plant Cruise-Missiles-Produktion bei Leipzig mit Geld von Peter Thiel",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/covenant-us-start-up-plant-cruise-missiles-produktion-bei-leipzig-mit-geld-von-peter-thiel-a-8781204e-c8d9-41b9-a86f-cea474b85781#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T19:45:00+00:00"
-    },
-    {
-      "titel": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
-      "link": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
+      "titel": "Reformdruck nicht nur auf Beitrittskandidaten - auch auf die EU",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-erweiterungsbericht-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T19:37:30+00:00"
+      "veroeffentlicht": "2026-10-06T06:45:06+00:00"
     },
     {
-      "titel": "Russland: USA beobachten möglichen Pestfall nach Tod von Laborangestellter",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/russland-usa-beobachten-moeglichen-pestfall-nach-tod-von-laborangestellter-a-84ea34c4-4f01-4b0c-87bc-13c98b432dfb#ref=rss",
+      "titel": "Wiesn-Essen: Mmmm, Milzwurst! Womit die CSU künftig Besucher auf die Wiesn locken will",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-csu-wiesn-essen-glosse-li.3558958",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T06:26:00+00:00"
+    },
+    {
+      "titel": "In Siegen stinkt es – und keiner weiß warum",
+      "link": "https://www.spiegel.de/panorama/in-siegen-stinkt-es-und-keiner-weiss-warum-a-7c52d089-34fc-45b6-b9f4-78ceb25c73ee#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T19:25:00+00:00"
+      "veroeffentlicht": "2026-10-06T06:18:00+00:00"
+    },
+    {
+      "titel": "USA: Prominenter Parteifreund von Donald Trump bereut Unterstützung für Hegseth",
+      "link": "https://www.spiegel.de/ausland/usa-prominenter-parteifreund-von-donald-trump-bereut-unterstuetzung-fuer-hegseth-a-6c16577e-6389-4c1f-b3f8-3ecaf58712cb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T05:54:00+00:00"
+    },
+    {
+      "titel": "Michael Olise führt Frankreich gegen Belgien mit Gala-Auftritt zum Sieg",
+      "link": "https://www.spiegel.de/sport/fussball/michael-olise-fuehrt-frankreich-gegen-belgien-mit-gala-auftritt-zum-sieg-a-6cd0f8be-7bee-4a38-bfc4-0d8c778d5ea7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T05:53:00+00:00"
+    },
+    {
+      "titel": "Gemeinde Südharz: Im Harz brennen 1000 Strohballen - Ende der Löscharbeiten nicht absehbar",
+      "link": "https://www.spiegel.de/panorama/gemeinde-suedharz-im-harz-brennen-1000-strohballen-ende-der-loescharbeiten-nicht-absehbar-a-3b0c8479-a9a5-4bb0-b991-8dbc83d62ff0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T05:43:00+00:00"
+    },
+    {
+      "titel": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T05:30:33+00:00"
+    },
+    {
+      "titel": "Marktbericht: Positive Vorzeichen könnten DAX beflügeln",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T05:29:40+00:00"
+    },
+    {
+      "titel": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
+      "link": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T05:22:59+00:00"
+    },
+    {
+      "titel": "Elektromobilität: Verkehrsbetriebe fahren größtenteils Verbrennerbusse",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/elektromobilitaet-verkehrsbetriebe-fahren-groesstenteils-verbrennerbusse-a-b82b9f8c-84e4-4b9d-b743-d6aca8c3299e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T05:13:00+00:00"
+    },
+    {
+      "titel": "Fedor Holz: Ex-Pokerstar zeigt seinen Kalender und spricht über Entschleunigung",
+      "link": "https://www.spiegel.de/karriere/fedor-holz-ex-pokerstar-zeigt-seinen-kalender-und-spricht-ueber-entschleunigung-a-4b2ca907-1d99-4cf0-871c-94b2c762cd84#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T05:04:00+00:00"
+    },
+    {
+      "titel": "Amazon Prime und Prime Day: Ist Amazons Abodienst noch sein Geld wert?",
+      "link": "https://www.spiegel.de/netzwelt/web/amazon-prime-und-prime-day-ist-amazons-abodienst-noch-sein-geld-wert-a-f4126875-58e2-42ac-8254-7d2b5eaee689#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T05:01:00+00:00"
+    },
+    {
+      "titel": "Schweden: 18-Jähriger stirbt bei Busunglück - Dutzende Verletzte",
+      "link": "https://www.spiegel.de/panorama/schweden-18-jaehriger-stirbt-bei-busunglueck-dutzende-verletzte-a-d2fc3771-5eff-48bd-924e-964f55bb91e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T04:58:00+00:00"
+    },
+    {
+      "titel": "Saudi-Arabien: Huthis melden Angriffe in Riad, Türkei und Pakistan entsenden Soldaten",
+      "link": "https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-angriffe-in-riad-tuerkei-und-pakistan-entsenden-soldaten-a-b5a9d281-ef1f-4c7a-bbc4-8bb71dd31352#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T04:54:00+00:00"
+    },
+    {
+      "titel": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
+      "link": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T04:46:48+00:00"
+    },
+    {
+      "titel": "Liveblog Sachsen-Anhalt: Landtag in Sachsen-Anhalt konstituiert sich",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-liveblog-konstituierende-sitzung-li.3556472",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T04:43:34+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: US-Bomberabzug aus Großbritannien wohl wegen Gefahr iranischen Drohnenangriffs",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-abzug-iran-bomber-li.3558046",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T04:40:00+00:00"
+    },
+    {
+      "titel": "Warum ein Studium keine Jobgarantie mehr ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T04:23:54+00:00"
+    },
+    {
+      "titel": "Frankfurter Buchmesse von Existenzangst und KI-Sorgen überschattet",
+      "link": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T04:22:55+00:00"
+    },
+    {
+      "titel": "Wie starre Hierarchien in Kliniken Machtmissbrauch ermöglichen",
+      "link": "https://www.tagesschau.de/investigativ/ndr/medtoo-machtmissbrauch-krankenhaus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T04:21:58+00:00"
+    },
+    {
+      "titel": "Newsblog zum Nahost-Krieg: US-Bomberabzug aus Großbritannien laut Medien wegen Gefahr iranischen Drohnenangriffs",
+      "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-iran-usa-bomber-abzug-grossbritannien-gefahr-drohnenangriff-li.3530668",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T03:32:44+00:00"
+    },
+    {
+      "titel": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
+      "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T03:25:07+00:00"
+    },
+    {
+      "titel": "Oktoberfest: München stellte 450 Oktoberfest-Lizenzen für Influencer aus",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-ende-li.3549371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T02:53:42+00:00"
+    },
+    {
+      "titel": "Neues Buch über Michael Schumacher: „Außerirdisch, nicht menschlich“",
+      "link": "https://www.sueddeutsche.de/sport/michael-schumacher-formel-1-nico-rosberg-sebastian-vettel-buch-li.3551218",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T19:29:20+00:00"
     },
     {
       "titel": "Demonstrationen: Was die Schüler in Frankreich fordern, betrifft auch Deutschland",
@@ -55,118 +157,16 @@
       "veroeffentlicht": "2026-10-05T19:17:32+00:00"
     },
     {
-      "titel": "Frankreich: Und dann tanzen Le Pen oder Mélenchon im Élysée-Palast den Finanzpogo",
-      "link": "https://www.spiegel.de/wirtschaft/schulden-in-frankreich-vergiftetes-antrittsgeschenk-fuer-nachfolger-von-christine-lagarde-a-33e22de8-9c86-41d5-88e0-76d72a83c4db#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T18:31:00+00:00"
-    },
-    {
-      "titel": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
-      "link": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T18:01:40+00:00"
-    },
-    {
-      "titel": "Plastiksteuer: Koalition plant neue Abgabe auf Kunststoffverpackungen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/plastiksteuer-koalition-plant-neue-abgabe-auf-kunststoffverpackungen-a-08b4e2de-f78e-439b-addf-46508fc089d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T17:46:00+00:00"
-    },
-    {
-      "titel": "Sean Connery: Warum der James-Bond-Darsteller angespuckt werden wollte",
-      "link": "https://www.spiegel.de/kultur/kino/sean-connery-warum-der-james-bond-darsteller-angespuckt-werden-wollte-a-bf5bbf3b-f57e-4b0f-a55a-739c98e49ec1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T17:42:00+00:00"
-    },
-    {
       "titel": "Wohnungsnot: „Null Neubau“",
       "link": "https://www.sueddeutsche.de/kultur/wohnungsnot-bauwirtschaft-architektur-li.3557557",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-05T17:33:49+00:00"
     },
     {
-      "titel": "Frankfurter Buchmesse: Shida Bazyar erhält Deutschen Buchpreis 2026",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-shida-bazyar-buchpreis-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T17:21:22+00:00"
-    },
-    {
-      "titel": "America.gov: Digitaler Service oder Überwachung per KI?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T17:12:58+00:00"
-    },
-    {
-      "titel": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T17:11:29+00:00"
-    },
-    {
-      "titel": "Warum die Linke wegen eines Insta-Posts bis vor das Verfassungsgericht zieht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T17:10:20+00:00"
-    },
-    {
-      "titel": "Günther kritisiert Energiepolitik von Ministerin Reiche",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-guenther-energiepolitik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T17:01:40+00:00"
-    },
-    {
       "titel": "Japan: Eine Stadt kämpft ums Überleben",
       "link": "https://www.sueddeutsche.de/wirtschaft/japan-industrie-regierung-kioxia-chip-fabriken-ki-investitionen-li.3548269",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-05T17:00:55+00:00"
-    },
-    {
-      "titel": "Literatur: Shida Bazyar gewinnt den Deutschen Buchpreis",
-      "link": "https://www.sueddeutsche.de/kultur/buchpreis-2026-frankfurt-shida-bazyar-li.3557501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-05T16:44:37+00:00"
-    },
-    {
-      "titel": "Energiepreise: Preise für Benzin und Diesel steigen wieder leicht",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-120.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T16:42:44+00:00"
-    },
-    {
-      "titel": "Staatsschutz ermittelt nach Feuer an Stromkabeln in Berlin-Marzahn",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/ermittlungen-brandstiftung-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T16:31:40+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Nach Rassismus-Eklat auf Wiesn: Österreichischer Politiker tritt zurück",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-ende-li.3549371",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-05T15:49:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: „Hervorragende Ergänzung“: Trump bekommt neue Vize-Sprecherin",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-weisses-haus-li.3558046",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-05T14:12:50+00:00"
-    },
-    {
-      "titel": "Prozess in München: 23 Kilo Gold forderten die Kidnapper für den Juwelierssohn",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-entfuehrung-juwelierssohn-landgericht-prozess-li.3558537",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-05T14:12:30+00:00"
-    },
-    {
-      "titel": "Nobelpreisträger für Medizin: Georg Nagel: Neugierig, sympathisch, bescheiden",
-      "link": "https://www.sueddeutsche.de/bayern/georg-nagel-nobelpreis-fuer-medizin-2026-wuerzburg-biophysik-forscher-li.3558832",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-05T14:08:46+00:00"
-    },
-    {
-      "titel": "Jubel nach der Nobelpreisvergabe für Georg Nagel: „Dieser Tag zeigt: In Würzburg ist alles möglich“",
-      "link": "https://www.sueddeutsche.de/bayern/nobelpreis-medizin-2026-georg-nagel-uni-wuerzburg-li.3558635",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-05T14:08:00+00:00"
     }
   ]
 }
