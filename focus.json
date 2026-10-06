@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-06T01:47:38+00:00",
+  "aktualisiert": "2026-10-06T08:12:57+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Preise für Benzin und Diesel steigen wieder leicht",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-120.html",
+      "titel": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Warum die Linke wegen eines Insta-Posts bis vor das Verfassungsgericht zieht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
+      "titel": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
+      "link": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-pakistan-saudi-arabien-102.html",
+      "titel": "DAX gewinnt an Schwung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
