@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-10-06T19:35:36+00:00",
+  "aktualisiert": "2026-10-06T23:17:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Cristiano Ronaldo erklärt Abreise und erhebt Vorwürfe gegen Coach Jorge Jesus",
+      "link": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-erklaert-abreise-und-erhebt-vorwuerfe-gegen-coach-jorge-jesus-a-1115c225-3cde-494d-a017-d74063f31508#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T22:38:00+00:00"
+    },
+    {
+      "titel": "Vorsitz des Parlamentarischen Kontrollgremiums Henrichmann im Interview",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/interview-pkgr-henrichmann-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T22:05:31+00:00"
+    },
+    {
+      "titel": "Tennessee: Christa Pike ist nach missglückter Hinrichtung wieder bei Bewusstsein",
+      "link": "https://www.spiegel.de/ausland/tennessee-christa-pike-ist-nach-missglueckter-hinrichtung-wieder-bei-bewusstsein-a-881919ad-4489-48f1-ba78-88a33c1ff77f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T21:04:00+00:00"
+    },
+    {
+      "titel": "CDU-Politiker fordert höhere Erbschaftsteuer",
+      "link": "https://www.spiegel.de/politik/deutschland/cdu-politiker-fordert-hoehere-erbschaftsteuer-a-58302aea-ff2e-457a-8905-0a42ddd09177#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T20:59:00+00:00"
+    },
+    {
+      "titel": "Berlin: Prominente von CDU, Grünen und SPD warnen vor Rot-Grün-Rot",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-prominente-von-cdu-gruenen-und-spd-warnen-vor-rot-gruen-rot-a-0464a4d2-0dc7-471b-b03c-5507496a3f78#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T20:39:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Wo kommen die CDU-Stimmen für die AfD her?",
+      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wo-kommen-die-cdu-stimmen-fuer-die-afd-her-a-75c34cdd-db02-4439-a358-1aeda702aa5c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T20:29:00+00:00"
+    },
+    {
+      "titel": "Liveblog Sachsen-Anhalt: SPD-Bundestagsfraktion zieht in Protestmarsch zu Ort mit NS-Vergangenheit",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-spd-pistorius-rede-protestmarsch-berlin-bebelplatz-li.3556472",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T20:19:08+00:00"
+    },
+    {
+      "titel": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
+      "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T19:54:16+00:00"
+    },
     {
       "titel": "Cornell: Juristin Sally Yates soll Umgang der Universität mit »Jane Doe«-Fall prüfen",
       "link": "https://www.spiegel.de/ausland/cornell-juristin-sally-yates-soll-umgang-der-universitaet-mit-jane-doe-fall-pruefen-a-e47620cc-c130-422f-ba4d-c2045c41a767#ref=rss",
@@ -37,46 +85,16 @@
       "veroeffentlicht": "2026-10-06T18:57:31+00:00"
     },
     {
-      "titel": "SPD-Fraktion startet Protestmarsch durch Berlin, Pistorius stimmt Nationalhymne an",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-fraktion-startet-protestmarsch-durch-berlin-pistorius-stimmt-nationalhymne-an-a-1ad545c7-0197-47d3-9c7b-c796a4320885#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T18:48:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Erleben wir eine Neuauflage der 68er-Revolte?",
-      "link": "https://www.spiegel.de/ausland/frankreich-erleben-wir-eine-neuauflage-der-68er-revolte-a-e69fec9f-b0cc-4ffd-a1ef-6e2342930697#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T18:20:00+00:00"
-    },
-    {
-      "titel": "Landarztquote: Vertragsstrafe bestätigt – Gericht stärkt Freiheiten für einige Studierende",
-      "link": "https://www.spiegel.de/panorama/bildung/landarztquote-vertragsstrafe-bestaetigt-gericht-staerkt-freiheiten-fuer-einige-studierende-a-030895bd-9574-4227-b2ec-1345211651df#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T18:15:00+00:00"
-    },
-    {
       "titel": "Newsblog zum Ukraine-Krieg: Selenskij warnt vor bevorstehendem Großangriff Russlands",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-warnung-grossangriff-russland-li.3549696",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-06T18:13:19+00:00"
     },
     {
-      "titel": "Sachsen-Anhalt: AfD-Politiker Rausch wird Landtagspräsident",
-      "link": "https://www.spiegel.de/politik/sachsen-anhalt-afd-politiker-rausch-wird-landtagspraesident-a-4808a020-6805-40a5-9170-6c35b3742347#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T18:04:00+00:00"
-    },
-    {
       "titel": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
       "link": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-06T18:01:14+00:00"
-    },
-    {
-      "titel": "Donald Trump: Künstler stellt im EU-Parlament nackte Statue des US-Präsidenten aus",
-      "link": "https://www.spiegel.de/ausland/donald-trump-kuenstler-stellt-im-eu-parlament-nackte-statue-des-us-praesidenten-aus-a-985126d5-7562-4fe2-9218-6b5871e8ecf1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T17:44:00+00:00"
     },
     {
       "titel": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
@@ -113,24 +131,6 @@
       "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-afd-landtagspraesident-li.3557701",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-06T16:18:47+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident",
-      "link": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T16:15:19+00:00"
-    },
-    {
-      "titel": "Liveblog Sachsen-Anhalt: AfD stellt mit Tillschneider auch einen Vizepräsidenten - SPD-Kandidat fällt durch",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-liveblog-landtagsvizepraesident-hans-thomas-tillschneider-afd-li.3556472",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T15:54:14+00:00"
-    },
-    {
-      "titel": "Entsetzen nach Festnahme des Ex-BND-Chefs Hanning",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/festnahme-hanning-bnd-reaktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T15:51:40+00:00"
     },
     {
       "titel": "Sachsen-Anhalt: AfD stellt zum ersten Mal Landtagspräsidenten",
