@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-10-05T18:29:50+00:00",
+  "aktualisiert": "2026-10-06T00:21:21+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "RAF Fairford: Trump widerspricht Rubio nach hastigem Abzug von US-Bombern",
+      "link": "https://www.spiegel.de/ausland/raf-fairford-trump-widerspricht-rubio-nach-hastigem-abzug-von-us-bombern-a-c7632e56-a533-4209-bd86-250d594358a1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T23:52:00+00:00"
+    },
+    {
+      "titel": "Flydubai: Co-Pilot soll Anschlag auf Flughafen Ben Gurion geplant haben",
+      "link": "https://www.spiegel.de/ausland/flydubai-co-pilot-soll-anschlag-auf-flughafen-ben-gurion-geplant-haben-a-8d0f2b7c-02a1-48c6-bed5-ce53e6b40949#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T21:16:00+00:00"
+    },
+    {
+      "titel": "Wohnungskrise in Spanien: Gewerkschaften rufen zum Generalstreik auf",
+      "link": "https://www.spiegel.de/ausland/wohnungskrise-in-spanien-gewerkschaften-rufen-zum-generalstreik-auf-a-21d19ec4-f67e-4c73-a11b-7e0c36481f34#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T20:29:00+00:00"
+    },
+    {
+      "titel": "Mekka-Allianz: Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
+      "link": "https://www.spiegel.de/ausland/mekka-allianz-tuerkei-und-pakistan-entsenden-truppen-nach-saudi-arabien-a-85af32de-b1b0-40b0-a292-8eb4e3ca281a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T20:22:00+00:00"
+    },
+    {
+      "titel": "Covenant: US-Start-up plant Cruise-Missiles-Produktion bei Leipzig mit Geld von Peter Thiel",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/covenant-us-start-up-plant-cruise-missiles-produktion-bei-leipzig-mit-geld-von-peter-thiel-a-8781204e-c8d9-41b9-a86f-cea474b85781#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T19:45:00+00:00"
+    },
+    {
+      "titel": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
+      "link": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-05T19:37:30+00:00"
+    },
+    {
+      "titel": "Russland: USA beobachten möglichen Pestfall nach Tod von Laborangestellter",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/russland-usa-beobachten-moeglichen-pestfall-nach-tod-von-laborangestellter-a-84ea34c4-4f01-4b0c-87bc-13c98b432dfb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T19:25:00+00:00"
+    },
+    {
+      "titel": "Demonstrationen: Was die Schüler in Frankreich fordern, betrifft auch Deutschland",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-schueler-proteste-soziale-frage-deutschland-kinderarmut-li.3558518",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-05T19:17:32+00:00"
+    },
+    {
+      "titel": "Frankreich: Und dann tanzen Le Pen oder Mélenchon im Élysée-Palast den Finanzpogo",
+      "link": "https://www.spiegel.de/wirtschaft/schulden-in-frankreich-vergiftetes-antrittsgeschenk-fuer-nachfolger-von-christine-lagarde-a-33e22de8-9c86-41d5-88e0-76d72a83c4db#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-05T18:31:00+00:00"
+    },
     {
       "titel": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
       "link": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
@@ -29,12 +83,6 @@
       "link": "https://www.sueddeutsche.de/kultur/wohnungsnot-bauwirtschaft-architektur-li.3557557",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-05T17:33:49+00:00"
-    },
-    {
-      "titel": "China-Politik vor EU-Gipfel: Macron und Merz drängen auf härteren Kurs",
-      "link": "https://www.spiegel.de/politik/deutschland/china-politik-vor-eu-gipfel-macron-und-merz-draengen-auf-haerteren-kurs-a-3e8ade17-672b-4047-a943-61e152e2a441#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T17:33:00+00:00"
     },
     {
       "titel": "Frankfurter Buchmesse: Shida Bazyar erhält Deutschen Buchpreis 2026",
@@ -61,12 +109,6 @@
       "veroeffentlicht": "2026-10-05T17:10:20+00:00"
     },
     {
-      "titel": "Benzin und Diesel: Spritpreise steigen trotz Tankrabatt",
-      "link": "https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-spritpreise-steigen-trotz-tankrabatt-a-8fe8f96f-7084-4e55-8364-f808e8e87c36#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T17:06:00+00:00"
-    },
-    {
       "titel": "Günther kritisiert Energiepolitik von Ministerin Reiche",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-guenther-energiepolitik-100.html",
       "quelle": "Tagesschau",
@@ -77,24 +119,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/japan-industrie-regierung-kioxia-chip-fabriken-ki-investitionen-li.3548269",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-05T17:00:55+00:00"
-    },
-    {
-      "titel": "Handball-Nationalspieler Johannes Golla will schon nach drei Monaten bei MT Melsungen zurück zu seinem Ex-Club SG Flensburg-Handewitt",
-      "link": "https://www.spiegel.de/sport/handball-nationalspieler-johannes-golla-will-schon-nach-drei-monaten-bei-mt-melsungen-zurueck-zu-seinem-ex-club-sg-flensburg-handewitt-a-ef5f8ccf-c947-481a-9d34-2361e0deca2f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T16:55:00+00:00"
-    },
-    {
-      "titel": "Podcast »Im Verhör« über Gangster-Rap und Clans: Die Akte Capital Bra - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/podcast-im-verhoer-ueber-gangster-rap-und-clans-die-akte-capital-bra-spiegel-tv-a-a5f654b7-799e-4de9-981b-44403e4b5833#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T16:52:00+00:00"
-    },
-    {
-      "titel": "Shida Bazyar erhält den Deutschen Buchpreis",
-      "link": "https://www.spiegel.de/kultur/literatur/shida-bazyar-erhaelt-den-deutschen-buchpreis-a-ee17b332-674f-4255-ad6f-6dbd9b6e9735#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T16:46:00+00:00"
     },
     {
       "titel": "Literatur: Shida Bazyar gewinnt den Deutschen Buchpreis",
@@ -109,28 +133,10 @@
       "veroeffentlicht": "2026-10-05T16:42:44+00:00"
     },
     {
-      "titel": "Frankreich: Polizeigranate reißt 15-Jährigem die Hand ab",
-      "link": "https://www.spiegel.de/ausland/frankreich-polizeigranate-reisst-15-jaehrigem-die-hand-ab-a-51fea002-aec0-4c08-bdde-1c4a545a10b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T16:37:00+00:00"
-    },
-    {
       "titel": "Staatsschutz ermittelt nach Feuer an Stromkabeln in Berlin-Marzahn",
       "link": "https://www.tagesschau.de/inland/regional/berlin/ermittlungen-brandstiftung-berlin-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-05T16:31:40+00:00"
-    },
-    {
-      "titel": "Jochen Flasbarth wird Chef von einflussreicher Klimastiftung",
-      "link": "https://www.spiegel.de/politik/deutschland/jochen-flasbarth-wird-chef-von-einflussreicher-klimastiftung-a-1b25a786-3e52-45f8-a899-8d9370319ce7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-05T16:31:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX kommt nicht vom Fleck",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-05T16:28:41+00:00"
     },
     {
       "titel": "Oktoberfest: Nach Rassismus-Eklat auf Wiesn: Österreichischer Politiker tritt zurück",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/nobelpreis-medizin-2026-georg-nagel-uni-wuerzburg-li.3558635",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-05T14:08:00+00:00"
-    },
-    {
-      "titel": "Erste vier Klopp-Länderspiele: So viel gelobt wurde bei der Nationalelf seit Jahren nicht mehr",
-      "link": "https://www.sueddeutsche.de/sport/nationalmannschaft-klopp-laenderspiele-nations-league-2026-erkenntnisse-li.3558610",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-05T13:46:39+00:00"
     }
   ]
 }
