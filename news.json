@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-10-06T23:17:33+00:00",
+  "aktualisiert": "2026-10-07T02:42:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Bericht: Massiver Angriff auf Kiew",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-grossangriff-einschlaege-russland-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-07T02:09:49+00:00"
+    },
+    {
+      "titel": "Anna Politkowskaja: Die Journalistin, die zu mächtige Feinde hatte",
+      "link": "https://www.tagesschau.de/ausland/europa/politkowskaja-journalistin-gedenken-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-07T01:49:47+00:00"
+    },
+    {
+      "titel": "NBA: Saison-Aus für Ariel Hukporti nach schwerer Verletzung",
+      "link": "https://www.spiegel.de/sport/basketball/nba-saison-aus-fuer-ariel-hukporti-nach-schwerer-verletzung-a-20ea7895-fed2-47b1-95c8-8f31549f0832#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-07T01:07:00+00:00"
+    },
+    {
+      "titel": "129 Tage in der Hand der Hamas: Das neue Leben des Luis Har",
+      "link": "https://www.tagesschau.de/ausland/asien/129-tage-hamas-har-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-07T01:01:01+00:00"
+    },
+    {
+      "titel": "Eva Marie Saint: Oscarpreisträgerin mit 102 Jahren gestorben",
+      "link": "https://www.spiegel.de/kultur/kino/eva-marie-saint-oscarpreistraegerin-mit-102-jahren-gestorben-a-7b5844a7-f9d1-41f6-bc63-2b826784db47#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-07T00:20:00+00:00"
+    },
+    {
+      "titel": "UN-Menschenrechtsrat: Der Versuch, Menschenrechte vor KI zu schützen",
+      "link": "https://www.tagesschau.de/ausland/europa/un-menschenrechte-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-07T00:11:57+00:00"
+    },
+    {
+      "titel": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
+      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-06T23:56:42+00:00"
+    },
+    {
+      "titel": "Frankfurter Buchmesse: Nicht ausgebuht ist genug beklatscht",
+      "link": "https://www.sueddeutsche.de/kultur/wolfram-weimer-eroeffnung-frankfurter-buchmesse-gastland-tschechien-li.3557503",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T23:46:37+00:00"
+    },
+    {
+      "titel": "Donald Trump: US-Präsident will Wladimir Putin wegen Pestverdacht in Russland anrufen",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/donald-trump-us-praesident-will-wladimir-putin-wegen-pestverdacht-in-russland-anrufen-a-fd47448f-ed8e-4bed-a9cd-6d91ff596151#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-06T23:40:00+00:00"
+    },
+    {
+      "titel": "TV-Kritik zu „Maischberger“: „Sie reden wie Tino Chrupalla über die Extremisten in der AfD“",
+      "link": "https://www.sueddeutsche.de/medien/tv-kritik-talk-afd-linke-cdu-sachsen-anhalt-extremismus-antisemtismus-rechtsextrem-li.3559357",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-06T23:22:16+00:00"
+    },
     {
       "titel": "Cristiano Ronaldo erklärt Abreise und erhebt Vorwürfe gegen Coach Jorge Jesus",
       "link": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-erklaert-abreise-und-erhebt-vorwuerfe-gegen-coach-jorge-jesus-a-1115c225-3cde-494d-a017-d74063f31508#ref=rss",
@@ -61,34 +121,10 @@
       "veroeffentlicht": "2026-10-06T19:30:00+00:00"
     },
     {
-      "titel": "Karl Bushby: Nach 28 Jahren kehrt der Weltumwanderer nach England zurück",
-      "link": "https://www.spiegel.de/panorama/karl-bushby-nach-28-jahren-kehrt-der-weltumwanderer-nach-england-zurueck-a-11078e97-d245-480e-b4e9-25ab5159cc04#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T19:25:00+00:00"
-    },
-    {
-      "titel": "August Hanning: Festnahme des Ex-BND-Chefs erschüttert Sicherheitsapparat",
-      "link": "https://www.spiegel.de/panorama/justiz/august-hanning-festnahme-des-ex-bnd-chefs-erschuettert-sicherheitsapparat-a-0120eb6b-d2f0-400c-8d31-b9a967acbd98#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T19:12:00+00:00"
-    },
-    {
-      "titel": "Debatte in Israel: Wer trägt die Verantwortung für das FlyDubai-Desaster?",
-      "link": "https://www.spiegel.de/ausland/debatte-in-israel-wer-traegt-die-verantwortung-fuer-das-flydubai-desaster-a-302232e8-7493-482f-b0e9-17dd28fd7ce4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-06T19:00:00+00:00"
-    },
-    {
       "titel": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
       "link": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-06T18:57:31+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Selenskij warnt vor bevorstehendem Großangriff Russlands",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-warnung-grossangriff-russland-li.3549696",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T18:13:19+00:00"
     },
     {
       "titel": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
@@ -101,30 +137,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-06T17:43:36+00:00"
-    },
-    {
-      "titel": "Marktbericht: Neue Zuversicht an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T17:10:54+00:00"
-    },
-    {
-      "titel": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T17:05:00+00:00"
-    },
-    {
-      "titel": "Propaganda, Dementi und Unklarheit im Jemen-Krieg",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-propaganda-kaempfe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T16:31:55+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: AfD-Erfolg bringt CDU und Schulze in Bedrängnis",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-06T16:22:39+00:00"
     },
     {
       "titel": "Sachsen-Anhalt: Ein Meilenstein für die AfD auf dem Weg zur Macht",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/halfing-kater-mucki-kosten-10-000-euro-li.3559308",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-06T13:50:59+00:00"
-    },
-    {
-      "titel": "Sportartikelhersteller: Der künftige DFB-Ausrüster Nike steckt in einer tiefen Krise",
-      "link": "https://www.sueddeutsche.de/wirtschaft/nike-dfb-krise-adidas-sportartikelhersteller-li.3558495",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T13:48:42+00:00"
-    },
-    {
-      "titel": "Neues „Flaucher Quartier“: Per Bauturbo: Hier entstehen 210 neue Werkswohnungen in Isarnähe",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flaucher-quartier-werkswohnungen-bauturbo-stadtwerke-muenchen-li.3558633",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-06T13:39:51+00:00"
     }
   ]
 }
