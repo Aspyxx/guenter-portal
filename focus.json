@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-07T21:39:28+00:00",
+  "aktualisiert": "2026-10-08T01:22:48+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "20 Jahre Mord an Politkowskaja: \"In Russland gibt es keine Presse\"",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-nowaja-gaseta-politkowskaja-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Der Strand, an dem der 7. Oktober begann",
       "link": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-ueberfall-hamas-zikim-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Vier Stunden - dann ist der Koalitionsausschuss zu Ende",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-108.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
+      "link": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
