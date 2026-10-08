@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-08T01:57:41+00:00",
+  "aktualisiert": "2026-10-08T09:00:51+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,88 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Dritter Jahrestag des 7. Oktober: Ein emotionaler Gedenktag in Israel geht zu Ende",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-hamas-ueberfall-100.html",
+      "titel": "Ronald Rauhe: So will der neue Staatsminister den deutschen Sport reformieren",
+      "link": "https://www.spiegel.de/sport/olympia/ronald-rauhe-so-will-der-neue-staatsminister-den-deutschen-sport-reformieren-a-e3588861-7a4e-4991-b3b8-ecb9509e3519#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-08T08:54:00+00:00"
+    },
+    {
+      "titel": "Tankrabatt: Die meisten Deutschen wollen andere Hilfen gegen hohe Spritpreise",
+      "link": "https://www.spiegel.de/mobilitaet/auto/tankrabatt-die-meisten-deutschen-wollen-andere-hilfen-gegen-hohe-spritpreise-a-2f8dc40b-85a2-4259-8c81-b3aa7d89aa73#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-08T08:50:00+00:00"
+    },
+    {
+      "titel": "Michael Jackson: »Thriller«-Lederjacke wird in Abu Dhabi versteigert",
+      "link": "https://www.spiegel.de/kultur/musik/michael-jackson-thriller-lederjacke-wird-in-abu-dhabi-versteigert-a-65777aed-f3b4-43bf-888e-df63b088e4c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-08T08:43:00+00:00"
+    },
+    {
+      "titel": "Nach Wahl in Berlin: Linke, Grüne und SPD vor Einigung auf Sondierungsgespräche",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-gruene--spd-sondierungen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-08T01:35:58+00:00"
+      "veroeffentlicht": "2026-10-08T08:39:37+00:00"
     },
     {
-      "titel": "USA-Newsblog: Demokraten klagen gegen Trump wegen Wahlkampffinanzierung",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-pest-russland-putin-trump-wahlkampf-midterms-li.3558046",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-08T00:45:36+00:00"
-    },
-    {
-      "titel": "Ukraine meldet 28 Tote bei russischen Angriffen an Putins Geburtstag",
-      "link": "https://www.spiegel.de/ausland/ukraine-meldet-28-tote-bei-russischen-angriffen-an-putins-geburtstag-a-bdc849af-276c-4032-af74-8b98de284b9f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-08T00:42:00+00:00"
-    },
-    {
-      "titel": "US-Demokraten verklagen Trump wegen Wahlwerbung aus Steuergeldern",
-      "link": "https://www.spiegel.de/ausland/us-demokraten-verklagen-trump-wegen-wahlwerbung-aus-steuergeldern-a-0b8ed0d9-a241-4154-85a4-b3a2248af262#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-07T23:37:00+00:00"
-    },
-    {
-      "titel": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
+      "titel": "Midterms: Demokraten verklagen Trump-Regierung wegen TV-Spots",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-wahlwerbespots-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-07T23:25:54+00:00"
+      "veroeffentlicht": "2026-10-08T08:35:14+00:00"
     },
     {
-      "titel": "Donald Trump: Trump-Golfclub in Florida soll Rückzugsort für US-Präsidenten werden",
-      "link": "https://www.spiegel.de/ausland/donald-trump-trump-golfclub-in-florida-soll-rueckzugsort-fuer-us-praesidenten-werden-a-2f32700e-eef0-425a-ac85-0f66135b8c77#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-07T22:35:00+00:00"
-    },
-    {
-      "titel": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
-      "link": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+      "titel": "Marktbericht: DAX fällt unter 25.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-oel-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-07T22:05:42+00:00"
+      "veroeffentlicht": "2026-10-08T08:30:36+00:00"
     },
     {
-      "titel": "Sozialdemokraten: Mit dem \"Projekt 2045\" für den Klimaschutz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html",
+      "titel": "Olivia Rodrigo: US-Popsängerin klagt über fehlende Privatsphäre beim Dating",
+      "link": "https://www.spiegel.de/panorama/leute/olivia-rodrigo-us-popsaengerin-klagt-ueber-fehlende-privatsphaere-beim-dating-a-c94a97ab-92bb-4625-ac21-847cb5384608#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-08T08:28:00+00:00"
+    },
+    {
+      "titel": "Hohe Erwartungen an Besuch von EU-Handelskommissar Sefcovic in Peking",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-china-sefcovic-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-07T22:01:18+00:00"
+      "veroeffentlicht": "2026-10-08T08:27:03+00:00"
     },
     {
-      "titel": "Vier Stunden - dann ist der Koalitionsausschuss zu Ende",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-07T21:32:31+00:00"
-    },
-    {
-      "titel": "Brandenburg: Vier Mopedfahrer sterben bei Verkehrsunfall",
-      "link": "https://www.spiegel.de/mobilitaet/auto/brandenburg-vier-mopedfahrer-sterben-bei-verkehrsunfall-a-bcbc1ad9-512f-472b-838c-5c949c26c3c7#ref=rss",
+      "titel": "Frankreich-Wahlkampf: Wie zwei extreme Bewerber den Ton gegen Deutschland verschärfen",
+      "link": "https://www.spiegel.de/ausland/frankreich-wahlkampf-wie-zwei-extreme-bewerber-den-ton-gegen-deutschland-verschaerfen-a-da044afe-aa5a-4a35-a137-744668124862#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-07T21:29:00+00:00"
-    },
-    {
-      "titel": "Westjordanland: Palästinenser während der Olivenernte von israelischen Siedlern getötet",
-      "link": "https://www.spiegel.de/ausland/westjordanland-palaestinenser-waehrend-der-olivenernte-von-israelischen-siedlern-getoetet-a-83af9b2d-f1ee-4d3c-83fb-d111c07b7734#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-07T20:57:00+00:00"
-    },
-    {
-      "titel": "John Coale: Dreht Donald Trumps Ex-Anwalt jetzt die US-Strategie für Russland?",
-      "link": "https://www.spiegel.de/ausland/john-coale-dreht-donald-trumps-ex-anwalt-jetzt-die-us-strategie-fuer-russland-a-0c20a834-4ead-472f-a653-e65e3ea963fe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-07T20:33:00+00:00"
+      "veroeffentlicht": "2026-10-08T08:25:00+00:00"
     },
     {
       "titel": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
       "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-07T20:00:05+00:00"
+      "veroeffentlicht": "2026-10-08T08:24:58+00:00"
     },
     {
-      "titel": "Saudi-Arabien: Huthi-Miliz bekennt sich zu Angriffen auf Flughäfen in Riad und Abha",
-      "link": "https://www.spiegel.de/ausland/saudi-arabien-huthi-miliz-bekennt-sich-zu-angriffen-auf-flughaefen-in-riad-und-abha-a-49e98df2-7b50-44ba-a1a6-c7d46e708db1#ref=rss",
+      "titel": "Europäischer Rechnungshof kritisiert Verstöße beim Umgang mit EU-Geldern",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/europaeischer-rechnungshof-kritisiert-verstoesse-beim-umgang-mit-eu-geldern-a-55653a47-4619-4874-a400-03ff36dd1f1f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-07T20:00:00+00:00"
+      "veroeffentlicht": "2026-10-08T08:23:00+00:00"
+    },
+    {
+      "titel": "Nach Huthi-Angriffen auf Riad: Saudi-Arabien greift erneut Ziele im Jemen an",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-08T08:14:35+00:00"
+    },
+    {
+      "titel": "Leipziger Flughafen: Das sollen die Männer hinter der Drohnen-Attacke sein",
+      "link": "https://www.spiegel.de/panorama/justiz/leipziger-flughafen-das-sollen-die-maenner-hinter-der-drohnen-attacke-sein-a-582fc7c1-8a69-41bc-bc3e-64358b8e59ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-08T08:00:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: CDU-Abgeordnete fordern Sven Schulze zum Rücktritt auf",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-schulze-kritik-li.3560314",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-08T07:45:15+00:00"
+    },
+    {
+      "titel": "Berlin: Rot-Grün-Rot räumt Hindernis für Sondierungen aus dem Weg",
+      "link": "https://www.sueddeutsche.de/politik/linke-spd-gruene-berlin-sondierungsgespraeche-li.3560309",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-08T07:40:58+00:00"
+    },
+    {
+      "titel": "Margaret Hamilton: Softwarepionierin der Mondlandung mit 90 Jahren gestorben",
+      "link": "https://www.spiegel.de/wissenschaft/margaret-hamilton-softwarepionierin-der-mondlandung-mit-90-jahren-gestorben-a-cdfb8da2-420e-4acf-baae-6f674803ac78#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-08T07:38:00+00:00"
+    },
+    {
+      "titel": "Nahe Münchner Flughafen: Wärmebildkamera erfolglos – Polizei sucht mit Hunden nach mutmaßlich freilaufendem Puma",
+      "link": "https://www.sueddeutsche.de/muenchen/puma-flughafen-muenchen-wildtier-sichtung-erding-polizei-suchaktion-li.3559970",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-08T07:35:56+00:00"
+    },
+    {
+      "titel": "Johannes Winkel, Chef der Jungen Union: Ist Friedrich Merz noch der richtige Kanzler? – »Das muss er jetzt beweisen«",
+      "link": "https://www.spiegel.de/politik/deutschland/johannes-winkel-chef-der-jungen-union-ist-friedrich-merz-noch-der-richtige-kanzler-das-muss-er-jetzt-beweisen-a-32d258a5-c83a-4d6d-8561-044019071642#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-08T07:32:00+00:00"
+    },
+    {
+      "titel": "Prozessbeginn: Nord-Stream-Sprengung: Legitime Kriegshandlung oder Sabotage?",
+      "link": "https://www.sueddeutsche.de/politik/nord-stream-sprengung-prozess-hamburg-ukraine-sabotage-li.3560114",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-08T07:04:10+00:00"
+    },
+    {
+      "titel": "Nord-Stream-Anschlag: Diese Indizien belasten den mutmaßlichen Saboteur",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nordstream-anschlag-prozess-olg-hamburg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-08T07:01:10+00:00"
+    },
+    {
+      "titel": "Commerzbank-Übernahme: Was auf Beschäftigte und Mittelstand zukommt",
+      "link": "https://www.tagesschau.de/wirtschaft/commerzbank-uebernahme-mitarbeiter-kunden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-08T06:57:16+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Nach Spitzentreffen: Koalition setzt auf Reformen und Abgrenzung von Extremismus",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-koalition-union-spd-landtagswahlen-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-08T06:54:17+00:00"
+    },
+    {
+      "titel": "Erste Lesung im Bundestag: Union stell Bedingungen für Steuerreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/einkommenssteuer-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-08T06:31:03+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Demokraten klagen gegen Trump wegen Wahlkampffinanzierung",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-wahlkampf-midterms-wahlkampffinanzierung-li.3558046",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-08T00:45:36+00:00"
+    },
+    {
+      "titel": "Israels Gedenktag zum 7. Oktober 2023: Die Familien der Opfer fordern eine Untersuchung",
+      "link": "https://www.sueddeutsche.de/politik/israel-hamas-angriff-7-oktober-angehoerige-opfer-untersuchung-li.3558697",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-07T23:40:21+00:00"
     },
     {
       "titel": "Newsblog zum Nahost-Krieg: Drei Tote bei Angriffen auf Flughäfen in Saudi-Arabien",
@@ -97,76 +163,10 @@
       "veroeffentlicht": "2026-10-07T19:58:58+00:00"
     },
     {
-      "titel": "Minnesota: FBI vereitelt mutmaßlichen Terroranschlag auf Einkaufszentrum",
-      "link": "https://www.spiegel.de/ausland/minnesota-fbi-vereitelt-mutmasslichen-terroranschlag-auf-einkaufszentrum-a-47b381c1-ce10-42f1-9344-f71b4c2897ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-07T19:55:00+00:00"
-    },
-    {
-      "titel": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
-      "link": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-07T19:38:22+00:00"
-    },
-    {
-      "titel": "Berlin: Hunderte Menschen gedenken der Opfer des Hamas-Anschlags",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-07T19:24:39+00:00"
-    },
-    {
-      "titel": "Christa Pike: Anwälte schildern Gesundheitszustand nach gescheiterter Hinrichtung",
-      "link": "https://www.spiegel.de/ausland/christa-pike-anwaelte-schildern-gesundheitszustand-nach-gescheiterter-hinrichtung-a-aa5f09cc-8576-4e73-9538-7f77fed6d6da#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-07T19:22:00+00:00"
-    },
-    {
-      "titel": "Neue Staatspräsidentin des Kosovos: Ein politischer Deal in letzter Minute",
-      "link": "https://www.tagesschau.de/ausland/europa/kosovo-staatspraesidentin-wahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-07T18:45:48+00:00"
-    },
-    {
       "titel": "Newsblog zum Ukraine-Krieg: Russische Großangriffe an Putins Geburtstag: Zahlreiche Tote und Verletzte",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-grossangriff-russland-kiew-tote-li.3549696",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-07T18:37:57+00:00"
-    },
-    {
-      "titel": "Münchner Flughafen: Polizei sucht mit Hubschrauber und Drohnen nach mutmaßlich freilaufendem Puma",
-      "link": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-freilaufender-puma-warnung-behoerde-li.3559970",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-07T17:01:00+00:00"
-    },
-    {
-      "titel": "Big Tech: „Facebook ist immer noch extrem gefährlich“",
-      "link": "https://www.sueddeutsche.de/kultur/interview-frances-haugen-the-social-reckoning-li.3559720",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-07T16:42:03+00:00"
-    },
-    {
-      "titel": "Bundespräsident in Paris: Ein deutsch-französischer Abschied",
-      "link": "https://www.sueddeutsche.de/politik/staatsbesuch-frankreich-bundespraesident-frank-walter-steinmeier-emmanuel-macron-li.3558856",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-07T15:30:00+00:00"
-    },
-    {
-      "titel": "Großbritannien: „Kemi Badenoch wird uns zurück an die Regierung bringen“",
-      "link": "https://www.sueddeutsche.de/politik/grossbritannien-kemi-badenoch-tories-li.3557256",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-07T15:23:10+00:00"
-    },
-    {
-      "titel": "Automobilindustrie: Merz und Macron wollen den Verbrenner retten",
-      "link": "https://www.sueddeutsche.de/wirtschaft/merz-macron-verbrenner-aus-eu-li.3560028",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-07T14:38:45+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Merz: SPD und Grüne müssen Linken-Bürgermeisterin Eralp in Berlin verhindern",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berz-berlin-eralp-buergermeisterin-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-07T14:30:12+00:00"
     }
   ]
 }
