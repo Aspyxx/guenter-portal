@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-09T06:51:33+00:00",
+  "aktualisiert": "2026-10-09T13:54:12+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Öffentliche Hinrichtung Usa",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Donald Trump will den Friedensnobelpreis",
-      "link": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
+      "titel": "Die Linke",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungsgespraeche-rot-gruen-rot-berlin-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 3,
-      "titel": "Bildungschancen für Kinder sollen verbessert werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/startchancengesetz-im-bundestag-100.html",
+      "rang": 2,
+      "titel": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Elon Musk kauft US-Mobilfunklizenzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/telekom-starlink-mittags-mb-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
     }
   ]
 }
