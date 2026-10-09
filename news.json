@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-09T15:19:18+00:00",
+  "aktualisiert": "2026-10-09T20:20:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,130 @@
   },
   "meldungen": [
     {
+      "titel": "Friedensnobelpreisträgerin Navanethem Pillay schockiert von US-Sanktionen gegen Den Haag",
+      "link": "https://www.spiegel.de/ausland/friedensnobelpreistraegerin-navanethem-pillay-schockiert-von-us-sanktionen-gegen-den-haag-a-308d91f7-72fb-482c-9977-b160db3b6c3b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T19:53:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Trump kündigt große Diesellieferungen aus Russland an",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-putin-diesel-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-09T19:27:07+00:00"
+    },
+    {
+      "titel": "England erweitert Dürregebiet auf 82 Prozent seiner Fläche",
+      "link": "https://www.spiegel.de/wissenschaft/england-erweitert-duerregebiet-auf-82-prozent-seiner-flaeche-a-3dee92b8-a624-4a7c-aaf0-9ef20e76c75d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T19:26:00+00:00"
+    },
+    {
+      "titel": "Telefonat mit Wladimir Putin: Donald Trump kündigt große Diesellieferungen aus Russland an",
+      "link": "https://www.spiegel.de/ausland/telefonat-mit-wladimir-putin-donald-trump-kuendigt-grosse-diesellieferungen-aus-russland-an-a-541e5758-9f7b-4a7d-bd98-5efe9ac9ca55#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T19:20:00+00:00"
+    },
+    {
+      "titel": "Hamburg: Art Garfunkel sagt einziges Deutschlandkonzert ab",
+      "link": "https://www.spiegel.de/kultur/musik/hamburg-art-garfunkel-sagt-einziges-deutschlandkonzert-ab-a-ecd61c9b-a11f-4c8b-925a-8a1811daeecc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T19:13:00+00:00"
+    },
+    {
+      "titel": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
+      "link": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T19:12:19+00:00"
+    },
+    {
+      "titel": "USA: Amerikaner über 75 werden immer reicher, unter 35 werden sie immer ärmer",
+      "link": "https://www.spiegel.de/ausland/usa-amerikaner-ueber-75-werden-immer-reicher-unter-35-werden-sie-immer-aermer-a-20ea3c0a-851c-4d75-b233-6cfe2178cedb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T18:40:00+00:00"
+    },
+    {
+      "titel": "Kater Larry: Downing-Street-Maskottchen erholt sich von OP",
+      "link": "https://www.spiegel.de/ausland/kater-larry-downing-street-maskottchen-erholt-sich-von-op-a-20035b99-8070-4853-bd3a-a0735240df25#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T18:36:00+00:00"
+    },
+    {
+      "titel": "Russland: Expertin Hanna Notte hält es für möglich, dass Wladimir Putin weiter eskaliert",
+      "link": "https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T18:33:00+00:00"
+    },
+    {
       "titel": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
       "link": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T15:14:28+00:00"
+      "veroeffentlicht": "2026-10-09T18:06:06+00:00"
+    },
+    {
+      "titel": "Olaf Scholz' »Zeitenwende«-Rede: Kanzleramt muss Entwurf nicht veröffentlichen",
+      "link": "https://www.spiegel.de/politik/deutschland/olaf-scholz-zeitenwende-rede-kanzleramt-muss-entwurf-nicht-veroeffentlichen-a-b868bc1d-5c43-43a3-9c68-ccf85524e9c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T17:59:00+00:00"
+    },
+    {
+      "titel": "Daniel Craig steigt ins Pub-Geschäft ein",
+      "link": "https://www.spiegel.de/panorama/leute/daniel-craig-steigt-ins-pub-geschaeft-ein-a-b12e38ae-eea7-4ae0-bc7f-597a3edfb321#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T17:57:00+00:00"
+    },
+    {
+      "titel": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T17:50:26+00:00"
+    },
+    {
+      "titel": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T17:47:36+00:00"
+    },
+    {
+      "titel": "Nobelpreisträgerin Pillay steht für die multilaterale Ordnung",
+      "link": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-pillay-voelkerrecht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T17:12:18+00:00"
+    },
+    {
+      "titel": "Völkerrecht: Trumps USA wollen Souveränität nur für sich selbst – nicht für andere",
+      "link": "https://www.sueddeutsche.de/meinung/kommentar-voelkerrecht-internationaler-strafgerichtshof-usa-trump-li.3560980",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-09T17:09:10+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Zahlreiche Linke-Politiker kritisieren Einigung zum Antisemitismus",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-berlin-linke-antisemitismus-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-09T17:00:33+00:00"
+    },
+    {
+      "titel": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T16:59:58+00:00"
+    },
+    {
+      "titel": "Scoring: Schufa gibt jetzt Auskunft zu Geheim-Archiv",
+      "link": "https://www.sueddeutsche.de/wirtschaft/schufa-historische-datenbank-auskunft-li.3561213",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-09T16:55:37+00:00"
+    },
+    {
+      "titel": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T16:10:17+00:00"
+    },
+    {
+      "titel": "Völkerrecht: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
+      "link": "https://www.sueddeutsche.de/politik/usa-internationaler-strafgerichtshof-beschaeftigte-sanktionen-li.3560921",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-09T15:44:04+00:00"
     },
     {
       "titel": "Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung",
@@ -19,58 +139,10 @@
       "veroeffentlicht": "2026-10-09T15:12:24+00:00"
     },
     {
-      "titel": "USA verhängen weitreichende Sanktionen gegen Internationalen Strafgerichtshof",
-      "link": "https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T15:07:00+00:00"
-    },
-    {
-      "titel": "Lisa Cook: Trump will Fed-Direktorin per Untersuchungsausschuss loswerden",
-      "link": "https://www.spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T14:56:00+00:00"
-    },
-    {
-      "titel": "Adis Ahmetović: Ermittlungen gegen SPD-Bundestagsabgeordneten - der Überblick zum Fall",
-      "link": "https://www.spiegel.de/panorama/justiz/adis-ahmetovic-ermittlungen-gegen-spd-bundestagsabgeordneten-der-ueberblick-zum-fall-a-1339f6b3-48cd-45c9-bdfc-fffb510c415d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T14:52:00+00:00"
-    },
-    {
-      "titel": "Instagram: Sorry, dass wir zu vielen »Higher« von Creed angeboten haben",
-      "link": "https://www.spiegel.de/kultur/musik/instagram-sorry-dass-wir-zu-vielen-higher-von-creed-angeboten-haben-a-780c7097-ee49-4d61-84ed-7bb5e4274fef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T14:48:00+00:00"
-    },
-    {
-      "titel": "Herbert Reul: Nordrhein-Westfalens Innenminister bricht sich die Hüfte",
-      "link": "https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T14:29:00+00:00"
-    },
-    {
-      "titel": "Iran: Gericht verurteilt 23-Jährige wegen eines Social-Media-Posts zum Tode",
-      "link": "https://www.spiegel.de/ausland/iran-gericht-verurteilt-23-jaehrige-wegen-eines-social-media-posts-zum-tode-a-078c6bcf-5747-469d-ae6f-09e696c945c7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T14:23:00+00:00"
-    },
-    {
-      "titel": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T14:22:58+00:00"
-    },
-    {
-      "titel": "Patti Smith versteckte sich bei Vatikan-Besuch vor Papst Leo XIV.",
-      "link": "https://www.spiegel.de/panorama/leute/patti-smith-versteckte-sich-bei-vatikan-besuch-vor-papst-leo-xiv-a-5aa1f2d7-4c18-4f00-a95d-7453aa338528#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T14:18:00+00:00"
-    },
-    {
-      "titel": "Berngau: Wie Deutschland seine Waffenbesitzer kontrolliert",
-      "link": "https://www.spiegel.de/panorama/justiz/schusswaffenkontrolle-in-berngau-wie-deutschland-seine-waffenbesitzer-kontrolliert-a-57e3ab18-3c1b-44b8-a9c6-cb1ff9e84799#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T14:18:00+00:00"
+      "titel": "Debatte: Herzlichen Glückwunsch",
+      "link": "https://www.sueddeutsche.de/kultur/schroeder-putin-geburtstag-krise-demokratie-li.3560494",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-09T14:48:57+00:00"
     },
     {
       "titel": "Ist die Deutsche Bahn unter Konzernchefin Palla auf dem richtigen Weg?",
@@ -79,22 +151,10 @@
       "veroeffentlicht": "2026-10-09T14:17:27+00:00"
     },
     {
-      "titel": "Sachsen-Anhalt: Menschenkette verhindert Teilnahme von AfD-Politiker Tillschneider an Halle-Gedenken",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-menschenkette-verhindert-teilnahme-von-afd-politiker-tillschneider-an-halle-gedenken-a-2f0f423b-d452-4087-89d8-3bbd05835c5c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T14:15:00+00:00"
-    },
-    {
       "titel": "USA-Newsblog: Evakuierungen wegen erstarkendem Hurrikan „Isaias“",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-hurrikan-isaias-sturm-evakuierung-li.3558046",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-09T14:01:27+00:00"
-    },
-    {
-      "titel": "Bayerns Innenminister gibt Details über Schützen in Berngau bekannt",
-      "link": "https://www.tagesschau.de/inland/berngau-schuesse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T13:55:03+00:00"
     },
     {
       "titel": "Leute: Endlich bei den Coolen",
@@ -103,70 +163,10 @@
       "veroeffentlicht": "2026-10-09T13:51:03+00:00"
     },
     {
-      "titel": "Große Empörung über Putin-Besuch von Altkanzler Schröder",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T13:06:22+00:00"
-    },
-    {
-      "titel": "Friedensnobelpreis: Dies ist eine Ohrfeige für Trump und seinesgleichen",
-      "link": "https://www.sueddeutsche.de/meinung/friedensnobelpreis-navanethem-navi-pillay-kommentar-li.3560936",
+      "titel": "Treffen des Weimarer Dreiecks: „Wir wollen zeigen, dass wir uns wirklich mögen“",
+      "link": "https://www.sueddeutsche.de/politik/polen-kloeckner-weimarer-dreieck-ukraine-li.3560943",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T12:43:47+00:00"
-    },
-    {
-      "titel": "Oslo: Südafrikanerin Navi Pillay erhält Friedensnobelpreis",
-      "link": "https://www.sueddeutsche.de/politik/norwegen-oslo-friedensnobelpreis-navanethem-navi-pillay-li.3560924",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T12:36:00+00:00"
-    },
-    {
-      "titel": "Friedensnobelpreis geht an Navanethem \"Navi\" Pillay",
-      "link": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-navi-pillay-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T12:35:22+00:00"
-    },
-    {
-      "titel": "Bahn will bis 2031 weniger wichtige Strecken sanieren bisher geplant",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-saniert-weniger-wichtige-strecken-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T12:34:02+00:00"
-    },
-    {
-      "titel": "Nach den Schüssen von Berngau: „Warum das so eskaliert ist, wissen wir nicht“",
-      "link": "https://www.sueddeutsche.de/bayern/schuesse-berngau-neumarkt-taeter-infos-landratsamt-tote-schock-li.3560902",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T12:33:00+00:00"
-    },
-    {
-      "titel": "Berg in der Oberpfalz: Suche nach vermisster Frau – Menschliche Überreste gefunden",
-      "link": "https://www.sueddeutsche.de/bayern/kerstin-lee-langley-regensburg-berg-oberpfalz-vermisst-li.3561175",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T12:23:03+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: AfD-Rechtsaußen Tillschneider an Teilnahme an Halle-Gedenken gehindert",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-afd-halle-gedenken-synagoge-tillschneider-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T12:16:29+00:00"
-    },
-    {
-      "titel": "Friedensnobelpreisträgerin Navi Pillay: Mit Recht gegen die Stärkeren",
-      "link": "https://www.sueddeutsche.de/politik/friedensnobelpreis-2026-navi-pillay-internationaler-strafgerichtshof-suedafrika-li.3561046",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T12:04:18+00:00"
-    },
-    {
-      "titel": "Altersvorsorge: „Der Abschied vom öffentlichen Standarddepot wäre ein Desaster für alle Sparer“",
-      "link": "https://www.sueddeutsche.de/politik/altersvorsorge-depot-standarddepot-verzoegerung-kritik-gruene-li.3560926",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T11:59:24+00:00"
-    },
-    {
-      "titel": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
-      "link": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T11:43:47+00:00"
+      "veroeffentlicht": "2026-10-09T13:13:27+00:00"
     }
   ]
 }
