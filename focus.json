@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-09T13:54:12+00:00",
+  "aktualisiert": "2026-10-09T19:05:59+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Die Linke",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungsgespraeche-rot-gruen-rot-berlin-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 2,
-      "titel": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html",
+      "titel": "Nobelpreisträgerin Pillay steht für die multilaterale Ordnung",
+      "link": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-pillay-voelkerrecht-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
-      "titel": "Elon Musk kauft US-Mobilfunklizenzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/telekom-starlink-mittags-mb-100.html",
+      "rang": 2,
+      "titel": "Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🏛️"
+    },
+    {
+      "rang": 3,
+      "titel": "\"Bildungschancen sollten von Talenten bestimmt sein\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
