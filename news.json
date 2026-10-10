@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-09T20:20:05+00:00",
+  "aktualisiert": "2026-10-10T00:20:01+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,64 @@
   },
   "meldungen": [
     {
-      "titel": "Friedensnobelpreisträgerin Navanethem Pillay schockiert von US-Sanktionen gegen Den Haag",
-      "link": "https://www.spiegel.de/ausland/friedensnobelpreistraegerin-navanethem-pillay-schockiert-von-us-sanktionen-gegen-den-haag-a-308d91f7-72fb-482c-9977-b160db3b6c3b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T19:53:00+00:00"
+      "titel": "Schweres Erdbeben erschüttert Panama",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T23:58:47+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Trump kündigt große Diesellieferungen aus Russland an",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-putin-diesel-li.3549696",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T19:27:07+00:00"
+      "veroeffentlicht": "2026-10-09T23:21:20+00:00"
+    },
+    {
+      "titel": "China sagt EU weniger Exporte von Hybridautos zu",
+      "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T22:54:50+00:00"
+    },
+    {
+      "titel": "Trump kündigt russische Diesel-Lieferungen an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T22:19:16+00:00"
+    },
+    {
+      "titel": "Donald Trump: Katie Zacharia wird neue Sprecherin des Weißen Hauses",
+      "link": "https://www.spiegel.de/ausland/donald-trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses-a-dd18d829-65f2-4bbb-866e-3ba13dceca0e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T21:05:00+00:00"
+    },
+    {
+      "titel": "DFB-Frauen feiern 4:2 gegen Australien",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-frauen-feiern-4-2-gegen-australien-a-17552573-7e1d-4d56-9cf2-a77887bcfc6f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T20:59:00+00:00"
+    },
+    {
+      "titel": "Werder Bremen - Niclas Füllkrug schockt Borussia Dortmund in der Nachspielzeit",
+      "link": "https://www.spiegel.de/sport/werder-bremen-niclas-fuellkrug-schockt-borussia-dortmund-in-der-nachspielzeit-a-59d58994-2acf-43ca-9824-2669a0552f81#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T20:43:00+00:00"
+    },
+    {
+      "titel": "Nobelpreisträgerin Pillay in den tagesthemen: \"Die Nürnberger Prozesse haben mich inspiriert\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-09T20:35:39+00:00"
+    },
+    {
+      "titel": "Ex-ZDF-Chefredakteur Klaus Bresser gestorben - er wurde 90",
+      "link": "https://www.spiegel.de/kultur/ex-zdf-chefredakteur-klaus-bresser-gestorben-er-wurde-90-a-0c0ea9d3-73f4-468a-9587-a2fe549bf379#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T20:32:00+00:00"
+    },
+    {
+      "titel": "Friedensnobelpreisträgerin Navanethem Pillay schockiert von US-Sanktionen gegen Den Haag",
+      "link": "https://www.spiegel.de/ausland/friedensnobelpreistraegerin-navanethem-pillay-schockiert-von-us-sanktionen-gegen-den-haag-a-308d91f7-72fb-482c-9977-b160db3b6c3b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-09T19:53:00+00:00"
     },
     {
       "titel": "England erweitert Dürregebiet auf 82 Prozent seiner Fläche",
@@ -49,34 +97,10 @@
       "veroeffentlicht": "2026-10-09T18:40:00+00:00"
     },
     {
-      "titel": "Kater Larry: Downing-Street-Maskottchen erholt sich von OP",
-      "link": "https://www.spiegel.de/ausland/kater-larry-downing-street-maskottchen-erholt-sich-von-op-a-20035b99-8070-4853-bd3a-a0735240df25#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T18:36:00+00:00"
-    },
-    {
-      "titel": "Russland: Expertin Hanna Notte hält es für möglich, dass Wladimir Putin weiter eskaliert",
-      "link": "https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T18:33:00+00:00"
-    },
-    {
       "titel": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
       "link": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-09T18:06:06+00:00"
-    },
-    {
-      "titel": "Olaf Scholz' »Zeitenwende«-Rede: Kanzleramt muss Entwurf nicht veröffentlichen",
-      "link": "https://www.spiegel.de/politik/deutschland/olaf-scholz-zeitenwende-rede-kanzleramt-muss-entwurf-nicht-veroeffentlichen-a-b868bc1d-5c43-43a3-9c68-ccf85524e9c2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T17:59:00+00:00"
-    },
-    {
-      "titel": "Daniel Craig steigt ins Pub-Geschäft ein",
-      "link": "https://www.spiegel.de/panorama/leute/daniel-craig-steigt-ins-pub-geschaeft-ein-a-b12e38ae-eea7-4ae0-bc7f-597a3edfb321#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-09T17:57:00+00:00"
     },
     {
       "titel": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
@@ -109,22 +133,10 @@
       "veroeffentlicht": "2026-10-09T17:00:33+00:00"
     },
     {
-      "titel": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T16:59:58+00:00"
-    },
-    {
       "titel": "Scoring: Schufa gibt jetzt Auskunft zu Geheim-Archiv",
       "link": "https://www.sueddeutsche.de/wirtschaft/schufa-historische-datenbank-auskunft-li.3561213",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-09T16:55:37+00:00"
-    },
-    {
-      "titel": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T16:10:17+00:00"
     },
     {
       "titel": "Völkerrecht: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
@@ -133,22 +145,10 @@
       "veroeffentlicht": "2026-10-09T15:44:04+00:00"
     },
     {
-      "titel": "Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/russland-altkanzler-schroeder-putin-geburtstag-kritik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T15:12:24+00:00"
-    },
-    {
       "titel": "Debatte: Herzlichen Glückwunsch",
       "link": "https://www.sueddeutsche.de/kultur/schroeder-putin-geburtstag-krise-demokratie-li.3560494",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-09T14:48:57+00:00"
-    },
-    {
-      "titel": "Ist die Deutsche Bahn unter Konzernchefin Palla auf dem richtigen Weg?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-palla-bilanz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T14:17:27+00:00"
     },
     {
       "titel": "USA-Newsblog: Evakuierungen wegen erstarkendem Hurrikan „Isaias“",
