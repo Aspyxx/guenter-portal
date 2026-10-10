@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-10T06:24:42+00:00",
+  "aktualisiert": "2026-10-10T13:04:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,34 +7,142 @@
   },
   "meldungen": [
     {
-      "titel": "Aufwachsen ohne Eltern: Wie Ehrenamtliche eine Lücke schließen",
-      "link": "https://www.tagesschau.de/inland/mittendrin/ehrenamt-wegbegleitung-kinder-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T06:16:51+00:00"
+      "titel": "SZ Live: Wie fühlt es sich an, den Deutschen Buchpreis zu gewinnen?",
+      "link": "https://www.sueddeutsche.de/kultur/frankfurter-buchmesse-livestream-sz-li.3555197",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-10T13:00:10+00:00"
     },
     {
-      "titel": "Donald Trump attackiert Friedensnobelpreiskomitee und Norwegen",
-      "link": "https://www.spiegel.de/ausland/donald-trump-attackiert-friedensnobelpreiskomitee-und-norwegen-a-df8e71b4-06a1-440b-bd31-fb21df42340d#ref=rss",
+      "titel": "Uli Hoeneß in den Siebzigern: Gemeinsam über die rote Ampel",
+      "link": "https://www.spiegel.de/panorama/uli-hoeness-in-den-siebzigern-gemeinsam-ueber-die-rote-ampel-a-6fae9b8b-0b4b-4f23-a922-8babb7acb211#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T06:15:00+00:00"
+      "veroeffentlicht": "2026-10-10T12:49:00+00:00"
     },
     {
-      "titel": "Anthropic-KI stellt Visa-Anträge bei US-Außenministerium",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
+      "titel": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T05:48:52+00:00"
+      "veroeffentlicht": "2026-10-10T12:44:57+00:00"
     },
     {
-      "titel": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T05:44:11+00:00"
-    },
-    {
-      "titel": "Florida: Tropischer Wirbelsturm sorgt für Stromausfälle an der US-Golfküste",
-      "link": "https://www.spiegel.de/panorama/florida-tropischer-wirbelsturm-sorgt-fuer-stromausfaelle-an-der-us-golfkueste-a-099a6424-d112-4896-a8bb-b37c08db4f22#ref=rss",
+      "titel": "Lombardei-Rundfahrt: Radprofis verzögern den Start und protestieren für mehr Sicherheit",
+      "link": "https://www.spiegel.de/sport/radsport/lombardei-rundfahrt-radprofis-verzoegern-den-start-und-protestieren-fuer-mehr-sicherheit-a-6d4209de-231a-4f15-aaba-f4688b9e736c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T05:39:00+00:00"
+      "veroeffentlicht": "2026-10-10T12:35:00+00:00"
+    },
+    {
+      "titel": "Paula Schwarz: Warum diese Frau durch ihr Millionenerbe unglücklich wurde",
+      "link": "https://www.spiegel.de/wirtschaft/paula-schwarz-warum-diese-frau-durch-ihr-millionenerbe-ungluecklich-wurde-a-5ef0b2a7-e47c-4eba-9fad-70f476f66d93#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T12:19:00+00:00"
+    },
+    {
+      "titel": "\"Ragebait\" ist Jugendwort des Jahres 2026",
+      "link": "https://www.tagesschau.de/kultur/jugendwort-des-jahres-ragebait-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T12:00:48+00:00"
+    },
+    {
+      "titel": "Jugendwort des Jahres 2026: »Ragebait« setzt sich gegen »Peak« und »Crashout« durch",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/jugendwort-des-jahres-2026-ragebait-setzt-sich-gegen-peak-und-crashout-durch-a-c8c4e883-adc9-4a76-b8d5-1fae20f8bdbe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T11:59:00+00:00"
+    },
+    {
+      "titel": "Berngau: Schütze von Berngau war einst bei der Polizei",
+      "link": "https://www.spiegel.de/panorama/justiz/berngau-schuetze-von-berngau-war-einst-bei-der-polizei-a-77b9c790-6eeb-4737-bdff-065f0b8ab31e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T11:49:00+00:00"
+    },
+    {
+      "titel": "Cem Özdemir: »Fünf vor zwölf« – Grünenpolitiker mahnt Regierung zur Einigkeit",
+      "link": "https://www.spiegel.de/politik/deutschland/cem-oezdemir-fuenf-vor-zwoelf-gruenenpolitiker-mahnt-regierung-zur-einigkeit-a-8ab277c6-669a-4175-a7a3-5d2445f134ab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T11:29:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Nach Trumps Diesel-Deal: Bundesregierung will an Sanktionen festhalten",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-usa-russland-diesel-sanktionen-deutschland-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-10T11:24:15+00:00"
+    },
+    {
+      "titel": "Formel-1-Sprint in Singapur: Max Verstappen gewinnt im Regenchaos, George Russell scheidet aus",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-sprint-in-singapur-max-verstappen-gewinnt-im-regenchaos-george-russell-scheidet-aus-a-37ded3ec-b8b1-434a-b4d9-68f1ae588112#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T11:16:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Wolodymyr Selenskyj wirft Russland Gleitbomben-Angriff auf Wohnhäuser vor",
+      "link": "https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T11:12:00+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Tote bei Angriffen auf Saporischschja – Ukraine mit Gegenangriffen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-angriffe-saporischschja-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-10T11:09:37+00:00"
+    },
+    {
+      "titel": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T11:08:42+00:00"
+    },
+    {
+      "titel": "Polen: Mehr als 70 Festnahmen nach Messerattacken an Schulen",
+      "link": "https://www.spiegel.de/ausland/polen-mehr-als-70-festnahmen-nach-messerattacken-an-schulen-a-e1b59e5d-a9f4-431a-af48-a168a4324cb3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T11:08:00+00:00"
+    },
+    {
+      "titel": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T10:54:13+00:00"
+    },
+    {
+      "titel": "Geopolitik: Trumps Diesel-Deal mit Putin ist beschämend",
+      "link": "https://www.sueddeutsche.de/meinung/trump-putin-ukraine-diesel-kommentar-li.3561449",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-10T10:28:08+00:00"
+    },
+    {
+      "titel": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T10:15:19+00:00"
+    },
+    {
+      "titel": "Schweres Erdbeben erschüttert Panama",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T09:34:50+00:00"
+    },
+    {
+      "titel": "Traumapsychologin: „Man kann vom Verhalten der Betroffenen nicht darauf schließen, was passiert ist“",
+      "link": "https://www.sueddeutsche.de/panorama/gruppenvergewaltigung-cornell-university-jane-doe-psychologin-interview-li.3560321",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-10T09:24:51+00:00"
+    },
+    {
+      "titel": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T09:04:58+00:00"
+    },
+    {
+      "titel": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T07:37:37+00:00"
+    },
+    {
+      "titel": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T06:32:43+00:00"
     },
     {
       "titel": "Neue Pressesprecherin im Weißen Haus: Katie Zacharia, Trumps neues Sprachrohr",
@@ -43,64 +151,10 @@
       "veroeffentlicht": "2026-10-10T05:31:45+00:00"
     },
     {
-      "titel": "Frankreich: Frank-Walter Steinmeier verabschiedet sich von Emmanuel Macron",
-      "link": "https://www.spiegel.de/ausland/frankreich-frank-walter-steinmeier-verabschiedet-sich-von-emmanuel-macron-a-1d1bf67f-3c4f-409f-86d4-25f040108344#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T05:11:00+00:00"
-    },
-    {
-      "titel": "Gaza: Ein Jahr Waffenruhe – Warum der Krieg noch nicht zu Ende ist",
-      "link": "https://www.spiegel.de/ausland/gaza-ein-jahr-waffenruhe-warum-der-krieg-noch-nicht-zu-ende-ist-a-414ca4d9-1179-41b6-8f59-ed2f444557a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T04:55:00+00:00"
-    },
-    {
-      "titel": "Auto kaufen: Ich teste viele Neuwagen – mein alter Benz wird sie wahrscheinlich alle überleben",
-      "link": "https://www.spiegel.de/mobilitaet/auto/auto-kaufen-ich-teste-viele-neuwagen-mein-alter-benz-wird-sie-wahrscheinlich-alle-ueberleben-a-eb096169-d260-48b1-ace0-9cdebd438b23#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T04:52:00+00:00"
-    },
-    {
-      "titel": "Elizaveta Porodina über Brad Pitt und Co.: Was macht diese Fotografin anders als ein Mann?",
-      "link": "https://www.spiegel.de/kultur/elizaveta-porodina-ueber-brad-pitt-und-co-was-macht-diese-fotografin-anders-als-ein-mann-a-e33c58d9-993c-4edf-a1ef-d15aad833ca3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T04:51:00+00:00"
-    },
-    {
-      "titel": "Pete Hegseth: Die US-Regierung will eine Hinrichtung live übertragen. Ist das ein Zivilisationsbruch?",
-      "link": "https://www.spiegel.de/kultur/pete-hegseth-die-us-regierung-will-eine-hinrichtung-live-uebertragen-ist-das-ein-zivilisationsbruch-a-226506ec-80f1-44aa-b25e-992e08a86388#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T04:34:00+00:00"
-    },
-    {
-      "titel": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T03:56:30+00:00"
-    },
-    {
-      "titel": "Mentale Gesundheit und Urlaub: Wie verreist man mit Angststörungen und Panikattacken?",
-      "link": "https://www.spiegel.de/reise/mentale-gesundheit-und-urlaub-wie-verreist-man-mit-angststoerungen-und-panikattacken-a-c92963f9-c5ef-4573-bbbb-d8d9da179aca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T03:30:00+00:00"
-    },
-    {
-      "titel": "Von Sylt bis in die Alpen: 35 Ausflugstipps in Deutschland, die sich lohnen",
-      "link": "https://www.spiegel.de/reise/deutschland/von-sylt-bis-in-die-alpen-35-ausflugstipps-in-deutschland-die-sich-lohnen-a-7f5b3e18-b89c-45e9-840b-110b69c55db5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T03:30:00+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Hurrikan „Isaias“ trifft auf US-Golfküste",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-hurrikan-isaias-sturm-evakuierung-li.3558046",
+      "titel": "USA-Newsblog: „Isaias“ schwächt sich ab und ist kein Hurrikan mehr",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-hurrikan-isaias-sturm-evakuierungen-li.3558046",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-10T03:16:11+00:00"
-    },
-    {
-      "titel": "Trump kündigt russische Diesel-Lieferungen an",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T02:43:04+00:00"
     },
     {
       "titel": "Energiepreise: Trump importiert Diesel aus Russland und brüskiert die Ukraine",
@@ -109,64 +163,10 @@
       "veroeffentlicht": "2026-10-10T00:17:23+00:00"
     },
     {
-      "titel": "Schweres Erdbeben erschüttert Panama",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T23:58:47+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Trump kündigt große Diesellieferungen aus Russland an",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-putin-diesel-li.3549696",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T23:21:20+00:00"
-    },
-    {
-      "titel": "China sagt EU weniger Exporte von Hybridautos zu",
-      "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T22:54:50+00:00"
-    },
-    {
-      "titel": "Nobelpreisträgerin Pillay in den tagesthemen: \"Die Nürnberger Prozesse haben mich inspiriert\"",
-      "link": "https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T20:35:39+00:00"
-    },
-    {
       "titel": "Isabella Weber: „Die AfD tritt die Interessen der Menschen mit Füßen“",
       "link": "https://www.sueddeutsche.de/wirtschaft/isabella-weber-afd-antifaschistische-wirtschaftspolitik-rechtsextremismus-li.3555616",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-09T20:15:18+00:00"
-    },
-    {
-      "titel": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
-      "link": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-09T19:12:19+00:00"
-    },
-    {
-      "titel": "Öffentliche Hinrichtung: Unter Trump begeben die USA sich auf das Niveau des IS",
-      "link": "https://www.sueddeutsche.de/meinung/usa-trump-hinrichtung-livestream-kommentar-li.3561158",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T17:32:26+00:00"
-    },
-    {
-      "titel": "Völkerrecht: Trumps USA wollen Souveränität nur für sich selbst – nicht für andere",
-      "link": "https://www.sueddeutsche.de/meinung/kommentar-voelkerrecht-internationaler-strafgerichtshof-usa-trump-li.3560980",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T17:09:10+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Zahlreiche Linke-Politiker kritisieren Einigung zum Antisemitismus",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-berlin-linke-antisemitismus-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T17:00:33+00:00"
-    },
-    {
-      "titel": "Scoring: Schufa gibt jetzt Auskunft zu Geheim-Archiv",
-      "link": "https://www.sueddeutsche.de/wirtschaft/schufa-historische-datenbank-auskunft-li.3561213",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-09T16:55:37+00:00"
     }
   ]
 }
