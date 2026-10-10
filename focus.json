@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-10T14:51:09+00:00",
+  "aktualisiert": "2026-10-10T18:59:01+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
+      "titel": "Below Serie",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🗳️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
+      "titel": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+      "titel": "Bundestagswahl",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🗳️"
     }
   ]
 }
