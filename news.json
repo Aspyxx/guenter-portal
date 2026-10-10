@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-10T17:52:25+00:00",
+  "aktualisiert": "2026-10-10T21:46:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "Ukraine: Donald Trump fordert Machtwechsel in Kiew nach Diesel-Streit",
-      "link": "https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss",
+      "titel": "USA: Neun Tote nach Schüssen in Pennsylvania",
+      "link": "https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T17:43:00+00:00"
+      "veroeffentlicht": "2026-10-10T20:46:00+00:00"
+    },
+    {
+      "titel": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T20:44:04+00:00"
+    },
+    {
+      "titel": "Britney Spears veröffentlicht neuen Song »She'll Never Be Me«",
+      "link": "https://www.spiegel.de/panorama/leute/britney-spears-veroeffentlicht-neuen-song-shell-never-be-me-a-06d88c6a-0806-4a22-b93c-8d7b79f1fbaa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T20:39:00+00:00"
+    },
+    {
+      "titel": "Ironman auf Hawaii: Patrick Lange muss mit Krämpfen aufgeben",
+      "link": "https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T20:28:00+00:00"
+    },
+    {
+      "titel": "Huthi-Miliz greift offenbar Flughafen in Riad an",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T20:08:55+00:00"
+    },
+    {
+      "titel": "Begleiteter Suizid: Verschiebt sich die Idee davon, was wir als lebenswert empfinden und was nicht?",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T19:34:00+00:00"
+    },
+    {
+      "titel": "Yorkshire Wildlife Park: Mann betritt Tiger-Gehege und wird tödlich verletzt",
+      "link": "https://www.spiegel.de/panorama/yorkshire-wildlife-park-mann-betritt-tiger-gehege-und-wird-toedlich-verletzt-a-a3d54403-498b-4a44-92bc-fab3630462f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T19:30:00+00:00"
+    },
+    {
+      "titel": "Russland hebt Verbot von Diesel-Exporten teilweise auf",
+      "link": "https://www.spiegel.de/ausland/russland-hebt-verbot-von-diesel-exporten-teilweise-auf-a-2a2f3424-b3a5-4423-a58a-99ce4ddfaf4f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T19:10:00+00:00"
+    },
+    {
+      "titel": "Japan: Mutmaßlicher Mordfall auf Okinawa - Warum jetzt gegen das US-Militär protestiert wird",
+      "link": "https://www.spiegel.de/ausland/japan-mutmasslicher-mordfall-auf-okinawa-warum-jetzt-gegen-das-us-militaer-protestiert-wird-a-fd4f98b1-7350-49fe-a68b-30b5d73c5281#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T19:06:00+00:00"
+    },
+    {
+      "titel": "Fußball-Bundesliga: RB Leipzig demontiert Eintracht Frankfurt dank Christopher Nkunku",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-demontiert-eintracht-frankfurt-dank-christopher-nkunku-a-7b071c60-1130-4508-9c11-89c615358310#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T18:45:00+00:00"
+    },
+    {
+      "titel": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T18:26:35+00:00"
+    },
+    {
+      "titel": "USA: Kentucky eröffnet Drive-In-Wahllokal aus Sorge vor Einschränkung der Stimmabgabe",
+      "link": "https://www.spiegel.de/ausland/usa-kentucky-eroeffnet-drive-in-wahllokal-aus-sorge-vor-einschraenkung-der-stimmabgabe-a-94323168-002c-4c88-aec3-fbda7e6102e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T18:25:00+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Trump wettert gegen Selenskij: Ukraine soll „sich einen neuen Anführer suchen“",
@@ -19,40 +85,10 @@
       "veroeffentlicht": "2026-10-10T17:26:04+00:00"
     },
     {
-      "titel": "Russland räumt Tod von Labormitarbeiterin ein – weist aber Pestverdacht zurück",
-      "link": "https://www.spiegel.de/ausland/russland-raeumt-tod-von-labormitarbeiterin-ein-weist-aber-pest-verdacht-zurueck-a-2230aaf2-acd9-4645-b1de-43afa36c6aab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T17:25:00+00:00"
-    },
-    {
       "titel": "Parteitag der bayerischen Grünen: „Diese Bundesrepublik ist das beste Deutschland, das wir je hatten“",
       "link": "https://www.sueddeutsche.de/bayern/gruene-bayern-parteitag-landshut-katharina-schulze-afd-li.3558711",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-10T16:58:19+00:00"
-    },
-    {
-      "titel": "Saudi-Arabien: Bundesregierung rät von Flügen über Riad ab",
-      "link": "https://www.spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab-a-9c214d82-2e3e-4b10-8637-4020e9e23dd6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T16:47:00+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: Vier Abseitstore, ein Punkt – die Rechnung des FC Bayern geht nicht auf",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-vier-abseitstore-ein-punkt-die-rechnung-des-fc-bayern-geht-nicht-auf-a-9b9458c9-a025-4579-907f-8a339b397296#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T16:46:00+00:00"
-    },
-    {
-      "titel": "Huthi-Miliz greift offenbar Flughafen in Riad an",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T16:44:22+00:00"
-    },
-    {
-      "titel": "Christa Pike verlässt nach gescheiterter Hinrichtung verlässt Krankenhaus",
-      "link": "https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus-a-a4e1bdd6-03c5-4237-a480-40f3661533df#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T16:44:00+00:00"
     },
     {
       "titel": "Serie von Messerattacken an Schulen in Polen",
@@ -61,25 +97,13 @@
       "veroeffentlicht": "2026-10-10T16:33:42+00:00"
     },
     {
-      "titel": "Donald Trump: Expertin zweifelt an sinkenden Spritpreisen durch Diesel-Deal",
-      "link": "https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal-a-e763aab8-f9c6-4509-a140-832b0d3b4ac1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T16:07:00+00:00"
-    },
-    {
-      "titel": "Radsport-Supertalent Paul Seixas wird jüngster Sieger der Lombardei-Rundfahrt",
-      "link": "https://www.spiegel.de/sport/radsport/radsport-supertalent-paul-seixas-wird-juengster-sieger-der-lombardei-rundfahrt-a-e27165e8-2209-4117-936c-aebc19f5074b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T16:06:00+00:00"
-    },
-    {
       "titel": "Mehrere Tote durch russische Angriffe auf Saporischschja",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-10T16:05:24+00:00"
     },
     {
-      "titel": "Bundesliga: Der Tag der Kunsttore",
+      "titel": "Bundesliga: Leipziger Spektakel am Tag der Kunsttore",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-spiele-leverkusen-hsv-stuttgart-tore-tabelle-li.3561565",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-10T15:56:37+00:00"
@@ -89,18 +113,6 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-augsburg-manuel-neuer-patzer-li.3561543",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-10T15:55:22+00:00"
-    },
-    {
-      "titel": "Palästina: Mahmoud Abbas verschiebt Wahlen auf 2027",
-      "link": "https://www.spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027-a-27bca8bc-3566-4072-9eda-ae3c126e35e6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T15:47:00+00:00"
-    },
-    {
-      "titel": "Berlin: Ladenbesitzer nach Aushängen zu Hamas-Angriff mehrfach attackiert",
-      "link": "https://www.spiegel.de/panorama/justiz/berlin-ladenbesitzer-nach-aushaengen-zu-hamas-angriff-mehrfach-attackiert-a-5e68a44a-bfea-4d72-a7b9-220e0aa29591#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T15:40:00+00:00"
     },
     {
       "titel": "CDU diskutiert über Umgang mit der AfD",
@@ -139,12 +151,6 @@
       "veroeffentlicht": "2026-10-10T14:22:48+00:00"
     },
     {
-      "titel": "Grippe- und Erkältungssaison 2026/27: Was Deutschland erwartet",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T14:08:35+00:00"
-    },
-    {
       "titel": "Portugal: Ronaldo ist vorläufig suspendiert",
       "link": "https://www.sueddeutsche.de/sport/cristiano-ronaldo-portugal-suspendiert-cr7-li.3561549",
       "quelle": "Süddeutsche",
@@ -152,7 +158,7 @@
     },
     {
       "titel": "DFB-Frauen: Noch kein WM-Casting, aber...",
-      "link": "https://www.sueddeutsche.de/sport/dfb-frauen-australien-koessler-zicai-wueck-laenderspiel-li.3561365",
+      "link": "https://www.sueddeutsche.de/sport/dfb-frauen-australien-koessler-zicai-wueck-laenderspiel-fussball-wm-li.3561365",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-10T13:13:33+00:00"
     },
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-sachsen-anhalt-berlin-linke-antisemitismus-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-10T13:07:41+00:00"
-    },
-    {
-      "titel": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T13:07:24+00:00"
     }
   ]
 }
