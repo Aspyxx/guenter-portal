@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-10T08:44:47+00:00",
+  "aktualisiert": "2026-10-10T14:51:09+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Trump kündigt russische Diesellieferungen an",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+      "titel": "Bundestagswahl",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🗳️"
     },
     {
       "rang": 2,
-      "titel": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
+      "titel": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
+      "titel": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     }
   ]
 }
