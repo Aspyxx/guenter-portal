@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-11T01:01:22+00:00",
+  "aktualisiert": "2026-10-11T07:14:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,88 +7,118 @@
   },
   "meldungen": [
     {
-      "titel": "Straße von Hormus: Geschoss setzt Öltanker in Brand",
-      "link": "https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss",
+      "titel": "Indien: Anführer der »Kakerlaken-Bewegung« wieder frei",
+      "link": "https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T00:09:00+00:00"
+      "veroeffentlicht": "2026-10-11T07:03:00+00:00"
     },
     {
       "titel": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
       "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T23:56:54+00:00"
+      "veroeffentlicht": "2026-10-11T07:00:52+00:00"
+    },
+    {
+      "titel": "Einbrüche in Sachsen-Anhalt: Das Diebesgut investierten sie in Luxusautos",
+      "link": "https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos-a-25db4a5b-78fd-462f-9721-ec948becb18d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T06:58:00+00:00"
+    },
+    {
+      "titel": "Reinhold Messner und Frau Diane im Interview: »Ich ordne mich meiner Frau unter«",
+      "link": "https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T06:32:00+00:00"
+    },
+    {
+      "titel": "Schutzstatus in Deutschland: Asylklagen dauern wieder länger",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T06:21:19+00:00"
+    },
+    {
+      "titel": "Bürgermeisterwahl: Entscheidung in Krakau - Stimmungstest für Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T06:19:57+00:00"
+    },
+    {
+      "titel": "Internationaler Weltmädchentag: Welche Chancen haben Mädchen heute?",
+      "link": "https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T06:19:00+00:00"
+    },
+    {
+      "titel": "Horst Seehofer wirft Friedrich Merz Bruch von Wahlversprechen vor",
+      "link": "https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T06:15:00+00:00"
+    },
+    {
+      "titel": "Christian Sewing: Deutsche-Bank-Boss stellt Kündigungsschutz für Topverdiener infrage",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T05:59:00+00:00"
+    },
+    {
+      "titel": "Gespräche in Athen: Rubio umwirbt die Gas-Drehscheibe Griechenland",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-usa-gas-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T05:43:37+00:00"
+    },
+    {
+      "titel": "Rätsel der Woche: Was passiert mit dem Wasserstand",
+      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T04:52:00+00:00"
+    },
+    {
+      "titel": "Sexuelle Belästigung im Taxi: Wie eine Frau sich gewehrt hat - und was die Polizei dazu sagt",
+      "link": "https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T04:51:00+00:00"
+    },
+    {
+      "titel": "Laufwesten: Wieso rennen alle rum wie Spezialeinheiten?",
+      "link": "https://www.spiegel.de/stil/laufwesten-wieso-rennen-alle-rum-wie-spezialeinheiten-a-b27e8238-8b75-4c07-a689-00776a6ccfba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T04:41:00+00:00"
+    },
+    {
+      "titel": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T03:50:03+00:00"
+    },
+    {
+      "titel": "Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck",
+      "link": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T03:47:34+00:00"
     },
     {
       "titel": "USA: Trump fordert nach Deal mit Putin einen neuen Staatschef für die Ukraine",
       "link": "https://www.sueddeutsche.de/politik/trump-selenskij-usa-ukraine-russland-diesel-li.3561607",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T22:59:37+00:00"
+      "veroeffentlicht": "2026-10-11T02:08:02+00:00"
     },
     {
-      "titel": "USA: Wirbelsturm »Isaias« sorgt für Tote und massive Schäden",
-      "link": "https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T22:41:00+00:00"
+      "titel": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T01:27:57+00:00"
     },
     {
-      "titel": "Star Wars: Darth Vaders Lichtschwert kommt unter den Hammer",
-      "link": "https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T22:10:00+00:00"
-    },
-    {
-      "titel": "USA: Neun Tote nach Schüssen in Pennsylvania",
-      "link": "https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T20:46:00+00:00"
+      "titel": "Berliner Sondierungen sorgen für Ärger in der Koalition",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-kluessendorf-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T01:12:51+00:00"
     },
     {
       "titel": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-10T20:44:04+00:00"
-    },
-    {
-      "titel": "Britney Spears veröffentlicht neuen Song »She'll Never Be Me«",
-      "link": "https://www.spiegel.de/panorama/leute/britney-spears-veroeffentlicht-neuen-song-shell-never-be-me-a-06d88c6a-0806-4a22-b93c-8d7b79f1fbaa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T20:39:00+00:00"
-    },
-    {
-      "titel": "Ironman auf Hawaii: Patrick Lange muss mit Krämpfen aufgeben",
-      "link": "https://www.spiegel.de/sport/ironman-auf-hawaii-patrick-lange-muss-mit-kraempfen-aufgeben-a-5c6c30cc-4484-4b2d-9762-a4f1fc4bc436#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T20:28:00+00:00"
-    },
-    {
-      "titel": "Huthi-Miliz greift offenbar Flughafen in Riad an",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T20:08:55+00:00"
-    },
-    {
-      "titel": "Begleiteter Suizid: Verschiebt sich die Idee davon, was wir als lebenswert empfinden und was nicht?",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T19:34:00+00:00"
-    },
-    {
-      "titel": "Yorkshire Wildlife Park: Mann betritt Tiger-Gehege und wird tödlich verletzt",
-      "link": "https://www.spiegel.de/panorama/yorkshire-wildlife-park-mann-betritt-tiger-gehege-und-wird-toedlich-verletzt-a-a3d54403-498b-4a44-92bc-fab3630462f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T19:30:00+00:00"
-    },
-    {
-      "titel": "Russland hebt Verbot von Diesel-Exporten teilweise auf",
-      "link": "https://www.spiegel.de/ausland/russland-hebt-verbot-von-diesel-exporten-teilweise-auf-a-2a2f3424-b3a5-4423-a58a-99ce4ddfaf4f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T19:10:00+00:00"
-    },
-    {
-      "titel": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T18:26:35+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Trump wettert gegen Selenskij: Ukraine soll „sich einen neuen Anführer suchen“",
@@ -103,18 +133,6 @@
       "veroeffentlicht": "2026-10-10T16:58:19+00:00"
     },
     {
-      "titel": "Serie von Messerattacken an Schulen in Polen",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T16:33:42+00:00"
-    },
-    {
-      "titel": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T16:05:24+00:00"
-    },
-    {
       "titel": "Bundesliga: Leipziger Spektakel am Tag der Kunsttore",
       "link": "https://www.sueddeutsche.de/sport/bundesliga-spiele-leverkusen-hsv-stuttgart-tore-tabelle-li.3561565",
       "quelle": "Süddeutsche",
@@ -127,12 +145,6 @@
       "veroeffentlicht": "2026-10-10T15:55:22+00:00"
     },
     {
-      "titel": "CDU diskutiert über Umgang mit der AfD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T15:34:39+00:00"
-    },
-    {
       "titel": "USA-Newsblog: Nobelpreisträgerin Pillay kritisiert US-Sanktionen gegen Internationalen Strafgerichtshof",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-navi-pillay-sanktionen-internationaler-strafgerichtshof-li.3558046",
       "quelle": "Süddeutsche",
@@ -143,18 +155,6 @@
       "link": "https://www.sueddeutsche.de/sport/bundesliga-schnellstes-tor-fellhauer-augsburg-bayern-sekunden-li.3561567",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-10T14:38:17+00:00"
-    },
-    {
-      "titel": "Weg frei für Koalitionsverhandlungen in Schwerin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T14:36:51+00:00"
-    },
-    {
-      "titel": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T14:33:27+00:00"
     },
     {
       "titel": "Portugal: Ronaldo ist vorläufig suspendiert",
