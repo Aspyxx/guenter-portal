@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-11T01:04:29+00:00",
+  "aktualisiert": "2026-10-11T07:21:57+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
-      "quelle": "Tagesschau",
-      "icon": "⛈️"
-    },
-    {
-      "rang": 2,
       "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html",
       "quelle": "Tagesschau",
       "icon": "🗳️"
     },
     {
-      "rang": 3,
-      "titel": "Viele Tote bei Angriff auf Flughafen in Riad",
-      "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+      "rang": 2,
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "⛈️"
+    },
+    {
+      "rang": 3,
+      "titel": "Entscheidung in Krakau - Stimmungstest für Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
