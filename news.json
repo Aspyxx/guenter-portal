@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-10-10T21:46:56+00:00",
+  "aktualisiert": "2026-10-11T01:01:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Straße von Hormus: Geschoss setzt Öltanker in Brand",
+      "link": "https://www.spiegel.de/ausland/strasse-von-hormus-geschoss-setzt-oeltanker-in-brand-a-212cfacf-b76a-4b00-be04-abe68d99d749#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T00:09:00+00:00"
+    },
+    {
+      "titel": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+      "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-10T23:56:54+00:00"
+    },
+    {
+      "titel": "USA: Trump fordert nach Deal mit Putin einen neuen Staatschef für die Ukraine",
+      "link": "https://www.sueddeutsche.de/politik/trump-selenskij-usa-ukraine-russland-diesel-li.3561607",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-10T22:59:37+00:00"
+    },
+    {
+      "titel": "USA: Wirbelsturm »Isaias« sorgt für Tote und massive Schäden",
+      "link": "https://www.spiegel.de/panorama/usa-wirbelsturm-isaias-sorgt-fuer-tote-und-massive-schaeden-a-9fea6cae-ef7d-4038-9ff0-a6c48186fcd0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T22:41:00+00:00"
+    },
+    {
+      "titel": "Star Wars: Darth Vaders Lichtschwert kommt unter den Hammer",
+      "link": "https://www.spiegel.de/kultur/kino/star-wars-darth-vaders-lichtschwert-kommt-unter-den-hammer-a-90c28c4f-18b9-4258-a1dc-e8a03dfcda79#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-10T22:10:00+00:00"
+    },
     {
       "titel": "USA: Neun Tote nach Schüssen in Pennsylvania",
       "link": "https://www.spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2#ref=rss",
@@ -55,28 +85,10 @@
       "veroeffentlicht": "2026-10-10T19:10:00+00:00"
     },
     {
-      "titel": "Japan: Mutmaßlicher Mordfall auf Okinawa - Warum jetzt gegen das US-Militär protestiert wird",
-      "link": "https://www.spiegel.de/ausland/japan-mutmasslicher-mordfall-auf-okinawa-warum-jetzt-gegen-das-us-militaer-protestiert-wird-a-fd4f98b1-7350-49fe-a68b-30b5d73c5281#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T19:06:00+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: RB Leipzig demontiert Eintracht Frankfurt dank Christopher Nkunku",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-demontiert-eintracht-frankfurt-dank-christopher-nkunku-a-7b071c60-1130-4508-9c11-89c615358310#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T18:45:00+00:00"
-    },
-    {
       "titel": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-10T18:26:35+00:00"
-    },
-    {
-      "titel": "USA: Kentucky eröffnet Drive-In-Wahllokal aus Sorge vor Einschränkung der Stimmabgabe",
-      "link": "https://www.spiegel.de/ausland/usa-kentucky-eroeffnet-drive-in-wahllokal-aus-sorge-vor-einschraenkung-der-stimmabgabe-a-94323168-002c-4c88-aec3-fbda7e6102e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-10T18:25:00+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Trump wettert gegen Selenskij: Ukraine soll „sich einen neuen Anführer suchen“",
@@ -145,12 +157,6 @@
       "veroeffentlicht": "2026-10-10T14:33:27+00:00"
     },
     {
-      "titel": "Nationalfeiertag in Taiwan: \"Wir werden unsere Freiheit nicht aufgeben\"",
-      "link": "https://www.tagesschau.de/ausland/asien/taiwan-nationalfeiertag-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T14:22:48+00:00"
-    },
-    {
       "titel": "Portugal: Ronaldo ist vorläufig suspendiert",
       "link": "https://www.sueddeutsche.de/sport/cristiano-ronaldo-portugal-suspendiert-cr7-li.3561549",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/dfb-frauen-australien-koessler-zicai-wueck-laenderspiel-fussball-wm-li.3561365",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-10T13:13:33+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Koalitionsverhandlungen in Mecklenburg-Vorpommern können beginnen",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-sachsen-anhalt-berlin-linke-antisemitismus-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T13:07:41+00:00"
     }
   ]
 }
