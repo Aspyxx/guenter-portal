@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-11T14:09:35+00:00",
+  "aktualisiert": "2026-10-11T18:56:45+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,148 @@
   },
   "meldungen": [
     {
-      "titel": "Judi Dench: Schauspielerin und »James Bond«-Legende denkt mit 91 noch nicht an Rente",
-      "link": "https://www.spiegel.de/panorama/leute/judi-dench-schauspielerin-und-james-bond-legende-denkt-mit-91-noch-nicht-an-rente-a-77cc595e-b561-4ead-ab62-18273c39be4e#ref=rss",
+      "titel": "Friedrich Merz und die CDU-Präsidiumsklausur: Was folgt aus dem Wahl-»Desaster« im Osten?",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-cdu-praesidiumsklausur-was-folgt-aus-dem-wahl-desaster-im-osten-a-92b541c0-353b-4ec9-a6e2-afe994255736#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T13:59:00+00:00"
+      "veroeffentlicht": "2026-10-11T18:24:00+00:00"
     },
     {
-      "titel": "Newsblog zum Ukraine-Krieg: Wadephul bekräftigt Unterstützung für Ukraine und Selenskij",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-selenskij-trump-wadephul-li.3549696",
+      "titel": "Geheimnisse langer Ehen: „Die Flamme der Liebe ist bei uns in diesen 50 Jahren eigentlich nie erloschen“",
+      "link": "https://www.sueddeutsche.de/muenchen/erzdioezese-muenchen-und-freising-kardinal-reinhard-marx-ehe-liebe-li.3561029",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T13:30:10+00:00"
+      "veroeffentlicht": "2026-10-11T18:12:27+00:00"
     },
     {
-      "titel": "Reinhold Messner und seine Frau Diane über das Altern, den Tod und ihre Beziehung",
-      "link": "https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss",
+      "titel": "\"Die Stromsteuer muss für alle gesenkt werden\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T18:05:00+00:00"
+    },
+    {
+      "titel": "Gleichberechtigte Elternschaft - Susanne Mierau: »Mütter sind nicht die Therapeutinnen ihrer Männer«",
+      "link": "https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner-a-8a928436-ea0e-4b3d-b63a-3e5a6ae87d5c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T13:28:00+00:00"
+      "veroeffentlicht": "2026-10-11T18:03:00+00:00"
+    },
+    {
+      "titel": "Co-Elternschaft: Katharina und Moritz gründen Familie ohne Beziehung",
+      "link": "https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung-a-cafd7c12-462d-492c-869d-17c584a049a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T18:02:00+00:00"
+    },
+    {
+      "titel": "Premier League: Manchester City wird gegen FC Liverpool nach Urteil im Finanzskandal ausgebuht",
+      "link": "https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T18:01:00+00:00"
+    },
+    {
+      "titel": "Fußball-Bundesliga: SC Freiburg siegt gegen FC Schalke 04 und ist Tabellenführer",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T17:58:00+00:00"
+    },
+    {
+      "titel": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T17:50:11+00:00"
+    },
+    {
+      "titel": "Guy Parmelin: Die Schweiz regiert am besten, wer am wenigsten auffällt",
+      "link": "https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt-a-d3426b3d-1ff9-4f99-805c-2e38e5c14210#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T17:46:00+00:00"
+    },
+    {
+      "titel": "Irankrieg: Pentagon korrigiert Zahl gefallener US-Soldaten auf 21",
+      "link": "https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T17:40:00+00:00"
+    },
+    {
+      "titel": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T17:36:32+00:00"
+    },
+    {
+      "titel": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T17:31:38+00:00"
+    },
+    {
+      "titel": "Bonnie Garmus: Mit 64 zum Weltbestseller – nun folgt mit »Peck & Peck« das zweite Buch",
+      "link": "https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T17:27:00+00:00"
+    },
+    {
+      "titel": "Riemann-Vermutung: Open AI greift mit KI nach dem »heiligen Gral« der Mathematik",
+      "link": "https://www.spiegel.de/wissenschaft/riemann-vermutung-open-ai-greift-mit-ki-nach-dem-heiligen-gral-der-mathematik-a-30dc6da9-bee4-4078-b6d0-650cbaf80fce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T17:25:00+00:00"
+    },
+    {
+      "titel": "Debatte: Das passiert, wenn die AfD Ämter übernimmt",
+      "link": "https://www.sueddeutsche.de/kultur/afd-sachsen-anhalt-halle-synagoge-landtagspraesident-tillschneider-li.3561818",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T15:51:36+00:00"
+    },
+    {
+      "titel": "Friedenspreisträger Sands kritisiert deutsches Schweigen zu Vorgehen Israels",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T15:38:17+00:00"
+    },
+    {
+      "titel": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T15:37:39+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Trump verkündet „Energie-Waffenruhe“",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-energie-waffenruhe-ukraine-russland-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T15:27:41+00:00"
+    },
+    {
+      "titel": "USA: Trump sieht in Selenskij nur einen Störenfried. Und in Putin einen Männerfreund",
+      "link": "https://www.sueddeutsche.de/meinung/trump-putin-ukraine-diesel-kommentar-li.3561449",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T15:10:00+00:00"
+    },
+    {
+      "titel": "Formel 1: Verstappen macht mit dem Siegen weiter",
+      "link": "https://www.sueddeutsche.de/sport/formel-1-singapur-verstappen-hamilton-leclerc-rennen-li.3561708",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T14:56:40+00:00"
+    },
+    {
+      "titel": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
+      "link": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T14:32:56+00:00"
+    },
+    {
+      "titel": "Selenskyj will Angriffe auf russische Raffinerien fortsetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/trump-selenskyj-russland-reaktion-raffinerien-angriffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T14:22:07+00:00"
+    },
+    {
+      "titel": "Freizeit in München: Die Eisbach-Surfer feiern den Eisbach und sich selbst",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-eisbach-surfen-community-surf-jam-2026-red-bull-li.3560442",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T14:18:11+00:00"
+    },
+    {
+      "titel": "Nachruf: Er veränderte das ZDF",
+      "link": "https://www.sueddeutsche.de/medien/klaus-bresser-zdf-tod-nachruf-li.3561731",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T14:09:10+00:00"
     },
     {
       "titel": "Sachsen-Anhalt: Das BSW sollte sich gut überlegen, bei wem es am Tisch Platz nimmt",
@@ -31,142 +157,16 @@
       "veroeffentlicht": "2026-10-11T13:25:34+00:00"
     },
     {
-      "titel": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T13:12:05+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: AfD und BSW feiern gemeinsam in Magdeburg",
-      "link": "https://www.sueddeutsche.de/politik/afd-bsw-compact-sachsen-anhalt-juergen-elsaesser-tobias-rausch-li.3561717",
+      "titel": "Die Toten Hosen: „Wenn das in Deutschland wäre – okay. Aber das hier ist Buenos Fucking Aires!“",
+      "link": "https://www.sueddeutsche.de/panorama/die-toten-hosen-konzert-argentinien-buenos-aires-campino-li.3560793",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T13:00:48+00:00"
-    },
-    {
-      "titel": "Linke in Berlin: Bodo Ramelow kritisiert parteiinternen Protest gegen Sondierungsvereinbarung",
-      "link": "https://www.spiegel.de/politik/deutschland/linke-in-berlin-bodo-ramelow-kritisiert-parteiinternen-protest-gegen-sondierungsvereinbarung-a-9b34ef77-cd77-4ab8-b8c4-322a50014de3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T12:49:00+00:00"
-    },
-    {
-      "titel": "Lance Bass: Ex-NSync-Sänger fühlt sich im Rückblick ausgebeutet",
-      "link": "https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet-a-5327fc9f-8f75-4e77-8b33-748d2d9a7c7e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T12:32:00+00:00"
-    },
-    {
-      "titel": "Philippe Sands: Friedenspreisträger kritisiert deutsches Schweigen zu Israel",
-      "link": "https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T12:30:00+00:00"
-    },
-    {
-      "titel": "KI-Sicherheitsdebatte: Microsoft-Chef plädiert für Notbremse",
-      "link": "https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T12:03:00+00:00"
-    },
-    {
-      "titel": "Johannes Winkel: Unionsvize pocht auf Rentenkompromiss und bremst Miersch-Vorschlag",
-      "link": "https://www.spiegel.de/politik/deutschland/johannes-winkel-unionsvize-pocht-auf-rentenkompromiss-und-bremst-miersch-vorschlag-a-fbd69a85-7095-4686-b30e-f2c2e9515e1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T11:56:00+00:00"
-    },
-    {
-      "titel": "Dschibuti: Boot mit Migranten aus Äthiopien kentert – 109 Tote, 116 Vermisste",
-      "link": "https://www.spiegel.de/ausland/dschibuti-boot-mit-migranten-aus-aethiopien-kentert-109-tote-116-vermisste-a-a4b8e107-532b-417a-b9b0-f629845062b9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T11:47:00+00:00"
-    },
-    {
-      "titel": "Deutschland und Frankreich: AfD-Nachwuchspolitiker mit Großmachtfantasie",
-      "link": "https://www.sueddeutsche.de/politik/afd-generation-deutschland-strauf-frankreich-li.3561727",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T11:43:58+00:00"
-    },
-    {
-      "titel": "Gerhard Schröder: SPD-Bezirk Oberpfalz beantragt Parteiausschluss",
-      "link": "https://www.spiegel.de/politik/gerhard-schroeder-spd-bezirk-oberpfalz-beantragt-parteiausschluss-a-e4951c95-ebae-4066-a60a-6aafea5bbae8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T11:39:00+00:00"
-    },
-    {
-      "titel": "Friedenspreisträger Sands kritisiert deutsches Schweigen zu Vorgehen Israels",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T11:36:28+00:00"
+      "veroeffentlicht": "2026-10-11T13:09:37+00:00"
     },
     {
       "titel": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-11T11:23:58+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV. kündigt Operation an der Lunge an",
-      "link": "https://www.tagesschau.de/ausland/europa/vatikan-papst-lunge-operation-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T11:22:28+00:00"
-    },
-    {
-      "titel": "DFB-Frauen: Noch kein WM-Casting, aber...",
-      "link": "https://www.sueddeutsche.de/sport/dfb-frauen-australien-koessler-zicai-wueck-laenderspiel-fussball-wm-li.3561365",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T11:09:04+00:00"
-    },
-    {
-      "titel": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T10:53:06+00:00"
-    },
-    {
-      "titel": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T10:39:51+00:00"
-    },
-    {
-      "titel": "Vatikan: Papst Leo XIV. muss an der Lunge operiert werden",
-      "link": "https://www.sueddeutsche.de/panorama/papst-leo-xiv-operation-lunge-li.3561799",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T10:27:00+00:00"
-    },
-    {
-      "titel": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T10:17:20+00:00"
-    },
-    {
-      "titel": "Landwirtschaft: Er hat leider schlechte Nachrichten: Die Pommes werden kürzer",
-      "link": "https://www.sueddeutsche.de/wirtschaft/kartoffelernte-2026-landwirtschaft-hitze-trockenheit-li.3559563",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T10:10:31+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Das gewaltige Dilemma mit den Huthi",
-      "link": "https://www.sueddeutsche.de/politik/saudi-arabien-angriff-nahost-krieg-huthi-jemen-usa-li.3561725",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T09:48:32+00:00"
-    },
-    {
-      "titel": "EU-Haushalt: Niemand will sich mit Europas Bauern anlegen",
-      "link": "https://www.sueddeutsche.de/politik/eu-haushalt-merz-irland-deutschland-agrargelder-li.3561707",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T09:23:16+00:00"
-    },
-    {
-      "titel": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T09:20:40+00:00"
-    },
-    {
-      "titel": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-      "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T09:05:29+00:00"
     }
   ]
 }
