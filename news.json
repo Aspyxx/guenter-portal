@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-11T07:14:31+00:00",
+  "aktualisiert": "2026-10-11T14:09:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Indien: Anführer der »Kakerlaken-Bewegung« wieder frei",
-      "link": "https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss",
+      "titel": "Judi Dench: Schauspielerin und »James Bond«-Legende denkt mit 91 noch nicht an Rente",
+      "link": "https://www.spiegel.de/panorama/leute/judi-dench-schauspielerin-und-james-bond-legende-denkt-mit-91-noch-nicht-an-rente-a-77cc595e-b561-4ead-ab62-18273c39be4e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T07:03:00+00:00"
+      "veroeffentlicht": "2026-10-11T13:59:00+00:00"
     },
     {
-      "titel": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-      "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T07:00:52+00:00"
+      "titel": "Newsblog zum Ukraine-Krieg: Wadephul bekräftigt Unterstützung für Ukraine und Selenskij",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-selenskij-trump-wadephul-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T13:30:10+00:00"
     },
     {
-      "titel": "Einbrüche in Sachsen-Anhalt: Das Diebesgut investierten sie in Luxusautos",
-      "link": "https://www.spiegel.de/panorama/justiz/einbrueche-in-sachsen-anhalt-das-diebesgut-investierten-sie-in-luxusautos-a-25db4a5b-78fd-462f-9721-ec948becb18d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T06:58:00+00:00"
-    },
-    {
-      "titel": "Reinhold Messner und Frau Diane im Interview: »Ich ordne mich meiner Frau unter«",
+      "titel": "Reinhold Messner und seine Frau Diane über das Altern, den Tod und ihre Beziehung",
       "link": "https://www.spiegel.de/sport/reinhold-messner-und-frau-diane-im-interview-ich-ordne-mich-meiner-frau-unter-a-4e6cd485-650f-4184-9d4c-59628194ef8a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T06:32:00+00:00"
+      "veroeffentlicht": "2026-10-11T13:28:00+00:00"
     },
     {
-      "titel": "Schutzstatus in Deutschland: Asylklagen dauern wieder länger",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html",
+      "titel": "Sachsen-Anhalt: Das BSW sollte sich gut überlegen, bei wem es am Tisch Platz nimmt",
+      "link": "https://www.sueddeutsche.de/meinung/sachsen-anhalt-bsw-afd-treffen-cempact-kommentar-li.3561713",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T13:25:34+00:00"
+    },
+    {
+      "titel": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T06:21:19+00:00"
+      "veroeffentlicht": "2026-10-11T13:12:05+00:00"
     },
     {
-      "titel": "Bürgermeisterwahl: Entscheidung in Krakau - Stimmungstest für Polen",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T06:19:57+00:00"
+      "titel": "Sachsen-Anhalt: AfD und BSW feiern gemeinsam in Magdeburg",
+      "link": "https://www.sueddeutsche.de/politik/afd-bsw-compact-sachsen-anhalt-juergen-elsaesser-tobias-rausch-li.3561717",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T13:00:48+00:00"
     },
     {
-      "titel": "Internationaler Weltmädchentag: Welche Chancen haben Mädchen heute?",
-      "link": "https://www.spiegel.de/panorama/internationaler-weltmaedchentag-welche-chancen-haben-maedchen-heute-a-ce9d9127-e74f-4099-8bbd-8a2b8aab0cb0#ref=rss",
+      "titel": "Linke in Berlin: Bodo Ramelow kritisiert parteiinternen Protest gegen Sondierungsvereinbarung",
+      "link": "https://www.spiegel.de/politik/deutschland/linke-in-berlin-bodo-ramelow-kritisiert-parteiinternen-protest-gegen-sondierungsvereinbarung-a-9b34ef77-cd77-4ab8-b8c4-322a50014de3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T06:19:00+00:00"
+      "veroeffentlicht": "2026-10-11T12:49:00+00:00"
     },
     {
-      "titel": "Horst Seehofer wirft Friedrich Merz Bruch von Wahlversprechen vor",
-      "link": "https://www.spiegel.de/politik/deutschland/horst-seehofer-wirft-friedrich-merz-bruch-von-wahlversprechen-vor-a-f5830818-81ba-46c1-8799-791e5b96afa9#ref=rss",
+      "titel": "Lance Bass: Ex-NSync-Sänger fühlt sich im Rückblick ausgebeutet",
+      "link": "https://www.spiegel.de/panorama/leute/lance-bass-ex-nsync-saenger-fuehlt-sich-im-rueckblick-ausgebeutet-a-5327fc9f-8f75-4e77-8b33-748d2d9a7c7e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T06:15:00+00:00"
+      "veroeffentlicht": "2026-10-11T12:32:00+00:00"
     },
     {
-      "titel": "Christian Sewing: Deutsche-Bank-Boss stellt Kündigungsschutz für Topverdiener infrage",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-deutsche-bank-boss-stellt-kuendigungsschutz-fuer-topverdiener-infrage-a-fdc8ee0b-1aaf-4fbf-9aec-dda1c9077336#ref=rss",
+      "titel": "Philippe Sands: Friedenspreisträger kritisiert deutsches Schweigen zu Israel",
+      "link": "https://www.spiegel.de/politik/philippe-sands-friedenspreistraeger-kritisiert-deutsches-schweigen-zu-israel-a-b89bc2d4-4e33-443a-9775-bce761da1a68#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T05:59:00+00:00"
+      "veroeffentlicht": "2026-10-11T12:30:00+00:00"
     },
     {
-      "titel": "Gespräche in Athen: Rubio umwirbt die Gas-Drehscheibe Griechenland",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-usa-gas-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T05:43:37+00:00"
-    },
-    {
-      "titel": "Rätsel der Woche: Was passiert mit dem Wasserstand",
-      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-dem-wasserstand-a-1aae5e89-e92f-4812-8981-52fdfc468ac9#ref=rss",
+      "titel": "KI-Sicherheitsdebatte: Microsoft-Chef plädiert für Notbremse",
+      "link": "https://www.spiegel.de/netzwelt/web/ki-sicherheitsdebatte-microsoft-chef-plaediert-fuer-notbremse-a-a84558c8-207f-40cc-a275-01c37651bdb7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T04:52:00+00:00"
+      "veroeffentlicht": "2026-10-11T12:03:00+00:00"
     },
     {
-      "titel": "Sexuelle Belästigung im Taxi: Wie eine Frau sich gewehrt hat - und was die Polizei dazu sagt",
-      "link": "https://www.spiegel.de/panorama/sexuelle-belaestigung-im-taxi-wie-eine-frau-sich-gewehrt-hat-und-was-die-polizei-dazu-sagt-a-c045e13a-c6db-47d1-b9fb-07631b57916e#ref=rss",
+      "titel": "Johannes Winkel: Unionsvize pocht auf Rentenkompromiss und bremst Miersch-Vorschlag",
+      "link": "https://www.spiegel.de/politik/deutschland/johannes-winkel-unionsvize-pocht-auf-rentenkompromiss-und-bremst-miersch-vorschlag-a-fbd69a85-7095-4686-b30e-f2c2e9515e1a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T04:51:00+00:00"
+      "veroeffentlicht": "2026-10-11T11:56:00+00:00"
     },
     {
-      "titel": "Laufwesten: Wieso rennen alle rum wie Spezialeinheiten?",
-      "link": "https://www.spiegel.de/stil/laufwesten-wieso-rennen-alle-rum-wie-spezialeinheiten-a-b27e8238-8b75-4c07-a689-00776a6ccfba#ref=rss",
+      "titel": "Dschibuti: Boot mit Migranten aus Äthiopien kentert – 109 Tote, 116 Vermisste",
+      "link": "https://www.spiegel.de/ausland/dschibuti-boot-mit-migranten-aus-aethiopien-kentert-109-tote-116-vermisste-a-a4b8e107-532b-417a-b9b0-f629845062b9#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T04:41:00+00:00"
+      "veroeffentlicht": "2026-10-11T11:47:00+00:00"
     },
     {
-      "titel": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
+      "titel": "Deutschland und Frankreich: AfD-Nachwuchspolitiker mit Großmachtfantasie",
+      "link": "https://www.sueddeutsche.de/politik/afd-generation-deutschland-strauf-frankreich-li.3561727",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T11:43:58+00:00"
+    },
+    {
+      "titel": "Gerhard Schröder: SPD-Bezirk Oberpfalz beantragt Parteiausschluss",
+      "link": "https://www.spiegel.de/politik/gerhard-schroeder-spd-bezirk-oberpfalz-beantragt-parteiausschluss-a-e4951c95-ebae-4066-a60a-6aafea5bbae8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T11:39:00+00:00"
+    },
+    {
+      "titel": "Friedenspreisträger Sands kritisiert deutsches Schweigen zu Vorgehen Israels",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T03:50:03+00:00"
+      "veroeffentlicht": "2026-10-11T11:36:28+00:00"
     },
     {
-      "titel": "Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck",
-      "link": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html",
+      "titel": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T03:47:34+00:00"
+      "veroeffentlicht": "2026-10-11T11:23:58+00:00"
     },
     {
-      "titel": "USA: Trump fordert nach Deal mit Putin einen neuen Staatschef für die Ukraine",
-      "link": "https://www.sueddeutsche.de/politik/trump-selenskij-usa-ukraine-russland-diesel-li.3561607",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T02:08:02+00:00"
-    },
-    {
-      "titel": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
+      "titel": "Papst Leo XIV. kündigt Operation an der Lunge an",
+      "link": "https://www.tagesschau.de/ausland/europa/vatikan-papst-lunge-operation-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T01:27:57+00:00"
-    },
-    {
-      "titel": "Berliner Sondierungen sorgen für Ärger in der Koalition",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-kluessendorf-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T01:12:51+00:00"
-    },
-    {
-      "titel": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-10T20:44:04+00:00"
-    },
-    {
-      "titel": "Newsblog zum Ukraine-Krieg: Trump wettert gegen Selenskij: Ukraine soll „sich einen neuen Anführer suchen“",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-selenskij-neuer-anfuehrer-saporischschja-li.3549696",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T17:26:04+00:00"
-    },
-    {
-      "titel": "Parteitag der bayerischen Grünen: „Diese Bundesrepublik ist das beste Deutschland, das wir je hatten“",
-      "link": "https://www.sueddeutsche.de/bayern/gruene-bayern-parteitag-landshut-katharina-schulze-afd-li.3558711",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T16:58:19+00:00"
-    },
-    {
-      "titel": "Bundesliga: Leipziger Spektakel am Tag der Kunsttore",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-spiele-leverkusen-hsv-stuttgart-tore-tabelle-li.3561565",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T15:56:37+00:00"
-    },
-    {
-      "titel": "Bundesliga: Manuel Neuers fataler Nachmittag",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-augsburg-manuel-neuer-patzer-li.3561543",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T15:55:22+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Nobelpreisträgerin Pillay kritisiert US-Sanktionen gegen Internationalen Strafgerichtshof",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-navi-pillay-sanktionen-internationaler-strafgerichtshof-li.3558046",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T15:29:57+00:00"
-    },
-    {
-      "titel": "Nur 8,4 Sekunden: Augsburgs Fellhauer erzielt das schnellste Bundesliga-Tor",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-schnellstes-tor-fellhauer-augsburg-bayern-sekunden-li.3561567",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T14:38:17+00:00"
-    },
-    {
-      "titel": "Portugal: Ronaldo ist vorläufig suspendiert",
-      "link": "https://www.sueddeutsche.de/sport/cristiano-ronaldo-portugal-suspendiert-cr7-li.3561549",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T13:45:27+00:00"
+      "veroeffentlicht": "2026-10-11T11:22:28+00:00"
     },
     {
       "titel": "DFB-Frauen: Noch kein WM-Casting, aber...",
       "link": "https://www.sueddeutsche.de/sport/dfb-frauen-australien-koessler-zicai-wueck-laenderspiel-fussball-wm-li.3561365",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-10T13:13:33+00:00"
+      "veroeffentlicht": "2026-10-11T11:09:04+00:00"
+    },
+    {
+      "titel": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T10:53:06+00:00"
+    },
+    {
+      "titel": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T10:39:51+00:00"
+    },
+    {
+      "titel": "Vatikan: Papst Leo XIV. muss an der Lunge operiert werden",
+      "link": "https://www.sueddeutsche.de/panorama/papst-leo-xiv-operation-lunge-li.3561799",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T10:27:00+00:00"
+    },
+    {
+      "titel": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T10:17:20+00:00"
+    },
+    {
+      "titel": "Landwirtschaft: Er hat leider schlechte Nachrichten: Die Pommes werden kürzer",
+      "link": "https://www.sueddeutsche.de/wirtschaft/kartoffelernte-2026-landwirtschaft-hitze-trockenheit-li.3559563",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T10:10:31+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: Das gewaltige Dilemma mit den Huthi",
+      "link": "https://www.sueddeutsche.de/politik/saudi-arabien-angriff-nahost-krieg-huthi-jemen-usa-li.3561725",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T09:48:32+00:00"
+    },
+    {
+      "titel": "EU-Haushalt: Niemand will sich mit Europas Bauern anlegen",
+      "link": "https://www.sueddeutsche.de/politik/eu-haushalt-merz-irland-deutschland-agrargelder-li.3561707",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-11T09:23:16+00:00"
+    },
+    {
+      "titel": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
+      "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T09:20:40+00:00"
+    },
+    {
+      "titel": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+      "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T09:05:29+00:00"
     }
   ]
 }
