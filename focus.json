@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-11T19:01:37+00:00",
+  "aktualisiert": "2026-10-11T22:59:22+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Below Serie",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
       "quelle": "Tagesschau",
       "icon": "⛈️"
     },
     {
+      "rang": 2,
+      "titel": "\"Die Stromsteuer muss für alle gesenkt werden\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
       "rang": 3,
-      "titel": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html",
+      "titel": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
