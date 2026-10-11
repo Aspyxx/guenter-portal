@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-10-11T18:56:45+00:00",
+  "aktualisiert": "2026-10-11T22:56:42+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Donald Trump: Republikanische Senatoren attackieren seinen Diesel-Deal",
+      "link": "https://www.spiegel.de/ausland/donald-trump-republikanische-senatoren-attackieren-seinen-diesel-deal-a-6b0fbb64-2f0e-404a-bde5-254487499c93#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T22:45:00+00:00"
+    },
+    {
+      "titel": "Markus Söder spricht bei »Caren Miosga« über Sachsen-Anhalt-Landtag und AfD",
+      "link": "https://www.spiegel.de/politik/markus-soeder-spricht-bei-caren-miosga-ueber-sachsen-anhalt-landtag-und-afd-a-e6ea9395-12ce-47f8-be0b-e72c9a1dc1c1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T22:41:00+00:00"
+    },
+    {
+      "titel": "Sudan: Mindestens 72 Tote bei Luftangriff auf Goldmine an Grenze zu Ägypten",
+      "link": "https://www.spiegel.de/ausland/sudan-mindestens-72-tote-bei-luftangriff-auf-goldmine-an-grenze-zu-aegypten-a-2b3ceef9-e283-49b0-8118-ea30aa629507#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T22:02:00+00:00"
+    },
+    {
+      "titel": "Saudi-Arabien: Huthis greifen erneut Flughäfen mit Raketen an",
+      "link": "https://www.spiegel.de/ausland/saudi-arabien-huthis-greifen-erneut-flughaefen-mit-raketen-an-a-3e1c8585-b286-4d45-a7f8-a0c1f6a31eaa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T21:20:00+00:00"
+    },
+    {
+      "titel": "Warstein: Frau prallt beim Bungee-Jumping gegen Felswand und stirbt",
+      "link": "https://www.spiegel.de/panorama/warstein-frau-prallt-beim-bungee-jumping-gegen-felswand-und-stirbt-a-d01ded0e-8bd2-442c-a996-13a6cca97b75#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T20:41:00+00:00"
+    },
+    {
+      "titel": "AfD in Sachsen-Anhalt: Journalistenverband wirft Ulrich Siegmund Einschüchterung vor",
+      "link": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-journalistenverband-wirft-ulrich-siegmund-einschuechterung-vor-a-8534b38c-2052-4771-81d4-b3678cc50f55#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T20:20:00+00:00"
+    },
+    {
+      "titel": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T20:11:44+00:00"
+    },
+    {
+      "titel": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-11T20:11:03+00:00"
+    },
+    {
+      "titel": "Three Years of the Gaza War through the Eyes of Soldiers: \"The Rule Was: 'Shoot Everyone You See'\"",
+      "link": "https://www.spiegel.de/international/world/three-years-of-the-gaza-war-through-the-eyes-of-soldiers-the-rule-was-shoot-everyone-you-see-a-50ea1e27-25b9-4ba2-8113-97be81f5d10c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T20:08:00+00:00"
+    },
+    {
+      "titel": "Zohran Mamdani: Warum ein linker Hoffnungsträger mit Donald Trump über Wohnungsbau spricht",
+      "link": "https://www.spiegel.de/ausland/zohran-mamdani-warum-ein-linker-hoffnungstraeger-mit-donald-trump-ueber-wohnungsbau-spricht-a-511f16b1-8327-41b6-b1e9-d2d04453ca1d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-11T19:58:00+00:00"
+    },
     {
       "titel": "Friedrich Merz und die CDU-Präsidiumsklausur: Was folgt aus dem Wahl-»Desaster« im Osten?",
       "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-cdu-praesidiumsklausur-was-folgt-aus-dem-wahl-desaster-im-osten-a-92b541c0-353b-4ec9-a6e2-afe994255736#ref=rss",
@@ -25,46 +85,10 @@
       "veroeffentlicht": "2026-10-11T18:05:00+00:00"
     },
     {
-      "titel": "Gleichberechtigte Elternschaft - Susanne Mierau: »Mütter sind nicht die Therapeutinnen ihrer Männer«",
-      "link": "https://www.spiegel.de/familie/gleichberechtigte-elternschaft-susanne-mierau-muetter-sind-nicht-die-therapeutinnen-ihrer-maenner-a-8a928436-ea0e-4b3d-b63a-3e5a6ae87d5c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T18:03:00+00:00"
-    },
-    {
-      "titel": "Co-Elternschaft: Katharina und Moritz gründen Familie ohne Beziehung",
-      "link": "https://www.spiegel.de/familie/co-elternschaft-katharina-und-moritz-gruenden-familie-ohne-beziehung-a-cafd7c12-462d-492c-869d-17c584a049a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T18:02:00+00:00"
-    },
-    {
-      "titel": "Premier League: Manchester City wird gegen FC Liverpool nach Urteil im Finanzskandal ausgebuht",
-      "link": "https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T18:01:00+00:00"
-    },
-    {
-      "titel": "Fußball-Bundesliga: SC Freiburg siegt gegen FC Schalke 04 und ist Tabellenführer",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-siegt-gegen-fc-schalke-04-und-ist-tabellenfuehrer-a-e728458b-3fcd-412f-8ac4-1c49cd6ebcfb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T17:58:00+00:00"
-    },
-    {
       "titel": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
       "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-11T17:50:11+00:00"
-    },
-    {
-      "titel": "Guy Parmelin: Die Schweiz regiert am besten, wer am wenigsten auffällt",
-      "link": "https://www.spiegel.de/ausland/guy-parmelin-die-schweiz-regiert-am-besten-wer-am-wenigsten-auffaellt-a-d3426b3d-1ff9-4f99-805c-2e38e5c14210#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T17:46:00+00:00"
-    },
-    {
-      "titel": "Irankrieg: Pentagon korrigiert Zahl gefallener US-Soldaten auf 21",
-      "link": "https://www.spiegel.de/ausland/iran-krieg-pentagon-korrigiert-zahl-gefallener-us-soldaten-auf-21-a-74dceae4-7239-424b-84e9-057cf66d527d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T17:40:00+00:00"
     },
     {
       "titel": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
@@ -79,18 +103,6 @@
       "veroeffentlicht": "2026-10-11T17:31:38+00:00"
     },
     {
-      "titel": "Bonnie Garmus: Mit 64 zum Weltbestseller – nun folgt mit »Peck & Peck« das zweite Buch",
-      "link": "https://www.spiegel.de/kultur/bonnie-garmus-mit-64-zum-weltbestseller-nun-folgt-mit-peck-peck-das-zweite-buch-a-f0fd41b8-2615-4f55-9ec2-e4679e1caef1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T17:27:00+00:00"
-    },
-    {
-      "titel": "Riemann-Vermutung: Open AI greift mit KI nach dem »heiligen Gral« der Mathematik",
-      "link": "https://www.spiegel.de/wissenschaft/riemann-vermutung-open-ai-greift-mit-ki-nach-dem-heiligen-gral-der-mathematik-a-30dc6da9-bee4-4078-b6d0-650cbaf80fce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T17:25:00+00:00"
-    },
-    {
       "titel": "Debatte: Das passiert, wenn die AfD Ämter übernimmt",
       "link": "https://www.sueddeutsche.de/kultur/afd-sachsen-anhalt-halle-synagoge-landtagspraesident-tillschneider-li.3561818",
       "quelle": "Süddeutsche",
@@ -101,12 +113,6 @@
       "link": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-11T15:38:17+00:00"
-    },
-    {
-      "titel": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T15:37:39+00:00"
     },
     {
       "titel": "Newsblog zum Ukraine-Krieg: Trump verkündet „Energie-Waffenruhe“",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/panorama/die-toten-hosen-konzert-argentinien-buenos-aires-campino-li.3560793",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-11T13:09:37+00:00"
-    },
-    {
-      "titel": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T11:23:58+00:00"
     }
   ]
 }
