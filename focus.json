@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-12T02:04:00+00:00",
+  "aktualisiert": "2026-10-12T09:27:39+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
+      "titel": "DAX-Erholung setzt sich fort",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
       "quelle": "Tagesschau",
-      "icon": "⛈️"
+      "icon": "🌍"
     },
     {
       "rang": 2,
-      "titel": "\"Die Stromsteuer muss für alle gesenkt werden\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
+      "titel": "Was hinter der aktuellen Euro-Schwäche steckt",
+      "link": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+      "titel": "Bärbel Bas tritt als Arbeitsministerin und SPD-Vorsitzende zurück",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
