@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-10-11T22:56:42+00:00",
+  "aktualisiert": "2026-10-12T02:26:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Söder fordert CDU-Abweichler zum Austritt auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-cdu-abweichler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-12T02:20:11+00:00"
+    },
+    {
+      "titel": "Newsblog zum Ukraine-Krieg: Trump verkündet „Energie-Waffenruhe“ – Kiew meldet russischen Angriff auf Heikraftwerk",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-energie-waffenruhe-ukraine-russland-li.3549696",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-12T01:35:13+00:00"
+    },
+    {
+      "titel": "Tobey Maguire vermählt Ex-Frau Jennifer Meyer bei Hochzeit auf Hawaii",
+      "link": "https://www.spiegel.de/panorama/tobey-maguire-vermaehlt-ex-frau-jennifer-meyer-bei-hochzeit-auf-hawaii-a-36ede749-1ee8-43f6-8c0e-2277e8714905#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-12T00:48:00+00:00"
+    },
+    {
+      "titel": "Caren Miosga: Markus, der Milde",
+      "link": "https://www.sueddeutsche.de/medien/markus-soeder-caren-miosga-tv-kritik-li.3561042",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-12T00:26:56+00:00"
+    },
+    {
+      "titel": "Kimberly Guilfoyle: Vorwürfe der Bestechlichkeit gegen US-Botschafterin in Griechenland",
+      "link": "https://www.spiegel.de/ausland/kimberly-guilfoyle-vorwuerfe-der-bestechlichkeit-gegen-us-botschafterin-in-griechenland-a-3d82fe06-7791-442d-a294-01d12b768796#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-12T00:21:00+00:00"
+    },
+    {
+      "titel": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-12T00:20:21+00:00"
+    },
     {
       "titel": "Donald Trump: Republikanische Senatoren attackieren seinen Diesel-Deal",
       "link": "https://www.spiegel.de/ausland/donald-trump-republikanische-senatoren-attackieren-seinen-diesel-deal-a-6b0fbb64-2f0e-404a-bde5-254487499c93#ref=rss",
@@ -61,18 +97,6 @@
       "veroeffentlicht": "2026-10-11T20:08:00+00:00"
     },
     {
-      "titel": "Zohran Mamdani: Warum ein linker Hoffnungsträger mit Donald Trump über Wohnungsbau spricht",
-      "link": "https://www.spiegel.de/ausland/zohran-mamdani-warum-ein-linker-hoffnungstraeger-mit-donald-trump-ueber-wohnungsbau-spricht-a-511f16b1-8327-41b6-b1e9-d2d04453ca1d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T19:58:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz und die CDU-Präsidiumsklausur: Was folgt aus dem Wahl-»Desaster« im Osten?",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-cdu-praesidiumsklausur-was-folgt-aus-dem-wahl-desaster-im-osten-a-92b541c0-353b-4ec9-a6e2-afe994255736#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-11T18:24:00+00:00"
-    },
-    {
       "titel": "Geheimnisse langer Ehen: „Die Flamme der Liebe ist bei uns in diesen 50 Jahren eigentlich nie erloschen“",
       "link": "https://www.sueddeutsche.de/muenchen/erzdioezese-muenchen-und-freising-kardinal-reinhard-marx-ehe-liebe-li.3561029",
       "quelle": "Süddeutsche",
@@ -115,12 +139,6 @@
       "veroeffentlicht": "2026-10-11T15:38:17+00:00"
     },
     {
-      "titel": "Newsblog zum Ukraine-Krieg: Trump verkündet „Energie-Waffenruhe“",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-energie-waffenruhe-ukraine-russland-li.3549696",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T15:27:41+00:00"
-    },
-    {
       "titel": "USA: Trump sieht in Selenskij nur einen Störenfried. Und in Putin einen Männerfreund",
       "link": "https://www.sueddeutsche.de/meinung/trump-putin-ukraine-diesel-kommentar-li.3561449",
       "quelle": "Süddeutsche",
@@ -131,18 +149,6 @@
       "link": "https://www.sueddeutsche.de/sport/formel-1-singapur-verstappen-hamilton-leclerc-rennen-li.3561708",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-11T14:56:40+00:00"
-    },
-    {
-      "titel": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
-      "link": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T14:32:56+00:00"
-    },
-    {
-      "titel": "Selenskyj will Angriffe auf russische Raffinerien fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/trump-selenskyj-russland-reaktion-raffinerien-angriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-11T14:22:07+00:00"
     },
     {
       "titel": "Freizeit in München: Die Eisbach-Surfer feiern den Eisbach und sich selbst",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/sachsen-anhalt-bsw-afd-treffen-cempact-kommentar-li.3561713",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-11T13:25:34+00:00"
-    },
-    {
-      "titel": "Die Toten Hosen: „Wenn das in Deutschland wäre – okay. Aber das hier ist Buenos Fucking Aires!“",
-      "link": "https://www.sueddeutsche.de/panorama/die-toten-hosen-konzert-argentinien-buenos-aires-campino-li.3560793",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-11T13:09:37+00:00"
     }
   ]
 }
