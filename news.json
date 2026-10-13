@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-13T17:08:42+00:00",
+  "aktualisiert": "2026-10-13T21:51:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,76 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Rücktritt von Bärbel Bas: Bundespräsident Frank-Walter Steinmeier ernennt Alexander Schweitzer zum Arbeitsminister",
-      "link": "https://www.spiegel.de/politik/deutschland/ruecktritt-von-baerbel-bas-bundespraesident-frank-walter-steinmeier-ernennt-alexander-schweitzer-zum-arbeitsminister-a-0a326073-74f7-429b-b7cf-dadf8dad0644#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T17:01:00+00:00"
+      "titel": "Papst Leo XIV. hat Lungenkrebs",
+      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T21:49:10+00:00"
     },
     {
-      "titel": "Newsblog zu den Landtagswahlen: Berichte: Berliner Linksfraktion nimmt umstrittenes Mitglied gegen Willen von SPD und Grünen auf",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-vanessa-emde-linksfraktion-berlin-li.3540501",
+      "titel": "Champions League: Doppelpack Harry Kane und Rot für Michael Olise für Bayern München gegen Stavanger",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-doppelpack-harry-kane-und-rot-fuer-michael-olise-fuer-bayern-muenchen-gegen-stavanger-a-ceeb4319-054c-4f00-8987-2a1307640b10#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T21:38:00+00:00"
+    },
+    {
+      "titel": "Champions League: Nicolò Tresoldi trifft dreifach im San Siro und glänzt in Mailand",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-nicolo-tresoldi-trifft-dreifach-im-san-siro-und-glaenzt-in-mailand-a-8a48718b-1594-4e2c-b3ce-572bdaaed492#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T21:27:00+00:00"
+    },
+    {
+      "titel": "FC Bayern in der Einzelkritik: Kim ist von der eigenen Unsicherheit verunsichert",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-stavanger-einzelkritik-li.3563237",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T16:47:58+00:00"
+      "veroeffentlicht": "2026-10-13T21:22:53+00:00"
     },
     {
-      "titel": "Vanessa Emde: Israel-Hasserin – Neuköllnerin wird Teil der Linken-Fraktion in Berlin",
-      "link": "https://www.spiegel.de/politik/vanessa-emde-israel-hasserin-neukoellnerin-wird-teil-der-linken-fraktion-in-berlin-a-0cf158a4-5afa-4e5b-8c40-72aa917ed40a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T16:39:00+00:00"
+      "titel": "FC Bayern in Stavanger: Ein wahrlich wildes Spiel bei den Wikingern",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-stavanger-champions-league-li.3563182",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T21:07:20+00:00"
     },
     {
-      "titel": "Immer mehr Suizide in Deutschland - Experten fordern Prävention",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/suizide-deutschland-100.html",
+      "titel": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T16:37:50+00:00"
+      "veroeffentlicht": "2026-10-13T20:55:26+00:00"
     },
     {
-      "titel": "Marktbericht: DAX driftet ins Minus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+      "titel": "Papst Leo XIV. hat Lungenkrebs",
+      "link": "https://www.spiegel.de/ausland/papst-leo-hat-laut-seinen-aerzten-lungenkrebs-a-c5f7d963-8fa4-4989-bc01-e798e6d77a2b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T20:28:00+00:00"
+    },
+    {
+      "titel": "Tupac Shakur: Bandenchef Duane Davis erhält mindestens 40 Jahre Gefängnis",
+      "link": "https://www.spiegel.de/ausland/tupac-shakur-bandenchef-duane-davis-erhaelt-mindestens-40-jahre-gefaengnis-a-6ddc434f-4147-428f-8520-367581648c02#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T20:27:00+00:00"
+    },
+    {
+      "titel": "Katholische Kirche: Vatikan: Papst Leo XIV. hat Lungenkrebs",
+      "link": "https://www.sueddeutsche.de/politik/papst-leo-xiv-lungenkrebs-lungenadenokarzinom-operation-li.3563095",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T20:21:35+00:00"
+    },
+    {
+      "titel": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
+      "link": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T16:36:06+00:00"
+      "veroeffentlicht": "2026-10-13T20:13:11+00:00"
     },
     {
-      "titel": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-debatte-vorsitz-100.html",
+      "titel": "Franziska Brantner: Grünen-Chefin befürwortet Sondierungsstopp mit Linken in Berlin",
+      "link": "https://www.spiegel.de/politik/franziska-brantner-gruenen-chefin-befuerwortet-sondierungsstopp-mit-linken-in-berlin-a-67f09215-4bd1-4719-81b1-15adc510022c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T20:10:00+00:00"
+    },
+    {
+      "titel": "England - MI5: Mehr Mittel gegen Staatsbedrohungen als im Kalten Krieg",
+      "link": "https://www.spiegel.de/ausland/england-mi5-mehr-mittel-gegen-staatsbedrohungen-als-im-kalten-krieg-a-ec5aa3f6-afda-4a59-aaaf-abbe68cbec8c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T19:41:00+00:00"
+    },
+    {
+      "titel": "Spionage/Russland: Japanischer Journalist wegen Recherchen auf Kurilen festgenommen",
+      "link": "https://www.spiegel.de/ausland/spionage-russland-japanischer-journalist-wegen-recherchen-auf-kurilen-festgenommen-a-19596101-0bd1-4be7-9797-44def526985d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T19:28:00+00:00"
+    },
+    {
+      "titel": "Fall »Jane Doe«: Cornell-Universität setzt Verbindungspartys aus",
+      "link": "https://www.spiegel.de/ausland/fall-jane-doe-cornell-universitaet-setzt-verbindungspartys-aus-a-7bd3b3ba-7521-4772-a193-9f9f3f093a51#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T19:21:00+00:00"
+    },
+    {
+      "titel": "Villarreal: Torhüter Péter Gulácsi nach Überfall nicht im Champions-League-Aufgebot",
+      "link": "https://www.spiegel.de/sport/fussball/villarreal-torhueter-peter-gulacsi-nach-ueberfall-nicht-im-champions-league-aufgebot-a-eccf59e5-2bf1-4d49-991f-26b40ad353a2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T19:19:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Koalition legt Streit um Zuckersteuer bei",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-zuckersteuer-kabinett-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T19:12:08+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Grüne und SPD unterbrechen Sondierungen mit den Berliner Linken",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sondierungen-berlin-unterbrochen-vanessa-emde-linksfraktion-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T18:38:37+00:00"
+    },
+    {
+      "titel": "Cyberattacken auf Hunderte französische Supermärkte",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T16:33:51+00:00"
+      "veroeffentlicht": "2026-10-13T18:37:01+00:00"
     },
     {
-      "titel": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
-      "link": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
+      "titel": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
+      "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T16:30:57+00:00"
+      "veroeffentlicht": "2026-10-13T18:03:27+00:00"
     },
     {
-      "titel": "Griechenland: Warnung vor schweren Unwettern",
-      "link": "https://www.spiegel.de/panorama/griechenland-warnung-vor-schweren-unwettern-a-e48a7433-4f81-415b-8c63-cf550b052bfa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T16:25:00+00:00"
+      "titel": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T18:02:23+00:00"
     },
     {
-      "titel": "Eichstätt: Cyberangriff legt Stadtverwaltung lahm",
-      "link": "https://www.spiegel.de/netzwelt/eichstaett-cyberangriff-legt-stadtverwaltung-lahm-a-da4c6947-caef-4ee7-a1db-c6180d4a5738#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T16:17:00+00:00"
+      "titel": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T18:00:34+00:00"
     },
     {
-      "titel": "Gemini 4 Argon: Google gibt sein neues KI-Modell frei – aber nicht für jeden Abonnenten",
-      "link": "https://www.spiegel.de/netzwelt/web/gemini-4-argon-google-gibt-sein-neues-ki-modell-frei-aber-nicht-fuer-jeden-abonnenten-a-ba1c2eae-adb0-4528-bd3f-a3134b533bb6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T16:12:00+00:00"
+      "titel": "DFB-Frauen gegen Japan: Bühls Siegtreffer kündigt sich lange an",
+      "link": "https://www.sueddeutsche.de/sport/dfb-frauen-buehl-dallmann-japan-laenderspiel-fussball-li.3563180",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T17:54:55+00:00"
     },
     {
-      "titel": "Birdwatching: Peking hat fast alle Spatzen getötet – London zählt sie noch",
-      "link": "https://www.spiegel.de/ausland/birdwatching-peking-hat-fast-alle-spatzen-getoetet-london-zaehlt-sie-noch-a-3d1f7a86-6bdf-43bd-a40e-c5cc22bbd387#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T16:11:00+00:00"
+      "titel": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-sondierungen-unterbrochen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T17:49:07+00:00"
     },
     {
-      "titel": "Konflikt in Jemen: Saudi-Arabien unter Druck",
-      "link": "https://www.spiegel.de/ausland/konflikt-in-jemen-saudi-arabien-unter-druck-a-dea0c94b-6d2d-428f-9509-7e8268e5e228#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T15:58:00+00:00"
+      "titel": "Newsblog zu KI: Streit um Datenschutz: Apple bringt neues Smarthome-Display nicht in die EU",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-apple-homeview-eu-kommission-datenschutz-streit-li.3547133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T17:45:00+00:00"
+    },
+    {
+      "titel": "Schwarzes Meer: Bulgarien nennt Drohnenangriffe \"absolut inakzeptabel\"",
+      "link": "https://www.tagesschau.de/ausland/schwarzes-meer-schiffe-drohnen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T17:34:06+00:00"
     },
     {
       "titel": "Spritpreise: Paris will Ölreserven lockermachen, um Autofahrer zu entlasten",
@@ -85,88 +163,10 @@
       "veroeffentlicht": "2026-10-13T15:57:40+00:00"
     },
     {
-      "titel": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T15:54:56+00:00"
-    },
-    {
-      "titel": "Tod von RJ Mitte: Viel mehr als der Sohn von Walter White",
-      "link": "https://www.spiegel.de/kultur/tv/tod-von-rj-mitte-viel-mehr-als-der-sohn-von-walter-white-a-f7ed2659-5cad-49fe-b119-ab79f189cf4d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T15:44:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Schweitzer ist neuer Arbeitsminister",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-schweitzer-arbeitsminister-ernennung-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T15:19:42+00:00"
-    },
-    {
       "titel": "Sachsen-Anhalt: Wenn sich Siegmund zur Wahl stellt, will die CDU den Saal verlassen",
       "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-siegmund-ministerpraesident-wahl-cdu-li.3560633",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-13T15:19:32+00:00"
-    },
-    {
-      "titel": "News des Tages: Friedrich Merz beim BDA, CDU will Ulrich Siegmund nicht wählen, Fussballer Vinicius Souza",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-beim-bda-cdu-will-ulrich-siegmund-nicht-waehlen-fussballer-vinicius-souza-a-78cd324d-658b-4411-8d07-aa99e21498be#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T15:19:00+00:00"
-    },
-    {
-      "titel": "Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-kippt-umstrittenes-anti-lgbtq-gesetz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T15:10:25+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: US-Botschafterin in Athen muss abtreten",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-guilfoyle-botschafterin-li.3558046",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T15:10:00+00:00"
-    },
-    {
-      "titel": "Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T15:09:23+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Die CDU beschließt die Flucht vor sich selbst",
-      "link": "https://www.sueddeutsche.de/meinung/sachsen-anhalt-cdu-afd-ministerpraesidentenwahl-kommentar-li.3563034",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T15:02:38+00:00"
-    },
-    {
-      "titel": "Serie: Stromberg, aber als Frau",
-      "link": "https://www.sueddeutsche.de/medien/nine-to-five-serie-zdf-kritik-li.3558591",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T14:45:37+00:00"
-    },
-    {
-      "titel": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T14:33:25+00:00"
-    },
-    {
-      "titel": "Königspaar zu Besuch - Spanien will Unterstützung für Ceuta zeigen",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-koenigspaar-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T14:08:51+00:00"
-    },
-    {
-      "titel": "Fifa: Eine geheime Zahlung für Infantino",
-      "link": "https://www.sueddeutsche.de/sport/fifa-infantino-geheime-zahlung-affaere-usa-li.3562908",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T14:01:52+00:00"
-    },
-    {
-      "titel": "Mordprozess am Münchner Landgericht: Die Domina und ihr „Haussklave“",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-mordprozess-domina-landgericht-muenchen-haussklave-li.3561249",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T13:48:57+00:00"
     }
   ]
 }
