@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-13T16:08:53+00:00",
+  "aktualisiert": "2026-10-13T21:21:43+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Ceuta",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-koenigspaar-100.html",
+      "titel": "Können deutsche Autobauer profitieren?",
+      "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 2,
-      "titel": "Vom Wahlverlierer zum Bundesminister",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html",
+      "titel": "Papst Leo XIV. hat Lungenkrebs",
+      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔥"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Frankreichs Schüler lassen nicht locker",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html",
+      "titel": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     }
   ]
 }
