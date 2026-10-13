@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-13T02:02:07+00:00",
+  "aktualisiert": "2026-10-13T09:27:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
+      "titel": "Spaniens König in Ceuta: Spuren beseitigt, Problem weggeschoben",
+      "link": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T09:24:42+00:00"
+    },
+    {
+      "titel": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
+      "link": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T09:17:24+00:00"
+    },
+    {
+      "titel": "Six Flags: Freizeitpark schließt mehrere Achterbahnen nach tödlichem Unfall",
+      "link": "https://www.spiegel.de/panorama/six-flags-freizeitpark-schliesst-mehrere-achterbahnen-nach-toedlichem-unfall-a-2f51a33a-abec-4376-9876-1f147cc8cf50#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T09:12:00+00:00"
+    },
+    {
+      "titel": "Rente: Friedrich Merz gibt Versäumnisse in der Rentenpolitik zu",
+      "link": "https://www.spiegel.de/politik/deutschland/rente-friedrich-merz-gibt-versaeumnisse-in-der-rentenpolitik-zu-a-ae326ca1-d189-4194-9612-ae744c5227de#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T09:03:00+00:00"
+    },
+    {
+      "titel": "Tuttlingen: Von Polizei erschossener 27-Jähriger trug keine scharfe Waffe",
+      "link": "https://www.spiegel.de/panorama/justiz/tuttlingen-von-polizei-erschossener-27-jaehriger-trug-keine-scharfe-waffe-a-d292f388-5909-4ad0-badf-6b7fc166d359#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T08:59:00+00:00"
+    },
+    {
+      "titel": "Rücktritt von Bärbel Bas: Ulf Kämpfer bringt Manuela Schwesig für SPD-Doppelspitze ins Spiel",
+      "link": "https://www.spiegel.de/politik/ruecktritt-von-baerbel-bas-ulf-kaempfer-bringt-manuela-schwesig-fuer-spd-doppelspitze-ins-spiel-a-83231b7e-06e1-4ed6-ac04-aa5bc4db584b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T08:55:00+00:00"
+    },
+    {
+      "titel": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
+      "link": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T08:46:32+00:00"
+    },
+    {
+      "titel": "Wechseljahre verändern Körper laut neuer Studie früher als gedacht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/menopause-koerper-veraenderungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T08:34:21+00:00"
+    },
+    {
+      "titel": "Bulgarien: Erneut Schiffe im Schwarzen Meer angegriffen – Crew spricht von Drohnenattacke",
+      "link": "https://www.spiegel.de/ausland/bulgarien-erneut-schiffe-im-schwarzen-meer-angegriffen-crew-spricht-von-drohnenattacke-a-ef8a52b1-0aec-4057-9048-56f1c44fccc9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T08:29:00+00:00"
+    },
+    {
+      "titel": "CDU fordert Tempo vom neuen Arbeitsminister Schweitzer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-tempo-reformen-koalition-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T08:22:44+00:00"
+    },
+    {
+      "titel": "Oschersleben: Schulen wegen Amokdrohung geschlossen",
+      "link": "https://www.spiegel.de/panorama/justiz/oschersleben-schulen-wegen-amokdrohung-geschlossen-a-eacca065-e9d4-4acd-af99-97c7b3295595#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T08:09:00+00:00"
+    },
+    {
+      "titel": "Vinicius Souza vom VfL Wolfsburg: Rasante Luxusautos, beim Bezahlen weniger schnell",
+      "link": "https://www.spiegel.de/sport/fussball/vinicius-souza-vom-vfl-wolfsburg-rasante-luxusautos-beim-bezahlen-weniger-schnell-a-e63273bb-e1e8-4260-aff2-1b0beabe3822#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T08:00:00+00:00"
+    },
+    {
+      "titel": "\"Breaking Bad\"-Schauspieler RJ Mitte mit 34 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/rj-mitte-breaking-bad-tod-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T07:58:41+00:00"
+    },
+    {
+      "titel": "Kurz vor Zwischenwahlen: Durchsuchung bei Trump-Kritikerin Omar",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ilhan-omar-durchsuchung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T07:57:41+00:00"
+    },
+    {
+      "titel": "Ermittlungen im Fall Block: Die Hausdurchsuchung bei der „Zeit“ ist ein eklatanter Bruch der Pressefreiheit",
+      "link": "https://www.sueddeutsche.de/meinung/die-zeit-hausdurchsuchung-staatsanwalt-pressefreiheit-fall-block-kommentar-li.3562829",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T07:55:18+00:00"
+    },
+    {
+      "titel": "Erbschaftsteuer: Firmenerbin hält eigene steuerfreie Schenkung für ungerecht",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/erbschaftsteuer-firmenerbin-haelt-eigene-steuerfreie-schenkung-fuer-ungerecht-a-cf9d1311-3fdf-45a4-9b76-80a7ef6a4f46#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T07:25:00+00:00"
+    },
+    {
+      "titel": "Israel verweigert »taz«-Korrespondentin Arbeitsvisum",
+      "link": "https://www.spiegel.de/ausland/israel-verweigert-taz-korrespondentin-arbeitsvisum-a-b3f15c53-9f8a-456e-b3dd-37830660700f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T07:17:00+00:00"
+    },
+    {
+      "titel": "Wehrt sich Europa gegen die US-Sanktionen gegen das Weltstrafgericht?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-istgh-us-sanktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T06:36:11+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Musk unterstützt Republikaner mit 276 Millionen Dollar",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-musk-midterms-wahlspenden-republikaner-li.3558046",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T06:26:50+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger warten ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-13T05:40:48+00:00"
+    },
+    {
+      "titel": "Altersvorsorge: Ein Depot umsonst – kann das wirklich sein?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/altersvorsorgedepot-trade-republic-gebuehren-etf-altersvorsorge-li.3560560",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T05:00:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Juso-Chef Türmer sieht Neuordnung der SPD als Chance",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-bas-ruecktritt-klingbeil-tuermer-jusos-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T04:29:47+00:00"
+    },
+    {
+      "titel": "Nach Kritik an Merz: Demokratieprojekt klagt gegen Förderstopp",
+      "link": "https://www.sueddeutsche.de/politik/radikale-toechter-foerdergeld-regierung-stopp-klage-merz-li.3560694",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T04:00:00+00:00"
+    },
+    {
+      "titel": "Hausdurchsuchung bei Ilhan Omar: Die Frau, die Donald Trump zur Weißglut treibt",
+      "link": "https://www.sueddeutsche.de/politik/immigration-republikaner-somalia-mogadischu-gefluechtete-j-d-vance-minnesota-midterms-li.3562741",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T02:39:59+00:00"
+    },
+    {
+      "titel": "IWF-Prognose: Die Weltwirtschaft trotzt den Schocks",
+      "link": "https://www.sueddeutsche.de/wirtschaft/iwf-weltwirtschaft-wachstum-ausblick-li.3562379",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-13T02:01:00+00:00"
+    },
+    {
       "titel": "Krieg in Nahost: Mehrere Fluglinien streichen Verbindungen nach Saudi-Arabien",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-putin-riad-huthi-flughafen-reiche-li.3560260",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-13T01:43:18+00:00"
     },
     {
-      "titel": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T01:38:12+00:00"
-    },
-    {
-      "titel": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T00:10:57+00:00"
-    },
-    {
-      "titel": "Baden-Württemberg: Linienbus in zwei Teile geteilt - Fahrer schwer verletzt",
-      "link": "https://www.spiegel.de/panorama/baden-wuerttemberg-linienbus-in-zwei-teile-geteilt-fahrer-schwer-verletzt-a-6d77609f-aaf3-4bfa-9819-559fb0cfc29b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T23:40:00+00:00"
-    },
-    {
-      "titel": "RJ Mitte ist tot: »Breaking Bad«-Schauspieler mit 34 Jahren gestorben",
-      "link": "https://www.spiegel.de/panorama/rj-mitte-ist-tot-breaking-bad-schauspieler-mit-34-jahren-gestorben-a-3ef6ae8c-d90b-493c-8b04-3831e9b63d7b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T21:26:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: US-Senatoren kritisieren Trumps Diesel-Deal mit Russland",
-      "link": "https://www.spiegel.de/ausland/donald-trump-us-senatoren-kritisieren-trumps-diesel-deal-mit-russland-a-383b9a00-b9e4-4901-9a7b-41e3a2aeaa5a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T21:08:00+00:00"
-    },
-    {
-      "titel": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-12T21:03:44+00:00"
-    },
-    {
-      "titel": "Varenna am Comer See: Witwe überlässt Gemeinde Villa für die Allgemeinheit",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/varenna-am-comer-see-witwe-ueberlaesst-gemeinde-villa-fuer-die-allgemeinheit-a-17d8ce6a-baa7-40a4-8561-ce83ef18adcd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T20:12:00+00:00"
-    },
-    {
-      "titel": "Selma Blair hat Flugpersonal offenbar gebissen und geschlagen",
-      "link": "https://www.spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T20:06:00+00:00"
-    },
-    {
-      "titel": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-12T19:49:18+00:00"
-    },
-    {
-      "titel": "Antisemitismusbeauftragte: EU-Koordinatorin Katharina von Schnurbein vor Wechsel nach Berlin",
-      "link": "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-eu-koordinatorin-katharina-von-schnurbein-vor-wechsel-nach-berlin-a-c38fb654-afa5-48fb-be57-90a7abe75edc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T19:44:00+00:00"
-    },
-    {
-      "titel": "Will Boris Pistorius an die SPD-Spitze? Sagt er nicht so genau",
-      "link": "https://www.spiegel.de/politik/deutschland/will-boris-pistorius-an-die-spd-spitze-sagt-er-nicht-so-genau-a-93f43a9e-77d7-4bab-841c-c9b79fd04f92#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T19:11:00+00:00"
-    },
-    {
-      "titel": "Todesstrafe in den USA: Erzbischof fordert katholische Soldaten zum Rückzug aus Erschießungskommando auf",
-      "link": "https://www.spiegel.de/ausland/todesstrafe-in-den-usa-erzbischof-fordert-katholische-soldaten-zum-rueckzug-aus-erschiessungskommando-auf-a-7eba6772-dd4b-4c3c-ade3-113c8cd22603#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T18:56:00+00:00"
-    },
-    {
-      "titel": "EU beschließt Libanon-Einsatz",
-      "link": "https://www.spiegel.de/ausland/eu-beschliesst-libanon-einsatz-a-2a1b3b3a-03d4-4a7b-bb73-eeaa7898640a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-12T18:39:00+00:00"
-    },
-    {
-      "titel": "FC Bayern in Stavanger: „Manu hat was am Fuß gespürt“",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-muenchen-champions-league-manuel-neuer-jonas-urbig-vincent-kompany-viking-stavanger-li.3562686",
+      "titel": "Menopause: Neue Studie zu Wechseljahren – die Veränderungen beginnen früher als gedacht",
+      "link": "https://www.sueddeutsche.de/gesundheit/wechseljahre-menopause-studie-hormone-gesundheit-li.3562636",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-12T18:18:58+00:00"
-    },
-    {
-      "titel": "Papst geht Dienstag für Lungenoperation ins Krankenhaus",
-      "link": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-12T17:31:01+00:00"
-    },
-    {
-      "titel": "EU-Außenminister: Sanktionspaket mit willkommener Nebenwirkung",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-neue-sanktionen-russland-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-12T17:01:25+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX trotzt den hohen Ölpreisen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-12T16:31:48+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: CDU-Vorschlag: Abgeordnete sollen bei Ministerpräsidentenwahl in Sachsen-Anhalt Saal verlassen",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-sachsen-anhalt-berlin-cdu-afd-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-12T16:30:00+00:00"
-    },
-    {
-      "titel": "Israel verweigert taz-Korrespondentin die Einreise",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-12T16:08:10+00:00"
-    },
-    {
-      "titel": "Interview mit Politologin Römmele: \"Bas hat einiges aushalten müssen\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-interview-roemmele-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-12T16:04:04+00:00"
-    },
-    {
-      "titel": "Nahost: Israel verweigert „taz“-Korrespondentin Arbeitsvisum",
-      "link": "https://www.sueddeutsche.de/medien/taz-israel-serena-bilanceri-arbeitsvisum-einreise-li.3562689",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-12T15:51:25+00:00"
-    },
-    {
-      "titel": "Nachruf: Biodiversitätsforscher Josef Settele ist tot",
-      "link": "https://www.sueddeutsche.de/wissen/josef-settele-biodiversitaet-ipbes-nachruf-li.3562634",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-12T15:46:51+00:00"
-    },
-    {
-      "titel": "Prozess in München: „Love Island“-Star wegen mutmaßlicher Vergewaltigung seiner TV-Partnerin vor Gericht",
-      "link": "https://www.sueddeutsche.de/muenchen/yasin-mohamed-freundin-sophie-imelmann-vergewaltigungsvorwurf-prozess-love-island-vip-rtl2-li.3560020",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-12T15:32:16+00:00"
-    },
-    {
-      "titel": "Podcast „Und nun zum Sport“: Ein Finanzskandal von beispiellosem Ausmaß: Was folgt aus dem Urteil gegen ManCity?",
-      "link": "https://www.sueddeutsche.de/sport/podcast-mancity-urteil-premier-league-li.3562641",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-12T15:31:21+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Was Bas’ Rücktritt in der Koalition verändert – und was sie der CDU vorwirft",
-      "link": "https://www.sueddeutsche.de/politik/baerbel-bas-ruecktritt-spd-cdu-podcast-li.3562173",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-12T14:41:09+00:00"
-    },
-    {
-      "titel": "„Marché des Enfants-Rouges“: Älteste Markthalle von Paris bei nächtlichem Brand zerstört",
-      "link": "https://www.sueddeutsche.de/panorama/paris-markthalle-markt-feuer-brand-feuerwehr-marche-des-enfants-rouges-li.3562604",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-12T13:32:48+00:00"
+      "veroeffentlicht": "2026-10-12T19:05:47+00:00"
     }
   ]
 }
