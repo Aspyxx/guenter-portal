@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-13T01:28:10+00:00",
+  "aktualisiert": "2026-10-13T08:00:42+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
-      "rang": 2,
-      "titel": "Wollen wir so unerbittlich und gnadenlos sein?",
-      "link": "https://www.tagesschau.de/kommentar/ruecktritt-bas-102.html",
+      "titel": "Neue Hoffnung für Koalition?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Anleger warten ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
       "rang": 3,
-      "titel": "VW in der Slowakei - hoffnungsvolle Krise?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
+      "titel": "Wie ein Brandbeschleuniger in Frankreichs Krise",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
