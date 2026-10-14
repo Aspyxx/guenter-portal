@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-10-13T21:51:24+00:00",
+  "aktualisiert": "2026-10-14T01:14:12+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Eurojackpot: 120-Millionen-Euro-Gewinn geht in den Kreis Mettmann",
+      "link": "https://www.spiegel.de/panorama/eurojackpot-120-millionen-euro-gewinn-geht-in-den-kreis-mettmann-a-c4487900-de14-4878-b6dd-7bf2c7e18415#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T01:03:00+00:00"
+    },
+    {
+      "titel": "Lena Dunham: »Girls«-Cast kehrt für TV-Revival zurück – wohl ohne Adam Driver",
+      "link": "https://www.spiegel.de/kultur/lena-dunham-girls-cast-kehrt-fuer-tv-revival-zurueck-wohl-ohne-adam-driver-a-10eb9a11-63b4-4aee-bc1a-6581cf69e36c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T00:52:00+00:00"
+    },
+    {
+      "titel": "Finnland: KI-Boom auf Kosten der Natur?",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T00:31:01+00:00"
+    },
+    {
+      "titel": "USA: Gericht stoppt vorerst Baumfällungen für Trumps Golfplatz",
+      "link": "https://www.spiegel.de/ausland/usa-gericht-stoppt-vorerst-baumfaellungen-fuer-trumps-golfplatz-a-352809ad-d3f3-4088-9660-8fcd804576b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T23:39:00+00:00"
+    },
+    {
+      "titel": "Russland-Ukraine-Krieg: Wolodymyr Selenskyj beklagt fehlende Warnung vor russischen Raketen",
+      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-beklagt-fehlende-warnung-vor-russischen-raketen-a-799321a4-f02f-43bf-a475-238c1fc5846c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T23:12:00+00:00"
+    },
+    {
+      "titel": "OpenAI: Ingenieur soll Abhörgerät bei Führung installiert haben – Festnahme",
+      "link": "https://www.spiegel.de/netzwelt/openai-ingenieur-soll-abhoergeraet-bei-fuehrung-installiert-haben-festnahme-a-56846934-785c-45d7-96e3-d00f0cf1aa8b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-13T22:51:00+00:00"
+    },
     {
       "titel": "Papst Leo XIV. hat Lungenkrebs",
       "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
@@ -67,36 +103,6 @@
       "veroeffentlicht": "2026-10-13T20:13:11+00:00"
     },
     {
-      "titel": "Franziska Brantner: Grünen-Chefin befürwortet Sondierungsstopp mit Linken in Berlin",
-      "link": "https://www.spiegel.de/politik/franziska-brantner-gruenen-chefin-befuerwortet-sondierungsstopp-mit-linken-in-berlin-a-67f09215-4bd1-4719-81b1-15adc510022c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T20:10:00+00:00"
-    },
-    {
-      "titel": "England - MI5: Mehr Mittel gegen Staatsbedrohungen als im Kalten Krieg",
-      "link": "https://www.spiegel.de/ausland/england-mi5-mehr-mittel-gegen-staatsbedrohungen-als-im-kalten-krieg-a-ec5aa3f6-afda-4a59-aaaf-abbe68cbec8c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T19:41:00+00:00"
-    },
-    {
-      "titel": "Spionage/Russland: Japanischer Journalist wegen Recherchen auf Kurilen festgenommen",
-      "link": "https://www.spiegel.de/ausland/spionage-russland-japanischer-journalist-wegen-recherchen-auf-kurilen-festgenommen-a-19596101-0bd1-4be7-9797-44def526985d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T19:28:00+00:00"
-    },
-    {
-      "titel": "Fall »Jane Doe«: Cornell-Universität setzt Verbindungspartys aus",
-      "link": "https://www.spiegel.de/ausland/fall-jane-doe-cornell-universitaet-setzt-verbindungspartys-aus-a-7bd3b3ba-7521-4772-a193-9f9f3f093a51#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T19:21:00+00:00"
-    },
-    {
-      "titel": "Villarreal: Torhüter Péter Gulácsi nach Überfall nicht im Champions-League-Aufgebot",
-      "link": "https://www.spiegel.de/sport/fussball/villarreal-torhueter-peter-gulacsi-nach-ueberfall-nicht-im-champions-league-aufgebot-a-eccf59e5-2bf1-4d49-991f-26b40ad353a2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T19:19:00+00:00"
-    },
-    {
       "titel": "Newsblog zur Bundespolitik: Koalition legt Streit um Zuckersteuer bei",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-zuckersteuer-kabinett-li.3529564",
       "quelle": "Süddeutsche",
@@ -149,12 +155,6 @@
       "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-apple-homeview-eu-kommission-datenschutz-streit-li.3547133",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-13T17:45:00+00:00"
-    },
-    {
-      "titel": "Schwarzes Meer: Bulgarien nennt Drohnenangriffe \"absolut inakzeptabel\"",
-      "link": "https://www.tagesschau.de/ausland/schwarzes-meer-schiffe-drohnen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T17:34:06+00:00"
     },
     {
       "titel": "Spritpreise: Paris will Ölreserven lockermachen, um Autofahrer zu entlasten",
