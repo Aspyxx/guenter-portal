@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-14T17:13:43+00:00",
+  "aktualisiert": "2026-10-14T20:45:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,100 @@
   },
   "meldungen": [
     {
-      "titel": "Dagi Bee: Influencerin fahndet via Instagram nach zwei Männern – Polizei kritisiert solche Aktionen",
-      "link": "https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T17:00:00+00:00"
+      "titel": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T20:33:16+00:00"
     },
     {
-      "titel": "Sondierungen mit Linke gehen weiter: Grüne Bundesspitzen sind sauer auf Berliner Grüne",
-      "link": "https://www.spiegel.de/politik/deutschland/sondierungen-mit-linke-gehen-weiter-gruene-bundesspitzen-sind-sauer-auf-berliner-gruene-a-9b169450-85b8-4276-a2cf-dcdda0c2ab48#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T16:51:00+00:00"
+      "titel": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T20:01:02+00:00"
     },
     {
-      "titel": "Friedrich Merz: Der Kanzler sucht eine neue Erzählung für seine schwarz-rote Koalition",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-sucht-eine-neue-erzaehlung-fuer-seine-schwarz-rote-koalition-a-ed76320c-3abb-4f9f-beb1-b82c7a48590f#ref=rss",
+      "titel": "Linke: Sondierungsgespräche in Berlin werden offenbar fortgesetzt",
+      "link": "https://www.spiegel.de/politik/linke-sondierungsgespraeche-in-berlin-werden-offenbar-fortgesetzt-a-1609c605-26e7-409d-8fd3-255249f0a981#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T16:41:00+00:00"
+      "veroeffentlicht": "2026-10-14T19:28:00+00:00"
     },
     {
-      "titel": "Hamburg: Er kritisierte seine Partei vehement. Jetzt könnte er seinen Posten verlieren",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/hamburg-er-kritisierte-seine-partei-vehement-jetzt-koennte-er-seinen-posten-verlieren-a-da39048b-4032-4a0a-95f7-2f59d5dec8ee#ref=rss",
+      "titel": "Champions League: FC Liverpool siegt in Linz 6:3",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-siegt-in-linz-6-3-a-7ef515c0-45bd-407f-b7d3-a6638959f78a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T16:40:00+00:00"
+      "veroeffentlicht": "2026-10-14T19:11:00+00:00"
     },
     {
-      "titel": "Landtag von Sachsen-Anhalt: Der AfD-Parlamentspräsident daddelt auf seinem Handy",
-      "link": "https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy-a-a9655865-85d1-4d97-bf66-e46d7cd54285#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T16:37:00+00:00"
+      "titel": "Berlin: Rot-Rot-Grün steckt in der Vertrauenskrise – will aber weiter sondieren",
+      "link": "https://www.sueddeutsche.de/politik/berlin-linke-spd-gruene-sondierung-antisemitismus-vertrauenskrise-vanessa-emde-li.3563401",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T19:10:00+00:00"
     },
     {
-      "titel": "Wohnen mit Kindern: Wie drei Teenager unser Zuhause in eine Dauer-WG verwandelt haben",
-      "link": "https://www.spiegel.de/familie/wohnen-mit-kindern-wie-drei-teenager-unser-zuhause-in-eine-dauer-wg-verwandelt-haben-a-e86cc468-b0ca-46ce-a2fe-1cb82713ae2f#ref=rss",
+      "titel": "Newsblog zu den Landtagswahlen: Eralp: Sondierungsgespräche in Berlin werden fortgesetzt",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-elif-eralp-berlin-sondierungsgespraeche-linke-gruene-spd-antisemitismus-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T19:09:25+00:00"
+    },
+    {
+      "titel": "Wahlrecht in Indien: Premier Narendra Modi bringt junge Wähler gegen sich auf",
+      "link": "https://www.spiegel.de/ausland/wahlrecht-in-indien-premier-narendra-modi-bringt-junge-waehler-gegen-sich-auf-a-0b568b42-d1c7-4ef1-9dc6-d789e7d775b7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T16:28:00+00:00"
+      "veroeffentlicht": "2026-10-14T19:09:00+00:00"
+    },
+    {
+      "titel": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T19:03:00+00:00"
+    },
+    {
+      "titel": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruestungsvorhaben-genehmigt-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T18:29:12+00:00"
+    },
+    {
+      "titel": "Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T18:26:00+00:00"
+    },
+    {
+      "titel": "Netflix streicht rund 1000 Jobs",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/netflix-streicht-rund-1000-jobs-a-acf7ff59-dfe8-4892-8031-c826a62f40b4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T18:26:00+00:00"
+    },
+    {
+      "titel": "Pkw-Maut-Prozess gegen Andreas Scheuer: Zeuge weist Vorwurf der Rachsucht zurück",
+      "link": "https://www.spiegel.de/panorama/justiz/pkw-maut-prozess-gegen-andreas-scheuer-zeuge-weist-vorwurf-der-rachsucht-zurueck-a-682ec817-f23f-4f39-a7f9-eb568850c79e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T18:22:00+00:00"
+    },
+    {
+      "titel": "Aufregung um Ledger: Warum Krypto-Käufer panisch Hardware-Wallets auseinandernehmen",
+      "link": "https://www.spiegel.de/netzwelt/web/aufregung-um-ledger-warum-krypto-kaeufer-panisch-hardware-wallets-auseinandernehmen-a-72219652-6e08-4f9f-92a8-1460d5a7f08d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T18:22:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Wie sich die Menschen in Kyjiw auf den Kriegswinter vorbereiten",
+      "link": "https://www.spiegel.de/ausland/ukraine-wie-sich-die-menschen-in-kyjiw-auf-den-kriegswinter-vorbereiten-a-4112c6c2-aab5-4322-ab75-bff436515455#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T18:20:00+00:00"
+    },
+    {
+      "titel": "Prozess um PKW-Maut: „Sie müssen etwas für Deutschland tun“",
+      "link": "https://www.sueddeutsche.de/politik/andreas-scheuer-pkw-maut-prozess-falschaussage-verteidigung-li.3563364",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T18:16:32+00:00"
+    },
+    {
+      "titel": "Radsport: Valentina Cavallar beklagt Dopingprobe kurz nach dem Tod ihrer Mutter",
+      "link": "https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T17:40:00+00:00"
     },
     {
       "titel": "Marktbericht: DAX bleibt im Seitwärtstrend",
@@ -53,24 +113,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-14T16:20:57+00:00"
-    },
-    {
-      "titel": "Sally Rooney stoppt Verkauf ihrer Bücher in Großbritannien",
-      "link": "https://www.spiegel.de/kultur/literatur/sally-rooney-stoppt-verkauf-ihrer-buecher-in-grossbritannien-a-f34e07d0-1f44-4b2c-9960-369654ce5c96#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T16:13:00+00:00"
-    },
-    {
-      "titel": "Israel: Ex-Geheimdienstchef klagt gegen Netanyahu im Streit über Warnungen am 7. Oktober",
-      "link": "https://www.spiegel.de/ausland/israel-ex-geheimdienstchef-klagt-gegen-netanyahu-im-streit-ueber-warnungen-am-7-oktober-a-33c5436c-b2a4-4e2b-a371-0607cff8b4a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T16:07:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Zuckersteuer, Ärger um Linke Abgeordnete Emde, Ende des McRib, Bayern-Superstar Michael Olise",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-zuckersteuer-aerger-um-linke-abgeordnete-emde-ende-des-mcrib-bayern-superstar-michael-olise-a-5638932b-5356-4fde-9792-a68013343634#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T15:52:00+00:00"
     },
     {
       "titel": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
@@ -91,7 +133,7 @@
       "veroeffentlicht": "2026-10-14T15:29:34+00:00"
     },
     {
-      "titel": "GKV-Sparpaket: Mehr Psychotherapie für schwer Betroffene und Kinder",
+      "titel": "GKV-Sparpaket: Wieder mehr Psychotherapie für schwer Betroffene und Kinder",
       "link": "https://www.sueddeutsche.de/gesundheit/psychotherapie-gkv-sparpaket-2026-kinder-jugendliche-li.3563503",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-14T15:11:48+00:00"
@@ -109,64 +151,22 @@
       "veroeffentlicht": "2026-10-14T14:43:05+00:00"
     },
     {
-      "titel": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-14T14:40:00+00:00"
-    },
-    {
       "titel": "Deutsche Debatten: Jeder sendet nur noch für das eigene Publikum",
       "link": "https://www.sueddeutsche.de/meinung/kommentar-bundesregierung-ukraine-afd-linke-li.3563474",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-14T14:31:14+00:00"
     },
     {
-      "titel": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-14T14:31:12+00:00"
-    },
-    {
-      "titel": "Nepal: Erneut schwere Überschwemmungen nach Unwettern",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-neue-flut-waehrend-des-wiederaufbaus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-14T14:18:13+00:00"
-    },
-    {
-      "titel": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
-      "link": "https://www.tagesschau.de/ausland/europa/haushalt-frankreich-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-14T14:17:03+00:00"
+      "titel": "Immobilienmarkt: So viel Geld müssen Käufer für eine Wohnung in München zahlen",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-preise-wohnungen-haeuser-ivd-li.3559962",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T14:06:59+00:00"
     },
     {
       "titel": "Prozessauftakt in Würzburg: Wer zündete die todbringende Rakete? Beweislage schwierig",
       "link": "https://www.sueddeutsche.de/bayern/wuerzburg-silvester-feuer-seniorin-li.3563385",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-14T13:52:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Viel Lärm um Krieg und Frieden im Magdeburger Landtag",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-afd-bsw-sonderplenum-ukraine-friedensinitiative-landtag-li.3560637",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T13:10:28+00:00"
-    },
-    {
-      "titel": "Schulen: Initiative fordert Kinderschutz als Teil des Lehramtsstudiums",
-      "link": "https://www.sueddeutsche.de/politik/kinderschutz-lehramtsstudium-bildungspolitik-kindeswohlgefaehrdung-sexualisierte-gewalt-li.3562966",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T13:01:05+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Merz: Ukraine-Hilfe nicht zulasten von Sozialausgaben",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-merz-regierungserklaerung-ukraine-hilfe-sozialausgaben-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T12:58:34+00:00"
-    },
-    {
-      "titel": "Debatte: Der Inbegriff von Übergriffigkeit",
-      "link": "https://www.sueddeutsche.de/medien/rj-mitte-tot-breaking-bad-ableismus-li.3563369",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T12:56:30+00:00"
     }
   ]
 }
