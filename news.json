@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-10-14T20:45:22+00:00",
+  "aktualisiert": "2026-10-14T23:56:04+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Frankfurt Airport: Lufthansa reagiert wegen möglichen Kerosin-Engpässen",
+      "link": "https://www.spiegel.de/wirtschaft/frankfurt-airport-lufthansa-reagiert-wegen-moeglichen-kerosin-engpaessen-a-3e3e5829-e3d8-4b55-8386-756b92b44937#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T23:18:00+00:00"
+    },
+    {
+      "titel": "Champions League: VfB Stuttgart siegt in Bratislava, Real Madrid gewinnt mit Jose Mourinho in Rom",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-vfb-stuttgart-siegt-in-bratislava-real-madrid-gewinnt-mit-jose-mourinho-in-rom-a-3896e725-4609-485c-9932-a42f8fa9be3c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T21:46:00+00:00"
+    },
+    {
+      "titel": "Champions League: Manchester City unterliegt Paris Saint-Germain",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-manchester-city-unterliegt-paris-saint-germain-a-3cdd5311-497b-4346-b072-e6ce37f8d725#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T21:30:00+00:00"
+    },
+    {
+      "titel": "Champions League: Borussia Dortmund verliert bei Bodø/Glimt",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-bei-bodo-glimt-a-b91a4a7c-1ff1-4f63-ac2c-45800669292e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T21:30:00+00:00"
+    },
+    {
+      "titel": "Borussia Dortmund in der Champions League: Auch der BVB macht die leidvolle Bodø-Erfahrung",
+      "link": "https://www.sueddeutsche.de/sport/dortmund-champions-league-bodo-glimt-kovac-li.3563768",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T21:26:29+00:00"
+    },
+    {
+      "titel": "Champions League: Manchester City wird von PSG vorgeführt – und holt zu spät auf",
+      "link": "https://www.sueddeutsche.de/sport/champions-league-spieltag-ergebnisse-manchester-li.3563769",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T21:16:40+00:00"
+    },
+    {
+      "titel": "Dagi Bee: Influencerin fahndet via Instagram nach zwei Männern – Polizei kritisiert solche Aktionen",
+      "link": "https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T21:10:00+00:00"
+    },
+    {
+      "titel": "Proteste in Albanien: Demonstranten legen Feuer in Bildungsministerium in Albanien",
+      "link": "https://www.spiegel.de/ausland/proteste-in-albanien-demonstranten-legen-feuer-in-bildungsministerium-in-albanien-a-3e4b870a-e489-4cf5-a2f4-c9d3858526c9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T21:08:00+00:00"
+    },
     {
       "titel": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
       "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
@@ -61,46 +109,10 @@
       "veroeffentlicht": "2026-10-14T18:29:12+00:00"
     },
     {
-      "titel": "Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T18:26:00+00:00"
-    },
-    {
-      "titel": "Netflix streicht rund 1000 Jobs",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/netflix-streicht-rund-1000-jobs-a-acf7ff59-dfe8-4892-8031-c826a62f40b4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T18:26:00+00:00"
-    },
-    {
-      "titel": "Pkw-Maut-Prozess gegen Andreas Scheuer: Zeuge weist Vorwurf der Rachsucht zurück",
-      "link": "https://www.spiegel.de/panorama/justiz/pkw-maut-prozess-gegen-andreas-scheuer-zeuge-weist-vorwurf-der-rachsucht-zurueck-a-682ec817-f23f-4f39-a7f9-eb568850c79e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T18:22:00+00:00"
-    },
-    {
-      "titel": "Aufregung um Ledger: Warum Krypto-Käufer panisch Hardware-Wallets auseinandernehmen",
-      "link": "https://www.spiegel.de/netzwelt/web/aufregung-um-ledger-warum-krypto-kaeufer-panisch-hardware-wallets-auseinandernehmen-a-72219652-6e08-4f9f-92a8-1460d5a7f08d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T18:22:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Wie sich die Menschen in Kyjiw auf den Kriegswinter vorbereiten",
-      "link": "https://www.spiegel.de/ausland/ukraine-wie-sich-die-menschen-in-kyjiw-auf-den-kriegswinter-vorbereiten-a-4112c6c2-aab5-4322-ab75-bff436515455#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T18:20:00+00:00"
-    },
-    {
       "titel": "Prozess um PKW-Maut: „Sie müssen etwas für Deutschland tun“",
       "link": "https://www.sueddeutsche.de/politik/andreas-scheuer-pkw-maut-prozess-falschaussage-verteidigung-li.3563364",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-14T18:16:32+00:00"
-    },
-    {
-      "titel": "Radsport: Valentina Cavallar beklagt Dopingprobe kurz nach dem Tod ihrer Mutter",
-      "link": "https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T17:40:00+00:00"
     },
     {
       "titel": "Marktbericht: DAX bleibt im Seitwärtstrend",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/kommentar-bundesregierung-ukraine-afd-linke-li.3563474",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-14T14:31:14+00:00"
-    },
-    {
-      "titel": "Immobilienmarkt: So viel Geld müssen Käufer für eine Wohnung in München zahlen",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-preise-wohnungen-haeuser-ivd-li.3559962",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T14:06:59+00:00"
-    },
-    {
-      "titel": "Prozessauftakt in Würzburg: Wer zündete die todbringende Rakete? Beweislage schwierig",
-      "link": "https://www.sueddeutsche.de/bayern/wuerzburg-silvester-feuer-seniorin-li.3563385",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T13:52:00+00:00"
     }
   ]
 }
