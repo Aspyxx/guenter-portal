@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-14T01:14:12+00:00",
+  "aktualisiert": "2026-10-14T06:13:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Eurojackpot: 120-Millionen-Euro-Gewinn geht in den Kreis Mettmann",
-      "link": "https://www.spiegel.de/panorama/eurojackpot-120-millionen-euro-gewinn-geht-in-den-kreis-mettmann-a-c4487900-de14-4878-b6dd-7bf2c7e18415#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T01:03:00+00:00"
+      "titel": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T05:52:51+00:00"
     },
     {
-      "titel": "Lena Dunham: »Girls«-Cast kehrt für TV-Revival zurück – wohl ohne Adam Driver",
-      "link": "https://www.spiegel.de/kultur/lena-dunham-girls-cast-kehrt-fuer-tv-revival-zurueck-wohl-ohne-adam-driver-a-10eb9a11-63b4-4aee-bc1a-6581cf69e36c#ref=rss",
+      "titel": "Bundespräsident Steinmeier wünscht Leo XIV. baldige Genesung",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/bundespraesident-steinmeier-wuenscht-leo-xiv-baldige-genesung-a-8db1b73c-ddfc-4c4e-b82a-904ffbd0ad09#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T00:52:00+00:00"
+      "veroeffentlicht": "2026-10-14T05:44:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX leicht höher gesehen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T05:35:03+00:00"
+    },
+    {
+      "titel": "Klima: Insider warnen, dass Immobilienversicherungen unbezahlbar werden könnten",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/klima-insider-warnen-dass-immobilienversicherungen-unbezahlbar-werden-koennten-a-5d27d4a0-3200-458b-9c9d-3220af26ef38#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T05:31:00+00:00"
+    },
+    {
+      "titel": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T05:26:14+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Gericht verlängert Zugang von Medien zu Weißem Haus",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-medien-zutritt-weisses-haus-prozess-pressefreiheit-li.3558046",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T05:13:00+00:00"
+    },
+    {
+      "titel": "SOS-Kinderdörfer: Mohammed, vier Tage alt, verschleppt vom Assad-Regime",
+      "link": "https://www.sueddeutsche.de/panorama/syrien-verschleppte-kinder-sos-kinderdoerfer-aufarbeitung-streit-li.3560605",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T05:00:00+00:00"
+    },
+    {
+      "titel": "KI und Job-Alltag: Welche Tätigkeiten wir streichen sollten, um wirklich produktiv zu sein",
+      "link": "https://www.spiegel.de/karriere/ki-und-job-alltag-welche-taetigkeiten-wir-streichen-sollten-um-wirklich-produktiv-zu-sein-a-32c2ed1d-4eea-48bf-ba4f-16fa57cf0ca4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T04:59:00+00:00"
+    },
+    {
+      "titel": "100 Jahre Pu der Bär: Ein bisschen Honig und ganz viel Freundschaft",
+      "link": "https://www.tagesschau.de/kultur/winnie-pu-100-jahre-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T04:57:59+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Open-AI-Mitarbeiter wegen Abhörgeräts festgenommen",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-abhoergeraet-wanze-openai-chat-gpt-li.3547133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T04:50:00+00:00"
+    },
+    {
+      "titel": "Sachsen-Anhalt: Wenn sich Siegmund zur Wahl stellt, will die CDU den Saal verlassen",
+      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-siegmund-ministerpraesident-wahl-cdu-li.3560633",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T04:30:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Hilfen: Wie der Nord-Stream-Prozess die Stimmung verändern könnte",
+      "link": "https://www.tagesschau.de/inland/prozess-nord-stream-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T04:24:15+00:00"
+    },
+    {
+      "titel": "Sparsame Verbrennerautos: Mit diesen Verbrennern lässt sich besonders gut Sprit sparen",
+      "link": "https://www.spiegel.de/mobilitaet/auto/sparsame-verbrennerautos-mit-diesen-verbrennern-laesst-sich-besonders-gut-sprit-sparen-a-10c0a426-4b61-4100-9f1e-d6f76201be87#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T04:01:00+00:00"
+    },
+    {
+      "titel": "BND-Skandal, Durchsuchung bei der »Zeit«: Welche Skandale der Prozess noch ans Licht bringen könnte",
+      "link": "https://www.spiegel.de/kultur/bnd-skandal-durchsuchung-bei-der-zeit-welche-skandale-der-prozess-noch-ans-licht-bringen-koennte-a-7e7f84d6-2324-443e-89e3-0e6f082a9fea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T03:45:00+00:00"
+    },
+    {
+      "titel": "News: Regierungserklärung von Friedrich Merz, Prozess gegen Nord-Stream-Saboteur, Ukraine-Antrag von AfD und BSW in Sachsen-Anhalt",
+      "link": "https://www.spiegel.de/politik/deutschland/news-regierungserklaerung-von-friedrich-merz-prozess-gegen-nord-stream-saboteur-ukraine-antrag-von-afd-und-bsw-in-sachsen-anhalt-a-76ddd44c-7065-4113-974b-9bd204237304#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T03:42:00+00:00"
+    },
+    {
+      "titel": "Rente: Kontenklärung bringt oft mehr Rente – ohne zusätzliche Kosten",
+      "link": "https://www.spiegel.de/wirtschaft/service/rente-kontenklaerung-bringt-oft-mehr-rente-ohne-zusaetzliche-kosten-a-158e9cea-bc36-4462-8d67-15b0ebffec45#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T03:30:00+00:00"
+    },
+    {
+      "titel": "Rentenpunkte kaufen: So können Sie früher in Rente – ohne Abschläge",
+      "link": "https://www.spiegel.de/wirtschaft/rentenpunkte-kaufen-so-koennen-sie-frueher-in-rente-ohne-abschlaege-a-ead29a48-c042-4254-abae-0cceeb009788#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T03:30:00+00:00"
+    },
+    {
+      "titel": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
+      "link": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-14T03:24:11+00:00"
+    },
+    {
+      "titel": "Katholische Kirche: Steinmeier wünscht dem Papst vollständige Genesung",
+      "link": "https://www.sueddeutsche.de/politik/papst-gemelli-klinik-krebs-li.3563315",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-14T02:54:30+00:00"
+    },
+    {
+      "titel": "Bank of America: Finanzministerium ahndet laxe Geldwäschekontrollen mit Milliardenstrafe",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/bank-of-america-finanzministerium-ahndet-laxe-geldwaeschekontrollen-mit-milliardenstrafe-a-9b3ffe37-9558-422b-9fe6-9292926f4632#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-14T02:01:00+00:00"
     },
     {
       "titel": "Finnland: KI-Boom auf Kosten der Natur?",
@@ -25,40 +133,10 @@
       "veroeffentlicht": "2026-10-14T00:31:01+00:00"
     },
     {
-      "titel": "USA: Gericht stoppt vorerst Baumfällungen für Trumps Golfplatz",
-      "link": "https://www.spiegel.de/ausland/usa-gericht-stoppt-vorerst-baumfaellungen-fuer-trumps-golfplatz-a-352809ad-d3f3-4088-9660-8fcd804576b6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T23:39:00+00:00"
-    },
-    {
-      "titel": "Russland-Ukraine-Krieg: Wolodymyr Selenskyj beklagt fehlende Warnung vor russischen Raketen",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-beklagt-fehlende-warnung-vor-russischen-raketen-a-799321a4-f02f-43bf-a475-238c1fc5846c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T23:12:00+00:00"
-    },
-    {
-      "titel": "OpenAI: Ingenieur soll Abhörgerät bei Führung installiert haben – Festnahme",
-      "link": "https://www.spiegel.de/netzwelt/openai-ingenieur-soll-abhoergeraet-bei-fuehrung-installiert-haben-festnahme-a-56846934-785c-45d7-96e3-d00f0cf1aa8b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T22:51:00+00:00"
-    },
-    {
       "titel": "Papst Leo XIV. hat Lungenkrebs",
       "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-13T21:49:10+00:00"
-    },
-    {
-      "titel": "Champions League: Doppelpack Harry Kane und Rot für Michael Olise für Bayern München gegen Stavanger",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-doppelpack-harry-kane-und-rot-fuer-michael-olise-fuer-bayern-muenchen-gegen-stavanger-a-ceeb4319-054c-4f00-8987-2a1307640b10#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T21:38:00+00:00"
-    },
-    {
-      "titel": "Champions League: Nicolò Tresoldi trifft dreifach im San Siro und glänzt in Mailand",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-nicolo-tresoldi-trifft-dreifach-im-san-siro-und-glaenzt-in-mailand-a-8a48718b-1594-4e2c-b3ce-572bdaaed492#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T21:27:00+00:00"
     },
     {
       "titel": "FC Bayern in der Einzelkritik: Kim ist von der eigenen Unsicherheit verunsichert",
@@ -71,24 +149,6 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-stavanger-champions-league-li.3563182",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-13T21:07:20+00:00"
-    },
-    {
-      "titel": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T20:55:26+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV. hat Lungenkrebs",
-      "link": "https://www.spiegel.de/ausland/papst-leo-hat-laut-seinen-aerzten-lungenkrebs-a-c5f7d963-8fa4-4989-bc01-e798e6d77a2b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T20:28:00+00:00"
-    },
-    {
-      "titel": "Tupac Shakur: Bandenchef Duane Davis erhält mindestens 40 Jahre Gefängnis",
-      "link": "https://www.spiegel.de/ausland/tupac-shakur-bandenchef-duane-davis-erhaelt-mindestens-40-jahre-gefaengnis-a-6ddc434f-4147-428f-8520-367581648c02#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-13T20:27:00+00:00"
     },
     {
       "titel": "Katholische Kirche: Vatikan: Papst Leo XIV. hat Lungenkrebs",
@@ -107,66 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-zuckersteuer-kabinett-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-13T19:12:08+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Grüne und SPD unterbrechen Sondierungen mit den Berliner Linken",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sondierungen-berlin-unterbrochen-vanessa-emde-linksfraktion-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T18:38:37+00:00"
-    },
-    {
-      "titel": "Cyberattacken auf Hunderte französische Supermärkte",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T18:37:01+00:00"
-    },
-    {
-      "titel": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
-      "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T18:03:27+00:00"
-    },
-    {
-      "titel": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T18:02:23+00:00"
-    },
-    {
-      "titel": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T18:00:34+00:00"
-    },
-    {
-      "titel": "DFB-Frauen gegen Japan: Bühls Siegtreffer kündigt sich lange an",
-      "link": "https://www.sueddeutsche.de/sport/dfb-frauen-buehl-dallmann-japan-laenderspiel-fussball-li.3563180",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T17:54:55+00:00"
-    },
-    {
-      "titel": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-sondierungen-unterbrochen-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-13T17:49:07+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: Streit um Datenschutz: Apple bringt neues Smarthome-Display nicht in die EU",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-apple-homeview-eu-kommission-datenschutz-streit-li.3547133",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T17:45:00+00:00"
-    },
-    {
-      "titel": "Spritpreise: Paris will Ölreserven lockermachen, um Autofahrer zu entlasten",
-      "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-oelreserven-regierung-spritpreise-diesel-proteste-li.3562842",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T15:57:40+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Wenn sich Siegmund zur Wahl stellt, will die CDU den Saal verlassen",
-      "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-siegmund-ministerpraesident-wahl-cdu-li.3560633",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-13T15:19:32+00:00"
     }
   ]
 }
