@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-15T09:27:43+00:00",
+  "aktualisiert": "2026-10-15T14:26:27+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Newsblog zur Bundespolitik: Bundestag hebt Immunität von SPD-Mann Ahmetovic auf",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-bundestag-aufhebung-immunitaet-ahmetovic-spd-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T09:22:57+00:00"
-    },
-    {
-      "titel": "Katie Zacharia: Medienbericht verstärkt Zweifel an Lebenslauf von neuer Trump-Sprecherin",
-      "link": "https://www.spiegel.de/ausland/katie-zacharia-medienbericht-verstaerkt-zweifel-an-lebenslauf-von-neuer-trump-sprecherin-a-d32b8484-1626-4b98-87af-43d476711974#ref=rss",
+      "titel": "Verbrenner-Aus: Elektroauto-Boom macht CO₂-Ziele erreichbar",
+      "link": "https://www.spiegel.de/wirtschaft/verbrenner-aus-elektroauto-boom-macht-co-ziele-erreichbar-a-041304f5-96cc-415e-b876-06b538b57f57#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T09:20:00+00:00"
+      "veroeffentlicht": "2026-10-15T14:17:00+00:00"
     },
     {
-      "titel": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
+      "titel": "Neuhofen: Autofahrer 26 Jahre ohne Fahrerlaubnis unterwegs",
+      "link": "https://www.spiegel.de/panorama/justiz/neuhofen-autofahrer-26-jahre-ohne-fahrerlaubnis-unterwegs-a-98d99fc4-11a7-4c15-914a-5359c29e043d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T14:17:00+00:00"
+    },
+    {
+      "titel": "EuGH: Banken müssen Kontobetrugs-Opfern Geld erst einmal erstatten",
+      "link": "https://www.spiegel.de/wirtschaft/service/eugh-banken-muessen-kontobetrugs-opfern-geld-erst-einmal-erstatten-a-b98afec4-7771-4302-9845-b48b995cc9d4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T14:05:00+00:00"
+    },
+    {
+      "titel": "SPD: Diese Kandidaten sind als Vorsitzende im Gespräch – und so groß sind ihre Chancen",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-diese-kandidaten-sind-als-vorsitzende-im-gespraech-und-so-gross-sind-ihre-chancen-a-c1379a50-4c70-49cc-80df-0abfac1a0bd5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T14:03:00+00:00"
+    },
+    {
+      "titel": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T09:05:45+00:00"
+      "veroeffentlicht": "2026-10-15T13:59:53+00:00"
     },
     {
-      "titel": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+      "titel": "Brustkrebs-Früherkennung: Mammografie-Screening ist künftig ab 45 Jahren kostenlos möglich",
+      "link": "https://www.spiegel.de/gesundheit/diagnose/brustkrebs-frueherkennung-mammografie-screening-ist-kuenftig-ab-45-jahren-kostenlos-moeglich-a-6881fefb-fd80-4379-8885-225a290979bf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T13:59:00+00:00"
+    },
+    {
+      "titel": "EU-Methanverordnung unter Druck: Reiche fordert Aufschub",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/methan-verordnung-eu-reiche-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T09:04:45+00:00"
+      "veroeffentlicht": "2026-10-15T13:52:48+00:00"
     },
     {
-      "titel": "Pakistan: Mindestens 29 Tote bei Einsturz von Schuldach",
-      "link": "https://www.spiegel.de/panorama/pakistan-mindestens-29-tote-bei-einsturz-von-schuldach-a-437a0fb3-daf1-406a-b2da-159d3cc3f1cc#ref=rss",
+      "titel": "Brustkrebs: Mammografie-Screening künftig bereits ab 45 Jahren",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/mammografie-ab-45-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T13:47:58+00:00"
+    },
+    {
+      "titel": "Vogel des Jahres 2027: Eine Mehlschwalbe macht noch keinen Sommer",
+      "link": "https://www.spiegel.de/wissenschaft/natur/vogel-des-jahres-2027-eine-mehlschwalbe-macht-noch-keinen-sommer-a-49d3da0c-7993-4005-943a-1aa2b0bca4f6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T09:01:00+00:00"
+      "veroeffentlicht": "2026-10-15T13:46:00+00:00"
     },
     {
-      "titel": "Ukraine-Krieg: Elon Musk fordert Rücktritt von Wolodymyr Selenskyj",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-elon-musk-fordert-ruecktritt-von-wolodymyr-selenskyj-a-4eacd072-6b21-488e-bd88-49b0c5bb657d#ref=rss",
+      "titel": "Lachs: Zuchtlachs wird wohl zunehmend mit Hühnchen gefüttert",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/lachs-zuchtlachs-wird-wohl-zunehmend-mit-huehnchen-gefuettert-a-aef859b9-0896-4d56-8399-676fc14862dc#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T08:59:00+00:00"
+      "veroeffentlicht": "2026-10-15T13:38:00+00:00"
     },
     {
-      "titel": "SPD-Abgeordneter Adis Ahmetovic: Bundestag hebt Immunität auf",
-      "link": "https://www.spiegel.de/politik/spd-abgeordneter-adis-ahmetovic-bundestag-hebt-immunitaet-auf-a-b61b6c7a-c7f2-433a-9dc4-a116f74028d7#ref=rss",
+      "titel": "OpenAI: Entwickler von ChatGPT warnt Mitarbeiter vor Sexfallen",
+      "link": "https://www.spiegel.de/netzwelt/apps/openai-entwickler-von-chatgpt-warnt-mitarbeiter-vor-sexfallen-a-75b9b6d4-bab3-43e2-8d94-a1a1c0143af6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T08:59:00+00:00"
+      "veroeffentlicht": "2026-10-15T13:35:00+00:00"
     },
     {
-      "titel": "Krieg gegen Russland: Ein Blick in die Ukraine offenbart Elon Musks beängstigende Macht",
-      "link": "https://www.sueddeutsche.de/meinung/usa-krieg-ukraine-musk-starlink-trump-kommentar-li.3563760",
+      "titel": "EU-Gipfel in Brüssel: Auf der Suche nach dem Goldesel",
+      "link": "https://www.sueddeutsche.de/politik/eu-haushalt-streit-merz-nettozahler-li.3562941",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T08:52:47+00:00"
+      "veroeffentlicht": "2026-10-15T13:28:58+00:00"
     },
     {
-      "titel": "Ansbach in Mittelfranken ist Bahnhof des Jahres",
-      "link": "https://www.spiegel.de/reise/deutschland/ansbach-in-mittelfranken-ist-bahnhof-des-jahres-a-d5d4d79b-d640-45ba-b550-f6120bea6b4e#ref=rss",
+      "titel": "Private Fahndung: Mit Selbstjustiz zum Erfolg? Fünf Fälle",
+      "link": "https://www.spiegel.de/panorama/justiz/private-fahndung-mit-selbstjustiz-zum-erfolg-fuenf-faelle-a-1d381884-bdb0-443d-a72f-374edf5bb753#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T08:49:00+00:00"
+      "veroeffentlicht": "2026-10-15T13:19:00+00:00"
     },
     {
-      "titel": "China weiht Brücke nach Nordkorea ein – mit zwölf Jahren Verspätung",
-      "link": "https://www.spiegel.de/ausland/china-weiht-bruecke-nach-nordkorea-ein-mit-zwoelf-jahren-verspaetung-a-ba3781c8-a830-4d2a-ad22-e5a1f76b6119#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T08:48:00+00:00"
+      "titel": "„Recht auf Vergessen“: „Ein Mordversuch verjährt nach 30 Jahren. Die Krebsdiagnose verjährt nie“",
+      "link": "https://www.sueddeutsche.de/bayern/kerstin-schreyer-krebs-recht-auf-vergessen-bayern-interview-li.3563909",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T13:09:06+00:00"
+    },
+    {
+      "titel": "Europäische Union: So viel Geld für die Bauern – oder für die Zukunft",
+      "link": "https://www.sueddeutsche.de/meinung/eu-haushalt-agrarsubventionen-friedrich-merz-zukunft-investitionen-kommentar-li.3562629",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T12:59:48+00:00"
+    },
+    {
+      "titel": "Schwache Kartoffelernte lässt Preise steigen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kartoffeln-ernte-hitze-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T12:57:07+00:00"
+    },
+    {
+      "titel": "Undav und der VfB Stuttgart: Es läuft jetzt wieder. Oder?",
+      "link": "https://www.sueddeutsche.de/sport/vfb-stuttgart-champions-league-undav-bratislava-li.3563969",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T12:54:23+00:00"
+    },
+    {
+      "titel": "SPD wählt Mitte Januar bei Parteitag in Bremen neue Parteispitze",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-parteitag-bremen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T12:45:47+00:00"
+    },
+    {
+      "titel": "Weltrekord: „Ich lese die Bibel, während ich planke“",
+      "link": "https://www.sueddeutsche.de/panorama/donnajean-wilde-planken-weltrekord-trend-guinnes-s-buch-der-rekord-li.3563934",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T12:45:00+00:00"
+    },
+    {
+      "titel": "Fachgespräch zu Corona-Folgen im Landtag: Zu krank für die Schule: Wie Long Covid Kindern die Zukunft nimmt",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-schule-krankheit-long-covid-kinder-jugendliche-hilfe-li.3563166",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T12:44:00+00:00"
+    },
+    {
+      "titel": "Angriffe auf Handelsschiffe: Wehe, wenn das Schwarze Meer zum Hochrisikogebiet wird",
+      "link": "https://www.sueddeutsche.de/meinung/schwarzes-meer-angriffe-handelsschiffe-getreide-ukraine-russland-kommentar-li.3563992",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T12:26:50+00:00"
+    },
+    {
+      "titel": "Neue Vereinshymne: Der FC St. Pauli zeigt, wie ausgeprägte Debattenkultur im Fußball aussehen kann",
+      "link": "https://www.sueddeutsche.de/sport/st-pauli-vereinshymne-abstimmung-kommentar-li.3563971",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T12:26:02+00:00"
+    },
+    {
+      "titel": "Medizin: Screening auf Brustkrebs nun ab 45 Jahren möglich",
+      "link": "https://www.sueddeutsche.de/gesundheit/mammographie-screening-brustkrebs-frueherkennung-ab-45-jahren-faq-li.3563932",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T12:18:57+00:00"
+    },
+    {
+      "titel": "Marktbericht: TSMC gibt sich keine Blöße",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T11:56:37+00:00"
+    },
+    {
+      "titel": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T11:52:23+00:00"
     },
     {
       "titel": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T08:32:44+00:00"
+      "veroeffentlicht": "2026-10-15T11:47:18+00:00"
     },
     {
-      "titel": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
+      "titel": "Flughafen Frankfurt: Lufthansa bereitet sich auf Kerosin-Mangel vor",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-lufthansa-kerosin-versorgung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T08:32:37+00:00"
-    },
-    {
-      "titel": "Börse: Sorge vor Ende des KI-Booms lässt Tech-Aktien fallen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/boerse-sorge-vor-ende-des-ki-booms-laesst-tech-aktien-fallen-a-8a55358f-5fb2-4d4a-9eb4-35c66d843e82#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T08:27:00+00:00"
-    },
-    {
-      "titel": "Matthew McConaughey fuhr in die Wüste, um schlechte Kritiken über sich zu lesen",
-      "link": "https://www.spiegel.de/kultur/kino/matthew-mcconaughey-als-der-schauspieler-in-die-wueste-fuhr-und-kritiken-ueber-sich-las-a-2c0aa0d5-03cf-4967-97cf-9e45a10b5d87#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T08:10:00+00:00"
-    },
-    {
-      "titel": "A8 in Bayern: Lkw verliert mehr als 1400 Kisten Bier auf der Autobahn",
-      "link": "https://www.spiegel.de/panorama/a8-in-bayern-lkw-verliert-mehr-als-1400-kisten-bier-auf-der-autobahn-a-a6a6f779-9b60-4c25-a85c-5bb4dc75daad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T07:52:00+00:00"
-    },
-    {
-      "titel": "Immobilienmarkt: So viel Geld müssen Käufer für eine Wohnung in München zahlen",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-immobilien-preise-wohnungen-haeuser-ivd-kosten-li.3559962",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T07:38:31+00:00"
-    },
-    {
-      "titel": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-fico-russland-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T07:24:38+00:00"
-    },
-    {
-      "titel": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T07:11:08+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T06:01:26+00:00"
-    },
-    {
-      "titel": "Europa: Le Pen will von der Leyen quasi zu ihrer Sekretärin machen",
-      "link": "https://www.sueddeutsche.de/politik/marine-le-pen-eu-zukunft-von-der-leyen-frankreich-plaene-li.3563574",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T05:35:06+00:00"
-    },
-    {
-      "titel": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T04:41:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Musk nach Kritik aus Kiew: Satelliten-Kontrolle liegt bei US-Regierung",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-musk-satelliten-usa-starlink-li.3563283",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T04:34:01+00:00"
-    },
-    {
-      "titel": "11KM-Podcast: EU-Comeback für Großbritannien?",
-      "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T04:29:37+00:00"
-    },
-    {
-      "titel": "Energiekrise: „Wir müssen offen sagen: Das wird ein harter Winter“",
-      "link": "https://www.sueddeutsche.de/politik/eu-kommissar-oel-diesel-energie-preise-tankrabatt-li.3562934",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T04:00:00+00:00"
-    },
-    {
-      "titel": "Borussia Dortmund in der Champions League: Auch der BVB macht die leidvolle Bodø-Erfahrung",
-      "link": "https://www.sueddeutsche.de/sport/borussia-dortmund-niederlage-champions-league-bodo-glimt-kovac-li.3563768",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T21:26:29+00:00"
-    },
-    {
-      "titel": "Champions League: Manchester City wird von PSG vorgeführt – und holt zu spät auf",
-      "link": "https://www.sueddeutsche.de/sport/champions-league-spieltag-ergebnisse-manchester-city-psg-li.3563769",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T21:16:40+00:00"
-    },
-    {
-      "titel": "Berlin: Rot-Rot-Grün steckt in der Vertrauenskrise – will aber weiter sondieren",
-      "link": "https://www.sueddeutsche.de/politik/berlin-linke-spd-gruene-sondierung-antisemitismus-vertrauenskrise-vanessa-emde-li.3563401",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T19:10:00+00:00"
+      "veroeffentlicht": "2026-10-15T11:35:04+00:00"
     }
   ]
 }
