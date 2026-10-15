@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-15T01:00:05+00:00",
+  "aktualisiert": "2026-10-15T05:36:43+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
+      "titel": "Präsident Der Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+      "titel": "Bundestag stimmt über Reform ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "DAX bleibt im Seitwärtstrend",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+      "titel": "EU-Comeback für Großbritannien?",
+      "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     }
   ]
 }
