@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-15T05:36:43+00:00",
+  "aktualisiert": "2026-10-15T10:25:42+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Präsident Der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Bundestag stimmt über Reform ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+      "titel": "Reform Der Notfallversorgung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 3,
-      "titel": "EU-Comeback für Großbritannien?",
-      "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html",
+      "rang": 2,
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "⛈️"
+    },
+    {
+      "rang": 3,
+      "titel": "Ausverkauf bei Technologiewerten belastet Börsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
     }
   ]
 }
