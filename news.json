@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-10-15T18:40:54+00:00",
+  "aktualisiert": "2026-10-15T21:48:59+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Trier: Mann setzt Dutzende Grillen im Dom aus",
+      "link": "https://www.spiegel.de/panorama/trier-mann-setzt-dutzende-grillen-im-dom-aus-a-c323c70e-4876-4c99-810f-fb1d634bd13f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T21:33:00+00:00"
+    },
+    {
+      "titel": "Bundestag stimmt für höhere Tabaksteuer",
+      "link": "https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-hoehere-tabaksteuer-a-20329c97-f272-44ae-91be-771d48ed14a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T21:27:00+00:00"
+    },
+    {
+      "titel": "USA vor den Midterms: Offenbar verdächtige Briefe an US-Kongressbüros verschickt",
+      "link": "https://www.spiegel.de/ausland/usa-vor-den-midterms-offenbar-verdaechtige-briefe-an-us-kongressbueros-verschickt-a-60d424e1-27ac-49f5-bf9e-d84f0a5f53a3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T20:52:00+00:00"
+    },
+    {
+      "titel": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
+      "link": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T19:53:38+00:00"
+    },
+    {
+      "titel": "Neonazi-Szene hat Zulauf durch Social Media - Podcast Firewall",
+      "link": "https://www.spiegel.de/politik/deutschland/neonazi-szene-hat-zulauf-durch-social-media-podcast-firewall-a-72bea215-bb37-4bd5-82f3-4434748b3022#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T19:27:00+00:00"
+    },
+    {
+      "titel": "Nicolás Maduro plädiert bei Folter-Vorwürfen auf nicht schuldig",
+      "link": "https://www.spiegel.de/ausland/nicolas-maduro-plaediert-bei-folter-vorwuerfen-auf-nicht-schuldig-a-57b923c8-db97-42c3-9000-00de5fc99414#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T19:26:00+00:00"
+    },
+    {
+      "titel": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
+      "link": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T19:20:05+00:00"
+    },
+    {
+      "titel": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T18:40:00+00:00"
+    },
     {
       "titel": "SPD: Doris Schröder-Köpf hört auf",
       "link": "https://www.spiegel.de/politik/spd-doris-schroeder-koepf-hoert-auf-a-cd041199-57c5-42b9-bcee-8cfa8a63b6a5#ref=rss",
@@ -49,36 +97,6 @@
       "veroeffentlicht": "2026-10-15T18:01:00+00:00"
     },
     {
-      "titel": "Donald Trump verrät die Ukraine. So kann sich Europa wehren",
-      "link": "https://www.spiegel.de/ausland/donald-trump-verraet-die-ukraine-so-kann-sich-europa-wehren-a-754002ed-3439-4801-903d-9aca7b18b1f7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T17:52:00+00:00"
-    },
-    {
-      "titel": "Rätsel des Alltags: Wie stark ist eine Pferdestärke?",
-      "link": "https://www.spiegel.de/deinspiegel/raetsel-des-alltags-wie-stark-ist-eine-pferdestaerke-a-5f9241f8-6312-4b6d-aa5c-9c7f64244463#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T17:32:00+00:00"
-    },
-    {
-      "titel": "Der Nahostkonflikt auf deutschen Straßen: Wie propalästinensische Aktivisten den 7. Oktober für sich reklamiert haben - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/der-nahostkonflikt-auf-deutschen-strassen-wie-propalaestinensische-aktivisten-den-7-oktober-fuer-sich-reklamiert-haben-spiegel-tv-a-ffaa6075-2651-47df-8ac4-7b3b0334795b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T17:31:00+00:00"
-    },
-    {
-      "titel": "KI-Kooperationen: Warum Deutschlands Hoffnung auch am Golf liegt",
-      "link": "https://www.spiegel.de/politik/deutschland/ki-kooperationen-warum-deutschlands-hoffnung-auch-am-golf-liegt-a-64bb0c6d-96fa-4079-ab3a-49d730644215#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T17:30:00+00:00"
-    },
-    {
-      "titel": "Norbert Lammert warnt vor Aufgabe der Brandmauer zu AfD und Linken",
-      "link": "https://www.spiegel.de/politik/norbert-lammert-warnt-vor-aufgabe-der-brandmauer-zu-afd-und-linken-a-1b7d1d5e-3115-4c7a-9ac4-85815cce2bfc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T17:26:00+00:00"
-    },
-    {
       "titel": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
       "link": "https://www.tagesschau.de/ukraine-usa-starlink-geheimdienste-100.html",
       "quelle": "Tagesschau",
@@ -115,22 +133,16 @@
       "veroeffentlicht": "2026-10-15T16:32:51+00:00"
     },
     {
-      "titel": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T15:57:03+00:00"
+      "titel": "Immobilien: Günther Jauch saniert Loriot-Villa am Starnberger See",
+      "link": "https://www.sueddeutsche.de/muenchen/starnberg/muensing-guenther-jauch-loriot-villa-starnberger-see-sanierung-li.3563929",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T14:53:06+00:00"
     },
     {
-      "titel": "Das sind die Pläne für den Ausweis auf dem Smartphone",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T15:53:10+00:00"
-    },
-    {
-      "titel": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T15:31:00+00:00"
+      "titel": "Nachtleben: Disco mit Tanzfläche und Nebel – „das wird es bald nicht mehr geben“",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-paradiso-tanzbar-nachtleben-clubkultur-interview-li.3547299",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T14:51:51+00:00"
     },
     {
       "titel": "USA-Newsblog: Trump: Kein Livestream bei geplanter Hinrichtung durch Militär",
@@ -145,28 +157,16 @@
       "veroeffentlicht": "2026-10-15T14:41:00+00:00"
     },
     {
+      "titel": "Nach Vorwürfen des Machtmissbrauchs: Präsident der Musikhochschule Nürnberg tritt zurück",
+      "link": "https://www.sueddeutsche.de/bayern/nuernberg-hochschule-fuer-musik-rainer-kotzian-machtmissbrauch-li.3564113",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T14:15:21+00:00"
+    },
+    {
       "titel": "Münchner Süden: Fußballbetreuer filmt heimlich Spieler beim Duschen – mehr als 1000 Fotos und Videos",
       "link": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchen-oberhaching-fc-deisenhofen-nacktvideos-fussball-betreuer-li.3487656",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-15T13:59:57+00:00"
-    },
-    {
-      "titel": "Martha Kleedörfer: Diese Linken-Politikerin erregt die Gemüter – und will noch hoch hinaus",
-      "link": "https://www.sueddeutsche.de/politik/martha-kleedoerfer-die-linke-berlin-abgeordnetenhaus-palaestina-li.3563900",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T13:37:45+00:00"
-    },
-    {
-      "titel": "EU-Gipfel in Brüssel: Auf der Suche nach dem Goldesel",
-      "link": "https://www.sueddeutsche.de/politik/eu-haushalt-streit-merz-nettozahler-li.3562941",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T13:28:58+00:00"
-    },
-    {
-      "titel": "„Recht auf Vergessen“: „Ein Mordversuch verjährt nach 30 Jahren. Die Krebsdiagnose verjährt nie“",
-      "link": "https://www.sueddeutsche.de/bayern/kerstin-schreyer-krebs-recht-auf-vergessen-bayern-interview-li.3563909",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T13:09:06+00:00"
     }
   ]
 }
