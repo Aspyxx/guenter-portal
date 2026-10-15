@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-15T15:09:23+00:00",
+  "aktualisiert": "2026-10-15T19:16:01+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Pistorius will Reservedienst verpflichtend machen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
+      "titel": "Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
+      "link": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
       "rang": 2,
-      "titel": "TSMC gibt sich keine Blöße",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
+      "titel": "Bundestag beschließt Korrekturen",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/rhodos-unwetter-100.html",
+      "titel": "DAX vom Tech-Ausverkauf kaum betroffen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
       "quelle": "Tagesschau",
-      "icon": "⛈️"
+      "icon": "📈"
     }
   ]
 }
