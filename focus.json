@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-15T10:25:42+00:00",
+  "aktualisiert": "2026-10-15T15:09:23+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Reform Der Notfallversorgung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
+      "titel": "Pistorius will Reservedienst verpflichtend machen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🌍"
     },
     {
       "rang": 2,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+      "titel": "TSMC gibt sich keine Blöße",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
       "quelle": "Tagesschau",
-      "icon": "⛈️"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Ausverkauf bei Technologiewerten belastet Börsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/europa/rhodos-unwetter-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "⛈️"
     }
   ]
 }
