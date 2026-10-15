@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-15T14:26:27+00:00",
+  "aktualisiert": "2026-10-15T18:40:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,70 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Verbrenner-Aus: Elektroauto-Boom macht CO₂-Ziele erreichbar",
-      "link": "https://www.spiegel.de/wirtschaft/verbrenner-aus-elektroauto-boom-macht-co-ziele-erreichbar-a-041304f5-96cc-415e-b876-06b538b57f57#ref=rss",
+      "titel": "SPD: Doris Schröder-Köpf hört auf",
+      "link": "https://www.spiegel.de/politik/spd-doris-schroeder-koepf-hoert-auf-a-cd041199-57c5-42b9-bcee-8cfa8a63b6a5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T14:17:00+00:00"
+      "veroeffentlicht": "2026-10-15T18:24:00+00:00"
     },
     {
-      "titel": "Neuhofen: Autofahrer 26 Jahre ohne Fahrerlaubnis unterwegs",
-      "link": "https://www.spiegel.de/panorama/justiz/neuhofen-autofahrer-26-jahre-ohne-fahrerlaubnis-unterwegs-a-98d99fc4-11a7-4c15-914a-5359c29e043d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T14:17:00+00:00"
-    },
-    {
-      "titel": "EuGH: Banken müssen Kontobetrugs-Opfern Geld erst einmal erstatten",
-      "link": "https://www.spiegel.de/wirtschaft/service/eugh-banken-muessen-kontobetrugs-opfern-geld-erst-einmal-erstatten-a-b98afec4-7771-4302-9845-b48b995cc9d4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T14:05:00+00:00"
-    },
-    {
-      "titel": "SPD: Diese Kandidaten sind als Vorsitzende im Gespräch – und so groß sind ihre Chancen",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-diese-kandidaten-sind-als-vorsitzende-im-gespraech-und-so-gross-sind-ihre-chancen-a-c1379a50-4c70-49cc-80df-0abfac1a0bd5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T14:03:00+00:00"
-    },
-    {
-      "titel": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html",
+      "titel": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
+      "link": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T13:59:53+00:00"
+      "veroeffentlicht": "2026-10-15T18:22:56+00:00"
     },
     {
-      "titel": "Brustkrebs-Früherkennung: Mammografie-Screening ist künftig ab 45 Jahren kostenlos möglich",
-      "link": "https://www.spiegel.de/gesundheit/diagnose/brustkrebs-frueherkennung-mammografie-screening-ist-kuenftig-ab-45-jahren-kostenlos-moeglich-a-6881fefb-fd80-4379-8885-225a290979bf#ref=rss",
+      "titel": "Bundeswehr-Einsätze gegen Huthi-Miliz und im Südsudan verlängert",
+      "link": "https://www.spiegel.de/politik/deutschland/bundeswehr-einsaetze-gegen-huthi-miliz-und-im-suedsudan-verlaengert-a-360aa317-391c-4b39-be88-33453877c8e2#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T13:59:00+00:00"
+      "veroeffentlicht": "2026-10-15T18:21:00+00:00"
     },
     {
-      "titel": "EU-Methanverordnung unter Druck: Reiche fordert Aufschub",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/methan-verordnung-eu-reiche-100.html",
+      "titel": "EZB erlaubt UniCredit offenbar Übernahme von Commerzbank",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/ezb-erlaubt-unicredit-offenbar-uebernahme-von-commerzbank-anteilen-a-4fdb9120-ecc0-4431-ac6c-3d5340d5bb4a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T18:17:00+00:00"
+    },
+    {
+      "titel": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T13:52:48+00:00"
+      "veroeffentlicht": "2026-10-15T18:05:32+00:00"
     },
     {
-      "titel": "Brustkrebs: Mammografie-Screening künftig bereits ab 45 Jahren",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/mammografie-ab-45-100.html",
+      "titel": "Schaltsekunde wird abgeschafft – wegen Gefahr einer Minus-Schaltsekunde",
+      "link": "https://www.spiegel.de/wissenschaft/schaltsekunde-wird-abgeschafft-wegen-gefahr-einer-minus-schaltsekunde-a-dfd1afc8-f300-495b-a366-d72553edb44d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T18:03:00+00:00"
+    },
+    {
+      "titel": "Fliegen: Vögel sind energieeffizienter unterwegs als gedacht",
+      "link": "https://www.sueddeutsche.de/wissen/vogel-fliegen-energieverbrauch-studie-li.3562924",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T18:01:00+00:00"
+    },
+    {
+      "titel": "Donald Trump verrät die Ukraine. So kann sich Europa wehren",
+      "link": "https://www.spiegel.de/ausland/donald-trump-verraet-die-ukraine-so-kann-sich-europa-wehren-a-754002ed-3439-4801-903d-9aca7b18b1f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T17:52:00+00:00"
+    },
+    {
+      "titel": "Rätsel des Alltags: Wie stark ist eine Pferdestärke?",
+      "link": "https://www.spiegel.de/deinspiegel/raetsel-des-alltags-wie-stark-ist-eine-pferdestaerke-a-5f9241f8-6312-4b6d-aa5c-9c7f64244463#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T17:32:00+00:00"
+    },
+    {
+      "titel": "Der Nahostkonflikt auf deutschen Straßen: Wie propalästinensische Aktivisten den 7. Oktober für sich reklamiert haben - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/der-nahostkonflikt-auf-deutschen-strassen-wie-propalaestinensische-aktivisten-den-7-oktober-fuer-sich-reklamiert-haben-spiegel-tv-a-ffaa6075-2651-47df-8ac4-7b3b0334795b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T17:31:00+00:00"
+    },
+    {
+      "titel": "KI-Kooperationen: Warum Deutschlands Hoffnung auch am Golf liegt",
+      "link": "https://www.spiegel.de/politik/deutschland/ki-kooperationen-warum-deutschlands-hoffnung-auch-am-golf-liegt-a-64bb0c6d-96fa-4079-ab3a-49d730644215#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T17:30:00+00:00"
+    },
+    {
+      "titel": "Norbert Lammert warnt vor Aufgabe der Brandmauer zu AfD und Linken",
+      "link": "https://www.spiegel.de/politik/norbert-lammert-warnt-vor-aufgabe-der-brandmauer-zu-afd-und-linken-a-1b7d1d5e-3115-4c7a-9ac4-85815cce2bfc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T17:26:00+00:00"
+    },
+    {
+      "titel": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
+      "link": "https://www.tagesschau.de/ukraine-usa-starlink-geheimdienste-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T13:47:58+00:00"
+      "veroeffentlicht": "2026-10-15T17:17:37+00:00"
     },
     {
-      "titel": "Vogel des Jahres 2027: Eine Mehlschwalbe macht noch keinen Sommer",
-      "link": "https://www.spiegel.de/wissenschaft/natur/vogel-des-jahres-2027-eine-mehlschwalbe-macht-noch-keinen-sommer-a-49d3da0c-7993-4005-943a-1aa2b0bca4f6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T13:46:00+00:00"
+      "titel": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T17:16:11+00:00"
     },
     {
-      "titel": "Lachs: Zuchtlachs wird wohl zunehmend mit Hühnchen gefüttert",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/lachs-zuchtlachs-wird-wohl-zunehmend-mit-huehnchen-gefuettert-a-aef859b9-0896-4d56-8399-676fc14862dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T13:38:00+00:00"
+      "titel": "Prozess in München: Kleinkinder geschlagen und gedemütigt: Erzieherin zu zwei Jahren Freiheitsstrafe verurteilt",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-erzieherin-kindesmisshandlung-kita-prozess-gestaendnis-li.3559385",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T16:52:00+00:00"
     },
     {
-      "titel": "OpenAI: Entwickler von ChatGPT warnt Mitarbeiter vor Sexfallen",
-      "link": "https://www.spiegel.de/netzwelt/apps/openai-entwickler-von-chatgpt-warnt-mitarbeiter-vor-sexfallen-a-75b9b6d4-bab3-43e2-8d94-a1a1c0143af6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T13:35:00+00:00"
+      "titel": "Serien: Sie ist der Star des Kompetenz-Pornos",
+      "link": "https://www.sueddeutsche.de/kultur/diplomatische-beziehungen-vierte-staffel-keri-russell-schauspielerin-li.3556895",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T16:39:37+00:00"
+    },
+    {
+      "titel": "Reiche muss Instagram-Video mit Vorwurf gegen Linke löschen",
+      "link": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T16:35:05+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T16:32:51+00:00"
+    },
+    {
+      "titel": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T15:57:03+00:00"
+    },
+    {
+      "titel": "Das sind die Pläne für den Ausweis auf dem Smartphone",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T15:53:10+00:00"
+    },
+    {
+      "titel": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T15:31:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Trump: Kein Livestream bei geplanter Hinrichtung durch Militär",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kein-livestream-hinrichtung-attentaeter-todesstrafe-li.3558046",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T14:41:37+00:00"
+    },
+    {
+      "titel": "Arzneimittel: Neues Krebsmedikament erhält schnelle Zulassung",
+      "link": "https://www.sueddeutsche.de/gesundheit/bauchspeicheldruesenkrebs-daraxonrasib-krebsmedikament-ema-europa-li.3564057",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T14:41:00+00:00"
+    },
+    {
+      "titel": "Münchner Süden: Fußballbetreuer filmt heimlich Spieler beim Duschen – mehr als 1000 Fotos und Videos",
+      "link": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchen-oberhaching-fc-deisenhofen-nacktvideos-fussball-betreuer-li.3487656",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T13:59:57+00:00"
+    },
+    {
+      "titel": "Martha Kleedörfer: Diese Linken-Politikerin erregt die Gemüter – und will noch hoch hinaus",
+      "link": "https://www.sueddeutsche.de/politik/martha-kleedoerfer-die-linke-berlin-abgeordnetenhaus-palaestina-li.3563900",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T13:37:45+00:00"
     },
     {
       "titel": "EU-Gipfel in Brüssel: Auf der Suche nach dem Goldesel",
@@ -79,94 +163,10 @@
       "veroeffentlicht": "2026-10-15T13:28:58+00:00"
     },
     {
-      "titel": "Private Fahndung: Mit Selbstjustiz zum Erfolg? Fünf Fälle",
-      "link": "https://www.spiegel.de/panorama/justiz/private-fahndung-mit-selbstjustiz-zum-erfolg-fuenf-faelle-a-1d381884-bdb0-443d-a72f-374edf5bb753#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T13:19:00+00:00"
-    },
-    {
       "titel": "„Recht auf Vergessen“: „Ein Mordversuch verjährt nach 30 Jahren. Die Krebsdiagnose verjährt nie“",
       "link": "https://www.sueddeutsche.de/bayern/kerstin-schreyer-krebs-recht-auf-vergessen-bayern-interview-li.3563909",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-15T13:09:06+00:00"
-    },
-    {
-      "titel": "Europäische Union: So viel Geld für die Bauern – oder für die Zukunft",
-      "link": "https://www.sueddeutsche.de/meinung/eu-haushalt-agrarsubventionen-friedrich-merz-zukunft-investitionen-kommentar-li.3562629",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T12:59:48+00:00"
-    },
-    {
-      "titel": "Schwache Kartoffelernte lässt Preise steigen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kartoffeln-ernte-hitze-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T12:57:07+00:00"
-    },
-    {
-      "titel": "Undav und der VfB Stuttgart: Es läuft jetzt wieder. Oder?",
-      "link": "https://www.sueddeutsche.de/sport/vfb-stuttgart-champions-league-undav-bratislava-li.3563969",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T12:54:23+00:00"
-    },
-    {
-      "titel": "SPD wählt Mitte Januar bei Parteitag in Bremen neue Parteispitze",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-parteitag-bremen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T12:45:47+00:00"
-    },
-    {
-      "titel": "Weltrekord: „Ich lese die Bibel, während ich planke“",
-      "link": "https://www.sueddeutsche.de/panorama/donnajean-wilde-planken-weltrekord-trend-guinnes-s-buch-der-rekord-li.3563934",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T12:45:00+00:00"
-    },
-    {
-      "titel": "Fachgespräch zu Corona-Folgen im Landtag: Zu krank für die Schule: Wie Long Covid Kindern die Zukunft nimmt",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-schule-krankheit-long-covid-kinder-jugendliche-hilfe-li.3563166",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T12:44:00+00:00"
-    },
-    {
-      "titel": "Angriffe auf Handelsschiffe: Wehe, wenn das Schwarze Meer zum Hochrisikogebiet wird",
-      "link": "https://www.sueddeutsche.de/meinung/schwarzes-meer-angriffe-handelsschiffe-getreide-ukraine-russland-kommentar-li.3563992",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T12:26:50+00:00"
-    },
-    {
-      "titel": "Neue Vereinshymne: Der FC St. Pauli zeigt, wie ausgeprägte Debattenkultur im Fußball aussehen kann",
-      "link": "https://www.sueddeutsche.de/sport/st-pauli-vereinshymne-abstimmung-kommentar-li.3563971",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T12:26:02+00:00"
-    },
-    {
-      "titel": "Medizin: Screening auf Brustkrebs nun ab 45 Jahren möglich",
-      "link": "https://www.sueddeutsche.de/gesundheit/mammographie-screening-brustkrebs-frueherkennung-ab-45-jahren-faq-li.3563932",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T12:18:57+00:00"
-    },
-    {
-      "titel": "Marktbericht: TSMC gibt sich keine Blöße",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T11:56:37+00:00"
-    },
-    {
-      "titel": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T11:52:23+00:00"
-    },
-    {
-      "titel": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T11:47:18+00:00"
-    },
-    {
-      "titel": "Flughafen Frankfurt: Lufthansa bereitet sich auf Kerosin-Mangel vor",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-lufthansa-kerosin-versorgung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T11:35:04+00:00"
     }
   ]
 }
