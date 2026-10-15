@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-14T23:56:04+00:00",
+  "aktualisiert": "2026-10-15T04:43:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,94 @@
   },
   "meldungen": [
     {
-      "titel": "Frankfurt Airport: Lufthansa reagiert wegen möglichen Kerosin-Engpässen",
-      "link": "https://www.spiegel.de/wirtschaft/frankfurt-airport-lufthansa-reagiert-wegen-moeglichen-kerosin-engpaessen-a-3e3e5829-e3d8-4b55-8386-756b92b44937#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T23:18:00+00:00"
+      "titel": "Krieg in der Ukraine: Musk nach Kritik aus Kiew: Satelliten-Kontrolle liegt bei US-Regierung",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-musk-satelliten-usa-starlink-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T04:34:01+00:00"
     },
     {
-      "titel": "Champions League: VfB Stuttgart siegt in Bratislava, Real Madrid gewinnt mit Jose Mourinho in Rom",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-vfb-stuttgart-siegt-in-bratislava-real-madrid-gewinnt-mit-jose-mourinho-in-rom-a-3896e725-4609-485c-9932-a42f8fa9be3c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T21:46:00+00:00"
+      "titel": "11KM-Podcast: EU-Comeback für Großbritannien?",
+      "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T04:29:37+00:00"
     },
     {
-      "titel": "Champions League: Manchester City unterliegt Paris Saint-Germain",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-manchester-city-unterliegt-paris-saint-germain-a-3cdd5311-497b-4346-b072-e6ce37f8d725#ref=rss",
+      "titel": "Manuela Schwesig: Dieser Frau trauen sie im Umfeld des Kanzlers alles zu",
+      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-dieser-frau-trauen-sie-im-umfeld-des-kanzlers-alles-zu-a-ada8f2d7-ce7f-4bd1-bece-d0bfdf76b1f3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T21:30:00+00:00"
+      "veroeffentlicht": "2026-10-15T04:06:00+00:00"
     },
     {
-      "titel": "Champions League: Borussia Dortmund verliert bei Bodø/Glimt",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-bei-bodo-glimt-a-b91a4a7c-1ff1-4f63-ac2c-45800669292e#ref=rss",
+      "titel": "News: Friedrich Merz verhandelt über EU-Etat, Kyjiw bereitet sich auf Kriegswinter vor, Alkoholverbot auf Bahnhöfen",
+      "link": "https://www.spiegel.de/politik/deutschland/news-merz-verhandelt-ueber-eu-etat-kyjiw-bereitet-sich-auf-kriegswinter-vor-alkoholverbot-auf-bahnhoefen-a-faae7225-30a0-4a87-a0e8-6ea87cb78a10#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T21:30:00+00:00"
+      "veroeffentlicht": "2026-10-15T04:01:00+00:00"
+    },
+    {
+      "titel": "Energiekrise: „Wir müssen offen sagen: Das wird ein harter Winter“",
+      "link": "https://www.sueddeutsche.de/politik/eu-oel-diesel-energie-preise-tankrabatt-li.3562934",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T04:00:00+00:00"
+    },
+    {
+      "titel": "Bärbel Bas: Die Klügere gibt auf – Sexismus in der Politik",
+      "link": "https://www.spiegel.de/politik/deutschland/baerbel-bas-die-kluegere-gibt-auf-sexismus-in-der-politik-a-2be43c1b-e58b-44c8-9bd9-341f19e104af#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T04:00:00+00:00"
+    },
+    {
+      "titel": "Geheimdienst-Reform: Deutschlands riskante Spionage-Pläne - Podcast",
+      "link": "https://www.spiegel.de/politik/geheimdienst-reform-deutschlands-riskante-spionage-plaene-podcast-a-7b5e82a0-f0ba-4072-b250-5c4cf12e4ac5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T03:57:00+00:00"
+    },
+    {
+      "titel": "Zwangsumsiedlungen in der Sowjetunion: Wie Stalin ganze Völker deportieren ließ",
+      "link": "https://www.spiegel.de/geschichte/zwangsumsiedlungen-in-der-sowjetunion-als-stalin-die-tschetschenen-deportierte-a-4716afdd-4853-48f2-8bf6-47ee4ac58f54#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T03:54:00+00:00"
+    },
+    {
+      "titel": "Fettleber: Mit diesem Vier-Stufen-Plan lässt sich die Erkrankung umkehren",
+      "link": "https://www.spiegel.de/gesundheit/diagnose-fettleber-mit-diesem-vier-stufen-plan-laesst-sich-die-erkrankung-umkehren-a-5f1457da-8842-4639-a017-f7bc33d252e3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T03:52:00+00:00"
+    },
+    {
+      "titel": "Serienversionen von »Freitag der 13.« und »Carrie«: Des Horrors neue Kleider",
+      "link": "https://www.spiegel.de/kultur/serienversionen-von-freitag-der-13-und-carrie-des-horrors-neue-kleider-a-1250b5a5-aacc-4a36-81b5-a61912951d50#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T03:50:00+00:00"
+    },
+    {
+      "titel": "Neurodiversität: Wie Autisten die Welt sehen – Tony Attwood im Gespräch",
+      "link": "https://www.spiegel.de/gesundheit/neurodiversitaet-wie-autisten-die-welt-sehen-tony-attwood-im-gespraech-a-8fe620f8-f1b3-48ba-baa9-fb2f14b5738c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T03:30:00+00:00"
+    },
+    {
+      "titel": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T03:15:14+00:00"
+    },
+    {
+      "titel": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T03:00:17+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Zwei Containerschiffe nach Beschuss in Straße von Hormus gesunken",
+      "link": "https://www.spiegel.de/ausland/iran-krieg-zwei-containerschiffe-nach-beschuss-in-strasse-von-hormus-gesunken-a-6bcef342-1cb3-4165-8f66-ee486eca979d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-15T02:22:00+00:00"
+    },
+    {
+      "titel": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
+      "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-15T01:48:20+00:00"
     },
     {
       "titel": "Borussia Dortmund in der Champions League: Auch der BVB macht die leidvolle Bodø-Erfahrung",
@@ -43,18 +109,6 @@
       "veroeffentlicht": "2026-10-14T21:16:40+00:00"
     },
     {
-      "titel": "Dagi Bee: Influencerin fahndet via Instagram nach zwei Männern – Polizei kritisiert solche Aktionen",
-      "link": "https://www.spiegel.de/panorama/dagi-bee-influencerin-fahndet-via-instagram-nach-zwei-maennern-polizei-kritisiert-solche-aktionen-a-93b69bb6-dbb9-4971-a127-f3a386de50a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T21:10:00+00:00"
-    },
-    {
-      "titel": "Proteste in Albanien: Demonstranten legen Feuer in Bildungsministerium in Albanien",
-      "link": "https://www.spiegel.de/ausland/proteste-in-albanien-demonstranten-legen-feuer-in-bildungsministerium-in-albanien-a-3e4b870a-e489-4cf5-a2f4-c9d3858526c9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T21:08:00+00:00"
-    },
-    {
       "titel": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
       "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
       "quelle": "Tagesschau",
@@ -67,18 +121,6 @@
       "veroeffentlicht": "2026-10-14T20:01:02+00:00"
     },
     {
-      "titel": "Linke: Sondierungsgespräche in Berlin werden offenbar fortgesetzt",
-      "link": "https://www.spiegel.de/politik/linke-sondierungsgespraeche-in-berlin-werden-offenbar-fortgesetzt-a-1609c605-26e7-409d-8fd3-255249f0a981#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T19:28:00+00:00"
-    },
-    {
-      "titel": "Champions League: FC Liverpool siegt in Linz 6:3",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-siegt-in-linz-6-3-a-7ef515c0-45bd-407f-b7d3-a6638959f78a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T19:11:00+00:00"
-    },
-    {
       "titel": "Berlin: Rot-Rot-Grün steckt in der Vertrauenskrise – will aber weiter sondieren",
       "link": "https://www.sueddeutsche.de/politik/berlin-linke-spd-gruene-sondierung-antisemitismus-vertrauenskrise-vanessa-emde-li.3563401",
       "quelle": "Süddeutsche",
@@ -89,12 +131,6 @@
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-elif-eralp-berlin-sondierungsgespraeche-linke-gruene-spd-antisemitismus-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-14T19:09:25+00:00"
-    },
-    {
-      "titel": "Wahlrecht in Indien: Premier Narendra Modi bringt junge Wähler gegen sich auf",
-      "link": "https://www.spiegel.de/ausland/wahlrecht-in-indien-premier-narendra-modi-bringt-junge-waehler-gegen-sich-auf-a-0b568b42-d1c7-4ef1-9dc6-d789e7d775b7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-14T19:09:00+00:00"
     },
     {
       "titel": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
@@ -121,52 +157,16 @@
       "veroeffentlicht": "2026-10-14T16:24:05+00:00"
     },
     {
-      "titel": "Istanbuler Ex-Bürgermeister İmamoğlu sagt erstmals in Mammutprozess aus",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-14T16:20:57+00:00"
-    },
-    {
-      "titel": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-14T15:33:55+00:00"
-    },
-    {
-      "titel": "Kanzler setzt auf gute Regierungsarbeit gegen Extremismus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-14T15:33:29+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Als „Köder“ für Moskau an die Front: 20 Bangladescher getötet",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-bangladesch-koeder-moskau-getoetet-dieselausfuhr-li.3563283",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T15:29:34+00:00"
-    },
-    {
       "titel": "GKV-Sparpaket: Wieder mehr Psychotherapie für schwer Betroffene und Kinder",
       "link": "https://www.sueddeutsche.de/gesundheit/psychotherapie-gkv-sparpaket-2026-kinder-jugendliche-li.3563503",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-14T15:11:48+00:00"
     },
     {
-      "titel": "Was über die Krebs-Erkrankung von Papst Leo XIV. bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-xiv-krebserkrankung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-14T14:45:01+00:00"
-    },
-    {
       "titel": "Krieg in Nahost: Containerschiff sinkt nach Angriff nahe der Straße von Hormus",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-strasse-von-hormus-cntainerschiff-gesunken-li.3560260",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-14T14:43:05+00:00"
-    },
-    {
-      "titel": "Deutsche Debatten: Jeder sendet nur noch für das eigene Publikum",
-      "link": "https://www.sueddeutsche.de/meinung/kommentar-bundesregierung-ukraine-afd-linke-li.3563474",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-14T14:31:14+00:00"
     }
   ]
 }
