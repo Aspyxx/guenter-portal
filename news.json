@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-16T00:25:34+00:00",
+  "aktualisiert": "2026-10-16T05:06:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,94 @@
   },
   "meldungen": [
     {
-      "titel": "Mexiko sperrt Seen in Yucatán wegen »hirnfressender« Amöbe",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/mexiko-sperrt-seen-in-yucatan-wegen-hirnfressender-amoebe-a-ae5db3d7-838e-40f6-9fce-fb4cd91cfaaa#ref=rss",
+      "titel": "Tesla stellt neues Modell Roadster vor - mit Raketendüsen",
+      "link": "https://www.spiegel.de/mobilitaet/auto/tesla-stellt-neues-modell-roadster-vor-mit-raketenduesen-a-7cccd6c2-3d0e-4d0d-8be4-7f0fd794915e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T23:12:00+00:00"
+      "veroeffentlicht": "2026-10-16T05:02:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Trumps neue Sprecherin wegen falscher Berufsangaben unter Druck",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-sprecherin-zacharia-kritik-anwalt-zulassung-li.3558046",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T05:01:34+00:00"
+    },
+    {
+      "titel": "Katie Zacharia: Trumps neue Sprecherin ist bei Anwaltsprüfung durchgefallen",
+      "link": "https://www.spiegel.de/politik/katie-zacharia-trumps-neue-sprecherin-ist-bei-anwaltspruefung-durchgefallen-a-73f62d48-d765-4719-8816-9926985c0cec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T04:49:00+00:00"
+    },
+    {
+      "titel": "Alexus Grynkewich: Nato-Oberbefehlshaber über Kriegsszenarien mit Russland",
+      "link": "https://www.spiegel.de/politik/deutschland/alexus-grynkewich-nato-oberbefehlshaber-ueber-kriegsszenarien-mit-russland-a-d42d7e7b-cfd9-4200-bc98-0d5cd808f84c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T04:41:00+00:00"
+    },
+    {
+      "titel": "Hunger im Jemen - Wenn Mehl zum Luxusartikel wird",
+      "link": "https://www.tagesschau.de/ausland/asien/hungerkrise-jemen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T04:24:46+00:00"
+    },
+    {
+      "titel": "»Sinn und Sinnlichkeit«: Neuverfilmung über Liebe in Zeiten des Heteropessimismus",
+      "link": "https://www.spiegel.de/kultur/kino/sinn-und-sinnlichkeit-neuverfilmung-ueber-liebe-in-zeiten-des-heteropessimismus-a-4ee2976c-14c2-49af-9952-c4e090d3c4fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T03:48:00+00:00"
+    },
+    {
+      "titel": "Kürbis: So holen Sie alles aus dem Gemüse raus – von Butternut bis Hokkaido",
+      "link": "https://www.spiegel.de/effilee/kuerbis-so-holen-sie-alles-aus-dem-gemuese-raus-von-butternut-bis-hokkaido-a-1e2d977a-7981-4532-b1d9-6362f0b84404#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T03:30:00+00:00"
+    },
+    {
+      "titel": "Kimchi: Alles was Sie über Koreas Soulfood wissen müssen",
+      "link": "https://www.spiegel.de/effilee/kimchi-alles-was-sie-ueber-koreas-soulfood-wissen-muessen-a-58afc7e6-34a5-4b72-9da8-9f31911206dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T03:30:00+00:00"
+    },
+    {
+      "titel": "Atomabrüstung: Donald Trump spricht von Verhandlungen mit Moskau und Peking",
+      "link": "https://www.spiegel.de/ausland/atomabruestung-donald-trump-spricht-von-verhandlungen-mit-moskau-und-peking-a-c14c2b03-b910-47ba-a7c2-a3646827bc67#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T03:12:00+00:00"
+    },
+    {
+      "titel": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T03:00:25+00:00"
+    },
+    {
+      "titel": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T01:23:51+00:00"
+    },
+    {
+      "titel": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T01:17:45+00:00"
+    },
+    {
+      "titel": "Johann Wadephul bei „Maybrit Illner“: „Wir werden ja jetzt schon angegriffen“",
+      "link": "https://www.sueddeutsche.de/medien/tv-kritik-maybrit-illner-johann-wadephul-li.3563678",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T00:57:27+00:00"
+    },
+    {
+      "titel": "Donald Trump: Entlassene FBI-Agenten werfen Präsident persönliche Rache vor",
+      "link": "https://www.spiegel.de/ausland/donald-trump-entlassene-fbi-agenten-werfen-praesident-persoenliche-rache-vor-a-cd4fc477-a974-43b5-bc1b-9f02d9ed55f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T00:34:00+00:00"
+    },
+    {
+      "titel": "Oregon: Fünf Tote nach Gewalttat an Grundschule im Westen der USA",
+      "link": "https://www.spiegel.de/panorama/oregon-fuenf-tote-nach-gewalttat-an-grundschule-im-westen-der-usa-a-7cbb1a35-5486-409b-b682-60c9508d7a00#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T00:31:00+00:00"
     },
     {
       "titel": "Bundestag beschließt Anhebung der Tabaksteuer",
@@ -19,40 +103,16 @@
       "veroeffentlicht": "2026-10-15T23:06:09+00:00"
     },
     {
-      "titel": "Trier: Mann setzt Dutzende Grillen im Dom aus",
-      "link": "https://www.spiegel.de/panorama/trier-mann-setzt-dutzende-grillen-im-dom-aus-a-c323c70e-4876-4c99-810f-fb1d634bd13f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T21:33:00+00:00"
-    },
-    {
-      "titel": "Bundestag stimmt für höhere Tabaksteuer",
-      "link": "https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-hoehere-tabaksteuer-a-20329c97-f272-44ae-91be-771d48ed14a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T21:27:00+00:00"
-    },
-    {
-      "titel": "USA vor den Midterms: Offenbar verdächtige Briefe an US-Kongressbüros verschickt",
-      "link": "https://www.spiegel.de/ausland/usa-vor-den-midterms-offenbar-verdaechtige-briefe-an-us-kongressbueros-verschickt-a-60d424e1-27ac-49f5-bf9e-d84f0a5f53a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T20:52:00+00:00"
-    },
-    {
       "titel": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
       "link": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-15T19:53:38+00:00"
     },
     {
-      "titel": "Neonazi-Szene hat Zulauf durch Social Media - Podcast Firewall",
-      "link": "https://www.spiegel.de/politik/deutschland/neonazi-szene-hat-zulauf-durch-social-media-podcast-firewall-a-72bea215-bb37-4bd5-82f3-4434748b3022#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T19:27:00+00:00"
-    },
-    {
-      "titel": "Nicolás Maduro plädiert bei Folter-Vorwürfen auf nicht schuldig",
-      "link": "https://www.spiegel.de/ausland/nicolas-maduro-plaediert-bei-folter-vorwuerfen-auf-nicht-schuldig-a-57b923c8-db97-42c3-9000-00de5fc99414#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T19:26:00+00:00"
+      "titel": "Reformdebatte: Eine Einladung zur Frührente",
+      "link": "https://www.sueddeutsche.de/wirtschaft/bundesregierung-reformen-rente-fruehrente-li.3563519",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-15T19:52:28+00:00"
     },
     {
       "titel": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
@@ -61,28 +121,10 @@
       "veroeffentlicht": "2026-10-15T19:20:05+00:00"
     },
     {
-      "titel": "SPD: Doris Schröder-Köpf hört auf",
-      "link": "https://www.spiegel.de/politik/spd-doris-schroeder-koepf-hoert-auf-a-cd041199-57c5-42b9-bcee-8cfa8a63b6a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T18:24:00+00:00"
-    },
-    {
       "titel": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
       "link": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-15T18:22:56+00:00"
-    },
-    {
-      "titel": "Bundeswehr-Einsätze gegen Huthi-Miliz und im Südsudan verlängert",
-      "link": "https://www.spiegel.de/politik/deutschland/bundeswehr-einsaetze-gegen-huthi-miliz-und-im-suedsudan-verlaengert-a-360aa317-391c-4b39-be88-33453877c8e2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T18:21:00+00:00"
-    },
-    {
-      "titel": "EZB erlaubt UniCredit offenbar Übernahme von Commerzbank",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/ezb-erlaubt-unicredit-offenbar-uebernahme-von-commerzbank-anteilen-a-4fdb9120-ecc0-4431-ac6c-3d5340d5bb4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-15T18:17:00+00:00"
     },
     {
       "titel": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
@@ -97,18 +139,6 @@
       "veroeffentlicht": "2026-10-15T18:01:00+00:00"
     },
     {
-      "titel": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
-      "link": "https://www.tagesschau.de/ukraine-usa-starlink-geheimdienste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T17:17:37+00:00"
-    },
-    {
-      "titel": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T17:16:11+00:00"
-    },
-    {
       "titel": "Prozess in München: Kleinkinder geschlagen und gedemütigt: Erzieherin zu zwei Jahren Freiheitsstrafe verurteilt",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-erzieherin-kindesmisshandlung-kita-prozess-gestaendnis-li.3559385",
       "quelle": "Süddeutsche",
@@ -119,18 +149,6 @@
       "link": "https://www.sueddeutsche.de/kultur/diplomatische-beziehungen-vierte-staffel-keri-russell-schauspielerin-li.3556895",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-15T16:39:37+00:00"
-    },
-    {
-      "titel": "Reiche muss Instagram-Video mit Vorwurf gegen Linke löschen",
-      "link": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T16:35:05+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-15T16:32:51+00:00"
     },
     {
       "titel": "Immobilien: Günther Jauch saniert Loriot-Villa am Starnberger See",
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-10-15T14:51:51+00:00"
     },
     {
-      "titel": "USA-Newsblog: Trump: Kein Livestream bei geplanter Hinrichtung durch Militär",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kein-livestream-hinrichtung-attentaeter-todesstrafe-li.3558046",
+      "titel": "Reden wir über Geld: „Diese ‚Fleischbeschau‘ wollte ich nicht länger mitmachen“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/miss-germany-wandel-schoenheitswettbewerb-frauenfoerderung-li.3549891",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T14:41:37+00:00"
-    },
-    {
-      "titel": "Arzneimittel: Neues Krebsmedikament erhält schnelle Zulassung",
-      "link": "https://www.sueddeutsche.de/gesundheit/bauchspeicheldruesenkrebs-daraxonrasib-krebsmedikament-ema-europa-li.3564057",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T14:41:00+00:00"
-    },
-    {
-      "titel": "Nach Vorwürfen des Machtmissbrauchs: Präsident der Musikhochschule Nürnberg tritt zurück",
-      "link": "https://www.sueddeutsche.de/bayern/nuernberg-hochschule-fuer-musik-rainer-kotzian-machtmissbrauch-li.3564113",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T14:15:21+00:00"
-    },
-    {
-      "titel": "Münchner Süden: Fußballbetreuer filmt heimlich Spieler beim Duschen – mehr als 1000 Fotos und Videos",
-      "link": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchen-oberhaching-fc-deisenhofen-nacktvideos-fussball-betreuer-li.3487656",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-15T13:59:57+00:00"
+      "veroeffentlicht": "2026-10-15T14:50:55+00:00"
     }
   ]
 }
