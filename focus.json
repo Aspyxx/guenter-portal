@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-16T00:34:26+00:00",
+  "aktualisiert": "2026-10-16T05:12:22+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundestag beschließt Anhebung der Tabaksteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+      "titel": "Oregon",
+      "link": "https://www.tagesschau.de/ausland/amerika/schuesse-grundschule-oregon-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
-      "link": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
+      "titel": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
       "rang": 3,
-      "titel": "DAX vom Tech-Ausverkauf kaum betroffen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+      "titel": "Bundestag beschließt Anhebung der Tabaksteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🏛️"
     }
   ]
 }
