@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-10-15T22:29:46+00:00",
+  "aktualisiert": "2026-10-16T00:34:26+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Bundestag beschließt Anhebung der Tabaksteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
+      "rang": 2,
       "titel": "Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
       "link": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
-    },
-    {
-      "rang": 2,
-      "titel": "Bundestag beschließt Korrekturen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
     },
     {
       "rang": 3,
