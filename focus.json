@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-16T09:57:27+00:00",
+  "aktualisiert": "2026-10-16T14:26:52+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "DAX startet mit Gewinnen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+      "titel": "Bundesrat fordert mehr Schutz von Minderjährigen im Netz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-bundesrat-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Bundestag beschließt Anhebung der Tabaksteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+      "titel": "Wie es mit der Commerzbank nun weitergeht",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
+      "titel": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
