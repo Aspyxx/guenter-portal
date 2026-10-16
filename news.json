@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-16T18:49:15+00:00",
+  "aktualisiert": "2026-10-16T22:06:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,64 @@
   },
   "meldungen": [
     {
+      "titel": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T21:15:49+00:00"
+    },
+    {
+      "titel": "Junge Union: Johannes Winkel als Vorsitzender wiedergewählt",
+      "link": "https://www.spiegel.de/politik/junge-union-johannes-winkel-als-vorsitzender-wiedergewaehlt-a-e812c687-9ab5-4364-90d4-17884404663d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T20:16:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: US-Senatoren verlangen Klarheit über Starlink-Drosselung in der Ukraine",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-senatoren-aufklaerung-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T19:50:00+00:00"
+    },
+    {
       "titel": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
       "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T18:46:52+00:00"
+      "veroeffentlicht": "2026-10-16T19:42:41+00:00"
+    },
+    {
+      "titel": "Wales: Abgeordneter Jason O'Connell nutzt offenbar KI-Brille als Teleprompter für seine Rede",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/wales-abgeordneter-jason-oconnell-nutzt-offenbar-ki-brille-als-teleprompter-fuer-seine-rede-a-fdee0fe5-e3a5-4459-b286-9a468ccec674#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T19:33:00+00:00"
+    },
+    {
+      "titel": "Javier Tebas: Real Madrid fordert nach Nazivergleich Rücktritt von Liga-Chef",
+      "link": "https://www.spiegel.de/sport/javier-tebas-real-madrid-fordert-nach-nazivergleich-ruecktritt-von-liga-chef-a-b51395a5-867a-4720-83b1-2285008e74c0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T19:30:00+00:00"
+    },
+    {
+      "titel": "Huthis vs. Saudi-Arabien: So rechtfertigen die Milizen in Jemen ihren Krieg",
+      "link": "https://www.spiegel.de/ausland/huthis-vs-saudi-arabien-so-rechtfertigen-die-milizen-in-jemen-ihren-krieg-a-13987a5a-fba9-4173-99d7-3ef13b9c9fa3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T19:17:00+00:00"
+    },
+    {
+      "titel": "Deutschlandtag der Jungen Union: Jetzt hat Friedrich Merz schon wieder ein JU-Problem",
+      "link": "https://www.spiegel.de/politik/deutschland/deutschlandtag-der-jungen-union-jetzt-hat-friedrich-merz-schon-wieder-ein-ju-problem-a-ca82a0ca-038b-4e5c-a9da-aeedc09067ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T19:15:00+00:00"
+    },
+    {
+      "titel": "USA: Trump trennt sich von Katie Zacharia",
+      "link": "https://www.sueddeutsche.de/politik/donald-trump-katie-zacharia-pressesprecherin-weisses-haus-usa-li.3564848",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T19:12:24+00:00"
+    },
+    {
+      "titel": "Sean »Diddy« Combs in anderes Gefängnis verlegt – offenbar wegen Prügelei",
+      "link": "https://www.spiegel.de/ausland/sean-diddy-combs-in-anderes-gefaengnis-verlegt-offenbar-wegen-pruegelei-a-9401985a-7fb2-4701-b12e-a70806a48ca3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T19:00:00+00:00"
     },
     {
       "titel": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
@@ -55,40 +109,16 @@
       "veroeffentlicht": "2026-10-16T17:35:00+00:00"
     },
     {
-      "titel": "Donald Trump: Sprecherin Katie Zacharia laut US-Medien gefeuert",
-      "link": "https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken-a-f70761b6-278e-48b3-aa84-35d75bb40a7c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T17:33:00+00:00"
-    },
-    {
       "titel": "Papst bittet Putin um Waffenruhe in Oleschky",
       "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-16T17:25:17+00:00"
     },
     {
-      "titel": "Nordrhein-Westfalen: AfD-Politiker wollen zum Fechtduell antreten",
-      "link": "https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten-a-e6cf8869-02b0-4493-8ee1-8de85080a839#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T17:24:00+00:00"
-    },
-    {
-      "titel": "Thomas Jefferson: Gründervater, Nationalheiliger. Und Vergewaltiger?",
-      "link": "https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger-a-f087073a-b26e-4ab2-b44b-d77e39bcd26b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T17:15:00+00:00"
-    },
-    {
       "titel": "Angriff auf NS-Dokumentationszentrum in Köln",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-16T17:12:00+00:00"
-    },
-    {
-      "titel": "Irmgard Keun: Tobias Lehmkuhl rekonstruiert ein vergessenes Leben",
-      "link": "https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben-a-1a3e07fc-287d-43e3-87a7-a4396b7c5da5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T17:10:00+00:00"
     },
     {
       "titel": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
@@ -101,24 +131,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-16T16:52:09+00:00"
-    },
-    {
-      "titel": "AfD: Alkoholisierte Mitarbeiter sollen sich im Bundestag geprügelt haben – Ermittlungsverfahren eingeleitet",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet-a-373ec8ba-6b36-4257-b596-096587ca377c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T16:39:00+00:00"
-    },
-    {
-      "titel": "Zypern: Kind stürzt aus Fenster und stirbt – Vater verurteilt",
-      "link": "https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt-a-58859359-8067-423c-8831-3186b7b1a01b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T16:34:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T16:22:56+00:00"
     },
     {
       "titel": "EU-Regeln: „Das Verbrenner-Aus ist dann damit Geschichte“",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/merz-eu-erfolg-probleme-ukraine-migration-li.3562949",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-16T13:18:53+00:00"
-    },
-    {
-      "titel": "Europäische Union: EU rüstet sich für den Handelsstreit mit China",
-      "link": "https://www.sueddeutsche.de/politik/eu-china-autos-hybrid-handel-li.3562946",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T13:10:22+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Jetzt soll sogar das Bundesverfassungsgericht über die Wiesn entscheiden",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-2026-wiesnzelte-vergabe-urteil-verfassungsbeschwerde-alexander-egger-li.3547791",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T13:09:19+00:00"
     }
   ]
 }
