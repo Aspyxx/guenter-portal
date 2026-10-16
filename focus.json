@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-16T18:13:45+00:00",
+  "aktualisiert": "2026-10-16T21:25:22+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Władimir Putin",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Unterstützung für die Ukraine ohne USA?",
       "link": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
-      "link": "https://www.tagesschau.de/wissen/forschung/schaltsekunde-abschaffung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Berlin und Paris wollen Verbrenner-Aus aufweichen",
-      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
+      "titel": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
