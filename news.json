@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-16T14:52:51+00:00",
+  "aktualisiert": "2026-10-16T18:49:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
-      "link": "https://www.tagesschau.de/wissen/forschung/schaltsekunde-abschaffung-100.html",
+      "titel": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
+      "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T14:50:10+00:00"
+      "veroeffentlicht": "2026-10-16T18:46:52+00:00"
     },
     {
-      "titel": "Tesla Roadster fliegt durch die Luft: Elon Musk hat die Bodenhaftung verloren. Buchstäblich",
-      "link": "https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T14:47:00+00:00"
-    },
-    {
-      "titel": "London: 19 Jahre alter Auftragskiller zu 20 Jahren Haft verurteilt",
-      "link": "https://www.spiegel.de/panorama/justiz/london-19-jaehriger-auftragskiller-zu-20-jahren-haft-verurteilt-a-f5dc8c86-daa7-4082-bfc2-97b2ee6c5ded#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T14:45:00+00:00"
-    },
-    {
-      "titel": "Drohungen an jüdische Studenten nach AfD-Blockade bei Gedenkfeier",
-      "link": "https://www.tagesschau.de/inland/juedische-studenten-afd-100.html",
+      "titel": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T14:40:15+00:00"
+      "veroeffentlicht": "2026-10-16T18:42:07+00:00"
     },
     {
-      "titel": "TV: An erfolgreichen Serien sind immer weniger Frauen maßgeblich beteiligt",
-      "link": "https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen-a-66b7e66b-7285-4d5b-a366-14e211489055#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T14:37:00+00:00"
-    },
-    {
-      "titel": "Wie es mit der Commerzbank nun weitergeht",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
+      "titel": "Berlin: Linken-Vorstand distanziert sich von Abgeordneter Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/beratungen-vorstand-linksfraktion-berlin-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T14:25:09+00:00"
+      "veroeffentlicht": "2026-10-16T18:34:40+00:00"
     },
     {
-      "titel": "Grüne in Hamburg: Lars Boettger verliert Posten nach Kritik an Parteispitze",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze-a-6b4de672-f8c3-467d-86aa-bf891b907c1e#ref=rss",
+      "titel": "Papst Leo XIV.: Was öffentlich gemachte Diagnosen bewirken",
+      "link": "https://www.spiegel.de/wissenschaft/papst-leo-xiv-was-oeffentlich-gemachte-diagnosen-bewirken-a-ea22a717-0e95-4b37-afc2-a7a63d5f02a4#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T14:20:00+00:00"
+      "veroeffentlicht": "2026-10-16T18:26:00+00:00"
+    },
+    {
+      "titel": "USA-Newsblog: Medien: Trump trennt sich nach wenigen Tagen von neuer Pressesprecherin",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-sprecherin-zacharia-li.3558046",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T18:24:14+00:00"
+    },
+    {
+      "titel": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T18:07:15+00:00"
+    },
+    {
+      "titel": "Sido: Rapper ersteigert Smoking von »großem Vorbild« Harald Juhnke – für 4000 Euro",
+      "link": "https://www.spiegel.de/panorama/leute/sido-rapper-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro-a-c396b110-bf9f-437d-8fd4-167deac30ffd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T17:49:00+00:00"
+    },
+    {
+      "titel": "Tabakindustrie: Wie Konzerne um Macht und Marktanteile ringen",
+      "link": "https://www.spiegel.de/wirtschaft/tabakindustrie-wie-konzerne-um-macht-und-marktanteile-ringen-a-f58b5a59-5787-4f14-a6dc-d71b00262abe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T17:35:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: Sprecherin Katie Zacharia laut US-Medien gefeuert",
+      "link": "https://www.spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken-a-f70761b6-278e-48b3-aa84-35d75bb40a7c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T17:33:00+00:00"
+    },
+    {
+      "titel": "Papst bittet Putin um Waffenruhe in Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T17:25:17+00:00"
+    },
+    {
+      "titel": "Nordrhein-Westfalen: AfD-Politiker wollen zum Fechtduell antreten",
+      "link": "https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-afd-politiker-wollen-zum-fechtduell-antreten-a-e6cf8869-02b0-4493-8ee1-8de85080a839#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T17:24:00+00:00"
+    },
+    {
+      "titel": "Thomas Jefferson: Gründervater, Nationalheiliger. Und Vergewaltiger?",
+      "link": "https://www.spiegel.de/geschichte/thomas-jefferson-gruendervater-nationalheiliger-und-vergewaltiger-a-f087073a-b26e-4ab2-b44b-d77e39bcd26b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T17:15:00+00:00"
+    },
+    {
+      "titel": "Angriff auf NS-Dokumentationszentrum in Köln",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T17:12:00+00:00"
+    },
+    {
+      "titel": "Irmgard Keun: Tobias Lehmkuhl rekonstruiert ein vergessenes Leben",
+      "link": "https://www.spiegel.de/kultur/literatur/irmgard-keun-tobias-lehmkuhl-rekonstruiert-ein-vergessenes-leben-a-1a3e07fc-287d-43e3-87a7-a4396b7c5da5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T17:10:00+00:00"
+    },
+    {
+      "titel": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
+      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T16:59:07+00:00"
+    },
+    {
+      "titel": "Eurowings streicht Flüge und prüft Kurzarbeit",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T16:52:09+00:00"
+    },
+    {
+      "titel": "AfD: Alkoholisierte Mitarbeiter sollen sich im Bundestag geprügelt haben – Ermittlungsverfahren eingeleitet",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-alkoholisierte-mitarbeiter-sollen-sich-im-bundestag-gepruegelt-haben-ermittlungsverfahren-eingeleitet-a-373ec8ba-6b36-4257-b596-096587ca377c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T16:39:00+00:00"
+    },
+    {
+      "titel": "Zypern: Kind stürzt aus Fenster und stirbt – Vater verurteilt",
+      "link": "https://www.spiegel.de/panorama/zypern-kind-stuerzt-aus-fenster-und-stirbt-vater-verurteilt-a-58859359-8067-423c-8831-3186b7b1a01b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T16:34:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T16:22:56+00:00"
+    },
+    {
+      "titel": "EU-Regeln: „Das Verbrenner-Aus ist dann damit Geschichte“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/verbrenner-aus-merz-macron-eu-regeln-automobilindustrie-elektromobilitaet-li.3564320",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T15:32:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Berliner Linke-Fraktionsspitze geht auf Distanz zu Vanessa Emde",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-vanessa-emde-distanz-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T14:56:01+00:00"
+    },
+    {
+      "titel": "Prävention: Löchriges Wissen über Krebsrisiken",
+      "link": "https://www.sueddeutsche.de/gesundheit/krebsrisiken-praevention-deutsches-krebsforschungszentrum-dkfz-gesundheit-li.3562973",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T14:40:48+00:00"
     },
     {
       "titel": "Altersvorsorge: Wer die Frühstartrente unfair findet, hat sie nicht verstanden",
@@ -55,118 +145,28 @@
       "veroeffentlicht": "2026-10-16T13:57:53+00:00"
     },
     {
-      "titel": "Papst Leo XIV. : Vatikan veröffentlicht erste Fotos nach Operation",
-      "link": "https://www.spiegel.de/panorama/leute/papst-leo-xiv-vatikan-veroeffentlicht-erste-fotos-nach-operation-a-08a39da9-8711-4de6-98ac-29d3ae23790d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T13:46:00+00:00"
-    },
-    {
-      "titel": "Gefährliche Mutproben: Bundesrat fordert mehr Schutz von Minderjährigen im Netz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-bundesrat-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T13:29:07+00:00"
-    },
-    {
       "titel": "Fifa-Präsident Infantino: Einmal sorry! Und mehr Geld für alle! Aber der Machtkampf geht weiter",
       "link": "https://www.sueddeutsche.de/sport/fifa-kongress-infantino-machtkampf-uefa-geld-verbaende-li.3564527",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-16T13:25:07+00:00"
     },
     {
-      "titel": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T13:13:40+00:00"
+      "titel": "Brüssel: Was Merz in Europa gelingt – und woran er manchmal scheitert",
+      "link": "https://www.sueddeutsche.de/politik/merz-eu-erfolg-probleme-ukraine-migration-li.3562949",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T13:18:53+00:00"
     },
     {
-      "titel": "Fall Daphne Caruana Galizia in Malta: Deckt die Insel einen Mord?",
-      "link": "https://www.spiegel.de/ausland/fall-daphne-caruana-galizia-in-malta-deckt-die-insel-einen-mord-a-347b8b5e-7bcf-47c6-9aba-cad5220d6cf6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T13:13:00+00:00"
+      "titel": "Europäische Union: EU rüstet sich für den Handelsstreit mit China",
+      "link": "https://www.sueddeutsche.de/politik/eu-china-autos-hybrid-handel-li.3562946",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-16T13:10:22+00:00"
     },
     {
       "titel": "Oktoberfest: Jetzt soll sogar das Bundesverfassungsgericht über die Wiesn entscheiden",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-2026-wiesnzelte-vergabe-urteil-verfassungsbeschwerde-alexander-egger-li.3547791",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-16T13:09:19+00:00"
-    },
-    {
-      "titel": "Streit über Wehrdienst für Ultraorthodoxe in Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wehrpflicht-ultraorthodox-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T12:59:58+00:00"
-    },
-    {
-      "titel": "Fontaines D.C.: Zum Glück gibt's hier auch noch Pop, nicht nur Parolen",
-      "link": "https://www.spiegel.de/kultur/musik/fontaines-d-c-zum-glueck-gibts-hier-auch-noch-pop-nicht-nur-parolen-a-d2c45335-e976-4f1a-82dd-62033d0ae6eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T12:56:00+00:00"
-    },
-    {
-      "titel": "Italien: Netzstörung beeinträchtigt Flugverkehr über Stunden",
-      "link": "https://www.spiegel.de/panorama/italien-netzstoerung-beeintraechtigt-flugverkehr-ueber-stunden-a-a9cc8cb7-fc9a-4f72-b66e-8c050ff87195#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T12:53:00+00:00"
-    },
-    {
-      "titel": "Ferat Koçak: Clanchef Issa Rammo will sich mit Linken-Politiker getroffen haben",
-      "link": "https://www.spiegel.de/politik/ferat-kocak-clanchef-issa-rammo-will-sich-mit-linken-politiker-getroffen-haben-a-61e1b233-f644-40b8-8cb3-3feb6fcd7a17#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T12:50:00+00:00"
-    },
-    {
-      "titel": "Dieser eine Satz: Das klingt jetzt nicht so attraktiv für talentierte Nachwuchskräfte aus der Gen Z",
-      "link": "https://www.sueddeutsche.de/meinung/baerbel-bas-lars-klingbeil-spd-ruecktritt-gen-z-politik-mitgefuehl-kommentar-li.3564163",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T12:45:39+00:00"
-    },
-    {
-      "titel": "Noch mehr Eigentum westlicher Firmen unter Kreml-Kontrolle",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-vermoegen-deutscher-firmen-staatliche-kontrolle-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T12:38:24+00:00"
-    },
-    {
-      "titel": "Welche Tabakware wie viel teurer wird",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T12:38:22+00:00"
-    },
-    {
-      "titel": "Türkei: Erdoğans Angstgegner macht das Gericht zur politischen Bühne",
-      "link": "https://www.sueddeutsche.de/politik/tuerkei-ekrem-imamoglu-erdogan-istanbul-opposition-silivri-prozess-li.3564129",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T12:35:13+00:00"
-    },
-    {
-      "titel": "Deutschland und Frankreich: Na bitte, sie können es doch noch",
-      "link": "https://www.sueddeutsche.de/meinung/eu-deutschland-frankreich-verbrenner-aus-kompromiss-kommentar-li.3564500",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T12:32:47+00:00"
-    },
-    {
-      "titel": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T12:17:39+00:00"
-    },
-    {
-      "titel": "Technik: Elon Düsentrieb",
-      "link": "https://www.sueddeutsche.de/kultur/elon-musk-tesla-roadster-mitarbeiter-ingenieure-li.3564479",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T12:10:30+00:00"
-    },
-    {
-      "titel": "EU-Regeln: Merz und Macron wollen das Verbrenner-Aus abschaffen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/verbrenner-aus-merz-macron-eu-regeln-automobilindustrie-elektromobilitaet-li.3564320",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T11:45:00+00:00"
-    },
-    {
-      "titel": "Skandalfirma: Wirecard-Beschuldigter taucht wieder in Deutschland auf",
-      "link": "https://www.sueddeutsche.de/wirtschaft/wirecard-skandal-jan-marsalek-carlos-haeuser-rueckkehr-deutschland-li.3564043",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T11:43:51+00:00"
     }
   ]
 }
