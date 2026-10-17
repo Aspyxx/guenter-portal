@@ -1,11 +1,95 @@
 {
-  "aktualisiert": "2026-10-17T16:39:30+00:00",
+  "aktualisiert": "2026-10-17T18:51:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T18:46:07+00:00"
+    },
+    {
+      "titel": "FC Bayern gegen Leipzig: Herbstblues? Herbststurm!",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-bundesliga-debakel-li.3564598",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-17T18:42:42+00:00"
+    },
+    {
+      "titel": "Bundesliga: FC Bayern München überrollt RB Leipzig nach Díaz-Hattrick",
+      "link": "https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberrollt-rb-leipzig-nach-diaz-hattrick-a-db939cd6-af71-4a5a-9f99-021b862c622a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T18:38:00+00:00"
+    },
+    {
+      "titel": "Einzelkritik FC Bayern: Luis Díaz spielt Jo-Jo mit RB Leipzig",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-einzelkritik-li.3564600",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-17T18:33:03+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz – Deutscher Kulturrat zu KI: »Das ist eine Schönfärberei, wie ich sie noch nie erlebt habe«",
+      "link": "https://www.spiegel.de/kultur/kuenstliche-intelligenz-deutscher-kulturrat-zu-ki-das-ist-eine-schoenfaerberei-wie-ich-sie-noch-nie-erlebt-habe-a-cfe653ae-b09c-4158-b36c-3543e24aec66#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T18:16:00+00:00"
+    },
+    {
+      "titel": "Ökonom Georg Cremer über Gerechtigkeit: »Wir sind doch nicht die Kunden eines Lieferando-Staats«",
+      "link": "https://www.spiegel.de/wirtschaft/oekonom-georg-cremer-ueber-gerechtigkeit-wir-sind-doch-nicht-die-kunden-eines-lieferando-staats-a-7a33129b-6166-440b-a3cf-cd1c5d13d497#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T18:11:00+00:00"
+    },
+    {
+      "titel": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T18:09:16+00:00"
+    },
+    {
+      "titel": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T17:44:57+00:00"
+    },
+    {
+      "titel": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T17:40:26+00:00"
+    },
+    {
+      "titel": "Donald Trump: US-Republikaner verurteilen Trumps Aussetzung von neuen Russlandsanktionen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-us-kongressabgeordnete-verurteilen-trumps-aussetzung-von-neuen-russlandsanktionen-a-7933a7fd-09c5-4bf9-9329-a891e64e9ad7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T17:31:00+00:00"
+    },
+    {
+      "titel": "Berlin: Linke, Grüne und SPD wollen vergesellschaften - aber anders als gedacht",
+      "link": "https://www.sueddeutsche.de/politik/berlin-vergesellschaftung-linke-gruene-spd-koalition-li.3565059",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-17T17:29:57+00:00"
+    },
+    {
+      "titel": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T17:26:53+00:00"
+    },
+    {
+      "titel": "Westjordanland: Israelische Siedler greifen Journalistin und Diplomaten an",
+      "link": "https://www.spiegel.de/ausland/westjordanland-israelische-siedler-greifen-journalistin-und-diplomaten-an-a-ee2b08bc-2039-44a6-a8f1-2381a0d5d085#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T17:23:00+00:00"
+    },
+    {
+      "titel": "Linke, SPD und Grüne in Berlin: Jetzt bloß nicht irgendwie radikal wirken",
+      "link": "https://www.spiegel.de/politik/linke-spd-und-gruene-in-berlin-jetzt-bloss-nicht-irgendwie-radikal-wirken-a-ee655362-a767-4399-b4a8-64f12e09c279#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T17:03:00+00:00"
+    },
     {
       "titel": "Synthetische Drogen: Die Gefahr von »Baller-Liquids«, »Görke« und Co.",
       "link": "https://www.spiegel.de/panorama/synthetische-drogen-die-gefahr-von-baller-liquids-goerke-und-co-a-7b7d924d-7816-48ef-bf9d-35df7be83515#ref=rss",
@@ -43,18 +127,6 @@
       "veroeffentlicht": "2026-10-17T16:02:16+00:00"
     },
     {
-      "titel": "Fußball-Bundesliga: Füllkrug-Tore, Werder-Wende und der HSV gewinnt wieder",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-fuellkrug-tore-werder-wende-und-der-hsv-gewinnt-wieder-a-5dbb186f-05be-44e2-ae6c-f823e11209d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T16:00:00+00:00"
-    },
-    {
-      "titel": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T15:58:24+00:00"
-    },
-    {
       "titel": "Unbekannte feuern auf Wohnhaus und Restaurant in Köln",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-koeln-102.html",
       "quelle": "Tagesschau",
@@ -67,70 +139,16 @@
       "veroeffentlicht": "2026-10-17T15:52:46+00:00"
     },
     {
-      "titel": "Ukraine: Wolodymyr Selenskyj beklagt anhaltende Drosselung von Starlink in der Ukraine",
-      "link": "https://www.spiegel.de/ausland/urkaine-wolodymyr-selenskyj-beklagt-anhaltende-drosselung-von-starlink-in-der-ukraine-a-8e43cbbd-11bc-4a8a-a33c-1a6a24b6e981#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T15:51:00+00:00"
-    },
-    {
-      "titel": "Modelabel Kitschy Couture: »Pforzheim. Die geilste Stadt der Welt«",
-      "link": "https://www.spiegel.de/panorama/modelabel-kitschy-couture-pforzheim-die-geilste-stadt-der-welt-a-d8dcb0f2-5401-41bd-ab64-8dc401d7df2e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T15:36:00+00:00"
-    },
-    {
-      "titel": "Donald Trump beim Wahlkampf in Georgia für die Midterms: »Ich unterstütze meinen Präsidenten trotzdem«",
-      "link": "https://www.spiegel.de/ausland/donald-trump-beim-wahlkampf-in-georgia-fuer-die-midterms-ich-unterstuetze-meinen-praesidenten-trotzdem-a-64784bbd-0caa-4275-9d0b-2d75a471e1d7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T15:31:00+00:00"
-    },
-    {
-      "titel": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T15:29:15+00:00"
-    },
-    {
       "titel": "Newsblog zu den Landtagswahlen: Berlin: Linke, Grüne und SPD planen Vergesellschaftung von Wohnungen",
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-17T15:22:41+00:00"
     },
     {
-      "titel": "FC Chelsea: Torwart Martínez nach Kopfzusammenstoß im Krankenhaus",
-      "link": "https://www.spiegel.de/sport/fussball/fc-chelsea-torwart-martinez-nach-kopfzusammenstoss-im-krankenhaus-a-0316956a-9ce9-4bdd-8d82-f709563b3ad7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T15:10:00+00:00"
-    },
-    {
-      "titel": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T14:53:09+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV. ist nach Lungenkrebs-Operation in den Vatikan zurückgekehrt",
-      "link": "https://www.spiegel.de/panorama/papst-leo-xiv-ist-nach-lungenkrebs-operation-in-den-vatikan-zurueckgekehrt-a-eadaaa31-c9f8-424c-b83c-05380b4eb2a0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T14:44:00+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV. hat das Krankenhaus nach Lungen-OP verlassen",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T14:29:50+00:00"
-    },
-    {
       "titel": "Deutsche Bahn: Ich kaufe ein kleines p",
       "link": "https://www.sueddeutsche.de/kultur/deutsche-bahn-alkoholverbot-bahnhoefe-rechtschreibfehler-evelyn-palla-li.3564973",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-17T14:14:26+00:00"
-    },
-    {
-      "titel": "Zusammenstöße zwischen Polizei und Demonstranten bei Protesten in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T14:04:22+00:00"
     },
     {
       "titel": "Landesversammlung der Freien Wähler: „Hört auf, den ganzen linken Unsinn in Berlin mitzutragen“",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/medien/trump-pressesprecherin-zacharia-leavitt-frauen-li.3564855",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-17T09:05:15+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Iran: Supertanker fährt in Straße von Hormus auf Seemine",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-iran-supertanker-strasse-von-hormus-seemine-li.3560260",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T05:34:57+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Unionsfraktionschef Frei will Änderungen bei Zuckersteuer",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-zuckersteuer-thorsten-frei-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T05:20:29+00:00"
-    },
-    {
-      "titel": "Daron Acemoğlu im Interview: „Trump ist der gefährlichste rechte Politiker von allen“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/daron-acemoglu-donald-trump-interview-ki-li.3533339",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T04:00:00+00:00"
     }
   ]
 }
