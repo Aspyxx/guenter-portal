@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-17T18:51:37+00:00",
+  "aktualisiert": "2026-10-17T21:28:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,46 @@
   },
   "meldungen": [
     {
+      "titel": "Frankreich: Historisches Rathaus von Limoges in Flammen",
+      "link": "https://www.spiegel.de/ausland/frankreich-historisches-rathaus-von-limoges-in-flammen-a-d16d7122-f22b-4a62-972b-fec1ae76ca01#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T21:21:00+00:00"
+    },
+    {
+      "titel": "Berlin: Cem Özdemir warnt Grüne vor Koalition mit der Linken in Berlin",
+      "link": "https://www.spiegel.de/politik/berlin-cem-oezdemir-warnt-gruene-vor-koalition-mit-der-linken-in-berlin-a-882b43d2-30f5-469a-aa51-f0bfd166427f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T20:49:00+00:00"
+    },
+    {
+      "titel": "Schweiz: Rätselhafter Tod von Brigitte H. – Ehemann unter Erklärungsdruck",
+      "link": "https://www.spiegel.de/ausland/schweiz-raetselhafter-tod-von-brigitte-h-ehemann-unter-erklaerungsdruck-a-e6dbcd11-abbb-4211-a168-d5397b76da10#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T19:32:00+00:00"
+    },
+    {
       "titel": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
       "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T18:46:07+00:00"
+      "veroeffentlicht": "2026-10-17T19:24:05+00:00"
+    },
+    {
+      "titel": "Frankreich: Schwere Krawalle bei Protesten",
+      "link": "https://www.spiegel.de/ausland/frankreich-schwere-krawalle-bei-protesten-a-c90e5583-a5ef-4125-9992-b8469f4dfa8d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T19:23:00+00:00"
+    },
+    {
+      "titel": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T19:15:16+00:00"
+    },
+    {
+      "titel": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+      "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T19:10:03+00:00"
     },
     {
       "titel": "FC Bayern gegen Leipzig: Herbstblues? Herbststurm!",
@@ -85,24 +121,6 @@
       "veroeffentlicht": "2026-10-17T17:23:00+00:00"
     },
     {
-      "titel": "Linke, SPD und Grüne in Berlin: Jetzt bloß nicht irgendwie radikal wirken",
-      "link": "https://www.spiegel.de/politik/linke-spd-und-gruene-in-berlin-jetzt-bloss-nicht-irgendwie-radikal-wirken-a-ee655362-a767-4399-b4a8-64f12e09c279#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T17:03:00+00:00"
-    },
-    {
-      "titel": "Synthetische Drogen: Die Gefahr von »Baller-Liquids«, »Görke« und Co.",
-      "link": "https://www.spiegel.de/panorama/synthetische-drogen-die-gefahr-von-baller-liquids-goerke-und-co-a-7b7d924d-7816-48ef-bf9d-35df7be83515#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T16:33:00+00:00"
-    },
-    {
-      "titel": "»True Detective« Staffel fünf: Antonio Banderas und Nicolas Cage ermitteln",
-      "link": "https://www.spiegel.de/panorama/leute/true-detective-staffel-fuenf-antonio-banderas-und-nicolas-cage-ermitteln-a-47c2989d-7ccc-4408-9fd6-730b6ff56e6d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T16:31:00+00:00"
-    },
-    {
       "titel": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
       "quelle": "Tagesschau",
@@ -113,24 +131,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-17T16:09:53+00:00"
-    },
-    {
-      "titel": "Oberstdorf: Feuerwehrmann stirbt bei Lauf an Skiflugschanze im Oberallgäu",
-      "link": "https://www.spiegel.de/panorama/oberstdorf-feuerwehrmann-stirbt-bei-lauf-an-skiflugschanze-im-oberallgaeu-a-9ff79f97-fb44-49a0-b6ce-530cf61261e4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T16:05:00+00:00"
-    },
-    {
-      "titel": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T16:02:16+00:00"
-    },
-    {
-      "titel": "Unbekannte feuern auf Wohnhaus und Restaurant in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-koeln-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T15:54:00+00:00"
     },
     {
       "titel": "6. Spieltag der Bundesliga: Elversberg und Augsburg liefern Spektakel, Füllkrug rettet das Bremer Jubiläum",
