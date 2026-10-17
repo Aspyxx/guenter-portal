@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-10-17T21:28:57+00:00",
+  "aktualisiert": "2026-10-17T23:27:49+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "SPD-Frauen werfen Union »Sexismus mit System« vor",
+      "link": "https://www.spiegel.de/politik/spd-frauen-werfen-union-sexismus-mit-system-vor-a-aad9aeac-fc45-4d14-9c4e-4b3422465226#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T22:37:00+00:00"
+    },
+    {
+      "titel": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T22:31:39+00:00"
+    },
     {
       "titel": "Frankreich: Historisches Rathaus von Limoges in Flammen",
       "link": "https://www.spiegel.de/ausland/frankreich-historisches-rathaus-von-limoges-in-flammen-a-d16d7122-f22b-4a62-972b-fec1ae76ca01#ref=rss",
@@ -91,12 +103,6 @@
       "veroeffentlicht": "2026-10-17T17:44:57+00:00"
     },
     {
-      "titel": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T17:40:26+00:00"
-    },
-    {
       "titel": "Donald Trump: US-Republikaner verurteilen Trumps Aussetzung von neuen Russlandsanktionen",
       "link": "https://www.spiegel.de/ausland/donald-trump-us-kongressabgeordnete-verurteilen-trumps-aussetzung-von-neuen-russlandsanktionen-a-7933a7fd-09c5-4bf9-9329-a891e64e9ad7#ref=rss",
       "quelle": "SPIEGEL",
@@ -113,12 +119,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-17T17:26:53+00:00"
-    },
-    {
-      "titel": "Westjordanland: Israelische Siedler greifen Journalistin und Diplomaten an",
-      "link": "https://www.spiegel.de/ausland/westjordanland-israelische-siedler-greifen-journalistin-und-diplomaten-an-a-ee2b08bc-2039-44a6-a8f1-2381a0d5d085#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T17:23:00+00:00"
     },
     {
       "titel": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
