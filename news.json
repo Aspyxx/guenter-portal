@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-17T13:15:10+00:00",
+  "aktualisiert": "2026-10-17T16:39:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,76 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "Dorothee Elmigers »Die Holländerinnen«: Bühnenadaption im Deutschen Theater Berlin",
-      "link": "https://www.spiegel.de/kultur/dorothee-elmigers-die-hollaenderinnen-buehnenadaption-im-deutschen-theater-berlin-a-1ce94116-d4e6-42fb-9fca-499c13fede13#ref=rss",
+      "titel": "Synthetische Drogen: Die Gefahr von »Baller-Liquids«, »Görke« und Co.",
+      "link": "https://www.spiegel.de/panorama/synthetische-drogen-die-gefahr-von-baller-liquids-goerke-und-co-a-7b7d924d-7816-48ef-bf9d-35df7be83515#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T12:57:00+00:00"
+      "veroeffentlicht": "2026-10-17T16:33:00+00:00"
+    },
+    {
+      "titel": "»True Detective« Staffel fünf: Antonio Banderas und Nicolas Cage ermitteln",
+      "link": "https://www.spiegel.de/panorama/leute/true-detective-staffel-fuenf-antonio-banderas-und-nicolas-cage-ermitteln-a-47c2989d-7ccc-4408-9fd6-730b6ff56e6d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T16:31:00+00:00"
+    },
+    {
+      "titel": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T16:14:36+00:00"
+    },
+    {
+      "titel": "Rechtsruck - auch bei Israels linken Parteien?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T16:09:53+00:00"
+    },
+    {
+      "titel": "Oberstdorf: Feuerwehrmann stirbt bei Lauf an Skiflugschanze im Oberallgäu",
+      "link": "https://www.spiegel.de/panorama/oberstdorf-feuerwehrmann-stirbt-bei-lauf-an-skiflugschanze-im-oberallgaeu-a-9ff79f97-fb44-49a0-b6ce-530cf61261e4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T16:05:00+00:00"
+    },
+    {
+      "titel": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T16:02:16+00:00"
+    },
+    {
+      "titel": "Fußball-Bundesliga: Füllkrug-Tore, Werder-Wende und der HSV gewinnt wieder",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-fuellkrug-tore-werder-wende-und-der-hsv-gewinnt-wieder-a-5dbb186f-05be-44e2-ae6c-f823e11209d1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T16:00:00+00:00"
     },
     {
       "titel": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
       "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T12:54:37+00:00"
+      "veroeffentlicht": "2026-10-17T15:58:24+00:00"
     },
     {
-      "titel": "Newsblog zu den Landtagswahlen: Berlin: Linke, Grüne und SPD wollen Koalitionsverhandlungen vorschlagen",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
+      "titel": "Unbekannte feuern auf Wohnhaus und Restaurant in Köln",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-koeln-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T15:54:00+00:00"
+    },
+    {
+      "titel": "6. Spieltag der Bundesliga: Elversberg und Augsburg liefern Spektakel, Füllkrug rettet das Bremer Jubiläum",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-6-spieltag-elversberg-werder-li.3564589",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T12:42:37+00:00"
+      "veroeffentlicht": "2026-10-17T15:52:46+00:00"
     },
     {
-      "titel": "Katie Zacharia als Pressesprecherin im Weißen Haus: Fünf Tage Chaos",
-      "link": "https://www.spiegel.de/ausland/katie-zacharia-als-pressesprecherin-im-weissen-haus-fuenf-tage-chaos-a-3933c8ac-90c2-4976-940a-d8199e086b5a#ref=rss",
+      "titel": "Ukraine: Wolodymyr Selenskyj beklagt anhaltende Drosselung von Starlink in der Ukraine",
+      "link": "https://www.spiegel.de/ausland/urkaine-wolodymyr-selenskyj-beklagt-anhaltende-drosselung-von-starlink-in-der-ukraine-a-8e43cbbd-11bc-4a8a-a33c-1a6a24b6e981#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T12:36:00+00:00"
+      "veroeffentlicht": "2026-10-17T15:51:00+00:00"
     },
     {
-      "titel": "Tanker im Persischen Golf attackiert",
-      "link": "https://www.tagesschau.de/ausland/asien/persischer-golf-tanker-angriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T12:28:17+00:00"
-    },
-    {
-      "titel": "Massenproteste und Demonstrationen in Frankreich: Polizei setzt Tränengas ein",
-      "link": "https://www.spiegel.de/ausland/massenproteste-und-demonstrationen-in-frankreich-polizei-setzt-traenengas-ein-a-4d2744cb-c65e-43cf-9664-c9baee4008f3#ref=rss",
+      "titel": "Modelabel Kitschy Couture: »Pforzheim. Die geilste Stadt der Welt«",
+      "link": "https://www.spiegel.de/panorama/modelabel-kitschy-couture-pforzheim-die-geilste-stadt-der-welt-a-d8dcb0f2-5401-41bd-ab64-8dc401d7df2e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T12:20:00+00:00"
+      "veroeffentlicht": "2026-10-17T15:36:00+00:00"
     },
     {
-      "titel": "Berlin: Linke, SPD und Grüne in Berlin einigen sich auf Koalitionsgespräche",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-spd-und-gruene-in-berlin-einigen-sich-auf-koalitionsgespraeche-a-a770d892-0e3e-4bd7-a65f-3b43c450dff7#ref=rss",
+      "titel": "Donald Trump beim Wahlkampf in Georgia für die Midterms: »Ich unterstütze meinen Präsidenten trotzdem«",
+      "link": "https://www.spiegel.de/ausland/donald-trump-beim-wahlkampf-in-georgia-fuer-die-midterms-ich-unterstuetze-meinen-praesidenten-trotzdem-a-64784bbd-0caa-4275-9d0b-2d75a471e1d7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T12:18:00+00:00"
-    },
-    {
-      "titel": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T12:07:08+00:00"
-    },
-    {
-      "titel": "Waldbrände wüten nahe Los Angeles – Tausende müssen Häuser verlassen",
-      "link": "https://www.spiegel.de/ausland/waldbraende-wueten-nahe-los-angeles-tausende-muessen-haeuser-verlassen-a-41e9d57d-cbf0-4d04-89db-10d819a2404a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T12:04:00+00:00"
-    },
-    {
-      "titel": "Beth Dobbin: Erkrankte Sportlerin spricht über ME/CFS",
-      "link": "https://www.spiegel.de/sport/beth-dobbin-erkrankte-sportlerin-spricht-ueber-me-cfs-a-f0200c06-42cd-4dec-be35-043ee7263995#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T12:03:00+00:00"
+      "veroeffentlicht": "2026-10-17T15:31:00+00:00"
     },
     {
       "titel": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T11:57:58+00:00"
+      "veroeffentlicht": "2026-10-17T15:29:15+00:00"
     },
     {
-      "titel": "Friedrich Merz bei der Jungen Union: Der Kanzler schmeichelt den Rentenrebellen – und muss sich doch harte Worte gefallen lassen",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-der-jungen-union-der-kanzler-schmeichelt-den-rentenrebellen-und-muss-sich-doch-harte-worte-gefallen-lassen-a-efb5200d-4595-46b4-945a-883bbc15e86d#ref=rss",
+      "titel": "Newsblog zu den Landtagswahlen: Berlin: Linke, Grüne und SPD planen Vergesellschaftung von Wohnungen",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-17T15:22:41+00:00"
+    },
+    {
+      "titel": "FC Chelsea: Torwart Martínez nach Kopfzusammenstoß im Krankenhaus",
+      "link": "https://www.spiegel.de/sport/fussball/fc-chelsea-torwart-martinez-nach-kopfzusammenstoss-im-krankenhaus-a-0316956a-9ce9-4bdd-8d82-f709563b3ad7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T11:54:00+00:00"
+      "veroeffentlicht": "2026-10-17T15:10:00+00:00"
+    },
+    {
+      "titel": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T14:53:09+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. ist nach Lungenkrebs-Operation in den Vatikan zurückgekehrt",
+      "link": "https://www.spiegel.de/panorama/papst-leo-xiv-ist-nach-lungenkrebs-operation-in-den-vatikan-zurueckgekehrt-a-eadaaa31-c9f8-424c-b83c-05380b4eb2a0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T14:44:00+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. hat das Krankenhaus nach Lungen-OP verlassen",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T14:29:50+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn: Ich kaufe ein kleines p",
+      "link": "https://www.sueddeutsche.de/kultur/deutsche-bahn-alkoholverbot-bahnhoefe-rechtschreibfehler-evelyn-palla-li.3564973",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-17T14:14:26+00:00"
+    },
+    {
+      "titel": "Zusammenstöße zwischen Polizei und Demonstranten bei Protesten in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T14:04:22+00:00"
+    },
+    {
+      "titel": "Landesversammlung der Freien Wähler: „Hört auf, den ganzen linken Unsinn in Berlin mitzutragen“",
+      "link": "https://www.sueddeutsche.de/bayern/freie-waehler-hubert-aiwanger-landesversammlung-guenzburg-2026-li.3562135",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-17T13:07:12+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Selenskij kritisiert Aussetzung von US-Sanktionen gegen Russland",
@@ -85,52 +145,10 @@
       "veroeffentlicht": "2026-10-17T11:40:00+00:00"
     },
     {
-      "titel": "Münsterland: Verdächtiger des Messerangriffs im Seniorenheim in Olfen saß offenbar im Rollstuhl",
-      "link": "https://www.spiegel.de/panorama/muensterland-verdaechtiger-des-messerangriffs-im-seniorenheim-in-olfen-sass-offenbar-im-rollstuhl-a-427cd452-e8c4-4697-8b9d-d7c57e959cde#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T11:23:00+00:00"
-    },
-    {
-      "titel": "Nach Lungen-OP: Papst kann Klinik verlassen",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T11:13:34+00:00"
-    },
-    {
-      "titel": "Miley Cyrus: Sängerin ehrt Dolly Parton mit bewegender »Jolene«-Hommage",
-      "link": "https://www.spiegel.de/panorama/leute/miley-cyrus-saengerin-ehrt-dolly-parton-mit-bewegender-jolene-hommage-a-83c32169-e6b2-410a-98dd-6d94eed22249#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T11:08:00+00:00"
-    },
-    {
-      "titel": "Steigende Preise für Benzin, Heizöl, Gas - wie teuer wird der Winter?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energie-heizen-winter-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T10:05:01+00:00"
-    },
-    {
-      "titel": "Nach dem Ende des \"Tankrabatts\": Bilger hält weitere Entlastungen für möglich",
-      "link": "https://www.tagesschau.de/inland/bilger-tankrabatt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T09:38:09+00:00"
-    },
-    {
       "titel": "USA: Gesucht: Loyalisten und Jasagerinnen",
       "link": "https://www.sueddeutsche.de/medien/trump-pressesprecherin-zacharia-leavitt-frauen-li.3564855",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-17T09:05:15+00:00"
-    },
-    {
-      "titel": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
-      "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T08:15:08+00:00"
-    },
-    {
-      "titel": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T08:08:36+00:00"
     },
     {
       "titel": "Krieg in Nahost: Iran: Supertanker fährt in Straße von Hormus auf Seemine",
@@ -145,28 +163,10 @@
       "veroeffentlicht": "2026-10-17T05:20:29+00:00"
     },
     {
-      "titel": "Deutschlandtag: Die Junge Union glaubt, der CDU aus der Krise helfen zu können",
-      "link": "https://www.sueddeutsche.de/politik/deutschlandtag-junge-union-bonn-johannes-winkel-hendrik-wuest-li.3564260",
+      "titel": "Daron Acemoğlu im Interview: „Trump ist der gefährlichste rechte Politiker von allen“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/daron-acemoglu-donald-trump-interview-ki-li.3533339",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T20:22:26+00:00"
-    },
-    {
-      "titel": "USA: Trump trennt sich von Katie Zacharia",
-      "link": "https://www.sueddeutsche.de/politik/donald-trump-katie-zacharia-pressesprecherin-weisses-haus-usa-li.3564848",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T19:12:24+00:00"
-    },
-    {
-      "titel": "USA-Newsblog: Medien: Trump trennt sich nach wenigen Tagen von neuer Pressesprecherin",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-sprecherin-zacharia-li.3558046",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T18:24:14+00:00"
-    },
-    {
-      "titel": "EU-Regeln: „Das Verbrenner-Aus ist dann damit Geschichte“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/verbrenner-aus-merz-macron-eu-regeln-automobilindustrie-elektromobilitaet-li.3564320",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-16T15:32:00+00:00"
+      "veroeffentlicht": "2026-10-17T04:00:00+00:00"
     }
   ]
 }
