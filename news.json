@@ -1,11 +1,95 @@
 {
-  "aktualisiert": "2026-10-17T00:30:53+00:00",
+  "aktualisiert": "2026-10-17T05:01:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T04:56:34+00:00"
+    },
+    {
+      "titel": "Katie Zacharia: Gefeuerte Trump-Sprecherin scheitert nach nur fünf Tagen",
+      "link": "https://www.spiegel.de/ausland/katie-zacharia-gefeuerte-trump-sprecherin-scheitert-nach-nur-fuenf-tagen-a-6b40d659-cbaf-41d6-89c2-93b91327deab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T04:55:00+00:00"
+    },
+    {
+      "titel": "Grüne in Berlin: Rot-Rot-Grün entzweit Bundes- und Landespartei",
+      "link": "https://www.spiegel.de/politik/deutschland/gruene-in-berlin-rot-rot-gruen-entzweit-bundes-und-landespartei-a-07a2462f-5ea4-4354-9936-39343fc3d2b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T04:49:00+00:00"
+    },
+    {
+      "titel": "Paris Fashion Week: BHs und sonst nichts – ist das Fortschritt?",
+      "link": "https://www.spiegel.de/stil/paris-fashion-week-bhs-und-sonst-nichts-ist-das-fortschritt-a-ace1e920-89aa-4feb-a3b4-f813fda292c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T04:41:00+00:00"
+    },
+    {
+      "titel": "News: Friedrich Merz, Junge Union, Juden-Deportation vor 85 Jahren, Dieter Dehm verurteilt",
+      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-junge-union-juden-deportation-vor-85-jahren-dieter-dehm-verurteilt-a-cd266a43-6ea0-4bbf-a17a-38bb53e9afbc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T04:41:00+00:00"
+    },
+    {
+      "titel": "Bindungsorientierte Erziehung: »Diese intensive Elternschaft schadet den Erwachsenen«",
+      "link": "https://www.spiegel.de/familie/bindungsorientierte-erziehung-diese-intensive-elternschaft-schadet-den-erwachsenen-a-de37c4a9-f4b2-4ee0-89fb-832f768bdd2b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T03:30:00+00:00"
+    },
+    {
+      "titel": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T03:23:11+00:00"
+    },
+    {
+      "titel": "Donald Trump stoppt geplante Zölle gegen Russland",
+      "link": "https://www.spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T02:59:00+00:00"
+    },
+    {
+      "titel": "Wie sich Bundespolitiker auf Social Media schlagen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T02:39:05+00:00"
+    },
+    {
+      "titel": "Amoklauf an Schule in Oregon: Lehrerin wirft Handy – Familienvater verfolgt ihn",
+      "link": "https://www.spiegel.de/ausland/amoklauf-an-schule-in-oregon-lehrerin-wirft-handy-familienvater-verfolgt-ihn-a-ea855709-bcae-4968-a143-9bc82672b19d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T02:26:00+00:00"
+    },
+    {
+      "titel": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
+      "link": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T01:50:50+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T01:43:26+00:00"
+    },
+    {
+      "titel": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T01:40:59+00:00"
+    },
+    {
+      "titel": "»Rente mit 63«: Arbeitsminister Alexander Schweitzer plädiert für Kompromiss",
+      "link": "https://www.spiegel.de/politik/rente-mit-63-arbeitsminister-alexander-schweitzer-plaediert-fuer-kompromiss-a-9ba88d89-30ba-49e9-9132-1f0e6afe8a4e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-17T01:01:00+00:00"
+    },
     {
       "titel": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html",
@@ -17,12 +101,6 @@
       "link": "https://www.spiegel.de/ausland/us-neuverschuldung-steigt-unter-trump-auf-fuenf-jahres-hoch-a-8b5e7d00-dd28-48ae-aafb-683bec4c834a#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-16T23:59:00+00:00"
-    },
-    {
-      "titel": "Olfen im Münsterland: Eine Tote nach Angriff in Seniorenheim",
-      "link": "https://www.spiegel.de/panorama/olfen-im-muensterland-eine-tote-nach-angriff-in-seniorenheim-a-c4da062c-9b61-4f13-a602-e43977f61976#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T23:18:00+00:00"
     },
     {
       "titel": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
@@ -37,46 +115,10 @@
       "veroeffentlicht": "2026-10-16T21:15:49+00:00"
     },
     {
-      "titel": "Junge Union: Johannes Winkel als Vorsitzender wiedergewählt",
-      "link": "https://www.spiegel.de/politik/junge-union-johannes-winkel-als-vorsitzender-wiedergewaehlt-a-e812c687-9ab5-4364-90d4-17884404663d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T20:16:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: US-Senatoren verlangen Klarheit über Starlink-Drosselung in der Ukraine",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-senatoren-aufklaerung-li.3563283",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-16T19:50:00+00:00"
-    },
-    {
-      "titel": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
-      "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T19:42:41+00:00"
-    },
-    {
-      "titel": "Wales: Abgeordneter Jason O'Connell nutzt offenbar KI-Brille als Teleprompter für seine Rede",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/wales-abgeordneter-jason-oconnell-nutzt-offenbar-ki-brille-als-teleprompter-fuer-seine-rede-a-fdee0fe5-e3a5-4459-b286-9a468ccec674#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T19:33:00+00:00"
-    },
-    {
-      "titel": "Javier Tebas: Real Madrid fordert nach Nazivergleich Rücktritt von Liga-Chef",
-      "link": "https://www.spiegel.de/sport/javier-tebas-real-madrid-fordert-nach-nazivergleich-ruecktritt-von-liga-chef-a-b51395a5-867a-4720-83b1-2285008e74c0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T19:30:00+00:00"
-    },
-    {
-      "titel": "Huthis vs. Saudi-Arabien: So rechtfertigen die Milizen in Jemen ihren Krieg",
-      "link": "https://www.spiegel.de/ausland/huthis-vs-saudi-arabien-so-rechtfertigen-die-milizen-in-jemen-ihren-krieg-a-13987a5a-fba9-4173-99d7-3ef13b9c9fa3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T19:17:00+00:00"
-    },
-    {
-      "titel": "Deutschlandtag der Jungen Union: Jetzt hat Friedrich Merz schon wieder ein JU-Problem",
-      "link": "https://www.spiegel.de/politik/deutschland/deutschlandtag-der-jungen-union-jetzt-hat-friedrich-merz-schon-wieder-ein-ju-problem-a-ca82a0ca-038b-4e5c-a9da-aeedc09067ef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T19:15:00+00:00"
     },
     {
       "titel": "USA: Trump trennt sich von Katie Zacharia",
@@ -85,52 +127,10 @@
       "veroeffentlicht": "2026-10-16T19:12:24+00:00"
     },
     {
-      "titel": "Sean »Diddy« Combs in anderes Gefängnis verlegt – offenbar wegen Prügelei",
-      "link": "https://www.spiegel.de/ausland/sean-diddy-combs-in-anderes-gefaengnis-verlegt-offenbar-wegen-pruegelei-a-9401985a-7fb2-4701-b12e-a70806a48ca3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T19:00:00+00:00"
-    },
-    {
-      "titel": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T18:42:07+00:00"
-    },
-    {
-      "titel": "Berlin: Linken-Vorstand distanziert sich von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/beratungen-vorstand-linksfraktion-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T18:34:40+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV.: Was öffentlich gemachte Diagnosen bewirken",
-      "link": "https://www.spiegel.de/wissenschaft/papst-leo-xiv-was-oeffentlich-gemachte-diagnosen-bewirken-a-ea22a717-0e95-4b37-afc2-a7a63d5f02a4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T18:26:00+00:00"
-    },
-    {
       "titel": "USA-Newsblog: Medien: Trump trennt sich nach wenigen Tagen von neuer Pressesprecherin",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-sprecherin-zacharia-li.3558046",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-16T18:24:14+00:00"
-    },
-    {
-      "titel": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T18:07:15+00:00"
-    },
-    {
-      "titel": "Papst bittet Putin um Waffenruhe in Oleschky",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T17:25:17+00:00"
-    },
-    {
-      "titel": "Angriff auf NS-Dokumentationszentrum in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T17:12:00+00:00"
     },
     {
       "titel": "EU-Regeln: „Das Verbrenner-Aus ist dann damit Geschichte“",
