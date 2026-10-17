@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-10-16T22:06:05+00:00",
+  "aktualisiert": "2026-10-17T00:30:53+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-17T00:05:19+00:00"
+    },
+    {
+      "titel": "US-Neuverschuldung steigt unter Trump auf Fünf-Jahres-Hoch",
+      "link": "https://www.spiegel.de/ausland/us-neuverschuldung-steigt-unter-trump-auf-fuenf-jahres-hoch-a-8b5e7d00-dd28-48ae-aafb-683bec4c834a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T23:59:00+00:00"
+    },
+    {
+      "titel": "Olfen im Münsterland: Eine Tote nach Angriff in Seniorenheim",
+      "link": "https://www.spiegel.de/panorama/olfen-im-muensterland-eine-tote-nach-angriff-in-seniorenheim-a-c4da062c-9b61-4f13-a602-e43977f61976#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-16T23:18:00+00:00"
+    },
+    {
+      "titel": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-16T22:22:52+00:00"
+    },
     {
       "titel": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
@@ -97,18 +121,6 @@
       "veroeffentlicht": "2026-10-16T18:07:15+00:00"
     },
     {
-      "titel": "Sido: Rapper ersteigert Smoking von »großem Vorbild« Harald Juhnke – für 4000 Euro",
-      "link": "https://www.spiegel.de/panorama/leute/sido-rapper-ersteigert-smoking-von-grossem-vorbild-harald-juhnke-fuer-4000-euro-a-c396b110-bf9f-437d-8fd4-167deac30ffd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T17:49:00+00:00"
-    },
-    {
-      "titel": "Tabakindustrie: Wie Konzerne um Macht und Marktanteile ringen",
-      "link": "https://www.spiegel.de/wirtschaft/tabakindustrie-wie-konzerne-um-macht-und-marktanteile-ringen-a-f58b5a59-5787-4f14-a6dc-d71b00262abe#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-16T17:35:00+00:00"
-    },
-    {
       "titel": "Papst bittet Putin um Waffenruhe in Oleschky",
       "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
       "quelle": "Tagesschau",
@@ -119,18 +131,6 @@
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-16T17:12:00+00:00"
-    },
-    {
-      "titel": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
-      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T16:59:07+00:00"
-    },
-    {
-      "titel": "Eurowings streicht Flüge und prüft Kurzarbeit",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-16T16:52:09+00:00"
     },
     {
       "titel": "EU-Regeln: „Das Verbrenner-Aus ist dann damit Geschichte“",
