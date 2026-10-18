@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-18T06:37:08+00:00",
+  "aktualisiert": "2026-10-18T11:44:56+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
+      "titel": "So arbeitet ein Glasbläser: Von der Flamme bis zum Feinschliff",
+      "link": "https://www.spiegel.de/deinspiegel/so-arbeitet-ein-glasblaeser-von-der-flamme-bis-zum-feinschliff-a-17b4b248-28a2-44fd-bc3e-0a4cb3ef7590#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T11:43:00+00:00"
+    },
+    {
+      "titel": "Russland meldet Drohnenangriffe in St. Petersburg",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T11:25:50+00:00"
+    },
+    {
+      "titel": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T11:18:25+00:00"
+    },
+    {
+      "titel": "CSU-Chef Söder fordert bei Junger Union \"Brandmauer nach links\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-junge-union-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T11:17:48+00:00"
+    },
+    {
+      "titel": "Iran: Teheran bestätigt sanktionierten Verteidigungsminister im Amt – Drohungen gegen USA",
+      "link": "https://www.spiegel.de/ausland/iran-teheran-bestaetigt-sanktionierten-verteidigungsminister-im-amt-drohungen-gegen-usa-a-6af76c08-0463-49dc-a7f7-05596fa91251#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T11:17:00+00:00"
+    },
+    {
+      "titel": "Machtwechsel in Ungarn: Der perfekte Sturm",
+      "link": "https://www.sueddeutsche.de/politik/ungarn-machtwechsel-peter-magyar-gergo-papp-der-sturz-orbans-li.3551507",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T11:14:44+00:00"
+    },
+    {
+      "titel": "Energiepreise: Netzentgelte für Strom und Gas steigen 2027 bundesweit leicht",
+      "link": "https://www.spiegel.de/wirtschaft/service/energiepreise-netzentgelte-fuer-strom-und-gas-steigen-2027-bundesweit-leicht-a-652e639f-d708-4994-a432-d8733fe7cf3c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T11:06:00+00:00"
+    },
+    {
+      "titel": "Mailand, Lissabon, Brüssel: Proteste und Krawalle in einigen europäischen Städten",
+      "link": "https://www.spiegel.de/ausland/mailand-lissabon-bruessel-proteste-und-krawalle-in-einigen-europaeischen-staedten-a-50b92679-8c95-4f04-aa8c-c9750e141c89#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T11:00:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Randale und Plünderungen im ganzen Land, Marine Le Pen dürfte profitieren",
+      "link": "https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T10:53:00+00:00"
+    },
+    {
+      "titel": "Future Faking: Wie Sie Flunkerei beim Date und in der Partnerschaft früh erkennen",
+      "link": "https://www.spiegel.de/partnerschaft/future-faking-wie-sie-flunkerei-beim-date-und-in-der-partnerschaft-frueh-erkennen-a-d6de948f-ea77-4c81-94ee-2964a33e5f38#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T10:39:00+00:00"
+    },
+    {
+      "titel": "Tanken: Kommt nach der Verbrenner-Einigung jetzt der E20-Kraftstoff?",
+      "link": "https://www.spiegel.de/wirtschaft/service/tanken-kommt-nach-der-verbrenner-einigung-jetzt-der-e20-kraftstoff-a-59308fec-9a9a-4209-bcb0-1edaff28eeb1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T10:25:00+00:00"
+    },
+    {
+      "titel": "Welche Zahl fehlt? - Rätsel der Woche",
+      "link": "https://www.spiegel.de/karriere/welche-zahl-fehlt-raetsel-der-woche-a-daf272f6-290c-445f-b73c-41983ea6f3fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T10:20:00+00:00"
+    },
+    {
+      "titel": "Helene Fischer kündigt neues Album für 2026 an: Vielleicht sogar ein bisschen »provokativ«",
+      "link": "https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T10:15:00+00:00"
+    },
+    {
+      "titel": "Dortmund gegen Union Berlin: Ein Spiel wie eine neunzigminütige Karambolage",
+      "link": "https://www.sueddeutsche.de/sport/borussia-dortmund-union-berlin-bundesliga-anton-kovac-li.3565233",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T10:10:19+00:00"
+    },
+    {
+      "titel": "Leute: Im Smoking seines Vorbildes",
+      "link": "https://www.sueddeutsche.de/panorama/promi-news-sido-smoking-harald-juhnke-li.3565238",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T10:06:45+00:00"
+    },
+    {
+      "titel": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T10:03:43+00:00"
+    },
+    {
+      "titel": "Wie die Lausitz den Ärztemangel in den Griff bekommen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheit-aerztemangel-brandenburg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T09:36:32+00:00"
+    },
+    {
+      "titel": "Bank-Panne: Gummibärchen statt Sportwagen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/gummibaerchen-bank-120-000-euro-salzburg-li.3564806",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T09:07:34+00:00"
+    },
+    {
+      "titel": "Unbekannte feuern auf Wohnhaus und Restaurant in Köln",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-koeln-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T08:50:00+00:00"
+    },
+    {
+      "titel": "Grüne: „Lasst die Finger von denen!“",
+      "link": "https://www.sueddeutsche.de/politik/cem-oezdemir-gruene-antisemitismus-linke-baden-wuerttemberg-berlin-li.3564172",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T08:45:02+00:00"
+    },
+    {
+      "titel": "Frankreich: Diese Gewaltexzesse nützen nur den extremen Parteien",
+      "link": "https://www.sueddeutsche.de/meinung/frankreich-demonstrationen-gewalt-chaos-regierung-marine-lepen-jean-luc-melenchon-li.3565224",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T08:28:35+00:00"
+    },
+    {
+      "titel": "Theater: Es kommen kalte Zeiten",
+      "link": "https://www.sueddeutsche.de/kultur/jugend-ohne-gott-muenchner-kammerspiele-theater-oedoen-von-horvath-felicitas-brucker-li.3562856",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T08:19:09+00:00"
+    },
+    {
+      "titel": "Werder Bremen: Niclas Füllkrug, der Bessermacher",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-werder-bremen-fuellkrug-paderborn-nationalmannschaft-weserstadion-li.3564841",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T07:23:59+00:00"
+    },
+    {
+      "titel": "Protestbewegung: Eskalierte Gewalt schockiert in Frankreich",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-proteste-gewalt-emmanuel-macron-reaktion-li.3565219",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T07:03:34+00:00"
+    },
+    {
+      "titel": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
+      "link": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T06:48:59+00:00"
+    },
+    {
       "titel": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
       "link": "https://www.tagesschau.de/kultur/wechseljahre-am-arbeitsplatz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-18T06:25:03+00:00"
     },
     {
-      "titel": "Phobos: Europäisch-japanische Mission MMX erforscht geheimnisvollen Marsmond",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond-a-9fffa587-79a6-43d7-98d6-3a8a3724ed4e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T06:19:00+00:00"
-    },
-    {
-      "titel": "Kostenlose Schwimmkurse für ältere Kinder und Jugendliche in Berlin: Ganz in ihrem Element",
-      "link": "https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element-a-4f48bb55-6f66-4752-94b2-5eda27bee813#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T06:15:00+00:00"
-    },
-    {
-      "titel": "Leipzig/Halle: Zwischenfall am Flughafen – Betrieb eingeschränkt",
-      "link": "https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T06:03:00+00:00"
-    },
-    {
-      "titel": "Bevölkerung in Deutschland: So hat sich die Einwohnerzahl in Ihrem Ort seit 1871 verändert",
-      "link": "https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T05:39:00+00:00"
-    },
-    {
-      "titel": "USA: Landesweite »No Kings«-Proteste vor Midtermwahlen",
-      "link": "https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T05:29:00+00:00"
-    },
-    {
-      "titel": "Armutsbekämpfung: Warum gute Nachrichten zur globalen Armut oft überhört werden",
-      "link": "https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden-a-76f518b9-56cf-43fb-ada9-4b8af445b183#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T05:00:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Eine Liebesgeschichte mitten im Krieg – die guten News der Woche",
-      "link": "https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche-a-a16558a9-6782-425e-b125-a4edac240c81#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T04:58:00+00:00"
-    },
-    {
-      "titel": "Pilze suchen im deutschen Herbst: Der Angriff der falschen Rotkappen",
-      "link": "https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen-a-7c201642-bc66-4a4b-b0a3-1b093f0468f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T04:52:00+00:00"
-    },
-    {
-      "titel": "Holocaust und Kolonialverbrechen: Neue Ausstellung im Deutschen Historischen Museum in Berlin",
-      "link": "https://www.spiegel.de/kultur/holocaust-und-kolonialverbrechen-neue-ausstellung-im-deutschen-historischen-museum-in-berlin-a-a8e25c3c-8918-4f06-985e-45da1eb72cfc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T04:32:00+00:00"
-    },
-    {
-      "titel": "Krieg in Nahost: Saudi-Arabien fängt ballistische Raketen und Drohnen aus Jemen ab",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-huthi-saudi-arabien-drohnen-raketen-li.3560260",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-18T01:39:11+00:00"
-    },
-    {
       "titel": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-17T22:31:39+00:00"
-    },
-    {
-      "titel": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T19:24:05+00:00"
-    },
-    {
-      "titel": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T19:15:16+00:00"
-    },
-    {
-      "titel": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-      "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T19:10:03+00:00"
-    },
-    {
-      "titel": "FC Bayern gegen Leipzig: Herbstblues? Herbststurm!",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-bundesliga-debakel-li.3564598",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T18:42:42+00:00"
-    },
-    {
-      "titel": "Einzelkritik FC Bayern: Luis Díaz spielt Jo-Jo mit RB Leipzig",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-einzelkritik-li.3564600",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T18:33:03+00:00"
-    },
-    {
-      "titel": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T18:09:16+00:00"
-    },
-    {
-      "titel": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T17:44:57+00:00"
-    },
-    {
-      "titel": "Berlin: Linke, Grüne und SPD wollen vergesellschaften – aber anders als gedacht",
-      "link": "https://www.sueddeutsche.de/politik/berlin-vergesellschaftung-linke-gruene-spd-koalition-li.3565059",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T17:29:57+00:00"
-    },
-    {
-      "titel": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T17:26:53+00:00"
-    },
-    {
-      "titel": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T16:14:36+00:00"
-    },
-    {
-      "titel": "6. Spieltag der Bundesliga: Elversberg und Augsburg liefern Spektakel, Füllkrug rettet das Bremer Jubiläum",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-fussball-6-spieltag-elversberg-werder-li.3564589",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T15:52:46+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Berlin: Linke, Grüne und SPD planen Vergesellschaftung von Wohnungen",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T15:22:41+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn: Ich kaufe ein kleines p",
-      "link": "https://www.sueddeutsche.de/kultur/deutsche-bahn-alkoholverbot-bahnhoefe-rechtschreibfehler-evelyn-palla-li.3564973",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T14:14:26+00:00"
-    },
-    {
-      "titel": "Landesversammlung der Freien Wähler: „Hört auf, den ganzen linken Unsinn in Berlin mitzutragen“",
-      "link": "https://www.sueddeutsche.de/bayern/freie-waehler-hubert-aiwanger-landesversammlung-guenzburg-2026-li.3562135",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T13:07:12+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Selenskij kritisiert Aussetzung von US-Sanktionen gegen Russland",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-sanktionen-russland-li.3563283",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T11:40:00+00:00"
     }
   ]
 }
