@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-18T14:52:53+00:00",
+  "aktualisiert": "2026-10-18T18:08:07+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,100 @@
   },
   "meldungen": [
     {
+      "titel": "Krieg in der Ukraine: Selenskij: USA liefern Ukraine wieder Geheimdienstdaten",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-geheimdienstdaten-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T17:56:18+00:00"
+    },
+    {
+      "titel": "Frankreich: Die Gewalt ist hausgemacht – Kommentar",
+      "link": "https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar-a-51c264d3-adde-4de5-8d11-2d29b6552ddb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T17:51:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Heil deutet Kandidatur für SPD-Vorsitz im Januar an",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-vorsitz-hubertus-heil-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T17:44:27+00:00"
+    },
+    {
+      "titel": "Kanada: Vier Menschen bei Feuer auf Militärbasis gestorben",
+      "link": "https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben-a-b02dfcac-97d6-4551-9b3e-6583ad1a1126#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T17:44:00+00:00"
+    },
+    {
+      "titel": "Borussia Mönchengladbach verliert auch gegen Hoffenheim: Null Punkte, Trainerwechsel ohne Wirkung",
+      "link": "https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung-a-29a48117-575a-4bca-8972-c4a51d56e67b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T17:34:00+00:00"
+    },
+    {
+      "titel": "Bundesliga: Leverkusen beendet Freiburgs Höhenflug",
+      "link": "https://www.sueddeutsche.de/sport/leverkusen-stoppt-mit-einem-2-1-sieg-freiburgs-hoehenflug-li.3565423",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T17:32:36+00:00"
+    },
+    {
+      "titel": "Ecuador: Katholischer Priester bei Messe von Kreuz erschlagen",
+      "link": "https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen-a-20df0e2b-d9b8-4f95-be3c-e8644185347b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T17:25:00+00:00"
+    },
+    {
+      "titel": "USA drohen Europa wegen Starlink-Beschränkungen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T17:19:00+00:00"
+    },
+    {
+      "titel": "Eintracht Frankfurt: Trennung von Sportchef Markus Krösche nach Erfolgsjahren",
+      "link": "https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T17:10:00+00:00"
+    },
+    {
+      "titel": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
+      "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T16:48:09+00:00"
+    },
+    {
+      "titel": "Frankreich: Neue Ausschreitungen in Paris – Polizei setzt Tränengas ein",
+      "link": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T16:43:00+00:00"
+    },
+    {
+      "titel": "Rechtsextremismus: Unterwegs in der Welt der »Reichsbürger« – Staatsschützer warnen vor einflussreichem »Ewigen Bund« – SPIEGEL TV",
+      "link": "https://www.spiegel.de/politik/rechtsextremismus-unterwegs-in-der-welt-der-reichsbuerger-staatsschuetzer-warnen-vor-einflussreichem-ewigen-bund-spiegel-tv-a-55096f92-1edf-4a6a-b68b-eb57e6d01f63#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T16:35:00+00:00"
+    },
+    {
+      "titel": "Wahl in Israel: Donald Trump wirbt für Benjamin Netanyahu",
+      "link": "https://www.spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu-a-020c7732-ceb5-49fc-b37b-b0efef690e2b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T16:35:00+00:00"
+    },
+    {
+      "titel": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
+      "link": "https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T16:13:24+00:00"
+    },
+    {
+      "titel": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T15:18:33+00:00"
+    },
+    {
       "titel": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-18T14:46:25+00:00"
-    },
-    {
-      "titel": "Westjordanland: EU fordert Konsequenzen nach Angriff auf Diplomatenkonvoi",
-      "link": "https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi-a-68da6950-51ae-4718-8999-5f1ce64f0f93#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T14:40:00+00:00"
-    },
-    {
-      "titel": "Hitzewallungen: Was gegen Wechseljahrsbeschwerden hilft – neueste Erkenntnisse",
-      "link": "https://www.spiegel.de/gesundheit/hitzewallungen-was-gegen-wechseljahrsbeschwerden-hilft-neueste-erkenntnisse-a-4388bda5-9247-4114-a45f-3724da80aeb9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T14:34:00+00:00"
-    },
-    {
-      "titel": "Repaircafé Eberswalde: Reparatur als »Glücksmoment, wie wenn ein dicker Fisch anbeißt«",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/repaircafe-eberswalde-reparatur-als-gluecksmoment-wie-wenn-ein-dicker-fisch-anbeisst-a-e8157a75-f8df-475c-b635-a42c9e9ede4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T14:33:00+00:00"
     },
     {
       "titel": "Gewalt bei Protesten beschäftigt auch Italien",
@@ -37,46 +109,10 @@
       "veroeffentlicht": "2026-10-18T14:27:58+00:00"
     },
     {
-      "titel": "Linke, Grüne, SPD in Berlin: Berliner Regierungsbildung belastet Koalition im Bund",
-      "link": "https://www.spiegel.de/politik/deutschland/linke-gruene-spd-in-berlin-berliner-regierungsbildung-belastet-koalition-im-bund-a-1d1b140e-8135-44aa-802f-c07721ff4339#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T14:10:00+00:00"
-    },
-    {
       "titel": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-18T13:56:51+00:00"
-    },
-    {
-      "titel": "Fußball in Hamburg: Spieler aus Ghana in Finnland wegen Vergewaltigung verurteilt, Empörung in der Bezirksliga",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-in-hamburg-spieler-aus-ghana-in-finnland-wegen-vergewaltigung-verurteilt-empoerung-in-der-bezirksliga-a-a84b30ec-7f35-4ec3-bce8-ea37db25cc4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T13:52:00+00:00"
-    },
-    {
-      "titel": "»Tatort« heute aus Kiel: »Unter Feinden« im Schnellcheck",
-      "link": "https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-unter-feinden-im-schnellcheck-a-b5992628-ca6b-4994-9cad-44db1f1f9b89#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T13:49:00+00:00"
-    },
-    {
-      "titel": "Sankt Petersburg: Aufnahmen zeigen Brände nach Drohnenangriffen",
-      "link": "https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen-a-be0c7667-478f-4878-91ea-e6a9a72749b3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T13:42:00+00:00"
-    },
-    {
-      "titel": "Türkei: Energieminister plant Dieselimporte aus dem Deal zwischen den USA und Russland",
-      "link": "https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T13:33:00+00:00"
-    },
-    {
-      "titel": "Taiwan: Küstenwache drängt 16 chinesische Schiffe zurück",
-      "link": "https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck-a-8c850e18-5875-4f4c-a0d5-f5fe6a2bfea6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T13:26:00+00:00"
     },
     {
       "titel": "Junge Union: Und plötzlich verlangt einer den Rücktritt des Kanzlers",
@@ -121,24 +157,6 @@
       "veroeffentlicht": "2026-10-18T12:07:31+00:00"
     },
     {
-      "titel": "Russland und Japan: In Handschellen direkt nach Moskau",
-      "link": "https://www.sueddeutsche.de/politik/japan-journalist-spionage-russland-festnahme-li.3564564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-18T12:05:00+00:00"
-    },
-    {
-      "titel": "Berlin: Das Feindbild von Rot-Grün-Rot belastet nur",
-      "link": "https://www.sueddeutsche.de/meinung/berlin-sondierung-spd-linke-gruene-cdu-li.3565290",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-18T12:03:41+00:00"
-    },
-    {
-      "titel": "Hunger als Waffe: Nagende Gewalt",
-      "link": "https://www.sueddeutsche.de/politik/hunger-kriegswaffe-nahrungsentzug-zweiter-weltkrieg-gaza-chronogewalt-li.3551480",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-18T12:03:14+00:00"
-    },
-    {
       "titel": "Russland meldet Drohnenangriffe in St. Petersburg",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html",
       "quelle": "Tagesschau",
@@ -149,24 +167,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-18T11:51:17+00:00"
-    },
-    {
-      "titel": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T11:18:25+00:00"
-    },
-    {
-      "titel": "CSU-Chef Söder fordert bei Junger Union \"Brandmauer nach links\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-junge-union-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T11:17:48+00:00"
-    },
-    {
-      "titel": "Wie die Lausitz den Ärztemangel in den Griff bekommen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheit-aerztemangel-brandenburg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T09:36:32+00:00"
     }
   ]
 }
