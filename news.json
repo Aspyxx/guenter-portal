@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-18T01:33:15+00:00",
+  "aktualisiert": "2026-10-18T06:37:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,70 @@
   },
   "meldungen": [
     {
-      "titel": "Florida: Alligator greift Mann in Winter Garden an und verletzt ihn tödlich",
-      "link": "https://www.spiegel.de/panorama/florida-alligator-greift-mann-in-winter-garden-an-und-verletzt-ihn-toedlich-a-e26e7155-3e01-4e63-835b-df01b6e386e0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T00:11:00+00:00"
+      "titel": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
+      "link": "https://www.tagesschau.de/kultur/wechseljahre-am-arbeitsplatz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T06:25:03+00:00"
     },
     {
-      "titel": "SPD-Frauen werfen Union »Sexismus mit System« vor",
-      "link": "https://www.spiegel.de/politik/spd-frauen-werfen-union-sexismus-mit-system-vor-a-aad9aeac-fc45-4d14-9c4e-4b3422465226#ref=rss",
+      "titel": "Phobos: Europäisch-japanische Mission MMX erforscht geheimnisvollen Marsmond",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/phobos-europaeisch-japanische-mission-mmx-erforscht-geheimnisvollen-marsmond-a-9fffa587-79a6-43d7-98d6-3a8a3724ed4e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T22:37:00+00:00"
+      "veroeffentlicht": "2026-10-18T06:19:00+00:00"
+    },
+    {
+      "titel": "Kostenlose Schwimmkurse für ältere Kinder und Jugendliche in Berlin: Ganz in ihrem Element",
+      "link": "https://www.spiegel.de/panorama/kostenlose-schwimmkurse-fuer-aeltere-kinder-und-jugendliche-in-berlin-ganz-in-ihrem-element-a-4f48bb55-6f66-4752-94b2-5eda27bee813#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T06:15:00+00:00"
+    },
+    {
+      "titel": "Leipzig/Halle: Zwischenfall am Flughafen – Betrieb eingeschränkt",
+      "link": "https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T06:03:00+00:00"
+    },
+    {
+      "titel": "Bevölkerung in Deutschland: So hat sich die Einwohnerzahl in Ihrem Ort seit 1871 verändert",
+      "link": "https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T05:39:00+00:00"
+    },
+    {
+      "titel": "USA: Landesweite »No Kings«-Proteste vor Midtermwahlen",
+      "link": "https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T05:29:00+00:00"
+    },
+    {
+      "titel": "Armutsbekämpfung: Warum gute Nachrichten zur globalen Armut oft überhört werden",
+      "link": "https://www.spiegel.de/panorama/armutsbekaempfung-warum-gute-nachrichten-zur-globalen-armut-oft-ueberhoert-werden-a-76f518b9-56cf-43fb-ada9-4b8af445b183#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T05:00:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Eine Liebesgeschichte mitten im Krieg – die guten News der Woche",
+      "link": "https://www.spiegel.de/ausland/ukraine-eine-liebesgeschichte-mitten-im-krieg-die-guten-news-der-woche-a-a16558a9-6782-425e-b125-a4edac240c81#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T04:58:00+00:00"
+    },
+    {
+      "titel": "Pilze suchen im deutschen Herbst: Der Angriff der falschen Rotkappen",
+      "link": "https://www.spiegel.de/panorama/pilze-suchen-im-deutschen-herbst-der-angriff-der-falschen-rotkappen-a-7c201642-bc66-4a4b-b0a3-1b093f0468f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T04:52:00+00:00"
+    },
+    {
+      "titel": "Holocaust und Kolonialverbrechen: Neue Ausstellung im Deutschen Historischen Museum in Berlin",
+      "link": "https://www.spiegel.de/kultur/holocaust-und-kolonialverbrechen-neue-ausstellung-im-deutschen-historischen-museum-in-berlin-a-a8e25c3c-8918-4f06-985e-45da1eb72cfc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T04:32:00+00:00"
+    },
+    {
+      "titel": "Krieg in Nahost: Saudi-Arabien fängt ballistische Raketen und Drohnen aus Jemen ab",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-huthi-saudi-arabien-drohnen-raketen-li.3560260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T01:39:11+00:00"
     },
     {
       "titel": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
@@ -25,34 +79,10 @@
       "veroeffentlicht": "2026-10-17T22:31:39+00:00"
     },
     {
-      "titel": "Frankreich: Historisches Rathaus von Limoges in Flammen",
-      "link": "https://www.spiegel.de/ausland/frankreich-historisches-rathaus-von-limoges-in-flammen-a-d16d7122-f22b-4a62-972b-fec1ae76ca01#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T21:21:00+00:00"
-    },
-    {
-      "titel": "Berlin: Cem Özdemir warnt Grüne vor Koalition mit der Linken in Berlin",
-      "link": "https://www.spiegel.de/politik/berlin-cem-oezdemir-warnt-gruene-vor-koalition-mit-der-linken-in-berlin-a-882b43d2-30f5-469a-aa51-f0bfd166427f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T20:49:00+00:00"
-    },
-    {
-      "titel": "Schweiz: Rätselhafter Tod von Brigitte H. – Ehemann unter Erklärungsdruck",
-      "link": "https://www.spiegel.de/ausland/schweiz-raetselhafter-tod-von-brigitte-h-ehemann-unter-erklaerungsdruck-a-e6dbcd11-abbb-4211-a168-d5397b76da10#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T19:32:00+00:00"
-    },
-    {
       "titel": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
       "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-17T19:24:05+00:00"
-    },
-    {
-      "titel": "Frankreich: Schwere Krawalle bei Protesten",
-      "link": "https://www.spiegel.de/ausland/frankreich-schwere-krawalle-bei-protesten-a-c90e5583-a5ef-4125-9992-b8469f4dfa8d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T19:23:00+00:00"
     },
     {
       "titel": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
@@ -73,28 +103,10 @@
       "veroeffentlicht": "2026-10-17T18:42:42+00:00"
     },
     {
-      "titel": "Bundesliga: FC Bayern München überrollt RB Leipzig nach Díaz-Hattrick",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberrollt-rb-leipzig-nach-diaz-hattrick-a-db939cd6-af71-4a5a-9f99-021b862c622a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T18:38:00+00:00"
-    },
-    {
       "titel": "Einzelkritik FC Bayern: Luis Díaz spielt Jo-Jo mit RB Leipzig",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-einzelkritik-li.3564600",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-17T18:33:03+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz – Deutscher Kulturrat zu KI: »Das ist eine Schönfärberei, wie ich sie noch nie erlebt habe«",
-      "link": "https://www.spiegel.de/kultur/kuenstliche-intelligenz-deutscher-kulturrat-zu-ki-das-ist-eine-schoenfaerberei-wie-ich-sie-noch-nie-erlebt-habe-a-cfe653ae-b09c-4158-b36c-3543e24aec66#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T18:16:00+00:00"
-    },
-    {
-      "titel": "Ökonom Georg Cremer über Gerechtigkeit: »Wir sind doch nicht die Kunden eines Lieferando-Staats«",
-      "link": "https://www.spiegel.de/wirtschaft/oekonom-georg-cremer-ueber-gerechtigkeit-wir-sind-doch-nicht-die-kunden-eines-lieferando-staats-a-7a33129b-6166-440b-a3cf-cd1c5d13d497#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T18:11:00+00:00"
     },
     {
       "titel": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
@@ -109,7 +121,7 @@
       "veroeffentlicht": "2026-10-17T17:44:57+00:00"
     },
     {
-      "titel": "Berlin: Linke, Grüne und SPD wollen vergesellschaften - aber anders als gedacht",
+      "titel": "Berlin: Linke, Grüne und SPD wollen vergesellschaften – aber anders als gedacht",
       "link": "https://www.sueddeutsche.de/politik/berlin-vergesellschaftung-linke-gruene-spd-koalition-li.3565059",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-17T17:29:57+00:00"
@@ -125,12 +137,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-17T16:14:36+00:00"
-    },
-    {
-      "titel": "Rechtsruck - auch bei Israels linken Parteien?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-17T16:09:53+00:00"
     },
     {
       "titel": "6. Spieltag der Bundesliga: Elversberg und Augsburg liefern Spektakel, Füllkrug rettet das Bremer Jubiläum",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-sanktionen-russland-li.3563283",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-17T11:40:00+00:00"
-    },
-    {
-      "titel": "USA: Gesucht: Loyalisten und Jasagerinnen",
-      "link": "https://www.sueddeutsche.de/medien/trump-pressesprecherin-zacharia-leavitt-frauen-li.3564855",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-17T09:05:15+00:00"
     }
   ]
 }
