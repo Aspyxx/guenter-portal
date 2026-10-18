@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-18T21:57:53+00:00",
+  "aktualisiert": "2026-10-18T23:51:46+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Können die Republikaner wieder bei Latinos punkten?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
-      "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
+      "titel": "Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
