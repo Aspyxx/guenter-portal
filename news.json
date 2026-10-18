@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-18T18:08:07+00:00",
+  "aktualisiert": "2026-10-18T20:46:57+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,34 +7,106 @@
   },
   "meldungen": [
     {
+      "titel": "Proteste in Frankreich: Auswärtiges Amt ruft zu »umsichtigem« Verhalten auf",
+      "link": "https://www.spiegel.de/ausland/proteste-in-frankreich-auswaertiges-amt-ruft-zu-umsichtigem-verhalten-auf-a-5692059a-a19f-44a6-8bc8-dd50ad7aa26d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T20:44:00+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn: ICE-Lokführer vergisst, in Fulda anzuhalten",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-ice-lokfuehrer-vergisst-in-fulda-anzuhalten-a-ee8a3735-e4bb-4862-9032-48d6652561a6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T20:01:00+00:00"
+    },
+    {
+      "titel": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T19:46:21+00:00"
+    },
+    {
+      "titel": "Russland: Warum Aufstände in der Geschichte so oft scheiterten und was das für heute bedeutet",
+      "link": "https://www.spiegel.de/geschichte/geschichte-des-widerstands-in-russland-warum-aufstaende-scheiterten-aber-nicht-folgenlos-blieben-a-046073b7-07d8-4817-8226-fd1eab05c45f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T19:26:00+00:00"
+    },
+    {
+      "titel": "Barack Obama wirft Regierung von Donald Trump Einschüchterungsversuche vor",
+      "link": "https://www.spiegel.de/ausland/barack-obama-wirft-regierung-von-donald-trump-einschuechterungsversuche-vor-a-80856545-63c4-4a08-92e2-7997f77a54c8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T19:20:00+00:00"
+    },
+    {
+      "titel": "Unruhen in Frankreich: Macron verurteilt die Gewalt – verspricht aber nichts",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-ausschreitungen-macron-rede-li.3565440",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T19:15:18+00:00"
+    },
+    {
+      "titel": "Nina Hoss: Wie hat es die Schauspielerin bis nach Hollywood geschafft?",
+      "link": "https://www.spiegel.de/kultur/kino/nina-hoss-wie-hat-es-die-schauspielerin-bis-nach-hollywood-geschafft-a-87010262-04f2-44a7-9888-e5bca87fda2d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T19:08:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Emmanuel Macron verurteilt Gewalt bei Protesten",
+      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-verurteilt-gewalt-bei-protesten-a-f173f5a3-afa9-4d8a-848c-b5a7f870b24c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T19:06:00+00:00"
+    },
+    {
+      "titel": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T19:00:53+00:00"
+    },
+    {
+      "titel": "Mallorca: Höchste Sturmwarnung für Baleareninsel ausgerufen",
+      "link": "https://www.spiegel.de/ausland/mallorca-hoechste-sturmwarnung-fuer-baleareninsel-ausgerufen-a-e4318c01-6ad7-4e03-8859-8482b32fde6c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T18:49:00+00:00"
+    },
+    {
+      "titel": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T18:45:27+00:00"
+    },
+    {
+      "titel": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T18:32:34+00:00"
+    },
+    {
+      "titel": "Rot-Grün-Rot in Berlin: SPD-Bundestagsabgeordnete rebellieren gegen Linksbündnis",
+      "link": "https://www.sueddeutsche.de/politik/berlin-spd-linkspartei-krach-li.3565442",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T18:27:13+00:00"
+    },
+    {
+      "titel": "Hubertus Heil erwägt Kandidatur für SPD-Vorsitz",
+      "link": "https://www.spiegel.de/politik/hubertus-heil-erwaegt-kandidatur-fuer-spd-vorsitz-a-ce9a0408-c813-4535-b057-d5c71ff5cb5f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T18:27:00+00:00"
+    },
+    {
+      "titel": "Margit und Andreas Funk geben nach zwölf Jahren ihre gemeinsame Pfarrstelle auf",
+      "link": "https://www.spiegel.de/kultur/margit-und-andreas-funk-geben-nach-zwoelf-jahren-ihre-gemeinsame-pfarrstelle-auf-a-12be3632-1068-4002-b1a1-c9c5aaf9db66#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T18:05:00+00:00"
+    },
+    {
       "titel": "Krieg in der Ukraine: Selenskij: USA liefern Ukraine wieder Geheimdienstdaten",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-geheimdienstdaten-li.3563283",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-18T17:56:18+00:00"
     },
     {
-      "titel": "Frankreich: Die Gewalt ist hausgemacht – Kommentar",
-      "link": "https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar-a-51c264d3-adde-4de5-8d11-2d29b6552ddb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T17:51:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Heil deutet Kandidatur für SPD-Vorsitz im Januar an",
+      "titel": "Newsblog zur Bundespolitik: Hubertus Heil schließt Kandidatur für SPD-Vorsitz nicht aus",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-vorsitz-hubertus-heil-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-18T17:44:27+00:00"
-    },
-    {
-      "titel": "Kanada: Vier Menschen bei Feuer auf Militärbasis gestorben",
-      "link": "https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben-a-b02dfcac-97d6-4551-9b3e-6583ad1a1126#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T17:44:00+00:00"
-    },
-    {
-      "titel": "Borussia Mönchengladbach verliert auch gegen Hoffenheim: Null Punkte, Trainerwechsel ohne Wirkung",
-      "link": "https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung-a-29a48117-575a-4bca-8972-c4a51d56e67b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T17:34:00+00:00"
     },
     {
       "titel": "Bundesliga: Leverkusen beendet Freiburgs Höhenflug",
@@ -43,46 +115,10 @@
       "veroeffentlicht": "2026-10-18T17:32:36+00:00"
     },
     {
-      "titel": "Ecuador: Katholischer Priester bei Messe von Kreuz erschlagen",
-      "link": "https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen-a-20df0e2b-d9b8-4f95-be3c-e8644185347b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T17:25:00+00:00"
-    },
-    {
-      "titel": "USA drohen Europa wegen Starlink-Beschränkungen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T17:19:00+00:00"
-    },
-    {
-      "titel": "Eintracht Frankfurt: Trennung von Sportchef Markus Krösche nach Erfolgsjahren",
-      "link": "https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T17:10:00+00:00"
-    },
-    {
       "titel": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
       "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-18T16:48:09+00:00"
-    },
-    {
-      "titel": "Frankreich: Neue Ausschreitungen in Paris – Polizei setzt Tränengas ein",
-      "link": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T16:43:00+00:00"
-    },
-    {
-      "titel": "Rechtsextremismus: Unterwegs in der Welt der »Reichsbürger« – Staatsschützer warnen vor einflussreichem »Ewigen Bund« – SPIEGEL TV",
-      "link": "https://www.spiegel.de/politik/rechtsextremismus-unterwegs-in-der-welt-der-reichsbuerger-staatsschuetzer-warnen-vor-einflussreichem-ewigen-bund-spiegel-tv-a-55096f92-1edf-4a6a-b68b-eb57e6d01f63#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T16:35:00+00:00"
-    },
-    {
-      "titel": "Wahl in Israel: Donald Trump wirbt für Benjamin Netanyahu",
-      "link": "https://www.spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu-a-020c7732-ceb5-49fc-b37b-b0efef690e2b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T16:35:00+00:00"
     },
     {
       "titel": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
@@ -109,12 +145,6 @@
       "veroeffentlicht": "2026-10-18T14:27:58+00:00"
     },
     {
-      "titel": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T13:56:51+00:00"
-    },
-    {
       "titel": "Junge Union: Und plötzlich verlangt einer den Rücktritt des Kanzlers",
       "link": "https://www.sueddeutsche.de/politik/junge-union-deutschlandtag-2026-bonn-friedrich-merz-ruecktritt-li.3564586",
       "quelle": "Süddeutsche",
@@ -137,36 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/kommentar-deutschlandtag-junge-union-friedrich-merz-johannes-winkel-li.3564179",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-18T12:31:32+00:00"
-    },
-    {
-      "titel": "Schienennetz: Ausbau-Vorhaben der Bahn könnten 30 Jahre brauchen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/schienennetz-deutsche-bahn-ausbau-verkehrspolitik-infrastruktur-li.3564245",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-18T12:28:25+00:00"
-    },
-    {
-      "titel": "VfB Stuttgart: Eine Spitzenmannschaft zu werden, ist schwer. Eine zu bleiben, noch schwerer",
-      "link": "https://www.sueddeutsche.de/sport/vfb-stuttgart-hamburger-sv-fehlstart-bundesliga-kommentar-li.3565285",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-18T12:17:03+00:00"
-    },
-    {
-      "titel": "Jubel bei erstem öffentlichen Papst-Auftritt nach OP",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-angelus-gebet-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T12:07:31+00:00"
-    },
-    {
-      "titel": "Russland meldet Drohnenangriffe in St. Petersburg",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T11:55:25+00:00"
-    },
-    {
-      "titel": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T11:51:17+00:00"
     }
   ]
 }
