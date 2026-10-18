@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-18T17:40:34+00:00",
+  "aktualisiert": "2026-10-18T19:44:07+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Können die Republikaner wieder bei Latinos punkten?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
       "link": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Gewalt bei Protesten beschäftigt auch Italien",
       "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Streaming Media",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
