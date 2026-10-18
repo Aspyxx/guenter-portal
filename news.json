@@ -1,11 +1,17 @@
 {
-  "aktualisiert": "2026-10-17T23:27:49+00:00",
+  "aktualisiert": "2026-10-18T01:33:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Florida: Alligator greift Mann in Winter Garden an und verletzt ihn tödlich",
+      "link": "https://www.spiegel.de/panorama/florida-alligator-greift-mann-in-winter-garden-an-und-verletzt-ihn-toedlich-a-e26e7155-3e01-4e63-835b-df01b6e386e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T00:11:00+00:00"
+    },
     {
       "titel": "SPD-Frauen werfen Union »Sexismus mit System« vor",
       "link": "https://www.spiegel.de/politik/spd-frauen-werfen-union-sexismus-mit-system-vor-a-aad9aeac-fc45-4d14-9c4e-4b3422465226#ref=rss",
@@ -101,12 +107,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-17T17:44:57+00:00"
-    },
-    {
-      "titel": "Donald Trump: US-Republikaner verurteilen Trumps Aussetzung von neuen Russlandsanktionen",
-      "link": "https://www.spiegel.de/ausland/donald-trump-us-kongressabgeordnete-verurteilen-trumps-aussetzung-von-neuen-russlandsanktionen-a-7933a7fd-09c5-4bf9-9329-a891e64e9ad7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-17T17:31:00+00:00"
     },
     {
       "titel": "Berlin: Linke, Grüne und SPD wollen vergesellschaften - aber anders als gedacht",
