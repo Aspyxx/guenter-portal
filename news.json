@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-10-18T20:46:57+00:00",
+  "aktualisiert": "2026-10-18T23:15:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Cindy Crawford und Kaia Gerber äußern sich erstmals nach Tod von Presley Gerber",
+      "link": "https://www.spiegel.de/panorama/cindy-crawford-und-kaia-gerber-aeussern-sich-erstmals-nach-tod-von-presley-gerber-a-4613215d-dc26-467e-b7b0-8e6f58240445#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T23:09:00+00:00"
+    },
+    {
+      "titel": "Italien: Erneute Ausschreitungen in Mailand – rund 200 Festnahmen",
+      "link": "https://www.spiegel.de/ausland/italien-erneute-ausschreitungen-in-mailand-rund-200-festnahmen-a-e2edf8da-fbe9-44e2-9006-32b89e998ba6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T22:53:00+00:00"
+    },
+    {
+      "titel": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-18T22:23:09+00:00"
+    },
     {
       "titel": "Proteste in Frankreich: Auswärtiges Amt ruft zu »umsichtigem« Verhalten auf",
       "link": "https://www.spiegel.de/ausland/proteste-in-frankreich-auswaertiges-amt-ruft-zu-umsichtigem-verhalten-auf-a-5692059a-a19f-44a6-8bc8-dd50ad7aa26d#ref=rss",
@@ -85,18 +103,6 @@
       "veroeffentlicht": "2026-10-18T18:27:13+00:00"
     },
     {
-      "titel": "Hubertus Heil erwägt Kandidatur für SPD-Vorsitz",
-      "link": "https://www.spiegel.de/politik/hubertus-heil-erwaegt-kandidatur-fuer-spd-vorsitz-a-ce9a0408-c813-4535-b057-d5c71ff5cb5f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T18:27:00+00:00"
-    },
-    {
-      "titel": "Margit und Andreas Funk geben nach zwölf Jahren ihre gemeinsame Pfarrstelle auf",
-      "link": "https://www.spiegel.de/kultur/margit-und-andreas-funk-geben-nach-zwoelf-jahren-ihre-gemeinsame-pfarrstelle-auf-a-12be3632-1068-4002-b1a1-c9c5aaf9db66#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T18:05:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Selenskij: USA liefern Ukraine wieder Geheimdienstdaten",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-geheimdienstdaten-li.3563283",
       "quelle": "Süddeutsche",
@@ -137,12 +143,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-18T14:46:25+00:00"
-    },
-    {
-      "titel": "Gewalt bei Protesten beschäftigt auch Italien",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T14:27:58+00:00"
     },
     {
       "titel": "Junge Union: Und plötzlich verlangt einer den Rücktritt des Kanzlers",
