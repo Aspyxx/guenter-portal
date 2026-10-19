@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-19T15:38:41+00:00",
+  "aktualisiert": "2026-10-19T20:43:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Niedersachsen: Hebamme muss nach tödlicher Hausgeburt drei Jahre in Haft",
-      "link": "https://www.spiegel.de/panorama/justiz/niedersachsen-hebamme-muss-nach-toedlicher-hausgeburt-drei-jahre-in-haft-a-a1ff6a14-7e59-4de3-b4e5-7c0a7b0bfdcc#ref=rss",
+      "titel": "Japan: Erfolgreicher Raketenstart für Mission zum Marsmond Phobos",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/japan-erfolgreicher-raketenstart-fuer-mission-zum-marsmond-phobos-a-814e2aa3-e5cc-4547-9fb6-39b995617794#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T15:35:00+00:00"
+      "veroeffentlicht": "2026-10-19T20:11:00+00:00"
     },
     {
-      "titel": "Donald Trump: Meta entschuldigt sich für Sperrung von »No Kings«-Instagram-Account",
-      "link": "https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-meta-entschuldigt-sich-fuer-sperrung-von-no-kings-instagram-account-a-c8078aa0-5e96-460d-81b7-58e85c9e1437#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T15:32:00+00:00"
+      "titel": "Newsblog zur Bundespolitik: Merz beunruhigt wegen Sorglosigkeit gegenüber Russland",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-merz-russland-sorglosigkeit-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-19T19:59:59+00:00"
     },
     {
-      "titel": "Deutschland: Wie Vermögen, Bildung und Herkunft die Ungleichheit prägen",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/deutschland-wie-vermoegen-bildung-und-herkunft-die-ungleichheit-praegen-a-b2bf973b-3ff5-48ea-98d1-1f104c45bd0c#ref=rss",
+      "titel": "Cristiano Ronaldo: Geringe Geldstrafe nach Eklat im Nationalteam",
+      "link": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-geringe-geldstrafe-nach-eklat-im-nationalteam-a-912300d2-bde9-45ae-a198-91557a266b0f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T15:15:00+00:00"
+      "veroeffentlicht": "2026-10-19T19:53:00+00:00"
+    },
+    {
+      "titel": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+      "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T19:52:35+00:00"
+    },
+    {
+      "titel": "Kenia: Sektenführer wegen Tötung von 191 Menschen schuldig gesprochen",
+      "link": "https://www.spiegel.de/ausland/kenia-sektenfuehrer-wegen-toetung-von-191-menschen-schuldig-gesprochen-a-2e81361d-1caa-4d08-9d7e-7250bccbfd6e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T19:40:00+00:00"
+    },
+    {
+      "titel": "Berlin: SPD und Grüne stimmen für Koalitionsgespräche mit der Linken",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T19:39:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Berliner Grüne und SPD für Koalitionsgespräche mit Linke",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-19T19:32:11+00:00"
+    },
+    {
+      "titel": "Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T19:29:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen",
+      "link": "https://www.spiegel.de/ausland/frankreich-staedte-verhaengen-naechtliche-ausgangssperren-nach-pluenderungen-a-9793648b-83d2-4067-a54a-8d7469b117ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T19:29:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T19:23:41+00:00"
+    },
+    {
+      "titel": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T19:09:32+00:00"
+    },
+    {
+      "titel": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T19:08:04+00:00"
+    },
+    {
+      "titel": "Insekten: „Klares Warnsignal“: Wo die Bienen verschwinden",
+      "link": "https://www.sueddeutsche.de/wissen/bienensterben-insekten-klimawandel-hummeln-pestizide-li.3565769",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-19T19:00:00+00:00"
+    },
+    {
+      "titel": "Nvidia-Chef Huang: „Baut Deutschland um“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-merz-deutschland-kuenstliche-intelligenz-invest-in-germany-li.3566112",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-19T18:46:27+00:00"
+    },
+    {
+      "titel": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T18:35:46+00:00"
+    },
+    {
+      "titel": "Armin Meiwes: »Kannibale von Rotenburg« bleibt vorerst im Gefängnis",
+      "link": "https://www.spiegel.de/panorama/justiz/armin-meiwes-kannibale-von-rothenburg-bleibt-vorerst-im-gefaengnis-a-0c93b177-5ff9-4fd6-b021-f28f01758e34#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T18:19:00+00:00"
+    },
+    {
+      "titel": "Christiane Amanpour: CNN-Chefkorrespondentin geht nach 43 Jahren",
+      "link": "https://www.spiegel.de/panorama/leute/christiane-amanpour-cnn-chefkorrespondentin-geht-nach-43-jahren-a-30597d9f-28df-4edb-a1a8-c437dc702d35#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T18:18:00+00:00"
+    },
+    {
+      "titel": "Berlin: Warum die Vergesellschaftung wohl scheitern wird",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/warum-die-vergesellschaftung-in-berlin-wohl-scheitern-wird-a-793bc493-303b-4f0e-aa89-94be3ff6e351#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T18:06:00+00:00"
+    },
+    {
+      "titel": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T17:59:59+00:00"
+    },
+    {
+      "titel": "Gewaltsame Proteste: Ausgangssperren in Frankreich verhängt",
+      "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-li.3565815",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-19T17:44:00+00:00"
+    },
+    {
+      "titel": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T17:19:39+00:00"
+    },
+    {
+      "titel": "Cold Case aus Regensburg: Durchbruch im Fall Langley: Geständnis und drei Tatverdächtige",
+      "link": "https://www.sueddeutsche.de/bayern/regensburg-kerstin-lee-langley-knochen-vermisst-polizei-cold-case-li.3565546",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-19T16:40:00+00:00"
+    },
+    {
+      "titel": "Rot-Grün-Rot in Berlin: Angezählt von den eigenen Leuten",
+      "link": "https://www.sueddeutsche.de/politik/berlin-spd-linkspartei-krach-regierung-sondierungen-protest-li.3565442",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-19T16:40:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Neue Woche, neue Sorgen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T16:29:58+00:00"
+    },
+    {
+      "titel": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T15:43:35+00:00"
     },
     {
       "titel": "Nahost: Wahl in Israel: Oppositionspolitiker Gantz zieht sich aus dem Rennen zurück",
@@ -31,142 +163,10 @@
       "veroeffentlicht": "2026-10-19T15:00:00+00:00"
     },
     {
-      "titel": "Stade: Tochter von Opfer übernimmt Mutter-Kind-Haus",
-      "link": "https://www.spiegel.de/panorama/stade-tochter-von-opfer-uebernimmt-mutter-kind-haus-a-4ad6b0f9-d6a3-487e-bc4a-53db3b2a1ac8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T15:00:00+00:00"
-    },
-    {
       "titel": "KI-Haustier: Hab mich lieb!",
       "link": "https://www.sueddeutsche.de/panorama/moflin-ki-kuscheltier-einsamkeit-japan-test-li.3564017",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-19T14:46:28+00:00"
-    },
-    {
-      "titel": "Rob Jetten: Niederländischer Regierungschef und sein Partner werden Väter",
-      "link": "https://www.spiegel.de/ausland/rob-jetten-niederlaendischer-regierungschef-und-sein-partner-werden-vaeter-a-f94388b1-f892-4af8-990b-34d87b1e8ca3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T14:46:00+00:00"
-    },
-    {
-      "titel": "Pläne für Sommerspiele 2036: München macht Tempo bei der Olympiabewerbung",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-olympiabewerbung-2036-krause-soeder-millionen-li.3564491",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T14:40:06+00:00"
-    },
-    {
-      "titel": "TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht",
-      "link": "https://www.spiegel.de/sport/fussball/tsv-1860-muenchen-warum-der-club-trotz-der-niederlage-gegen-den-fc-bayern-ii-vor-euphorie-sprueht-a-f7ce8068-453f-4731-8d25-460cd9bcba2c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T14:39:00+00:00"
-    },
-    {
-      "titel": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T14:35:44+00:00"
-    },
-    {
-      "titel": "Olfen: Messerattacke in Seniorenheim – Frauen außer Lebensgefahr",
-      "link": "https://www.spiegel.de/panorama/justiz/olfen-messerattacke-in-seniorenheim-frauen-ausser-lebensgefahr-a-9e7c29bb-64b4-493b-b579-7c59a33071e5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T14:28:00+00:00"
-    },
-    {
-      "titel": "Israel: Damit Premier Benjamin Netanyahu abgewählt wird, braucht die Opposition wahrscheinlich Mansour Abbas. Wer ist er?",
-      "link": "https://www.spiegel.de/ausland/israel-damit-premier-benjamin-netanyahu-abgewaehlt-wird-braucht-die-opposition-wahrscheinlich-mansour-abbas-wer-ist-er-a-69ab776b-aae4-41f4-b6e8-232ac194a09b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T14:20:00+00:00"
-    },
-    {
-      "titel": "Mörlenbach: Polizei ermittelt nach Bagger-Angriff - wohl Nachbarschaftsstreit",
-      "link": "https://www.spiegel.de/panorama/justiz/moerlenbach-polizei-ermittelt-nach-bagger-angriff-wohl-nachbarschaftsstreit-a-b8327efb-c686-4bb5-8db3-10718ad6156c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T14:10:00+00:00"
-    },
-    {
-      "titel": "Frankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\"",
-      "link": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T14:09:22+00:00"
-    },
-    {
-      "titel": "Münchens Olympiabewerbung: Drei Jahreszahlen sind Fluch und Segen zugleich",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-olympia-bewerbung-2036-kommentar-li.3564720",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T14:07:04+00:00"
-    },
-    {
-      "titel": "Lufthansa: Ende für das einst längste Passagierflugzeug der Welt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/lufthansa-airbus-a340-600-flugzeuge-li.3564679",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T13:17:02+00:00"
-    },
-    {
-      "titel": "Merz lädt zu Investitionsgipfel in Berlin",
-      "link": "https://www.tagesschau.de/wirtschaft/wirtschaft-investitionsgipfel-nvidia-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T13:12:19+00:00"
-    },
-    {
-      "titel": "Italien: „Für sie ist es wie ein Spiel, und wir sind ihre Zielscheibe“",
-      "link": "https://www.sueddeutsche.de/politik/italien-proteste-lebenshaltungskosten-mailand-polizei-eskalation-li.3565598",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T13:11:06+00:00"
-    },
-    {
-      "titel": "Gewaltsame Proteste: Frankreichs Regierung räumt Kontrollverlust ein",
-      "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-li.3565815",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T13:06:31+00:00"
-    },
-    {
-      "titel": "Auschwitz-Überlebender Höllenreiner im Alter von 92 gestorben",
-      "link": "https://www.tagesschau.de/inland/auschwitz-ueberlebender-hoellenreiner-gestorben-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T13:04:07+00:00"
-    },
-    {
-      "titel": "Panzerhersteller: „Für KNDS ist ein Börsengang weiterhin zentral“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/knds-boersengang-jean-paul-alary-panzerbauer-verstaatlichung-li.3565850",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T12:58:58+00:00"
-    },
-    {
-      "titel": "China: Peking verschärft Drohnenverbot",
-      "link": "https://www.sueddeutsche.de/politik/drohnen-peking-verbot-china-li.3563117",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T12:42:49+00:00"
-    },
-    {
-      "titel": "Reiche verspricht Milliarden für Wasserstoff-Ausbau",
-      "link": "https://www.tagesschau.de/wirtschaft/reiche-wasserstoff-ausbau-millarden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T12:34:29+00:00"
-    },
-    {
-      "titel": "Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T12:19:43+00:00"
-    },
-    {
-      "titel": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
-      "link": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T12:07:14+00:00"
-    },
-    {
-      "titel": "Marktbericht: Sorgen um Frankreich belasten den Euro",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T12:05:00+00:00"
-    },
-    {
-      "titel": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
-      "link": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T11:47:03+00:00"
     }
   ]
 }
