@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-10-18T23:15:23+00:00",
+  "aktualisiert": "2026-10-19T01:45:53+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
+      "link": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-19T00:48:48+00:00"
+    },
+    {
+      "titel": "Tel Aviv/Wien: Flugzeug muss nach Bombendrohung in Sofia notlanden",
+      "link": "https://www.spiegel.de/ausland/tel-aviv-wien-flugzeug-muss-nach-bombendrohung-in-sofia-notlanden-a-c9bcc4c7-d69a-459e-aa61-29897b45bc3e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-18T23:48:00+00:00"
+    },
+    {
+      "titel": "Caren Miosga: Wer wird denn gleich unmenschlich werden",
+      "link": "https://www.sueddeutsche.de/medien/caren-miosga-rentenreform-thorsten-frei-matthias-miersch-tv-kritik-li.3564791",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-18T23:29:04+00:00"
+    },
     {
       "titel": "Cindy Crawford und Kaia Gerber äußern sich erstmals nach Tod von Presley Gerber",
       "link": "https://www.spiegel.de/panorama/cindy-crawford-und-kaia-gerber-aeussern-sich-erstmals-nach-tod-von-presley-gerber-a-4613215d-dc26-467e-b7b0-8e6f58240445#ref=rss",
@@ -79,12 +97,6 @@
       "veroeffentlicht": "2026-10-18T19:00:53+00:00"
     },
     {
-      "titel": "Mallorca: Höchste Sturmwarnung für Baleareninsel ausgerufen",
-      "link": "https://www.spiegel.de/ausland/mallorca-hoechste-sturmwarnung-fuer-baleareninsel-ausgerufen-a-e4318c01-6ad7-4e03-8859-8482b32fde6c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-18T18:49:00+00:00"
-    },
-    {
       "titel": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
       "quelle": "Tagesschau",
@@ -139,12 +151,6 @@
       "veroeffentlicht": "2026-10-18T15:18:33+00:00"
     },
     {
-      "titel": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-18T14:46:25+00:00"
-    },
-    {
       "titel": "Junge Union: Und plötzlich verlangt einer den Rücktritt des Kanzlers",
       "link": "https://www.sueddeutsche.de/politik/junge-union-deutschlandtag-2026-bonn-friedrich-merz-ruecktritt-li.3564586",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-kompany-diaz-bundesliga-fussball-li.3565255",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-18T12:35:26+00:00"
-    },
-    {
-      "titel": "Deutschlandtag: Die Junge Union geht mit der CDU sehr viel härter ins Gericht als mit sich selbst",
-      "link": "https://www.sueddeutsche.de/meinung/kommentar-deutschlandtag-junge-union-friedrich-merz-johannes-winkel-li.3564179",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-18T12:31:32+00:00"
     }
   ]
 }
