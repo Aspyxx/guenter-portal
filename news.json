@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-10-19T20:43:30+00:00",
+  "aktualisiert": "2026-10-19T23:57:43+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Friedrich Merz: Viele Deutsche unterschätzen Bedrohung durch Russland",
+      "link": "https://www.spiegel.de/politik/friedrich-merz-viele-deutsche-unterschaetzen-bedrohung-durch-russland-a-d8afabf2-bca4-43db-8dbb-d52eaf5c4acd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T23:41:00+00:00"
+    },
+    {
+      "titel": "Peter Christian Zinkann: Langjähriger Miele-Chef ist tot",
+      "link": "https://www.spiegel.de/wirtschaft/peter-christian-zinkann-langjaehriger-miele-chef-ist-tot-a-e092a512-8bd3-4c5f-904f-4bd7789cc436#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T23:06:00+00:00"
+    },
+    {
+      "titel": "Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt",
+      "link": "https://www.spiegel.de/ausland/iran-spionageurteile-belasten-verhaeltnis-botschafter-einbestellt-a-143005ed-3ca1-46a7-b862-c612d9e3270f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-19T20:45:00+00:00"
+    },
     {
       "titel": "Japan: Erfolgreicher Raketenstart für Mission zum Marsmond Phobos",
       "link": "https://www.spiegel.de/wissenschaft/weltall/japan-erfolgreicher-raketenstart-fuer-mission-zum-marsmond-phobos-a-814e2aa3-e5cc-4547-9fb6-39b995617794#ref=rss",
@@ -49,14 +67,14 @@
       "veroeffentlicht": "2026-10-19T19:32:11+00:00"
     },
     {
-      "titel": "Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss",
+      "titel": "Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen",
+      "link": "https://www.spiegel.de/ausland/frankreich-staedte-verhaengen-naechtliche-ausgangssperren-nach-pluenderungen-a-9793648b-83d2-4067-a54a-8d7469b117ce#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-19T19:29:00+00:00"
     },
     {
-      "titel": "Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen",
-      "link": "https://www.spiegel.de/ausland/frankreich-staedte-verhaengen-naechtliche-ausgangssperren-nach-pluenderungen-a-9793648b-83d2-4067-a54a-8d7469b117ce#ref=rss",
+      "titel": "Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-19T19:29:00+00:00"
     },
@@ -95,24 +113,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-19T18:35:46+00:00"
-    },
-    {
-      "titel": "Armin Meiwes: »Kannibale von Rotenburg« bleibt vorerst im Gefängnis",
-      "link": "https://www.spiegel.de/panorama/justiz/armin-meiwes-kannibale-von-rothenburg-bleibt-vorerst-im-gefaengnis-a-0c93b177-5ff9-4fd6-b021-f28f01758e34#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T18:19:00+00:00"
-    },
-    {
-      "titel": "Christiane Amanpour: CNN-Chefkorrespondentin geht nach 43 Jahren",
-      "link": "https://www.spiegel.de/panorama/leute/christiane-amanpour-cnn-chefkorrespondentin-geht-nach-43-jahren-a-30597d9f-28df-4edb-a1a8-c437dc702d35#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T18:18:00+00:00"
-    },
-    {
-      "titel": "Berlin: Warum die Vergesellschaftung wohl scheitern wird",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/warum-die-vergesellschaftung-in-berlin-wohl-scheitern-wird-a-793bc493-303b-4f0e-aa89-94be3ff6e351#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T18:06:00+00:00"
     },
     {
       "titel": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
