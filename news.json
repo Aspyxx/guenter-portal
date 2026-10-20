@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-20T04:54:10+00:00",
+  "aktualisiert": "2026-10-20T10:06:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,94 +7,154 @@
   },
   "meldungen": [
     {
+      "titel": "Google Maps und Google Earth: Luftaufnahmen von Privatgrundstück müssen gelöscht werden",
+      "link": "https://www.spiegel.de/netzwelt/netzpolitik/google-maps-und-google-earth-luftaufnahmen-von-privatgrundstueck-muessen-geloescht-werden-a-0d9228ad-f424-444e-b564-7ed3a3c974c9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T10:04:00+00:00"
+    },
+    {
+      "titel": "Tankrabatt: Autofahrer spüren Steuerersparnis von 17 Cent kaum",
+      "link": "https://www.spiegel.de/mobilitaet/tankrabatt-autofahrer-spueren-steuerersparnis-von-17-cent-kaum-a-f6ae065d-2a2a-4448-a78d-63e3e07b5f8f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T09:59:00+00:00"
+    },
+    {
+      "titel": "Israel: Massenfestnahme ultraorthodoxer Wehrdienstverweigerer verschärft Debatte",
+      "link": "https://www.spiegel.de/ausland/israel-massenfestnahme-ultraorthodoxer-wehrdienstverweigerer-verschaerft-debatte-a-3e017016-867b-4d2a-af9e-b99e78f0dc10#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T09:54:00+00:00"
+    },
+    {
+      "titel": "Datenleck: AfD von Hackern angegriffen",
+      "link": "https://www.sueddeutsche.de/politik/afd-hackerangriff-datenleck-cybersicherheit-rechtsextremismus-li.3566216",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-20T09:50:00+00:00"
+    },
+    {
+      "titel": "Immobilienkredite: Zinsen auf höchstem Stand seit 2009",
+      "link": "https://www.spiegel.de/wirtschaft/service/immobilienkredite-zinsen-auf-hoechstem-stand-seit-2009-a-d4f3dcdd-475b-43f2-803f-42b5ecb5066b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T09:41:00+00:00"
+    },
+    {
+      "titel": "Oberfranken: Verletzter bittet um Hilfe – E-Scooter-Fahrer soll Hilfe verweigert haben",
+      "link": "https://www.spiegel.de/panorama/oberfranken-verletzter-bittet-um-hilfe-e-scooter-fahrer-soll-hilfe-verweigert-haben-a-15915af5-d33b-46e4-8039-9644c157cac3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T09:34:00+00:00"
+    },
+    {
+      "titel": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
+      "link": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T09:25:41+00:00"
+    },
+    {
+      "titel": "#MeToo im Surfen: Wie ein Missbrauchsvorwurf die Surfszene erschüttert",
+      "link": "https://www.spiegel.de/sport/metoo-im-surfen-wie-ein-missbrauchsvorwurf-die-surfszene-erschuettert-a-16540421-f4a6-43f4-b557-5b5d12b1238c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T09:19:00+00:00"
+    },
+    {
+      "titel": "Premiere von „Der perfekte Urlaub“: „Man ist froh, dass man selbst nicht erleben muss, was wir auf der Leinwand erleben“",
+      "link": "https://www.sueddeutsche.de/muenchen/der-perfekte-urlaub-premiere-muenchen-elyas-m-barek-li.3553390",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-20T09:18:28+00:00"
+    },
+    {
+      "titel": "Deutschlandticket: Verkehrsminister planen neues Angebot für Gelegenheitsfahrer",
+      "link": "https://www.spiegel.de/mobilitaet/deutschlandticket-verkehrsminister-planen-neues-angebot-fuer-gelegenheitsfahrer-a-d4061c76-65fd-4d81-a398-408b44ee29a0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T09:11:00+00:00"
+    },
+    {
+      "titel": "Arla Foods: Rückruf von Frischkäse wegen möglichem Insektenbefall",
+      "link": "https://www.spiegel.de/wirtschaft/service/arla-foods-rueckruf-von-frischkaese-wegen-moeglichem-insektenbefall-a-38f68f80-3bd7-4c86-8c9e-51a83692cf3d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T09:08:00+00:00"
+    },
+    {
+      "titel": "Michael Douglas will den Filmtod sterben, aber Marvel lässt ihn nicht",
+      "link": "https://www.spiegel.de/kultur/kino/michael-douglas-will-den-filmtod-sterben-aber-marvel-laesst-ihn-nicht-a-67ab85bd-b753-45f1-87e8-ff0646873406#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T09:01:00+00:00"
+    },
+    {
+      "titel": "Raumfahrt: Wissen, was im Erdorbit passiert",
+      "link": "https://www.sueddeutsche.de/wirtschaft/raumfahrt-vyoma-satelliten-esa-space-x-li.3564538",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-20T08:54:14+00:00"
+    },
+    {
+      "titel": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T08:42:49+00:00"
+    },
+    {
+      "titel": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T08:42:06+00:00"
+    },
+    {
+      "titel": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T08:34:02+00:00"
+    },
+    {
+      "titel": "Marktbericht: \"Unsicherheitscocktail\" belastet die Aktienbörsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T08:33:17+00:00"
+    },
+    {
+      "titel": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T08:28:16+00:00"
+    },
+    {
+      "titel": "Immobilienkredite so teuer wie seit 2009 nicht mehr",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T08:07:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Hackerangriff auf E-Mail-Konten der AfD",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-afd-hackerangriff-mails-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-20T06:39:00+00:00"
+    },
+    {
+      "titel": "Gestiegene Kosten: Autoversicherungen werden teurer",
+      "link": "https://www.sueddeutsche.de/wirtschaft/kfz-versicherung-autoversicherung-2027-preiserhoehung-haftpflicht-li.3565956",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-20T06:27:43+00:00"
+    },
+    {
+      "titel": "Wahlen in den USA: Was zu den Midterms wichtig ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T06:00:43+00:00"
+    },
+    {
+      "titel": "Eklat nach Portugal-Abschied: 255 Euro und 30 Tage Sperre – Mini-Strafe für Cristiano Ronaldo",
+      "link": "https://www.sueddeutsche.de/sport/ronaldo-strafe-portugal-li.3566199",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-20T05:37:36+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Trump: „Selenskij weiß nicht, wovon er spricht“",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-trump-waffenlieferungen-patriot-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-20T04:58:57+00:00"
+    },
+    {
       "titel": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-20T04:47:36+00:00"
-    },
-    {
-      "titel": "Arzttermine: Kassenärzte warnen vor längeren Wartezeiten durch Reform",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/arzttermine-kassenaerzte-warnen-vor-laengeren-wartezeiten-durch-reform-a-a395f62c-9942-407f-9cc5-e9dd71eaaa8b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T04:47:00+00:00"
-    },
-    {
-      "titel": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
-      "link": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T04:27:24+00:00"
-    },
-    {
-      "titel": "Kastanienbäume: Stirbt die Rosskastanie aus?",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/kastanienbaeume-stirbt-die-rosskastanie-aus-a-2a06cb97-ea04-4af9-bd88-e3f6561e3f28#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T04:08:00+00:00"
-    },
-    {
-      "titel": "Wohnungsmarkt: Neuer Wohnungsbaufonds soll private Investitionen ankurbeln",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/wohnungsmarkt-neuer-wohnungsbaufonds-soll-private-investitionen-ankurbeln-a-70b546e8-1ecb-4d90-8150-a5b8d0408dd0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T04:00:00+00:00"
-    },
-    {
-      "titel": "Fitness: Wie Richard Ringer mit Alternativtraining seine Form rettet",
-      "link": "https://www.spiegel.de/fitness/fitness-wie-richard-ringer-mit-alternativtraining-seine-form-rettet-a-13288009-0f57-40bb-a7f0-3e828a44f876#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T03:30:00+00:00"
-    },
-    {
-      "titel": "Mermaiding: Alltagsstress? Werden Sie zur Meerjungfrau",
-      "link": "https://www.spiegel.de/fitness/mermaiding-alltagsstress-werden-sie-zur-meerjungfrau-a-ebd82b4d-34dd-4a77-9965-1d7921da8dab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T03:30:00+00:00"
-    },
-    {
-      "titel": "Vanessa Emde: Berliner Linke berät über umstrittene Abgeordnete",
-      "link": "https://www.spiegel.de/politik/vanessa-emde-berliner-linke-beraet-ueber-umstrittene-abgeordnete-a-a1cfcd54-6cd8-4045-aed4-181510981de0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T03:23:00+00:00"
-    },
-    {
-      "titel": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T03:15:05+00:00"
-    },
-    {
-      "titel": "Australien: Politikerin Helen Haines soll zweifach mit Geländewagen gerammt worden sein",
-      "link": "https://www.spiegel.de/ausland/australien-politikerin-helen-haines-soll-zweifach-mit-gelaendewagen-gerammt-worden-sein-a-9fffd8af-41b5-4726-bfe4-cba6f4935943#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T03:09:00+00:00"
-    },
-    {
-      "titel": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
-      "link": "https://www.tagesschau.de/ausland/amerika/uruguay-erneuerbare-energie-klima-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T02:30:18+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Wolodymyr Selenskyj wirft USA Blockade bezahlter Raketenlieferungen vor",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-usa-blockade-bezahlter-raketenlieferungen-vor-a-59d720ee-7bd4-4715-876d-24107dc630bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T01:11:00+00:00"
-    },
-    {
-      "titel": "»Promi Big Brother« 2026: Maurice Dwizak gewinnt Finale vor Axel Schulz",
-      "link": "https://www.spiegel.de/kultur/promi-big-brother-2026-maurice-dwizak-gewinnt-finale-vor-axel-schulz-a-83738a6c-5585-452d-a3b4-d9aee62bd747#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T00:15:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Merz beunruhigt wegen Sorglosigkeit gegenüber Russland",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-merz-russland-sorglosigkeit-li.3529564",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T19:59:59+00:00"
-    },
-    {
-      "titel": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
-      "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T19:52:35+00:00"
     },
     {
       "titel": "Newsblog zu den Landtagswahlen: Berliner Grüne und SPD für Koalitionsgespräche mit Linke",
@@ -103,70 +163,10 @@
       "veroeffentlicht": "2026-10-19T19:32:11+00:00"
     },
     {
-      "titel": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T19:23:41+00:00"
-    },
-    {
-      "titel": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T19:09:32+00:00"
-    },
-    {
-      "titel": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T19:08:04+00:00"
-    },
-    {
       "titel": "Insekten: „Klares Warnsignal“: Wo die Bienen verschwinden",
-      "link": "https://www.sueddeutsche.de/wissen/bienensterben-insekten-klimawandel-hummeln-pestizide-li.3565769",
+      "link": "https://www.sueddeutsche.de/wissen/bienensterben-insekten-klimawandel-hummeln-warnung-pestizide-li.3565769",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-19T19:00:00+00:00"
-    },
-    {
-      "titel": "Nvidia-Chef Huang: „Baut Deutschland um“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-merz-deutschland-kuenstliche-intelligenz-invest-in-germany-li.3566112",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T18:46:27+00:00"
-    },
-    {
-      "titel": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T18:35:46+00:00"
-    },
-    {
-      "titel": "Gewaltsame Proteste: Ausgangssperren in Frankreich verhängt",
-      "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-li.3565815",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T17:44:00+00:00"
-    },
-    {
-      "titel": "Cold Case aus Regensburg: Durchbruch im Fall Langley: Geständnis und drei Tatverdächtige",
-      "link": "https://www.sueddeutsche.de/bayern/regensburg-kerstin-lee-langley-knochen-vermisst-polizei-cold-case-li.3565546",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T16:40:00+00:00"
-    },
-    {
-      "titel": "Rot-Grün-Rot in Berlin: Angezählt von den eigenen Leuten",
-      "link": "https://www.sueddeutsche.de/politik/berlin-spd-linkspartei-krach-regierung-sondierungen-protest-li.3565442",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T16:40:00+00:00"
-    },
-    {
-      "titel": "Nahost: Wahl in Israel: Oppositionspolitiker Gantz zieht sich aus dem Rennen zurück",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-gantz-li.3560260",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T15:00:00+00:00"
-    },
-    {
-      "titel": "KI-Haustier: Hab mich lieb!",
-      "link": "https://www.sueddeutsche.de/panorama/moflin-ki-kuscheltier-einsamkeit-japan-test-li.3564017",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-19T14:46:28+00:00"
     }
   ]
 }
