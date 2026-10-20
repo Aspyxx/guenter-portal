@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-19T23:57:43+00:00",
+  "aktualisiert": "2026-10-20T04:54:10+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,82 @@
   },
   "meldungen": [
     {
-      "titel": "Friedrich Merz: Viele Deutsche unterschätzen Bedrohung durch Russland",
-      "link": "https://www.spiegel.de/politik/friedrich-merz-viele-deutsche-unterschaetzen-bedrohung-durch-russland-a-d8afabf2-bca4-43db-8dbb-d52eaf5c4acd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T23:41:00+00:00"
+      "titel": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T04:47:36+00:00"
     },
     {
-      "titel": "Peter Christian Zinkann: Langjähriger Miele-Chef ist tot",
-      "link": "https://www.spiegel.de/wirtschaft/peter-christian-zinkann-langjaehriger-miele-chef-ist-tot-a-e092a512-8bd3-4c5f-904f-4bd7789cc436#ref=rss",
+      "titel": "Arzttermine: Kassenärzte warnen vor längeren Wartezeiten durch Reform",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/arzttermine-kassenaerzte-warnen-vor-laengeren-wartezeiten-durch-reform-a-a395f62c-9942-407f-9cc5-e9dd71eaaa8b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T23:06:00+00:00"
+      "veroeffentlicht": "2026-10-20T04:47:00+00:00"
     },
     {
-      "titel": "Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt",
-      "link": "https://www.spiegel.de/ausland/iran-spionageurteile-belasten-verhaeltnis-botschafter-einbestellt-a-143005ed-3ca1-46a7-b862-c612d9e3270f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T20:45:00+00:00"
+      "titel": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
+      "link": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T04:27:24+00:00"
     },
     {
-      "titel": "Japan: Erfolgreicher Raketenstart für Mission zum Marsmond Phobos",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/japan-erfolgreicher-raketenstart-fuer-mission-zum-marsmond-phobos-a-814e2aa3-e5cc-4547-9fb6-39b995617794#ref=rss",
+      "titel": "Kastanienbäume: Stirbt die Rosskastanie aus?",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/kastanienbaeume-stirbt-die-rosskastanie-aus-a-2a06cb97-ea04-4af9-bd88-e3f6561e3f28#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T20:11:00+00:00"
+      "veroeffentlicht": "2026-10-20T04:08:00+00:00"
+    },
+    {
+      "titel": "Wohnungsmarkt: Neuer Wohnungsbaufonds soll private Investitionen ankurbeln",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/wohnungsmarkt-neuer-wohnungsbaufonds-soll-private-investitionen-ankurbeln-a-70b546e8-1ecb-4d90-8150-a5b8d0408dd0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T04:00:00+00:00"
+    },
+    {
+      "titel": "Fitness: Wie Richard Ringer mit Alternativtraining seine Form rettet",
+      "link": "https://www.spiegel.de/fitness/fitness-wie-richard-ringer-mit-alternativtraining-seine-form-rettet-a-13288009-0f57-40bb-a7f0-3e828a44f876#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T03:30:00+00:00"
+    },
+    {
+      "titel": "Mermaiding: Alltagsstress? Werden Sie zur Meerjungfrau",
+      "link": "https://www.spiegel.de/fitness/mermaiding-alltagsstress-werden-sie-zur-meerjungfrau-a-ebd82b4d-34dd-4a77-9965-1d7921da8dab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T03:30:00+00:00"
+    },
+    {
+      "titel": "Vanessa Emde: Berliner Linke berät über umstrittene Abgeordnete",
+      "link": "https://www.spiegel.de/politik/vanessa-emde-berliner-linke-beraet-ueber-umstrittene-abgeordnete-a-a1cfcd54-6cd8-4045-aed4-181510981de0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T03:23:00+00:00"
+    },
+    {
+      "titel": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T03:15:05+00:00"
+    },
+    {
+      "titel": "Australien: Politikerin Helen Haines soll zweifach mit Geländewagen gerammt worden sein",
+      "link": "https://www.spiegel.de/ausland/australien-politikerin-helen-haines-soll-zweifach-mit-gelaendewagen-gerammt-worden-sein-a-9fffd8af-41b5-4726-bfe4-cba6f4935943#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T03:09:00+00:00"
+    },
+    {
+      "titel": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
+      "link": "https://www.tagesschau.de/ausland/amerika/uruguay-erneuerbare-energie-klima-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T02:30:18+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Wolodymyr Selenskyj wirft USA Blockade bezahlter Raketenlieferungen vor",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-usa-blockade-bezahlter-raketenlieferungen-vor-a-59d720ee-7bd4-4715-876d-24107dc630bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T01:11:00+00:00"
+    },
+    {
+      "titel": "»Promi Big Brother« 2026: Maurice Dwizak gewinnt Finale vor Axel Schulz",
+      "link": "https://www.spiegel.de/kultur/promi-big-brother-2026-maurice-dwizak-gewinnt-finale-vor-axel-schulz-a-83738a6c-5585-452d-a3b4-d9aee62bd747#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T00:15:00+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Merz beunruhigt wegen Sorglosigkeit gegenüber Russland",
@@ -37,46 +91,16 @@
       "veroeffentlicht": "2026-10-19T19:59:59+00:00"
     },
     {
-      "titel": "Cristiano Ronaldo: Geringe Geldstrafe nach Eklat im Nationalteam",
-      "link": "https://www.spiegel.de/sport/fussball/cristiano-ronaldo-geringe-geldstrafe-nach-eklat-im-nationalteam-a-912300d2-bde9-45ae-a198-91557a266b0f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T19:53:00+00:00"
-    },
-    {
       "titel": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
       "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-19T19:52:35+00:00"
     },
     {
-      "titel": "Kenia: Sektenführer wegen Tötung von 191 Menschen schuldig gesprochen",
-      "link": "https://www.spiegel.de/ausland/kenia-sektenfuehrer-wegen-toetung-von-191-menschen-schuldig-gesprochen-a-2e81361d-1caa-4d08-9d7e-7250bccbfd6e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T19:40:00+00:00"
-    },
-    {
-      "titel": "Berlin: SPD und Grüne stimmen für Koalitionsgespräche mit der Linken",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T19:39:00+00:00"
-    },
-    {
       "titel": "Newsblog zu den Landtagswahlen: Berliner Grüne und SPD für Koalitionsgespräche mit Linke",
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-19T19:32:11+00:00"
-    },
-    {
-      "titel": "Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen",
-      "link": "https://www.spiegel.de/ausland/frankreich-staedte-verhaengen-naechtliche-ausgangssperren-nach-pluenderungen-a-9793648b-83d2-4067-a54a-8d7469b117ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T19:29:00+00:00"
-    },
-    {
-      "titel": "Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-19T19:29:00+00:00"
     },
     {
       "titel": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
@@ -115,22 +139,10 @@
       "veroeffentlicht": "2026-10-19T18:35:46+00:00"
     },
     {
-      "titel": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T17:59:59+00:00"
-    },
-    {
       "titel": "Gewaltsame Proteste: Ausgangssperren in Frankreich verhängt",
       "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-li.3565815",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-19T17:44:00+00:00"
-    },
-    {
-      "titel": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T17:19:39+00:00"
     },
     {
       "titel": "Cold Case aus Regensburg: Durchbruch im Fall Langley: Geständnis und drei Tatverdächtige",
@@ -143,18 +155,6 @@
       "link": "https://www.sueddeutsche.de/politik/berlin-spd-linkspartei-krach-regierung-sondierungen-protest-li.3565442",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-19T16:40:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Neue Woche, neue Sorgen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T16:29:58+00:00"
-    },
-    {
-      "titel": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-19T15:43:35+00:00"
     },
     {
       "titel": "Nahost: Wahl in Israel: Oppositionspolitiker Gantz zieht sich aus dem Rennen zurück",
