@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-20T19:18:15+00:00",
+  "aktualisiert": "2026-10-20T22:41:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,70 @@
   },
   "meldungen": [
     {
-      "titel": "Zeitmessung wird neu geregelt: Das Ende der Schaltsekunde",
-      "link": "https://www.spiegel.de/geschichte/zeitmessung-wird-neu-geregelt-das-ende-der-schaltsekunde-a-e01a1e39-5220-4b25-9056-8f8fddde2b13#ref=rss",
+      "titel": "Zwei Verletzte nach Einsturz von Hoteldecke in Düsseldorf",
+      "link": "https://www.spiegel.de/panorama/zwei-verletzte-nach-einsturz-von-hoteldecke-in-duesseldorf-a-3ad79766-dd90-4ba0-b58a-be0f233efe2d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T18:42:00+00:00"
+      "veroeffentlicht": "2026-10-20T22:17:00+00:00"
     },
     {
-      "titel": "USA: Yorkshire Terrier jagt Bär auf Baum – und verjagt ihn vom Grundstück",
-      "link": "https://www.spiegel.de/panorama/usa-yorkshire-terrier-jagt-baer-auf-baum-und-verjagt-ihn-vom-grundstueck-a-49cfb5b0-586c-481d-949c-2801b7456e6c#ref=rss",
+      "titel": "Champions League: VfB Stuttgart verpasst Sieg gegen Atlético Madrid",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-vfb-stuttgart-verpasst-sieg-gegen-atletico-madrid-a-f6f68fd6-3a52-404d-9616-236e07a85315#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T18:41:00+00:00"
+      "veroeffentlicht": "2026-10-20T21:38:00+00:00"
     },
     {
-      "titel": "Sudan: Über 150 Tote nach Drohnenangriff in Grenzregion Abyei",
-      "link": "https://www.spiegel.de/ausland/sudan-ueber-150-tote-nach-drohnenangriff-in-grenzregion-abyei-a-6ab2b460-887e-4f6c-97c1-728d8f0fb00d#ref=rss",
+      "titel": "Champions League: Paris Saint-Germain schlägt FC Barcelona 4:2 – Lamine Yamal mit Patzer und Traumtor",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-schlaegt-fc-barcelona-4-2-lamine-yamal-mit-patzer-und-traumtor-a-19a2d198-250c-47e4-8b7f-fd3e1d1a9b52#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T18:40:00+00:00"
+      "veroeffentlicht": "2026-10-20T21:38:00+00:00"
+    },
+    {
+      "titel": "Polens Parlament verabschiedet Gesetze zu Liberalisierung von Abtreibungsrecht",
+      "link": "https://www.spiegel.de/ausland/polens-parlament-verabschiedet-gesetze-zu-liberalisierung-von-abtreibungsrecht-a-39de5dd5-cca9-4ea1-88cb-4a5410661a00#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T20:35:00+00:00"
+    },
+    {
+      "titel": "Prinz Harry: Streit mit Vater und Bruder soll beigelegt werden",
+      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-streit-mit-vater-und-bruder-soll-beigelegt-werden-a-8ec5714b-6999-4f42-b423-7395840cf714#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T20:13:00+00:00"
+    },
+    {
+      "titel": "Nigeria bestätigt ersten Ebolafall",
+      "link": "https://www.spiegel.de/ausland/nigeria-bestaetigt-ersten-ebolafall-a-d62a79e5-615c-4a4b-bf74-ef9925db8b8e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T20:13:00+00:00"
+    },
+    {
+      "titel": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T20:01:00+00:00"
+    },
+    {
+      "titel": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-20T19:56:31+00:00"
+    },
+    {
+      "titel": "Hamburg: Feuerwehr hilft bei Hausgeburt und bringt Jungen zur Welt",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/hamburg-feuerwehr-hilft-bei-hausgeburt-und-bringt-jungen-zur-welt-a-0e985e55-828b-4d67-88de-1a6537b7d1d8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T19:40:00+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: US-Gesandter Steve Witkoff reist für Gespräche nach Russland",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-reist-fuer-gespraeche-nach-russland-a-270a79eb-fe7e-412e-ba0d-508f9466d1ed#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T19:40:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Jetzt verzögert Trump auch noch Waffenlieferungen – warum das fatale Folgen für Kyjiw haben könnte",
+      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-jetzt-verzoegert-trump-auch-noch-waffenlieferungen-warum-das-fatale-folgen-fuer-kyjiw-haben-koennte-a-dfedbb8a-9b6f-437f-9ea4-b6f7201d680c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-20T19:22:00+00:00"
     },
     {
       "titel": "Gewaltsame Proteste: Erneut nächtliche Ausgangssperren in Frankreich verhängt",
@@ -31,40 +79,16 @@
       "veroeffentlicht": "2026-10-20T18:31:22+00:00"
     },
     {
-      "titel": "Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/investitionen-was-vinci-chef-pierre-anjolras-am-standort-deutschland-schaetzt-a-883801b8-7453-4b01-9f8b-2842d86d844c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T18:23:00+00:00"
-    },
-    {
-      "titel": "Bulgarien lehnt Beteiligung an neuer EU-Finanzhilfe für Ukraine ab",
-      "link": "https://www.spiegel.de/ausland/bulgarien-lehnt-beteiligung-an-neuer-eu-finanzhilfe-fuer-ukraine-ab-a-c691ff7a-35a8-4bfe-a930-3e9f40ffc6f6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T18:23:00+00:00"
-    },
-    {
       "titel": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
       "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-20T17:49:19+00:00"
     },
     {
-      "titel": "Adam Wolke aka SkylineTV: Der deutsche Livestreamer ist tot",
-      "link": "https://www.spiegel.de/netzwelt/web/adam-wolke-aka-skylinetv-der-deutsche-livestreamer-ist-tot-a-252b47fa-40ef-4565-ba8e-e77a2f45fdfa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T17:47:00+00:00"
-    },
-    {
       "titel": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
       "link": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-20T17:41:17+00:00"
-    },
-    {
-      "titel": "Cornell University: »Jane Doe« wirft Unipräsident Kotlikoff Versagen vor",
-      "link": "https://www.spiegel.de/ausland/cornell-university-jane-doe-wirft-uni-praesident-kotlikoff-versagen-vor-a-7370b47c-b5cc-4952-93a6-22f4965b971b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T17:04:00+00:00"
     },
     {
       "titel": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
@@ -77,12 +101,6 @@
       "link": "https://www.sueddeutsche.de/politik/afd-mecklenburg-vorpommern-landtagspraesident-manuela-schwesig-spd-gruene-linke-li.3565823",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-20T16:48:28+00:00"
-    },
-    {
-      "titel": "Union Berlin: Wer-wird-Millionär-Kandidat kennt Trainer Mauro Lustrinelli nicht",
-      "link": "https://www.spiegel.de/sport/fussball/union-berlin-wer-wird-millionaer-kandidat-kennt-trainer-mauro-lustrinelli-nicht-a-b06149ef-ab35-406d-ae2e-f3c08b8fa26c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T16:44:00+00:00"
     },
     {
       "titel": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
@@ -103,22 +121,10 @@
       "veroeffentlicht": "2026-10-20T16:37:23+00:00"
     },
     {
-      "titel": "News des Tages: Friedrich Merz auf dem Investitionsgipfel; Vanessa Emde und die Berliner Linken; Deutschlandticket light",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-auf-dem-investitionsgipfel-vanessa-emde-und-die-berliner-linken-deutschlandticket-light-a-4a189124-dfb5-4b71-8f43-497944eb92d0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T16:25:00+00:00"
-    },
-    {
       "titel": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
       "link": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-20T16:23:41+00:00"
-    },
-    {
-      "titel": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T15:38:35+00:00"
     },
     {
       "titel": "Investitionen in Deutschland: Ey, haste mal 'ne Milliarde?",
@@ -137,12 +143,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-ukraine-2026-donald-trump-podcast-li.3566429",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-20T14:55:34+00:00"
-    },
-    {
-      "titel": "Flugausfälle: EU regelt Erstattung bei Buchung über Drittanbieter",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-reiserechte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T14:43:12+00:00"
     },
     {
       "titel": "Ukraine: „Es geht um Terror gegen Zivilisten, sonst nichts“",
