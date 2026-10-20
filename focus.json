@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-20T02:16:33+00:00",
+  "aktualisiert": "2026-10-20T07:46:29+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Spannungen zwischen Trump und Selenskyj",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
+      "titel": "Was zu den Midterms wichtig ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+      "quelle": "Tagesschau",
+      "icon": "⛈️"
+    },
+    {
+      "rang": 3,
       "titel": "Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
       "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
-      "quelle": "Tagesschau",
-      "icon": "⛈️"
     }
   ]
 }
