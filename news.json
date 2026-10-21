@@ -1,11 +1,23 @@
 {
-  "aktualisiert": "2026-10-20T22:41:15+00:00",
+  "aktualisiert": "2026-10-21T01:00:34+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Panne soll behoben werden: Höhere Tabaksteuer gilt aus Versehen ab sofort",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T00:53:00+00:00"
+    },
+    {
+      "titel": "SpaceX verdoppelt Umsatz und prüft laut Elon Musk Zusammenschluss mit Tesla",
+      "link": "https://www.spiegel.de/wirtschaft/spacex-verdoppelt-umsatz-und-prueft-laut-elon-musk-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T00:06:00+00:00"
+    },
     {
       "titel": "Zwei Verletzte nach Einsturz von Hoteldecke in Düsseldorf",
       "link": "https://www.spiegel.de/panorama/zwei-verletzte-nach-einsturz-von-hoteldecke-in-duesseldorf-a-3ad79766-dd90-4ba0-b58a-be0f233efe2d#ref=rss",
@@ -31,14 +43,14 @@
       "veroeffentlicht": "2026-10-20T20:35:00+00:00"
     },
     {
-      "titel": "Prinz Harry: Streit mit Vater und Bruder soll beigelegt werden",
-      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-streit-mit-vater-und-bruder-soll-beigelegt-werden-a-8ec5714b-6999-4f42-b423-7395840cf714#ref=rss",
+      "titel": "Nigeria bestätigt ersten Ebolafall",
+      "link": "https://www.spiegel.de/ausland/nigeria-bestaetigt-ersten-ebolafall-a-d62a79e5-615c-4a4b-bf74-ef9925db8b8e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-20T20:13:00+00:00"
     },
     {
-      "titel": "Nigeria bestätigt ersten Ebolafall",
-      "link": "https://www.spiegel.de/ausland/nigeria-bestaetigt-ersten-ebolafall-a-d62a79e5-615c-4a4b-bf74-ef9925db8b8e#ref=rss",
+      "titel": "Prinz Harry: Streit mit Vater und Bruder soll beigelegt werden",
+      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-streit-mit-vater-und-bruder-soll-beigelegt-werden-a-8ec5714b-6999-4f42-b423-7395840cf714#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-20T20:13:00+00:00"
     },
@@ -65,12 +77,6 @@
       "link": "https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-reist-fuer-gespraeche-nach-russland-a-270a79eb-fe7e-412e-ba0d-508f9466d1ed#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-20T19:40:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Jetzt verzögert Trump auch noch Waffenlieferungen – warum das fatale Folgen für Kyjiw haben könnte",
-      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-jetzt-verzoegert-trump-auch-noch-waffenlieferungen-warum-das-fatale-folgen-fuer-kyjiw-haben-koennte-a-dfedbb8a-9b6f-437f-9ea4-b6f7201d680c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T19:22:00+00:00"
     },
     {
       "titel": "Gewaltsame Proteste: Erneut nächtliche Ausgangssperren in Frankreich verhängt",
@@ -119,12 +125,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-20T16:37:23+00:00"
-    },
-    {
-      "titel": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T16:23:41+00:00"
     },
     {
       "titel": "Investitionen in Deutschland: Ey, haste mal 'ne Milliarde?",
