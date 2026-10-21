@@ -1,11 +1,77 @@
 {
-  "aktualisiert": "2026-10-21T20:42:07+00:00",
+  "aktualisiert": "2026-10-21T23:42:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Midterms in den USA: Neil Bush stimmt in Texas für Demokraten James Talarico",
+      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-neil-bush-stimmt-in-texas-fuer-demokraten-james-talarico-a-2cde7394-9e83-46cc-843f-195ea676c6c7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T23:17:00+00:00"
+    },
+    {
+      "titel": "Wolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland",
+      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-moechte-so-bald-wie-moeglich-gespraeche-mit-usa-und-russland-a-32f2b741-827e-483b-b2f3-f98feb2d653e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T23:06:00+00:00"
+    },
+    {
+      "titel": "Saudi-Arabien: USA ziehen Botschaftspersonal aus Riad ab",
+      "link": "https://www.spiegel.de/ausland/saudi-arabien-usa-ziehen-botschaftspersonal-aus-riad-ab-a-12c1c67e-b85a-405f-9825-a3d5217ecec5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T22:36:00+00:00"
+    },
+    {
+      "titel": "Bayern in der Einzelkritik: Kane regiert das ganze Spielfeld",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-einzelkritik-kane-davies-li.3567125",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T21:50:18+00:00"
+    },
+    {
+      "titel": "Leipzig unterliegt Real: Seriös unter die Räder gekommen",
+      "link": "https://www.sueddeutsche.de/sport/real-madrid-leipzig-champions-league-diomande-li.3567127",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T21:46:34+00:00"
+    },
+    {
+      "titel": "Champions League: RB Leipzig verliert bei Real Madrid, Manchester United unterliegt Como",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-rb-leipzig-verliert-bei-real-madrid-manchester-united-unterliegt-como-a-fe2d914d-2072-4a02-bd44-fa042d52539a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T21:46:00+00:00"
+    },
+    {
+      "titel": "Champions League: Harry Kane glänzt bei Bayerns Remis gegen FC Arsenal",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-harry-kane-glaenzt-bei-bayerns-remis-gegen-fc-arsenal-a-42ef91ab-056e-4fc8-87b1-d14f147d090d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T21:43:00+00:00"
+    },
+    {
+      "titel": "2:2 gegen Arsenal: Rice entreißt Bayern den Sieg",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-champions-league-kane-rice-li.3567124",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T21:08:58+00:00"
+    },
+    {
+      "titel": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T21:02:08+00:00"
+    },
+    {
+      "titel": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+      "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T20:47:20+00:00"
+    },
+    {
+      "titel": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T20:47:10+00:00"
+    },
     {
       "titel": "Vatikan: Papst Leo XIV. benötigt nach Lungen-OP keine weitere Krebstherapie",
       "link": "https://www.spiegel.de/panorama/leute/vatikan-papst-leo-xiv-benoetigt-nach-lungen-op-keine-weitere-krebstherapie-a-8202916e-3180-4975-b133-cd8c29464a73#ref=rss",
@@ -31,40 +97,10 @@
       "veroeffentlicht": "2026-10-21T19:14:00+00:00"
     },
     {
-      "titel": "Champions League im Liveticker: FC Bayern München gegen FC Arsenal",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-im-liveticker-fc-bayern-muenchen-gegen-fc-arsenal-a-53da6318-a51a-4c50-88fe-5a71e8714e6a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T18:55:00+00:00"
-    },
-    {
       "titel": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-21T18:54:59+00:00"
-    },
-    {
-      "titel": "Jürgen Klopp: Einblicke ins Familienleben bei DFB-Aktion »Der beste Tag«",
-      "link": "https://www.spiegel.de/panorama/leute/juergen-klopp-einblicke-ins-familienleben-bei-dfb-aktion-der-beste-tag-a-5449ec3d-4821-44e1-8467-e2d11c259b95#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T18:26:00+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Wie die Starlink-Drosselung Kyjiws Frontgewinne gefährdet",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wie-die-starlink-drosselung-kyjiws-frontgewinne-gefaehrdet-a-b7c0b77d-f3c2-47c5-ab76-3e92e2527d8d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T18:05:00+00:00"
-    },
-    {
-      "titel": "Mörlenbach: Mann reißt mit Bagger Teile des Nachbarhauses ein – Bewohnerin Nicole Gerstner berichtet",
-      "link": "https://www.spiegel.de/panorama/moerlenbach-mann-reisst-mit-bagger-teile-des-nachbarhauses-ein-bewohnerin-nicole-gerstner-berichtet-a-33b4ea13-82d2-437c-9711-c597a243b017#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T17:58:00+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T17:50:10+00:00"
     },
     {
       "titel": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
@@ -85,12 +121,6 @@
       "veroeffentlicht": "2026-10-21T17:21:35+00:00"
     },
     {
-      "titel": "Brad Lander: Israels Militär nimmt Mamdani-Verbündeten im Westjordanland fest",
-      "link": "https://www.spiegel.de/ausland/brad-lander-israels-militaer-nimmt-mamdani-verbuendeten-im-westjordanland-fest-a-4b082cbd-4a90-4e0c-b632-8affe3105de4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T17:21:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX startet dank KI durch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
       "quelle": "Tagesschau",
@@ -103,22 +133,10 @@
       "veroeffentlicht": "2026-10-21T16:57:53+00:00"
     },
     {
-      "titel": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
-      "link": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T15:16:35+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-kreml-usa-gespraeche-li.3563283",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-21T15:05:54+00:00"
-    },
-    {
-      "titel": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T14:35:26+00:00"
     },
     {
       "titel": "Olympische Spiele 2036, 2040 oder 2044: 20 Millionen Euro, damit München bei der Olympiabewerbung glänzt",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/russland-putin-usa-witkoff-krieg-ukraine-kommentar-li.3566839",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-21T13:34:28+00:00"
-    },
-    {
-      "titel": "Datenleck: Was steht im AfD-Leak?",
-      "link": "https://www.sueddeutsche.de/politik/afd-leak-afd-e-mails-alexander-gauland-hackerangriff-li.3566739",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T13:33:34+00:00"
-    },
-    {
-      "titel": "Bundeswehr: Wer den Wehrdienst-Fragebogen ignoriert, muss jetzt zahlen",
-      "link": "https://www.sueddeutsche.de/politik/bundeswehr-wehrdienst-bussgeld-fragebogen-li.3566903",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T13:12:21+00:00"
-    },
-    {
-      "titel": "Prozess gegen Russell Brand: „Wahllos und unersättlich“",
-      "link": "https://www.sueddeutsche.de/panorama/russell-brand-prozess-vorwurf-vergewaltigung-intime-details-li.3566439",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T13:02:13+00:00"
     }
   ]
 }
