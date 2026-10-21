@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-21T01:00:34+00:00",
+  "aktualisiert": "2026-10-21T06:03:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Panne soll behoben werden: Höhere Tabaksteuer gilt aus Versehen ab sofort",
+      "titel": "Gewaltsame Proteste: Ausgangssperren in Frankreich - mutmaßlicher Brandstifter von Limoges gefasst",
+      "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-ausganssperren-li.3565815",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T05:53:35+00:00"
+    },
+    {
+      "titel": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
+      "link": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T05:52:10+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX mit leichten Gewinnen erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T05:21:21+00:00"
+    },
+    {
+      "titel": "Tabaksteuer: Fehler im Gesetz sorgt für vorzeitige Steuererhöhung auf dem Papier",
+      "link": "https://www.spiegel.de/wirtschaft/service/tabaksteuer-fehler-im-gesetz-sorgt-fuer-vorzeitige-steuererhoehung-auf-dem-papier-a-6a39d9dd-17c5-4d0c-b2a2-c2d9cb7733ad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T05:15:00+00:00"
+    },
+    {
+      "titel": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T00:53:00+00:00"
+      "veroeffentlicht": "2026-10-21T04:52:22+00:00"
     },
     {
-      "titel": "SpaceX verdoppelt Umsatz und prüft laut Elon Musk Zusammenschluss mit Tesla",
-      "link": "https://www.spiegel.de/wirtschaft/spacex-verdoppelt-umsatz-und-prueft-laut-elon-musk-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T00:06:00+00:00"
+      "titel": "Demonstrationen: Proteste legen Pasta-Produktion in Italien lahm",
+      "link": "https://www.sueddeutsche.de/politik/italien-proteste-lebenshaltungskosten-pasta-energiepreise-giorgia-meloni-li.3566264",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T04:52:03+00:00"
     },
     {
-      "titel": "Zwei Verletzte nach Einsturz von Hoteldecke in Düsseldorf",
-      "link": "https://www.spiegel.de/panorama/zwei-verletzte-nach-einsturz-von-hoteldecke-in-duesseldorf-a-3ad79766-dd90-4ba0-b58a-be0f233efe2d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T22:17:00+00:00"
+      "titel": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T04:41:58+00:00"
     },
     {
-      "titel": "Champions League: VfB Stuttgart verpasst Sieg gegen Atlético Madrid",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-vfb-stuttgart-verpasst-sieg-gegen-atletico-madrid-a-f6f68fd6-3a52-404d-9616-236e07a85315#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T21:38:00+00:00"
+      "titel": "Krieg in der Ukraine: Berichte: Musk ordnete Drosselung von Starlink an",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-musk-trump-starlink-drosselung-selenskij-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T04:32:43+00:00"
     },
     {
-      "titel": "Champions League: Paris Saint-Germain schlägt FC Barcelona 4:2 – Lamine Yamal mit Patzer und Traumtor",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-schlaegt-fc-barcelona-4-2-lamine-yamal-mit-patzer-und-traumtor-a-19a2d198-250c-47e4-8b7f-fd3e1d1a9b52#ref=rss",
+      "titel": "Christiane Amanpour verlässt CNN: Was über die Gründe bekannt ist",
+      "link": "https://www.spiegel.de/ausland/christiane-amanpour-verlaesst-cnn-was-ueber-die-gruende-bekannt-ist-a-79bba1df-bd17-4fc8-818c-dbdde67d1c20#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T21:38:00+00:00"
+      "veroeffentlicht": "2026-10-21T04:24:00+00:00"
     },
     {
-      "titel": "Polens Parlament verabschiedet Gesetze zu Liberalisierung von Abtreibungsrecht",
-      "link": "https://www.spiegel.de/ausland/polens-parlament-verabschiedet-gesetze-zu-liberalisierung-von-abtreibungsrecht-a-39de5dd5-cca9-4ea1-88cb-4a5410661a00#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T20:35:00+00:00"
+      "titel": "Interne Lageeinschätzung - Bundeswehr warnt vor russischen Anschlägen",
+      "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-russland-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T04:00:11+00:00"
     },
     {
-      "titel": "Nigeria bestätigt ersten Ebolafall",
-      "link": "https://www.spiegel.de/ausland/nigeria-bestaetigt-ersten-ebolafall-a-d62a79e5-615c-4a4b-bf74-ef9925db8b8e#ref=rss",
+      "titel": "News: Ukrainegespräche, US-Präsident Trump, AfD-Datenleak",
+      "link": "https://www.spiegel.de/politik/deutschland/news-ukrainegespraeche-us-praesident-trump-afd-datenleak-a-2c7921c3-28d1-4254-94b8-f65836b59716#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T20:13:00+00:00"
+      "veroeffentlicht": "2026-10-21T03:46:00+00:00"
     },
     {
-      "titel": "Prinz Harry: Streit mit Vater und Bruder soll beigelegt werden",
-      "link": "https://www.spiegel.de/panorama/leute/prinz-harry-streit-mit-vater-und-bruder-soll-beigelegt-werden-a-8ec5714b-6999-4f42-b423-7395840cf714#ref=rss",
+      "titel": "»Der perfekte Urlaub« mit Elyas M'Barek: Humorabsturz auf Mallorca",
+      "link": "https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-mit-elyas-mbarek-humorabsturz-auf-mallorca-a-cda706e9-c79b-41d2-a19a-1206f56008c3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T20:13:00+00:00"
+      "veroeffentlicht": "2026-10-21T03:39:00+00:00"
+    },
+    {
+      "titel": "ChatGPT und Geld: Würden Sie der KI Ihre Geldanlage anvertrauen? - »Auf keinen Fall«",
+      "link": "https://www.spiegel.de/wirtschaft/service/chatgpt-und-geld-wuerden-sie-der-ki-ihre-geldanlage-anvertrauen-auf-keinen-fall-a-7cca6bd7-e10c-4060-8afc-b83ba4914ab9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T03:30:00+00:00"
+    },
+    {
+      "titel": "ChatGPT gegen MSCI World: So viel mehr Rendite holte die KI heraus – was das für Ihr Depot bedeutet",
+      "link": "https://www.spiegel.de/wirtschaft/service/chatgpt-gegen-msci-world-so-viel-mehr-rendite-holte-die-ki-heraus-was-das-fuer-ihr-depot-bedeutet-a-82e590f0-b224-498d-8a80-1a8ce1221443#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T03:30:00+00:00"
+    },
+    {
+      "titel": "Lula fordert Annullierung von Bolsonaros Kandidatur",
+      "link": "https://www.spiegel.de/ausland/lula-fordert-annullierung-von-bolsonaros-kandidatur-a-dad505fa-e0bf-4b60-89fe-e30348ea3ff3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T03:07:00+00:00"
+    },
+    {
+      "titel": "El Salvadors Präsident kündigt an, Tausende Häftlinge freizulassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T03:05:13+00:00"
+    },
+    {
+      "titel": "USA: Die neue Eiszeit zwischen Washington und Kiew",
+      "link": "https://www.sueddeutsche.de/politik/oslo-russland-trump-krieg-friedensgespraeche-li.3566517",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T02:44:51+00:00"
+    },
+    {
+      "titel": "Donald Trump will offenbar Briefing Room im Weißen Haus zum Pool umwandeln",
+      "link": "https://www.spiegel.de/ausland/donald-trump-will-offenbar-briefing-room-im-weissen-haus-zum-pool-umwandeln-a-3633b80c-7072-4ab1-b5cf-424c7839fa19#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T02:39:00+00:00"
+    },
+    {
+      "titel": "Judi Dench: Schauspielerin rechnet in Memoiren mit »Cats«-Film ab",
+      "link": "https://www.spiegel.de/kultur/judi-dench-schauspielerin-rechnet-in-memoiren-mit-cats-film-ab-a-81462d61-4e62-4622-b376-3c33e8c925bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T01:30:00+00:00"
+    },
+    {
+      "titel": "Nigeria bestätigt ersten Ebola-Fall",
+      "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T01:11:10+00:00"
     },
     {
       "titel": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
@@ -67,64 +139,10 @@
       "veroeffentlicht": "2026-10-20T19:56:31+00:00"
     },
     {
-      "titel": "Hamburg: Feuerwehr hilft bei Hausgeburt und bringt Jungen zur Welt",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/hamburg-feuerwehr-hilft-bei-hausgeburt-und-bringt-jungen-zur-welt-a-0e985e55-828b-4d67-88de-1a6537b7d1d8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T19:40:00+00:00"
-    },
-    {
-      "titel": "Ukrainekrieg: US-Gesandter Steve Witkoff reist für Gespräche nach Russland",
-      "link": "https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-reist-fuer-gespraeche-nach-russland-a-270a79eb-fe7e-412e-ba0d-508f9466d1ed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-20T19:40:00+00:00"
-    },
-    {
-      "titel": "Gewaltsame Proteste: Erneut nächtliche Ausgangssperren in Frankreich verhängt",
-      "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-ausganssperren-li.3565815",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T18:31:22+00:00"
-    },
-    {
-      "titel": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T17:49:19+00:00"
-    },
-    {
-      "titel": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T17:41:17+00:00"
-    },
-    {
-      "titel": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T16:57:49+00:00"
-    },
-    {
       "titel": "Mecklenburg-Vorpommern: Die AfD scheitert – und provoziert",
       "link": "https://www.sueddeutsche.de/politik/afd-mecklenburg-vorpommern-landtagspraesident-manuela-schwesig-spd-gruene-linke-li.3565823",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-20T16:48:28+00:00"
-    },
-    {
-      "titel": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
-      "link": "https://www.tagesschau.de/ausland/europa/europaeischer-rechnungshof-corona-gelder-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T16:42:23+00:00"
-    },
-    {
-      "titel": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T16:38:28+00:00"
-    },
-    {
-      "titel": "Marktbericht: Kurswende am Nachmittag",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T16:37:23+00:00"
     },
     {
       "titel": "Investitionen in Deutschland: Ey, haste mal 'ne Milliarde?",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/cherson-ukraine-russland-drohnenangriffe-yaroslav-shanko-li.3566004",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-20T14:39:09+00:00"
-    },
-    {
-      "titel": "Schweiz: Protest gegen geplante Entlassungen bei Tamedia",
-      "link": "https://www.sueddeutsche.de/medien/tamedia-entlassungen-ki-li.3566400",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T14:30:23+00:00"
-    },
-    {
-      "titel": "Streaming: „Muskulatur hat eine Sprache, und die muss man lernen“",
-      "link": "https://www.sueddeutsche.de/medien/mueller-wohlfahrt-fc-bayern-hoeness-becker-bolt-al-gaddafi-interview-li.3557692",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T14:14:25+00:00"
-    },
-    {
-      "titel": "Fifa-Machtkampf: Die 42 Fragen, die Infantino das Amt kosten sollen",
-      "link": "https://www.sueddeutsche.de/sport/fifa-infantino-machtkampf-uefa-ceferin-li.3566335",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T14:13:39+00:00"
     }
   ]
 }
