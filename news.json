@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-21T06:03:29+00:00",
+  "aktualisiert": "2026-10-21T11:53:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Gewaltsame Proteste: Ausgangssperren in Frankreich - mutmaßlicher Brandstifter von Limoges gefasst",
-      "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-ausganssperren-li.3565815",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T05:53:35+00:00"
-    },
-    {
-      "titel": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
-      "link": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html",
+      "titel": "Häuser sollen besser gegen Naturgefahren versichert werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T05:52:10+00:00"
+      "veroeffentlicht": "2026-10-21T11:48:22+00:00"
     },
     {
-      "titel": "Marktbericht: DAX mit leichten Gewinnen erwartet",
+      "titel": "Frankreich: Ein Videospielladen in Paris wurde bei Protesten geplündert – die Kunden räumen auf",
+      "link": "https://www.spiegel.de/ausland/frankreich-ein-videospielladen-in-paris-wurde-bei-protesten-gepluendert-die-kunden-raeumen-auf-a-28503d31-b48e-452f-a737-8f9044ce04ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T11:46:00+00:00"
+    },
+    {
+      "titel": "Bad Dürkheim: Tödliche Schüsse – 43-Jähriger auf Techno-Rave gefasst und angeklagt",
+      "link": "https://www.spiegel.de/panorama/justiz/bad-duerkheim-toedliche-schuesse-43-jaehriger-auf-techno-rave-gefasst-und-angeklagt-a-683a0243-5edf-4f26-bcc1-aab3ea146103#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T11:36:00+00:00"
+    },
+    {
+      "titel": "Bonitätsscore: Die Schufa muss erklären, wie sie zu ihrem Score kommt",
+      "link": "https://www.sueddeutsche.de/wirtschaft/schufa-score-transparenz-bundesgerichtshof-urteil-li.3564448",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T11:34:49+00:00"
+    },
+    {
+      "titel": "Fake Hotelanzeigen - Brüssel ermittelt gegen Booking.com",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-betrug-bookingcom-eu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T11:32:40+00:00"
+    },
+    {
+      "titel": "AfD und EU: Rechtsextreme fordern Ende der Direktwahl des Europaparlaments",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-und-eu-rechtsextreme-fordern-ende-der-direktwahl-des-europaparlaments-a-c8880948-0941-4e69-bb0d-fb16d7d4aa4d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T11:26:00+00:00"
+    },
+    {
+      "titel": "KI bei Leberkrebs-Gefährdung: Wie findet man die Kranken von morgen?",
+      "link": "https://www.spiegel.de/wissenschaft/wie-findet-man-die-kranken-von-morgen-a-c0c0875f-fa3e-420e-8cb5-fd76e290d5c0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T11:20:00+00:00"
+    },
+    {
+      "titel": "US-Demokraten vor den Midterms: Die wichtigsten Kandidaten gegen Trumps Republikaner",
+      "link": "https://www.spiegel.de/ausland/us-demokraten-vor-den-midterms-die-wichtigsten-kandidaten-gegen-trumps-republikaner-a-0159e2b7-ec4b-4690-b1ae-cecd6c0d398a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T11:15:00+00:00"
+    },
+    {
+      "titel": "50 Jahre »Emma« – 50 Jahre Protest und Kontroversen",
+      "link": "https://www.spiegel.de/kultur/50-jahre-emma-50-jahre-protest-und-kontroversen-a-71e29dad-ee96-4c54-8377-4acdf2fecde5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T11:15:00+00:00"
+    },
+    {
+      "titel": "Donald Trump und die Wirtschaft: Steigende Preise und Zinsen belasten die Midterms",
+      "link": "https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-steigende-preise-und-zinsen-belasten-die-midterms-a-42b0a5cf-0d58-4df4-941b-5581b19fa7e6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T11:14:00+00:00"
+    },
+    {
+      "titel": "Booking.com: EU ermittelt wegen Betrugsfällen gegen Reiseportal",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/booking-com-eu-ermittelt-wegen-betrugsfaellen-gegen-reiseportal-a-8d216472-2c82-45dc-b7f5-5843577ca58e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T11:07:00+00:00"
+    },
+    {
+      "titel": "Ansgar Schledde: AfD-Chef in Niedersachsen wird angeklagt",
+      "link": "https://www.spiegel.de/politik/deutschland/ansgar-schledde-afd-chef-in-niedersachsen-wird-angeklagt-a-919b7845-e4e8-4ea7-9a5c-8a0976b326d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-21T10:57:00+00:00"
+    },
+    {
+      "titel": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
+      "link": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T10:25:05+00:00"
+    },
+    {
+      "titel": "VfB Stuttgart: Spitzenreiterle in der Champions League – zumindest kurz",
+      "link": "https://www.sueddeutsche.de/sport/vfb-stuttgart-atletico-madrid-champions-league-undav-hoeness-li.3566757",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T10:20:19+00:00"
+    },
+    {
+      "titel": "Leute: „Oh Gott, ich halte das nicht aus“",
+      "link": "https://www.sueddeutsche.de/panorama/judi-dench-cats-bryan-adams-christian-applegate-toni-faber-leute-promis-vip-li.3566750",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T10:11:50+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Putin spricht mit Trump-Gesandten Witkoff über Ukraine-Krieg",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-witkoff-gespraeche-russland-putin-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T10:06:07+00:00"
+    },
+    {
+      "titel": "Borussia Dortmund: Die Expedition endet wie nach dem Freizeitkick im Park",
+      "link": "https://www.sueddeutsche.de/sport/bvb-champions-league-sabah-guirassy-kovac-li.3566759",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T09:59:24+00:00"
+    },
+    {
+      "titel": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T09:54:59+00:00"
+    },
+    {
+      "titel": "Psychologie: „Prokrastination ist ein Problem der Emotionsregulation“",
+      "link": "https://www.sueddeutsche.de/wissen/prokrastination-psychologie-aufschieben-studierende-emotionsregulation-li.3515898",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T09:38:49+00:00"
+    },
+    {
+      "titel": "KI-Fotos in Speisekarten: Zu schön, um gar zu sein",
+      "link": "https://www.sueddeutsche.de/panorama/kuenstliche-intelligenz-speisekarten-restaurants-essen-ki-bilder-appetit-li.3564117",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T09:37:32+00:00"
+    },
+    {
+      "titel": "US-Vermittler Witkoff berät mit Putin über Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T09:37:12+00:00"
+    },
+    {
+      "titel": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T09:31:54+00:00"
+    },
+    {
+      "titel": "DOSB-Präsident: Kampfkandidatur um das wichtigste Amt im deutschen Sport",
+      "link": "https://www.sueddeutsche.de/sport/olympia-sportpolitik-engelhardt-mronz-dosb-wahl-li.3566647",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T09:30:28+00:00"
+    },
+    {
+      "titel": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T09:00:03+00:00"
+    },
+    {
+      "titel": "Ungewöhnlicher Fund: Im Flussbett der Isar wachsen plötzlich Tomaten",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-isar-tomaten-flussbett-maximiliansanlagen-li.3565906",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T08:56:28+00:00"
+    },
+    {
+      "titel": "Wer an den Ausschreitungen in Frankreich beteiligt war",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-21T08:52:52+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX startet kaum verändert",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T05:21:21+00:00"
-    },
-    {
-      "titel": "Tabaksteuer: Fehler im Gesetz sorgt für vorzeitige Steuererhöhung auf dem Papier",
-      "link": "https://www.spiegel.de/wirtschaft/service/tabaksteuer-fehler-im-gesetz-sorgt-fuer-vorzeitige-steuererhoehung-auf-dem-papier-a-6a39d9dd-17c5-4d0c-b2a2-c2d9cb7733ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T05:15:00+00:00"
-    },
-    {
-      "titel": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T04:52:22+00:00"
-    },
-    {
-      "titel": "Demonstrationen: Proteste legen Pasta-Produktion in Italien lahm",
-      "link": "https://www.sueddeutsche.de/politik/italien-proteste-lebenshaltungskosten-pasta-energiepreise-giorgia-meloni-li.3566264",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T04:52:03+00:00"
-    },
-    {
-      "titel": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T04:41:58+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Berichte: Musk ordnete Drosselung von Starlink an",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-musk-trump-starlink-drosselung-selenskij-li.3563283",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T04:32:43+00:00"
-    },
-    {
-      "titel": "Christiane Amanpour verlässt CNN: Was über die Gründe bekannt ist",
-      "link": "https://www.spiegel.de/ausland/christiane-amanpour-verlaesst-cnn-was-ueber-die-gruende-bekannt-ist-a-79bba1df-bd17-4fc8-818c-dbdde67d1c20#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T04:24:00+00:00"
-    },
-    {
-      "titel": "Interne Lageeinschätzung - Bundeswehr warnt vor russischen Anschlägen",
-      "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-russland-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T04:00:11+00:00"
-    },
-    {
-      "titel": "News: Ukrainegespräche, US-Präsident Trump, AfD-Datenleak",
-      "link": "https://www.spiegel.de/politik/deutschland/news-ukrainegespraeche-us-praesident-trump-afd-datenleak-a-2c7921c3-28d1-4254-94b8-f65836b59716#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T03:46:00+00:00"
-    },
-    {
-      "titel": "»Der perfekte Urlaub« mit Elyas M'Barek: Humorabsturz auf Mallorca",
-      "link": "https://www.spiegel.de/kultur/kino/der-perfekte-urlaub-mit-elyas-mbarek-humorabsturz-auf-mallorca-a-cda706e9-c79b-41d2-a19a-1206f56008c3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T03:39:00+00:00"
-    },
-    {
-      "titel": "ChatGPT und Geld: Würden Sie der KI Ihre Geldanlage anvertrauen? - »Auf keinen Fall«",
-      "link": "https://www.spiegel.de/wirtschaft/service/chatgpt-und-geld-wuerden-sie-der-ki-ihre-geldanlage-anvertrauen-auf-keinen-fall-a-7cca6bd7-e10c-4060-8afc-b83ba4914ab9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T03:30:00+00:00"
-    },
-    {
-      "titel": "ChatGPT gegen MSCI World: So viel mehr Rendite holte die KI heraus – was das für Ihr Depot bedeutet",
-      "link": "https://www.spiegel.de/wirtschaft/service/chatgpt-gegen-msci-world-so-viel-mehr-rendite-holte-die-ki-heraus-was-das-fuer-ihr-depot-bedeutet-a-82e590f0-b224-498d-8a80-1a8ce1221443#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T03:30:00+00:00"
-    },
-    {
-      "titel": "Lula fordert Annullierung von Bolsonaros Kandidatur",
-      "link": "https://www.spiegel.de/ausland/lula-fordert-annullierung-von-bolsonaros-kandidatur-a-dad505fa-e0bf-4b60-89fe-e30348ea3ff3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T03:07:00+00:00"
-    },
-    {
-      "titel": "El Salvadors Präsident kündigt an, Tausende Häftlinge freizulassen",
-      "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T03:05:13+00:00"
-    },
-    {
-      "titel": "USA: Die neue Eiszeit zwischen Washington und Kiew",
-      "link": "https://www.sueddeutsche.de/politik/oslo-russland-trump-krieg-friedensgespraeche-li.3566517",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T02:44:51+00:00"
-    },
-    {
-      "titel": "Donald Trump will offenbar Briefing Room im Weißen Haus zum Pool umwandeln",
-      "link": "https://www.spiegel.de/ausland/donald-trump-will-offenbar-briefing-room-im-weissen-haus-zum-pool-umwandeln-a-3633b80c-7072-4ab1-b5cf-424c7839fa19#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T02:39:00+00:00"
-    },
-    {
-      "titel": "Judi Dench: Schauspielerin rechnet in Memoiren mit »Cats«-Film ab",
-      "link": "https://www.spiegel.de/kultur/judi-dench-schauspielerin-rechnet-in-memoiren-mit-cats-film-ab-a-81462d61-4e62-4622-b376-3c33e8c925bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T01:30:00+00:00"
-    },
-    {
-      "titel": "Nigeria bestätigt ersten Ebola-Fall",
-      "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T01:11:10+00:00"
-    },
-    {
-      "titel": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T20:01:00+00:00"
-    },
-    {
-      "titel": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-20T19:56:31+00:00"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern: Die AfD scheitert – und provoziert",
-      "link": "https://www.sueddeutsche.de/politik/afd-mecklenburg-vorpommern-landtagspraesident-manuela-schwesig-spd-gruene-linke-li.3565823",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T16:48:28+00:00"
-    },
-    {
-      "titel": "Investitionen in Deutschland: Ey, haste mal 'ne Milliarde?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/investitionen-deutschland-friedrich-merz-investorengipfel-li.3566360",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T15:35:27+00:00"
-    },
-    {
-      "titel": "FC Bayern: Kompany kuriert sich aus? Dankste!",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-kompany-krank-grippe-champions-league-li.3566543",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T15:21:34+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Will Trump die Ukraine zur Kapitulation zwingen?",
-      "link": "https://www.sueddeutsche.de/politik/usa-ukraine-2026-donald-trump-podcast-li.3566429",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T14:55:34+00:00"
-    },
-    {
-      "titel": "Ukraine: „Es geht um Terror gegen Zivilisten, sonst nichts“",
-      "link": "https://www.sueddeutsche.de/politik/cherson-ukraine-russland-drohnenangriffe-yaroslav-shanko-li.3566004",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-20T14:39:09+00:00"
+      "veroeffentlicht": "2026-10-21T08:52:33+00:00"
     }
   ]
 }
