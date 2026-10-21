@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-21T19:23:58+00:00",
+  "aktualisiert": "2026-10-21T22:30:42+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
-      "rang": 2,
-      "titel": "Sicherheitslücke bedroht weltweit Webseiten",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+      "titel": "Polizei Nordrhein-Westfalen",
+      "link": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
       "rang": 3,
-      "titel": "Wie es zum Fehler bei der Tabaksteuer kam",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
+      "titel": "Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+      "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
