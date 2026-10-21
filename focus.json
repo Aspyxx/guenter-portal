@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-21T10:20:58+00:00",
+  "aktualisiert": "2026-10-21T15:24:39+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Stephen Hubbard",
-      "link": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
+      "titel": "Putin stimmt neuen Gesprächen zu",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 2,
+      "titel": "Wie es zum Fehler bei der Tabaksteuer kam",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Blockierte Autobahnen, leere Supermarktregale",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔥"
-    },
-    {
       "rang": 3,
-      "titel": "US-Vermittler Witkoff berät mit Putin über Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
+      "titel": "Sicherheitslücke bedroht weltweit Webseiten",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
