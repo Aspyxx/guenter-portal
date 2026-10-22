@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-10-21T23:42:40+00:00",
+  "aktualisiert": "2026-10-22T01:57:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Jeffrey Epstein: Anwalt und Buchhalter in New Mexico angeklagt",
+      "link": "https://www.spiegel.de/ausland/jeffrey-epstein-anwalt-und-buchhalter-in-new-mexico-angeklagt-a-3e47839b-5c1b-4f27-bd6d-d41c78de188c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T01:39:00+00:00"
+    },
+    {
+      "titel": "Le Pen legt in Umfrage zur Präsidentschaftswahl leicht zu",
+      "link": "https://www.spiegel.de/ausland/le-pen-legt-in-umfrage-zur-praesidentschaftswahl-leicht-zu-a-2359874f-7de1-4cb9-8af7-714f72d62fc1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T00:38:00+00:00"
+    },
+    {
+      "titel": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
+      "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T00:05:26+00:00"
+    },
+    {
+      "titel": "»The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale",
+      "link": "https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-vincent-gross-gewinnt-als-stier-das-finale-a-3bf6bf17-4b47-486e-a892-7e25e90b33f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T00:01:00+00:00"
+    },
+    {
+      "titel": "Nahost: Angriffe der Huthi: USA ziehen Botschaftspersonal aus Saudi-Arabien ab",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-gantz-riad-us-botschaft-li.3560260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-21T23:47:10+00:00"
+    },
     {
       "titel": "Midterms in den USA: Neil Bush stimmt in Texas für Demokraten James Talarico",
       "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-neil-bush-stimmt-in-texas-fuer-demokraten-james-talarico-a-2cde7394-9e83-46cc-843f-195ea676c6c7#ref=rss",
@@ -79,24 +109,6 @@
       "veroeffentlicht": "2026-10-21T20:08:00+00:00"
     },
     {
-      "titel": "Thélyson Orélien: Verlag bestätigt KI-Vorwürfe gegen Autor – Zusammenarbeit eingestellt",
-      "link": "https://www.spiegel.de/kultur/thelyson-orelien-verlag-bestaetigt-ki-vorwuerfe-gegen-autor-zusammenarbeit-eingestellt-a-92c50624-48ca-4166-a9fa-7ccbad3dfe7a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T19:57:00+00:00"
-    },
-    {
-      "titel": "Meta: Cambridge-Analytica-Skandal bringt 25-Milliarden-Dollar-Strafe ins Spiel",
-      "link": "https://www.spiegel.de/netzwelt/meta-cambridge-analytica-skandal-bringt-25-milliarden-dollar-strafe-ins-spiel-a-92ceceda-93e2-4664-a346-b6fe20c7a1c0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T19:43:00+00:00"
-    },
-    {
-      "titel": "Sicherheitslücken: Wettrennen gegen den Internet-Zusammenbruch",
-      "link": "https://www.spiegel.de/netzwelt/sicherheitsluecken-wettrennen-gegen-den-internet-zusammenbruch-a-d2b6c8be-df12-4a44-8813-2a89e046f92c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T19:14:00+00:00"
-    },
-    {
       "titel": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
       "quelle": "Tagesschau",
@@ -127,12 +139,6 @@
       "veroeffentlicht": "2026-10-21T17:17:42+00:00"
     },
     {
-      "titel": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
-      "link": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T16:57:53+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-kreml-usa-gespraeche-li.3563283",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/barbara-palvin-mutterschutz-victoria-s-secret-geburt-usa-li.3566801",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-21T13:39:53+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Putin ist zu vielem bereit. Aber keinesfalls zu Zugeständnissen",
-      "link": "https://www.sueddeutsche.de/meinung/russland-putin-usa-witkoff-krieg-ukraine-kommentar-li.3566839",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T13:34:28+00:00"
     }
   ]
 }
