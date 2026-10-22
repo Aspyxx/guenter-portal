@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-21T22:30:42+00:00",
+  "aktualisiert": "2026-10-22T01:01:31+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Polizei Nordrhein-Westfalen",
-      "link": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
+      "titel": "Russische Raketen schlagen erneut in Kiew ein",
+      "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
+      "rang": 2,
       "titel": "Facebook-Konzern Meta soll Milliardenstrafe zahlen",
       "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Wie es zum Fehler bei der Tabaksteuer kam",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
