@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-22T01:01:31+00:00",
+  "aktualisiert": "2026-10-22T06:11:41+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Russische Raketen schlagen erneut in Kiew ein",
-      "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
+      "titel": "Auch Republikaner kritisieren Trumps Ukraine-Kurs",
+      "link": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
       "rang": 2,
-      "titel": "Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-      "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+      "titel": "Tech-Bilanzen schieben den DAX nicht weiter an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Wie es zum Fehler bei der Tabaksteuer kam",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
+      "titel": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
+      "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
