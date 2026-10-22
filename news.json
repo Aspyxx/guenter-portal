@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-22T01:57:17+00:00",
+  "aktualisiert": "2026-10-22T07:37:25+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "Jeffrey Epstein: Anwalt und Buchhalter in New Mexico angeklagt",
-      "link": "https://www.spiegel.de/ausland/jeffrey-epstein-anwalt-und-buchhalter-in-new-mexico-angeklagt-a-3e47839b-5c1b-4f27-bd6d-d41c78de188c#ref=rss",
+      "titel": "Sachsen-Anhalt: CDU-Politiker will bei Ministerpräsidentenwahl von Ulrich Siegmund im Saal bleiben",
+      "link": "https://www.spiegel.de/politik/sachsen-anhalt-cdu-politiker-will-bei-ministerpraesidentenwahl-von-ulrich-siegmund-im-saal-bleiben-a-2a122316-0493-424d-93d5-b0784e05c86d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T01:39:00+00:00"
+      "veroeffentlicht": "2026-10-22T07:35:00+00:00"
     },
     {
-      "titel": "Le Pen legt in Umfrage zur Präsidentschaftswahl leicht zu",
-      "link": "https://www.spiegel.de/ausland/le-pen-legt-in-umfrage-zur-praesidentschaftswahl-leicht-zu-a-2359874f-7de1-4cb9-8af7-714f72d62fc1#ref=rss",
+      "titel": "Sicherheitslücken: Onlinedienste nach kritischen Updates teils wieder erreichbar",
+      "link": "https://www.spiegel.de/netzwelt/web/sicherheitsluecken-onlinedienste-nach-kritischen-updates-teils-wieder-erreichbar-a-e6cab184-6f27-4b76-8f7f-2fc7cb74edd7#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T00:38:00+00:00"
+      "veroeffentlicht": "2026-10-22T06:59:00+00:00"
+    },
+    {
+      "titel": "Toter nach Angriff auf Flughafen in Saudi-Arabien",
+      "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T06:54:41+00:00"
+    },
+    {
+      "titel": "SPD: Unter diesen Bedingungen will Hubertus Heil Parteichef werden",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-unter-diesen-bedingungen-will-hubertus-heil-parteichef-werden-a-03d04fa8-6a55-474b-bff2-6bcdba857aa1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T06:47:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: CDU-Abgeordneter will bei Siegmund-Wahl im Saal bleiben",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-cdu-siegmund-ministerpraesident-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-22T06:43:12+00:00"
+    },
+    {
+      "titel": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T06:39:19+00:00"
+    },
+    {
+      "titel": "Warum Meta eine Rekordstrafe zahlen soll",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytica-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T06:36:44+00:00"
+    },
+    {
+      "titel": "Airbnb: Plattform verschärft Hausregeln für Vermieter",
+      "link": "https://www.spiegel.de/wirtschaft/airbnb-plattform-verschaerft-hausregeln-fuer-vermieter-a-98093c0b-2685-4998-bdd4-427addcb3904#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T06:36:00+00:00"
+    },
+    {
+      "titel": "FC Bayern München: Harry Kanes Multitasking überfordert sogar Jürgen Klopp",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-harry-kanes-multitasking-ueberfordert-sogar-juergen-klopp-a-512de855-c556-43ac-bc2c-50bc4b7b651b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T06:18:00+00:00"
+    },
+    {
+      "titel": "Zeitumstellung: Kinder sollten laut Deutschem Lehrerverband weiter lernen, analoge Uhren zu lesen",
+      "link": "https://www.spiegel.de/panorama/zeitumstellung-kinder-sollten-laut-deutschem-lehrerverband-weiter-lernen-analoge-uhren-zu-lesen-a-1a5210d4-416f-48bd-b631-7079f1a29cfe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T06:05:00+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: Kyjiw meldet Angriff mit ballistischen Raketen aus Russland",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-angriff-mit-ballistischen-raketen-aus-russland-a-ebe633f8-9af7-4e34-90f2-179804b56e79#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T05:56:00+00:00"
+    },
+    {
+      "titel": "Tesla: Gewinn bricht im dritten Quartal ein, Umsatz stagniert",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-gewinn-bricht-im-dritten-quartal-ein-umsatz-stagniert-a-cf4bcaca-f8fd-44cd-981c-3994b78480c0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T05:49:00+00:00"
+    },
+    {
+      "titel": "Rot-Grün-Rot in Berlin: Markus Söder will »Extremismusklausel« gegen AfD- und Linke-geführte Länder",
+      "link": "https://www.spiegel.de/politik/rot-gruen-rot-in-berlin-markus-soeder-will-extremismusklausel-gegen-afd-und-linke-gefuehrte-laender-a-16fc6b4b-7db9-4e09-aa8f-054b6ba71aaa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T05:44:00+00:00"
+    },
+    {
+      "titel": "Neue Grundsicherung: Bürgergeld-Reform spart doch keine Milliarden",
+      "link": "https://www.sueddeutsche.de/politik/buergergeld-reform-2026-grundsicherung-einsparungen-merz-li.3566853",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-22T05:31:41+00:00"
+    },
+    {
+      "titel": "Meta investiert mindestens 135 Milliarden Dollar in KI",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T05:25:41+00:00"
+    },
+    {
+      "titel": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T05:24:19+00:00"
+    },
+    {
+      "titel": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T05:03:31+00:00"
+    },
+    {
+      "titel": "Auch Republikaner kritisieren Trumps Ukraine-Kurs",
+      "link": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T05:03:03+00:00"
+    },
+    {
+      "titel": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
+      "link": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T03:30:26+00:00"
     },
     {
       "titel": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
       "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-22T00:05:26+00:00"
+      "veroeffentlicht": "2026-10-22T03:13:31+00:00"
     },
     {
-      "titel": "»The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale",
-      "link": "https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-vincent-gross-gewinnt-als-stier-das-finale-a-3bf6bf17-4b47-486e-a892-7e25e90b33f7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T00:01:00+00:00"
+      "titel": "Raubkatzen-Sichtung: Rätsel des Pumas am Münchner Flughafen bleibt vorerst ungelöst",
+      "link": "https://www.sueddeutsche.de/muenchen/puma-flughafen-muenchen-sichtung-raetsel-erding-ermittlungen-li.3567178",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-22T02:51:17+00:00"
     },
     {
       "titel": "Nahost: Angriffe der Huthi: USA ziehen Botschaftspersonal aus Saudi-Arabien ab",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-gantz-riad-us-botschaft-li.3560260",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-21T23:47:10+00:00"
-    },
-    {
-      "titel": "Midterms in den USA: Neil Bush stimmt in Texas für Demokraten James Talarico",
-      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-neil-bush-stimmt-in-texas-fuer-demokraten-james-talarico-a-2cde7394-9e83-46cc-843f-195ea676c6c7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T23:17:00+00:00"
-    },
-    {
-      "titel": "Wolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland",
-      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-moechte-so-bald-wie-moeglich-gespraeche-mit-usa-und-russland-a-32f2b741-827e-483b-b2f3-f98feb2d653e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T23:06:00+00:00"
-    },
-    {
-      "titel": "Saudi-Arabien: USA ziehen Botschaftspersonal aus Riad ab",
-      "link": "https://www.spiegel.de/ausland/saudi-arabien-usa-ziehen-botschaftspersonal-aus-riad-ab-a-12c1c67e-b85a-405f-9825-a3d5217ecec5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T22:36:00+00:00"
     },
     {
       "titel": "Bayern in der Einzelkritik: Kane regiert das ganze Spielfeld",
@@ -62,81 +146,15 @@
     },
     {
       "titel": "Leipzig unterliegt Real: Seriös unter die Räder gekommen",
-      "link": "https://www.sueddeutsche.de/sport/real-madrid-leipzig-champions-league-diomande-li.3567127",
+      "link": "https://www.sueddeutsche.de/sport/real-madrid-rb-leipzig-pleite-champions-league-diomande-li.3567127",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-21T21:46:34+00:00"
-    },
-    {
-      "titel": "Champions League: RB Leipzig verliert bei Real Madrid, Manchester United unterliegt Como",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-rb-leipzig-verliert-bei-real-madrid-manchester-united-unterliegt-como-a-fe2d914d-2072-4a02-bd44-fa042d52539a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T21:46:00+00:00"
-    },
-    {
-      "titel": "Champions League: Harry Kane glänzt bei Bayerns Remis gegen FC Arsenal",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-harry-kane-glaenzt-bei-bayerns-remis-gegen-fc-arsenal-a-42ef91ab-056e-4fc8-87b1-d14f147d090d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T21:43:00+00:00"
     },
     {
       "titel": "2:2 gegen Arsenal: Rice entreißt Bayern den Sieg",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-champions-league-kane-rice-li.3567124",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-21T21:08:58+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T21:02:08+00:00"
-    },
-    {
-      "titel": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-      "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T20:47:20+00:00"
-    },
-    {
-      "titel": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T20:47:10+00:00"
-    },
-    {
-      "titel": "Vatikan: Papst Leo XIV. benötigt nach Lungen-OP keine weitere Krebstherapie",
-      "link": "https://www.spiegel.de/panorama/leute/vatikan-papst-leo-xiv-benoetigt-nach-lungen-op-keine-weitere-krebstherapie-a-8202916e-3180-4975-b133-cd8c29464a73#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-21T20:08:00+00:00"
-    },
-    {
-      "titel": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T18:54:59+00:00"
-    },
-    {
-      "titel": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T17:48:20+00:00"
-    },
-    {
-      "titel": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T17:32:26+00:00"
-    },
-    {
-      "titel": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T17:21:35+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX startet dank KI durch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-21T17:17:42+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-olympia-2036-bewerbung-stadtrat-olympische-spiele-li.3566342",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-21T13:52:48+00:00"
-    },
-    {
-      "titel": "Erderwärmung: Macht Trump die Klimaziele unerreichbar?",
-      "link": "https://www.sueddeutsche.de/wissen/klimawandel-fakten-leugner-donald-trump-emissionen-erderwaermung-folgen-li.3566817",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T13:42:26+00:00"
-    },
-    {
-      "titel": "Reisen und KI: Bucht Chat-GPT den Urlaub?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/kuenstliche-intelligenz-chatgpt-urlaub-buchung-reisebranche-tourismus-li.3564139",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T13:40:58+00:00"
-    },
-    {
-      "titel": "Arbeitsrecht: Warum die USA über den Mutterschutz einer einzelnen Frau streiten",
-      "link": "https://www.sueddeutsche.de/wirtschaft/barbara-palvin-mutterschutz-victoria-s-secret-geburt-usa-li.3566801",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-21T13:39:53+00:00"
     }
   ]
 }
