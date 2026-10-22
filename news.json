@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-22T18:01:50+00:00",
+  "aktualisiert": "2026-10-22T21:38:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "AfD-Parteitag in Erfurt: Rückzug von »Widersetzen«-Sprecher nach Angriffen auf Reporter",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-erfurt-rueckzug-von-widersetzen-sprecher-nach-angriffen-auf-reporter-a-a510f8b8-8e5c-4432-91bb-dee4e684e986#ref=rss",
+      "titel": "Ukraine-Krieg: Trump soll Musk zur Aufhebung der Starlink-Drosselung gedrängt haben",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-trump-soll-musk-zur-aufhebung-der-starlink-drosselung-gedraengt-haben-a-4f3c3b67-dfb1-41e3-a5a0-b037f43fc652#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T17:52:00+00:00"
+      "veroeffentlicht": "2026-10-22T21:33:00+00:00"
     },
     {
-      "titel": "CDU in Sachsen-Anhalt: Verdacht auf AfD-Nähe bei Abgeordnetem Guido Heuer",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer-a-4befff58-c23f-426b-91d8-74fd99493982#ref=rss",
+      "titel": "Vivek Ramaswamy: Trump stellt sich nach Skandal-Werbespot hinter Kandidaten",
+      "link": "https://www.spiegel.de/ausland/vivek-ramaswamy-trump-stellt-sich-nach-skandal-werbespot-hinter-kandidaten-a-46e58b65-48c9-410c-a9c5-095bff7abc07#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T17:50:00+00:00"
+      "veroeffentlicht": "2026-10-22T20:22:00+00:00"
     },
     {
-      "titel": "Steuerschätzung: Lars Klingbeil verteidigt Verzicht auf weitere Steuersenkungen",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/steuerschaetzung-lars-klingbeil-verteidigt-verzicht-auf-weitere-steuersenkungen-a-dcf78c7e-cc43-4d8d-a7e3-b849bf94cdb2#ref=rss",
+      "titel": "Eminems Ex-Mitarbeiter klaute unveröffentlichte Musik",
+      "link": "https://www.spiegel.de/kultur/musik/eminems-ex-mitarbeiter-klaute-unveroeffentlichte-musik-a-5a89302e-ba95-4407-a028-bcd605df647b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T17:47:00+00:00"
+      "veroeffentlicht": "2026-10-22T20:14:00+00:00"
     },
     {
-      "titel": "BVB: Verein belohnt Fans im Stadion für Handyverzicht",
-      "link": "https://www.spiegel.de/sport/fussball/bvb-verein-belohnt-fans-im-stadion-fuer-handyverzicht-a-f2a77bbb-a0e1-464e-8afb-24a850403476#ref=rss",
+      "titel": "Russland: Wer ist der Deutsche Michael F., der vom FSB vorgeführt wurde?",
+      "link": "https://www.spiegel.de/ausland/russland-wer-ist-der-deutsche-michael-f-der-vom-fsb-vorgefuehrt-wurde-a-b9b68f7f-b1bd-4d2f-9b59-f985c80428b4#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T17:39:00+00:00"
+      "veroeffentlicht": "2026-10-22T20:08:00+00:00"
     },
     {
-      "titel": "A5 bei Sinzheim gesperrt - Weltkriegsbombe wird entschärft",
-      "link": "https://www.spiegel.de/panorama/a5-bei-sinzheim-gesperrt-weltkriegsbombe-wird-entschaerft-a-6c78b147-464d-4848-ad1b-8587af4e6795#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T17:14:00+00:00"
+      "titel": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T19:48:35+00:00"
     },
     {
-      "titel": "Mike DeWine: Ohios republikanischer Gouverneur kritisiert Vivek Ramaswamy",
-      "link": "https://www.spiegel.de/ausland/mike-dewine-ohios-republikanischer-gouverneur-kritisiert-vivek-ramaswamy-a-46e58b65-48c9-410c-a9c5-095bff7abc07#ref=rss",
+      "titel": "Weltkriegsbombe nahe A5 entschärft – Sperrung aufgehoben",
+      "link": "https://www.spiegel.de/panorama/weltkriegsbombe-nahe-a5-entschaerft-sperrung-aufgehoben-a-aef4c5b2-1ad9-41a4-943f-37ddc47b44bb#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T17:14:00+00:00"
+      "veroeffentlicht": "2026-10-22T19:46:00+00:00"
+    },
+    {
+      "titel": "Donald Trump verklagt die BBC: Gericht verpflichtet Trump zur Aussage im Dezember",
+      "link": "https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-gericht-verpflichtet-trump-zur-aussage-im-dezember-a-51d14936-4c2c-4224-a9f8-1a8d7c6f46ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T19:42:00+00:00"
+    },
+    {
+      "titel": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
+      "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T19:34:07+00:00"
+    },
+    {
+      "titel": "Polen: Tausende demonstrieren für ein liberales Abtreibungsrecht",
+      "link": "https://www.spiegel.de/ausland/polen-tausende-demonstrieren-fuer-ein-liberales-abtreibungsrecht-a-80adfbcc-bad1-4f81-9606-77ac839e06b3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T19:32:00+00:00"
+    },
+    {
+      "titel": "USA: Reporter des »Independent« nach Frage zu Initiative aus Trumps Pressepool ausgeschlossen",
+      "link": "https://www.spiegel.de/ausland/usa-reporter-des-independent-nach-frage-zu-initiative-aus-trumps-pressepool-ausgeschlossen-a-09e3be8d-abbb-4967-a84c-c629431aa409#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T18:54:00+00:00"
+    },
+    {
+      "titel": "Clavicular: »Looksmaxxing«-Influencer plädiert auf »nicht schuldig«",
+      "link": "https://www.spiegel.de/ausland/clavicular-looksmaxxing-influencer-plaediert-auf-nicht-schuldig-a-461c350c-1c31-48e7-b12c-b1a6fb749ee0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T18:44:00+00:00"
+    },
+    {
+      "titel": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
+      "link": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-22T18:12:49+00:00"
     },
     {
       "titel": "Datenschutzerklärung von tagesschau.de",
@@ -49,34 +85,16 @@
       "veroeffentlicht": "2026-10-22T16:54:35+00:00"
     },
     {
-      "titel": "NRW: Justizbeamte in rassistischen Chats – Gericht entscheidet auf Entlassung und Zurückstufung",
-      "link": "https://www.spiegel.de/panorama/justiz/nrw-justizbeamte-in-rassistischen-chats-gericht-entscheidet-auf-entlassung-und-zurueckstufung-a-386e927d-cf02-42ac-8661-3488ff2e369b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T16:48:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX fällt wieder zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-22T16:36:57+00:00"
     },
     {
-      "titel": "»Being Sebastian Vettel«: Vom Formel-1-Weltmeister zum Umweltaktivisten - ARD-Doku",
-      "link": "https://www.spiegel.de/sport/formel1/being-sebastian-vettel-vom-formel-1-weltmeister-zum-umweltaktivisten-ard-doku-a-a4b7e97b-c0db-4315-9a43-1fd5ea9944f8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T16:36:00+00:00"
-    },
-    {
       "titel": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
       "link": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-22T16:35:29+00:00"
-    },
-    {
-      "titel": "Wirecard-Prozess: SPIEGEL-Reporter besucht Markus Braun im Gefängnis",
-      "link": "https://www.spiegel.de/wirtschaft/wirecard-prozess-spiegel-reporter-besucht-markus-braun-im-gefaengnis-a-d797a901-c952-4646-97df-eb4bf10714dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T16:34:00+00:00"
     },
     {
       "titel": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-verleihung-bayerischer-fernsehpreis-blauer-panther-2026-johannes-hegemann-li.3554257",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-22T13:48:56+00:00"
-    },
-    {
-      "titel": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-22T13:27:40+00:00"
-    },
-    {
-      "titel": "Marktbericht: SAP-Umbau trägt Früchte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-22T12:10:58+00:00"
-    },
-    {
-      "titel": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
-      "link": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-22T11:42:57+00:00"
     }
   ]
 }
