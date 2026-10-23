@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-10-23T19:16:09+00:00",
+  "aktualisiert": "2026-10-23T22:39:00+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Nahost: Israel startet im Westjordanland „Anti-Terror-Operation“",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-us-botschaft-westjordanland-li.3560260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-23T22:25:46+00:00"
+    },
+    {
+      "titel": "Kenia: Mehrere Vermisste nach Einsturz von Hochhaus in Nairobi",
+      "link": "https://www.spiegel.de/ausland/kenia-mehrere-vermisste-nach-einsturz-von-hochhaus-in-nairobi-a-69e9c617-1c64-4858-bfcf-91506e7df4ee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T21:33:00+00:00"
+    },
+    {
+      "titel": "Laura Owens: Frau erfindet Schwangerschaft nach Nacht mit Ex-»Bachelor«",
+      "link": "https://www.spiegel.de/panorama/justiz/laura-owens-frau-erfindet-schwangerschaft-nach-nacht-mit-ex-bachelor-a-7a31b7a0-f061-49c3-8b6c-694bae5774d2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T20:43:00+00:00"
+    },
+    {
+      "titel": "Handelsstreit mit Kanada: USA lockern Zölle gegen landwirtschaftliche Produkte",
+      "link": "https://www.spiegel.de/ausland/handelsstreit-mit-kanada-usa-lockern-zoelle-gegen-landwirtschaftliche-produkte-a-c66bc640-e823-4737-a389-326b0cb5f4ac#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T20:04:00+00:00"
+    },
+    {
+      "titel": "Frankreich rüstet sich für nächsten Protesttag",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T20:02:01+00:00"
+    },
+    {
+      "titel": "Markus Söder: Wie das Aigner-Dilemma seine Kanzlerträume gefährden könnte",
+      "link": "https://www.spiegel.de/politik/deutschland/markus-soeder-wie-das-aigner-dilemma-seine-kanzlertraeume-gefaehrden-koennte-a-13dc7479-31aa-4131-a449-28c22a4aef6d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T19:59:00+00:00"
+    },
+    {
+      "titel": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T19:45:20+00:00"
+    },
     {
       "titel": "American Football: Neues »Retro«-Logo der Atlanta Falcons erinnert Fans an Nazisymbolik",
       "link": "https://www.spiegel.de/sport/american-football/american-football-neues-retro-logo-der-atlanta-falcons-erinnert-fans-an-nazisymbolik-a-f8129154-01c0-44bf-9da8-664a07d906e8#ref=rss",
@@ -67,18 +109,6 @@
       "veroeffentlicht": "2026-10-23T17:38:00+00:00"
     },
     {
-      "titel": "Darline Graham: Donald Trump verrät ihren Bruder Lindsey – fünf Tage später macht sie Wahlkampf mit ihm",
-      "link": "https://www.spiegel.de/ausland/darline-graham-donald-trump-verraet-ihren-bruder-lindsey-fuenf-tage-spaeter-macht-sie-wahlkampf-mit-ihm-a-906d3578-7439-46f5-89f1-e05de781108e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T17:35:00+00:00"
-    },
-    {
-      "titel": "Daniel Aminati: Was Patrice Aminatis Krebserkrankung mit ihrer Scheidung zu tun hat",
-      "link": "https://www.spiegel.de/panorama/leute/daniel-aminati-was-patrice-aminatis-krebserkrankung-mit-ihrer-scheidung-zu-tun-hat-a-1cc3c3d4-84bc-459f-8609-38eb70f9cad9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T17:30:00+00:00"
-    },
-    {
       "titel": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
       "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
       "quelle": "Tagesschau",
@@ -97,12 +127,6 @@
       "veroeffentlicht": "2026-10-23T17:05:12+00:00"
     },
     {
-      "titel": "Ukraine-Russland-Krieg: Melania Trump verkündet lokale Waffenruhe verkünden, Kreml und Kyjiw bestätigen",
-      "link": "https://www.spiegel.de/ausland/ukraine-russland-krieg-melania-trump-verkuendet-lokale-waffenruhe-verkuenden-kreml-und-kyjiw-bestaetigen-a-7c266a41-621e-4d77-80d8-cc4dd675ecf6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T17:02:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX-Anleger meiden das Risiko",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
       "quelle": "Tagesschau",
@@ -115,28 +139,10 @@
       "veroeffentlicht": "2026-10-23T16:31:33+00:00"
     },
     {
-      "titel": "Israel: Wie Benjamin Netanyahu trotz Skandalen an der Macht bleibt",
-      "link": "https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-trotz-skandalen-an-der-macht-bleibt-a-72d6bab4-aa12-4f6f-b50a-9f035fdc5dcb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T16:30:00+00:00"
-    },
-    {
-      "titel": "Griechenland verbietet Social Media für unter 15-Jährige",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T15:44:49+00:00"
-    },
-    {
       "titel": "Nahost: Israel bereitet Abriegelung des Westjordanlands vor – Netanjahu kündigt Großeinsatz an",
       "link": "https://www.sueddeutsche.de/politik/westjordanland-abriegelung-israel-netanjahu-angriff-grosseinsatz-li.3567934",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-23T15:30:00+00:00"
-    },
-    {
-      "titel": "Ein Toter und Verletze: Innenminister spricht von Terror-Tat bei Paris",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T15:15:56+00:00"
     },
     {
       "titel": "Fifa-Präsident: Der Preis, um Infantino loszuwerden, wird für Europa immer höher",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/lufthansa-carsten-spohr-turnaround-iran-krieg-fluggesellschaft-li.3563016",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-23T13:26:53+00:00"
-    },
-    {
-      "titel": "Kindesmissbrauch: Meghan „bestürzt“ über Vorwürfe gegen ihren Vater",
-      "link": "https://www.sueddeutsche.de/panorama/kindesmissbrauch-meghan-thomas-markle-philippinen-vater-halbbruder-li.3568062",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T13:04:29+00:00"
     }
   ]
 }
