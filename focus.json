@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-23T12:53:41+00:00",
+  "aktualisiert": "2026-10-23T17:31:46+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Goodbye Deutschland Die Auswanderer",
-      "link": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
+      "titel": "Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Ein Toter und mehrere Verletzte nach Schüssen bei Paris",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Tech-Sorgen und hohe Ölpreise belasten den DAX",
+      "titel": "DAX-Anleger meiden das Risiko",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
+    },
+    {
+      "rang": 3,
+      "titel": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
