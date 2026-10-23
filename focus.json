@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-23T07:44:14+00:00",
+  "aktualisiert": "2026-10-23T12:53:41+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Tech-Ausverkauf drückt auf die Anlegerstimmung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+      "titel": "Goodbye Deutschland Die Auswanderer",
+      "link": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Tausende fordern Rückkehr von Machado",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-demonstrationen-machado-100.html",
+      "titel": "Ein Toter und mehrere Verletzte nach Schüssen bei Paris",
+      "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
-      "link": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html",
+      "titel": "Tech-Sorgen und hohe Ölpreise belasten den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
