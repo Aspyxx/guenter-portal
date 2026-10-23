@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-22T23:42:30+00:00",
+  "aktualisiert": "2026-10-23T02:08:38+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
+      "titel": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
       "titel": "DAX fällt wieder zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
-    },
-    {
-      "rang": 3,
-      "titel": "Fast alle Korallenriffe weltweit vom Absterben bedroht",
-      "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
