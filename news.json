@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-23T15:06:37+00:00",
+  "aktualisiert": "2026-10-23T19:16:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Hamburg: Nach Suizid von Jugendlicher in USA - mutmaßlicher Onlinesadist gefasst",
-      "link": "https://www.spiegel.de/panorama/justiz/hamburg-nach-suizid-von-jugendlicher-in-usa-mutmasslicher-onlinesadist-gefasst-a-16fb4e7e-7898-48e2-99a2-93d907bd6cae#ref=rss",
+      "titel": "American Football: Neues »Retro«-Logo der Atlanta Falcons erinnert Fans an Nazisymbolik",
+      "link": "https://www.spiegel.de/sport/american-football/american-football-neues-retro-logo-der-atlanta-falcons-erinnert-fans-an-nazisymbolik-a-f8129154-01c0-44bf-9da8-664a07d906e8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T14:52:00+00:00"
+      "veroeffentlicht": "2026-10-23T19:08:00+00:00"
     },
     {
-      "titel": "Ukraine-Russland-Krieg: Handelsschiff vor Rumänien sinkt nach Drohnentreffer",
-      "link": "https://www.spiegel.de/ausland/ukraine-russland-krieg-handelsschiff-vor-rumaenien-sinkt-nach-drohnentreffer-a-8077ad6b-a8d6-4cc4-9b71-85346cc34db2#ref=rss",
+      "titel": "Bayern-Trainer: Vincent Kompany nach Zusammenbruch in stabilem Zustand",
+      "link": "https://www.spiegel.de/sport/fussball/bayern-trainer-vincent-kompany-nach-zusammenbruch-in-stabilem-zustand-a-b59318c4-ee92-46f7-b8c3-ed13f34aedf0#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T14:28:00+00:00"
+      "veroeffentlicht": "2026-10-23T18:37:00+00:00"
+    },
+    {
+      "titel": "Proteste: Frankreich fürchtet neue Krawalle bei landesweiten Demos",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-proteste-krawalle-pluenderungen-kundgebungen-li.3568230",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-23T18:34:49+00:00"
+    },
+    {
+      "titel": "Frankreich: Emmanuel Macron besucht Pariser Vorort nach tödlichen Schüssen",
+      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-besucht-pariser-vorort-nach-toedlichen-schuessen-a-6c372ae1-9ccd-46f4-9182-43603bf2ec40#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T18:25:00+00:00"
+    },
+    {
+      "titel": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T18:10:26+00:00"
+    },
+    {
+      "titel": "Midterms in Alaska: US-Justizministerium reicht Klage wegen doppeltem Dan Sullivan ein",
+      "link": "https://www.spiegel.de/ausland/midterms-in-alaska-us-justizministerium-reicht-klage-doppeltem-dan-sullivan-ein-a-f0104132-9929-4ce6-b9df-31183a16a3e1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T18:09:00+00:00"
+    },
+    {
+      "titel": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T17:50:13+00:00"
+    },
+    {
+      "titel": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
+      "link": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T17:43:10+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Kiew und Moskau stimmen Feuerpause für Oleschky zu – USA: Melania Trump hat vermittelt",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-feuerpause-oleschky-melania-trump-papst-leo-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-23T17:40:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz: Erstmals reist ein »Nius«-Mitarbeiter im Regierungsflieger mit",
+      "link": "https://www.spiegel.de/politik/friedrich-merz-erstmals-reist-ein-nius-mitarbeiter-im-regierungsflieger-mit-a-95dd0222-c57c-4af0-b9d3-8649e24a5d9f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T17:38:00+00:00"
+    },
+    {
+      "titel": "Darline Graham: Donald Trump verrät ihren Bruder Lindsey – fünf Tage später macht sie Wahlkampf mit ihm",
+      "link": "https://www.spiegel.de/ausland/darline-graham-donald-trump-verraet-ihren-bruder-lindsey-fuenf-tage-spaeter-macht-sie-wahlkampf-mit-ihm-a-906d3578-7439-46f5-89f1-e05de781108e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T17:35:00+00:00"
+    },
+    {
+      "titel": "Daniel Aminati: Was Patrice Aminatis Krebserkrankung mit ihrer Scheidung zu tun hat",
+      "link": "https://www.spiegel.de/panorama/leute/daniel-aminati-was-patrice-aminatis-krebserkrankung-mit-ihrer-scheidung-zu-tun-hat-a-1cc3c3d4-84bc-459f-8609-38eb70f9cad9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T17:30:00+00:00"
+    },
+    {
+      "titel": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+      "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T17:26:28+00:00"
+    },
+    {
+      "titel": "CSU-Parteitag in München: Söder lässt den Saal für Ilse Aigner jubeln",
+      "link": "https://www.sueddeutsche.de/bayern/csu-parteitag-soeder-aigner-merz-brandmauer-li.3564629",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-23T17:18:22+00:00"
+    },
+    {
+      "titel": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T17:05:12+00:00"
+    },
+    {
+      "titel": "Ukraine-Russland-Krieg: Melania Trump verkündet lokale Waffenruhe verkünden, Kreml und Kyjiw bestätigen",
+      "link": "https://www.spiegel.de/ausland/ukraine-russland-krieg-melania-trump-verkuendet-lokale-waffenruhe-verkuenden-kreml-und-kyjiw-bestaetigen-a-7c266a41-621e-4d77-80d8-cc4dd675ecf6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T17:02:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX-Anleger meiden das Risiko",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T16:38:57+00:00"
+    },
+    {
+      "titel": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
+      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-23T16:31:33+00:00"
+    },
+    {
+      "titel": "Israel: Wie Benjamin Netanyahu trotz Skandalen an der Macht bleibt",
+      "link": "https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-trotz-skandalen-an-der-macht-bleibt-a-72d6bab4-aa12-4f6f-b50a-9f035fdc5dcb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T16:30:00+00:00"
     },
     {
       "titel": "Griechenland verbietet Social Media für unter 15-Jährige",
-      "link": "https://www.spiegel.de/netzwelt/netzpolitik/griechenland-verbietet-social-media-fuer-unter-15-jaehrige-a-c806b12a-20c8-4b76-9dff-c5571c7a5713#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T14:19:00+00:00"
-    },
-    {
-      "titel": "Iran-Krieg: Lufthansa verschiebt Neustart der Flüge nach Dubai",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-lufthansa-verschiebt-neustart-der-fluege-nach-dubai-a-26af5a21-cc45-4247-a043-83122be0a8c4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T14:15:00+00:00"
-    },
-    {
-      "titel": "Marathon: Weltmeisterin Peres Jepchirchir droht Sperre nach positivem Dopingtest",
-      "link": "https://www.spiegel.de/sport/leichtathletik/marathon-weltmeisterin-peres-jepchirchir-droht-sperre-nach-positivem-dopingtest-a-50c1f2c9-cfc6-48a2-b59f-7eae0781cfe1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T14:14:00+00:00"
-    },
-    {
-      "titel": "Tschechisch-Bayerische Grenze: Leichtes Erdbeben gemeldet",
-      "link": "https://www.spiegel.de/wissenschaft/tschechisch-bayerische-grenze-leichtes-erdbeben-gemeldet-a-6be8ab97-c3c1-4f21-b229-08eaca3cfc5a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T14:10:00+00:00"
-    },
-    {
-      "titel": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T14:09:56+00:00"
+      "veroeffentlicht": "2026-10-23T15:44:49+00:00"
     },
     {
-      "titel": "Gianni Infantino: Unterstützung aus Asien erschwert Suche nach Gegenkandidaten",
-      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-unterstuetzung-aus-asien-erschwert-suche-nach-gegenkandidaten-a-90887da2-77b6-4968-8e26-e49cac7aec0a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T14:01:00+00:00"
-    },
-    {
-      "titel": "Russland und Ukraine tauschen erneut Gefangene aus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T13:58:44+00:00"
-    },
-    {
-      "titel": "Radium-Trinkbecher gefunden: Regierungspräsidium Darmstadt warnt vor Gesundheitsgefahr",
-      "link": "https://www.spiegel.de/wissenschaft/radium-trinkbecher-gefunden-regierungspraesidium-darmstadt-warnt-vor-gesundheitsgefahr-a-ff998979-8b78-4652-89c8-327c0e6a9219#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T13:54:00+00:00"
-    },
-    {
-      "titel": "Meghan erschüttert über Vorwürfe gegen ihren Vater – Bilder von Kindesmissbrauch",
-      "link": "https://www.spiegel.de/panorama/justiz/meghan-erschuettert-ueber-vorwuerfe-gegen-ihren-vater-bilder-von-kindesmissbrauch-a-4bb2711e-3660-4294-b5bf-8e78b186115e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T13:47:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Kiew: Starlink bleibt trotz Trumps Ankündigung gedrosselt",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-trump-starlink-luftabwehr-li.3563283",
+      "titel": "Nahost: Israel bereitet Abriegelung des Westjordanlands vor – Netanjahu kündigt Großeinsatz an",
+      "link": "https://www.sueddeutsche.de/politik/westjordanland-abriegelung-israel-netanjahu-angriff-grosseinsatz-li.3567934",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T13:37:25+00:00"
+      "veroeffentlicht": "2026-10-23T15:30:00+00:00"
     },
     {
-      "titel": "Marktbericht: Nasdaq kommt unter die Räder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T13:16:51+00:00"
-    },
-    {
-      "titel": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T13:01:59+00:00"
-    },
-    {
-      "titel": "Illegale Wahlkampfspenden: Interne Mails bringen AfD-Chefin Weidel in Bedrängnis",
-      "link": "https://www.sueddeutsche.de/politik/afd-leak-alice-weidel-parteispende-affaere-schweiz-li.3567974",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T12:57:07+00:00"
-    },
-    {
-      "titel": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T12:55:47+00:00"
-    },
-    {
-      "titel": "Nahost: Israel bereitet Abriegelung des Westjordanlands vor",
-      "link": "https://www.sueddeutsche.de/politik/westjordanland-abriegelung-israel-netanjahu-angriff-li.3567934",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T12:41:40+00:00"
-    },
-    {
-      "titel": "Ein Toter und mehrere Verletzte nach Schüssen bei Paris",
+      "titel": "Ein Toter und Verletze: Innenminister spricht von Terror-Tat bei Paris",
       "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T12:19:53+00:00"
+      "veroeffentlicht": "2026-10-23T15:15:56+00:00"
     },
     {
-      "titel": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugewerbe-grossauftraege-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T11:53:21+00:00"
-    },
-    {
-      "titel": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T11:28:38+00:00"
-    },
-    {
-      "titel": "Mit „Psst“-Zettel: Warum liegen überall in München weiß-orangefarbene Würfel herum?",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-weisse-wuerfel-geothermie-giga-m-projekt-stadtwerke-muenchen-faq-li.3567580",
+      "titel": "Fifa-Präsident: Der Preis, um Infantino loszuwerden, wird für Europa immer höher",
+      "link": "https://www.sueddeutsche.de/sport/gianni-infantino-fifa-wahl-praesidenten-uefa-konflikt-li.3567877",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T11:08:20+00:00"
+      "veroeffentlicht": "2026-10-23T13:46:05+00:00"
     },
     {
-      "titel": "Christina Applegate: „Glückwunsch, Sie haben doch keine Multiple Sklerose“",
-      "link": "https://www.sueddeutsche.de/panorama/christina-applegate-multiple-sklerose-fehldiagnose-schmerzen-li.3566814",
+      "titel": "Protest gegen Flughafen-Ausbau: „Feiern werden wir, wenn die dritte Startbahn endgültig gestorben ist“",
+      "link": "https://www.sueddeutsche.de/muenchen/freising/freising-dritte-startbahn-flughafen-muenchen-lichterzeichen-protest-li.3565581",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T11:00:34+00:00"
+      "veroeffentlicht": "2026-10-23T13:43:00+00:00"
     },
     {
-      "titel": "Brasilien: Eine Wahl, die üble Erinnerungen weckt",
-      "link": "https://www.sueddeutsche.de/politik/brasilien-wahl-2026-praesident-lula-bolsonaro-li.3566031",
+      "titel": "Münchner Flughafen: A380 setzte zu früh auf: Behörde stuft Vorfall als schwere Störung ein",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-lufthansa-airbus-a380-landung-probleme-li.3568051",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T10:59:13+00:00"
+      "veroeffentlicht": "2026-10-23T13:33:33+00:00"
     },
     {
-      "titel": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T10:48:25+00:00"
-    },
-    {
-      "titel": "Infrastruktur in München: Zweite Stammstrecke wird für Olympia 2036 voraussichtlich nicht fertig",
-      "link": "https://www.sueddeutsche.de/muenchen/zweite-stammstrecke-muenchen-olympia-2036-s-bahn-deutsche-bahn-li.3566798",
+      "titel": "Lufthansa: „Wir können so nicht weitermachen“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/lufthansa-carsten-spohr-turnaround-iran-krieg-fluggesellschaft-li.3563016",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T10:29:54+00:00"
+      "veroeffentlicht": "2026-10-23T13:26:53+00:00"
     },
     {
-      "titel": "Autoindustrie: Loyalität lässt sich nicht verordnen – aber verspielen",
-      "link": "https://www.sueddeutsche.de/meinung/bmw-mercedes-volkswagen-abfindungen-kommentar-li.3566850",
+      "titel": "Kindesmissbrauch: Meghan „bestürzt“ über Vorwürfe gegen ihren Vater",
+      "link": "https://www.sueddeutsche.de/panorama/kindesmissbrauch-meghan-thomas-markle-philippinen-vater-halbbruder-li.3568062",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T10:26:15+00:00"
-    },
-    {
-      "titel": "Erinnerungskultur: Eine ziemlich gute Nachricht – für Wien",
-      "link": "https://www.sueddeutsche.de/kultur/ns-dokumentationszentrum-muenchen-mirjam-zadoff-wien-haus-der-geschichte-oesterreich-li.3567373",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T10:14:26+00:00"
+      "veroeffentlicht": "2026-10-23T13:04:29+00:00"
     }
   ]
 }
