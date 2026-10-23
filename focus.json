@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-23T02:08:38+00:00",
+  "aktualisiert": "2026-10-23T07:44:14+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
+      "titel": "Tech-Ausverkauf drückt auf die Anlegerstimmung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "📈"
     },
     {
       "rang": 2,
-      "titel": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
+      "titel": "Tausende fordern Rückkehr von Machado",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-demonstrationen-machado-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "DAX fällt wieder zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+      "titel": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
+      "link": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     }
   ]
 }
