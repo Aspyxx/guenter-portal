@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-10-22T21:38:17+00:00",
+  "aktualisiert": "2026-10-23T00:11:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Tom Skerritt ist tot: Hollywood-Schauspieler aus »Top Gun« und »Alien« gestorben",
+      "link": "https://www.spiegel.de/panorama/leute/tom-skerritt-ist-tot-hollywood-schauspieler-aus-top-gun-und-alien-gestorben-a-3d044628-4ebe-4ecd-82f6-8702d833e9ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T23:34:00+00:00"
+    },
+    {
+      "titel": "Tote und Verletzte bei starkem Erdbeben in China",
+      "link": "https://www.spiegel.de/panorama/tote-und-verletzte-bei-starkem-erdbeben-in-china-a-3429b9ad-800f-47c7-8fd4-61442e1be44d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-22T23:06:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Trump: Musk hat Starlink-Zugang für Ukraine wiederhergestellt",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-trump-musk-starlink-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-22T21:39:03+00:00"
+    },
     {
       "titel": "Ukraine-Krieg: Trump soll Musk zur Aufhebung der Starlink-Drosselung gedrängt haben",
       "link": "https://www.spiegel.de/ausland/ukraine-krieg-trump-soll-musk-zur-aufhebung-der-starlink-drosselung-gedraengt-haben-a-4f3c3b67-dfb1-41e3-a5a0-b037f43fc652#ref=rss",
@@ -59,18 +77,6 @@
       "link": "https://www.spiegel.de/ausland/polen-tausende-demonstrieren-fuer-ein-liberales-abtreibungsrecht-a-80adfbcc-bad1-4f81-9606-77ac839e06b3#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-22T19:32:00+00:00"
-    },
-    {
-      "titel": "USA: Reporter des »Independent« nach Frage zu Initiative aus Trumps Pressepool ausgeschlossen",
-      "link": "https://www.spiegel.de/ausland/usa-reporter-des-independent-nach-frage-zu-initiative-aus-trumps-pressepool-ausgeschlossen-a-09e3be8d-abbb-4967-a84c-c629431aa409#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T18:54:00+00:00"
-    },
-    {
-      "titel": "Clavicular: »Looksmaxxing«-Influencer plädiert auf »nicht schuldig«",
-      "link": "https://www.spiegel.de/ausland/clavicular-looksmaxxing-influencer-plaediert-auf-nicht-schuldig-a-461c350c-1c31-48e7-b12c-b1a6fb749ee0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-22T18:44:00+00:00"
     },
     {
       "titel": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/hackerangriff-muenchen-cyber-attacke-it-sicherheit-php-sicherheitsluecke-li.3567296",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-22T13:53:35+00:00"
-    },
-    {
-      "titel": "Bayerischer Fernsehpreis „Blauer Panther“: „Ich habe die Hoffnung, dass mehr Menschen lieben als hassen wollen“",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-verleihung-bayerischer-fernsehpreis-blauer-panther-2026-johannes-hegemann-li.3554257",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-22T13:48:56+00:00"
     }
   ]
 }
