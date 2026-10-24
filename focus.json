@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-24T07:26:32+00:00",
+  "aktualisiert": "2026-10-24T12:07:03+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Israel startet Operation im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+      "titel": "Energie Cottbus",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 3,
-      "titel": "Großbrand im Kehlsteinhaus am Obersalzberg",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+      "rang": 2,
+      "titel": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Israel startet Operation im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
     }
   ]
 }
