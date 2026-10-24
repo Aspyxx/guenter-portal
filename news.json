@@ -1,11 +1,89 @@
 {
-  "aktualisiert": "2026-10-24T01:08:31+00:00",
+  "aktualisiert": "2026-10-24T05:56:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Vincent Kompany: Internationale Fußballszene schickt Genesungswünsche für FC Bayern-Trainer",
+      "link": "https://www.spiegel.de/sport/vincent-kompany-internationale-fussballszene-schickt-genesungswuensche-fuer-fc-bayern-trainer-a-e06ea208-92f8-460c-999d-88cdbae3c89f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T05:45:00+00:00"
+    },
+    {
+      "titel": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
+      "link": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-uebersicht-rennen-uhrzeit-tv-stream-li.3562584",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-24T05:36:00+00:00"
+    },
+    {
+      "titel": "Norbert Röttgen (CDU): »Trump steht aktuell auf der Seite Russlands«",
+      "link": "https://www.spiegel.de/ausland/norbert-roettgen-cdu-trump-steht-aktuell-auf-der-seite-russlands-a-18dce848-6af9-4f65-9a27-5704ac8c2da1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T05:23:00+00:00"
+    },
+    {
+      "titel": "Herbstwetter in Deutschland: Verletzte und Bahnchaos wegen Sturm – Sonntag drohen Orkanböen",
+      "link": "https://www.spiegel.de/panorama/herbstwetter-in-deutschland-verletzte-und-bahnchaos-wegen-sturm-sonntag-drohen-orkanboeen-a-65d85963-3487-4e10-9466-c9cfa5c6c3e6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T05:17:00+00:00"
+    },
+    {
+      "titel": "Israel vor der Wahl: Kommt jetzt das Ende der Ära Benjamin Netanyahu? – Podcast",
+      "link": "https://www.spiegel.de/ausland/israel-vor-der-wahl-kommt-jetzt-das-ende-der-aera-benjamin-netanyahu-podcast-a-90a5d94a-fcbc-4a3c-971d-7a415bb10180#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T05:10:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Juso-Chef für neuen SPD-Vorsitzenden und gegen Klingbeil",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-juso-chef-tuermer-fuer-neuen-spd-vorsitzenden-und-gegen-klingbeil-li.3529564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-24T04:49:42+00:00"
+    },
+    {
+      "titel": "»Wedgewood Polls«: Der Hintermann des Fake-Umfrageinstituts aus den USA",
+      "link": "https://www.spiegel.de/ausland/wedgewood-polls-der-hintermann-des-fake-umfrageinstituts-aus-den-usa-a-a1a73e75-e004-4b8c-98cf-1b5f94878f00#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T04:25:00+00:00"
+    },
+    {
+      "titel": "Brasilien vor der Stichwahl: Die Macht der Influencer",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T04:13:03+00:00"
+    },
+    {
+      "titel": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T04:10:57+00:00"
+    },
+    {
+      "titel": "News: Friedrich Merz auf CSU-Parteitag, Wahl in Serbien, Anhänger feiern Le Pen, Stevie Wonder in Hannover",
+      "link": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-auf-csu-parteitag-wahl-in-serbien-anhaenger-feiern-le-pen-stevie-wonder-in-hannover-a-e736fff7-b460-45fb-8a48-f718685789e3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T03:53:00+00:00"
+    },
+    {
+      "titel": "Israel startet «Anti-Terror-Operation» im Westjordanland",
+      "link": "https://www.spiegel.de/ausland/israel-startet-anti-terror-operation-im-westjordanland-a-8cbc7e56-580a-48a8-a316-03807df8852d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T03:44:00+00:00"
+    },
+    {
+      "titel": "Ferien: Mit diesen 23 Tipps wird Ihr Urlaub mit Freunden schön und nicht schrecklich",
+      "link": "https://www.spiegel.de/reise/ferien-mit-diesen-23-tipps-wird-ihr-urlaub-mit-freunden-schoen-und-nicht-schrecklich-a-027fc1f9-94fa-4097-8227-c1b25958b70b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T03:30:00+00:00"
+    },
+    {
+      "titel": "Reisen: So klären Sie im Urlaub mit Freunden heikle Geldfragen",
+      "link": "https://www.spiegel.de/reise/reisen-so-klaeren-sie-im-urlaub-mit-freunden-heikle-geldfragen-a-9e2e0701-7a86-4afa-b91e-d66b10eeb1d8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T03:30:00+00:00"
+    },
     {
       "titel": "Wie sieht die Zukunft der Raffinerien aus?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
@@ -19,40 +97,10 @@
       "veroeffentlicht": "2026-10-24T01:01:43+00:00"
     },
     {
-      "titel": "Bremens Bürgermeister Andreas Bovenschulte warnt vor Extremismusklausel im Länderfinanzausgleich",
-      "link": "https://www.spiegel.de/politik/bremens-buergermeister-andreas-bovenschulte-warnt-vor-extremismusklausel-im-laenderfinanzausgleich-a-ed5140cb-bb24-4758-b4da-25299bafb3db#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T00:30:00+00:00"
-    },
-    {
-      "titel": "Brand in einstigem Nazi-Berghaus am Obersalzberg",
-      "link": "https://www.spiegel.de/panorama/brand-in-einstigem-nazi-berghaus-am-obersalzberg-a-2d859afc-c44c-4c2f-8009-f1e83b21df01#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T23:05:00+00:00"
-    },
-    {
       "titel": "Nahost: Israel startet im Westjordanland „Anti-Terror-Operation“",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-us-botschaft-westjordanland-li.3560260",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-23T22:25:46+00:00"
-    },
-    {
-      "titel": "Kenia: Mehrere Vermisste nach Einsturz von Hochhaus in Nairobi",
-      "link": "https://www.spiegel.de/ausland/kenia-mehrere-vermisste-nach-einsturz-von-hochhaus-in-nairobi-a-69e9c617-1c64-4858-bfcf-91506e7df4ee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T21:33:00+00:00"
-    },
-    {
-      "titel": "Laura Owens: Frau erfindet Schwangerschaft nach Nacht mit Ex-»Bachelor«",
-      "link": "https://www.spiegel.de/panorama/justiz/laura-owens-frau-erfindet-schwangerschaft-nach-nacht-mit-ex-bachelor-a-7a31b7a0-f061-49c3-8b6c-694bae5774d2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T20:43:00+00:00"
-    },
-    {
-      "titel": "Handelsstreit mit Kanada: USA lockern Zölle gegen landwirtschaftliche Produkte",
-      "link": "https://www.spiegel.de/ausland/handelsstreit-mit-kanada-usa-lockern-zoelle-gegen-landwirtschaftliche-produkte-a-c66bc640-e823-4737-a389-326b0cb5f4ac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T20:04:00+00:00"
     },
     {
       "titel": "Frankreich rüstet sich für nächsten Protesttag",
@@ -61,40 +109,16 @@
       "veroeffentlicht": "2026-10-23T20:02:01+00:00"
     },
     {
-      "titel": "Markus Söder: Wie das Aigner-Dilemma seine Kanzlerträume gefährden könnte",
-      "link": "https://www.spiegel.de/politik/deutschland/markus-soeder-wie-das-aigner-dilemma-seine-kanzlertraeume-gefaehrden-koennte-a-13dc7479-31aa-4131-a449-28c22a4aef6d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T19:59:00+00:00"
-    },
-    {
       "titel": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-23T19:45:20+00:00"
     },
     {
-      "titel": "American Football: Neues »Retro«-Logo der Atlanta Falcons erinnert Fans an Nazisymbolik",
-      "link": "https://www.spiegel.de/sport/american-football/american-football-neues-retro-logo-der-atlanta-falcons-erinnert-fans-an-nazisymbolik-a-f8129154-01c0-44bf-9da8-664a07d906e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T19:08:00+00:00"
-    },
-    {
-      "titel": "Bayern-Trainer: Vincent Kompany nach Zusammenbruch in stabilem Zustand",
-      "link": "https://www.spiegel.de/sport/fussball/bayern-trainer-vincent-kompany-nach-zusammenbruch-in-stabilem-zustand-a-b59318c4-ee92-46f7-b8c3-ed13f34aedf0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T18:37:00+00:00"
-    },
-    {
       "titel": "Proteste: Frankreich fürchtet neue Krawalle bei landesweiten Demos",
       "link": "https://www.sueddeutsche.de/politik/frankreich-proteste-krawalle-pluenderungen-kundgebungen-li.3568230",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-23T18:34:49+00:00"
-    },
-    {
-      "titel": "Frankreich: Emmanuel Macron besucht Pariser Vorort nach tödlichen Schüssen",
-      "link": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-besucht-pariser-vorort-nach-toedlichen-schuessen-a-6c372ae1-9ccd-46f4-9182-43603bf2ec40#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T18:25:00+00:00"
     },
     {
       "titel": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
@@ -121,22 +145,10 @@
       "veroeffentlicht": "2026-10-23T17:40:00+00:00"
     },
     {
-      "titel": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
-      "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T17:26:28+00:00"
-    },
-    {
       "titel": "CSU-Parteitag in München: Söder lässt den Saal für Ilse Aigner jubeln",
       "link": "https://www.sueddeutsche.de/bayern/csu-parteitag-soeder-aigner-merz-brandmauer-li.3564629",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-23T17:18:22+00:00"
-    },
-    {
-      "titel": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T17:05:12+00:00"
     },
     {
       "titel": "Nahost: Israel bereitet Abriegelung des Westjordanlands vor – Netanjahu kündigt Großeinsatz an",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/freising/freising-dritte-startbahn-flughafen-muenchen-lichterzeichen-protest-li.3565581",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-23T13:43:00+00:00"
-    },
-    {
-      "titel": "Münchner Flughafen: A380 setzte zu früh auf: Behörde stuft Vorfall als schwere Störung ein",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-lufthansa-airbus-a380-landung-probleme-li.3568051",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T13:33:33+00:00"
-    },
-    {
-      "titel": "Lufthansa: „Wir können so nicht weitermachen“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/lufthansa-carsten-spohr-turnaround-iran-krieg-fluggesellschaft-li.3563016",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T13:26:53+00:00"
     }
   ]
 }
