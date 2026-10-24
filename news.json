@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-24T11:05:15+00:00",
+  "aktualisiert": "2026-10-24T14:34:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,112 @@
   },
   "meldungen": [
     {
-      "titel": "Hamburger S-Bahn: Mitarbeiter im Einsatz geschlagen",
-      "link": "https://www.spiegel.de/panorama/hamburger-s-bahn-mitarbeiter-im-einsatz-geschlagen-a-1262a24c-0e68-4994-b869-c373a65a3b52#ref=rss",
+      "titel": "Westjordanland: Palästinenser fordern internationalen Druck nach israelischem Armeeeinsatz",
+      "link": "https://www.spiegel.de/ausland/westjordanland-palaestinenser-fordern-internationalen-druck-nach-israelischem-armeeeinsatz-a-2175eeed-6dcf-4de8-94b7-47e8756539bc#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T10:54:00+00:00"
+      "veroeffentlicht": "2026-10-24T14:25:00+00:00"
+    },
+    {
+      "titel": "Israelische Armee startet Einsatz in Hebron",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T14:14:53+00:00"
+    },
+    {
+      "titel": "Hitlers »Eagle's Nest« am Obersalzberg: Kehlsteinhaus fast vollständig zerstört – Polizei geht von Brandstiftung aus",
+      "link": "https://www.spiegel.de/panorama/hitlers-eagles-nest-am-obersalzberg-kehlsteinhaus-fast-vollstaendig-zerstoert-polizei-geht-von-brandstiftung-aus-a-b87a5059-dadb-4b9f-b68b-41e2385c6108#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T14:01:00+00:00"
+    },
+    {
+      "titel": "Proteste in Frankreich, Spanien, Italien: »Die großen Parteien müssen Rücksicht auf Rentner nehmen – also wendet sich die Jugend extremen Parteien zu«",
+      "link": "https://www.spiegel.de/ausland/proteste-in-frankreich-spanien-italien-die-grossen-parteien-muessen-ruecksicht-auf-rentner-nehmen-also-wendet-sich-die-jugend-extremen-parteien-zu-a-4f8f9ab2-8382-4d32-8f7f-43b4b33c0019#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T13:59:00+00:00"
+    },
+    {
+      "titel": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T13:58:56+00:00"
+    },
+    {
+      "titel": "Islamistischer Terror: 21-jähriger Deutscher soll IS-Ausbildung geplant haben",
+      "link": "https://www.spiegel.de/panorama/islamistischer-terror-21-jaehriger-deutscher-soll-is-ausbildung-geplant-haben-a-ac07e4b3-45db-426e-8a7a-8c84681e8716#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T13:48:00+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T13:47:08+00:00"
+    },
+    {
+      "titel": "Weltcup-Riesenslalom in Gröden: Emma Aicher ist schon im Oktober in starker Winter-Form",
+      "link": "https://www.spiegel.de/sport/wintersport/weltcup-riesenslalom-in-groeden-emma-aicher-ist-schon-im-oktober-in-starker-winter-form-a-79040706-9481-4f39-9ca3-bb07b37184e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T13:39:00+00:00"
+    },
+    {
+      "titel": "Wahlkampf in Spanien: KI-generiertes Video von Frau des Premiers sorgt für Aufruhr in Spanien",
+      "link": "https://www.spiegel.de/ausland/wahlkampf-in-spanien-ki-generiertes-video-von-frau-des-premiers-sorgt-fuer-aufruhr-in-spanien-a-4f2d3176-ad26-41a5-8694-dd22186d9b1f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T13:37:00+00:00"
+    },
+    {
+      "titel": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T13:36:26+00:00"
+    },
+    {
+      "titel": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T13:33:20+00:00"
+    },
+    {
+      "titel": "Betrugsskandal um ManCity: Rettig fordert »Lizenzentzug und Aberkennung aller Titel«",
+      "link": "https://www.spiegel.de/sport/fussball/betrugsskandal-um-man-city-rettig-fordert-lizenzentzug-und-aberkennung-aller-titel-a-bf5e87cf-f4d6-4f9e-9c92-f3b1beae91b5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T13:26:00+00:00"
+    },
+    {
+      "titel": "Russland und Ukraine setzen Angriffe fort – Starlink-Verbindung wieder stabil",
+      "link": "https://www.spiegel.de/ausland/trotz-us-vermittlungsbemuehungen-ukraine-und-russland-fuehren-gegenseitige-angriffe-fort-a-50595754-bdfb-459c-84bb-1cd3d533b8bf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T13:16:00+00:00"
+    },
+    {
+      "titel": "Oliver Wnuk: Was der TV-Ermittler jungen Schauspielern empfiehlt",
+      "link": "https://www.spiegel.de/panorama/leute/tv-ermittler-oliver-wnuk-junge-schauspieler-sollten-lernen-mit-geld-umzugehen-a-eb7571d8-9413-414c-a9f1-6874fbb9347f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T13:04:00+00:00"
+    },
+    {
+      "titel": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
+      "link": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-live-uebersicht-rennen-uhrzeit-tv-stream-li.3562584",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-24T12:37:06+00:00"
+    },
+    {
+      "titel": "CSU-Parteitag: Merz tappt nicht in die Aigner-Falle",
+      "link": "https://www.sueddeutsche.de/bayern/merz-csu-parteitag-soeder-aigner-union-li.3564631",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-24T12:35:22+00:00"
+    },
+    {
+      "titel": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T12:19:07+00:00"
+    },
+    {
+      "titel": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T11:24:45+00:00"
     },
     {
       "titel": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
@@ -25,70 +127,10 @@
       "veroeffentlicht": "2026-10-24T10:46:34+00:00"
     },
     {
-      "titel": "Piotr Trochowski: Ehemaliger Fußballnationalspieler ist jetzt Maler",
-      "link": "https://www.spiegel.de/sport/fussball/piotr-trochowski-ehemaliger-fussballnationalspieler-ist-jetzt-maler-a-566e2a62-7536-4e9f-8884-4551f735c94a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T10:41:00+00:00"
-    },
-    {
-      "titel": "Verdacht auf Brandstiftung: Kehlsteinhaus am Obersalzberg niedergebrannt",
-      "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-obersalzberg-brand-festnahme-wiederaufbau-li.3568281",
+      "titel": "Verdacht auf Brandstiftung: Kehlsteinhaus niedergebrannt, Mann festgenommen",
+      "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-obersalzberg-brand-festnahme-wiederaufbau-schaden-li.3568281",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-24T10:31:00+00:00"
-    },
-    {
-      "titel": "Jay Clayton: Iran hat laut US-Geheimdienstchef US-Personal verstärkt im Visier",
-      "link": "https://www.spiegel.de/ausland/jay-clayton-iran-hat-laut-us-geheimdienstchef-us-personal-verstaerkt-im-visier-a-f4a935e7-a6f4-4881-9033-409754f894ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T10:28:00+00:00"
-    },
-    {
-      "titel": "Massive Waldbrände in Indonesien - Kritik an Regierung",
-      "link": "https://www.tagesschau.de/ausland/asien/braende-indonesien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T10:26:00+00:00"
-    },
-    {
-      "titel": "Leon Windscheid über Zuversicht: »Selbstliebe ist so ein Wort, da kriege ich Ausschlag«",
-      "link": "https://www.spiegel.de/psychologie/leon-windscheid-ueber-zuversicht-selbstliebe-ist-so-ein-wort-da-kriege-ich-ausschlag-a-3aa6c56d-6730-4211-a73c-e4e95b66e0e3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T10:14:00+00:00"
-    },
-    {
-      "titel": "Gina H. im Fall Fabian: Vor Gericht entsteht das Bild einer manipulativen Frau",
-      "link": "https://www.spiegel.de/panorama/fall-fabian-rostock-im-november-soll-das-urteil-gegen-gina-h-fallen-a-1a7db03b-c1e1-4162-9b16-0c041bdef696#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T09:52:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T09:46:00+00:00"
-    },
-    {
-      "titel": "Hendrik Wüst: Warum der NRW-Ministerpräsident manchmal auf der Couch schläft",
-      "link": "https://www.spiegel.de/panorama/hendrik-wuest-warum-der-nrw-ministerpraesident-manchmal-auf-der-couch-schlaeft-a-b8b3f046-4efd-4dde-99fb-c8be9ba0f948#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T09:43:00+00:00"
-    },
-    {
-      "titel": "Nordkorea: Kim Jong Un besucht China über neu eingeweihte Brücke",
-      "link": "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-besucht-china-ueber-neu-eingeweihte-bruecke-a-28c0c951-22fd-42ea-94b7-dc5eb0c898cb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T09:36:00+00:00"
-    },
-    {
-      "titel": "Frankreich: 70.000 Polizisten, verbotene Demos, geschlossene Museen – angespannte Lage vor erneutem Protesttag",
-      "link": "https://www.spiegel.de/ausland/frankreich-70-000-polizisten-verbotene-demos-geschlossene-museen-angespannte-lage-vor-erneutem-protesttag-a-0890d667-ab5f-4b7e-aa92-244e0c72e9ca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T09:35:00+00:00"
-    },
-    {
-      "titel": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
-      "link": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-uebersicht-rennen-uhrzeit-tv-stream-li.3562584",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-24T09:32:40+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Ukraine meldet Verbesserungen bei Starlink-Verbindungen",
@@ -97,46 +139,16 @@
       "veroeffentlicht": "2026-10-24T09:29:05+00:00"
     },
     {
-      "titel": "Verletzte und Schäden nach \"Sturmtief\" Luise",
-      "link": "https://www.tagesschau.de/inland/herbststurm-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T08:59:50+00:00"
-    },
-    {
-      "titel": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T08:55:12+00:00"
-    },
-    {
-      "titel": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T08:54:51+00:00"
-    },
-    {
       "titel": "Brand auf dem Obersalzberg: Grandioser Ausblick, düstere Historie: Warum das Kehlsteinhaus so bekannt ist",
       "link": "https://www.sueddeutsche.de/bayern/bayern-obersalzberg-kehlsteinhaus-brand-historie-bedeutung-li.3568362",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-24T08:44:19+00:00"
     },
     {
-      "titel": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T08:27:08+00:00"
-    },
-    {
       "titel": "SZ -Nacht der Autorinnen und Autoren: „Journalismus ist immer noch ein Traumberuf“",
       "link": "https://www.sueddeutsche.de/muenchen/nacht-der-autoren-sz-journalismus-veranstaltung-li.3562665",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-24T08:20:22+00:00"
-    },
-    {
-      "titel": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T08:11:10+00:00"
     },
     {
       "titel": "Raumfahrt: Eine Festwoche für Raketen-Nerds",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-juso-chef-tuermer-fuer-neuen-spd-vorsitzenden-und-gegen-klingbeil-li.3529564",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-24T04:49:42+00:00"
-    },
-    {
-      "titel": "Brasilien vor der Stichwahl: Die Macht der Influencer",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T04:13:03+00:00"
-    },
-    {
-      "titel": "Nahost: Israel startet im Westjordanland „Anti-Terror-Operation“",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-us-botschaft-westjordanland-li.3560260",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-23T22:25:46+00:00"
     }
   ]
 }
