@@ -1,11 +1,29 @@
 {
-  "aktualisiert": "2026-10-24T19:49:28+00:00",
+  "aktualisiert": "2026-10-24T22:30:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Midterms: Donald Trump gibt vorzeitig Stimme für US-Kongresswahl ab",
+      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T22:26:00+00:00"
+    },
+    {
+      "titel": "Demonstrationen: Wo in Europa überall Proteste stattfinden",
+      "link": "https://www.sueddeutsche.de/politik/demonstrationen-italien-frankreich-belgien-albanien-jugendliche-li.3568500",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-24T21:30:17+00:00"
+    },
+    {
+      "titel": "Elon Musk wirft Ukraine Missbrauch von Starlink-Satelliten vor",
+      "link": "https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T21:17:00+00:00"
+    },
     {
       "titel": "Brasilien: Bewegung von Jair Bolsonaro steht erneut vor der Macht",
       "link": "https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht-a-e4ab5fb0-c184-4b32-b09d-6f185ccdc2a1#ref=rss",
@@ -79,22 +97,10 @@
       "veroeffentlicht": "2026-10-24T16:51:47+00:00"
     },
     {
-      "titel": "Von Indien über Chile und die USA: Reisen mit Rollstuhl",
-      "link": "https://www.spiegel.de/reise/fernweh/von-indien-ueber-chile-und-die-usa-reisen-mit-rollstuhl-a-fc7374d0-793a-4524-b3ad-ddf77a748bdf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T16:45:00+00:00"
-    },
-    {
       "titel": "Bundesweiter Aktionstag: Demonstrationen gegen Abschiebungen an mehreren Flughäfen",
       "link": "https://www.sueddeutsche.de/panorama/abschiebungen-demonstrationen-flughaefen-li.3568474",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-24T16:41:36+00:00"
-    },
-    {
-      "titel": "Jordan Bardella als Chef des Rassemblement National wiedergewählt",
-      "link": "https://www.spiegel.de/ausland/jordan-bardella-als-chef-des-rassemblement-national-wiedergewaehlt-a-c43632d8-8f43-48f2-b32b-3afc842a6bd4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T16:20:00+00:00"
     },
     {
       "titel": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/merz-csu-parteitag-soeder-aigner-union-li.3564631",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-24T12:35:22+00:00"
-    },
-    {
-      "titel": "Vincent Kompany: „Wir werden nicht von Tagen, sondern von Wochen reden“",
-      "link": "https://www.sueddeutsche.de/sport/kompany-bayern-zusammenbruch-krankenhaus-li.3568356",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-24T09:32:07+00:00"
     }
   ]
 }
