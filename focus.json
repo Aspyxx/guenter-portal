@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-24T02:07:24+00:00",
+  "aktualisiert": "2026-10-24T07:26:32+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Israel startet Operation im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
-      "rang": 2,
       "titel": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
-      "titel": "DAX-Anleger meiden das Risiko",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+      "rang": 2,
+      "titel": "Israel startet Operation im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🌍"
+    },
+    {
+      "rang": 3,
+      "titel": "Großbrand im Kehlsteinhaus am Obersalzberg",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
