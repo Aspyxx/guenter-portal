@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-24T12:07:03+00:00",
+  "aktualisiert": "2026-10-24T16:06:16+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Energie Cottbus",
+      "titel": "Merz äußert sich nicht zur Präsidentinnen-Frage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
+      "titel": "Starlink funktioniert wieder stabil",
       "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
-      "titel": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Israel startet Operation im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+      "titel": "Israelische Armee startet Einsatz in Hebron",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     }
