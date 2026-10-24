@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-10-23T22:39:00+00:00",
+  "aktualisiert": "2026-10-24T01:08:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Wie sieht die Zukunft der Raffinerien aus?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T01:06:57+00:00"
+    },
+    {
+      "titel": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-24T01:01:43+00:00"
+    },
+    {
+      "titel": "Bremens Bürgermeister Andreas Bovenschulte warnt vor Extremismusklausel im Länderfinanzausgleich",
+      "link": "https://www.spiegel.de/politik/bremens-buergermeister-andreas-bovenschulte-warnt-vor-extremismusklausel-im-laenderfinanzausgleich-a-ed5140cb-bb24-4758-b4da-25299bafb3db#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T00:30:00+00:00"
+    },
+    {
+      "titel": "Brand in einstigem Nazi-Berghaus am Obersalzberg",
+      "link": "https://www.spiegel.de/panorama/brand-in-einstigem-nazi-berghaus-am-obersalzberg-a-2d859afc-c44c-4c2f-8009-f1e83b21df01#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-23T23:05:00+00:00"
+    },
     {
       "titel": "Nahost: Israel startet im Westjordanland „Anti-Terror-Operation“",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-us-botschaft-westjordanland-li.3560260",
@@ -79,12 +103,6 @@
       "veroeffentlicht": "2026-10-23T18:10:26+00:00"
     },
     {
-      "titel": "Midterms in Alaska: US-Justizministerium reicht Klage wegen doppeltem Dan Sullivan ein",
-      "link": "https://www.spiegel.de/ausland/midterms-in-alaska-us-justizministerium-reicht-klage-doppeltem-dan-sullivan-ein-a-f0104132-9929-4ce6-b9df-31183a16a3e1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T18:09:00+00:00"
-    },
-    {
       "titel": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
       "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
       "quelle": "Tagesschau",
@@ -103,12 +121,6 @@
       "veroeffentlicht": "2026-10-23T17:40:00+00:00"
     },
     {
-      "titel": "Friedrich Merz: Erstmals reist ein »Nius«-Mitarbeiter im Regierungsflieger mit",
-      "link": "https://www.spiegel.de/politik/friedrich-merz-erstmals-reist-ein-nius-mitarbeiter-im-regierungsflieger-mit-a-95dd0222-c57c-4af0-b9d3-8649e24a5d9f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-23T17:38:00+00:00"
-    },
-    {
       "titel": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
       "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
       "quelle": "Tagesschau",
@@ -125,18 +137,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-23T17:05:12+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX-Anleger meiden das Risiko",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T16:38:57+00:00"
-    },
-    {
-      "titel": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
-      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-23T16:31:33+00:00"
     },
     {
       "titel": "Nahost: Israel bereitet Abriegelung des Westjordanlands vor – Netanjahu kündigt Großeinsatz an",
