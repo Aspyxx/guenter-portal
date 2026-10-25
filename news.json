@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-25T20:53:18+00:00",
+  "aktualisiert": "2026-10-25T23:17:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,13 +7,67 @@
   },
   "meldungen": [
     {
+      "titel": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+      "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T23:07:11+00:00"
+    },
+    {
+      "titel": "Clásico in Spanien: FC Barcelona unterliegt Real Madrid durch ein spätes Tor von Kylian Mbappé",
+      "link": "https://www.spiegel.de/sport/fussball/clasico-in-spanien-fc-barcelona-unterliegt-real-madrid-durch-ein-spaetes-tor-von-kylian-mbappe-a-b459e6e5-f0d7-4f0a-a3db-108bce05f4d1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T22:35:00+00:00"
+    },
+    {
+      "titel": "Formel 1: Kimi Antonelli gewinnt vor Charles Leclerc – WM-Titel ganz nah",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-vor-charles-leclerc-wm-titel-ganz-nah-a-0ced9638-35c2-497d-8750-301a0bbed86c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T22:30:00+00:00"
+    },
+    {
+      "titel": "El Clásico Barça gegen Real: Mbappés Torjubiläum macht La Liga spannend",
+      "link": "https://www.sueddeutsche.de/sport/clasico-barcelona-real-madrid-li.3568847",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T22:15:39+00:00"
+    },
+    {
+      "titel": "Bulgarien: Stichwahl zwischen Ilijana Jotowa und Andrej Gjurow um Präsidentenamt",
+      "link": "https://www.spiegel.de/ausland/bulgarien-stichwahl-zwischen-ilijana-jotowa-und-andrej-gjurow-um-praesidentenamt-a-9f38ee33-0775-4c66-ba2a-5cb79f39cd3a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T21:53:00+00:00"
+    },
+    {
+      "titel": "Bremerhaven: Kreuzfahrtschiff kollidiert mit zwei Containerschiffen im Hafen",
+      "link": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T21:22:00+00:00"
+    },
+    {
+      "titel": "Serbien: Vučić räumt Niederlage bei Parlamentswahl ein",
+      "link": "https://www.sueddeutsche.de/politik/parlamentswahl-serbien-aleksandar-vucic-studentenbewegung-2026-li.3568833",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T20:53:07+00:00"
+    },
+    {
+      "titel": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T20:52:00+00:00"
+    },
+    {
       "titel": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-25T20:43:16+00:00"
     },
     {
-      "titel": "Wahlen in Israel: Interview mit Bildungsforscherin Tammy Hoffmann über rechte Erstwähler",
+      "titel": "Sieg über Vučić: Studentenliste gewinnt historische Wahl in Serbien",
+      "link": "https://www.sueddeutsche.de/politik/wahl-in-serbien-2026-aleksandar-vucic-wahlmanipulation-gewalt-li.3568103",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T20:00:07+00:00"
+    },
+    {
+      "titel": "Wahlen in Israel: Interview mit Bildungsforscherin Tammy Hoffman über rechte Erstwähler",
       "link": "https://www.spiegel.de/ausland/wahlen-in-israel-interview-mit-bildungsforscherin-tammy-hoffmann-ueber-rechte-erstwaehler-a-b23b05a0-d9c8-476d-9709-814069e7351f#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-25T19:57:00+00:00"
@@ -61,12 +115,6 @@
       "veroeffentlicht": "2026-10-25T18:49:43+00:00"
     },
     {
-      "titel": "Frankreich: Täter aus Pariser Vorstadt stand bei mutmaßlich rassistischem Angriff unter Drogen",
-      "link": "https://www.spiegel.de/ausland/frankreich-taeter-aus-pariser-vorstadt-stand-bei-mutmasslich-rassistischem-angriff-unter-drogen-a-d25b70bc-cffc-47a2-817e-542c2386e932#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T18:49:00+00:00"
-    },
-    {
       "titel": "FC Bayern in Freiburg: Am Ende feiert auch Mr. Aura",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-freiburg-bundesliga-li.3568801",
       "quelle": "Süddeutsche",
@@ -77,30 +125,6 @@
       "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-25T18:30:00+00:00"
-    },
-    {
-      "titel": "Tschechien: Zehntausende demonstrieren gegen Rundfunkreform in Prag",
-      "link": "https://www.spiegel.de/ausland/tschechien-zehntausende-demonstrieren-gegen-rundfunkreform-in-prag-a-8ccdee78-833c-41ec-8409-83c873f50f16#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T18:14:00+00:00"
-    },
-    {
-      "titel": "Sachsen-Anhalt: Wahl zum Ministerpräsidenten wird Bewährungsprobe für Kanzler",
-      "link": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-zum-ministerpraesidenten-wird-bewaehrungsprobe-fuer-kanzler-a-c1f27362-4de4-4fa0-a99b-00ab04af605f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T17:58:00+00:00"
-    },
-    {
-      "titel": "Europa: Von Frankreich bis Albanien – neue Massenproteste am Wochenende",
-      "link": "https://www.spiegel.de/ausland/europa-von-frankreich-bis-albanien-neue-massenproteste-am-wochenende-a-c1e59bdd-3e08-400d-be00-969ad48bda2b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T17:50:00+00:00"
-    },
-    {
-      "titel": "Iran: Revolutionswächter greifen kurdische Stellung im Irak an",
-      "link": "https://www.spiegel.de/ausland/iran-revolutionswaechter-greifen-kurdische-stellung-im-irak-an-a-f47ed41f-d2d8-4922-917a-474d86e3577e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T17:36:00+00:00"
     },
     {
       "titel": "Nachruf: Er zog der Welt den Teppich unter den Füßen weg",
@@ -139,34 +163,10 @@
       "veroeffentlicht": "2026-10-25T14:48:33+00:00"
     },
     {
-      "titel": "Sturmtief \"Manja\" fegt über Deutschland",
-      "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T14:48:27+00:00"
-    },
-    {
       "titel": "Obersalzberg: Das Kehlsteinhaus sollte nicht mehr genauso aussehen wie vor dem Feuer",
       "link": "https://www.sueddeutsche.de/meinung/kehlsteinhaus-obersalzberg-brand-berchtesgaden-kommentar-li.3568615",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-25T13:39:56+00:00"
-    },
-    {
-      "titel": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
-      "link": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-live-maenner-riesenslalom-uhrzeit-li.3562584",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T13:34:57+00:00"
-    },
-    {
-      "titel": "Westjordanland: Israel vertreibt nach Anschlag Hunderte Familien aus Hebron",
-      "link": "https://www.sueddeutsche.de/politik/hebron-israel-westjordanland-benjamin-netanjahu-hamas-li.3568473",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T13:16:40+00:00"
-    },
-    {
-      "titel": "Autoindustrie: Fürs Geschäft geht der Audi-Chef sogar mit Trump auf die Bühne",
-      "link": "https://www.sueddeutsche.de/meinung/audi-gernot-doellner-donald-trump-georgia-volkswagen-kommentar-li.3568599",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T13:16:39+00:00"
     }
   ]
 }
