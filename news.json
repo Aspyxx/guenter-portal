@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-25T10:10:13+00:00",
+  "aktualisiert": "2026-10-25T14:23:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Formel 1: Kimi Antonelli startete von der Pole Position beim Großen Preis der USA in Austin",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss",
+      "titel": "Mutmaßliche antisemitische Attacke in Berlin – 60-Jähriger erleidet Platzwunde",
+      "link": "https://www.spiegel.de/panorama/justiz/mutmassliche-antisemitische-attacke-in-berlin-60-jaehriger-erleidet-platzwunde-a-6847a4e5-3823-41ae-bfd8-b7ac037d3872#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T09:40:00+00:00"
+      "veroeffentlicht": "2026-10-25T14:17:00+00:00"
+    },
+    {
+      "titel": "Barack Obama verspottet Donald Trump für Einrichtung im Weißen Haus",
+      "link": "https://www.spiegel.de/ausland/barack-obama-verspottet-donald-trump-fuer-einrichtung-im-weissen-haus-a-6cf7e48f-8ce4-4fb9-94da-40ac935132a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T13:59:00+00:00"
+    },
+    {
+      "titel": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
+      "link": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-live-maenner-riesenslalom-uhrzeit-li.3562584",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T13:34:57+00:00"
+    },
+    {
+      "titel": "Kuh attackiert Frau beim Spaziergang",
+      "link": "https://www.spiegel.de/panorama/kuh-attackiert-frau-beim-spaziergang-a-784e1ac5-b356-4c6f-abac-a606bf8103bd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T13:32:00+00:00"
+    },
+    {
+      "titel": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
+      "link": "https://www.tagesschau.de/inland/umweltpreis-142.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T13:13:45+00:00"
+    },
+    {
+      "titel": "Schultoiletten: Wie sich das Klo-Problem an deutschen Schulen lösen lässt",
+      "link": "https://www.spiegel.de/deinspiegel/schultoiletten-wie-sich-das-klo-problem-an-deutschen-schulen-loesen-laesst-a-b8c3247c-3f28-48cc-9331-71135b9087fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T13:12:00+00:00"
+    },
+    {
+      "titel": "Proteste: Mehr als 1300 Festnahmen in Frankreich",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-demonstrationen-paris-lyon-lille-li.3568339",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T13:11:54+00:00"
+    },
+    {
+      "titel": "Rätselhafte Patientin: Warum hat die Frau Paranoia und Halluzinationen?",
+      "link": "https://www.spiegel.de/gesundheit/diagnose/raetselhafte-patientin-warum-hat-die-frau-paranoia-und-halluzinationen-a-442487a3-0af1-474f-bbe8-70b848c33732#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T13:10:00+00:00"
+    },
+    {
+      "titel": "Rätsel der Woche: Wo versteckt sich der Preis?",
+      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-wo-versteckt-sich-der-preis-a-769a3c5a-4484-4125-b85e-0f2e1567455a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T13:10:00+00:00"
+    },
+    {
+      "titel": "Drogen: »Das für mich gefährlichste Mittel haben mir ironischerweise Ärzte verschrieben«",
+      "link": "https://www.spiegel.de/gesundheit/drogen-das-fuer-mich-gefaehrlichste-mittel-haben-mir-ironischerweise-aerzte-verschrieben-a-98b23528-c02c-4b8c-ba1d-39fe0d64be24#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T13:03:00+00:00"
+    },
+    {
+      "titel": "Audi-Chef im US-Wahlkampf: Und dann kommt „Görnot“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/audi-gernot-doellner-donald-trump-midterms-2026-usa-li.3568577",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T12:58:25+00:00"
+    },
+    {
+      "titel": "Autonomes Fahren: Warum ich Robotaxis mehr vertraue als menschlichen Fahrern – Meinung",
+      "link": "https://www.spiegel.de/mobilitaet/autonomes-fahren-warum-ich-robotaxis-mehr-vertraue-als-menschlichen-fahrern-a-5540adb0-8c65-47e4-8769-86f134f13b97#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T12:53:00+00:00"
+    },
+    {
+      "titel": "Leute: Prinz William, der gescheiterte DJ",
+      "link": "https://www.sueddeutsche.de/panorama/promis-prinz-william-karriere-als-dj-li.3568158",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T12:51:23+00:00"
+    },
+    {
+      "titel": "Hanni Vanhaiden ist tot: NDR-Fernsehansagerin mit 88 Jahren gestorben",
+      "link": "https://www.spiegel.de/kultur/tv/hanni-vanhaiden-ist-tot-ndr-fernsehansagerin-mit-88-jahren-gestorben-a-cd261d76-67b5-4cec-98fa-ee216a0e448b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T12:50:00+00:00"
+    },
+    {
+      "titel": "Proteste in Europa - auch mit Gewalt",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T12:21:49+00:00"
+    },
+    {
+      "titel": "Wie ein Dorf in Brandenburg seinen Gasthof retten will",
+      "link": "https://www.tagesschau.de/wirtschaft/dorfkneipe-rettung-brandenburg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T12:06:21+00:00"
+    },
+    {
+      "titel": "Pläne der Koalition: Wahlrechtsreform kommt kaum voran",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T11:57:30+00:00"
+    },
+    {
+      "titel": "Sturmtief \"Manja\" fegt über Deutschland",
+      "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T11:53:23+00:00"
+    },
+    {
+      "titel": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T11:51:21+00:00"
+    },
+    {
+      "titel": "Proteste: Die befürchtete Eskalation in Italien bleibt aus",
+      "link": "https://www.sueddeutsche.de/politik/italien-proteste-giorgia-meloni-rom-bologna-li.3568584",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T11:49:59+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Ja, es ist eine Blase. Na und?",
+      "link": "https://www.sueddeutsche.de/kultur/ki-blase-crash-boerse-risiken-anthropic-openai-li.3567074",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T11:23:39+00:00"
+    },
+    {
+      "titel": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+      "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T11:14:29+00:00"
+    },
+    {
+      "titel": "Werder-Stürmer Füllkrug: Niclas, der Lokomotivführer",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-werder-fuellkrug-nationalmannschaft-li.3568592",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T11:00:47+00:00"
+    },
+    {
+      "titel": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T10:35:11+00:00"
+    },
+    {
+      "titel": "Aktuelles Lexikon: „Bismillah, c’est les ténèbres“ – was heißt das?",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-bismillah-c-est-les-tenebres-snapchat-proteste-jugendsprache-li.3567452",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T09:45:31+00:00"
     },
     {
       "titel": "Kompany-Vertreter Aaron Danks: Seine wichtigste Aufgabe: Mit dem Chef jetzt nicht über Fußball reden",
@@ -19,154 +163,10 @@
       "veroeffentlicht": "2026-10-25T09:27:59+00:00"
     },
     {
-      "titel": "Zusammenbruch von Vincent Kompany: Ein Trainer, der nicht zu bremsen ist",
-      "link": "https://www.sueddeutsche.de/sport/kompany-bayern-zusammenbruch-virus-li.3568488",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T09:27:46+00:00"
-    },
-    {
-      "titel": "Emmanuel Macron: So wurde der Präsident zum Buhmann der Protestjugend",
-      "link": "https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend-a-7a96fb64-add5-4a77-bacc-784f66c9c616#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T09:23:00+00:00"
-    },
-    {
-      "titel": "Sturm-Warnung für Teile Deutschlands, Sturmflut-Gefahr an der Nordseeküste",
-      "link": "https://www.spiegel.de/panorama/sturm-warnung-fuer-teile-deutschlands-sturmflut-gefahr-an-der-nordseekueste-a-9d36e688-5a7a-44de-a52e-f343ff3b5383#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T09:14:00+00:00"
-    },
-    {
-      "titel": "Proteste in Europa - auch mit Gewalt",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T08:55:32+00:00"
-    },
-    {
       "titel": "Israel will Westjordanland am Wahltag abriegeln",
       "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-25T08:51:16+00:00"
-    },
-    {
-      "titel": "Smartphone-Nutzung: Der Esstisch gilt vielen als digitale Tabuzone",
-      "link": "https://www.spiegel.de/netzwelt/smartphone-nutzung-der-esstisch-gilt-vielen-als-digitale-tabuzone-a-0842b8de-2f68-48af-b0ae-751dfc87d387#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T08:24:00+00:00"
-    },
-    {
-      "titel": "Geschichtsschreibung und das Dritte Reich: Aufklärer über die NS-Zeit",
-      "link": "https://www.sueddeutsche.de/politik/ns-geschichte-holocaust-drittes-reich-geschichtsschreibung-rezension-li.3550290",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T08:22:48+00:00"
-    },
-    {
-      "titel": "Schlaf: Haben Menschen früher besser geschlafen als wir heute?",
-      "link": "https://www.spiegel.de/geschichte/schlaf-haben-menschen-frueher-besser-geschlafen-als-wir-heute-a-d18a228b-4fe0-44de-8f9b-8068f2e9c9cf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T08:22:00+00:00"
-    },
-    {
-      "titel": "Elektroauto kaufen: Hohe Spritpreise treiben Nachfrage nach E-Autos an",
-      "link": "https://www.spiegel.de/wirtschaft/elektroautos-ueberwinden-ihr-image-als-ladenhueter-a-cace86c9-12db-477d-b80b-a363847a00c9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T08:18:00+00:00"
-    },
-    {
-      "titel": "News: Die CDU und ihre vier strategischen Probleme",
-      "link": "https://www.spiegel.de/politik/deutschland/news-die-cdu-und-ihre-vier-strategischen-probleme-a-43c9847b-6120-4e16-8ec5-8b9fae44a49f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T08:14:00+00:00"
-    },
-    {
-      "titel": "Friedrich Pürner und das BSW: „Unehrlich, unlauter, antidemokratisch“",
-      "link": "https://www.sueddeutsche.de/politik/bsw-puerner-wagenknecht-li.3558753",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T08:12:58+00:00"
-    },
-    {
-      "titel": "Verdacht auf Brandstiftung: Kehlsteinhaus niedergebrannt, Mann festgenommen",
-      "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-obersalzberg-brand-festnahme-wiederaufbau-schaden-li.3568281",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T08:12:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
-      "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T08:08:00+00:00"
-    },
-    {
-      "titel": "Pop: Zum Heulen schön",
-      "link": "https://www.sueddeutsche.de/kultur/stevie-wonder-hannover-konzert-kritik-li.3547810",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T08:03:55+00:00"
-    },
-    {
-      "titel": "Herzogin Meghan: Ermittlungen gegen Vater wegen Verdacht auf Kindesmissbrauch",
-      "link": "https://www.spiegel.de/panorama/justiz/herzogin-meghan-ermittlungen-gegen-vater-wegen-verdacht-auf-kindesmissbrauch-a-3d7d01e1-58ce-47f2-8256-4cc348f1f690#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T07:59:00+00:00"
-    },
-    {
-      "titel": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T07:45:03+00:00"
-    },
-    {
-      "titel": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
-      "link": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-live-maenner-riesenslalom-uhrzeit-tv-stream-li.3562584",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T07:39:00+00:00"
-    },
-    {
-      "titel": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-      "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T07:10:15+00:00"
-    },
-    {
-      "titel": "Unionsparteien: Merz besteht bei der CSU den Ilse-Aigner-Test",
-      "link": "https://www.sueddeutsche.de/meinung/csu-parteitag-friedrich-merz-ilse-aigner-kommentar-muenchen-li.3568475",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T07:04:18+00:00"
-    },
-    {
-      "titel": "Nahost: Armee will Westjordanland während Wahl in Israel abriegeln",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-us-botschaft-westjordanland-li.3560260",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T05:18:33+00:00"
-    },
-    {
-      "titel": "Wie Erdwärme die Wärmeversorgung verändern soll",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T04:10:34+00:00"
-    },
-    {
-      "titel": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T04:10:13+00:00"
-    },
-    {
-      "titel": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T04:07:12+00:00"
-    },
-    {
-      "titel": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T01:11:58+00:00"
-    },
-    {
-      "titel": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T19:00:39+00:00"
     }
   ]
 }
