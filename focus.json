@@ -1,10 +1,10 @@
 {
-  "aktualisiert": "2026-10-25T18:27:59+00:00",
+  "aktualisiert": "2026-10-25T21:01:50+00:00",
   "themen": [
     {
       "rang": 1,
       "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
+      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
       "quelle": "Tagesschau",
       "icon": "🗳️"
     },
@@ -17,8 +17,8 @@
     },
     {
       "rang": 3,
-      "titel": "Israel will Westjordanland am Wahltag abriegeln",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+      "titel": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
