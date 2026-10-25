@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-25T00:33:26+00:00",
+  "aktualisiert": "2026-10-25T05:21:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "Midterms: Donald Trump gibt vorzeitig Stimme für US-Kongresswahl ab",
-      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss",
+      "titel": "Nach der Trennung: Wenn das Beziehungsende sich als Glücksfall erweist",
+      "link": "https://www.spiegel.de/partnerschaft/nach-der-trennung-wenn-das-beziehungsende-sich-als-gluecksfall-erweist-a-d3363240-9b98-46aa-bb43-02b4d9bb9989#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T22:26:00+00:00"
+      "veroeffentlicht": "2026-10-25T04:30:00+00:00"
+    },
+    {
+      "titel": "Wie Erdwärme die Wärmeversorgung verändern soll",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T04:10:34+00:00"
+    },
+    {
+      "titel": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T04:10:13+00:00"
+    },
+    {
+      "titel": "Winterzeit: In der Nacht wurden die Uhren umgestellt",
+      "link": "https://www.spiegel.de/panorama/winterzeit-in-der-nacht-wurden-die-uhren-umgestellt-a-e1cb87c1-f9f0-4141-9631-13ad3f8fc310#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T04:09:00+00:00"
+    },
+    {
+      "titel": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T04:07:12+00:00"
     },
     {
       "titel": "Demonstrationen: Wo in Europa überall Proteste stattfinden",
       "link": "https://www.sueddeutsche.de/politik/demonstrationen-italien-frankreich-belgien-albanien-jugendliche-li.3568500",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-24T21:30:17+00:00"
+      "veroeffentlicht": "2026-10-25T04:01:21+00:00"
+    },
+    {
+      "titel": "Audi baut für vier Milliarden Dollar eigenes Werk in den USA",
+      "link": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T03:47:00+00:00"
+    },
+    {
+      "titel": "Israels Armee will Westjordanland am Wahltag abriegeln",
+      "link": "https://www.spiegel.de/ausland/israels-armee-will-westjordanland-am-wahltag-abriegeln-a-982c5392-a3dc-4deb-8adc-fa34ef23da5f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T01:54:00+00:00"
+    },
+    {
+      "titel": "SPD und Grüne sehen Zeit reif für Bundespräsidentin",
+      "link": "https://www.spiegel.de/politik/spd-und-gruene-sehen-zeit-reif-fuer-bundespraesidentin-a-fc05eb83-4450-4020-8f1d-506749d52032#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-25T01:19:00+00:00"
+    },
+    {
+      "titel": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-25T01:11:58+00:00"
+    },
+    {
+      "titel": "Nicht-US-Bürger bei Midterms: US-Justizministerium setzt Beamte in Kalifornien unter Druck",
+      "link": "https://www.spiegel.de/ausland/nicht-us-buerger-bei-midterms-us-justizministerium-setzt-beamte-in-kalifornien-unter-druck-a-830ee8f2-7afc-48f8-b71a-24ce8fdfc4fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T23:55:00+00:00"
+    },
+    {
+      "titel": "Midterms: Donald Trump gibt vorzeitig Stimme für US-Kongresswahl ab",
+      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-24T22:26:00+00:00"
     },
     {
       "titel": "Elon Musk wirft Ukraine Missbrauch von Starlink-Satelliten vor",
@@ -37,22 +97,10 @@
       "veroeffentlicht": "2026-10-24T19:00:39+00:00"
     },
     {
-      "titel": "Stevie Wonder reicht Räumungsklage gegen angebliche Ex-Verlobte ein",
-      "link": "https://www.spiegel.de/panorama/leute/stevie-wonder-reicht-raeumungsklage-gegen-angebliche-ex-verlobte-ein-a-5d06ea16-54e3-4b04-8078-7599f8c48c4d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T18:48:00+00:00"
-    },
-    {
       "titel": "Frankreich: „Akt II“ des Protests wird hinter die Kulissen der Stadt verbannt",
       "link": "https://www.sueddeutsche.de/politik/paris-demo-protest-peripherie-li.3568476",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-24T18:37:28+00:00"
-    },
-    {
-      "titel": "Borussia Dortmund gegen Eintracht Frankfurt: Spätes Tor sichert BVB-Heimsieg",
-      "link": "https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-eintracht-frankfurt-spaetes-tor-sichert-bvb-heimsieg-a-38449014-8b11-4673-aac1-cd326d57dd66#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T18:35:00+00:00"
     },
     {
       "titel": "1:0 gegen Frankfurt: Beier schießt den BVB an die Spitze",
@@ -61,34 +109,10 @@
       "veroeffentlicht": "2026-10-24T18:31:56+00:00"
     },
     {
-      "titel": "Italien, Albanien: Tausende demonstrieren gegen hohe Preise und Bildungsnotstand",
-      "link": "https://www.spiegel.de/ausland/italien-albanien-tausende-demonstrieren-gegen-hohe-preise-und-bildungsnotstand-a-87b72fb6-b93c-48e0-8c04-61c1f3450026#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T18:29:00+00:00"
-    },
-    {
-      "titel": "Saudi-Arabien: Huthis melden Tote in Sanaa, fliegen Gegenangriff",
-      "link": "https://www.spiegel.de/ausland/saudi-arabien-huthis-melden-tote-in-sanaa-fliegen-gegenangriff-a-c2c077f4-96a7-4a48-bd1d-36e8c064ae29#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T18:09:00+00:00"
-    },
-    {
       "titel": "Pop: Doch, doch, er ist es",
       "link": "https://www.sueddeutsche.de/kultur/bob-dylan-tour-flensburg-li.3568229",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-24T17:46:03+00:00"
-    },
-    {
-      "titel": "Frankreich: Hunderttausende demonstrieren – Polizei setzt Tränengas ein",
-      "link": "https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T17:17:00+00:00"
-    },
-    {
-      "titel": "Venezuela nach den Erdbeben: Wie das Beben die Revolution begrub",
-      "link": "https://www.spiegel.de/ausland/venezuela-nach-den-erdbeben-wie-das-beben-die-revolution-begrub-a-350df01b-7a58-4f2b-828e-1fd24bfefc41#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-24T17:05:00+00:00"
     },
     {
       "titel": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
@@ -131,30 +155,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-24T15:29:30+00:00"
-    },
-    {
-      "titel": "Israelische Armee startet Einsatz in Hebron",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T14:14:53+00:00"
-    },
-    {
-      "titel": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T13:58:56+00:00"
-    },
-    {
-      "titel": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T13:47:08+00:00"
-    },
-    {
-      "titel": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-24T13:36:26+00:00"
     },
     {
       "titel": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
