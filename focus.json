@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-25T01:21:04+00:00",
+  "aktualisiert": "2026-10-25T06:19:44+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
+      "rang": 2,
       "titel": "Merz äußert sich nicht zur Präsidentinnen-Frage",
       "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
       "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html",
-      "quelle": "Tagesschau",
-      "icon": "🌍"
-    },
-    {
-      "rang": 3,
-      "titel": "Starlink funktioniert wieder stabil",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     }
