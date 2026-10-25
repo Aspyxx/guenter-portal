@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-25T11:49:07+00:00",
+  "aktualisiert": "2026-10-25T15:06:35+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Israel will Westjordanland am Wahltag abriegeln",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+      "titel": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
       "rang": 3,
-      "titel": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+      "titel": "Israel will Westjordanland am Wahltag abriegeln",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     }
   ]
 }
