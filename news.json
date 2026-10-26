@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-26T15:12:56+00:00",
+  "aktualisiert": "2026-10-26T20:34:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
+      "titel": "Russland: Szenenbildner stirbt nach Monaten in Haft",
+      "link": "https://www.spiegel.de/ausland/russland-szenenbildner-stirbt-nach-monaten-in-haft-a-34c56572-8fc0-44f3-8e61-be734496a46e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T20:23:00+00:00"
+    },
+    {
+      "titel": "Brasilien: Donald Trump nennt Ergebnisse der Präsidentschaftswahl »manipuliert«",
+      "link": "https://www.spiegel.de/ausland/brasilien-donald-trump-nennt-ergebnisse-der-praesidentschaftswahl-manipuliert-a-5052d3d8-539c-44f9-ac7b-290c1dbcd624#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T20:14:00+00:00"
+    },
+    {
+      "titel": "Wahl in Israel: Benjamin Netanyahu schaltet in den Panik-Modus",
+      "link": "https://www.spiegel.de/ausland/wahl-in-israel-benjamin-netanyahu-schaltet-in-den-panik-modus-a-67569c98-1259-4833-affe-a02894be797b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T20:11:00+00:00"
+    },
+    {
+      "titel": "Schweiz: Säcke mit Leichenteilen nahe der deutschen Grenze im Rhein entdeckt",
+      "link": "https://www.spiegel.de/panorama/justiz/schweiz-saecke-mit-leichenteilen-nahe-der-deutschen-grenze-im-rhein-entdeckt-a-f28dc7de-e1db-4e3b-b933-61fc9a1cb1ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T20:10:00+00:00"
+    },
+    {
+      "titel": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+      "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T15:07:22+00:00"
+      "veroeffentlicht": "2026-10-26T19:56:04+00:00"
     },
     {
-      "titel": "Donald Trump und der Männerkult: Muskeln, Hintern und homoerotische Schwärmereien",
-      "link": "https://www.spiegel.de/ausland/donald-trump-und-der-maennerkult-muskeln-hintern-und-homoerotische-schwaermereien-a-a42b8457-a038-4190-a965-df75c77db265#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T15:04:00+00:00"
-    },
-    {
-      "titel": "Japan: US-Soldat wegen Mordes an Japanerin auf Okinawa angeklagt",
-      "link": "https://www.spiegel.de/panorama/justiz/japan-us-soldat-wegen-mordes-an-japanerin-auf-okinawa-angeklagt-a-4bb4d5ea-00f6-43e8-bd8e-0d8211960c30#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T14:55:00+00:00"
-    },
-    {
-      "titel": "Westjordanland: Israels Armee lässt acht Siedlungsaußenposten um Hebron bauen",
-      "link": "https://www.spiegel.de/ausland/westjordanland-israels-armee-laesst-acht-siedlungsaussenposten-um-hebron-bauen-a-832a42a6-1924-4d74-a718-248de2606d2c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T14:42:00+00:00"
-    },
-    {
-      "titel": "Maria Montserrat Alvarado: Neue Kommunikationschefin vergleicht Vatikan mit Footballteam",
-      "link": "https://www.spiegel.de/panorama/maria-montserrat-alvarado-neue-kommunikationschefin-vergleicht-vatikan-mit-footballteam-a-39ae06f0-31bd-4bdc-b85e-bd6078b83e47#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T14:38:00+00:00"
-    },
-    {
-      "titel": "Kreuzfahrtschiff rammt Containerschiffe - Polizei ermittelt gegen Kapitän",
-      "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
+      "titel": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T14:30:41+00:00"
+      "veroeffentlicht": "2026-10-26T19:45:53+00:00"
     },
     {
-      "titel": "Kosten für Bestattungen steigen: Sterben wird teurer",
-      "link": "https://www.spiegel.de/wirtschaft/service/kosten-fuer-bestattungen-steigen-sterben-wird-teurer-a-7ef0d306-8dcb-44e1-bcd6-bebc98c8c50b#ref=rss",
+      "titel": "Metro: Großhändler distanziert sich von Tochter in Russland – Unternehmen spendete Millionen für den Krieg",
+      "link": "https://www.spiegel.de/wirtschaft/metro-grosshaendler-distanziert-sich-von-tochter-in-russland-unternehmen-spendete-millionen-fuer-den-krieg-a-a619eaea-93bb-44fe-90d6-aa932ac6b643#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T14:27:00+00:00"
+      "veroeffentlicht": "2026-10-26T19:27:00+00:00"
     },
     {
-      "titel": "Demonstrationen für Pressefreiheit in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/europa/demo-pressefreiheit-tuerkei-100.html",
+      "titel": "Microsoft: Techkonzern bietet 60.000 Mitarbeitern Abfindungen an",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T19:20:00+00:00"
+    },
+    {
+      "titel": "Hitlergruß: Urteil gegen AfD-Politiker Wilko Möller rechtskräftig",
+      "link": "https://www.spiegel.de/politik/deutschland/hitlergruss-urteil-gegen-afd-politiker-wilko-moeller-rechtskraeftig-a-f6aa74f1-cdbe-4027-8163-97d21b98fbb5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T19:18:00+00:00"
+    },
+    {
+      "titel": "Podcast »Im Verhör«: Korrupte Justiz (1): Vom Rechtsanwalt zum Drogenboss - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-korrupte-justiz-1-vom-rechtsanwalt-zum-drogenboss-spiegel-tv-a-ae8f60cf-9a5c-4f44-89b5-ddc020eb07f8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T19:08:00+00:00"
+    },
+    {
+      "titel": "Ballon d'Or-Gala: Der Tanz um den goldenen Ball",
+      "link": "https://www.sueddeutsche.de/sport/ballon-d-or-live-liveticker-gala-kane-li.3569528",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T19:03:07+00:00"
+    },
+    {
+      "titel": "Harry Kane – Ballon d'Or: Wer wird der beste Fußballer und die beste Fußballerin der Welt?",
+      "link": "https://www.spiegel.de/sport/fussball/harry-kane-ballon-dor-wer-wird-der-beste-fussballer-und-die-beste-fussballerin-der-welt-a-1234230b-c7ef-4365-9e85-472fd20b06e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T18:58:00+00:00"
+    },
+    {
+      "titel": "Audi investiert in Amerika, Neckarsulm bangt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T14:25:20+00:00"
+      "veroeffentlicht": "2026-10-26T17:56:22+00:00"
     },
     {
-      "titel": "Bremerhaven: »Mein Schiff 3« kollidiert beim Ablegen mit Containerschiffen",
-      "link": "https://www.spiegel.de/panorama/bremerhaven-mein-schiff-3-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T14:22:00+00:00"
+      "titel": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T17:56:13+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: UN-Kommission: Russland presst Ausländer in seine Armee",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-un-bericht-auslaender-armee-kriegsverbrechen-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T17:10:15+00:00"
+    },
+    {
+      "titel": "Marktbericht: Klare Gewinne zum Wochenstart",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T17:05:23+00:00"
+    },
+    {
+      "titel": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
+      "link": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T16:57:08+00:00"
+    },
+    {
+      "titel": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-126.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T16:27:33+00:00"
+    },
+    {
+      "titel": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T16:11:54+00:00"
+    },
+    {
+      "titel": "Podcast „Und nun zum Sport“: Mannschaft ohne Chefcoach: Wie der FC Bayern mit der Kompany-Situation umgeht",
+      "link": "https://www.sueddeutsche.de/sport/podcast-fc-bayern-kompany-kimmich-kane-sc-freiburg-li.3568936",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T16:00:38+00:00"
+    },
+    {
+      "titel": "Podcast: „Auf den Punkt“: So hat Lula die Wahl in Brasilien gewonnen",
+      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-brasilien-lula-bolsonaro-li.3568999",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T15:50:58+00:00"
+    },
+    {
+      "titel": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T15:49:36+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Können die Demokraten wirklich gewinnen?",
+      "link": "https://www.sueddeutsche.de/politik/midterms-2026-usa-prognose-umfragen-donald-trump-demokraten-republikaner-li.3566021",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T15:39:27+00:00"
+    },
+    {
+      "titel": "Kriminalität: Tatort Telefon",
+      "link": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/telefonbetrug-schockanrufe-polizei-erkenntnisse-schutz-li.3560027",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T15:16:15+00:00"
+    },
+    {
+      "titel": "Gernot Döllner und Donald Trump: „Das ist das Schlimmste seit dem Dieselskandal“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/gernot-doellner-audi-donald-trump-georgia-ig-metall-li.3568959",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T14:57:07+00:00"
+    },
+    {
+      "titel": "Klimaanpassung in München: Pflanzen, pflanzen, pflanzen!",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-baumentscheid-stadtrat-neue-baeume-kommentar-li.3569041",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T14:21:31+00:00"
     },
     {
       "titel": "Abgebranntes Kehlsteinhaus: „Was ich mir nur schwer vorstellen kann, ist eine reine Rekonstruktion“",
-      "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-sven-keller-interview-li.3569039",
+      "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-abgebrannt-zukunft-historiker-sven-keller-interview-li.3569039",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-26T14:19:16+00:00"
-    },
-    {
-      "titel": "Alternatives Wohnprojekt in Jahnishausen, Sachsen: Inka, Brigitte und das Rittergut",
-      "link": "https://www.spiegel.de/familie/alternatives-wohnprojekt-in-jahnishausen-sachsen-inka-brigitte-und-das-rittergut-a-9ca6cedf-d5df-4f39-a299-1ce72a329d8a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T14:16:00+00:00"
-    },
-    {
-      "titel": "Präsidentschaftswahl in Brasilien: „Lulas Armee“ hat den Sieg gesichert",
-      "link": "https://www.sueddeutsche.de/politik/brasilien-wahlen-2026-lula-wiederwahl-li.3568061",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T14:15:39+00:00"
-    },
-    {
-      "titel": "Hyaluron und Botox: Drei Jahre Haft für falschen Arzt in Praxis von »Dr. Rick und Dr. Nick«",
-      "link": "https://www.spiegel.de/panorama/justiz/hyaluron-und-botox-drei-jahre-haft-fuer-falschen-arzt-in-praxis-von-dr-rick-und-dr-nick-a-810db200-524c-4919-8817-0779e994d7ca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T14:15:00+00:00"
-    },
-    {
-      "titel": "Krise bei Manchester United: Sonnenfinsternis über Old Trafford",
-      "link": "https://www.sueddeutsche.de/sport/premier-league-manchester-united-carrick-kritik-fans-pfiffe-li.3569325",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T14:03:45+00:00"
-    },
-    {
-      "titel": "Vergesellschaftung: So will Dobrindt die Wohnungspläne in Berlin stoppen",
-      "link": "https://www.sueddeutsche.de/politik/vergesellschaftung-berlin-dobrindt-wohnen-vonovia-li.3568972",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T14:00:28+00:00"
-    },
-    {
-      "titel": "Britische Medien: Nachrichten aus der Leichenhalle",
-      "link": "https://www.sueddeutsche.de/medien/daily-telegraph-axel-springer-mathias-doepfner-grossbritannien-stellenabbau-li.3568848",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T13:59:41+00:00"
-    },
-    {
-      "titel": "Rottweil: Polizei stoppt Autofahrer mit 4,2 Promille",
-      "link": "https://www.spiegel.de/panorama/justiz/rottweil-polizei-stoppt-autofahrer-mit-4-2-promille-a-efa4835f-6775-493f-9df3-43e488c11c49#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T13:56:00+00:00"
-    },
-    {
-      "titel": "Nach der Parlamentswahl: Serbiens Studierendenliste steht der EU skeptisch gegenüber",
-      "link": "https://www.sueddeutsche.de/politik/serbien-parlamentswahl-2026-studentenliste-eu-deutschland-li.3569214",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T13:47:46+00:00"
-    },
-    {
-      "titel": "Brasiliens Kapitalmärkte stürzen ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T13:47:15+00:00"
-    },
-    {
-      "titel": "Gebäudetyp E: Kann jetzt endlich billiger gebaut werden?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/wohungsbau-gebaeudetyp-e-baubranche-entwurf-hubig-hubertz-li.3568957",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T13:46:37+00:00"
-    },
-    {
-      "titel": "Britisches Königshaus: Wie Herzogin Meghan mit ihrem Vater brach",
-      "link": "https://www.sueddeutsche.de/panorama/herzogin-meghan-vater-thomas-markle-verdacht-auf-kindesmissbrauch-zerwuerfnis-li.3568967",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T13:39:08+00:00"
-    },
-    {
-      "titel": "Wahl in Brasilien: Trump bekommt seinen Hauptpreis nicht",
-      "link": "https://www.sueddeutsche.de/politik/wahl-brasilien-lula-trump-li.3568144",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T13:25:27+00:00"
-    },
-    {
-      "titel": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T12:48:59+00:00"
-    },
-    {
-      "titel": "Massenproteste gegen Rundfunkreform in Tschechien",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T12:02:27+00:00"
-    },
-    {
-      "titel": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T10:54:00+00:00"
-    },
-    {
-      "titel": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T10:29:32+00:00"
-    },
-    {
-      "titel": "Oxford Street in London wird zur Fußgängerzone",
-      "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T10:27:47+00:00"
     }
   ]
 }
