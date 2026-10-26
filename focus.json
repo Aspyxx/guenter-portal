@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-25T23:22:02+00:00",
+  "aktualisiert": "2026-10-26T01:23:04+00:00",
   "themen": [
     {
       "rang": 1,
@@ -11,16 +11,16 @@
     {
       "rang": 2,
       "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
       "quelle": "Tagesschau",
       "icon": "🗳️"
     },
     {
       "rang": 3,
-      "titel": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
-      "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
+      "titel": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     }
   ]
 }
