@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-26T01:46:16+00:00",
+  "aktualisiert": "2026-10-26T07:49:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,64 +7,142 @@
   },
   "meldungen": [
     {
-      "titel": "Lula gewinnt Wahl in Brasilien",
+      "titel": "Stichwahl in Brasilien: Präsident Lula gewinnt – Bolsonaro will Ergebnis nicht anerkennen",
+      "link": "https://www.sueddeutsche.de/politik/wahl-brasilien-ergebnis-lula-sieg-bolsonaro-li.3568108",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T07:45:00+00:00"
+    },
+    {
+      "titel": "Darts-EM in Dortmund: Martin Schindler verpasst knapp ersten deutschen Majortitel",
+      "link": "https://www.spiegel.de/sport/darts-em-in-dortmund-martin-schindler-verpasst-knapp-ersten-deutschen-majortitel-a-313a5866-b481-4e61-987b-15c8ee1a4498#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T07:44:00+00:00"
+    },
+    {
+      "titel": "Hamburg: Feuerwehr rettet in der HafenCity Frau von Dach ihres Autos",
+      "link": "https://www.spiegel.de/panorama/hamburg-feuerwehr-rettet-in-der-hafencity-frau-von-dach-ihres-autos-a-3f91822b-f29d-45bc-bff2-292f2fb32cdb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T07:39:00+00:00"
+    },
+    {
+      "titel": "Sar 2901: Wie ein ungarischer Himmelsforscher ein Weltraumrätsel entdeckte",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/sar-2901-wie-ein-ungarischer-himmelsforscher-ein-weltraumraetsel-entdeckte-a-8def5dc4-c38b-4bcf-a5a3-f45025eb0d46#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T07:32:00+00:00"
+    },
+    {
+      "titel": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
+      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T07:18:00+00:00"
+    },
+    {
+      "titel": "Spanien: Mehr als 80 Verletzte bei Busunfall nahe Barcelona",
+      "link": "https://www.spiegel.de/panorama/spanien-mehr-als-80-verletzte-bei-busunfall-nahe-barcelona-a-1004717b-728d-4703-a921-e2e828a1b1eb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T07:02:00+00:00"
+    },
+    {
+      "titel": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T01:12:14+00:00"
+      "veroeffentlicht": "2026-10-26T06:58:43+00:00"
     },
     {
-      "titel": "Wahl in Brasilien: Präsident Lula gewinnt Stichwahl in Brasilien",
-      "link": "https://www.sueddeutsche.de/politik/wahl-brasilien-ergebnis-lula-sieg-li.3568108",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T00:31:46+00:00"
-    },
-    {
-      "titel": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
-      "link": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss",
+      "titel": "Österreich schließt Veto im EU-Haushaltsstreit nicht aus",
+      "link": "https://www.spiegel.de/wirtschaft/oesterreich-schliesst-veto-im-eu-haushaltsstreit-nicht-aus-a-3008d557-a3c6-4901-9fa0-cef396b5dc76#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T00:24:00+00:00"
+      "veroeffentlicht": "2026-10-26T06:46:00+00:00"
     },
     {
-      "titel": "Proteste in Deutschland: Union und SPD warnen vor möglichen Ausschreitungen",
-      "link": "https://www.spiegel.de/politik/proteste-in-deutschland-union-und-spd-warnen-vor-moeglichen-ausschreitungen-a-7fb1e9d7-375c-4a03-8cbe-737a3ec6870d#ref=rss",
+      "titel": "Pressestimmen zur Formel 1 in Texas: »Kimi ist das wahre Genie des Jahres 2026«",
+      "link": "https://www.spiegel.de/sport/pressestimmen-zur-formel-1-in-texas-kimi-ist-das-wahre-genie-des-jahres-2026-a-c3937036-680f-4c21-b71f-51d3be61866d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T00:09:00+00:00"
+      "veroeffentlicht": "2026-10-26T06:42:00+00:00"
     },
     {
-      "titel": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
-      "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+      "titel": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T23:07:11+00:00"
+      "veroeffentlicht": "2026-10-26T06:42:00+00:00"
     },
     {
-      "titel": "Clásico in Spanien: FC Barcelona unterliegt Real Madrid durch ein spätes Tor von Kylian Mbappé",
-      "link": "https://www.spiegel.de/sport/fussball/clasico-in-spanien-fc-barcelona-unterliegt-real-madrid-durch-ein-spaetes-tor-von-kylian-mbappe-a-b459e6e5-f0d7-4f0a-a3db-108bce05f4d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T22:35:00+00:00"
+      "titel": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T06:34:32+00:00"
     },
     {
-      "titel": "Formel 1: Kimi Antonelli gewinnt vor Charles Leclerc – WM-Titel ganz nah",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-vor-charles-leclerc-wm-titel-ganz-nah-a-0ced9638-35c2-497d-8750-301a0bbed86c#ref=rss",
+      "titel": "Nachfolge des Bundespräsidenten: Ilse Aigner erhält Unterstützung aus Sachsen und Bremen",
+      "link": "https://www.spiegel.de/politik/deutschland/nachfolge-des-bundespraesidenten-ilse-aigner-erhaelt-unterstuetzung-aus-sachsen-und-bremen-a-dd7a21ad-84f6-4503-b0c5-5d6dde16a9da#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T22:30:00+00:00"
+      "veroeffentlicht": "2026-10-26T06:30:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger versuchen DAX zu stabilisieren",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T06:27:39+00:00"
+    },
+    {
+      "titel": "Umbau zur Fußgängerzone: London verbannt Autos aus der Oxford Street",
+      "link": "https://www.spiegel.de/wirtschaft/umbau-zur-fussgaengerzone-london-verbannt-autos-aus-der-oxford-street-a-ba746ffb-aca3-43af-aaa9-9bcd4857ab70#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T06:26:00+00:00"
+    },
+    {
+      "titel": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
+      "link": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T06:13:21+00:00"
+    },
+    {
+      "titel": "USA: Trump beschimpft Norwegen wegen Friedensnobelpreis",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-norwegen-libyen-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T06:12:55+00:00"
+    },
+    {
+      "titel": "11KM-Podcast: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht",
+      "link": "https://www.tagesschau.de/podcast-11km-frauen-bundeswehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T05:27:48+00:00"
+    },
+    {
+      "titel": "Brasilien: Lula ist ein schwacher Wahlsieger",
+      "link": "https://www.sueddeutsche.de/meinung/brasilien-lula-wahl-praesident-sieg-bolsonaro-stichwahl-kommentar-li.3568672",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T05:22:39+00:00"
+    },
+    {
+      "titel": "Deutsche Geheimdienste setzen auf Cloud-System von Google",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T05:11:08+00:00"
+    },
+    {
+      "titel": "Reisen in die Boom-Region: Merz und Steinmeier gleichzeitig in Asien",
+      "link": "https://www.tagesschau.de/ausland/asien/asien-reise-merz-steinmeier-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T03:31:40+00:00"
+    },
+    {
+      "titel": "Massenproteste gegen Rundfunkreform in Tschechien",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T03:06:18+00:00"
     },
     {
       "titel": "El Clásico Barça gegen Real: Mbappés Torjubiläum macht La Liga spannend",
-      "link": "https://www.sueddeutsche.de/sport/clasico-barcelona-real-madrid-li.3568847",
+      "link": "https://www.sueddeutsche.de/sport/el-clasico-fc-barcelona-real-madrid-kylian-mbappe-la-liga-li.3568847",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-25T22:15:39+00:00"
     },
     {
-      "titel": "Bulgarien: Stichwahl zwischen Ilijana Jotowa und Andrej Gjurow um Präsidentenamt",
-      "link": "https://www.spiegel.de/ausland/bulgarien-stichwahl-zwischen-ilijana-jotowa-und-andrej-gjurow-um-praesidentenamt-a-9f38ee33-0775-4c66-ba2a-5cb79f39cd3a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T21:53:00+00:00"
-    },
-    {
-      "titel": "Bremerhaven: Kreuzfahrtschiff kollidiert mit zwei Containerschiffen im Hafen",
-      "link": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T21:22:00+00:00"
+      "titel": "Sieg über Vučić: Studentenliste gewinnt historische Wahl in Serbien",
+      "link": "https://www.sueddeutsche.de/politik/wahl-in-serbien-2026-aleksandar-vucic-wahlmanipulation-gewalt-li.3568103",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-25T21:15:00+00:00"
     },
     {
       "titel": "Serbien: Vučić räumt Niederlage bei Parlamentswahl ein",
@@ -73,100 +151,22 @@
       "veroeffentlicht": "2026-10-25T20:53:07+00:00"
     },
     {
-      "titel": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T20:52:00+00:00"
-    },
-    {
-      "titel": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T20:43:16+00:00"
-    },
-    {
-      "titel": "Sieg über Vučić: Studentenliste gewinnt historische Wahl in Serbien",
-      "link": "https://www.sueddeutsche.de/politik/wahl-in-serbien-2026-aleksandar-vucic-wahlmanipulation-gewalt-li.3568103",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T20:00:07+00:00"
-    },
-    {
-      "titel": "Israel-Wahlen: Warum viele junge Israelis nach rechts abdriften",
-      "link": "https://www.spiegel.de/ausland/wahlen-in-israel-interview-mit-bildungsforscherin-tammy-hoffmann-ueber-rechte-erstwaehler-a-b23b05a0-d9c8-476d-9709-814069e7351f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T19:57:00+00:00"
-    },
-    {
-      "titel": "Kehlsteinhaus abgebrannt: Interview mit Feuerwehreinsatzleiter",
-      "link": "https://www.spiegel.de/panorama/justiz/kehlsteinhaus-abgebrannt-interview-mit-feuerwehreinsatzleiter-a-a0c7e976-6034-414e-a25d-e8e8c6f5afeb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T19:55:00+00:00"
-    },
-    {
-      "titel": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
-      "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T19:41:15+00:00"
-    },
-    {
-      "titel": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
-      "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T19:25:14+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Berichte: Ukraine greift russische Raketenfabrik an",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-raketenfabrik-iskander-li.3563283",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-25T19:07:11+00:00"
     },
     {
-      "titel": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
-      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T18:49:43+00:00"
-    },
-    {
       "titel": "FC Bayern in Freiburg: Am Ende feiert auch Mr. Aura",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-freiburg-bundesliga-li.3568801",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-sc-freiburg-bundesliga-vincent-kompany-dayot-upamecano-li.3568801",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-25T18:48:36+00:00"
     },
     {
-      "titel": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T18:30:00+00:00"
-    },
-    {
       "titel": "Nachruf: Er zog der Welt den Teppich unter den Füßen weg",
-      "link": "https://www.sueddeutsche.de/kultur/nachruf-schriftsteller-autor-gestorben-li.3513553",
+      "link": "https://www.sueddeutsche.de/kultur/joachim-lottmann-schriftsteller-gestorben-nachruf-berlin-li.3513553",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-25T16:52:20+00:00"
-    },
-    {
-      "titel": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T16:24:20+00:00"
-    },
-    {
-      "titel": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
-      "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T15:12:04+00:00"
-    },
-    {
-      "titel": "Audi-Chef im US-Wahlkampf: Und dann kommt „Görnot“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/audi-gernot-doellner-donald-trump-midterms-2026-usa-li.3568577",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T14:58:00+00:00"
-    },
-    {
-      "titel": "Chipherstellung: Kaum ein Wirtschaftszweig, in den Nvidia nicht vordringt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-gtc-jensen-huang-ki-chips-kuenstliche-intelligenz-li.3568109",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T14:48:33+00:00"
     }
   ]
 }
