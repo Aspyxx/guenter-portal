@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-10-25T23:17:24+00:00",
+  "aktualisiert": "2026-10-26T01:46:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Lula gewinnt Wahl in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T01:12:14+00:00"
+    },
+    {
+      "titel": "Wahl in Brasilien: Präsident Lula gewinnt Stichwahl in Brasilien",
+      "link": "https://www.sueddeutsche.de/politik/wahl-brasilien-ergebnis-lula-sieg-li.3568108",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T00:31:46+00:00"
+    },
+    {
+      "titel": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
+      "link": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T00:24:00+00:00"
+    },
+    {
+      "titel": "Proteste in Deutschland: Union und SPD warnen vor möglichen Ausschreitungen",
+      "link": "https://www.spiegel.de/politik/proteste-in-deutschland-union-und-spd-warnen-vor-moeglichen-ausschreitungen-a-7fb1e9d7-375c-4a03-8cbe-737a3ec6870d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T00:09:00+00:00"
+    },
     {
       "titel": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
       "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
@@ -67,7 +91,7 @@
       "veroeffentlicht": "2026-10-25T20:00:07+00:00"
     },
     {
-      "titel": "Wahlen in Israel: Interview mit Bildungsforscherin Tammy Hoffman über rechte Erstwähler",
+      "titel": "Israel-Wahlen: Warum viele junge Israelis nach rechts abdriften",
       "link": "https://www.spiegel.de/ausland/wahlen-in-israel-interview-mit-bildungsforscherin-tammy-hoffmann-ueber-rechte-erstwaehler-a-b23b05a0-d9c8-476d-9709-814069e7351f#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-25T19:57:00+00:00"
@@ -91,22 +115,10 @@
       "veroeffentlicht": "2026-10-25T19:25:14+00:00"
     },
     {
-      "titel": "Hamburger Hauptbahnhof: Bundespolizei im Dauereinsatz gegen Kriminalität - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/justiz/hamburger-hauptbahnhof-bundespolizei-im-dauereinsatz-gegen-kriminalitaet-spiegel-tv-a-35994ee4-b75b-4853-8ac7-839f40ed3503#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T19:12:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Berichte: Ukraine greift russische Raketenfabrik an",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-raketenfabrik-iskander-li.3563283",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-25T19:07:11+00:00"
-    },
-    {
-      "titel": "Bundesliga: Bayern schlagen Freiburg – Upamecano trifft wie ein Mittelstürmer",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-bayern-schlagen-freiburg-upamecano-trifft-wie-ein-mittelstuermer-a-14f4ba28-d807-4a00-b9be-f8c08bba9769#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-25T19:01:00+00:00"
     },
     {
       "titel": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
@@ -145,12 +157,6 @@
       "veroeffentlicht": "2026-10-25T15:12:04+00:00"
     },
     {
-      "titel": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-      "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-25T15:04:51+00:00"
-    },
-    {
       "titel": "Audi-Chef im US-Wahlkampf: Und dann kommt „Görnot“",
       "link": "https://www.sueddeutsche.de/wirtschaft/audi-gernot-doellner-donald-trump-midterms-2026-usa-li.3568577",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-gtc-jensen-huang-ki-chips-kuenstliche-intelligenz-li.3568109",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-25T14:48:33+00:00"
-    },
-    {
-      "titel": "Obersalzberg: Das Kehlsteinhaus sollte nicht mehr genauso aussehen wie vor dem Feuer",
-      "link": "https://www.sueddeutsche.de/meinung/kehlsteinhaus-obersalzberg-brand-berchtesgaden-kommentar-li.3568615",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-25T13:39:56+00:00"
     }
   ]
 }
