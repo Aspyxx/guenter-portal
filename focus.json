@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-26T19:26:11+00:00",
+  "aktualisiert": "2026-10-26T23:12:29+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Wer folgt auf Steinmeier?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
+      "titel": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+      "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
+      "titel": "Russland will Angriffe trotz Gesprächen fortsetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     }
   ]
 }
