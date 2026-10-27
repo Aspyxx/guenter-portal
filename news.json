@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-26T20:34:46+00:00",
+  "aktualisiert": "2026-10-27T00:05:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,88 @@
   },
   "meldungen": [
     {
+      "titel": "Ballon d'Or: Harry Kane und Alexia Putellas triumphieren",
+      "link": "https://www.spiegel.de/sport/fussball/ballon-dor-harry-kane-und-alexia-putellas-triumphieren-a-27bfacb8-19b8-4149-bbfc-b3808c5fa39f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T23:48:00+00:00"
+    },
+    {
+      "titel": "Ballon d'Or: Harry Kane und Alexia Putellas gewinnen Weltfußballerwahl",
+      "link": "https://www.spiegel.de/sport/fussball/harry-kane-ballon-dor-wer-wird-der-beste-fussballer-und-die-beste-fussballerin-der-welt-a-1234230b-c7ef-4365-9e85-472fd20b06e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T23:42:00+00:00"
+    },
+    {
+      "titel": "USA unter Donald Trump: Ex-FBI-Chef James Comey zum dritten Mal angeklagt",
+      "link": "https://www.spiegel.de/ausland/usa-unter-donald-trump-ex-fbi-chef-james-comey-zum-dritten-mal-angeklagt-a-16e626c6-2982-491e-9e29-2f9f5c2d7f0b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T23:34:00+00:00"
+    },
+    {
+      "titel": "Harry Kane gewinnt Ballon d'Or",
+      "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T23:20:35+00:00"
+    },
+    {
+      "titel": "Ballon d'Or-Gala: Harry Kane gewinnt den Ballon d'Or",
+      "link": "https://www.sueddeutsche.de/sport/ballon-d-or-live-liveticker-gala-kane-li.3569528",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T23:02:59+00:00"
+    },
+    {
+      "titel": "Monaco: Antoine de Massy tot auf Platz gefunden – Begleiter festgenommen",
+      "link": "https://www.spiegel.de/panorama/justiz/monaco-antoine-de-massy-tot-auf-platz-gefunden-begleiter-festgenommen-a-593dd332-25dd-4432-80d0-f4b2ab56c97a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T22:47:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T22:30:15+00:00"
+    },
+    {
+      "titel": "USA: Trump verspricht eine Million Dollar für Hinweise auf Wahlbetrug bei Midterms",
+      "link": "https://www.spiegel.de/ausland/usa-trump-verspricht-eine-million-dollar-fuer-hinweise-auf-wahlbetrug-bei-midterms-a-183a8589-7c38-40c1-80e6-c028027af241#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T22:29:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Verdächtiger bestreitet rassistisches Motiv nach Schüssen bei Paris",
+      "link": "https://www.spiegel.de/ausland/frankreich-verdaechtiger-bestreitet-rassistisches-motiv-nach-schuessen-bei-paris-a-68061064-692b-4ca0-9523-2d5068f365e3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T22:04:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Regierung reagiert mit Bildungsreformen auf anhaltende Schulproteste",
+      "link": "https://www.spiegel.de/ausland/frankreich-regierung-reagiert-mit-bildungsreformen-auf-anhaltende-schulproteste-a-04a6eead-08ec-4134-97b8-fa11712f1377#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T21:29:00+00:00"
+    },
+    {
+      "titel": "USA: Trump verspricht Millionen für Hinweise auf Wahlbetrug",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-wahlbetrug-hinweise-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-26T20:38:22+00:00"
+    },
+    {
+      "titel": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-26T20:36:08+00:00"
+    },
+    {
+      "titel": "Anthropic: KI-Entwickler beantragt Börsengang in den USA",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-entwickler-beantragt-boersengang-in-den-usa-a-3ac6664b-b904-4a48-92c0-174f43d49312#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-26T20:36:00+00:00"
+    },
+    {
       "titel": "Russland: Szenenbildner stirbt nach Monaten in Haft",
       "link": "https://www.spiegel.de/ausland/russland-szenenbildner-stirbt-nach-monaten-in-haft-a-34c56572-8fc0-44f3-8e61-be734496a46e#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-26T20:23:00+00:00"
-    },
-    {
-      "titel": "Brasilien: Donald Trump nennt Ergebnisse der Präsidentschaftswahl »manipuliert«",
-      "link": "https://www.spiegel.de/ausland/brasilien-donald-trump-nennt-ergebnisse-der-praesidentschaftswahl-manipuliert-a-5052d3d8-539c-44f9-ac7b-290c1dbcd624#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T20:14:00+00:00"
-    },
-    {
-      "titel": "Wahl in Israel: Benjamin Netanyahu schaltet in den Panik-Modus",
-      "link": "https://www.spiegel.de/ausland/wahl-in-israel-benjamin-netanyahu-schaltet-in-den-panik-modus-a-67569c98-1259-4833-affe-a02894be797b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T20:11:00+00:00"
-    },
-    {
-      "titel": "Schweiz: Säcke mit Leichenteilen nahe der deutschen Grenze im Rhein entdeckt",
-      "link": "https://www.spiegel.de/panorama/justiz/schweiz-saecke-mit-leichenteilen-nahe-der-deutschen-grenze-im-rhein-entdeckt-a-f28dc7de-e1db-4e3b-b933-61fc9a1cb1ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T20:10:00+00:00"
     },
     {
       "titel": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
@@ -37,46 +97,10 @@
       "veroeffentlicht": "2026-10-26T19:56:04+00:00"
     },
     {
-      "titel": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T19:45:53+00:00"
-    },
-    {
-      "titel": "Metro: Großhändler distanziert sich von Tochter in Russland – Unternehmen spendete Millionen für den Krieg",
-      "link": "https://www.spiegel.de/wirtschaft/metro-grosshaendler-distanziert-sich-von-tochter-in-russland-unternehmen-spendete-millionen-fuer-den-krieg-a-a619eaea-93bb-44fe-90d6-aa932ac6b643#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T19:27:00+00:00"
-    },
-    {
-      "titel": "Microsoft: Techkonzern bietet 60.000 Mitarbeitern Abfindungen an",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T19:20:00+00:00"
-    },
-    {
-      "titel": "Hitlergruß: Urteil gegen AfD-Politiker Wilko Möller rechtskräftig",
-      "link": "https://www.spiegel.de/politik/deutschland/hitlergruss-urteil-gegen-afd-politiker-wilko-moeller-rechtskraeftig-a-f6aa74f1-cdbe-4027-8163-97d21b98fbb5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T19:18:00+00:00"
-    },
-    {
-      "titel": "Podcast »Im Verhör«: Korrupte Justiz (1): Vom Rechtsanwalt zum Drogenboss - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-korrupte-justiz-1-vom-rechtsanwalt-zum-drogenboss-spiegel-tv-a-ae8f60cf-9a5c-4f44-89b5-ddc020eb07f8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T19:08:00+00:00"
-    },
-    {
-      "titel": "Ballon d'Or-Gala: Der Tanz um den goldenen Ball",
-      "link": "https://www.sueddeutsche.de/sport/ballon-d-or-live-liveticker-gala-kane-li.3569528",
+      "titel": "Proteste in Frankreich: Frankreichs Premier macht erste Zugeständnisse – doch die Schüler wollen mehr",
+      "link": "https://www.sueddeutsche.de/politik/frankreich-schuelerproteste-sebastien-lecornu-bildungspolitik-zugestaendnisse-li.3569506",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T19:03:07+00:00"
-    },
-    {
-      "titel": "Harry Kane – Ballon d'Or: Wer wird der beste Fußballer und die beste Fußballerin der Welt?",
-      "link": "https://www.spiegel.de/sport/fussball/harry-kane-ballon-dor-wer-wird-der-beste-fussballer-und-die-beste-fussballerin-der-welt-a-1234230b-c7ef-4365-9e85-472fd20b06e5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T18:58:00+00:00"
+      "veroeffentlicht": "2026-10-26T19:04:53+00:00"
     },
     {
       "titel": "Audi investiert in Amerika, Neckarsulm bangt",
@@ -115,12 +139,6 @@
       "veroeffentlicht": "2026-10-26T16:27:33+00:00"
     },
     {
-      "titel": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T16:11:54+00:00"
-    },
-    {
       "titel": "Podcast „Und nun zum Sport“: Mannschaft ohne Chefcoach: Wie der FC Bayern mit der Kompany-Situation umgeht",
       "link": "https://www.sueddeutsche.de/sport/podcast-fc-bayern-kompany-kimmich-kane-sc-freiburg-li.3568936",
       "quelle": "Süddeutsche",
@@ -131,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-brasilien-lula-bolsonaro-li.3568999",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-26T15:50:58+00:00"
-    },
-    {
-      "titel": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T15:49:36+00:00"
     },
     {
       "titel": "Midterms in den USA: Können die Demokraten wirklich gewinnen?",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/gernot-doellner-audi-donald-trump-georgia-ig-metall-li.3568959",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-26T14:57:07+00:00"
-    },
-    {
-      "titel": "Klimaanpassung in München: Pflanzen, pflanzen, pflanzen!",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-baumentscheid-stadtrat-neue-baeume-kommentar-li.3569041",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T14:21:31+00:00"
-    },
-    {
-      "titel": "Abgebranntes Kehlsteinhaus: „Was ich mir nur schwer vorstellen kann, ist eine reine Rekonstruktion“",
-      "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-abgebrannt-zukunft-historiker-sven-keller-interview-li.3569039",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T14:19:16+00:00"
     }
   ]
 }
