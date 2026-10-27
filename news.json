@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-27T16:01:49+00:00",
+  "aktualisiert": "2026-10-27T20:43:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,70 +7,148 @@
   },
   "meldungen": [
     {
-      "titel": "Mehr Personal und Befugnisse: EU will Frontex massiv ausbauen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-will-fuer-frontex-mehr-befugnisse-und-personal-100.html",
+      "titel": "Nahost: Likud-Partei stärkste Kraft, aber Netanjahu-Lager liegt laut Prognosen zurück",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-li.3560260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T20:38:46+00:00"
+    },
+    {
+      "titel": "Keine klare Mehrheit bei Parlamentswahl in Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T15:55:43+00:00"
+      "veroeffentlicht": "2026-10-27T20:34:27+00:00"
     },
     {
-      "titel": "Fall Jeffrey Epstein: Demokraten fordern Ermittler zu Trumps Epstein-Verbindungen",
-      "link": "https://www.spiegel.de/ausland/fall-jeffrey-epstein-demokraten-fordern-ermittler-zu-trumps-epstein-verbindungen-a-6c79abfa-88c7-42e4-b7cc-7e0c281ce197#ref=rss",
+      "titel": "Schortens: Bürgermeister Böhling richtet Halteverbot an Privatgrundstück ein",
+      "link": "https://www.spiegel.de/mobilitaet/schortens-buergermeister-boehling-richtet-halteverbot-an-privatgrundstueck-ein-a-a5e11f90-0e22-47df-81a3-fe17c68ecc3d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T15:53:00+00:00"
+      "veroeffentlicht": "2026-10-27T20:24:00+00:00"
     },
     {
-      "titel": "Was die Israel-Wahl für Deutschland bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
+      "titel": "Präsidentschaftsrennen in Brasilien: Wahlverlierer Flávio Bolsonaro flieht angeblich aus Brasilien",
+      "link": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T20:13:07+00:00"
+    },
+    {
+      "titel": "Prozess in Düsseldorf: 32-Jährige nach tödlicher Flucht vor Polizei zu zweieinhalb Jahren Haft verurteilt",
+      "link": "https://www.spiegel.de/panorama/justiz/prozess-in-duesseldorf-32-jaehrige-nach-toedlicher-flucht-vor-polizei-zu-zweieinhalb-jahren-haft-verurteilt-a-e75545ee-7f1c-44c9-a262-63818890f6cd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T20:09:00+00:00"
+    },
+    {
+      "titel": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
+      "link": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T15:52:06+00:00"
+      "veroeffentlicht": "2026-10-27T20:05:11+00:00"
     },
     {
-      "titel": "Psychologin zur Lage in Israel: \"Jeder von uns ist irgendwie kaputtgegangen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-trauma-interview-100.html",
+      "titel": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T15:51:37+00:00"
+      "veroeffentlicht": "2026-10-27T20:00:01+00:00"
     },
     {
-      "titel": "Künstliche Intelligenz: Anthropic-Börsengang und Microsoft-Jobabbau befeuern Angst vor KI-Blase",
-      "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-anthropic-boersengang-und-microsoft-jobabbau-befeuern-angst-vor-ki-blase-a-90381ba4-3455-4f6b-bcf5-6da859cd3425#ref=rss",
+      "titel": "US-Filmpreis: Sandra Hüller und Sandra Wollner für Gotham Awards nominiert",
+      "link": "https://www.spiegel.de/kultur/tv/us-filmpreis-sandra-hueller-und-sandra-wollner-fuer-gotham-awards-nominiert-a-dfeee3c8-fbfe-41f2-a953-684c843887fb#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T15:48:00+00:00"
+      "veroeffentlicht": "2026-10-27T19:58:00+00:00"
     },
     {
-      "titel": "DFB-Pokal-Außenseiter Jeddeloh II: »Im Ort ist der totale Hype«",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-aussenseiter-jeddeloh-ii-im-ort-ist-der-totale-hype-a-bf2c6590-b359-4cef-ac25-99e17682a9b8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T15:45:00+00:00"
-    },
-    {
-      "titel": "Seltenes Naturphänomen: Vier Tote nach Tornado im Süden der Türkei",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-antalya-tornado-vier-tote-100.html",
+      "titel": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T15:35:24+00:00"
+      "veroeffentlicht": "2026-10-27T19:52:58+00:00"
     },
     {
-      "titel": "Bundesgerichtshof verweist Streit um falsches Künast-Zitat an EuGH",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kuenast-meta-eugh-100.html",
+      "titel": "Urlaub in den Herbstferien: Welcher Herbstreisetyp sind Sie?",
+      "link": "https://www.spiegel.de/reise/urlaub-in-den-herbstferien-welcher-herbstreisetyp-sind-sie-a-736a3054-fbac-420d-98c9-d14f8738073d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T19:50:00+00:00"
+    },
+    {
+      "titel": "Seychellen, La Digue: Deutscher Tourist tot aufgefunden",
+      "link": "https://www.spiegel.de/ausland/seychellen-la-digue-deutscher-tourist-tot-aufgefunden-a-cd42c181-18e7-4dbd-9ce4-284cf2a35b17#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T19:32:00+00:00"
+    },
+    {
+      "titel": "Fall Christina Block: Warum die Richter auf den Tonaufnahmen der »Zeit« bestehen",
+      "link": "https://www.spiegel.de/panorama/justiz/block-prozess-und-die-zeit-landgericht-betont-bedeutung-der-aufzeichnungen-a-6becb157-197d-46fb-a7df-020fdf1f6294#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T19:26:00+00:00"
+    },
+    {
+      "titel": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T15:35:01+00:00"
+      "veroeffentlicht": "2026-10-27T19:25:34+00:00"
     },
     {
-      "titel": "Karlsruhe: BGH setzt Verfahren zwischen Renate Künast und Meta erneut aus",
-      "link": "https://www.spiegel.de/netzwelt/netzpolitik/karlsruhe-bgh-setzt-verfahren-zwischen-renate-kuenast-und-meta-erneut-aus-a-c0da607f-fa02-4165-b270-f10cf09e03c3#ref=rss",
+      "titel": "Juli Zeh: Schriftstellerin hört offenbar als Verfassungsrichterin auf",
+      "link": "https://www.spiegel.de/kultur/literatur/juli-zeh-schriftstellerin-hoert-offenbar-als-verfassungsrichterin-auf-a-25226669-4514-4274-8612-ae76e44d62b1#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T15:08:00+00:00"
+      "veroeffentlicht": "2026-10-27T19:18:00+00:00"
     },
     {
-      "titel": "»Wetten, dass...?«: ZDF plant Vorglüh-Show",
-      "link": "https://www.spiegel.de/kultur/tv/wetten-dass-zdf-plant-vorglueh-show-a-b79c28a1-f103-4125-9f93-81aab28c75c8#ref=rss",
+      "titel": "DFB-Pokal: Frankfurts Nationalstürmer Burkardt und Ebnoutalib werfen den HSV raus",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-frankfurts-nationalstuermer-burkardt-und-ebnoutalib-werfen-den-hsv-raus-a-0959fdeb-3489-4ccf-95fe-9806b545fd9a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T15:01:00+00:00"
+      "veroeffentlicht": "2026-10-27T19:13:00+00:00"
     },
     {
-      "titel": "Nordrhein-Westfalen: Lehrerin nach 16 Jahren Krankmeldung wegen Betrugs angeklagt",
-      "link": "https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-lehrerin-nach-16-jahren-krankmeldung-wegen-betrugs-angeklagt-a-d6fbe0c0-fbab-49a9-b1ea-7c3ac7e88a62#ref=rss",
+      "titel": "USA vor den Midterms: Abdul El-Sayed und James Talarico – neue Hoffnungsträger der Demokraten",
+      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-kommt-jetzt-die-blaue-welle-a-7a34c674-5be5-4079-9b2e-40e9a8b575ef#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T14:50:00+00:00"
+      "veroeffentlicht": "2026-10-27T19:07:00+00:00"
+    },
+    {
+      "titel": "2. Runde im DFB-Pokal: Frankfurts Nationalspieler erledigen HSV – Leipziger Comeback in Essen",
+      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-leipzig-essen-frankfurt-hsv-li.3570131",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T19:03:18+00:00"
+    },
+    {
+      "titel": "Versicherungsmathematiker: Das neue Altersvorsorgedepot kann teuer werden",
+      "link": "https://www.sueddeutsche.de/wirtschaft/altersvorsorgedepot-lebensversicherung-riester-rente-kosten-li.3569950",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T18:00:00+00:00"
+    },
+    {
+      "titel": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T17:56:21+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX kann weiter zulegen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T17:18:35+00:00"
+    },
+    {
+      "titel": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T17:12:36+00:00"
+    },
+    {
+      "titel": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T17:11:59+00:00"
+    },
+    {
+      "titel": "Nach Gefängnisurteil wegen Steuerhinterziehung: Masken-Millionärin Andrea Tandler fordert Schmerzensgeld",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-justizpalast-prozess-andrea-tandler-maskenaffaere-li.3569464",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T17:02:50+00:00"
+    },
+    {
+      "titel": "Kreuzfahrten: Rechtsanwalt: „Tui Cruises hätte gar nicht auslaufen dürfen“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/mein-schiff-3-tui-cruises-kreuzfahrt-reiserecht-li.3569466",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T16:32:15+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Hilfsaktion für Frontstadt Oleschky läuft",
@@ -85,88 +163,10 @@
       "veroeffentlicht": "2026-10-27T14:47:00+00:00"
     },
     {
-      "titel": "Marathon-Überraschung Blanka Dörfel: »Lasst ruhig mal die Uhr zu Hause und lauft nach Gefühl!«",
-      "link": "https://www.spiegel.de/sport/leichtathletik/marathon-ueberraschung-blanka-doerfel-lasst-ruhig-mal-die-uhr-zu-hause-und-lauft-nach-gefuehl-a-d7ab08f2-8aeb-4c53-a9ea-aa54d3d502fa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T14:46:00+00:00"
-    },
-    {
-      "titel": "Israel – Knesset-Wahl: Die Szenarien für den Wahlausgang",
-      "link": "https://www.spiegel.de/ausland/israel-knesset-wahl-die-szenarien-fuer-den-wahlausgang-a-53f946a4-a464-47fd-98f1-fe8f8163bf66#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T14:44:00+00:00"
-    },
-    {
       "titel": "Klimawandel und Hitze: „Jetzt ist die Zeit, sich auf den nächsten Sommer vorzubereiten“",
       "link": "https://www.sueddeutsche.de/bayern/klimawandel-bayern-hitze-bilanz-2026-zukunft-li.3569238",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-27T14:43:38+00:00"
-    },
-    {
-      "titel": "Demokratische Republik Kongo: Zahl der Ebolafälle steigt auf mehr als 10.000",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/dr-kongo-zahl-der-ebolafaelle-steigt-auf-mehr-als-10-000-a-c37483a2-b347-45e1-b76d-7271b3f00ba8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T14:40:00+00:00"
-    },
-    {
-      "titel": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
-      "link": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T14:28:22+00:00"
-    },
-    {
-      "titel": "Reichtum: Wenn der Hund mit dem Privatjet zum Tierarzt geflogen wird",
-      "link": "https://www.sueddeutsche.de/panorama/oxfam-bericht-superreiche-privatjets-klimakrise-li.3569875",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T14:14:44+00:00"
-    },
-    {
-      "titel": "Erderwärmung: EU an Mitgliedstaaten: Macht euch auf die Klimakatastrophe gefasst",
-      "link": "https://www.sueddeutsche.de/politik/eu-kommission-klimawandel-mitgliedstaaten-vorbereitung-li.3569699",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T14:12:40+00:00"
-    },
-    {
-      "titel": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T14:12:19+00:00"
-    },
-    {
-      "titel": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T14:12:01+00:00"
-    },
-    {
-      "titel": "Suche nach sicherem Standort: Bayerischer Wald bleibt eine Option für Atommüllendlager",
-      "link": "https://www.sueddeutsche.de/bayern/endlager-atommuell-bayern-standort-suche-bge-granit-li.3569001",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T14:10:02+00:00"
-    },
-    {
-      "titel": "Nahost: Wahlkommission in Israel: Höchste Wahlbeteiligung seit 1973",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-ergebnisse-ablauf-infos-li.3560260",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T14:07:00+00:00"
-    },
-    {
-      "titel": "Ballon d'Or: Alexia Putellas erobert den Thron zurück",
-      "link": "https://www.sueddeutsche.de/sport/ballon-d-or-alexia-putellas-barcelona-london-city-lionesses-fussball-li.3569698",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T13:58:08+00:00"
-    },
-    {
-      "titel": "Migration: EU will Frontex massiv ausbauen",
-      "link": "https://www.sueddeutsche.de/politik/frontex-eu-abschiebungen-migration-grenzschutz-li.3569701",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T13:57:33+00:00"
-    },
-    {
-      "titel": "Stubb und Störe sprechen mit Putin",
-      "link": "https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T13:32:22+00:00"
     }
   ]
 }
