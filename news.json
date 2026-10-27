@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-27T00:05:30+00:00",
+  "aktualisiert": "2026-10-27T05:09:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Ballon d'Or: Harry Kane und Alexia Putellas triumphieren",
-      "link": "https://www.spiegel.de/sport/fussball/ballon-dor-harry-kane-und-alexia-putellas-triumphieren-a-27bfacb8-19b8-4149-bbfc-b3808c5fa39f#ref=rss",
+      "titel": "Auch Erwachsene shoppen heute Kuscheltiere. Ist das wirklich so lächerlich, wie es scheint?",
+      "link": "https://www.spiegel.de/kultur/auch-erwachsene-shoppen-heute-kuscheltiere-ist-das-wirklich-so-laecherlich-wie-es-scheint-a-8c63feb1-8689-4658-92ea-2fcf50fd7050#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T23:48:00+00:00"
+      "veroeffentlicht": "2026-10-27T05:06:00+00:00"
     },
     {
-      "titel": "Ballon d'Or: Harry Kane und Alexia Putellas gewinnen Weltfußballerwahl",
-      "link": "https://www.spiegel.de/sport/fussball/harry-kane-ballon-dor-wer-wird-der-beste-fussballer-und-die-beste-fussballerin-der-welt-a-1234230b-c7ef-4365-9e85-472fd20b06e5#ref=rss",
+      "titel": "News: Wahl in Israel, Berliner Linke trifft Vanessa Emde, Renate Künast gegen Facebook",
+      "link": "https://www.spiegel.de/politik/deutschland/news-wahl-in-israel-berliner-linke-trifft-vanessa-emde-renate-kuenast-gegen-facebook-a-cf835170-110e-45f2-8dce-58ca7b5ee98c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T23:42:00+00:00"
+      "veroeffentlicht": "2026-10-27T04:39:00+00:00"
     },
     {
-      "titel": "USA unter Donald Trump: Ex-FBI-Chef James Comey zum dritten Mal angeklagt",
-      "link": "https://www.spiegel.de/ausland/usa-unter-donald-trump-ex-fbi-chef-james-comey-zum-dritten-mal-angeklagt-a-16e626c6-2982-491e-9e29-2f9f5c2d7f0b#ref=rss",
+      "titel": "Super Bowl 2027: Jay-Z übernimmt die Halbzeitshow",
+      "link": "https://www.spiegel.de/kultur/super-bowl-2027-jay-z-uebernimmt-die-halbzeitshow-a-6e9d87e3-1170-4a90-b757-2ef54174dfae#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T23:34:00+00:00"
+      "veroeffentlicht": "2026-10-27T04:33:00+00:00"
+    },
+    {
+      "titel": "Wechseljahre: So trainieren Frauen in dieser Phase richtig",
+      "link": "https://www.spiegel.de/fitness/wechseljahre-so-trainieren-frauen-in-dieser-phase-richtig-a-962d1d46-0414-4fd3-a705-e520f800e28a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T04:30:00+00:00"
+    },
+    {
+      "titel": "Fitness: Wie Eltern und erwachsene Kinder sich zusammen fit halten können",
+      "link": "https://www.spiegel.de/fitness/fitness-wie-eltern-und-erwachsene-kinder-sich-zusammen-fit-halten-koennen-a-64f90900-d786-4d8f-94f6-98d2685cb051#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T04:30:00+00:00"
+    },
+    {
+      "titel": "Muss Facebook rechtswidrige Memes aufspüren?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T04:20:26+00:00"
+    },
+    {
+      "titel": "Neustadt am Rübenberge: Auto fährt in Menschengruppe - mehrere Verletzte",
+      "link": "https://www.spiegel.de/panorama/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe-mehrere-verletzte-a-ce242cc9-ab90-4f1b-8c4d-f2ccba73fc76#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T04:15:00+00:00"
+    },
+    {
+      "titel": "Junge Menschen im Sog der Sekten",
+      "link": "https://www.tagesschau.de/investigativ/swr/junge-menschen-sekten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T04:00:49+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T03:49:21+00:00"
+    },
+    {
+      "titel": "Brasilien-Wahl: Bolsonaro-Partei erkennt Lula da Silvas Sieg an – unter Vorbehalt",
+      "link": "https://www.spiegel.de/ausland/brasilien-wahl-bolsonaro-partei-erkennt-lula-da-silvas-sieg-an-unter-vorbehalt-a-6fb50463-5e69-4f53-8c11-2b1142698d30#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T03:45:00+00:00"
+    },
+    {
+      "titel": "Anthropic: Der nächste größte Börsengang aller Zeiten?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-anthropic-dario-amodei-elon-musk-claude-boerse-li.3569461",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T03:39:46+00:00"
+    },
+    {
+      "titel": "Knesset-Wahl 2026: Israel vor der Entscheidung",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T03:18:23+00:00"
+    },
+    {
+      "titel": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
+      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T03:14:00+00:00"
+    },
+    {
+      "titel": "Russland-Ukraine-Krieg: Waffenruhe für besetzte ukrainische Frontstadt Oleschky läuft",
+      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-waffenruhe-fuer-besetzte-ukrainische-frontstadt-oleschky-laeuft-a-e3b0a15b-20b4-4216-900d-32ce52bd3051#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T03:14:00+00:00"
+    },
+    {
+      "titel": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
+      "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T03:06:48+00:00"
+    },
+    {
+      "titel": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T02:22:51+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Hilfsaktion für Frontstadt Oleschky läuft an",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-oleschky-hilfsgueter-feuerpause-hilfslieferungen-minen-li.3563283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T01:48:42+00:00"
+    },
+    {
+      "titel": "Pressestimmen zum Ballon d'Or: „Kane ist ein absolut verdienter Gewinner“",
+      "link": "https://www.sueddeutsche.de/sport/ballond-d-or-pressestimmen-kane-li.3569559",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T00:33:05+00:00"
+    },
+    {
+      "titel": "Ballon d’Or: Kanes Krönung",
+      "link": "https://www.sueddeutsche.de/sport/ballon-d-or-kane-yamal-mbappe-gewinner-li.3569535",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T00:05:05+00:00"
+    },
+    {
+      "titel": "Oxfam-Bericht: Wie Superreiche das Klima aufheizen",
+      "link": "https://www.sueddeutsche.de/politik/oxfam-klimawandel-superreiche-treibhausgasemissionen-nepal-li.3568984",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T00:02:00+00:00"
     },
     {
       "titel": "Harry Kane gewinnt Ballon d'Or",
@@ -37,36 +139,6 @@
       "veroeffentlicht": "2026-10-26T23:02:59+00:00"
     },
     {
-      "titel": "Monaco: Antoine de Massy tot auf Platz gefunden – Begleiter festgenommen",
-      "link": "https://www.spiegel.de/panorama/justiz/monaco-antoine-de-massy-tot-auf-platz-gefunden-begleiter-festgenommen-a-593dd332-25dd-4432-80d0-f4b2ab56c97a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T22:47:00+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T22:30:15+00:00"
-    },
-    {
-      "titel": "USA: Trump verspricht eine Million Dollar für Hinweise auf Wahlbetrug bei Midterms",
-      "link": "https://www.spiegel.de/ausland/usa-trump-verspricht-eine-million-dollar-fuer-hinweise-auf-wahlbetrug-bei-midterms-a-183a8589-7c38-40c1-80e6-c028027af241#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T22:29:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Verdächtiger bestreitet rassistisches Motiv nach Schüssen bei Paris",
-      "link": "https://www.spiegel.de/ausland/frankreich-verdaechtiger-bestreitet-rassistisches-motiv-nach-schuessen-bei-paris-a-68061064-692b-4ca0-9523-2d5068f365e3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T22:04:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Regierung reagiert mit Bildungsreformen auf anhaltende Schulproteste",
-      "link": "https://www.spiegel.de/ausland/frankreich-regierung-reagiert-mit-bildungsreformen-auf-anhaltende-schulproteste-a-04a6eead-08ec-4134-97b8-fa11712f1377#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T21:29:00+00:00"
-    },
-    {
       "titel": "USA: Trump verspricht Millionen für Hinweise auf Wahlbetrug",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-wahlbetrug-hinweise-li.3568285",
       "quelle": "Süddeutsche",
@@ -77,18 +149,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-26T20:36:08+00:00"
-    },
-    {
-      "titel": "Anthropic: KI-Entwickler beantragt Börsengang in den USA",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-entwickler-beantragt-boersengang-in-den-usa-a-3ac6664b-b904-4a48-92c0-174f43d49312#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T20:36:00+00:00"
-    },
-    {
-      "titel": "Russland: Szenenbildner stirbt nach Monaten in Haft",
-      "link": "https://www.spiegel.de/ausland/russland-szenenbildner-stirbt-nach-monaten-in-haft-a-34c56572-8fc0-44f3-8e61-be734496a46e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-26T20:23:00+00:00"
     },
     {
       "titel": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
@@ -103,70 +163,10 @@
       "veroeffentlicht": "2026-10-26T19:04:53+00:00"
     },
     {
-      "titel": "Audi investiert in Amerika, Neckarsulm bangt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T17:56:22+00:00"
-    },
-    {
-      "titel": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T17:56:13+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: UN-Kommission: Russland presst Ausländer in seine Armee",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-un-bericht-auslaender-armee-kriegsverbrechen-li.3563283",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T17:10:15+00:00"
-    },
-    {
-      "titel": "Marktbericht: Klare Gewinne zum Wochenstart",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T17:05:23+00:00"
-    },
-    {
-      "titel": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-      "link": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T16:57:08+00:00"
-    },
-    {
-      "titel": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-126.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T16:27:33+00:00"
-    },
-    {
       "titel": "Podcast „Und nun zum Sport“: Mannschaft ohne Chefcoach: Wie der FC Bayern mit der Kompany-Situation umgeht",
       "link": "https://www.sueddeutsche.de/sport/podcast-fc-bayern-kompany-kimmich-kane-sc-freiburg-li.3568936",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-26T16:00:38+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: So hat Lula die Wahl in Brasilien gewonnen",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-brasilien-lula-bolsonaro-li.3568999",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T15:50:58+00:00"
-    },
-    {
-      "titel": "Midterms in den USA: Können die Demokraten wirklich gewinnen?",
-      "link": "https://www.sueddeutsche.de/politik/midterms-2026-usa-prognose-umfragen-donald-trump-demokraten-republikaner-li.3566021",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T15:39:27+00:00"
-    },
-    {
-      "titel": "Kriminalität: Tatort Telefon",
-      "link": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/telefonbetrug-schockanrufe-polizei-erkenntnisse-schutz-li.3560027",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T15:16:15+00:00"
-    },
-    {
-      "titel": "Gernot Döllner und Donald Trump: „Das ist das Schlimmste seit dem Dieselskandal“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/gernot-doellner-audi-donald-trump-georgia-ig-metall-li.3568959",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T14:57:07+00:00"
     }
   ]
 }
