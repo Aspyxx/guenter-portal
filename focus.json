@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-27T02:10:52+00:00",
+  "aktualisiert": "2026-10-27T08:03:19+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
+      "titel": "Nach Präsidentenwahl in Brasilien: Ausreiseverbot für Flávio Bolsonaro",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-ausreiseverbot-100.html",
       "quelle": "Tagesschau",
-      "icon": "🗳️"
+      "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-      "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+      "titel": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     },
     {
       "rang": 3,
-      "titel": "Russland will Angriffe trotz Gesprächen fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
+      "titel": "Kann ein Linkskurs die Demokraten zum Erfolg führen?",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     }
   ]
 }
