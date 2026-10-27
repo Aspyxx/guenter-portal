@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-27T05:09:23+00:00",
+  "aktualisiert": "2026-10-27T10:37:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Auch Erwachsene shoppen heute Kuscheltiere. Ist das wirklich so lächerlich, wie es scheint?",
-      "link": "https://www.spiegel.de/kultur/auch-erwachsene-shoppen-heute-kuscheltiere-ist-das-wirklich-so-laecherlich-wie-es-scheint-a-8c63feb1-8689-4658-92ea-2fcf50fd7050#ref=rss",
+      "titel": "Galatasaray gegen Fenerbahçe: Istanbul-Derby mündet nach Abpfiff in Schlägerei",
+      "link": "https://www.spiegel.de/sport/fussball/galatasaray-gegen-fenerbahce-istanbul-derby-muendet-nach-abpfiff-in-schlaegerei-a-79c8ee63-65d4-4dc0-9923-c88aa19be2b8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T05:06:00+00:00"
+      "veroeffentlicht": "2026-10-27T10:29:00+00:00"
     },
     {
-      "titel": "News: Wahl in Israel, Berliner Linke trifft Vanessa Emde, Renate Künast gegen Facebook",
-      "link": "https://www.spiegel.de/politik/deutschland/news-wahl-in-israel-berliner-linke-trifft-vanessa-emde-renate-kuenast-gegen-facebook-a-cf835170-110e-45f2-8dce-58ca7b5ee98c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T04:39:00+00:00"
-    },
-    {
-      "titel": "Super Bowl 2027: Jay-Z übernimmt die Halbzeitshow",
-      "link": "https://www.spiegel.de/kultur/super-bowl-2027-jay-z-uebernimmt-die-halbzeitshow-a-6e9d87e3-1170-4a90-b757-2ef54174dfae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T04:33:00+00:00"
-    },
-    {
-      "titel": "Wechseljahre: So trainieren Frauen in dieser Phase richtig",
-      "link": "https://www.spiegel.de/fitness/wechseljahre-so-trainieren-frauen-in-dieser-phase-richtig-a-962d1d46-0414-4fd3-a705-e520f800e28a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T04:30:00+00:00"
-    },
-    {
-      "titel": "Fitness: Wie Eltern und erwachsene Kinder sich zusammen fit halten können",
-      "link": "https://www.spiegel.de/fitness/fitness-wie-eltern-und-erwachsene-kinder-sich-zusammen-fit-halten-koennen-a-64f90900-d786-4d8f-94f6-98d2685cb051#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T04:30:00+00:00"
-    },
-    {
-      "titel": "Muss Facebook rechtswidrige Memes aufspüren?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
+      "titel": "Jordanische Luftwaffe greift Ziele in Syrien an",
+      "link": "https://www.tagesschau.de/ausland/asien/jordanische-angriffe-syrien-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T04:20:26+00:00"
+      "veroeffentlicht": "2026-10-27T10:24:59+00:00"
     },
     {
-      "titel": "Neustadt am Rübenberge: Auto fährt in Menschengruppe - mehrere Verletzte",
-      "link": "https://www.spiegel.de/panorama/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe-mehrere-verletzte-a-ce242cc9-ab90-4f1b-8c4d-f2ccba73fc76#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T04:15:00+00:00"
-    },
-    {
-      "titel": "Junge Menschen im Sog der Sekten",
-      "link": "https://www.tagesschau.de/investigativ/swr/junge-menschen-sekten-100.html",
+      "titel": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
+      "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T04:00:49+00:00"
+      "veroeffentlicht": "2026-10-27T10:24:11+00:00"
     },
     {
-      "titel": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T03:49:21+00:00"
-    },
-    {
-      "titel": "Brasilien-Wahl: Bolsonaro-Partei erkennt Lula da Silvas Sieg an – unter Vorbehalt",
-      "link": "https://www.spiegel.de/ausland/brasilien-wahl-bolsonaro-partei-erkennt-lula-da-silvas-sieg-an-unter-vorbehalt-a-6fb50463-5e69-4f53-8c11-2b1142698d30#ref=rss",
+      "titel": "Bahnstrecke Hamburg–Berlin wegen Weltkriegsbombe gesperrt",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/bahnstrecke-hamburg-berlin-wegen-weltkriegsbombe-gesperrt-a-f39202a3-9327-4090-a013-677ddbd8d738#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T03:45:00+00:00"
+      "veroeffentlicht": "2026-10-27T10:24:00+00:00"
     },
     {
-      "titel": "Anthropic: Der nächste größte Börsengang aller Zeiten?",
-      "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-anthropic-dario-amodei-elon-musk-claude-boerse-li.3569461",
+      "titel": "Deutsche sparen weniger - aber immer noch viel",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sparquote-deutschland-2026-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T10:21:49+00:00"
+    },
+    {
+      "titel": "Mercedes-Benz senkt Gewinnprognose",
+      "link": "https://www.spiegel.de/wirtschaft/mercedes-benz-senkt-gewinnprognose-a-cb5ec453-eb34-4d98-99f0-133eef067c15#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T10:15:00+00:00"
+    },
+    {
+      "titel": "Autoindustrie: Porsche macht mehr Gewinn, verkauft aber weniger Autos",
+      "link": "https://www.sueddeutsche.de/wirtschaft/porsche-quartalszahlen-2026-strategie-china-usa-li.3567548",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T10:14:00+00:00"
+    },
+    {
+      "titel": "Arbeit zum Mindestlohn bringt laut Studie 623 Euro mehr als Grundsicherung",
+      "link": "https://www.spiegel.de/wirtschaft/arbeit-zum-mindestlohn-bringt-laut-studie-623-euro-mehr-als-grundsicherung-a-b7e0d138-ec97-45a2-9dd3-4eefb7d0a1ee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T10:10:00+00:00"
+    },
+    {
+      "titel": "iPhone Duo: Apple bestätigt Probleme einzelner Nutzer",
+      "link": "https://www.spiegel.de/netzwelt/gadgets/iphone-duo-apple-bestaetigt-probleme-einzelner-nutzer-a-2b46ffdf-8222-4e2a-bf1a-5aa62a6ba8e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T10:06:00+00:00"
+    },
+    {
+      "titel": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T10:00:37+00:00"
+    },
+    {
+      "titel": "»Nobody Wants This«: Kolleginnen äußern sich zu Adam Brodys »Free Palestine«-Aussage",
+      "link": "https://www.spiegel.de/kultur/tv/nobody-wants-this-kolleginnen-aeussern-sich-zu-adam-brodys-free-palestine-aussage-a-1a02ce1d-dae7-42f2-989f-9e499f5ba8e4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T09:58:00+00:00"
+    },
+    {
+      "titel": "NSU-Terror: Gericht: Zschäpe soll bis mindestens 2035 in Haft bleiben",
+      "link": "https://www.sueddeutsche.de/politik/beate-zschaepe-haft-gericht-muenchen-li.3569792",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T09:52:10+00:00"
+    },
+    {
+      "titel": "NSU: Beate Zschäpe bleibt voraussichtlich mindestens bis 2035 in Haft",
+      "link": "https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-bleibt-voraussichtlich-mindestens-bis-2035-in-haft-a-46d029fe-8d8d-4a4e-b534-426f3bcc3231#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T09:45:00+00:00"
+    },
+    {
+      "titel": "Pop: Jay-Z tritt beim Super Bowl 2027 auf",
+      "link": "https://www.sueddeutsche.de/kultur/jay-z-halbzeitshow-super-bowl-li.3569748",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T09:44:27+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger warten auf weitere Unternehmensbilanzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T09:41:27+00:00"
+    },
+    {
+      "titel": "Pflegekommission der Bundesregierung nimmt ihre Arbeit auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekommission-pflegereform-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T09:39:07+00:00"
+    },
+    {
+      "titel": "Justizministerin Hubig sieht noch \"viele Fragezeichen\" bei Gesetz zu Vergesellschaftungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-sieht-klaerungsbedarf-bei-gesetz-zu-enteignungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T09:38:21+00:00"
+    },
+    {
+      "titel": "Reiche kündigt neue Regeln für die Vergabe von Offshore-Windkraftlizenzen an",
+      "link": "https://www.spiegel.de/wirtschaft/reiche-kuendigt-neue-regeln-fuer-die-vergabe-von-offshore-windkraftlizenzen-an-a-34056dbd-5155-49a1-8efd-a0b614bd636a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T09:37:00+00:00"
+    },
+    {
+      "titel": "Sumatra und Borneo: Indonesien lässt Wolken impfen, damit Regen Waldbrände löscht",
+      "link": "https://www.spiegel.de/wissenschaft/natur/sumatra-und-borneo-indonesien-laesst-wolken-impfen-damit-regen-waldbraende-loescht-a-3e0dc014-0920-4899-91f9-dec101cde25e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T09:28:00+00:00"
+    },
+    {
+      "titel": "Bayerischer Kunstpreis: „Es ist der Geist, der sich den Körper baut“: Samuel Koch ist Performer des Jahres",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-samuel-koch-schauspieler-theater-bayerischer-kunstpreis-inklusion-interview-li.3563962",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T09:08:32+00:00"
+    },
+    {
+      "titel": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
+      "link": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T09:00:07+00:00"
+    },
+    {
+      "titel": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/windkraft-reiche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T08:24:01+00:00"
+    },
+    {
+      "titel": "US-Wahlkampf: Audi-Chef Döllner rechtfertigt sich für Auftritt mit Trump",
+      "link": "https://www.sueddeutsche.de/wirtschaft/doellner-audi-auftritt-trump-rechtfertigung-us-wahlkampf-midterms-li.3569627",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T06:14:05+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: KI mit Elvis-Songs gefüttert: Millionenklage gegen Anthropic",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-anthropic-elvis-presley-klage-ki-training-songs-li.3547133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T06:12:25+00:00"
+    },
+    {
+      "titel": "Nahost: Parlamentswahl in Israel angelaufen",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-ergebnisse-ablauf-infos-li.3560260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T05:39:44+00:00"
+    },
+    {
+      "titel": "Anthropic: Steht der nächste größte Börsengang der Geschichte an?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/ki-anthropic-dario-amodei-claude-boersengang-finanzen-li.3569461",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-27T03:39:46+00:00"
     },
     {
-      "titel": "Knesset-Wahl 2026: Israel vor der Entscheidung",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T03:18:23+00:00"
-    },
-    {
-      "titel": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
-      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T03:14:00+00:00"
-    },
-    {
-      "titel": "Russland-Ukraine-Krieg: Waffenruhe für besetzte ukrainische Frontstadt Oleschky läuft",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-waffenruhe-fuer-besetzte-ukrainische-frontstadt-oleschky-laeuft-a-e3b0a15b-20b4-4216-900d-32ce52bd3051#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T03:14:00+00:00"
-    },
-    {
-      "titel": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
-      "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T03:06:48+00:00"
-    },
-    {
-      "titel": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T02:22:51+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Hilfsaktion für Frontstadt Oleschky läuft an",
+      "titel": "Krieg in der Ukraine: Hilfsaktion für Frontstadt Oleschky beginnt",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-oleschky-hilfsgueter-feuerpause-hilfslieferungen-minen-li.3563283",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-27T01:48:42+00:00"
-    },
-    {
-      "titel": "Pressestimmen zum Ballon d'Or: „Kane ist ein absolut verdienter Gewinner“",
-      "link": "https://www.sueddeutsche.de/sport/ballond-d-or-pressestimmen-kane-li.3569559",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T00:33:05+00:00"
-    },
-    {
-      "titel": "Ballon d’Or: Kanes Krönung",
-      "link": "https://www.sueddeutsche.de/sport/ballon-d-or-kane-yamal-mbappe-gewinner-li.3569535",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T00:05:05+00:00"
-    },
-    {
-      "titel": "Oxfam-Bericht: Wie Superreiche das Klima aufheizen",
-      "link": "https://www.sueddeutsche.de/politik/oxfam-klimawandel-superreiche-treibhausgasemissionen-nepal-li.3568984",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T00:02:00+00:00"
-    },
-    {
-      "titel": "Harry Kane gewinnt Ballon d'Or",
-      "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T23:20:35+00:00"
-    },
-    {
-      "titel": "Ballon d'Or-Gala: Harry Kane gewinnt den Ballon d'Or",
-      "link": "https://www.sueddeutsche.de/sport/ballon-d-or-live-liveticker-gala-kane-li.3569528",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T23:02:59+00:00"
-    },
-    {
-      "titel": "USA: Trump verspricht Millionen für Hinweise auf Wahlbetrug",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-wahlbetrug-hinweise-li.3568285",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T20:38:22+00:00"
-    },
-    {
-      "titel": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T20:36:08+00:00"
-    },
-    {
-      "titel": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-      "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-26T19:56:04+00:00"
-    },
-    {
-      "titel": "Proteste in Frankreich: Frankreichs Premier macht erste Zugeständnisse – doch die Schüler wollen mehr",
-      "link": "https://www.sueddeutsche.de/politik/frankreich-schuelerproteste-sebastien-lecornu-bildungspolitik-zugestaendnisse-li.3569506",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T19:04:53+00:00"
-    },
-    {
-      "titel": "Podcast „Und nun zum Sport“: Mannschaft ohne Chefcoach: Wie der FC Bayern mit der Kompany-Situation umgeht",
-      "link": "https://www.sueddeutsche.de/sport/podcast-fc-bayern-kompany-kimmich-kane-sc-freiburg-li.3568936",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-26T16:00:38+00:00"
     }
   ]
 }
