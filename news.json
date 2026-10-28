@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-28T00:04:26+00:00",
+  "aktualisiert": "2026-10-28T05:45:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,100 @@
   },
   "meldungen": [
     {
+      "titel": "Halloween: Warum sich Kinder so gern gruseln",
+      "link": "https://www.spiegel.de/familie/halloween-warum-sich-kinder-so-gern-gruseln-a-ef515fab-6ff1-46a7-b3d7-405be8f21bff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T05:37:00+00:00"
+    },
+    {
+      "titel": "Historischer Skandalfilm »Die Teufel«: Die Rückkehr eines zensierten Klassikers",
+      "link": "https://www.spiegel.de/kultur/kino/historischer-skandalfilm-die-teufel-die-rueckkehr-eines-zensierten-klassikers-a-6bbd11e3-8619-498e-a0d2-0050b0a99b49#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T05:36:00+00:00"
+    },
+    {
+      "titel": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-28T05:19:59+00:00"
+    },
+    {
+      "titel": "Israel: Wahl ohne Gewinner",
+      "link": "https://www.sueddeutsche.de/politik/israel-wahl-benjamin-netanjahu-gadi-eisenkot-arabische-parteien-koalition-li.3569313",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-28T04:58:12+00:00"
+    },
+    {
+      "titel": "Brasilien: Warum Flávio Bolsonaro in die USA geflohen ist",
+      "link": "https://www.spiegel.de/ausland/brasilien-warum-flavio-bolsonaro-in-die-usa-geflohen-ist-a-b07b94ee-3361-4138-b292-8437ce2033a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T04:55:00+00:00"
+    },
+    {
+      "titel": "News: Wahl in Israel, Union sucht Steinmeier-Nachfolgerin, Vergewaltigungsprozess in Berlin",
+      "link": "https://www.spiegel.de/politik/deutschland/news-wahl-in-israel-union-sucht-steinmeier-nachfolgerin-vergewaltigungsprozess-in-berlin-a-59a2f760-eec2-4f3e-a107-c195bffaf94a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T04:38:00+00:00"
+    },
+    {
+      "titel": "Festgeld: Warum die beliebte Anlageform oft eine schlechte Wahl ist",
+      "link": "https://www.spiegel.de/wirtschaft/service/festgeld-warum-die-beliebte-anlageform-oft-eine-schlechte-wahl-ist-a-12bd454f-9e8c-45f8-937b-a870e34226bd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T04:30:00+00:00"
+    },
+    {
+      "titel": "Tagesgeld: Wo Sie jetzt mehr als vier Prozent Zinsen bekommen",
+      "link": "https://www.spiegel.de/wirtschaft/service/tagesgeld-wo-sie-jetzt-mehr-als-vier-prozent-zinsen-bekommen-a-7f5249e6-a807-4204-9e33-7c5853f68cb2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T04:30:00+00:00"
+    },
+    {
+      "titel": "Sacha Baron Cohen bringt »Ali G« zurück – ist das noch witzig?",
+      "link": "https://www.spiegel.de/kultur/sacha-baron-cohen-bringt-ali-g-zurueck-ist-das-noch-witzig-a-c112ed78-29b2-4c9b-8b42-5d2872676f12#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T04:30:00+00:00"
+    },
+    {
+      "titel": "Knesset-Wahl in Israel: Gadi Eisenkot will Regierung bilden – Benjamin Netanyahu auch",
+      "link": "https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T04:11:00+00:00"
+    },
+    {
+      "titel": "König Charles III. erkennt «großes Leid» der Sklaverei an",
+      "link": "https://www.spiegel.de/ausland/koenig-charles-iii-erkennt-grosses-leid-der-sklaverei-an-a-30b996ad-538e-4b03-bcb8-3c3e13c00de8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T03:33:00+00:00"
+    },
+    {
+      "titel": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-28T03:21:25+00:00"
+    },
+    {
+      "titel": "Knesset-Wahl in Israel: Prognosen zeigen Patt-Situation in Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-28T03:17:52+00:00"
+    },
+    {
+      "titel": "Wahlen in Israel: Reaktionen im Westjordanland: „Die sind so unterschiedlich wie Pepsi und Cola“",
+      "link": "https://www.sueddeutsche.de/politik/wahl-in-israel-gaza-westjordanland-palaestinenser-knesset-li.3567975",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-28T02:44:53+00:00"
+    },
+    {
+      "titel": "Nahost: Netanjahu fordert Regierung ohne arabische Parteien",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-regierungsbildung-li.3560260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-28T02:20:08+00:00"
+    },
+    {
       "titel": "Keine klare Mehrheit bei Parlamentswahl in Israel",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-27T23:55:00+00:00"
-    },
-    {
-      "titel": "Berlin: SPD will Mitglieder zu Koalition mit Linken und Grünen befragen",
-      "link": "https://www.spiegel.de/politik/berlin-spd-will-mitglieder-zu-koalition-mit-linken-und-gruenen-befragen-a-272b4468-a479-4d00-9d7b-e9b8fbb3a113#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T22:51:00+00:00"
-    },
-    {
-      "titel": "DFB-Pokal: Sabitzer verdirbt dem Füllkrug-Märchen das Happy End",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-doppelt-aber-borussia-dortmund-wirft-werder-bremen-raus-a-a1234078-d49a-4a5f-bc83-04b469e39ba8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T22:28:00+00:00"
-    },
-    {
-      "titel": "Flávio Bolsonaro nach verlorener Wahl offenbar geflüchtet – USA wollen Visum ausstellen",
-      "link": "https://www.spiegel.de/ausland/wahl-in-brasilien-flavio-bolsonaro-nach-verlorener-wahl-offenbar-in-die-usa-gefluechtet-a-8fec7f65-6a01-47fc-8e82-df558cedb7fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T21:53:00+00:00"
     },
     {
       "titel": "Präsidentschaftsrennen in Brasilien: Wahlverlierer Flávio Bolsonaro flieht in die USA",
@@ -37,40 +109,10 @@
       "veroeffentlicht": "2026-10-27T21:43:10+00:00"
     },
     {
-      "titel": "Ukraine: Waffenruhe laut Melania Trump über Oleschky hinaus ausgeweitet",
-      "link": "https://www.spiegel.de/ausland/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet-a-c1483e83-6ddc-435f-9578-f2c7e0349f9f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T21:19:00+00:00"
-    },
-    {
-      "titel": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T21:16:24+00:00"
-    },
-    {
-      "titel": "Nahost: Opposition: Netanjahu-Regierung wurde „gefeuert“",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-regierungsbildung-li.3560260",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T21:04:50+00:00"
-    },
-    {
       "titel": "Wahl in Israel: Ersten Prognosen zufolge verliert Netanjahu – aber wer regiert jetzt?",
       "link": "https://www.sueddeutsche.de/politik/wahl-in-israel-2026-benjamin-netanjahu-gadi-eisenkot-likud-knesset-li.3568846",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-27T20:57:42+00:00"
-    },
-    {
-      "titel": "Schortens: Bürgermeister Böhling richtet Halteverbot an Privatgrundstück ein",
-      "link": "https://www.spiegel.de/mobilitaet/schortens-buergermeister-boehling-richtet-halteverbot-an-privatgrundstueck-ein-a-a5e11f90-0e22-47df-81a3-fe17c68ecc3d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T20:24:00+00:00"
-    },
-    {
-      "titel": "Prozess in Düsseldorf: 32-Jährige nach tödlicher Flucht vor Polizei zu zweieinhalb Jahren Haft verurteilt",
-      "link": "https://www.spiegel.de/panorama/justiz/prozess-in-duesseldorf-32-jaehrige-nach-toedlicher-flucht-vor-polizei-zu-zweieinhalb-jahren-haft-verurteilt-a-e75545ee-7f1c-44c9-a262-63818890f6cd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T20:09:00+00:00"
     },
     {
       "titel": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
@@ -85,28 +127,10 @@
       "veroeffentlicht": "2026-10-27T20:00:01+00:00"
     },
     {
-      "titel": "US-Filmpreis: Sandra Hüller und Sandra Wollner für Gotham Awards nominiert",
-      "link": "https://www.spiegel.de/kultur/tv/us-filmpreis-sandra-hueller-und-sandra-wollner-fuer-gotham-awards-nominiert-a-dfeee3c8-fbfe-41f2-a953-684c843887fb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T19:58:00+00:00"
-    },
-    {
       "titel": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
       "link": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-27T19:52:58+00:00"
-    },
-    {
-      "titel": "Urlaub in den Herbstferien: Welcher Herbstreisetyp sind Sie?",
-      "link": "https://www.spiegel.de/reise/urlaub-in-den-herbstferien-welcher-herbstreisetyp-sind-sie-a-736a3054-fbac-420d-98c9-d14f8738073d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T19:50:00+00:00"
-    },
-    {
-      "titel": "Seychellen, La Digue: Deutscher Tourist tot aufgefunden",
-      "link": "https://www.spiegel.de/ausland/seychellen-la-digue-deutscher-tourist-tot-aufgefunden-a-cd42c181-18e7-4dbd-9ce4-284cf2a35b17#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T19:32:00+00:00"
     },
     {
       "titel": "2. Runde im DFB-Pokal: Und dann trifft Sabitzer – Dortmund ringt Werder nieder",
@@ -133,18 +157,6 @@
       "veroeffentlicht": "2026-10-27T17:18:35+00:00"
     },
     {
-      "titel": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T17:12:36+00:00"
-    },
-    {
-      "titel": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T17:11:59+00:00"
-    },
-    {
       "titel": "Nach Gefängnisurteil wegen Steuerhinterziehung: Masken-Millionärin Andrea Tandler fordert Schmerzensgeld",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-justizpalast-prozess-andrea-tandler-maskenaffaere-li.3569464",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/mein-schiff-3-tui-cruises-kreuzfahrt-reiserecht-li.3569466",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-27T16:32:15+00:00"
-    },
-    {
-      "titel": "„Antifa Ost“-Prozess: Welche Schuld trifft das Gericht, wenn ein Angeklagter im Verfahren stirbt?",
-      "link": "https://www.sueddeutsche.de/panorama/antifa-ost-prozess-dresden-henry-a-angeklagter-gestorben-suizid-li.3569034",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T15:51:12+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Hilfsaktion für Frontstadt Oleschky läuft",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-oleschky-hilfsgueter-feuerpause-hilfslieferungen-minen-li.3563283",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T14:48:17+00:00"
     }
   ]
 }
