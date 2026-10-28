@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-28T02:25:57+00:00",
+  "aktualisiert": "2026-10-28T08:45:57+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Ki Blase Aktien",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 2,
-      "titel": "Keine klare Mehrheit bei Parlamentswahl in Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
+      "titel": "++ Wachsender Vorsprung für das Netanjahu-Lager ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 3,
-      "titel": "DAX kann weiter zulegen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+      "rang": 2,
+      "titel": "Viel Rückenwind für den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
+    },
+    {
+      "rang": 3,
+      "titel": "Merz beharrt auf CDU-Vorschlagsrecht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
