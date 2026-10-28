@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-27T20:43:02+00:00",
+  "aktualisiert": "2026-10-28T00:04:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,64 @@
   },
   "meldungen": [
     {
-      "titel": "Nahost: Likud-Partei stärkste Kraft, aber Netanjahu-Lager liegt laut Prognosen zurück",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-li.3560260",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T20:38:46+00:00"
-    },
-    {
       "titel": "Keine klare Mehrheit bei Parlamentswahl in Israel",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T20:34:27+00:00"
+      "veroeffentlicht": "2026-10-27T23:55:00+00:00"
+    },
+    {
+      "titel": "Berlin: SPD will Mitglieder zu Koalition mit Linken und Grünen befragen",
+      "link": "https://www.spiegel.de/politik/berlin-spd-will-mitglieder-zu-koalition-mit-linken-und-gruenen-befragen-a-272b4468-a479-4d00-9d7b-e9b8fbb3a113#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T22:51:00+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: Sabitzer verdirbt dem Füllkrug-Märchen das Happy End",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-niclas-fuellkrug-trifft-doppelt-aber-borussia-dortmund-wirft-werder-bremen-raus-a-a1234078-d49a-4a5f-bc83-04b469e39ba8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T22:28:00+00:00"
+    },
+    {
+      "titel": "Flávio Bolsonaro nach verlorener Wahl offenbar geflüchtet – USA wollen Visum ausstellen",
+      "link": "https://www.spiegel.de/ausland/wahl-in-brasilien-flavio-bolsonaro-nach-verlorener-wahl-offenbar-in-die-usa-gefluechtet-a-8fec7f65-6a01-47fc-8e82-df558cedb7fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T21:53:00+00:00"
+    },
+    {
+      "titel": "Präsidentschaftsrennen in Brasilien: Wahlverlierer Flávio Bolsonaro flieht in die USA",
+      "link": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T21:43:10+00:00"
+    },
+    {
+      "titel": "Ukraine: Waffenruhe laut Melania Trump über Oleschky hinaus ausgeweitet",
+      "link": "https://www.spiegel.de/ausland/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet-a-c1483e83-6ddc-435f-9578-f2c7e0349f9f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-27T21:19:00+00:00"
+    },
+    {
+      "titel": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-27T21:16:24+00:00"
+    },
+    {
+      "titel": "Nahost: Opposition: Netanjahu-Regierung wurde „gefeuert“",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-regierungsbildung-li.3560260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T21:04:50+00:00"
+    },
+    {
+      "titel": "Wahl in Israel: Ersten Prognosen zufolge verliert Netanjahu – aber wer regiert jetzt?",
+      "link": "https://www.sueddeutsche.de/politik/wahl-in-israel-2026-benjamin-netanjahu-gadi-eisenkot-likud-knesset-li.3568846",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T20:57:42+00:00"
     },
     {
       "titel": "Schortens: Bürgermeister Böhling richtet Halteverbot an Privatgrundstück ein",
       "link": "https://www.spiegel.de/mobilitaet/schortens-buergermeister-boehling-richtet-halteverbot-an-privatgrundstueck-ein-a-a5e11f90-0e22-47df-81a3-fe17c68ecc3d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-27T20:24:00+00:00"
-    },
-    {
-      "titel": "Präsidentschaftsrennen in Brasilien: Wahlverlierer Flávio Bolsonaro flieht angeblich aus Brasilien",
-      "link": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T20:13:07+00:00"
     },
     {
       "titel": "Prozess in Düsseldorf: 32-Jährige nach tödlicher Flucht vor Polizei zu zweieinhalb Jahren Haft verurteilt",
@@ -73,38 +109,8 @@
       "veroeffentlicht": "2026-10-27T19:32:00+00:00"
     },
     {
-      "titel": "Fall Christina Block: Warum die Richter auf den Tonaufnahmen der »Zeit« bestehen",
-      "link": "https://www.spiegel.de/panorama/justiz/block-prozess-und-die-zeit-landgericht-betont-bedeutung-der-aufzeichnungen-a-6becb157-197d-46fb-a7df-020fdf1f6294#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T19:26:00+00:00"
-    },
-    {
-      "titel": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-27T19:25:34+00:00"
-    },
-    {
-      "titel": "Juli Zeh: Schriftstellerin hört offenbar als Verfassungsrichterin auf",
-      "link": "https://www.spiegel.de/kultur/literatur/juli-zeh-schriftstellerin-hoert-offenbar-als-verfassungsrichterin-auf-a-25226669-4514-4274-8612-ae76e44d62b1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T19:18:00+00:00"
-    },
-    {
-      "titel": "DFB-Pokal: Frankfurts Nationalstürmer Burkardt und Ebnoutalib werfen den HSV raus",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-frankfurts-nationalstuermer-burkardt-und-ebnoutalib-werfen-den-hsv-raus-a-0959fdeb-3489-4ccf-95fe-9806b545fd9a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T19:13:00+00:00"
-    },
-    {
-      "titel": "USA vor den Midterms: Abdul El-Sayed und James Talarico – neue Hoffnungsträger der Demokraten",
-      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-kommt-jetzt-die-blaue-welle-a-7a34c674-5be5-4079-9b2e-40e9a8b575ef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-27T19:07:00+00:00"
-    },
-    {
-      "titel": "2. Runde im DFB-Pokal: Frankfurts Nationalspieler erledigen HSV – Leipziger Comeback in Essen",
-      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-leipzig-essen-frankfurt-hsv-li.3570131",
+      "titel": "2. Runde im DFB-Pokal: Und dann trifft Sabitzer – Dortmund ringt Werder nieder",
+      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-bvb-bremen-sabitzer-li.3570131",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-27T19:03:18+00:00"
     },
@@ -151,22 +157,16 @@
       "veroeffentlicht": "2026-10-27T16:32:15+00:00"
     },
     {
+      "titel": "„Antifa Ost“-Prozess: Welche Schuld trifft das Gericht, wenn ein Angeklagter im Verfahren stirbt?",
+      "link": "https://www.sueddeutsche.de/panorama/antifa-ost-prozess-dresden-henry-a-angeklagter-gestorben-suizid-li.3569034",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-27T15:51:12+00:00"
+    },
+    {
       "titel": "Krieg in der Ukraine: Hilfsaktion für Frontstadt Oleschky läuft",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-oleschky-hilfsgueter-feuerpause-hilfslieferungen-minen-li.3563283",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-27T14:48:17+00:00"
-    },
-    {
-      "titel": "Auftritt mit Trump: Ein Mann, 90 Sekunden und ein großes Problem",
-      "link": "https://www.sueddeutsche.de/wirtschaft/gernot-doellner-audi-donald-trump-usa-wahlkampfauftritt-fehler-li.3569706",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T14:47:00+00:00"
-    },
-    {
-      "titel": "Klimawandel und Hitze: „Jetzt ist die Zeit, sich auf den nächsten Sommer vorzubereiten“",
-      "link": "https://www.sueddeutsche.de/bayern/klimawandel-bayern-hitze-bilanz-2026-zukunft-li.3569238",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-27T14:43:38+00:00"
     }
   ]
 }
