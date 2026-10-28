@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-28T18:52:17+00:00",
+  "aktualisiert": "2026-10-28T23:14:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,106 @@
   },
   "meldungen": [
     {
+      "titel": "Haushaltsplan 2027: Italien plant Steuersenkungen und höhere Bankenabgaben",
+      "link": "https://www.spiegel.de/ausland/haushaltsplan-2027-italien-plant-steuersenkungen-und-hoehere-bankenabgaben-a-c311c087-48d6-456b-8a80-6e6991d4953b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T22:46:00+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: Kiel wirft Hoffenheim raus – Dresden besiegt Schalke – Wagner verliert erneut",
+      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-ergebnisse-stuttgart-freiburg-schalke-li.3570768",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-28T22:43:38+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: Zweimal Olise – Bayern feiern 6:1-Kantersieg über Magdeburg",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-zweimal-olise-bayern-feiern-6-1-kantersieg-ueber-magdeburg-a-f46f0eab-b7e5-42da-ba10-c09e29a4f77f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T22:24:00+00:00"
+    },
+    {
+      "titel": "Jemen: Uno meldet 280.000 Vertriebene durch anhaltende Kämpfe",
+      "link": "https://www.spiegel.de/ausland/jemen-uno-meldet-280-000-vertriebene-durch-anhaltende-kaempfe-a-5980ee1f-51b4-4c36-a961-31f62bfe18a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T22:11:00+00:00"
+    },
+    {
+      "titel": "Bayern-Sieg im DFB-Pokal: Sechs Tore auch ohne Golden Harry",
+      "link": "https://www.sueddeutsche.de/sport/bayern-magdeburg-pokal-kane-tore-li.3570757",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-28T22:03:51+00:00"
+    },
+    {
+      "titel": "US-Notenbank: Analysten wetten schon auf die nächste Erhöhung der Zinsen",
+      "link": "https://www.spiegel.de/wirtschaft/us-notenbank-analysten-wetten-schon-auf-die-naechste-erhoehung-der-zinsen-a-eac685b1-966f-4ef4-89cc-33f1adadc6eb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T22:01:00+00:00"
+    },
+    {
+      "titel": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-28T21:56:25+00:00"
+    },
+    {
+      "titel": "Fußball-WM: Fifa nimmt offenbar fünf Milliarden Dollar mit Ticketverkäufen ein",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-wm-fifa-nimmt-offenbar-fuenf-milliarden-dollar-mit-ticketverkaeufen-ein-a-ba5eb065-3992-4f18-97c5-a18bbdaca2aa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T21:21:00+00:00"
+    },
+    {
+      "titel": "Brasilien: Flávio Bolsonaro flieht in die USA und erklärt sich zum Wahlsieger",
+      "link": "https://www.sueddeutsche.de/politik/bolsonaro-flucht-usa-brasilien-trump-li.3570291",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-28T21:11:00+00:00"
+    },
+    {
+      "titel": "Wie konnte es zu dem schweren Zugunglück kommen?",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-28T20:54:12+00:00"
+    },
+    {
+      "titel": "Brasilien: Flávio Bolsonaro behauptet, Präsidentschaftswahl gewonnen zu haben",
+      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-behauptet-praesidentschaftswahl-gewonnen-zu-haben-a-82aadc56-61e0-454f-a203-3884bed50173#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T20:50:00+00:00"
+    },
+    {
       "titel": "Liveblog zur Israel-Wahl: ++ Likud wirft arabischen Parteien Wahlbetrug vor ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T18:31:15+00:00"
+      "veroeffentlicht": "2026-10-28T20:49:08+00:00"
     },
     {
-      "titel": "Estland: Lieferroboter baut Unfall und fährt weiter",
-      "link": "https://www.spiegel.de/panorama/estland-lieferroboter-baut-unfall-und-faehrt-weiter-a-94a860aa-e6e1-418d-89f9-ba1137fa89d8#ref=rss",
+      "titel": "FC Bayern München: Vincent Kompany nach Hirnhautreizung aus Klinik entlassen",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-nach-hirnhautreizung-aus-klinik-entlassen-a-bd1fe1c2-b5d9-4651-9039-17cc1c8eeac3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T18:25:00+00:00"
+      "veroeffentlicht": "2026-10-28T20:06:00+00:00"
     },
     {
-      "titel": "USA – Notenbank: Fed hält Leitzins konstant – trotz Inflation",
-      "link": "https://www.spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad#ref=rss",
+      "titel": "Champions League: Ein Abend der verpassten Chancen",
+      "link": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-real-madrid-frauenfussball-li.3570745",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-28T20:03:06+00:00"
+    },
+    {
+      "titel": "Vatikan: Ausstellung dokumentiert Wandel der Papamobile seit 100 Jahren",
+      "link": "https://www.spiegel.de/panorama/vatikan-ausstellung-dokumentiert-wandel-der-papamobile-seit-100-jahren-a-74496e1c-d649-48b6-a9a4-9f142985b248#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T18:21:00+00:00"
+      "veroeffentlicht": "2026-10-28T19:39:00+00:00"
+    },
+    {
+      "titel": "DFB-Pokal: Schalke 04 scheitert an Dynamo Dresden, Freiburg schafft Comeback gegen Wolfsburg",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-schalke-04-scheitert-an-dynamo-dresden-freiburg-schafft-comeback-gegen-wolfsburg-a-1bccc71a-d76d-408f-b778-aa91a811156e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T19:28:00+00:00"
+    },
+    {
+      "titel": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
+      "link": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-28T19:03:51+00:00"
     },
     {
       "titel": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
@@ -31,58 +115,16 @@
       "veroeffentlicht": "2026-10-28T18:20:51+00:00"
     },
     {
-      "titel": "Norwegen: Ingrid Alexandra absolviert ersten Solo-Auftritt im Königsschloss",
-      "link": "https://www.spiegel.de/panorama/leute/norwegen-ingrid-alexandra-absolviert-ersten-solo-auftritt-im-koenigsschloss-a-b6599443-f73c-44a1-9490-d6dcfa140749#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T18:19:00+00:00"
-    },
-    {
-      "titel": "Wofür absurd reiche Menschen absurd viel Geld bezahlt haben",
-      "link": "https://www.spiegel.de/panorama/wofuer-absurd-reiche-menschen-absurd-viel-geld-bezahlt-haben-a-e0fdeef1-2401-4243-a723-8c8d80785c6c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T18:15:00+00:00"
-    },
-    {
-      "titel": "Kinder- und Jugendschutzhaus Braunschweig: Wenn Zuhause nicht mehr sicher ist - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/kinder-und-jugendschutzhaus-braunschweig-wenn-zuhause-nicht-mehr-sicher-ist-spiegel-tv-a-9c44bfb2-f7ef-4ca8-bb96-71d7daa8126c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T18:12:00+00:00"
-    },
-    {
-      "titel": "Hamburg: Messerangriff auf Ladendetektiv – Passanten greifen ein",
-      "link": "https://www.spiegel.de/panorama/justiz/hamburg-messerangriff-auf-ladendetektiv-passanten-greifen-ein-a-d12f13b9-52d7-4d31-9f73-2616e72dc140#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T18:05:00+00:00"
-    },
-    {
-      "titel": "Kölner Landgericht verurteilt zwei Polizisten zu Bewährungsstrafen nach Prügelei",
-      "link": "https://www.spiegel.de/panorama/justiz/koelner-landgericht-verurteilt-zwei-polizisten-zu-bewaehrungsstrafen-nach-pruegelei-a-2475efe6-62c6-4842-aced-69a773e41eba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T17:54:00+00:00"
-    },
-    {
       "titel": "Marktbericht: Der DAX behauptet sich",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-28T17:38:51+00:00"
     },
     {
-      "titel": "Tödliches Zugunglück in Spanien: 17 verhängnisvolle Minuten",
-      "link": "https://www.spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T17:32:00+00:00"
-    },
-    {
       "titel": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-28T17:22:57+00:00"
-    },
-    {
-      "titel": "News des Tages: Zugunglück in Spanien, Wahl in Israel, Frauen in deutschen Vorständen",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-spanien-wahl-in-israel-frauen-in-deutschen-vorstaenden-a-5136da30-75a0-4cd7-97a5-96f88f4ccf79#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T17:09:00+00:00"
     },
     {
       "titel": "Merz fordert auf Asienreise neue Allianz für regelbasierten Handel",
@@ -103,40 +145,16 @@
       "veroeffentlicht": "2026-10-28T16:11:17+00:00"
     },
     {
-      "titel": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T16:08:34+00:00"
-    },
-    {
       "titel": "Nach Militärübung in Erding: Lebenslang entstellt: Verletzter Soldat will Beschwerde einlegen",
       "link": "https://www.sueddeutsche.de/bayern/erding-bundeswehr-uebung-polizei-schuesse-ermittlungen-li.3570372",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T15:57:16+00:00"
     },
     {
-      "titel": "Börsendebüt von tk accelis bleibt unter den Erwartungen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/boersengang-tk-accelis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T15:50:44+00:00"
-    },
-    {
       "titel": "Natur: Städter auf der Jagd",
       "link": "https://www.sueddeutsche.de/leben/jaegerpruefung-staedter-natur-li.3569746",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T15:39:56+00:00"
-    },
-    {
-      "titel": "Quantennetzwerk QuNET: Schutz gegen Hackerangriffe",
-      "link": "https://www.tagesschau.de/wissen/technologie/quantennetzwerk-qunet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T15:39:49+00:00"
-    },
-    {
-      "titel": "Brasilien: Warum Flávio Bolsonaro in die USA flieht",
-      "link": "https://www.sueddeutsche.de/politik/bolsonaro-flucht-usa-brasilien-trump-li.3570291",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T15:06:57+00:00"
     },
     {
       "titel": "Nach dem Feuer am Obersalzberg: Erste Arbeiten am abgebrannten Kehlsteinhaus – Schadenhöhe weiter unklar",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-neue-brauereien-muenchen-antrag-zulassungsverfahren-2027-li.3570429",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T14:40:30+00:00"
-    },
-    {
-      "titel": "China: Wie Kylian Mbappé zum „Diktator“ wurde",
-      "link": "https://www.sueddeutsche.de/sport/kylian-mbappe-china-meme-mao-zedong-li.3569811",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T14:24:18+00:00"
-    },
-    {
-      "titel": "Altersvorsorge: Neues Depot, alter Abzocktrick",
-      "link": "https://www.sueddeutsche.de/wirtschaft/altersvorsorgedepot-2027-allianz-riester-rente-abschlusskosten-provisionen-li.3570331",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T14:20:12+00:00"
-    },
-    {
-      "titel": "Umstrittene Videoüberwachung: Wie KI der Polizei im Kampf gegen Gewalt helfen soll",
-      "link": "https://www.sueddeutsche.de/politik/ki-videoueberwachung-berlin-kottbusser-tor-polizei-datenschutz-li.3570297",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T14:11:09+00:00"
     }
   ]
 }
