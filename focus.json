@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-10-29T19:02:17+00:00",
+  "aktualisiert": "2026-10-29T23:24:52+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
+      "link": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Putin umwirbt einen ganzen Kontinent",
       "link": "https://www.tagesschau.de/ausland/europa/russland-afrika-gipfel-102.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 2,
-      "titel": "Ein Land zwischen Trauer und Aufarbeitung",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     },
     {
       "rang": 3,
