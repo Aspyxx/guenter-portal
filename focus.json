@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-10-29T13:22:59+00:00",
+  "aktualisiert": "2026-10-29T19:02:17+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html",
+      "titel": "Putin umwirbt einen ganzen Kontinent",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-afrika-gipfel-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
+      "rang": 2,
+      "titel": "Ein Land zwischen Trauer und Aufarbeitung",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Warum Autoreparaturen immer teurer werden",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
       "rang": 3,
-      "titel": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
+      "titel": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
