@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-10-28T23:14:28+00:00",
+  "aktualisiert": "2026-10-29T02:30:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Brasiliens Wahlverlierer: Bolsonaros spektakuläre Flucht",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-flucht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T02:14:59+00:00"
+    },
+    {
+      "titel": "Zugunglück in Spanien: Helfer auch nachts in Toledo im Einsatz – Ausschreitungen in Madrid",
+      "link": "https://www.spiegel.de/panorama/zugunglueck-in-spanien-helfer-auch-nachts-in-toledo-im-einsatz-ausschreitungen-in-madrid-a-dbd76707-648e-47dd-a0ec-1f8bc6fba842#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T01:55:00+00:00"
+    },
+    {
+      "titel": "Zugunglück in Spanien: In den Tod gerast",
+      "link": "https://www.sueddeutsche.de/panorama/zugunglueck-spanien-tote-li.3570371",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T00:55:08+00:00"
+    },
+    {
+      "titel": "Zugunglück in Spanien: Der Schock sitzt tief",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T00:52:51+00:00"
+    },
+    {
+      "titel": "Hayden Panettiere: Polizei stuft Tod offiziell als Unfall ein",
+      "link": "https://www.spiegel.de/panorama/hayden-panettiere-polizei-stuft-tod-offiziell-als-unfall-ein-a-cb351a86-7e0e-4a38-b7b1-4bd7b3c4b25a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T00:36:00+00:00"
+    },
+    {
+      "titel": "Kanada und EU: Plan von Ursula von der Leyen für Sonderstatus offenbar gescheitert",
+      "link": "https://www.spiegel.de/ausland/kanada-und-eu-plan-von-ursula-von-der-leyen-fuer-sonderstatus-offenbar-gescheitert-a-0e1cfa00-bd6e-4961-8526-ebb68bab3638#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T00:10:00+00:00"
+    },
+    {
+      "titel": "Trump will sich nicht in Brasilien einmischen",
+      "link": "https://www.spiegel.de/ausland/trump-will-sich-nicht-in-brasilien-einmischen-a-e04d3d5b-e589-4a54-8ea0-1f9c03067513#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-28T23:32:00+00:00"
+    },
     {
       "titel": "Haushaltsplan 2027: Italien plant Steuersenkungen und höhere Bankenabgaben",
       "link": "https://www.spiegel.de/ausland/haushaltsplan-2027-italien-plant-steuersenkungen-und-hoehere-bankenabgaben-a-c311c087-48d6-456b-8a80-6e6991d4953b#ref=rss",
@@ -67,40 +109,16 @@
       "veroeffentlicht": "2026-10-28T20:54:12+00:00"
     },
     {
-      "titel": "Brasilien: Flávio Bolsonaro behauptet, Präsidentschaftswahl gewonnen zu haben",
-      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-behauptet-praesidentschaftswahl-gewonnen-zu-haben-a-82aadc56-61e0-454f-a203-3884bed50173#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T20:50:00+00:00"
-    },
-    {
       "titel": "Liveblog zur Israel-Wahl: ++ Likud wirft arabischen Parteien Wahlbetrug vor ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-28T20:49:08+00:00"
     },
     {
-      "titel": "FC Bayern München: Vincent Kompany nach Hirnhautreizung aus Klinik entlassen",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-nach-hirnhautreizung-aus-klinik-entlassen-a-bd1fe1c2-b5d9-4651-9039-17cc1c8eeac3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T20:06:00+00:00"
-    },
-    {
       "titel": "Champions League: Ein Abend der verpassten Chancen",
       "link": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-real-madrid-frauenfussball-li.3570745",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T20:03:06+00:00"
-    },
-    {
-      "titel": "Vatikan: Ausstellung dokumentiert Wandel der Papamobile seit 100 Jahren",
-      "link": "https://www.spiegel.de/panorama/vatikan-ausstellung-dokumentiert-wandel-der-papamobile-seit-100-jahren-a-74496e1c-d649-48b6-a9a4-9f142985b248#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T19:39:00+00:00"
-    },
-    {
-      "titel": "DFB-Pokal: Schalke 04 scheitert an Dynamo Dresden, Freiburg schafft Comeback gegen Wolfsburg",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-schalke-04-scheitert-an-dynamo-dresden-freiburg-schafft-comeback-gegen-wolfsburg-a-1bccc71a-d76d-408f-b778-aa91a811156e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T19:28:00+00:00"
     },
     {
       "titel": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
@@ -127,22 +145,10 @@
       "veroeffentlicht": "2026-10-28T17:22:57+00:00"
     },
     {
-      "titel": "Merz fordert auf Asienreise neue Allianz für regelbasierten Handel",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/merz-asienbesuch-japan-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T17:05:18+00:00"
-    },
-    {
       "titel": "Buch: Diese Frau gibt es nur einmal",
       "link": "https://www.sueddeutsche.de/kultur/kim-kardashian-biografie-buch-jonathan-van-meter-li.3569456",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T16:37:47+00:00"
-    },
-    {
-      "titel": "Mindestens 68 Tote nach Zugunglück in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T16:11:17+00:00"
     },
     {
       "titel": "Nach Militärübung in Erding: Lebenslang entstellt: Verletzter Soldat will Beschwerde einlegen",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-schaden-gutachter-brand-li.3570555",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T15:03:49+00:00"
-    },
-    {
-      "titel": "Oktoberfest: Kommen neue Brauereien auf die Wiesn?",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-neue-brauereien-muenchen-antrag-zulassungsverfahren-2027-li.3570429",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T14:40:30+00:00"
     }
   ]
 }
