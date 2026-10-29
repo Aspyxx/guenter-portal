@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-29T16:09:29+00:00",
+  "aktualisiert": "2026-10-29T21:09:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,76 +7,142 @@
   },
   "meldungen": [
     {
+      "titel": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
+      "link": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T20:53:05+00:00"
+    },
+    {
+      "titel": "Uni Leipzig nach Hackerangriff weiter offline",
+      "link": "https://www.spiegel.de/netzwelt/uni-leipzig-nach-hackerangriff-weiter-offline-a-a607d20d-0f4d-4bf7-9bdc-4ad42a0b38f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T20:51:00+00:00"
+    },
+    {
+      "titel": "Brasilien: Flávio Bolsonaro stößt nach Ausreise auf Kritik im eigenen Lager",
+      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-stoesst-nach-ausreise-auf-kritik-im-eigenen-lager-a-38b339b3-a0e1-4a76-b846-603be45b471b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T20:48:00+00:00"
+    },
+    {
+      "titel": "Film: Patrick Stewart ist tot",
+      "link": "https://www.sueddeutsche.de/kultur/patrick-stewart-star-trek-tot-alter-li.3571363",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T20:35:33+00:00"
+    },
+    {
+      "titel": "»Lake Ontario« vs. »Lake America« – Bryan Adams singt gegen Trump",
+      "link": "https://www.spiegel.de/panorama/leute/saenger-bryan-adams-protestiert-mit-neuem-song-gegen-trump-a-228f98c0-e1ab-466e-8dc6-3429ed335e80#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T20:30:00+00:00"
+    },
+    {
+      "titel": "Jeffrey Epstein: Wie Assistentinnen neue Opfer suchten - Podcast Firewall",
+      "link": "https://www.spiegel.de/ausland/jeffrey-epstein-wie-assistentinnen-neue-opfer-suchten-podcast-firewall-a-3fdf8d04-36ba-40dd-ba25-573a4547ee72#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T20:28:00+00:00"
+    },
+    {
+      "titel": "Kai Maaz über Proteste der Gen Z: »Bildungspolitik gehört jetzt symbolisch ins Kanzleramt«",
+      "link": "https://www.spiegel.de/panorama/bildung/kai-maaz-ueber-proteste-der-gen-z-bildungspolitik-gehoert-jetzt-symbolisch-ins-kanzleramt-a-9908236c-9107-4fbf-99c2-2923224c0957#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T20:27:00+00:00"
+    },
+    {
+      "titel": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+      "link": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T20:12:03+00:00"
+    },
+    {
+      "titel": "Patrick Stewart ist tot",
+      "link": "https://www.spiegel.de/kultur/tv/patrick-stewart-ist-tot-a-40ffba85-794a-45f4-b2a3-7948168155d4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T20:03:00+00:00"
+    },
+    {
+      "titel": "EU und Kanada: Friedrich Merz durchkreuzt Kanada-Plan von Ursula von der Leyen",
+      "link": "https://www.spiegel.de/politik/deutschland/eu-und-kanada-friedrich-merz-durchkreuzt-kanada-plan-von-ursula-von-der-leyen-a-d972d632-6667-485a-888f-968c823de942#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T19:55:00+00:00"
+    },
+    {
+      "titel": "USA: Demokraten wollen Regierungsfragen an KI-Chatbots aufbewahren",
+      "link": "https://www.spiegel.de/ausland/usa-demokraten-wollen-regierungsfragen-an-ki-chatbots-aufbewahren-a-0daf81b8-4a1c-4c35-b843-b7cbd46fd1c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T19:48:00+00:00"
+    },
+    {
+      "titel": "AfD Niedersachsen scheitert mit Beschwerde gegen vorläufige Hochstufung vom Verfassungsschutz",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-niedersachsen-scheitert-mit-beschwerde-gegen-vorlaeufige-hochstufung-vom-verfassungsschutz-a-d9d0cdf6-f80a-4093-af75-459a483afc70#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T19:45:00+00:00"
+    },
+    {
+      "titel": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T18:40:44+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX setzt Klettertour fort",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T17:32:38+00:00"
+    },
+    {
       "titel": "Linken-Politikerin Klein neue Parlamentspräsidentin",
       "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T16:05:30+00:00"
+      "veroeffentlicht": "2026-10-29T17:31:06+00:00"
     },
     {
-      "titel": "Eralp reagiert auf Spiegel-Bericht",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/nach-spiegel-bericht-eralp-100.html",
+      "titel": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T16:04:25+00:00"
+      "veroeffentlicht": "2026-10-29T16:59:55+00:00"
     },
     {
-      "titel": "»Sächsische Separatisten«-Prozess: Drei Haftbefehle aufgehoben",
-      "link": "https://www.spiegel.de/panorama/justiz/saechsische-separatisten-prozess-drei-haftbefehle-aufgehoben-a-74bf0caf-664a-4e06-bed1-2b8fe815de05#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T16:03:00+00:00"
-    },
-    {
-      "titel": "Schauspielerin Elke Sommer gestorben",
-      "link": "https://www.tagesschau.de/kultur/schauspielerin-elke-sommer-100.html",
+      "titel": "Südafrika bewirbt sich mit der Stadt Durban um Olympia",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-olympia-bewerbung-durban-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T16:02:48+00:00"
+      "veroeffentlicht": "2026-10-29T16:52:47+00:00"
     },
     {
-      "titel": "Berlin – Linke: Hendrikje Klein zur Präsidentin des Abgeordnetenhauses gewählt",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-hendrikje-klein-zur-praesidentin-des-abgeordnetenhauses-gewaehlt-a-ec2709e2-28ae-4263-a48d-f52e7de7cb11#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T15:58:00+00:00"
-    },
-    {
-      "titel": "Hongkong: Ministerin tritt nach Hochhausbrand zurück",
-      "link": "https://www.spiegel.de/ausland/hongkong-ministerin-tritt-nach-hochhausbrand-zurueck-a-7e149c5b-bff5-4282-b7a4-c571112e75a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T15:53:00+00:00"
-    },
-    {
-      "titel": "Condor einigt sich mit Piloten",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/condor-einigt-sich-mit-piloten-a-99c1e7b2-b601-487e-96ed-c02d06c106c5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T15:47:00+00:00"
-    },
-    {
-      "titel": "Russland: Deutsche EU-Politiker loben Gesprächsversuch mit Wladimir Putin",
-      "link": "https://www.spiegel.de/politik/deutschland/russland-deutsche-eu-politiker-loben-gespraechsversuch-mit-wladimir-putin-a-64e26e97-b80d-4657-b249-933899c4b290#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T15:45:00+00:00"
-    },
-    {
-      "titel": "USA: Wirtschaftswachstum beschleunigt sich stärker als erwartet",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-wirtschaftswachstum-beschleunigt-sich-staerker-als-erwartet-a-99cd2228-fe47-4a38-aefa-fdc51abace41#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T15:35:00+00:00"
-    },
-    {
-      "titel": "Regensburg: Zwei Tote nach Explosion in Mehrfamilienhaus gefunden",
-      "link": "https://www.spiegel.de/panorama/regensburg-ein-toter-nach-explosion-in-mehrfamilienhaus-gefunden-a-99df66e2-65ba-4ad7-823f-30a9bc87acb0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T15:25:00+00:00"
-    },
-    {
-      "titel": "Social-Media: EU-Kommission bremst nationale Verbote aus",
-      "link": "https://www.spiegel.de/ausland/eu-kommission-bremst-nationale-social-media-verbote-aus-a-c9a14561-83ff-4446-8bf0-dbedca352a18#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T15:21:00+00:00"
-    },
-    {
-      "titel": "Europäische Zentralbank hält Leitzins unverändert",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html",
+      "titel": "Afrika-Gipfel in Russland: Putin umwirbt einen ganzen Kontinent",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-afrika-gipfel-102.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T15:18:04+00:00"
+      "veroeffentlicht": "2026-10-29T16:35:53+00:00"
+    },
+    {
+      "titel": "Steinmeier-Nachfolge: Die Kandidatensuche wird zur Machtfrage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T16:22:50+00:00"
+    },
+    {
+      "titel": "ZDF: Wer hat mit wem Schluss gemacht?",
+      "link": "https://www.sueddeutsche.de/medien/jan-boehmermann-himmler-zdf-magazin-royale-traenen-fanatisch-li.3571176",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T16:01:53+00:00"
+    },
+    {
+      "titel": "Biologie: Von Spinnen lernen heißt schlafen lernen",
+      "link": "https://www.sueddeutsche.de/wissen/spinnen-schlaf-rem-schlaf-springspinnen-li.3569786",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T15:50:14+00:00"
+    },
+    {
+      "titel": "SZ-Podcast „Deutsch-Amerikanische Freundschaft“: „Es ist, gelinde gesagt: bizarr\"",
+      "link": "https://www.sueddeutsche.de/politik/sz-podcast-deutsch-amerikanische-freundschaft-es-ist-gelinde-gesagt-bizarr-li.3570965",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T15:38:16+00:00"
+    },
+    {
+      "titel": "Neue Intendanz: Team aus Basel übernimmt die Münchner Kammerspiele",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-kammerspiele-intendanz-theater-basel-schauspiel-li.3569784",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T15:30:47+00:00"
     },
     {
       "titel": "Hausexplosion in Regensburg: Einsatzkräfte bergen zwei Leichen aus den Trümmern",
@@ -85,8 +151,14 @@
       "veroeffentlicht": "2026-10-29T15:16:49+00:00"
     },
     {
+      "titel": "Hightech an der Nato-Ostflanke: „Das ist die Munition des 21. Jahrhunderts“",
+      "link": "https://www.sueddeutsche.de/politik/bundeswehr-litauen-nato-ostflanke-elektronische-kampffuehrung-belarus-li.3569345",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T15:00:33+00:00"
+    },
+    {
       "titel": "Elif Eralp: Wer so viel Angst zeigt, kann nicht Regierende Bürgermeisterin sein",
-      "link": "https://www.sueddeutsche.de/meinung/elif-eralp-die-linke-berlin-wahl-in-berlin-kommentar-li.3570937",
+      "link": "https://www.sueddeutsche.de/meinung/elif-eralp-die-linke-berlin-buergermeister-wahl-kommentar-li.3570937",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-29T14:44:02+00:00"
     },
@@ -95,78 +167,6 @@
       "link": "https://www.sueddeutsche.de/reise/piratenschatz-olivier-levasseur-suche-beute-li.3560039",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-29T14:36:00+00:00"
-    },
-    {
-      "titel": "USA: Norweger machen sich über Trump lustig",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-norwegen-scheisshaus-land-toiletten-li.3568285",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T14:32:08+00:00"
-    },
-    {
-      "titel": "Douglas schließt wegen Jugendprotesten am Samstag zwölf Filialen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/douglas-schliesst-wegen-jugendprotesten-am-samstag-zwoelf-filialen-a-39a736c9-5ae9-4436-9b54-13d6ae01fa57#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T14:30:00+00:00"
-    },
-    {
-      "titel": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
-      "link": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T14:25:14+00:00"
-    },
-    {
-      "titel": "Hohe Spritpreise: Bringt der \"Tankrabatt\" wirklich etwas?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-entlastung-bilanz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T14:23:49+00:00"
-    },
-    {
-      "titel": "Linke in Berlin: Elif Eralps Angst vor Extremisten – kann sie so Berlin regieren?",
-      "link": "https://www.sueddeutsche.de/politik/elif-eralp-die-linke-berlin-koalitionsverhandlungen-extremismus-spiegel-li.3570580",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T14:10:17+00:00"
-    },
-    {
-      "titel": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T14:04:36+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: 1200 Drohnen: Russland meldet einen der bisher größten ukrainischen Angriffe",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-moskau-drohnen-angriffe-li.3563283",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T14:03:15+00:00"
-    },
-    {
-      "titel": "Zugunglück in Spanien: „Normale“ Geschwindigkeit bedeutet 220 km/h",
-      "link": "https://www.sueddeutsche.de/panorama/spanien-zugunglueck-lokfuehrer-fahrdienstleiter-normalgeschwindigkeit-li.3570985",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T13:49:39+00:00"
-    },
-    {
-      "titel": "China: Volkswagen muss sich China wieder verdienen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/volkswagen-china-unyx-08-verlust-kommentar-li.3567923",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T13:43:04+00:00"
-    },
-    {
-      "titel": "Tourismus: Sie flohen vor Trump auf einem Kreuzfahrtschiff. Und es ging schief",
-      "link": "https://www.sueddeutsche.de/wirtschaft/kreuzfahrt-odyssey-kambodscha-iran-krieg-treibstoffkosten-trump-li.3570969",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T13:22:56+00:00"
-    },
-    {
-      "titel": "Marktbericht: Warum Autoreparaturen immer teurer werden",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T13:14:08+00:00"
-    },
-    {
-      "titel": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T13:12:47+00:00"
     }
   ]
 }
