@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-29T02:30:13+00:00",
+  "aktualisiert": "2026-10-29T08:56:30+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,142 @@
   },
   "meldungen": [
     {
-      "titel": "Brasiliens Wahlverlierer: Bolsonaros spektakuläre Flucht",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-flucht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T02:14:59+00:00"
+      "titel": "Nara Smith auf Buchtour für »Homemade«: Die Tradwife, die keine mehr sein will",
+      "link": "https://www.spiegel.de/kultur/nara-smith-auf-buchtour-fuer-homemade-die-tradwife-die-keine-mehr-sein-will-a-586374fd-23e9-493a-84c2-385316e6fb75#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T08:45:00+00:00"
     },
     {
-      "titel": "Zugunglück in Spanien: Helfer auch nachts in Toledo im Einsatz – Ausschreitungen in Madrid",
-      "link": "https://www.spiegel.de/panorama/zugunglueck-in-spanien-helfer-auch-nachts-in-toledo-im-einsatz-ausschreitungen-in-madrid-a-dbd76707-648e-47dd-a0ec-1f8bc6fba842#ref=rss",
+      "titel": "Carsten Linnemann: »Wir müssen rund zehn Prozent einsparen« – Gesundheitsminister schließt Kürzung bei Pflegeleistungen nicht aus",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/carsten-linnemann-wir-muessen-rund-zehn-prozent-einsparen-gesundheitsminister-schliesst-kuerzung-bei-pflegeleistungen-nicht-aus-a-f399fa92-426d-47ac-a6c3-2a654dd27b25#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T01:55:00+00:00"
+      "veroeffentlicht": "2026-10-29T08:43:00+00:00"
+    },
+    {
+      "titel": "Elterngeld: SPD-Politiker dringt auf bezahlte Freistellung für Väter",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/elterngeld-spd-politiker-dringt-auf-bezahlte-freistellung-fuer-vaeter-a-049115ea-d806-40ac-b157-44f160859003#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T08:34:00+00:00"
+    },
+    {
+      "titel": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T08:21:07+00:00"
+    },
+    {
+      "titel": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T08:20:43+00:00"
+    },
+    {
+      "titel": "Milliardenverlust bei Volkswagen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-milliardenverlust-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T08:16:16+00:00"
+    },
+    {
+      "titel": "Konstituierende Sitzung von neu gewähltem Abgeordnetenhaus in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T07:56:14+00:00"
+    },
+    {
+      "titel": "Pflegeversicherung: Linnemann schließt Leistungskürzungen nicht aus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T07:45:00+00:00"
+    },
+    {
+      "titel": "Tischtennis: Timo Boll kehrt nach Karriereende an die Platte zurück (zumindest fürs Fernsehen)",
+      "link": "https://www.spiegel.de/sport/tischtennis-timo-boll-kehrt-nach-karriereende-an-die-platte-zurueck-zumindest-fuers-fernsehen-a-c13d5975-9257-4d03-9ae6-66317ed338ec#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T07:41:00+00:00"
+    },
+    {
+      "titel": "Monaco: Tod von Antoine de Massy – 42-Jähriger in U-Haft",
+      "link": "https://www.spiegel.de/panorama/justiz/monaco-tod-von-antoine-de-massy-42-jaehriger-in-u-haft-a-a585c988-2ed9-4582-aee7-608fb625d80d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T07:33:00+00:00"
+    },
+    {
+      "titel": "MLB: Milwaukee Brewers holen erstmals den Titel in der Baseballliga",
+      "link": "https://www.spiegel.de/sport/mlb-milwaukee-brewers-holen-erstmals-den-titel-in-der-baseballliga-a-b028f3a8-19b0-4022-a6a8-3c8614cb26f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T07:29:00+00:00"
+    },
+    {
+      "titel": "USA: Hacker erbeuten sensible Daten von Heimatschutzministerium",
+      "link": "https://www.spiegel.de/ausland/usa-hacker-erbeuten-sensible-daten-von-heimatschutzministerium-a-86dd92ff-7e64-4699-a7c6-119b11ca25ff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T07:22:00+00:00"
+    },
+    {
+      "titel": "Volkswagen: Umsatz und Absatz brechen ein – Milliardenverlust im dritten Quartal",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T06:53:00+00:00"
+    },
+    {
+      "titel": "Hoffnung auf unabhängige Medien in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-medien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T06:46:15+00:00"
+    },
+    {
+      "titel": "Wolfsangriff: Wildpark in Brandenburg bleibt vorerst geschlossen",
+      "link": "https://www.spiegel.de/panorama/wolfsangriff-wildpark-in-brandenburg-bleibt-vorerst-geschlossen-a-90aa33a0-a451-4192-b143-2260cb7af620#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-29T06:43:00+00:00"
+    },
+    {
+      "titel": "USA: Hackerangriff auf Daten von ICE-Beamten",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ice-hackerangriff-us-heimatschutzministerium-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T06:40:12+00:00"
+    },
+    {
+      "titel": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T06:28:41+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX dürfte vor EZB-Zinsentscheid leicht zulegen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T06:26:29+00:00"
+    },
+    {
+      "titel": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-29T06:20:37+00:00"
+    },
+    {
+      "titel": "UN-Gipfel: Die Natur feiert ein Comeback",
+      "link": "https://www.sueddeutsche.de/politik/weltnaturkonferenz-armenien-renaturierung-biodiversitaet-umweltpolitik-li.3568987",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T06:01:00+00:00"
+    },
+    {
+      "titel": "Nahost: Berichte: Vance lotet Chance auf Verhandlungen mit Iran aus",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-iran-frieden-gespraeche-us-regierung-vermittler-li.3560260",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T05:28:53+00:00"
+    },
+    {
+      "titel": "USA: Das Fernduell",
+      "link": "https://www.sueddeutsche.de/politik/obama-trump-midterms-2026-demokratische-partei-us-wahlkampf-li.3569495",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T04:31:50+00:00"
+    },
+    {
+      "titel": "Markus Lanz: „Doof geboren werden und dann auch noch dumm sterben!“",
+      "link": "https://www.sueddeutsche.de/medien/markus-lanz-bildungskrise-berliner-spd-steffen-krach-karin-prien-li.3570621",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-29T02:36:51+00:00"
     },
     {
       "titel": "Zugunglück in Spanien: In den Tod gerast",
@@ -25,148 +151,22 @@
       "veroeffentlicht": "2026-10-29T00:55:08+00:00"
     },
     {
-      "titel": "Zugunglück in Spanien: Der Schock sitzt tief",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T00:52:51+00:00"
-    },
-    {
-      "titel": "Hayden Panettiere: Polizei stuft Tod offiziell als Unfall ein",
-      "link": "https://www.spiegel.de/panorama/hayden-panettiere-polizei-stuft-tod-offiziell-als-unfall-ein-a-cb351a86-7e0e-4a38-b7b1-4bd7b3c4b25a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T00:36:00+00:00"
-    },
-    {
-      "titel": "Kanada und EU: Plan von Ursula von der Leyen für Sonderstatus offenbar gescheitert",
-      "link": "https://www.spiegel.de/ausland/kanada-und-eu-plan-von-ursula-von-der-leyen-fuer-sonderstatus-offenbar-gescheitert-a-0e1cfa00-bd6e-4961-8526-ebb68bab3638#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T00:10:00+00:00"
-    },
-    {
-      "titel": "Trump will sich nicht in Brasilien einmischen",
-      "link": "https://www.spiegel.de/ausland/trump-will-sich-nicht-in-brasilien-einmischen-a-e04d3d5b-e589-4a54-8ea0-1f9c03067513#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T23:32:00+00:00"
-    },
-    {
-      "titel": "Haushaltsplan 2027: Italien plant Steuersenkungen und höhere Bankenabgaben",
-      "link": "https://www.spiegel.de/ausland/haushaltsplan-2027-italien-plant-steuersenkungen-und-hoehere-bankenabgaben-a-c311c087-48d6-456b-8a80-6e6991d4953b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T22:46:00+00:00"
-    },
-    {
       "titel": "DFB-Pokal: Kiel wirft Hoffenheim raus – Dresden besiegt Schalke – Wagner verliert erneut",
-      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-ergebnisse-stuttgart-freiburg-schalke-li.3570768",
+      "link": "https://www.sueddeutsche.de/sport/dfb-pokal-ergebnisse-stuttgart-freiburg-schalke-hoffenheim-li.3570768",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T22:43:38+00:00"
     },
     {
-      "titel": "DFB-Pokal: Zweimal Olise – Bayern feiern 6:1-Kantersieg über Magdeburg",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-zweimal-olise-bayern-feiern-6-1-kantersieg-ueber-magdeburg-a-f46f0eab-b7e5-42da-ba10-c09e29a4f77f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T22:24:00+00:00"
-    },
-    {
-      "titel": "Jemen: Uno meldet 280.000 Vertriebene durch anhaltende Kämpfe",
-      "link": "https://www.spiegel.de/ausland/jemen-uno-meldet-280-000-vertriebene-durch-anhaltende-kaempfe-a-5980ee1f-51b4-4c36-a961-31f62bfe18a7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T22:11:00+00:00"
-    },
-    {
       "titel": "Bayern-Sieg im DFB-Pokal: Sechs Tore auch ohne Golden Harry",
-      "link": "https://www.sueddeutsche.de/sport/bayern-magdeburg-pokal-kane-tore-li.3570757",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-muenchen-dfb-pokal-1-fc-magdeburg-saibari-olise-li.3570757",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T22:03:51+00:00"
-    },
-    {
-      "titel": "US-Notenbank: Analysten wetten schon auf die nächste Erhöhung der Zinsen",
-      "link": "https://www.spiegel.de/wirtschaft/us-notenbank-analysten-wetten-schon-auf-die-naechste-erhoehung-der-zinsen-a-eac685b1-966f-4ef4-89cc-33f1adadc6eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T22:01:00+00:00"
-    },
-    {
-      "titel": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T21:56:25+00:00"
-    },
-    {
-      "titel": "Fußball-WM: Fifa nimmt offenbar fünf Milliarden Dollar mit Ticketverkäufen ein",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-wm-fifa-nimmt-offenbar-fuenf-milliarden-dollar-mit-ticketverkaeufen-ein-a-ba5eb065-3992-4f18-97c5-a18bbdaca2aa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-28T21:21:00+00:00"
     },
     {
       "titel": "Brasilien: Flávio Bolsonaro flieht in die USA und erklärt sich zum Wahlsieger",
       "link": "https://www.sueddeutsche.de/politik/bolsonaro-flucht-usa-brasilien-trump-li.3570291",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-28T21:11:00+00:00"
-    },
-    {
-      "titel": "Wie konnte es zu dem schweren Zugunglück kommen?",
-      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T20:54:12+00:00"
-    },
-    {
-      "titel": "Liveblog zur Israel-Wahl: ++ Likud wirft arabischen Parteien Wahlbetrug vor ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T20:49:08+00:00"
-    },
-    {
-      "titel": "Champions League: Ein Abend der verpassten Chancen",
-      "link": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-real-madrid-frauenfussball-li.3570745",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T20:03:06+00:00"
-    },
-    {
-      "titel": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
-      "link": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T19:03:51+00:00"
-    },
-    {
-      "titel": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
-      "link": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T18:20:51+00:00"
-    },
-    {
-      "titel": "Marktbericht: Der DAX behauptet sich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T17:38:51+00:00"
-    },
-    {
-      "titel": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-28T17:22:57+00:00"
-    },
-    {
-      "titel": "Buch: Diese Frau gibt es nur einmal",
-      "link": "https://www.sueddeutsche.de/kultur/kim-kardashian-biografie-buch-jonathan-van-meter-li.3569456",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T16:37:47+00:00"
-    },
-    {
-      "titel": "Nach Militärübung in Erding: Lebenslang entstellt: Verletzter Soldat will Beschwerde einlegen",
-      "link": "https://www.sueddeutsche.de/bayern/erding-bundeswehr-uebung-polizei-schuesse-ermittlungen-li.3570372",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T15:57:16+00:00"
-    },
-    {
-      "titel": "Natur: Städter auf der Jagd",
-      "link": "https://www.sueddeutsche.de/leben/jaegerpruefung-staedter-natur-li.3569746",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T15:39:56+00:00"
-    },
-    {
-      "titel": "Nach dem Feuer am Obersalzberg: Erste Arbeiten am abgebrannten Kehlsteinhaus – Schadenhöhe weiter unklar",
-      "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-schaden-gutachter-brand-li.3570555",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-28T15:03:49+00:00"
     }
   ]
 }
