@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-10-30T19:27:16+00:00",
+  "aktualisiert": "2026-10-30T23:16:21+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ebola: Mehr als 5000 Tote in Demokratischer Republik Kongo",
+      "link": "https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T22:55:00+00:00"
+    },
+    {
+      "titel": "Nach rassistischem Anschlag in Frankreich: Tausende gedenken den Opfern",
+      "link": "https://www.spiegel.de/ausland/nach-rassistischem-anschlag-in-frankreich-tausende-gedenken-den-opfern-a-10c5ff07-8a80-46d2-8c44-71e9f0e56ec5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T22:21:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Linken-Politikerin Eralp bekommt Polizeischutz",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-kritik-interview-spiegel-rechtfertigung-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-30T21:28:00+00:00"
+    },
+    {
+      "titel": "Nelly soll für Auftritt bei Taylor-Swift-Tour 50.000 Dollar bekommen haben",
+      "link": "https://www.spiegel.de/kultur/musik/nelly-soll-fuer-auftritt-bei-taylor-swift-tour-50-000-dollar-bekommen-haben-a-eca91177-f571-4459-86a0-b944c6b357fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T21:13:00+00:00"
+    },
+    {
+      "titel": "Polen: Polizeieinsatz bei eskalierendem Streit über das Verfassungsgericht",
+      "link": "https://www.spiegel.de/ausland/polen-polizeieinsatz-bei-eskalierendem-streit-ueber-das-verfassungsgericht-a-47bdca85-d4e4-48da-8688-d3c40f2065ad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T20:51:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: USA genehmigen Verkauf von 500 Patriot-Abwehrraketen",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-usa-genehmigen-verkauf-von-500-patriot-abwehrraketen-a-2a082d3f-12c3-4c6d-8ef0-a9be89feb674#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T20:40:00+00:00"
+    },
+    {
+      "titel": "Binance will alle Verluste nach Hackerangriff ersetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-30T20:21:33+00:00"
+    },
+    {
+      "titel": "Mexiko: Rekord-Skelettfrau »Catrina« wacht über Mexiko-Stadt",
+      "link": "https://www.spiegel.de/netzwelt/web/mexiko-rekord-skelettfrau-catrina-wacht-ueber-mexiko-stadt-a-d65fd94d-3d9f-412e-a09c-33a85bc90b2b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T20:03:00+00:00"
+    },
+    {
+      "titel": "Demokratie in der Krise: Wie Bürger zum politischen Desaster beitragen - Kolumne",
+      "link": "https://www.spiegel.de/politik/deutschland/demokratie-in-der-krise-wie-buerger-zum-politischen-desaster-beitragen-kolumne-a-42dda1ea-5b6b-491d-9797-57f247ed6806#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T19:34:00+00:00"
+    },
+    {
+      "titel": "USA: Tiefflug der „Air Force One“ für Halloweenparty erschreckt Bürger",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-halloween-air-force-one-praesidentenflugzeug-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-30T19:25:00+00:00"
+    },
     {
       "titel": "Abdul El-Sayed: Kann er für die Demokraten die Mehrheit im Senat erobern?",
       "link": "https://www.spiegel.de/ausland/abdul-el-sayed-kann-er-fuer-die-demokraten-die-mehrheit-im-senat-erobern-a-5cc3eb74-450a-4e06-8649-07cbcac04e24#ref=rss",
@@ -25,58 +85,16 @@
       "veroeffentlicht": "2026-10-30T18:59:17+00:00"
     },
     {
-      "titel": "Eingewandert, um zu bleiben: Insekten auf dem Vormarsch - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/eingewandert-um-zu-bleiben-insekten-auf-dem-vormarsch-spiegel-tv-a-f3a1d9a8-fc85-40fa-b04a-f75096a7daed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T18:55:00+00:00"
-    },
-    {
       "titel": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-30T18:46:53+00:00"
     },
     {
-      "titel": "Fall Fabian: Am Ende des Prozesses holt Gina H. zum Rundumschlag aus",
-      "link": "https://www.spiegel.de/panorama/fall-fabian-am-ende-des-prozesses-holt-gina-h-zum-rundumschlag-aus-a-40bf8de7-b24a-4a5f-b700-2c80872ebc38#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T18:41:00+00:00"
-    },
-    {
-      "titel": "China: Frank-Walter Steinmeier reist zum Staatsbesuch nach Peking",
-      "link": "https://www.spiegel.de/politik/china-frank-walter-steinmeier-reist-zum-staatsbesuch-nach-peking-a-c18b5b7d-31ca-401a-a1f8-aa9624b010d5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T18:31:00+00:00"
-    },
-    {
       "titel": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
       "link": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-30T18:27:55+00:00"
-    },
-    {
-      "titel": "Atlanta: G20-Außenminister sperren sich gegen »Familienfoto« mit Russland",
-      "link": "https://www.spiegel.de/ausland/atlanta-g20-aussenminister-sperren-sich-gegen-familienfoto-mit-russland-a-33133ed9-ccae-4ef5-8cda-c0763f269655#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T18:08:00+00:00"
-    },
-    {
-      "titel": "Kreuzfahrtschiff »Odyssey«: Es sollte immer weiter fahren und kam bis Kambodscha",
-      "link": "https://www.spiegel.de/reise/kreuzfahrtschiff-odyssey-es-sollte-immer-weiter-fahren-und-kam-bis-kambodscha-a-d71f0b2b-50df-4d52-adb1-dc8f469e5465#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T18:07:00+00:00"
-    },
-    {
-      "titel": "Madeleine »Maddie« McCann: Polizei darf Christian B. nicht länger observieren",
-      "link": "https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-polizei-darf-christian-b-nicht-laenger-observieren-a-4fffd3f3-3e6b-49bb-b05b-2c0d8cc43221#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T18:03:00+00:00"
-    },
-    {
-      "titel": "Midterms: Papst Leo XIV. hat seine Stimme abgegeben",
-      "link": "https://www.spiegel.de/ausland/midterms-papst-leo-xiv-hat-seine-stimme-abgegeben-a-1697d962-e6ce-4ca2-849a-4b15c23a3e6f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T17:55:00+00:00"
     },
     {
       "titel": "Remscheider Waffenprozess: Illegaler Waffensammler zu Haftstrafe verurteilt",
@@ -121,16 +139,16 @@
       "veroeffentlicht": "2026-10-30T16:44:36+00:00"
     },
     {
-      "titel": "Steinmeier in China: Handelsüberschuss im Fokus",
-      "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T16:35:59+00:00"
-    },
-    {
       "titel": "Fußball: Regionalligareform: Rückschlag für DFB-Präsident Neuendorf",
       "link": "https://www.sueddeutsche.de/sport/dfb-neuendorf-praesident-regionalliga-reform-li.3571909",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-30T16:23:06+00:00"
+    },
+    {
+      "titel": "Notizen aus meinem Leben: Wenn scheitern, dann bitte groß",
+      "link": "https://www.sueddeutsche.de/kultur/elke-heidenreich-notizen-aus-meinem-leben-scheitern-becket-camus-hegemann-li.3558603",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-30T15:29:37+00:00"
     },
     {
       "titel": "Theater: Aller guten Dinge",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/dax-amazon-intel-kuenstliche-intelligenz-aktienmaerkte-li.3571813",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-30T14:29:21+00:00"
-    },
-    {
-      "titel": "Steinmeier in China: Eine Freundschaft voller Tücken",
-      "link": "https://www.sueddeutsche.de/politik/steinmeier-china-staatsbesuch-xi-jinping-deutsch-chinesische-beziehungen-li.3571392",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T14:22:49+00:00"
-    },
-    {
-      "titel": "Ungewöhnliches Neubau-Konzept: 35 Euro pro Quadratmeter Kaltmiete – ein Projekt, das Fragen aufwirft",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-wohnungen-neubau-35-euro-miete-moebliert-li.3569440",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T14:18:59+00:00"
-    },
-    {
-      "titel": "Berlin: Linke, Grüne und SPD wollen weiter über Koalition verhandeln",
-      "link": "https://www.sueddeutsche.de/politik/linke-berlin-koalitionsverhandlungen-elif-eralp-parteitag-li.3571512",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T14:14:04+00:00"
     }
   ]
 }
