@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-30T01:02:43+00:00",
+  "aktualisiert": "2026-10-30T07:09:59+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,112 @@
   },
   "meldungen": [
     {
-      "titel": "USA sollen Audi zehn Prozent Zoll für Einfuhren angeboten haben",
-      "link": "https://www.spiegel.de/wirtschaft/usa-sollen-audi-zehn-prozent-zoll-fuer-einfuhren-angeboten-haben-a-dc3287f0-503e-4f6e-ac10-6cbf6c2adbad#ref=rss",
+      "titel": "Eralp reagiert auf Spiegel-Bericht",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/nach-spiegel-bericht-eralp-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-30T06:53:22+00:00"
+    },
+    {
+      "titel": "Wangerooge / Norderney: Sturmfluten spülen an Inseln in Nordsee viel Sand weg",
+      "link": "https://www.spiegel.de/panorama/wangerooge-norderney-sturmfluten-spuelen-an-inseln-in-nordsee-viel-sand-weg-a-d02b16bd-7979-4cc3-933e-65d066287c6a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T00:35:00+00:00"
+      "veroeffentlicht": "2026-10-30T06:50:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Kann der DAX die 26.000 verteidigen?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-30T06:44:55+00:00"
+    },
+    {
+      "titel": "ZDF: War das jetzt der Satire-Rechtsruck?",
+      "link": "https://www.sueddeutsche.de/medien/journal-deluxe-florian-schroeder-zdf-comedy-kritik-li.3561047",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-30T06:44:16+00:00"
+    },
+    {
+      "titel": "Binance: Hacker erbeuten 6,3 Milliarden Dollar in Digitalwährungen",
+      "link": "https://www.spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen-a-ef295845-9c6f-46fb-acba-20d98b45c5b4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T06:40:00+00:00"
+    },
+    {
+      "titel": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+      "link": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-30T06:38:08+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Eralp verteidigt sich gegen Kritik: „Lasse mich nicht einschüchtern“",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-30T06:32:57+00:00"
+    },
+    {
+      "titel": "Asien-Pazifik-Konferenz: Friedrich Merz wirbt in Südkorea für Freihandels-Netzwerk",
+      "link": "https://www.spiegel.de/ausland/asien-pazifik-konferenz-friedrich-merz-wirbt-in-suedkorea-fuer-freihandels-netzwerk-a-21b047c5-22d6-47f0-9471-b1a08705a9e2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T06:19:00+00:00"
+    },
+    {
+      "titel": "Ifo rechnet mit weniger als 200.000 neuen Wohnungen 2027 und 2028",
+      "link": "https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T06:14:00+00:00"
+    },
+    {
+      "titel": "G20-Treffen in den USA: Wadephul will «Familienfoto» mit Lawrow nicht fernbleiben",
+      "link": "https://www.spiegel.de/ausland/g20-treffen-in-den-usa-wadephul-will-familienfoto-mit-lawrow-nicht-fernbleiben-a-48d8dd97-4b06-4417-8705-044d36e41b67#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T06:08:00+00:00"
+    },
+    {
+      "titel": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-30T05:46:43+00:00"
+    },
+    {
+      "titel": "Elon Musks KI-»Odyssee«: Ist das wirklich mieser als Christopher Nolans Film?",
+      "link": "https://www.spiegel.de/kultur/kino/elon-musks-ki-odyssee-ist-das-wirklich-mieser-als-christopher-nolans-film-a-b221895c-0e6e-449e-bd52-5af3b7da4de9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T05:17:00+00:00"
+    },
+    {
+      "titel": "Zugunglück in Spanien: Zwei Kollisionen, mehr als 100 Tote. Kann Verkehrsminister Óscar Puente im Amt bleiben?",
+      "link": "https://www.spiegel.de/ausland/zugunglueck-in-spanien-zwei-kollisionen-mehr-als-100-tote-kann-verkehrsminister-oscar-puente-im-amt-bleiben-a-bd2a02d7-7515-46f1-9763-f5a1d18317e7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T05:09:00+00:00"
+    },
+    {
+      "titel": "News: EU-Kanada-Gipfel, Interview mit Anthony Scaramucci, Deutsch-Türkisches Anwerbeabkommen",
+      "link": "https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen-a-5093b4ce-aa49-4848-b8e5-9d71d8573dfc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T04:48:00+00:00"
+    },
+    {
+      "titel": "Fleisch: Ist braun verfärbtes Fleisch noch genießbar?",
+      "link": "https://www.spiegel.de/effilee/fleisch-ist-braun-verfaerbtes-fleisch-noch-geniessbar-a-767f9884-2e25-4c7c-8304-431f9a0b7bb9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-30T04:30:00+00:00"
+    },
+    {
+      "titel": "Thema Proteste bei „Maybrit Illner“: „Ich bin kein Experte, aber habe dazu natürlich eine Meinung“",
+      "link": "https://www.sueddeutsche.de/medien/maybrit-illner-proteste-ki-jugend-spanien-frankreich-gauck-ronzheimer-li.3570520",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-30T03:58:38+00:00"
+    },
+    {
+      "titel": "Oppositionspolitikerin Machado: Was bedeutet ihre Rückkehr für Venezuela?",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-30T03:22:31+00:00"
+    },
+    {
+      "titel": "Frankreich bereitet sich auf neue Schülerproteste vor",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-30T01:44:07+00:00"
     },
     {
       "titel": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
@@ -19,28 +121,10 @@
       "veroeffentlicht": "2026-10-30T00:01:06+00:00"
     },
     {
-      "titel": "Eisenkot wirft Netanyahu vor, er wolle das Wahlergebnis »delegitimieren«",
-      "link": "https://www.spiegel.de/ausland/eisenkot-wirft-netanyahu-vor-er-wolle-das-wahlergebnis-delegitimieren-a-08d5b593-ed32-4722-b74d-ddc409ad1b72#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "titel": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+      "titel": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
       "link": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-29T23:05:38+00:00"
-    },
-    {
-      "titel": "Konflikt zwischen USA und Iran: Wieder Tanker in Straße von Hormus getroffen",
-      "link": "https://www.spiegel.de/ausland/konflikt-zwischen-usa-und-iran-wieder-tanker-in-strasse-von-hormus-getroffen-a-e1823145-4913-4e50-b2be-b6e938f00e5a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T22:36:00+00:00"
-    },
-    {
-      "titel": "Bremerhaven: Kreuzfahrtschiff »Mein Schiff 3« geht nach Kollision in die Werft",
-      "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrtschiff-mein-schiff-3-geht-nach-kollision-in-die-werft-a-bf352276-25b2-4507-a17f-a94d35069fba#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T22:34:00+00:00"
     },
     {
       "titel": "Nachruf: Oh Captain, mein Captain",
@@ -49,82 +133,16 @@
       "veroeffentlicht": "2026-10-29T22:33:24+00:00"
     },
     {
-      "titel": "»Journal Deluxe«: Neue ZDF-Show mit Florian Schroeder",
-      "link": "https://www.spiegel.de/kultur/tv/journal-deluxe-neue-zdf-show-mit-florian-schroeder-a-749654f0-2adb-45db-b2cf-9a22f0baffa6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T22:20:00+00:00"
-    },
-    {
-      "titel": "Russland-Ukraine-Krieg: Russland greift Kyjiw mit Raketen an",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-russland-greift-kyjiw-mit-raketen-an-a-5d4a9900-1637-49ec-a20e-b4072fa229a9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T22:04:00+00:00"
-    },
-    {
-      "titel": "Patrick Stewart: Fans und Wegbegleiter trauern um Captain Jean-Luc Picard",
-      "link": "https://www.spiegel.de/kultur/patrick-stewart-fans-und-wegbegleiter-trauern-um-captain-jean-luc-picard-a-25743358-65a6-45e7-b64d-6e1f861f98dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T22:01:00+00:00"
-    },
-    {
-      "titel": "Eralp führt Angst-Eingeständnis auf Rat von Sicherheitsbehörden zurück",
-      "link": "https://www.spiegel.de/politik/deutschland/eralp-fuehrt-angst-eingestaendnis-auf-rat-von-sicherheitsbehoerden-zurueck-a-7cbbfa44-320f-4c43-ac7e-7c2f91c788a0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T21:24:00+00:00"
-    },
-    {
       "titel": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
       "link": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-29T20:53:05+00:00"
     },
     {
-      "titel": "Uni Leipzig nach Hackerangriff weiter offline",
-      "link": "https://www.spiegel.de/netzwelt/uni-leipzig-nach-hackerangriff-weiter-offline-a-a607d20d-0f4d-4bf7-9bdc-4ad42a0b38f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-29T20:51:00+00:00"
-    },
-    {
       "titel": "Zum Tod von Patrick Stewart: „Picard ist immer noch derselbe“",
       "link": "https://www.sueddeutsche.de/medien/patrick-stewart-star-trek-picard-interview-2020-1.4770056",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-29T20:39:06+00:00"
-    },
-    {
-      "titel": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
-      "link": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T20:12:03+00:00"
-    },
-    {
-      "titel": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T18:40:44+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX setzt Klettertour fort",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T17:32:38+00:00"
-    },
-    {
-      "titel": "Linken-Politikerin Klein neue Parlamentspräsidentin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T17:31:06+00:00"
-    },
-    {
-      "titel": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T16:59:55+00:00"
-    },
-    {
-      "titel": "Südafrika bewirbt sich mit der Stadt Durban um Olympia",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-olympia-bewerbung-durban-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-29T16:52:47+00:00"
     },
     {
       "titel": "ZDF: Wer hat mit wem Schluss gemacht?",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-kammerspiele-intendanz-theater-basel-schauspiel-li.3569784",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-29T15:30:47+00:00"
-    },
-    {
-      "titel": "Hausexplosion in Regensburg: Einsatzkräfte bergen zwei Leichen aus den Trümmern",
-      "link": "https://www.sueddeutsche.de/bayern/regensburg-brand-explosion-mehrfamilienhaus-li.3570290",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T15:16:49+00:00"
-    },
-    {
-      "titel": "Hightech an der Nato-Ostflanke: „Das ist die Munition des 21. Jahrhunderts“",
-      "link": "https://www.sueddeutsche.de/politik/bundeswehr-litauen-nato-ostflanke-elektronische-kampffuehrung-belarus-li.3569345",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T15:00:33+00:00"
-    },
-    {
-      "titel": "Elif Eralp: Wer so viel Angst zeigt, kann nicht Regierende Bürgermeisterin sein",
-      "link": "https://www.sueddeutsche.de/meinung/elif-eralp-die-linke-berlin-buergermeister-wahl-kommentar-li.3570937",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-29T14:44:02+00:00"
     }
   ]
 }
