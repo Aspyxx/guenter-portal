@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-30T02:42:42+00:00",
+  "aktualisiert": "2026-10-30T09:07:27+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Samstag Feiertag",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
+      "titel": "Zugunglück Spanien Weitspringerin",
       "link": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
-      "titel": "Putin umwirbt einen ganzen Kontinent",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-afrika-gipfel-102.html",
+      "rang": 2,
+      "titel": "Zusammenarbeit bei KI verstärken",
+      "link": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
+    },
+    {
+      "rang": 3,
+      "titel": "Debatte um Eralp überlagert Regierungsbildung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
