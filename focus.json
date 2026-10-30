@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-30T09:07:27+00:00",
+  "aktualisiert": "2026-10-30T16:03:01+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Zugunglück Spanien Weitspringerin",
-      "link": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Zusammenarbeit bei KI verstärken",
-      "link": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html",
+      "titel": "Regierungsbildung nicht in Sicht",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 3,
-      "titel": "Debatte um Eralp überlagert Regierungsbildung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
+      "rang": 2,
+      "titel": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Zweifel am KI-Boom wachsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
     }
   ]
 }
