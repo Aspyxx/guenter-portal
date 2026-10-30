@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-10-29T23:24:52+00:00",
+  "aktualisiert": "2026-10-30T02:42:42+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Samstag Feiertag",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
       "link": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Putin umwirbt einen ganzen Kontinent",
       "link": "https://www.tagesschau.de/ausland/europa/russland-afrika-gipfel-102.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
-    },
-    {
-      "rang": 3,
-      "titel": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
