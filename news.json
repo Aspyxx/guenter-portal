@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-31T02:44:18+00:00",
+  "aktualisiert": "2026-10-31T08:57:21+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,40 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Forderung der Trump-Regierung: Stimmzettel aus Alaska sollen getrennt gelagert werden",
-      "link": "https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden-a-0085060d-ade6-4f6e-85b3-30b0a01eb656#ref=rss",
+      "titel": "Arabische Parteien in Israel stecken in einem Dilemma",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T08:49:15+00:00"
+    },
+    {
+      "titel": "KI auf YouTube, TikTok, Instagram: Plötzlich scheint es keinen mehr zu stören, dass überall KI ist",
+      "link": "https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T01:44:00+00:00"
+      "veroeffentlicht": "2026-10-31T08:49:00+00:00"
+    },
+    {
+      "titel": "Machtkampf um Polens Verfassungsgericht: Präsident Karol Nawrocki bangt um die innere Sicherheit seines Landes",
+      "link": "https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes-a-205fff52-2009-47fd-b343-7fdb27356b48#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T08:48:00+00:00"
     },
     {
       "titel": "Polen: Tumult und Protest vor dem Verfassungsgericht",
       "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T01:03:28+00:00"
+      "veroeffentlicht": "2026-10-31T08:25:36+00:00"
     },
     {
-      "titel": "Alaska-Wahl: US-Ministerium bestätigt strafrechtliche Ermittlungen im Fall Sullivan gegen Sullivan",
-      "link": "https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss",
+      "titel": "Nach Steinmeier-Besuch: China will mehr deutsche Produkte importieren",
+      "link": "https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren-a-70011b91-2e9e-4e99-88fc-c79022334652#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T00:29:00+00:00"
+      "veroeffentlicht": "2026-10-31T08:05:00+00:00"
     },
     {
-      "titel": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+      "titel": "Südtirol: Als Attentäter Autonomie herbei bomben wollten – Podcast",
+      "link": "https://www.spiegel.de/ausland/suedtirol-als-attentaeter-autonomie-herbei-bomben-wollten-podcast-a-e29047b7-d3d0-4ec1-bd37-fc97815367a4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T08:02:00+00:00"
+    },
+    {
+      "titel": "AfD-Leaks: Die Österreich-Connection der AfD",
+      "link": "https://www.spiegel.de/ausland/afd-leaks-die-oesterreich-connection-der-afd-a-7dc922c8-429e-4cde-b82f-8a5824cbf8d9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T08:02:00+00:00"
+    },
+    {
+      "titel": "Gen-Z-Kundgebung: Tausende junge Menschen wollen in München protestieren",
+      "link": "https://www.sueddeutsche.de/muenchen/gen-z-proteste-muenchen-demonstration-bildung-jugendliche-li.3569318",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T07:50:00+00:00"
+    },
+    {
+      "titel": "USA: US-Ministerium will Stimmzettel in Alaska getrennt lagern lassen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-stimmzettel-dan-sullivan-trump-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T07:49:57+00:00"
+    },
+    {
+      "titel": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T23:56:24+00:00"
+      "veroeffentlicht": "2026-10-31T07:45:19+00:00"
     },
     {
-      "titel": "Ebola: Mehr als 5000 Tote in Demokratischer Republik Kongo",
-      "link": "https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T22:55:00+00:00"
+      "titel": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T07:43:12+00:00"
     },
     {
-      "titel": "Nach rassistischem Anschlag in Frankreich: Tausende gedenken den Opfern",
-      "link": "https://www.spiegel.de/ausland/nach-rassistischem-anschlag-in-frankreich-tausende-gedenken-den-opfern-a-10c5ff07-8a80-46d2-8c44-71e9f0e56ec5#ref=rss",
+      "titel": "Ukraine-Krieg: Selenskyj warnt vor langen Lieferfristen bei Patriot-System",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T22:21:00+00:00"
+      "veroeffentlicht": "2026-10-31T07:42:00+00:00"
+    },
+    {
+      "titel": "Rothenburg ob der Tauber: Wie echt ist der Stachelstuhl im Kriminalmuseum?",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum-a-b9b5097c-96f5-41e4-8b58-a8e74b3b90b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T07:38:00+00:00"
+    },
+    {
+      "titel": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
+      "link": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T07:09:41+00:00"
+    },
+    {
+      "titel": "Quiz zum Reformationstag: Wie gut kennen Sie den Feiertag und seine Geschichte?",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T06:51:00+00:00"
+    },
+    {
+      "titel": "Trauer-Bewältigung: Welche Fragen nach einem Verlust wirklich helfen",
+      "link": "https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen-a-c10499a7-bd60-473c-811e-380a0789928d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T06:36:00+00:00"
+    },
+    {
+      "titel": "Jugendproteste in mehr als 30 Städten geplant",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T04:52:31+00:00"
+    },
+    {
+      "titel": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T04:52:21+00:00"
+    },
+    {
+      "titel": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T03:57:32+00:00"
+    },
+    {
+      "titel": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T03:05:42+00:00"
     },
     {
       "titel": "Newsblog zu den Landtagswahlen: Linken-Politikerin Eralp bekommt Polizeischutz",
@@ -49,88 +133,10 @@
       "veroeffentlicht": "2026-10-30T21:28:00+00:00"
     },
     {
-      "titel": "Nelly soll für Auftritt bei Taylor-Swift-Tour 50.000 Dollar bekommen haben",
-      "link": "https://www.spiegel.de/kultur/musik/nelly-soll-fuer-auftritt-bei-taylor-swift-tour-50-000-dollar-bekommen-haben-a-eca91177-f571-4459-86a0-b944c6b357fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T21:13:00+00:00"
-    },
-    {
-      "titel": "Polen: Polizeieinsatz bei eskalierendem Streit über das Verfassungsgericht",
-      "link": "https://www.spiegel.de/ausland/polen-polizeieinsatz-bei-eskalierendem-streit-ueber-das-verfassungsgericht-a-47bdca85-d4e4-48da-8688-d3c40f2065ad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T20:51:00+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: USA genehmigen Verkauf von 500 Patriot-Abwehrraketen",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-usa-genehmigen-verkauf-von-500-patriot-abwehrraketen-a-2a082d3f-12c3-4c6d-8ef0-a9be89feb674#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T20:40:00+00:00"
-    },
-    {
-      "titel": "Binance will alle Verluste nach Hackerangriff ersetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T20:21:33+00:00"
-    },
-    {
-      "titel": "Mexiko: Rekord-Skelettfrau »Catrina« wacht über Mexiko-Stadt",
-      "link": "https://www.spiegel.de/netzwelt/web/mexiko-rekord-skelettfrau-catrina-wacht-ueber-mexiko-stadt-a-d65fd94d-3d9f-412e-a09c-33a85bc90b2b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T20:03:00+00:00"
-    },
-    {
-      "titel": "Demokratie in der Krise: Wie Bürger zum politischen Desaster beitragen - Kolumne",
-      "link": "https://www.spiegel.de/politik/deutschland/demokratie-in-der-krise-wie-buerger-zum-politischen-desaster-beitragen-kolumne-a-42dda1ea-5b6b-491d-9797-57f247ed6806#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T19:34:00+00:00"
-    },
-    {
-      "titel": "USA: Tiefflug der „Air Force One“ für Halloweenparty erschreckt Bürger",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-halloween-air-force-one-praesidentenflugzeug-li.3568285",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T19:25:00+00:00"
-    },
-    {
-      "titel": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T18:59:17+00:00"
-    },
-    {
-      "titel": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T18:46:53+00:00"
-    },
-    {
-      "titel": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
-      "link": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T18:27:55+00:00"
-    },
-    {
-      "titel": "Remscheider Waffenprozess: Illegaler Waffensammler zu Haftstrafe verurteilt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waffenfund-remscheid-urteil-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T17:45:00+00:00"
-    },
-    {
       "titel": "Nachruf: Ein freier Geist",
       "link": "https://www.sueddeutsche.de/medien/schriftsteller-joseph-von-westphalen-gestorben-nachruf-li.3571659",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-30T17:33:05+00:00"
-    },
-    {
-      "titel": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T17:23:20+00:00"
-    },
-    {
-      "titel": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T17:22:12+00:00"
     },
     {
       "titel": "Gefährliche „Ewigkeitschemikalie“ auf riesiger Fläche: PFAS-Bodenwerte für den Kreis Altötting bleiben unter Verschluss",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/medien/nowaja-gaseta-putin-anna-politkowskaja-sergej-sokolow-dmitrij-muratow-li.3571591",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-30T14:58:21+00:00"
-    },
-    {
-      "titel": "Aktienmärkte: Tech-Bilanzen verpassen Europas Börsen einen Dämpfer",
-      "link": "https://www.sueddeutsche.de/wirtschaft/dax-amazon-intel-kuenstliche-intelligenz-aktienmaerkte-li.3571813",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T14:29:21+00:00"
     }
   ]
 }
