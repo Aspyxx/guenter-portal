@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-31T15:20:41+00:00",
+  "aktualisiert": "2026-10-31T19:33:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "Syrien erwägt Beitritt zu Mekka-Verteidigungsabkommen",
-      "link": "https://www.spiegel.de/ausland/syrien-erwaegt-beitritt-zu-mekka-verteidigungsabkommen-a-b3f9d248-5d63-45a7-92a5-d1334bb8f2eb#ref=rss",
+      "titel": "Hito Steyerl in den Deichtorhallen Hamburg: Es wird ein wenig heller",
+      "link": "https://www.spiegel.de/kultur/hito-steyerl-in-den-deichtorhallen-hamburg-es-wird-ein-wenig-heller-a-b1f44c24-8e44-4716-a5ac-6238cc1a9d4e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T15:15:00+00:00"
+      "veroeffentlicht": "2026-10-31T19:28:00+00:00"
     },
     {
-      "titel": "Gen-Z-Protest: Demo vor der Universität in München startet friedlich",
+      "titel": "Demografie in Deutschland: Studie erwartet anhaltend niedrige Geburtenzahlen",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/demografie-in-deutschland-studie-erwartet-anhaltend-niedrige-geburtenzahlen-a-21731f1d-a98a-4444-9495-c2b14d2eeafc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T19:26:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Erneute Ausschreitungen bei Protesten gegen Bildungs­missstände",
+      "link": "https://www.spiegel.de/ausland/frankreich-erneute-ausschreitungen-bei-protesten-gegen-bildungs-missstaende-a-f05333eb-83b0-45b3-85fc-1c30c44fddc9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T19:10:00+00:00"
+    },
+    {
+      "titel": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T19:09:52+00:00"
+    },
+    {
+      "titel": "Erneut Proteste und Zusammenstöße in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T19:02:09+00:00"
+    },
+    {
+      "titel": "»Gen Z regelt« live: Demo in Frankfurt aufgelöst, Berliner Polizei berichtet von »Katz-und-Maus-Spiel« mit Protestierenden",
+      "link": "https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T19:00:00+00:00"
+    },
+    {
+      "titel": "Smalltalk beim G20-Außenministertreffen in Atlanta: Johann Wadephul plaudert mit Sergej Lawrow",
+      "link": "https://www.spiegel.de/politik/deutschland/smalltalk-beim-g20-aussenministertreffen-in-atlanta-johann-wadephul-plaudert-mit-sergej-lawrow-a-5981aa8c-ac98-4946-8319-9de68c38f7a9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T18:58:00+00:00"
+    },
+    {
+      "titel": "Gen-Z-Protest: Demo vor der Universität in München verläuft friedlich",
       "link": "https://www.sueddeutsche.de/muenchen/genz-regelt-demonstration-muenchen-maximilianstrasse-laeden-verbarrikadiert-li.3569253",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-31T15:07:24+00:00"
+      "veroeffentlicht": "2026-10-31T18:45:19+00:00"
+    },
+    {
+      "titel": "Jemen: Huthis sollen Uno-Mitarbeiter zu Tode gefoltert haben",
+      "link": "https://www.spiegel.de/ausland/jemen-huthis-sollen-uno-mitarbeiter-zu-tode-gefoltert-haben-a-489179d9-6b0a-462e-9b63-e4c7fc483ca0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T18:35:00+00:00"
+    },
+    {
+      "titel": "USA: Washington D.C. und Virginia klagen gegen Pläne für Trumps Triumphbogen",
+      "link": "https://www.spiegel.de/ausland/usa-washington-d-c-und-virginia-klagen-gegen-plaene-fuer-trumps-triumphbogen-a-32053c41-46c0-4eaa-892a-aca2f6e127f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T18:32:00+00:00"
+    },
+    {
+      "titel": "Iran: Friedrich Merz wird für Drecksarbeit-Aussage attackiert",
+      "link": "https://www.spiegel.de/ausland/iran-friedrich-merz-wird-fuer-drecksarbeit-aussage-attackiert-a-8c190146-72af-4322-a440-b393c80e9e0d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T18:29:00+00:00"
+    },
+    {
+      "titel": "»Gen Z regelt«: Erste Proteste in Berlin verlaufen weitgehend friedlich",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-erste-proteste-in-berlin-verlaufen-weitgehend-friedlich-a-8ed42304-8a51-42d0-bd90-a476f1fdd125#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T18:18:00+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Kippt ausgerechnet Texas?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T18:05:02+00:00"
+    },
+    {
+      "titel": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T18:00:40+00:00"
+    },
+    {
+      "titel": "Berlin: Trotz des politischen Sturms: Die Linke will weiterhin an die Macht",
+      "link": "https://www.sueddeutsche.de/meinung/kommentar-eralp-linke-berlin-koalition-li.3571763",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T17:35:11+00:00"
+    },
+    {
+      "titel": "Bundesliga: Stuttgart schießt sich aus dem Keller – Füllkrug ist nicht zu stoppen",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-spieltag-aktuell-ergebnisse-freiburg-li.3572133",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T16:56:41+00:00"
+    },
+    {
+      "titel": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T16:54:43+00:00"
+    },
+    {
+      "titel": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T16:54:21+00:00"
+    },
+    {
+      "titel": "Berlin: Linke sagt „Ja, aber“ zu Koalitionsverhandlungen – scharfer Protest vor der Halle",
+      "link": "https://www.sueddeutsche.de/politik/berlin-linke-koalitionsverhandlungen-elif-eralp-rot-rot-gruen-li.3571682",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T16:32:52+00:00"
+    },
+    {
+      "titel": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T16:21:31+00:00"
+    },
+    {
+      "titel": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
+      "link": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T16:12:40+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-koalition-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T15:54:22+00:00"
     },
     {
       "titel": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
@@ -25,112 +145,10 @@
       "veroeffentlicht": "2026-10-31T15:06:39+00:00"
     },
     {
-      "titel": "Algerien schickt erstmals seit 50 Jahren Truppen ins Ausland - nach Niger",
-      "link": "https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger-a-0f473d2b-0932-48f3-b966-c9352474a948#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T15:06:00+00:00"
-    },
-    {
-      "titel": "Spanien: Erst gut die Hälfte der Todesopfer des Zugunglücks identifiziert",
-      "link": "https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert-a-1171f256-6cbe-47f9-93f7-653085f9cb69#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T14:41:00+00:00"
-    },
-    {
-      "titel": "Wahl in Israel: Warum tanzen wir nicht auf den Straßen? - Meinung",
-      "link": "https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung-a-7ec0f2c8-dacc-425f-b704-6bffd67c1d01#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T14:23:00+00:00"
-    },
-    {
-      "titel": "Kalifornien: Unter Milliardären wächst die Angst vor einmaliger Vermögensteuer",
-      "link": "https://www.spiegel.de/ausland/kalifornien-unter-milliardaeren-waechst-die-angst-vor-einmaliger-vermoegensteuer-a-07b21a3f-837a-4cc0-bea3-e747408b02e5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T14:15:00+00:00"
-    },
-    {
-      "titel": "Polen: Der Präsident stürmt das Verfassungsgericht",
-      "link": "https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht-a-a71ba561-d842-4a66-953e-a017cbbf25ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T14:13:00+00:00"
-    },
-    {
-      "titel": "So arbeitet ein Pomologe: Von der alten Sorte",
-      "link": "https://www.spiegel.de/deinspiegel/so-arbeitet-ein-pomologe-von-der-alten-sorte-a-c00bf514-4bd7-4430-81b0-2edf3e104b80#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T14:12:00+00:00"
-    },
-    {
-      "titel": "Sebastian Fitzek: Bestsellerautor kassiert Absagen für alten Krimi",
-      "link": "https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi-a-0166ccb7-5ebf-4433-8c47-6529209c24b3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T14:12:00+00:00"
-    },
-    {
-      "titel": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T13:57:56+00:00"
-    },
-    {
-      "titel": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T13:45:21+00:00"
-    },
-    {
-      "titel": "Quiz zum Reformationstag: Wie gut kennen Sie den Feiertag und seine Geschichte?",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T13:37:00+00:00"
-    },
-    {
       "titel": "Vietnam: Tiger oder Papiertiger – das ist hier die Frage",
       "link": "https://www.sueddeutsche.de/wirtschaft/vietnam-ho-chi-minh-stadt-wirtschaftswachstum-suedostasien-li.3559032",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-31T13:06:57+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Eralp: Linke wird „Angriffswelle“ überstehen",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-spiegel-parteitag-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-31T12:12:18+00:00"
-    },
-    {
-      "titel": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T12:08:42+00:00"
-    },
-    {
-      "titel": "Merz nach Asienreise: \"Hat sich in mehrfacher Hinsicht gelohnt\"",
-      "link": "https://www.tagesschau.de/ausland/asien/merz-asienreise-abschluss-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T11:56:25+00:00"
-    },
-    {
-      "titel": "Ebola-Virus: Mehr als 5.000 Tote in der Demokratischen Republik Kongo",
-      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T11:45:52+00:00"
-    },
-    {
-      "titel": "Warum Horror-Serien die Streaming-Charts dominieren",
-      "link": "https://www.tagesschau.de/kultur/horror-serien-hype-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T11:09:27+00:00"
-    },
-    {
-      "titel": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-alaska-sullivan-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T10:51:32+00:00"
-    },
-    {
-      "titel": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T10:09:19+00:00"
     },
     {
       "titel": "Hilfsaktion in der Ukraine: „Ich hoffe, dass alles gut ausgeht“",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-stimmzettel-dan-sullivan-trump-li.3568285",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-31T07:49:57+00:00"
-    },
-    {
-      "titel": "Nachruf: Ein freier Geist",
-      "link": "https://www.sueddeutsche.de/medien/schriftsteller-joseph-von-westphalen-gestorben-nachruf-li.3571659",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T17:33:05+00:00"
-    },
-    {
-      "titel": "Gefährliche „Ewigkeitschemikalie“ auf riesiger Fläche: PFAS-Bodenwerte für den Kreis Altötting bleiben unter Verschluss",
-      "link": "https://www.sueddeutsche.de/bayern/pfas-altoetting-dyneon-pfoa-bodenbelastung-3m-li.3571671",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T16:59:13+00:00"
-    },
-    {
-      "titel": "Fußball: Regionalligareform: Rückschlag für DFB-Präsident Neuendorf",
-      "link": "https://www.sueddeutsche.de/sport/dfb-neuendorf-praesident-regionalliga-reform-li.3571909",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T16:23:06+00:00"
     }
   ]
 }
