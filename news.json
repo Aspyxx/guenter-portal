@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-10-31T08:57:21+00:00",
+  "aktualisiert": "2026-10-31T15:20:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "Arabische Parteien in Israel stecken in einem Dilemma",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
+      "titel": "Syrien erwägt Beitritt zu Mekka-Verteidigungsabkommen",
+      "link": "https://www.spiegel.de/ausland/syrien-erwaegt-beitritt-zu-mekka-verteidigungsabkommen-a-b3f9d248-5d63-45a7-92a5-d1334bb8f2eb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T15:15:00+00:00"
+    },
+    {
+      "titel": "Gen-Z-Protest: Demo vor der Universität in München startet friedlich",
+      "link": "https://www.sueddeutsche.de/muenchen/genz-regelt-demonstration-muenchen-maximilianstrasse-laeden-verbarrikadiert-li.3569253",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T15:07:24+00:00"
+    },
+    {
+      "titel": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T08:49:15+00:00"
+      "veroeffentlicht": "2026-10-31T15:06:39+00:00"
     },
     {
-      "titel": "KI auf YouTube, TikTok, Instagram: Plötzlich scheint es keinen mehr zu stören, dass überall KI ist",
-      "link": "https://www.spiegel.de/netzwelt/web/ki-auf-youtube-tiktok-instagram-ploetzlich-scheint-es-keinen-mehr-zu-stoeren-dass-ueberall-ki-ist-a-69626835-cc30-4e28-ae26-820ad293d6d6#ref=rss",
+      "titel": "Algerien schickt erstmals seit 50 Jahren Truppen ins Ausland - nach Niger",
+      "link": "https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger-a-0f473d2b-0932-48f3-b966-c9352474a948#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T08:49:00+00:00"
+      "veroeffentlicht": "2026-10-31T15:06:00+00:00"
     },
     {
-      "titel": "Machtkampf um Polens Verfassungsgericht: Präsident Karol Nawrocki bangt um die innere Sicherheit seines Landes",
-      "link": "https://www.spiegel.de/ausland/machtkampf-um-polens-verfassungsgericht-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes-a-205fff52-2009-47fd-b343-7fdb27356b48#ref=rss",
+      "titel": "Spanien: Erst gut die Hälfte der Todesopfer des Zugunglücks identifiziert",
+      "link": "https://www.spiegel.de/panorama/spanien-erst-gut-die-haelfte-der-todesopfer-des-zugungluecks-identifiziert-a-1171f256-6cbe-47f9-93f7-653085f9cb69#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T08:48:00+00:00"
+      "veroeffentlicht": "2026-10-31T14:41:00+00:00"
     },
     {
-      "titel": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+      "titel": "Wahl in Israel: Warum tanzen wir nicht auf den Straßen? - Meinung",
+      "link": "https://www.spiegel.de/kultur/wahl-in-israel-warum-tanzen-wir-nicht-auf-den-strassen-meinung-a-7ec0f2c8-dacc-425f-b704-6bffd67c1d01#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T14:23:00+00:00"
+    },
+    {
+      "titel": "Kalifornien: Unter Milliardären wächst die Angst vor einmaliger Vermögensteuer",
+      "link": "https://www.spiegel.de/ausland/kalifornien-unter-milliardaeren-waechst-die-angst-vor-einmaliger-vermoegensteuer-a-07b21a3f-837a-4cc0-bea3-e747408b02e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T14:15:00+00:00"
+    },
+    {
+      "titel": "Polen: Der Präsident stürmt das Verfassungsgericht",
+      "link": "https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht-a-a71ba561-d842-4a66-953e-a017cbbf25ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T14:13:00+00:00"
+    },
+    {
+      "titel": "So arbeitet ein Pomologe: Von der alten Sorte",
+      "link": "https://www.spiegel.de/deinspiegel/so-arbeitet-ein-pomologe-von-der-alten-sorte-a-c00bf514-4bd7-4430-81b0-2edf3e104b80#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T14:12:00+00:00"
+    },
+    {
+      "titel": "Sebastian Fitzek: Bestsellerautor kassiert Absagen für alten Krimi",
+      "link": "https://www.spiegel.de/kultur/literatur/sebastian-fitzek-bestsellerautor-kassiert-absagen-fuer-alten-krimi-a-0166ccb7-5ebf-4433-8c47-6529209c24b3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T14:12:00+00:00"
+    },
+    {
+      "titel": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T08:25:36+00:00"
+      "veroeffentlicht": "2026-10-31T13:57:56+00:00"
     },
     {
-      "titel": "Nach Steinmeier-Besuch: China will mehr deutsche Produkte importieren",
-      "link": "https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren-a-70011b91-2e9e-4e99-88fc-c79022334652#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T08:05:00+00:00"
+      "titel": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T13:45:21+00:00"
     },
     {
-      "titel": "Südtirol: Als Attentäter Autonomie herbei bomben wollten – Podcast",
-      "link": "https://www.spiegel.de/ausland/suedtirol-als-attentaeter-autonomie-herbei-bomben-wollten-podcast-a-e29047b7-d3d0-4ec1-bd37-fc97815367a4#ref=rss",
+      "titel": "Quiz zum Reformationstag: Wie gut kennen Sie den Feiertag und seine Geschichte?",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T08:02:00+00:00"
+      "veroeffentlicht": "2026-10-31T13:37:00+00:00"
     },
     {
-      "titel": "AfD-Leaks: Die Österreich-Connection der AfD",
-      "link": "https://www.spiegel.de/ausland/afd-leaks-die-oesterreich-connection-der-afd-a-7dc922c8-429e-4cde-b82f-8a5824cbf8d9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T08:02:00+00:00"
+      "titel": "Vietnam: Tiger oder Papiertiger – das ist hier die Frage",
+      "link": "https://www.sueddeutsche.de/wirtschaft/vietnam-ho-chi-minh-stadt-wirtschaftswachstum-suedostasien-li.3559032",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T13:06:57+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Eralp: Linke wird „Angriffswelle“ überstehen",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-spiegel-parteitag-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T12:12:18+00:00"
+    },
+    {
+      "titel": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T12:08:42+00:00"
+    },
+    {
+      "titel": "Merz nach Asienreise: \"Hat sich in mehrfacher Hinsicht gelohnt\"",
+      "link": "https://www.tagesschau.de/ausland/asien/merz-asienreise-abschluss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T11:56:25+00:00"
+    },
+    {
+      "titel": "Ebola-Virus: Mehr als 5.000 Tote in der Demokratischen Republik Kongo",
+      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T11:45:52+00:00"
+    },
+    {
+      "titel": "Warum Horror-Serien die Streaming-Charts dominieren",
+      "link": "https://www.tagesschau.de/kultur/horror-serien-hype-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T11:09:27+00:00"
+    },
+    {
+      "titel": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-alaska-sullivan-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T10:51:32+00:00"
+    },
+    {
+      "titel": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T10:09:19+00:00"
+    },
+    {
+      "titel": "Hilfsaktion in der Ukraine: „Ich hoffe, dass alles gut ausgeht“",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-oleschky-hilfsgueter-russland-feuerpause-li.3569026",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-10-31T09:05:10+00:00"
     },
     {
       "titel": "Gen-Z-Kundgebung: Tausende junge Menschen wollen in München protestieren",
@@ -59,78 +149,6 @@
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-stimmzettel-dan-sullivan-trump-li.3568285",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-31T07:49:57+00:00"
-    },
-    {
-      "titel": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T07:45:19+00:00"
-    },
-    {
-      "titel": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T07:43:12+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Selenskyj warnt vor langen Lieferfristen bei Patriot-System",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T07:42:00+00:00"
-    },
-    {
-      "titel": "Rothenburg ob der Tauber: Wie echt ist der Stachelstuhl im Kriminalmuseum?",
-      "link": "https://www.spiegel.de/wissenschaft/mensch/rothenburg-ob-der-tauber-wie-echt-ist-der-stachelstuhl-im-kriminalmuseum-a-b9b5097c-96f5-41e4-8b58-a8e74b3b90b1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T07:38:00+00:00"
-    },
-    {
-      "titel": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-      "link": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T07:09:41+00:00"
-    },
-    {
-      "titel": "Quiz zum Reformationstag: Wie gut kennen Sie den Feiertag und seine Geschichte?",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-de95147f-f61b-46e8-a3fd-1cf76d496050#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T06:51:00+00:00"
-    },
-    {
-      "titel": "Trauer-Bewältigung: Welche Fragen nach einem Verlust wirklich helfen",
-      "link": "https://www.spiegel.de/psychologie/trauer-bewaeltigung-welche-fragen-nach-einem-verlust-wirklich-helfen-a-c10499a7-bd60-473c-811e-380a0789928d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T06:36:00+00:00"
-    },
-    {
-      "titel": "Jugendproteste in mehr als 30 Städten geplant",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T04:52:31+00:00"
-    },
-    {
-      "titel": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T04:52:21+00:00"
-    },
-    {
-      "titel": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T03:57:32+00:00"
-    },
-    {
-      "titel": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T03:05:42+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Linken-Politikerin Eralp bekommt Polizeischutz",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-kritik-interview-spiegel-rechtfertigung-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T21:28:00+00:00"
     },
     {
       "titel": "Nachruf: Ein freier Geist",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/dfb-neuendorf-praesident-regionalliga-reform-li.3571909",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-30T16:23:06+00:00"
-    },
-    {
-      "titel": "Notizen aus meinem Leben: Wenn scheitern, dann bitte groß",
-      "link": "https://www.sueddeutsche.de/kultur/elke-heidenreich-notizen-aus-meinem-leben-scheitern-becket-camus-hegemann-li.3558603",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T15:29:37+00:00"
-    },
-    {
-      "titel": "Theater: Aller guten Dinge",
-      "link": "https://www.sueddeutsche.de/kultur/muenchner-kammerspiele-neue-intendanz-leitungsteam-basel-nunes-dirks-joerg-pohl-nachfolge-mundel-li.3571249",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T15:26:50+00:00"
-    },
-    {
-      "titel": "Russland: Zuletzt war der Chefredakteur verhaftet worden",
-      "link": "https://www.sueddeutsche.de/medien/nowaja-gaseta-putin-anna-politkowskaja-sergej-sokolow-dmitrij-muratow-li.3571591",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-30T14:58:21+00:00"
     }
   ]
 }
