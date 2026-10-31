@@ -1,11 +1,35 @@
 {
-  "aktualisiert": "2026-10-30T23:16:21+00:00",
+  "aktualisiert": "2026-10-31T02:44:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Forderung der Trump-Regierung: Stimmzettel aus Alaska sollen getrennt gelagert werden",
+      "link": "https://www.spiegel.de/ausland/forderung-der-trump-regierung-stimmzettel-aus-alaska-sollen-getrennt-gelagert-werden-a-0085060d-ade6-4f6e-85b3-30b0a01eb656#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T01:44:00+00:00"
+    },
+    {
+      "titel": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-31T01:03:28+00:00"
+    },
+    {
+      "titel": "Alaska-Wahl: US-Ministerium bestätigt strafrechtliche Ermittlungen im Fall Sullivan gegen Sullivan",
+      "link": "https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T00:29:00+00:00"
+    },
+    {
+      "titel": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-10-30T23:56:24+00:00"
+    },
     {
       "titel": "Ebola: Mehr als 5000 Tote in Demokratischer Republik Kongo",
       "link": "https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32#ref=rss",
@@ -67,18 +91,6 @@
       "veroeffentlicht": "2026-10-30T19:25:00+00:00"
     },
     {
-      "titel": "Abdul El-Sayed: Kann er für die Demokraten die Mehrheit im Senat erobern?",
-      "link": "https://www.spiegel.de/ausland/abdul-el-sayed-kann-er-fuer-die-demokraten-die-mehrheit-im-senat-erobern-a-5cc3eb74-450a-4e06-8649-07cbcac04e24#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T19:20:00+00:00"
-    },
-    {
-      "titel": "EU-Kanada-Gipfel: Streit um einen Namen – »Mitgliedschaft« wird zum Störfaktor",
-      "link": "https://www.spiegel.de/ausland/eu-kanada-gipfel-streit-um-einen-namen-mitgliedschaft-wird-zum-stoerfaktor-a-c285fb01-d854-4e3c-bbbd-561905b261bc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-30T19:03:00+00:00"
-    },
-    {
       "titel": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
       "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
       "quelle": "Tagesschau",
@@ -125,18 +137,6 @@
       "link": "https://www.sueddeutsche.de/bayern/pfas-altoetting-dyneon-pfoa-bodenbelastung-3m-li.3571671",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-30T16:59:13+00:00"
-    },
-    {
-      "titel": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T16:49:53+00:00"
-    },
-    {
-      "titel": "Debatte um Eralp überlagert Regierungsbildung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-30T16:44:36+00:00"
     },
     {
       "titel": "Fußball: Regionalligareform: Rückschlag für DFB-Präsident Neuendorf",
