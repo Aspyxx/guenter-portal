@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-01T16:25:55+00:00",
+  "aktualisiert": "2026-11-01T20:50:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,64 +7,112 @@
   },
   "meldungen": [
     {
-      "titel": "Jemen - Huthis: Mehr als 300.000 Menschen auf der Flucht, Lage in Tais besonders dramatisch",
-      "link": "https://www.spiegel.de/ausland/jemen-huthis-mehr-als-300-000-menschen-auf-der-flucht-lage-in-tais-besonders-dramatisch-a-3466bc69-d30f-4718-aa43-b1b0bbcd31cb#ref=rss",
+      "titel": "Ukraine bringt kurz vor Ende der lokalen Waffenruhe fast 200 Zivilisten aus Cherson in Sicherheit",
+      "link": "https://www.spiegel.de/ausland/ukraine-bringt-kurz-vor-ende-der-lokalen-waffenruhe-fast-200-zivilisten-aus-cherson-in-sicherheit-a-324fe676-4168-4ff1-a2f5-7234d6544bd6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T16:19:00+00:00"
+      "veroeffentlicht": "2026-11-01T20:39:00+00:00"
     },
     {
-      "titel": "Ein Jahr auf dem Mars – Freiwillige beenden extremes Nasa-Experiment",
-      "link": "https://www.spiegel.de/wissenschaft/ein-jahr-auf-dem-mars-freiwillige-beenden-extremes-nasa-experiment-a-7ee64e70-51c2-4a54-85ce-2b5b41d9ceed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T16:06:00+00:00"
+      "titel": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
+      "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T20:37:14+00:00"
     },
     {
-      "titel": "KZ Auschwitz: Nazi-Ärzte verätzten die Eileiter ihrer Mutter. Trotzdem wurde sie geboren",
-      "link": "https://www.spiegel.de/geschichte/kz-auschwitz-nazi-aerzte-veraetzten-die-eileiter-ihrer-mutter-trotzdem-wurde-sie-geboren-a-db6af4c2-487a-4517-94cc-34d3611982dc#ref=rss",
+      "titel": "BSI warnt: Mögliche Spähsoftware auf iPhones von Politikern",
+      "link": "https://www.spiegel.de/politik/deutschland/bsi-warnt-moegliche-spaehsoftware-auf-iphones-von-politikern-a-8b9e2ad3-485c-489a-b94c-1131753b777b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T16:06:00+00:00"
+      "veroeffentlicht": "2026-11-01T20:34:00+00:00"
     },
     {
-      "titel": "Buurtzorg: Dieser Altenpfleger hat Zeit für seine Patienten. Was macht er besser?",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/buurtzorg-dieser-altenpfleger-hat-zeit-fuer-seine-patienten-was-macht-er-besser-a-2e240ca0-2526-4a58-b1e4-27488f9037cf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T15:51:00+00:00"
+      "titel": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T20:27:02+00:00"
     },
     {
-      "titel": "Österreich – Kriminalität in Vorarlberg: Wenn Kinder zu Verbrechern werden",
-      "link": "https://www.spiegel.de/ausland/oesterreich-kriminalitaet-in-vorarlberg-wenn-kinder-zu-verbrechern-werden-a-a32c9035-e321-4712-b0c8-9a972a873acb#ref=rss",
+      "titel": "Alaska: Donald Trump scheitert mit Präventiv-Klage zu Namensvettern Sullivan",
+      "link": "https://www.spiegel.de/ausland/alaska-donald-trump-scheitert-mit-praeventiv-klage-zu-namensvettern-sullivan-a-fbd2c16e-53d3-4d53-857d-8585e7589622#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T15:40:00+00:00"
+      "veroeffentlicht": "2026-11-01T20:23:00+00:00"
     },
     {
-      "titel": "Schöner schreiben: So legt man mit einem einzigen kleinen Wort eine Welt in Trümmer",
-      "link": "https://www.spiegel.de/kultur/literatur/schoener-schreiben-so-legt-man-mit-einem-einzigen-kleinen-wort-eine-welt-in-truemmer-a-134a7056-e0a0-4a4e-b331-7fd9379b0c6a#ref=rss",
+      "titel": "Bulgarien: Iliana Jotowa nach Prognosen vorn",
+      "link": "https://www.spiegel.de/ausland/bulgarien-iliana-jotowa-nach-prognosen-vorn-a-e70269f7-9feb-4274-8d45-7436ee034b30#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T15:38:00+00:00"
+      "veroeffentlicht": "2026-11-01T20:15:00+00:00"
     },
     {
-      "titel": "»Polizeiruf« heute aus Rostock: »Sie haben einen Namen« im Schnellcheck",
-      "link": "https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-rostock-sie-haben-einen-namen-im-schnellcheck-a-dd3eb8b4-3f03-4c2d-aa56-f26b22ae775f#ref=rss",
+      "titel": "Boris Pistorius und die Linke: Rot-Grün-Rot in Berlin? Der beliebteste SPD-Minister ist dagegen",
+      "link": "https://www.spiegel.de/politik/boris-pistorius-und-die-linke-rot-gruen-rot-in-berlin-der-beliebteste-spd-minister-ist-dagegen-a-5113cae7-8b8a-4be1-9ef7-1ce6f90dc25a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T15:38:00+00:00"
+      "veroeffentlicht": "2026-11-01T20:02:00+00:00"
     },
     {
-      "titel": "Frankfurt am Main: Nach »Gen Z regelt«-Demo zieht der hessische Innenminister Bilanz",
-      "link": "https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T15:25:00+00:00"
+      "titel": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T19:59:02+00:00"
     },
     {
-      "titel": "Bundeswehr: Neue Kampfhubschrauber bleiben vorerst ohne Bewaffnung",
-      "link": "https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung-a-3863e2b0-60a1-4b7f-a780-4b74296fbe29#ref=rss",
+      "titel": "USA: Gericht weist Trump-Klage zu Wahl in Alaska ab",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-trump-klage-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-01T19:46:28+00:00"
+    },
+    {
+      "titel": "USA: Streit mit Abdul El-Sayed – Demokratin Haley Stevens wechselt ins Rogers-Lager",
+      "link": "https://www.spiegel.de/ausland/usa-streit-mit-abdul-el-sayed-demokratin-haley-stevens-wechselt-ins-rogers-lager-a-497c62cc-2c82-4511-968b-e3725a27f52b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T15:24:00+00:00"
+      "veroeffentlicht": "2026-11-01T19:45:00+00:00"
+    },
+    {
+      "titel": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
+      "link": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T19:42:19+00:00"
+    },
+    {
+      "titel": "»Im Verhör«: Korrupte Justiz (1): Vom Rechtsanwalt zum Drogenboss - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/justiz/im-verhoer-korrupte-justiz-1-vom-rechtsanwalt-zum-drogenboss-spiegel-tv-a-059051cf-93b6-4960-a19b-89e9db2b81f9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T19:33:00+00:00"
+    },
+    {
+      "titel": "Eintracht Frankfurt: 16-jähriger Iličević stellt Altersrekord gegen HSV auf",
+      "link": "https://www.spiegel.de/sport/fussball/eintracht-frankfurt-16-jaehriger-ilicevic-stellt-altersrekord-gegen-hsv-auf-a-605d09f7-ac4b-486e-be7b-ee85dfff4074#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T19:17:00+00:00"
+    },
+    {
+      "titel": "Premier League: FC Arsenal beendet Sieglos-Serie bei Liverpool dank Kai Havertz",
+      "link": "https://www.spiegel.de/sport/fussball/premier-league-fc-arsenal-beendet-sieglos-serie-bei-liverpool-dank-kai-havertz-a-e390e90d-a18a-4266-90ec-4827a88a76be#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T19:00:00+00:00"
     },
     {
       "titel": "Proteste der Generation Z: „Gewalt war und ist niemals Teil unserer Bewegung“",
       "link": "https://www.sueddeutsche.de/politik/gen-z-regelt-proteste-frankfurt-koeln-gewalt-gen-z-li.3572382",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T15:23:23+00:00"
+      "veroeffentlicht": "2026-11-01T18:04:00+00:00"
+    },
+    {
+      "titel": "Pop: Ohne ihn wären die Beatles noch in Liverpool",
+      "link": "https://www.sueddeutsche.de/kultur/horst-fascher-beatles-star-club-nachruf-li.3572489",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-01T17:59:29+00:00"
+    },
+    {
+      "titel": "FAQ: Was die neue Gebühr auf Sendungen aus Nicht-EU-Ländern bedeutet",
+      "link": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T16:43:44+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: Golfstaaten bereiten sich auf neue Eskalation vor",
+      "link": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T16:24:24+00:00"
     },
     {
       "titel": "Warum sich junge Paare gegen Kinder entscheiden",
@@ -91,22 +139,10 @@
       "veroeffentlicht": "2026-11-01T14:28:30+00:00"
     },
     {
-      "titel": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
-      "link": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T14:25:24+00:00"
-    },
-    {
-      "titel": "Wahlkampf der US-Demokraten: Links, rechts - oder am besten in der Mitte?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-colorado-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T14:25:00+00:00"
-    },
-    {
-      "titel": "Nach mehr als 500 Produktionen: Filmproduzentin Regina Ziegler gestorben",
-      "link": "https://www.tagesschau.de/kultur/ziegler-regina-gestorben-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T14:12:27+00:00"
+      "titel": "Fernsehen: Die Königin",
+      "link": "https://www.sueddeutsche.de/medien/regina-ziegler-produzentin-berlin-gestorben-fitzek-nachruf-fernsehen-tod-li.3358972",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-01T14:18:27+00:00"
     },
     {
       "titel": "Eishockey-WM: Die Bundesregierung steckt in Putins Eishockey-Falle",
@@ -115,58 +151,22 @@
       "veroeffentlicht": "2026-11-01T13:08:41+00:00"
     },
     {
-      "titel": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-      "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T13:07:16+00:00"
-    },
-    {
       "titel": "Protestkultur: Die Stadt ist tot. Es lebe die Stadt",
       "link": "https://www.sueddeutsche.de/kultur/pressspan-luxuslaeden-innenstadt-demonstrationen-gen-z-li.3572173",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-01T13:02:30+00:00"
     },
     {
+      "titel": "Polens Rechtsstaatlichkeit: Und dann rufen sie: „Stürzt Tusk“",
+      "link": "https://www.sueddeutsche.de/politik/polen-verfassungsgericht-nawrocki-tumult-li.3572347",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-01T12:50:32+00:00"
+    },
+    {
       "titel": "Trump und Epstein: „Jetzt gibt es genug Dokumente, genug Beweise, genug Opfer“",
       "link": "https://www.sueddeutsche.de/politik/donald-trump-jeffrey-epstein-beatrice-keul-vergewaltigung-schweiz-li.3572342",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-01T12:29:58+00:00"
-    },
-    {
-      "titel": "Bundesliga: Joshua Kimmich und die unendlichen Plagen des FC Bayern",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-kompany-verletzte-olise-saibari-kimmich-li.3572330",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T12:10:21+00:00"
-    },
-    {
-      "titel": "\"Gen Z regelt\" will Demos fortsetzen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T11:58:42+00:00"
-    },
-    {
-      "titel": "Leute: Ohne Kopf und Fuß",
-      "link": "https://www.sueddeutsche.de/panorama/heidi-klum-jan-hofer-thomas-gottschalk-katy-perry-promis-leute-li.3571878",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T11:54:44+00:00"
-    },
-    {
-      "titel": "Berlin: Linke stimmt für Koalitionsverhandlungen – scharfer Protest vor der Halle",
-      "link": "https://www.sueddeutsche.de/politik/berlin-linke-koalitionsverhandlungen-elif-eralp-rot-rot-gruen-li.3571682",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T11:53:00+00:00"
-    },
-    {
-      "titel": "Debatte: „Je größer die soziale Ungleichheit, desto höher das Niveau der Gewalt“",
-      "link": "https://www.sueddeutsche.de/kultur/wilhelm-heitmeyer-durchrohung-der-gesellschaft-demonstrationen-li.3566541",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T11:41:29+00:00"
-    },
-    {
-      "titel": "Israel: Demos für Einbindung der arabischen Parteien",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T11:24:19+00:00"
     }
   ]
 }
