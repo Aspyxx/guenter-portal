@@ -1,11 +1,53 @@
 {
-  "aktualisiert": "2026-10-31T22:50:55+00:00",
+  "aktualisiert": "2026-11-01T02:14:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+      "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T02:06:07+00:00"
+    },
+    {
+      "titel": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T01:44:46+00:00"
+    },
+    {
+      "titel": "Deutschland: Jugendproteste nicht überall konfliktfrei: In Frankfurt kommt es zu heftigen Krawallen",
+      "link": "https://www.sueddeutsche.de/politik/gen-z-regelt-demo-proteste-gewalt-polizei-li.3572191",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-01T01:34:15+00:00"
+    },
+    {
+      "titel": "Brasilien: Donald Trump gewährt Flávio Bolsonaro unbegrenztes Bleiberecht",
+      "link": "https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T01:26:00+00:00"
+    },
+    {
+      "titel": "Niederlande: Küstenwache rettet 36 Migranten aus manövrierunfähigem Boot",
+      "link": "https://www.spiegel.de/ausland/niederlande-kuestenwache-rettet-36-migranten-aus-manoevrierunfaehigem-boot-a-dbd00dd6-ea48-4c2a-82e9-d173efe88549#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T00:35:00+00:00"
+    },
+    {
+      "titel": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+      "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T00:26:06+00:00"
+    },
+    {
+      "titel": "Binance: FBI macht Nordkorea für Milliardenraub bei Kryptobörse verantwortlich",
+      "link": "https://www.spiegel.de/netzwelt/binance-fbi-macht-nordkorea-fuer-milliardenraub-bei-kryptoboerse-verantwortlich-a-cf2eebce-131e-418f-9510-ce17afcdac74#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-10-31T23:33:00+00:00"
+    },
     {
       "titel": "Erneut Proteste und Zusammenstöße in Frankreich",
       "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
@@ -29,12 +71,6 @@
       "link": "https://www.spiegel.de/panorama/gen-z-regelt-proteste-frankfurt-randalierer-schlagen-scheiben-ein-und-pluendern-laeden-a-fe7e2673-21cc-48d2-b782-17bf33df9075#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-10-31T21:25:00+00:00"
-    },
-    {
-      "titel": "Deutschland: Jugendproteste nicht überall friedlich: viel Pyrotechnik, Wasserwerfer im Einsatz",
-      "link": "https://www.sueddeutsche.de/politik/gen-z-regelt-demo-proteste-gewalt-polizei-li.3572191",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-31T21:20:29+00:00"
     },
     {
       "titel": "Polen: Donald Tusk attackiert Karol Nawrocki nach rüder Visite im Verfassungsgericht",
@@ -67,12 +103,6 @@
       "veroeffentlicht": "2026-10-31T20:33:42+00:00"
     },
     {
-      "titel": "Fußball-Bundesliga: FC Bayern München nur remis gegen Borussia Dortmund",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-nur-remis-gegen-borussia-dortmund-a-bc408536-43b5-44bd-b775-31dcfddd3381#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T20:19:00+00:00"
-    },
-    {
       "titel": "Der Kampf um das polnische Verfassungsgericht eskaliert",
       "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
       "quelle": "Tagesschau",
@@ -95,18 +125,6 @@
       "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-10-31T19:39:40+00:00"
-    },
-    {
-      "titel": "»Gen Z regelt«: Die wütende Jugend geht auf die Straße – das war der Protesttag",
-      "link": "https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T19:37:00+00:00"
-    },
-    {
-      "titel": "Bildungsökonom Ludger Wößmann: »Bessere Schulbildung könnte Deutschland 20 Billionen Euro einbringen«",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/bildungsoekonom-ludger-woessmann-bessere-schulbildung-koennte-deutschland-20-billionen-euro-einbringen-a-ee40144a-48f4-4a35-a0a2-5b6b5edb8fd9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T19:31:00+00:00"
     },
     {
       "titel": "Gen-Z-Protest: Demo vor der Universität in München verläuft friedlich",
@@ -139,28 +157,10 @@
       "veroeffentlicht": "2026-10-31T16:56:41+00:00"
     },
     {
-      "titel": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T16:54:43+00:00"
-    },
-    {
-      "titel": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T16:54:21+00:00"
-    },
-    {
       "titel": "Berlin: Linke stimmt für Koalitionsverhandlungen – scharfer Protest vor der Halle",
       "link": "https://www.sueddeutsche.de/politik/berlin-linke-koalitionsverhandlungen-elif-eralp-rot-rot-gruen-li.3571682",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-31T16:32:52+00:00"
-    },
-    {
-      "titel": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T16:21:31+00:00"
     },
     {
       "titel": "Newsblog zu den Landtagswahlen: Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
