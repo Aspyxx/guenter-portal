@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-01T02:14:48+00:00",
+  "aktualisiert": "2026-11-01T09:23:28+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,106 +7,130 @@
   },
   "meldungen": [
     {
-      "titel": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
-      "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T02:06:07+00:00"
+      "titel": "Lars Klingbeil sucht Milliarden für Bundesbaugesellschaft",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/lars-klingbeil-sucht-milliarden-fuer-bundesbaugesellschaft-a-5fdbc648-bfb3-4869-ba71-ed50651d9ac3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T09:17:00+00:00"
     },
     {
-      "titel": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T01:44:46+00:00"
+      "titel": "US-Midterms 2026: Donald Trump nennt das Wahlsystem kaputt – und beschädigt es selbst",
+      "link": "https://www.spiegel.de/ausland/us-midterms-2026-donald-trump-nennt-das-wahlsystem-kaputt-und-beschaedigt-es-selbst-a-1b8312cd-9089-4dfa-83ce-55bc3ed2e505#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T08:48:00+00:00"
     },
     {
-      "titel": "Deutschland: Jugendproteste nicht überall konfliktfrei: In Frankfurt kommt es zu heftigen Krawallen",
-      "link": "https://www.sueddeutsche.de/politik/gen-z-regelt-demo-proteste-gewalt-polizei-li.3572191",
+      "titel": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T08:43:57+00:00"
+    },
+    {
+      "titel": "Microcars boomen - aber wie sicher sind sie?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T08:41:59+00:00"
+    },
+    {
+      "titel": "Borussia Dortmund: Siehe da: ein Bayern-Konkurrent",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-bvb-bayern-konkurrent-meisterschaft-schlotterbeck-li.3572256",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T01:34:15+00:00"
+      "veroeffentlicht": "2026-11-01T08:38:33+00:00"
     },
     {
-      "titel": "Brasilien: Donald Trump gewährt Flávio Bolsonaro unbegrenztes Bleiberecht",
-      "link": "https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe#ref=rss",
+      "titel": "Wildtierhandel: Handel mit wild lebenden Tieren und Pflanzen viel größer als gedacht",
+      "link": "https://www.spiegel.de/wissenschaft/natur/wildtierhandel-handel-mit-wild-lebenden-tieren-und-pflanzen-viel-groesser-als-gedacht-a-166ba43b-e054-401a-a15d-904c07802ffd#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T01:26:00+00:00"
+      "veroeffentlicht": "2026-11-01T08:27:00+00:00"
     },
     {
-      "titel": "Niederlande: Küstenwache rettet 36 Migranten aus manövrierunfähigem Boot",
-      "link": "https://www.spiegel.de/ausland/niederlande-kuestenwache-rettet-36-migranten-aus-manoevrierunfaehigem-boot-a-dbd00dd6-ea48-4c2a-82e9-d173efe88549#ref=rss",
+      "titel": "Graf von Unheilig über sein düsteres Image: »Ich lache gerne«",
+      "link": "https://www.spiegel.de/panorama/leute/graf-von-unheilig-ueber-sein-duesteres-image-ich-lache-gerne-a-f8b82d00-5b2c-46f6-b1b5-6cb1471361a4#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T00:35:00+00:00"
+      "veroeffentlicht": "2026-11-01T08:22:00+00:00"
+    },
+    {
+      "titel": "Bruder mit Downsyndrom: Denn da ist so viel Liebe",
+      "link": "https://www.spiegel.de/familie/bruder-mit-downsyndrom-denn-da-ist-so-viel-liebe-a-ed3dafd2-3b5d-4169-a826-e9d6d530825b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T08:04:00+00:00"
+    },
+    {
+      "titel": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T08:01:11+00:00"
+    },
+    {
+      "titel": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T08:00:49+00:00"
+    },
+    {
+      "titel": "FC Bayern 2:2 gegen Borussia Dortmund: Meister im Ausnahmezustand",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-2-2-gegen-borussia-dortmund-meister-im-ausnahmezustand-a-7ba738f3-3b3b-4273-951e-a07e26cb19e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T07:59:00+00:00"
+    },
+    {
+      "titel": "Bunte \"Tag der Toten\"-Parade zieht durch Mexiko-Stadt",
+      "link": "https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T07:57:56+00:00"
     },
     {
       "titel": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
       "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T00:26:06+00:00"
+      "veroeffentlicht": "2026-11-01T07:47:42+00:00"
     },
     {
-      "titel": "Binance: FBI macht Nordkorea für Milliardenraub bei Kryptobörse verantwortlich",
-      "link": "https://www.spiegel.de/netzwelt/binance-fbi-macht-nordkorea-fuer-milliardenraub-bei-kryptoboerse-verantwortlich-a-cf2eebce-131e-418f-9510-ce17afcdac74#ref=rss",
+      "titel": "Rechtsruck an Schulen: Wenn rechtsextreme Vorfälle ignoriert werden",
+      "link": "https://www.spiegel.de/panorama/bildung/rechtsruck-an-schulen-wenn-rechtsextreme-vorfaelle-ignoriert-werden-a-66893eef-8961-4f65-a751-c3bef8d8ab69#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T23:33:00+00:00"
+      "veroeffentlicht": "2026-11-01T07:47:00+00:00"
     },
     {
-      "titel": "Erneut Proteste und Zusammenstöße in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+      "titel": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T22:32:55+00:00"
+      "veroeffentlicht": "2026-11-01T07:45:02+00:00"
     },
     {
-      "titel": "USA: Republikanische Regierung Alaskas will Trump-Klage zu Senatswahl abweisen lassen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-sullivan-trump-li.3568285",
+      "titel": "Metall- und Elektroindustrie: Warnstreiks der IG Metall sind angelaufen",
+      "link": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T07:35:00+00:00"
+    },
+    {
+      "titel": "USA: Trump: Bolsonaro darf bleiben – treffen will er ihn aber nicht",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-bolsonaro-alaska-kongresswahlen-trump-li.3568285",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-31T21:42:09+00:00"
+      "veroeffentlicht": "2026-11-01T07:32:00+00:00"
     },
     {
-      "titel": "Donald Trump und die Jeffrey-Epstein-Files: Gericht stoppt Klage gegen Zeitung",
-      "link": "https://www.spiegel.de/ausland/donald-trump-und-die-jeffrey-epstein-files-gericht-stoppt-klage-gegen-zeitung-a-e1ce2fc6-447c-4034-ae98-d34fcc6eec5b#ref=rss",
+      "titel": "New York: 15-Jähriger auf dem Weg zur Schule erschossen",
+      "link": "https://www.spiegel.de/panorama/justiz/new-york-15-jaehriger-auf-dem-weg-zur-schule-erschossen-a-293af563-406a-4fb5-8346-c49b248540ac#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T21:36:00+00:00"
+      "veroeffentlicht": "2026-11-01T06:58:00+00:00"
     },
     {
-      "titel": "»Gen Z regelt« Proteste - Frankfurt: Randalierer schlagen Scheiben ein und plündern Läden",
-      "link": "https://www.spiegel.de/panorama/gen-z-regelt-proteste-frankfurt-randalierer-schlagen-scheiben-ein-und-pluendern-laeden-a-fe7e2673-21cc-48d2-b782-17bf33df9075#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T21:25:00+00:00"
+      "titel": "Deutschland: Krawalle in Frankfurt im Anschluss an Gen-Z-Proteste",
+      "link": "https://www.sueddeutsche.de/politik/gen-z-regelt-demo-proteste-gewalt-polizei-li.3572191",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-01T06:01:00+00:00"
     },
     {
-      "titel": "Polen: Donald Tusk attackiert Karol Nawrocki nach rüder Visite im Verfassungsgericht",
-      "link": "https://www.spiegel.de/ausland/polen-donald-tusk-attackiert-karol-nawrocki-nach-rueder-visite-im-verfassungsgericht-a-9fabfec6-cb4a-4a33-802a-77a3d1812167#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T21:16:00+00:00"
-    },
-    {
-      "titel": "Israel: Präsident Isaac Herzog kündigt Gespräche zur Regierungsbildung an",
-      "link": "https://www.spiegel.de/ausland/israel-praesident-isaac-herzog-kuendigt-gespraeche-zur-regierungsbildung-an-a-b4a4ccb0-09e9-484f-be8e-1e750f403ab1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T20:51:00+00:00"
-    },
-    {
-      "titel": "Briten offen für offizielle Entschuldigung für Sklavenhandel, aber keine Reparationszahlungen",
-      "link": "https://www.spiegel.de/ausland/briten-offen-fuer-offizielle-entschuldigung-fuer-sklavenhandel-aber-keine-reparationszahlungen-a-f0348d38-0eca-4b48-80c0-ab9ee910d386#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T20:43:00+00:00"
-    },
-    {
-      "titel": "Katy Perry und Justin Trudeau: Sängerin teilt Fotos zu ihrem 42. Geburtstag",
-      "link": "https://www.spiegel.de/panorama/leute/katy-perry-und-justin-trudeau-saengerin-teilt-fotos-zu-ihrem-42-geburtstag-a-38995a73-39c0-42c9-bcb4-267d4ff4a972#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-10-31T20:35:00+00:00"
-    },
-    {
-      "titel": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+      "titel": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T20:33:42+00:00"
+      "veroeffentlicht": "2026-11-01T04:26:15+00:00"
     },
     {
-      "titel": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+      "titel": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+      "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T20:11:14+00:00"
+      "veroeffentlicht": "2026-11-01T02:06:07+00:00"
     },
     {
       "titel": "FC Bayern in der Einzelkritik: Kovac tröstet Kimmich",
@@ -121,28 +145,10 @@
       "veroeffentlicht": "2026-10-31T19:53:59+00:00"
     },
     {
-      "titel": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T19:39:40+00:00"
-    },
-    {
       "titel": "Gen-Z-Protest: Demo vor der Universität in München verläuft friedlich",
       "link": "https://www.sueddeutsche.de/muenchen/genz-regelt-demonstration-muenchen-maximilianstrasse-laeden-verbarrikadiert-li.3569253",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-31T18:45:19+00:00"
-    },
-    {
-      "titel": "Midterms in den USA: Kippt ausgerechnet Texas?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T18:05:02+00:00"
-    },
-    {
-      "titel": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-10-31T18:00:40+00:00"
     },
     {
       "titel": "Berlin: Trotz des politischen Sturms: Die Linke will weiterhin an die Macht",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/berlin-linke-koalitionsverhandlungen-elif-eralp-rot-rot-gruen-li.3571682",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-10-31T16:32:52+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-koalition-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-10-31T15:54:22+00:00"
     }
   ]
 }
