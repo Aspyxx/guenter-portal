@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-01T02:25:54+00:00",
+  "aktualisiert": "2026-11-01T09:26:30+00:00",
   "themen": [
     {
       "rang": 1,
@@ -10,17 +10,17 @@
     },
     {
       "rang": 2,
-      "titel": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-      "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+      "titel": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Kippt ausgerechnet Texas?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
+      "titel": "Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     }
   ]
 }
