@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-11-01T20:50:40+00:00",
+  "aktualisiert": "2026-11-02T00:46:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Formel 1: Kimi Antonelli ist Weltmeister - Reaktionen von Sebastian Vettel und der Presse",
+      "link": "https://www.spiegel.de/sport/formel-1-kimi-antonelli-ist-weltmeister-reaktionen-von-sebastian-vettel-und-der-presse-a-7779c1d2-c279-450a-9ab2-92f91e57a2b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T00:16:00+00:00"
+    },
+    {
+      "titel": "USA: Demokraten in Michigan werfen Haley Stevens nach Eklat offenbar raus",
+      "link": "https://www.spiegel.de/ausland/usa-demokraten-in-michigan-werfen-haley-stevens-nach-eklat-offenbar-raus-a-67205fbb-ee59-455a-a672-4286150733f4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T00:01:00+00:00"
+    },
+    {
+      "titel": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-01T23:50:04+00:00"
+    },
+    {
+      "titel": "Formel 1: Kimi Antonelli ist Weltmeister – der jüngste der Geschichte",
+      "link": "https://www.sueddeutsche.de/sport/kimi-antonelli-weltmeister-mercedes-formel-1-mexiko-li.3572572",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-01T23:10:54+00:00"
+    },
+    {
+      "titel": "Formel 1: Kimi Antonelli ist jüngster Weltmeister der Geschichte",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-ist-juengster-weltmeister-der-geschichte-a-b78e9346-c766-4f1b-b503-93a81618588a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T22:25:00+00:00"
+    },
+    {
+      "titel": "Blutspenden: DRK warnt vor kritischem Mangel an Blutkonserven",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/blutspenden-drk-warnt-vor-kritischem-mangel-an-blutkonserven-a-3cb821b5-ec81-49ac-9f2f-50f381194345#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T21:42:00+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Können die Demokraten wirklich gewinnen?",
+      "link": "https://www.sueddeutsche.de/politik/midterms-2026-usa-prognose-umfragen-donald-trump-demokraten-republikaner-li.3566021",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-01T21:13:10+00:00"
+    },
+    {
+      "titel": "Israel: Yair Golan warnt vor neuem Krieg mit Iran unter Netanyahu",
+      "link": "https://www.spiegel.de/ausland/israel-yair-golan-warnt-vor-neuem-krieg-mit-iran-unter-netanyahu-a-4c97e183-0c44-4e8b-88b6-1475f157593b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T20:51:00+00:00"
+    },
+    {
+      "titel": "Donald Trump prahlt neue Angriffsziele in Iran ins Spiel - »Pickaxe Mountain«?",
+      "link": "https://www.spiegel.de/ausland/donald-trump-prahlt-neue-angriffsziele-in-iran-ins-spiel-pickaxe-mountain-a-41a5db5e-7ad1-49b1-8038-e773378f49a1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-01T20:51:00+00:00"
+    },
     {
       "titel": "Ukraine bringt kurz vor Ende der lokalen Waffenruhe fast 200 Zivilisten aus Cherson in Sicherheit",
       "link": "https://www.spiegel.de/ausland/ukraine-bringt-kurz-vor-ende-der-lokalen-waffenruhe-fast-200-zivilisten-aus-cherson-in-sicherheit-a-324fe676-4168-4ff1-a2f5-7234d6544bd6#ref=rss",
@@ -37,18 +91,6 @@
       "veroeffentlicht": "2026-11-01T20:23:00+00:00"
     },
     {
-      "titel": "Bulgarien: Iliana Jotowa nach Prognosen vorn",
-      "link": "https://www.spiegel.de/ausland/bulgarien-iliana-jotowa-nach-prognosen-vorn-a-e70269f7-9feb-4274-8d45-7436ee034b30#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T20:15:00+00:00"
-    },
-    {
-      "titel": "Boris Pistorius und die Linke: Rot-Grün-Rot in Berlin? Der beliebteste SPD-Minister ist dagegen",
-      "link": "https://www.spiegel.de/politik/boris-pistorius-und-die-linke-rot-gruen-rot-in-berlin-der-beliebteste-spd-minister-ist-dagegen-a-5113cae7-8b8a-4be1-9ef7-1ce6f90dc25a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T20:02:00+00:00"
-    },
-    {
       "titel": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
       "quelle": "Tagesschau",
@@ -61,34 +103,10 @@
       "veroeffentlicht": "2026-11-01T19:46:28+00:00"
     },
     {
-      "titel": "USA: Streit mit Abdul El-Sayed – Demokratin Haley Stevens wechselt ins Rogers-Lager",
-      "link": "https://www.spiegel.de/ausland/usa-streit-mit-abdul-el-sayed-demokratin-haley-stevens-wechselt-ins-rogers-lager-a-497c62cc-2c82-4511-968b-e3725a27f52b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T19:45:00+00:00"
-    },
-    {
       "titel": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
       "link": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-01T19:42:19+00:00"
-    },
-    {
-      "titel": "»Im Verhör«: Korrupte Justiz (1): Vom Rechtsanwalt zum Drogenboss - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/justiz/im-verhoer-korrupte-justiz-1-vom-rechtsanwalt-zum-drogenboss-spiegel-tv-a-059051cf-93b6-4960-a19b-89e9db2b81f9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T19:33:00+00:00"
-    },
-    {
-      "titel": "Eintracht Frankfurt: 16-jähriger Iličević stellt Altersrekord gegen HSV auf",
-      "link": "https://www.spiegel.de/sport/fussball/eintracht-frankfurt-16-jaehriger-ilicevic-stellt-altersrekord-gegen-hsv-auf-a-605d09f7-ac4b-486e-be7b-ee85dfff4074#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T19:17:00+00:00"
-    },
-    {
-      "titel": "Premier League: FC Arsenal beendet Sieglos-Serie bei Liverpool dank Kai Havertz",
-      "link": "https://www.spiegel.de/sport/fussball/premier-league-fc-arsenal-beendet-sieglos-serie-bei-liverpool-dank-kai-havertz-a-e390e90d-a18a-4266-90ec-4827a88a76be#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T19:00:00+00:00"
     },
     {
       "titel": "Proteste der Generation Z: „Gewalt war und ist niemals Teil unserer Bewegung“",
@@ -127,12 +145,6 @@
       "veroeffentlicht": "2026-11-01T14:46:12+00:00"
     },
     {
-      "titel": "Polizei zieht Bilanz zu Krawallen in Frankfurt",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T14:34:28+00:00"
-    },
-    {
       "titel": "Gen Z-Proteste: Ohne Barrikaden für Gerechtigkeit",
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-protest-gen-z-kommentar-li.3572359",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/pressspan-luxuslaeden-innenstadt-demonstrationen-gen-z-li.3572173",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-01T13:02:30+00:00"
-    },
-    {
-      "titel": "Polens Rechtsstaatlichkeit: Und dann rufen sie: „Stürzt Tusk“",
-      "link": "https://www.sueddeutsche.de/politik/polen-verfassungsgericht-nawrocki-tumult-li.3572347",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T12:50:32+00:00"
-    },
-    {
-      "titel": "Trump und Epstein: „Jetzt gibt es genug Dokumente, genug Beweise, genug Opfer“",
-      "link": "https://www.sueddeutsche.de/politik/donald-trump-jeffrey-epstein-beatrice-keul-vergewaltigung-schweiz-li.3572342",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T12:29:58+00:00"
     }
   ]
 }
