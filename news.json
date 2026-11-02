@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-02T00:46:11+00:00",
+  "aktualisiert": "2026-11-02T07:41:31+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "Formel 1: Kimi Antonelli ist Weltmeister - Reaktionen von Sebastian Vettel und der Presse",
-      "link": "https://www.spiegel.de/sport/formel-1-kimi-antonelli-ist-weltmeister-reaktionen-von-sebastian-vettel-und-der-presse-a-7779c1d2-c279-450a-9ab2-92f91e57a2b1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T00:16:00+00:00"
-    },
-    {
-      "titel": "USA: Demokraten in Michigan werfen Haley Stevens nach Eklat offenbar raus",
-      "link": "https://www.spiegel.de/ausland/usa-demokraten-in-michigan-werfen-haley-stevens-nach-eklat-offenbar-raus-a-67205fbb-ee59-455a-a672-4286150733f4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T00:01:00+00:00"
-    },
-    {
-      "titel": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
+      "titel": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T23:50:04+00:00"
+      "veroeffentlicht": "2026-11-02T07:25:06+00:00"
+    },
+    {
+      "titel": "Olympia 2032 in Australien: Krokodil nahe Ruderstrecke löst Sicherheitsdiskussion aus",
+      "link": "https://www.spiegel.de/sport/olympia/olympia-2032-in-australien-krokodil-nahe-ruderstrecke-loest-sicherheitsdiskussion-aus-a-673dd55d-f138-4a26-8c49-6d1b55a41180#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T07:18:00+00:00"
+    },
+    {
+      "titel": "Keira Knightley, Luke Thompson, Steven Dillane in »The Lives of Others« in London: Im Visier der Stasi",
+      "link": "https://www.spiegel.de/kultur/keira-knightley-luke-thompson-steven-dillane-in-the-lives-of-others-in-london-im-visier-der-stasi-a-795cadf3-8a31-445f-877a-4c28f4c7c46b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T07:02:00+00:00"
+    },
+    {
+      "titel": "Berlin: Bis zu 120 Personen randalieren im Märkischen Viertel",
+      "link": "https://www.spiegel.de/panorama/berlin-bis-zu-120-personen-randalieren-im-maerkischen-viertel-a-9fec67c0-c73d-4c02-b78b-ef6dc1acc4c3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T06:53:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX dürfte mit Gewinnen in den November starten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T06:39:47+00:00"
+    },
+    {
+      "titel": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
+      "link": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T06:35:32+00:00"
+    },
+    {
+      "titel": "Miete zu hoch? Mehr als 11.000 Mieter alarmierten über App die Ämter",
+      "link": "https://www.spiegel.de/wirtschaft/miete-zu-hoch-mehr-als-11-000-mieter-alarmierten-ueber-app-die-aemter-a-67825372-0385-436f-952e-6f9e8b5f319d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T06:29:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Linke, Grüne und SPD starten Koalitionsverhandlungen in Berlin",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-koalitionsverhandlungen-linke-gruene-spd-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T06:27:32+00:00"
+    },
+    {
+      "titel": "Was das Rennen bei den Midterms entscheiden könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-demokraten-republikaner-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T06:11:04+00:00"
+    },
+    {
+      "titel": "Rente: Dachdeckermeister und Handwerkspräsident Jörg Dittrich fordert höhere Abschläge bei vorzeitigem Renteneintritt",
+      "link": "https://www.spiegel.de/wirtschaft/rente-dachdeckermeister-und-handwerkspraesident-joerg-dittrich-fordert-hoehere-abschlaege-bei-vorzeitigem-renteneintritt-a-bd94a320-1287-422d-a372-d4dc0d4f0a8d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T06:03:00+00:00"
+    },
+    {
+      "titel": "11KM-Podcast: Verliert Trump bei den Midterms die Stimmen der Farmer?",
+      "link": "https://www.tagesschau.de/podcast-11km-3998.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T06:01:30+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Warnung vor Spähsoftware auf Politiker-Handys",
+      "link": "https://www.sueddeutsche.de/politik/hacker-angriff-spyware-bundestagsabgeordnete-apple-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T05:50:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz wird von CDU-Kreisvorsitzenden scharf für schwache Führungsrolle kritisiert",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wird-von-cdu-kreisvorsitzenden-scharf-fuer-schwache-fuehrungsrolle-kritisiert-a-ea3956a8-7e19-45f6-9868-fa7326668e24#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T05:48:00+00:00"
+    },
+    {
+      "titel": "Werden Bücher zur nächsten Aufgabe auf unserer To-do-Liste?",
+      "link": "https://www.spiegel.de/kultur/literatur/haben-lesende-frauen-in-der-sauna-mich-dazu-gebracht-meine-innere-rory-gilmore-zu-channeln-a-1dc7f3c1-587e-4752-8d61-de6ab5e8c348#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T05:17:00+00:00"
+    },
+    {
+      "titel": "Hypersonica: Deutsches Raketen-Start-up sammelt 100 Millionen Euro ein",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/hypersonica-deutsches-raketen-start-up-sammelt-100-millionen-euro-ein-a-3bdb110d-d57a-4b75-b208-c416a1c239e2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T05:16:00+00:00"
+    },
+    {
+      "titel": "Formel 1: Kimi Antonelli wird jüngster Formel-1-Weltmeister - So schnell so gut war noch keiner",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-wird-juengster-formel-1-weltmeister-so-schnell-so-gut-war-noch-keiner-a-87bc657c-a401-4796-adcf-ffeeb22a5789#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T05:14:00+00:00"
+    },
+    {
+      "titel": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T04:42:48+00:00"
+    },
+    {
+      "titel": "Kritik an Ammoniak-Importen: Die EU, Russland und die Sprengstoffindustrie",
+      "link": "https://www.tagesschau.de/investigativ/swr/ammoniak-eu-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T04:33:51+00:00"
+    },
+    {
+      "titel": "Tokio Hotel in Hamburg: Feuer, Bums und Dampf",
+      "link": "https://www.sueddeutsche.de/kultur/tokio-hotel-hamburg-konzert-tour-kritik-li.3566355",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T04:20:58+00:00"
+    },
+    {
+      "titel": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T04:19:28+00:00"
+    },
+    {
+      "titel": "Fall Imgart im AfD-Leak: Trotz Rassismus-Vorwürfen Verfassungsrichter",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/afd-verfassungsrichter-bayern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T04:00:15+00:00"
+    },
+    {
+      "titel": "USA: Demokratin Stevens unterstützt Republikaner Rogers",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-michigan-midterms-demokraten-republikaner-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T03:50:58+00:00"
     },
     {
       "titel": "Formel 1: Kimi Antonelli ist Weltmeister – der jüngste der Geschichte",
@@ -31,82 +145,10 @@
       "veroeffentlicht": "2026-11-01T23:10:54+00:00"
     },
     {
-      "titel": "Formel 1: Kimi Antonelli ist jüngster Weltmeister der Geschichte",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-ist-juengster-weltmeister-der-geschichte-a-b78e9346-c766-4f1b-b503-93a81618588a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T22:25:00+00:00"
-    },
-    {
-      "titel": "Blutspenden: DRK warnt vor kritischem Mangel an Blutkonserven",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/blutspenden-drk-warnt-vor-kritischem-mangel-an-blutkonserven-a-3cb821b5-ec81-49ac-9f2f-50f381194345#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T21:42:00+00:00"
-    },
-    {
       "titel": "Midterms in den USA: Können die Demokraten wirklich gewinnen?",
       "link": "https://www.sueddeutsche.de/politik/midterms-2026-usa-prognose-umfragen-donald-trump-demokraten-republikaner-li.3566021",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-01T21:13:10+00:00"
-    },
-    {
-      "titel": "Israel: Yair Golan warnt vor neuem Krieg mit Iran unter Netanyahu",
-      "link": "https://www.spiegel.de/ausland/israel-yair-golan-warnt-vor-neuem-krieg-mit-iran-unter-netanyahu-a-4c97e183-0c44-4e8b-88b6-1475f157593b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T20:51:00+00:00"
-    },
-    {
-      "titel": "Donald Trump prahlt neue Angriffsziele in Iran ins Spiel - »Pickaxe Mountain«?",
-      "link": "https://www.spiegel.de/ausland/donald-trump-prahlt-neue-angriffsziele-in-iran-ins-spiel-pickaxe-mountain-a-41a5db5e-7ad1-49b1-8038-e773378f49a1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T20:51:00+00:00"
-    },
-    {
-      "titel": "Ukraine bringt kurz vor Ende der lokalen Waffenruhe fast 200 Zivilisten aus Cherson in Sicherheit",
-      "link": "https://www.spiegel.de/ausland/ukraine-bringt-kurz-vor-ende-der-lokalen-waffenruhe-fast-200-zivilisten-aus-cherson-in-sicherheit-a-324fe676-4168-4ff1-a2f5-7234d6544bd6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T20:39:00+00:00"
-    },
-    {
-      "titel": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
-      "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T20:37:14+00:00"
-    },
-    {
-      "titel": "BSI warnt: Mögliche Spähsoftware auf iPhones von Politikern",
-      "link": "https://www.spiegel.de/politik/deutschland/bsi-warnt-moegliche-spaehsoftware-auf-iphones-von-politikern-a-8b9e2ad3-485c-489a-b94c-1131753b777b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T20:34:00+00:00"
-    },
-    {
-      "titel": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T20:27:02+00:00"
-    },
-    {
-      "titel": "Alaska: Donald Trump scheitert mit Präventiv-Klage zu Namensvettern Sullivan",
-      "link": "https://www.spiegel.de/ausland/alaska-donald-trump-scheitert-mit-praeventiv-klage-zu-namensvettern-sullivan-a-fbd2c16e-53d3-4d53-857d-8585e7589622#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-01T20:23:00+00:00"
-    },
-    {
-      "titel": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T19:59:02+00:00"
-    },
-    {
-      "titel": "USA: Gericht weist Trump-Klage zu Wahl in Alaska ab",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-trump-klage-li.3568285",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T19:46:28+00:00"
-    },
-    {
-      "titel": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
-      "link": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T19:42:19+00:00"
     },
     {
       "titel": "Proteste der Generation Z: „Gewalt war und ist niemals Teil unserer Bewegung“",
@@ -121,52 +163,10 @@
       "veroeffentlicht": "2026-11-01T17:59:29+00:00"
     },
     {
-      "titel": "FAQ: Was die neue Gebühr auf Sendungen aus Nicht-EU-Ländern bedeutet",
-      "link": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T16:43:44+00:00"
-    },
-    {
-      "titel": "Iran-Krieg: Golfstaaten bereiten sich auf neue Eskalation vor",
-      "link": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T16:24:24+00:00"
-    },
-    {
-      "titel": "Warum sich junge Paare gegen Kinder entscheiden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kinderlos-elternschaft-millennials-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T14:51:00+00:00"
-    },
-    {
-      "titel": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-01T14:46:12+00:00"
-    },
-    {
-      "titel": "Gen Z-Proteste: Ohne Barrikaden für Gerechtigkeit",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-protest-gen-z-kommentar-li.3572359",
+      "titel": "Literatur: „Werd du erst mal hundert!“",
+      "link": "https://www.sueddeutsche.de/kultur/eva-sichelschmidt-schoen-dass-du-da-warst-grossmutter-roman-literatur-kritik-li.3567519",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T14:28:30+00:00"
-    },
-    {
-      "titel": "Fernsehen: Die Königin",
-      "link": "https://www.sueddeutsche.de/medien/regina-ziegler-produzentin-berlin-gestorben-fitzek-nachruf-fernsehen-tod-li.3358972",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T14:18:27+00:00"
-    },
-    {
-      "titel": "Eishockey-WM: Die Bundesregierung steckt in Putins Eishockey-Falle",
-      "link": "https://www.sueddeutsche.de/sport/eishockey-wm-russland-putin-deutschland-li.3572336",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T13:08:41+00:00"
-    },
-    {
-      "titel": "Protestkultur: Die Stadt ist tot. Es lebe die Stadt",
-      "link": "https://www.sueddeutsche.de/kultur/pressspan-luxuslaeden-innenstadt-demonstrationen-gen-z-li.3572173",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-01T13:02:30+00:00"
+      "veroeffentlicht": "2026-11-01T15:01:34+00:00"
     }
   ]
 }
