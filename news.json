@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-03T00:03:03+00:00",
+  "aktualisiert": "2026-11-03T06:51:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,58 +7,118 @@
   },
   "meldungen": [
     {
-      "titel": "Apple: iPhone-Geschäft treibt Umsatz auf Rekordniveau",
-      "link": "https://www.spiegel.de/wirtschaft/apple-iphone-geschaeft-treibt-umsatz-auf-rekordniveau-a-5709dfd3-fc74-4efb-a4b0-75c9e7929db7#ref=rss",
+      "titel": "Nordkorea testet Streusprengkopf für Marschflugkörper",
+      "link": "https://www.spiegel.de/ausland/nordkorea-testet-streusprengkopf-fuer-marschflugkoerper-a-8b5e48d6-d087-4ee0-9dcb-d5b44406fbd6#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T23:53:00+00:00"
+      "veroeffentlicht": "2026-11-03T06:42:00+00:00"
     },
     {
-      "titel": "Afghanistan: Paris plant Rückführungen, USA prüfen Abschiebung auf Umwegen",
-      "link": "https://www.spiegel.de/ausland/afghanistan-paris-plant-rueckfuehrungen-usa-pruefen-abschiebung-auf-umwegen-a-3904824b-52ab-4ce2-8dce-c7e73069667f#ref=rss",
+      "titel": "Lufthansa: Trotz teurem Kerosin steigert Airline ihren Gewinn",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-trotz-teurem-kerosin-steigert-airline-ihren-gewinn-a-519f8f71-0ced-4b17-b5ed-0bfa93419227#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T23:50:00+00:00"
+      "veroeffentlicht": "2026-11-03T06:37:00+00:00"
     },
     {
-      "titel": "Podcast »Im Verhör«: Korrupte Justiz (2): Der letzte Bluff des V-Manns - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-korrupte-justiz-2-der-letzte-bluff-des-v-manns-spiegel-tv-a-c263c236-d154-4892-9e45-4c36b0bda645#ref=rss",
+      "titel": "Carolin Kebekus schwindelt ihr Kind an",
+      "link": "https://www.spiegel.de/panorama/leute/carolin-kebekus-schwindelt-ihr-kind-an-a-62e9fd32-b2d2-450d-978f-56ca4512f1bb#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T22:38:00+00:00"
-    },
-    {
-      "titel": "Deep Purple müssen gesamte Europa-Tour verschieben",
-      "link": "https://www.spiegel.de/panorama/leute/deep-purple-muessen-gesamte-europa-tour-verschieben-a-403be18d-6f38-401d-b4cc-ea6f06fdd8b2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T22:23:00+00:00"
-    },
-    {
-      "titel": "Midterms in den USA: Donald Trump widmet letzte Wahlkampfrede dem Reflecting Pool",
-      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-widmet-letzte-wahlkampfrede-dem-reflecting-pool-a-2e08f736-be17-4fea-a3c0-03eb3b210c54#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T22:21:00+00:00"
+      "veroeffentlicht": "2026-11-03T06:29:00+00:00"
     },
     {
       "titel": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
       "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T21:21:05+00:00"
+      "veroeffentlicht": "2026-11-03T06:26:47+00:00"
     },
     {
-      "titel": "Friedrich Merz bei CDU-Kreisvorsitzenden: 120 Minuten Basis streicheln",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-cdu-kreisvorsitzenden-120-minuten-basis-streicheln-a-cf2d9f37-504e-4566-91ac-6c2ade5755e6#ref=rss",
+      "titel": "Deutschland: Große Mehrheit zeigt Verständnis für »Gen Z regelt«-Jugendproteste",
+      "link": "https://www.spiegel.de/politik/deutschland/deutschland-grosse-mehrheit-zeigt-verstaendnis-fuer-gen-z-regelt-jugendproteste-a-ecc21116-0a2d-49e9-be1e-d6f3a51687dd#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T21:02:00+00:00"
+      "veroeffentlicht": "2026-11-03T06:22:00+00:00"
+    },
+    {
+      "titel": "Warum Tschechiens Rundfunk heute streikt",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-streik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-03T06:19:48+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX fällt vor US-Midterms wohl zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-03T06:19:00+00:00"
+    },
+    {
+      "titel": "Toledo: Was das Zugunglück in Spanien mit Stuttgart 21 verbindet",
+      "link": "https://www.spiegel.de/mobilitaet/bus-bahn/toledo-was-das-zugunglueck-in-spanien-mit-stuttgart-21-verbindet-a-b4e6b05c-cae8-4690-a4bc-742c44d25aaf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T06:17:00+00:00"
+    },
+    {
+      "titel": "USA: Kind in New York stirbt nach Masernausbruch",
+      "link": "https://www.spiegel.de/ausland/usa-kind-in-new-york-stirbt-nach-masernausbruch-a-e8b237df-cf91-4dc6-aab1-e97a2508505c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T06:03:00+00:00"
+    },
+    {
+      "titel": "Siemens: „Unsere KI wird die Welt definitiv nicht zerstören“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/siemens-judith-wiese-cheftitel-kuenstliche-intelligenz-interview-li.3569492",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-03T06:00:59+00:00"
+    },
+    {
+      "titel": "Wiedergutmachungs-Einbürgerung: Immer mehr Israelis wollen Deutsche werden",
+      "link": "https://www.spiegel.de/politik/deutschland/wiedergutmachungs-einbuergerung-immer-mehr-israelis-wollen-deutsche-werden-a-c2e54b47-dd6b-4518-950a-12807cf3da2c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T05:57:00+00:00"
+    },
+    {
+      "titel": "Snapchat-Konzern wendet durch Vergleich Prozess in den USA ab",
+      "link": "https://www.spiegel.de/netzwelt/snapchat-konzern-wendet-durch-vergleich-prozess-in-den-usa-ab-a-2dfbac91-1d29-4b33-86cc-e4e3e2423b8e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T05:51:00+00:00"
+    },
+    {
+      "titel": "Neustadt-Glewe: Weiteres Kind verletzt sich an präparierter Halloween-Süßigkeit",
+      "link": "https://www.spiegel.de/panorama/justiz/neustadt-glewe-weiteres-kind-verletzt-sich-an-praeparierter-halloween-suessigkeit-a-0122e3b0-7191-4a04-b333-1d7904a3ff36#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T05:47:00+00:00"
+    },
+    {
+      "titel": "USA greifen offenbar iranische Ziele in Straße von Hormus an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-03T05:33:48+00:00"
+    },
+    {
+      "titel": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
+      "link": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-03T03:55:28+00:00"
+    },
+    {
+      "titel": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-03T02:25:42+00:00"
+    },
+    {
+      "titel": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-03T00:44:25+00:00"
+    },
+    {
+      "titel": "USA: Wahlstreit in Kalifornien: Trump scheitert vor Supreme Court",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-wahl-kalifornien-trump-klage-abgeschmettert-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-03T00:34:42+00:00"
     },
     {
       "titel": "Jüdische Akademie in Frankfurt eröffnet",
       "link": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-02T20:37:43+00:00"
-    },
-    {
-      "titel": "Norbert Röttgen widerspricht Alexander Dobrindt bei »Chaoten aus migrantischem Milieu«",
-      "link": "https://www.spiegel.de/politik/norbert-roettgen-widerspricht-alexander-dobrindt-bei-chaoten-aus-migrantischem-milieu-a-1db48d48-0a58-4633-b51f-98f3c3fd9aa2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T20:27:00+00:00"
     },
     {
       "titel": "Nach langem Zögern: Merz legt sich fest: Staatsoberhaupt soll eine Frau werden",
@@ -73,52 +133,16 @@
       "veroeffentlicht": "2026-11-02T20:15:15+00:00"
     },
     {
-      "titel": "Ungarn: Flugzeug muss wegen Bombendrohung in Budapest notlanden",
-      "link": "https://www.spiegel.de/ausland/ungarn-flugzeug-muss-wegen-bombendrohung-in-budapest-notlanden-a-c17974e2-af3e-419e-a630-e8f4cde67c21#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T20:13:00+00:00"
-    },
-    {
       "titel": "FC Bayern vor Atlético Madrid: Kanes Vertragsverlängerung „hoffentlich in den nächsten Tagen“",
       "link": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-atletico-madrid-harry-kane-serge-gnabry-michael-olise-manuel-neuer-li.3573334",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-02T20:06:22+00:00"
     },
     {
-      "titel": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
-      "link": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T20:00:49+00:00"
-    },
-    {
-      "titel": "US-Midterms: Warum Donald Trump in Ohio die Gen Z verliert",
-      "link": "https://www.spiegel.de/ausland/us-midterms-warum-donald-trump-in-ohio-die-gen-z-verliert-a-8ed713aa-5397-4382-88c7-60bbe0bf482c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T19:57:00+00:00"
-    },
-    {
       "titel": "Bundespräsidentenwahl: Vier Frauen für ein Bellevue",
       "link": "https://www.sueddeutsche.de/politik/bundespraesident-frau-merz-kloeckner-aigner-prien-claus-li.3570324",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-02T19:53:14+00:00"
-    },
-    {
-      "titel": "USA: Wahlstreit in Kalifornien: Trump schaltet Supreme Court ein",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-wahl-kalifornien-trump-klage-li.3568285",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T18:56:05+00:00"
-    },
-    {
-      "titel": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-      "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T18:33:00+00:00"
-    },
-    {
-      "titel": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
-      "link": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T18:30:17+00:00"
     },
     {
       "titel": "Newsblog zu KI: Anthropic mit Milliarden-Verlusten vor Börsengang",
@@ -133,25 +157,7 @@
       "veroeffentlicht": "2026-11-02T17:43:26+00:00"
     },
     {
-      "titel": "Marktbericht: DAX legt zu - Anleger bleiben vorsichtig",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T17:32:24+00:00"
-    },
-    {
-      "titel": "Handel mit Merchandise: Nicht mehr viel los im Trump-Shop",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-stores-fanshop-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T17:24:23+00:00"
-    },
-    {
-      "titel": "Koalitionsverhandlungen in Berlin: Das Rumoren in der SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T17:22:00+00:00"
-    },
-    {
-      "titel": "„Horrorhaus von Soest“: „Ich hab‘ übertrieben“",
+      "titel": "„Horrorhaus von Soest“: „Ich hab’ übertrieben“",
       "link": "https://www.sueddeutsche.de/panorama/horrorhaus-von-soest-prozess-landgericht-arnsberg-li.3571226",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-02T16:54:37+00:00"
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-podcast-bvb-atletico-karl-li.3573202",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-02T16:09:38+00:00"
-    },
-    {
-      "titel": "Gastspiel aus Iran: Eine Bühnensensation auf Durchreise",
-      "link": "https://www.sueddeutsche.de/kultur/shieveh-theater-company-teheran-the-shadows-iran-berlin-li.3571930",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T16:02:31+00:00"
     }
   ]
 }
