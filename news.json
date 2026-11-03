@@ -1,11 +1,143 @@
 {
-  "aktualisiert": "2026-11-02T17:27:08+00:00",
+  "aktualisiert": "2026-11-03T00:03:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Apple: iPhone-Geschäft treibt Umsatz auf Rekordniveau",
+      "link": "https://www.spiegel.de/wirtschaft/apple-iphone-geschaeft-treibt-umsatz-auf-rekordniveau-a-5709dfd3-fc74-4efb-a4b0-75c9e7929db7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T23:53:00+00:00"
+    },
+    {
+      "titel": "Afghanistan: Paris plant Rückführungen, USA prüfen Abschiebung auf Umwegen",
+      "link": "https://www.spiegel.de/ausland/afghanistan-paris-plant-rueckfuehrungen-usa-pruefen-abschiebung-auf-umwegen-a-3904824b-52ab-4ce2-8dce-c7e73069667f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T23:50:00+00:00"
+    },
+    {
+      "titel": "Podcast »Im Verhör«: Korrupte Justiz (2): Der letzte Bluff des V-Manns - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-korrupte-justiz-2-der-letzte-bluff-des-v-manns-spiegel-tv-a-c263c236-d154-4892-9e45-4c36b0bda645#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T22:38:00+00:00"
+    },
+    {
+      "titel": "Deep Purple müssen gesamte Europa-Tour verschieben",
+      "link": "https://www.spiegel.de/panorama/leute/deep-purple-muessen-gesamte-europa-tour-verschieben-a-403be18d-6f38-401d-b4cc-ea6f06fdd8b2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T22:23:00+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Donald Trump widmet letzte Wahlkampfrede dem Reflecting Pool",
+      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-widmet-letzte-wahlkampfrede-dem-reflecting-pool-a-2e08f736-be17-4fea-a3c0-03eb3b210c54#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T22:21:00+00:00"
+    },
+    {
+      "titel": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T21:21:05+00:00"
+    },
+    {
+      "titel": "Friedrich Merz bei CDU-Kreisvorsitzenden: 120 Minuten Basis streicheln",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-cdu-kreisvorsitzenden-120-minuten-basis-streicheln-a-cf2d9f37-504e-4566-91ac-6c2ade5755e6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T21:02:00+00:00"
+    },
+    {
+      "titel": "Jüdische Akademie in Frankfurt eröffnet",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T20:37:43+00:00"
+    },
+    {
+      "titel": "Norbert Röttgen widerspricht Alexander Dobrindt bei »Chaoten aus migrantischem Milieu«",
+      "link": "https://www.spiegel.de/politik/norbert-roettgen-widerspricht-alexander-dobrindt-bei-chaoten-aus-migrantischem-milieu-a-1db48d48-0a58-4633-b51f-98f3c3fd9aa2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T20:27:00+00:00"
+    },
+    {
+      "titel": "Nach langem Zögern: Merz legt sich fest: Staatsoberhaupt soll eine Frau werden",
+      "link": "https://www.sueddeutsche.de/politik/bundespraesidentin-friedrich-merz-cdu-li.3573323",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T20:21:17+00:00"
+    },
+    {
+      "titel": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T20:15:15+00:00"
+    },
+    {
+      "titel": "Ungarn: Flugzeug muss wegen Bombendrohung in Budapest notlanden",
+      "link": "https://www.spiegel.de/ausland/ungarn-flugzeug-muss-wegen-bombendrohung-in-budapest-notlanden-a-c17974e2-af3e-419e-a630-e8f4cde67c21#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T20:13:00+00:00"
+    },
+    {
+      "titel": "FC Bayern vor Atlético Madrid: Kanes Vertragsverlängerung „hoffentlich in den nächsten Tagen“",
+      "link": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-atletico-madrid-harry-kane-serge-gnabry-michael-olise-manuel-neuer-li.3573334",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T20:06:22+00:00"
+    },
+    {
+      "titel": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
+      "link": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T20:00:49+00:00"
+    },
+    {
+      "titel": "US-Midterms: Warum Donald Trump in Ohio die Gen Z verliert",
+      "link": "https://www.spiegel.de/ausland/us-midterms-warum-donald-trump-in-ohio-die-gen-z-verliert-a-8ed713aa-5397-4382-88c7-60bbe0bf482c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-02T19:57:00+00:00"
+    },
+    {
+      "titel": "Bundespräsidentenwahl: Vier Frauen für ein Bellevue",
+      "link": "https://www.sueddeutsche.de/politik/bundespraesident-frau-merz-kloeckner-aigner-prien-claus-li.3570324",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T19:53:14+00:00"
+    },
+    {
+      "titel": "USA: Wahlstreit in Kalifornien: Trump schaltet Supreme Court ein",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-wahl-kalifornien-trump-klage-li.3568285",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T18:56:05+00:00"
+    },
+    {
+      "titel": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
+      "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T18:33:00+00:00"
+    },
+    {
+      "titel": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
+      "link": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T18:30:17+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Anthropic mit Milliarden-Verlusten vor Börsengang",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-anthropic-boersengang-verlust-milliarden-li.3566658",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T18:12:23+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Steinmeier-Nachfolge: Merz spricht sich für Frau aus",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-merz-bundespraesident-steinmeier-nachfolge-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T17:43:26+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX legt zu - Anleger bleiben vorsichtig",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-02T17:32:24+00:00"
+    },
     {
       "titel": "Handel mit Merchandise: Nicht mehr viel los im Trump-Shop",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-stores-fanshop-100.html",
@@ -19,70 +151,10 @@
       "veroeffentlicht": "2026-11-02T17:22:00+00:00"
     },
     {
-      "titel": "Netflix, Amazon Prime, Disney+: Serien und Filme im November 2026 – was sich jetzt lohnt",
-      "link": "https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-serien-und-filme-im-november-2026-was-sich-jetzt-lohnt-a-118490d8-1142-4c29-b784-cdf87a0ef847#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T17:12:00+00:00"
-    },
-    {
-      "titel": "Transrechte in den USA: Stellen sich nun auch die Demokraten gegen trans Menschen?",
-      "link": "https://www.spiegel.de/ausland/transrechte-in-den-usa-stellen-sich-nun-auch-die-demokraten-gegen-trans-menschen-a-ce8c0917-8cb4-43ca-a924-a2f5807c0945#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T17:11:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Krawalle nach Demos, Friedrich Merz trifft CDU-Kreisvorsitzende, Karl Bushby kehrt heim",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-krawalle-nach-demos-friedrich-merz-trifft-cdu-kreisvorsitzende-karl-bushby-kehrt-heim-a-affce684-7593-467d-9638-01f30456812e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T17:10:00+00:00"
-    },
-    {
-      "titel": "Ministerin Reiche legt ersten Entwurf für Spritpreisdeckel-Gesetz vor",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T17:05:39+00:00"
-    },
-    {
-      "titel": "USA drängen auf Gaslieferungen von Russland an Europa",
-      "link": "https://www.spiegel.de/wirtschaft/usa-draengen-auf-gaslieferungen-von-russland-an-europa-a-5cdca753-2a11-4099-9dec-9e854489a772#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T17:05:00+00:00"
-    },
-    {
-      "titel": "Potsdam: Staatsanwaltschaft wirft Kinderarzt Missbrauch und Vergewaltigung vor",
-      "link": "https://www.spiegel.de/panorama/justiz/potsdam-staatsanwaltschaft-wirft-kinderarzt-missbrauch-und-vergewaltigung-vor-a-9c3cf9a7-b333-4d1d-a80d-f4730204df01#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T16:44:00+00:00"
-    },
-    {
-      "titel": "Hubig legt Gesetzentwurf zur Verschärfung des Sexualstrafrechts vor",
-      "link": "https://www.tagesschau.de/inland/hubig-sexualstrafrecht-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T16:36:39+00:00"
-    },
-    {
-      "titel": "Midterms: Warum selbst Republikaner in Texas glauben, dass ihre Partei verliert",
-      "link": "https://www.spiegel.de/ausland/midterms-warum-selbst-republikaner-in-texas-glauben-dass-ihre-partei-verliert-a-eff3ee5c-e7b1-4a40-b7c6-d1b80c110a7b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T16:24:00+00:00"
-    },
-    {
-      "titel": "Nadeln und Nägel in Halloween-Süßigkeiten entdeckt",
-      "link": "https://www.tagesschau.de/inland/nadeln-suessigkeiten-halloween-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T16:21:56+00:00"
-    },
-    {
-      "titel": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T16:10:17+00:00"
-    },
-    {
-      "titel": "Landgericht Potsdam: Kinderarzt gesteht Taten in Missbrauchsprozess",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/prozess-kinderarzt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T16:09:45+00:00"
+      "titel": "„Horrorhaus von Soest“: „Ich hab‘ übertrieben“",
+      "link": "https://www.sueddeutsche.de/panorama/horrorhaus-von-soest-prozess-landgericht-arnsberg-li.3571226",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-02T16:54:37+00:00"
     },
     {
       "titel": "Podcast „Und nun zum Sport“: Der FC Bayern im Herbst – zwischen Ballon d’Or und ständigen Rückschlägen",
@@ -91,82 +163,10 @@
       "veroeffentlicht": "2026-11-02T16:09:38+00:00"
     },
     {
-      "titel": "Dustin Hoffman musste Ohrfeigenszene 27-mal drehen. Dann war sie nicht mal im Film zu sehen",
-      "link": "https://www.spiegel.de/kultur/kino/dustin-hoffman-musste-ohrfeigen-szene-27-mal-drehen-dann-war-sie-nicht-mal-im-film-zu-sehen-a-80ba62c5-a20a-49fd-8834-dfe400a74eea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T15:57:00+00:00"
-    },
-    {
-      "titel": "Halloween: Kinder finden in mehreren Bundesländern Nägel in Süßigkeiten",
-      "link": "https://www.spiegel.de/panorama/justiz/halloween-kinder-finden-in-mehreren-bundeslaendern-naegel-in-suessigkeiten-a-36680966-925e-435d-b264-e5932b3d6e59#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T15:52:00+00:00"
-    },
-    {
-      "titel": "ARD-Film »Benko - Size does matter«: Mein Freund, die Gier",
-      "link": "https://www.spiegel.de/kultur/tv/ard-film-benko-size-does-matter-mein-freund-die-gier-a-44bd31a7-9160-4791-8296-fc4dd497c8be#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-02T15:45:00+00:00"
-    },
-    {
-      "titel": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-      "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T15:43:03+00:00"
-    },
-    {
-      "titel": "Berlin: Warum sich Boris Pistorius gegen Rot-Grün-Rot stellt",
-      "link": "https://www.sueddeutsche.de/politik/boris-pistorius-spd-rot-gruen-rot-berlin-koalitionsverhandlungen-li.3572758",
+      "titel": "Gastspiel aus Iran: Eine Bühnensensation auf Durchreise",
+      "link": "https://www.sueddeutsche.de/kultur/shieveh-theater-company-teheran-the-shadows-iran-berlin-li.3571930",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T15:23:00+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Gen-Z-Proteste: Wer in Frankfurt randaliert hat",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-genz-demo-li.3572938",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T15:15:18+00:00"
-    },
-    {
-      "titel": "Afghanistans Kindern droht ein tödlicher Winter",
-      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-haumanitare-lage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-02T15:07:44+00:00"
-    },
-    {
-      "titel": "Flughafen Nürnberg: Morgens London, abends Lebkuchen",
-      "link": "https://www.sueddeutsche.de/bayern/flughafen-nuernberg-easyjet-grossbritannien-christkindlesmarkt-li.3572753",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T15:01:16+00:00"
-    },
-    {
-      "titel": "Biodiversität: Wenn Russland Nein zum Artenschutz sagt",
-      "link": "https://www.sueddeutsche.de/wissen/artenschutzkonferenz-armenien-biodiversitaet-cop17-artensterben-li.3572949",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T14:59:42+00:00"
-    },
-    {
-      "titel": "Fußball-Weltverband: Fifa soll vier Millionen Dollar Steuern für Infantino übernommen haben",
-      "link": "https://www.sueddeutsche.de/sport/fifa-gianni-infantino-steuern-millionen-li.3573028",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T14:47:20+00:00"
-    },
-    {
-      "titel": "Nürnberg: Jugendliche unter Drogen vergewaltigt? Prozess beginnt",
-      "link": "https://www.sueddeutsche.de/bayern/nuernberg-hauptbahnhof-prozess-jugendliche-drogen-li.3573164",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T14:37:33+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Linke will erneut über Vanessa Emde diskutieren",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-vanessa-emde-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T14:25:00+00:00"
-    },
-    {
-      "titel": "Polizei ermittelt: Nadeln in Halloween-Süßigkeiten – was Eltern jetzt wissen sollten",
-      "link": "https://www.sueddeutsche.de/panorama/halloween-suessigkeiten-nadeln-schrauben-kriminalitaet-polizei-li.3573147",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-02T14:21:54+00:00"
+      "veroeffentlicht": "2026-11-02T16:02:31+00:00"
     }
   ]
 }
