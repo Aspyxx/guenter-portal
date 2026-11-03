@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-03T11:06:03+00:00",
+  "aktualisiert": "2026-11-03T18:29:39+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "\"Entscheidende Wahl für Entwicklung der US-Demokratie\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-102.html",
+      "titel": "Warum Supermärkte von Cyberangriffen kalt erwischt werden",
+      "link": "https://www.tagesschau.de/wissen/kuehlsysteme-schutz-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Wie Trumps Kurs die Bundesregierung herausfordert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html",
+      "titel": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🌍"
     },
     {
       "rang": 3,
-      "titel": "Neun Orang-Utans nach Waldbränden in Indonesien gerettet",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-orang-utans-brand-100.html",
+      "titel": "Als die Werbung ins Fernsehen kam",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/70-jahre-werbefernsehen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
