@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-03T21:03:30+00:00",
+  "aktualisiert": "2026-11-04T01:24:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,76 @@
   },
   "meldungen": [
     {
-      "titel": "Liveblog zu den Midterms: ++ US-Justizministerium schickt Wahlbeobachter in alle Bundesstaaten ++",
+      "titel": "Midterms 2026: Erste Teilergebnisse treffen ein – Demokrat Ossoff gewinnt in Georgia",
+      "link": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-ergebnisse-florida-li.3573278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T01:10:16+00:00"
+    },
+    {
+      "titel": "Liveblog zu den Midterms: ++ Erste Wahlen beendet ++ Auszählung beginnt ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-03T20:59:34+00:00"
+      "veroeffentlicht": "2026-11-04T01:02:55+00:00"
+    },
+    {
+      "titel": "Midterms 2026 in den USA: Erste Wahllokale schließen – und die ersten Ergebnisse stehen fest",
+      "link": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T01:00:00+00:00"
+    },
+    {
+      "titel": "Mutter getötet und Tochter vermisst – Behörden vermuten Bärenangriff",
+      "link": "https://www.spiegel.de/panorama/mutter-getoetet-und-tochter-vermisst-behoerden-vermuten-baerenangriff-a-4da0b01b-3bb5-47ac-9016-19f574525d44#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T00:47:00+00:00"
+    },
+    {
+      "titel": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-04T00:39:30+00:00"
+    },
+    {
+      "titel": "Toni Kroos reagiert auf Jude Bellingham in knapper Unterwäsche",
+      "link": "https://www.spiegel.de/panorama/toni-kroos-reagiert-auf-jude-bellingham-in-knapper-unterwaesche-a-5bdae0eb-7c0c-41c8-a99e-fd0590db3eb8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T23:58:00+00:00"
+    },
+    {
+      "titel": "Formel 1: Haas trennt sich von Esteban Ocon, Brasilianer rückt nach",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-esteban-ocon-brasilianer-rueckt-nach-a-36634990-ca32-4da3-891b-4c0a4681f313#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T23:49:00+00:00"
+    },
+    {
+      "titel": "Champions League: PSG stellt Torrekord auf, Yann Bisseck trifft für Inter Mailand",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-psg-stellt-torrekord-auf-yann-bisseck-trifft-fuer-inter-mailand-a-e92487f4-38e1-443b-94f1-23bc887537f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T22:48:00+00:00"
+    },
+    {
+      "titel": "Champions League: FC Bayern München schlägt Atlético Madrid locker",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-schlaegt-atletico-madrid-locker-a-b19a95ac-d668-48b1-b353-b53b19f0b8dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T22:47:00+00:00"
+    },
+    {
+      "titel": "Bayern in der Einzelkritik: Upamecano, der Rabaukenbezwinger",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-atletico-einzelkritik-champions-league-li.3573904",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-03T22:27:01+00:00"
+    },
+    {
+      "titel": "FC Bayern siegt bei Atlético: Gen Z regelt",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-atletico-champions-league-karl-li.3573915",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-03T22:14:56+00:00"
+    },
+    {
+      "titel": "Kaiserslautern: Ein toter und ein verletzter Jäger nach Treibjagd",
+      "link": "https://www.spiegel.de/panorama/kaiserslautern-ein-toter-und-ein-verletzter-jaeger-nach-treibjagd-a-e7aa89fc-a90e-4a83-86a2-170d23341fd2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-03T21:57:00+00:00"
     },
     {
       "titel": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
@@ -31,36 +97,6 @@
       "veroeffentlicht": "2026-11-03T20:49:00+00:00"
     },
     {
-      "titel": "Midterms 2026: Panne bei Wahlmaschinen, 23 Wahllokale kurzfristig verlegt",
-      "link": "https://www.sueddeutsche.de/politik/usa-midterms-2026-news-liveblog-umfragen-republikaner-demokraten-panne-new-york-florida-li.3573278",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-03T20:40:50+00:00"
-    },
-    {
-      "titel": "Spanien: Verkehrsminister Óscar Puente kündigt nach tödlichem Zugunglücken Rücktritt an",
-      "link": "https://www.spiegel.de/ausland/spanien-verkehrsminister-oscar-puente-kuendigt-nach-toedlichem-zugungluecken-ruecktritt-an-a-94e07b2a-3563-4419-aebd-67a4385091bc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-03T20:37:00+00:00"
-    },
-    {
-      "titel": "Berlin: SPD und Grüne lassen CDU nach Sondierungsangebot abblitzen",
-      "link": "https://www.spiegel.de/politik/berlin-spd-und-gruene-lassen-cdu-nach-sondierungsangebot-abblitzen-a-ad76aa7d-7e7e-4fe5-a1fc-89c65ce35e63#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-03T20:26:00+00:00"
-    },
-    {
-      "titel": "2. Bundesliga: Frank Schmidt verlässt Heidenheim zum Saisonende",
-      "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-frank-schmidt-verlaesst-heidenheim-zum-saisonende-a-7e66281b-bca0-4d6d-9dc8-c0e65fc85f4e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-03T20:15:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Selenskyjs Ex-Sprecherin Julija Mendel wegen Hochverrats angeklagt",
-      "link": "https://www.spiegel.de/ausland/ukraine-selenskyjs-ex-sprecherin-julija-mendel-wegen-hochverrats-angeklagt-a-20fdc0f9-2773-4267-9a4d-d4ddc047cedf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-03T20:04:00+00:00"
-    },
-    {
       "titel": "Autoindustrie: BMW könnte dieses Jahr mit Autos Verlust machen",
       "link": "https://www.sueddeutsche.de/wirtschaft/bmw-autos-gewinnwarnung-abfindung-krise-li.3573626",
       "quelle": "Süddeutsche",
@@ -77,24 +113,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-03T19:52:48+00:00"
-    },
-    {
-      "titel": "Midterms 2026 in den USA: Trump-Unterstützerin Laura Loomer flutete das Internet mit Desinformation",
-      "link": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-03T19:35:00+00:00"
-    },
-    {
-      "titel": "AfD-Leak: Das sind bislang die wichtigsten fünf Erkenntnisse",
-      "link": "https://www.spiegel.de/politik/afd-leak-das-sind-bislang-die-wichtigsten-fuenf-erkenntnisse-a-49c23778-b694-40c1-9e3a-3dd993c51119#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-03T19:18:00+00:00"
-    },
-    {
-      "titel": "Michael Jacksons Tochter fordert 600 Millionen aus dem Nachlass für Geschwister und sich",
-      "link": "https://www.spiegel.de/panorama/michael-jacksons-tochter-fordert-600-millionen-aus-dem-nachlass-fuer-geschwister-und-sich-a-00b5afea-f06c-44ca-a255-a51447d57714#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-03T19:15:00+00:00"
     },
     {
       "titel": "Renten könnten 2027 um 4,1 Prozent steigen",
@@ -127,12 +145,6 @@
       "veroeffentlicht": "2026-11-03T17:32:23+00:00"
     },
     {
-      "titel": "Marktbericht: DAX fällt leicht zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-03T17:10:25+00:00"
-    },
-    {
       "titel": "Besuch in Berlin: Merz und Selenskij fordern Platz für Europa am Verhandlungstisch",
       "link": "https://www.sueddeutsche.de/politik/ukraine-praesident-unterstuetzung-besuch-merz-deutschland-li.3573106",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/digitale-souveraenitaet-bull-schwarz-digits-ki-plattform-cloud-infrastruktur-li.3573312",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-03T15:30:36+00:00"
-    },
-    {
-      "titel": "Glosse: Das Streiflicht",
-      "link": "https://www.sueddeutsche.de/politik/streiflicht-merkel-merz-steinmeier-bundespraesidentin-li.3573340",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-03T15:06:40+00:00"
-    },
-    {
-      "titel": "„Auf den Punkt“: US-Demokraten gehen mit Euphorie in die Midterms",
-      "link": "https://www.sueddeutsche.de/politik/podcast-auf-den-punkt-midterms-usa-wahl-li.3573778",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-03T14:45:57+00:00"
     }
   ]
 }
