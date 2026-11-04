@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-04T16:20:42+00:00",
+  "aktualisiert": "2026-11-04T22:14:11+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Liveblog zu den Midterms: ++ Berichte: Johnson will nicht Fraktionschef bleiben ++",
+      "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T16:16:04+00:00"
+      "veroeffentlicht": "2026-11-04T22:08:00+00:00"
     },
     {
-      "titel": "München: Toter Junge in Hotelzimmer – Polizei ermittelt wegen Gewalttat",
-      "link": "https://www.spiegel.de/panorama/muenchen-toter-junge-in-hotelzimmer-polizei-ermittelt-wegen-gewalttat-a-2008edda-13ec-4ad5-b67d-61f0172e785f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T16:15:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz reist nicht zur Klimakonferenz: Grüne kritisieren Kanzler als »Enttäuschung in Sachen Klimaschutz«",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-reist-nicht-zur-klimakonferenz-gruene-kritisieren-kanzler-als-enttaeuschung-in-sachen-klimaschutz-a-e04d8fa6-5790-4e2a-aea7-800aa4626e5d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T16:11:00+00:00"
-    },
-    {
-      "titel": "US-Midterms 2026: So historisch ist der Triumph der Demokraten",
-      "link": "https://www.spiegel.de/ausland/us-midterms-2026-so-historisch-ist-der-triumph-der-demokraten-a-1e8c8d65-2f59-4e86-b485-16a2d7e01a71#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T16:09:00+00:00"
-    },
-    {
-      "titel": "News des Tages: US-Demokraten, Trumps Niederlage, Janosch ist tot",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T16:05:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Wadephul: Kooperation mit USA nun „vielleicht interessanter“",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-midterms-reaktionen-wadephul-pistorius-prien-gabriel-li.3568524",
+      "titel": "Reaktionen auf den Tod von Hubert Aiwanger: „Wir sind alle zutiefst geschockt“",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-freie-waehler-bayern-reaktionen-li.3574570",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T15:46:00+00:00"
+      "veroeffentlicht": "2026-11-04T22:03:27+00:00"
     },
     {
-      "titel": "Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html",
+      "titel": "Politik: Hubert Aiwanger tot in Berliner Hotel aufgefunden",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tot-bayern-freie-waehler-hotel-berlin-li.3574547",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T21:55:00+00:00"
+    },
+    {
+      "titel": "Donald Trump und sein Ballsaal: Präsident schwärmt trotz Wahldebakel",
+      "link": "https://www.spiegel.de/ausland/donald-trump-und-sein-ballsaal-praesident-schwaermt-trotz-wahldebakel-a-be61c4f1-8389-4a17-84c0-4eb235990a49#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T21:37:00+00:00"
+    },
+    {
+      "titel": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T15:42:29+00:00"
+      "veroeffentlicht": "2026-11-04T21:15:29+00:00"
+    },
+    {
+      "titel": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-04T21:15:24+00:00"
+    },
+    {
+      "titel": "Hubert Aiwanger ist tot",
+      "link": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-a-304e437f-1ace-42a6-847d-bfb92a889119#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T20:38:00+00:00"
+    },
+    {
+      "titel": "Donald Trump nach den Midterms: Der Präsident wirkt müde, die Haare zauselig",
+      "link": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T20:36:00+00:00"
+    },
+    {
+      "titel": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-04T20:24:21+00:00"
+    },
+    {
+      "titel": "»Love Island V.I.P.«: Reality-Star Yasin Mohamed wegen Vergewaltigung verurteilt",
+      "link": "https://www.spiegel.de/panorama/justiz/reality-star-yasin-mohamed-wegen-vergewaltigung-verurteilt-a-7647407d-dba3-43ce-a836-919cf3c108a5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T20:16:00+00:00"
+    },
+    {
+      "titel": "US-Midterms: Wähler wenden sich von Trump ab",
+      "link": "https://www.sueddeutsche.de/politik/us-wahlen-2026-demokraten-donald-trump-us-kongress-li.3574071",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T19:56:00+00:00"
+    },
+    {
+      "titel": "Tödlicher Fußball-Unfall von Jesús de Miguel Alameda: Wie ist die Rechtslage bei Fouls in Deutschland?",
+      "link": "https://www.spiegel.de/panorama/justiz/toedlicher-fussball-unfall-von-jesus-de-miguel-alameda-wie-ist-die-rechtslage-bei-fouls-in-deutschland-a-329b0b7c-1649-40d1-be2f-9db308860bdc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T19:50:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung: Merz beharrt auf Reformen",
+      "link": "https://www.sueddeutsche.de/politik/friedrich-merz-spd-wirtschaftsforum-lars-klingbeil-bundesregierung-berlin-li.3574231",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T19:36:23+00:00"
+    },
+    {
+      "titel": "Deutschland erhöht humanitäre Hilfe für Jemen",
+      "link": "https://www.spiegel.de/politik/deutschland-erhoeht-humanitaere-hilfe-fuer-jemen-a-1e12e0ba-7dff-4afe-b4e7-1c9eb6e65672#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T19:35:00+00:00"
+    },
+    {
+      "titel": "Midterms: »Donald Trump kann jetzt gefährlich werden« – SPIEGEL-Spitzengespräch",
+      "link": "https://www.spiegel.de/politik/deutschland/midterms-donald-trump-kann-jetzt-gefaehrlich-werden-spiegel-spitzengespraech-a-174a2caa-ea45-4e64-b0d3-2e5f7bdaa3bc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T19:32:00+00:00"
+    },
+    {
+      "titel": "Dirigent Herbert Blomstedt ist tot",
+      "link": "https://www.spiegel.de/panorama/dirigent-herbert-blomstedt-ist-tot-a-3d6f9ec9-717f-4d4a-b6dc-67ad84a83d1a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T19:30:00+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. hat Audienz bei Bob Dylan",
+      "link": "https://www.spiegel.de/panorama/papst-leo-xiv-hat-audienz-bei-bob-dylan-a-d24a2bd4-8eb7-4250-88bf-457b41d857f5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T19:15:00+00:00"
+    },
+    {
+      "titel": "Midterms 2026: Trumps erster öffentlicher Auftritt nach Midterms-Niederlage: Lob für seinen Ballsaal",
+      "link": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-oeffentlicher-auftritt-ballsaal-vance-iran-krieg-li.3573278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T18:54:22+00:00"
+    },
+    {
+      "titel": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-04T18:00:44+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Bundespräsidenten-Wahl: Erste CDU-Ministerpräsidenten sprechen sich für Aigner aus",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-bundespraesidentin-wahl-aigner-cdu-csu-merz-midterms-reaktionen-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T17:34:26+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX-Anleger in Kauflaune",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-04T17:31:22+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Ist in Berlin jetzt Optimismus erlaubt?",
+      "link": "https://www.sueddeutsche.de/politik/usa-midterms-2026-auswirkungen-deutschland-merz-bundesregierung-li.3574082",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T17:21:00+00:00"
+    },
+    {
+      "titel": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
+      "link": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-04T16:50:16+00:00"
+    },
+    {
+      "titel": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
+      "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-04T16:49:39+00:00"
+    },
+    {
+      "titel": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-04T16:37:10+00:00"
+    },
+    {
+      "titel": "Kolumne „Schon schön“: Taschengeld für den Champion",
+      "link": "https://www.sueddeutsche.de/leben/formel-1-kimi-antonelli-weltmeister-motorsport-li.3564159",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T15:58:25+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Demokraten gewinnen sogar in Texas – der Anfang von Trumps Ende?",
       "link": "https://www.sueddeutsche.de/politik/podcast-auf-den-punkt-usa-midterms-texas-trump-li.3574153",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-04T15:35:43+00:00"
-    },
-    {
-      "titel": "Verbrenner-Aus: Umweltausschuss im EU-Parlament stimmt für Lockerung",
-      "link": "https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung-a-d9d0cbdd-960d-4e26-8724-57efdd989357#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T15:24:00+00:00"
-    },
-    {
-      "titel": "Midterms 2026 – deutsche Reaktionen: Johann Wadephul hofft auf neue Kongress-Initiativen für Ukrainehilfen",
-      "link": "https://www.spiegel.de/politik/deutschland/midterms-2026-deutsche-reaktionen-johann-wadephul-hofft-auf-neue-kongress-initiativen-fuer-ukrainehilfen-a-aa12a94b-407a-4bbe-bb2a-7dc7dd61c688#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T15:20:00+00:00"
-    },
-    {
-      "titel": "Reaktionen auf Janoschs Tod: Er machte \"Kindern Mut zum Träumen\"",
-      "link": "https://www.tagesschau.de/kultur/janosch-reaktionen-tod-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T15:10:30+00:00"
-    },
-    {
-      "titel": "Miranda Kerr: Model sagte Victoria's Secret ab. Die Antwort fand sie in der Meditation",
-      "link": "https://www.spiegel.de/panorama/miranda-kerr-model-sagte-victorias-secret-ab-die-antwort-fand-sie-in-der-meditation-a-46bf9dd5-9194-445e-809a-cdd6e544b44e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T15:06:00+00:00"
-    },
-    {
-      "titel": "»Swan Song« über Diana: Charles Spencer stellt Biografie in Hamburg vor",
-      "link": "https://www.spiegel.de/kultur/swan-song-ueber-diana-charles-spencer-stellt-biografie-in-hamburg-vor-a-95dd4935-160f-49e4-bc4b-58b6d3e59c8a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T15:06:00+00:00"
-    },
-    {
-      "titel": "Tinto Brass ist tot: Regisseur von Skandalwerk »Caligula« und Erotikfilmen",
-      "link": "https://www.spiegel.de/kultur/kino/tinto-brass-ist-tot-regisseur-von-skandalwerk-caligula-und-erotikfilmen-a-5e1ae18c-7aea-446a-a5b4-bd1ad201e7c8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T15:03:00+00:00"
-    },
-    {
-      "titel": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T14:42:11+00:00"
-    },
-    {
-      "titel": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T14:30:36+00:00"
-    },
-    {
-      "titel": "Nach dem Tod von Jesús de Miguel: „Ich denke an ihn, an die Familie und an alle, die ihn liebten“",
-      "link": "https://www.sueddeutsche.de/sport/spanien-jesus-de-miguel-torwart-unfall-tot-folgen-trauer-li.3574068",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T14:21:02+00:00"
-    },
-    {
-      "titel": "FC Bayern: Ein bisschen FC Hollywood ist zur Abwechslung doch ganz witzig",
-      "link": "https://www.sueddeutsche.de/sport/lennart-karl-jubel-fc-bayern-champions-league-li.3574125",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T14:16:13+00:00"
-    },
-    {
-      "titel": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T14:11:39+00:00"
-    },
-    {
-      "titel": "Bundesverfassungsgericht: Darf die AfD einen Abgeordneten aus der Fraktion werfen?",
-      "link": "https://www.sueddeutsche.de/politik/afd-bundesverfassungsgericht-fraktion-schmidt-li.3573074",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T14:05:06+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Duell bei Ministerpräsidentenwahl in Sachsen-Anhalt möglich",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-eva-von-angern-ministerpraesidentenwahl-ulrich-siegmund-berlin-vanessa-emde-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T14:03:00+00:00"
-    },
-    {
-      "titel": "Streit um Vergesellschaftung: Vonovia-Chef: Linke gefährden den Wohlstand",
-      "link": "https://www.sueddeutsche.de/wirtschaft/vonovia-vergesellschaftung-zahlen-mieten-neubau-li.3574107",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T14:00:34+00:00"
-    },
-    {
-      "titel": "Gewalt nach Gen-Z-Protesten: „Jugendgewalt hört in der Regel von selbst wieder auf“",
-      "link": "https://www.sueddeutsche.de/politik/jugendproteste-gewalt-randalierer-krawall-expertin-interview-li.3574054",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T13:56:08+00:00"
-    },
-    {
-      "titel": "Historisches Lexikon Bayerns: Wie geprüftes Wissen gegen Google und ChatGPT besteht",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-geschichte-wissenschaft-historisches-lexikon-li.3572711",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T13:50:00+00:00"
-    },
-    {
-      "titel": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T13:44:41+00:00"
-    },
-    {
-      "titel": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/rna-forschung-chancen-und-risiken-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T13:21:52+00:00"
-    },
-    {
-      "titel": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T13:11:29+00:00"
     }
   ]
 }
