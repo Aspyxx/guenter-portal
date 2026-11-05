@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-05T13:20:35+00:00",
+  "aktualisiert": "2026-11-05T20:43:51+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bombendrohungen Flugzeug",
-      "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html",
+      "titel": "Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
+      "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Paraguay",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html",
+      "titel": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
+      "titel": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     }
   ]
 }
