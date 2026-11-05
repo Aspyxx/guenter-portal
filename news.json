@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-04T22:14:11+00:00",
+  "aktualisiert": "2026-11-05T02:33:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,34 +7,112 @@
   },
   "meldungen": [
     {
+      "titel": "Wolodymyr Selenskyj bei Jan Böhmermann im ZDF-Interview: Zwei Sendungsbewusste",
+      "link": "https://www.spiegel.de/kultur/wolodymyr-selenskyj-bei-jan-boehmermann-im-zdf-interview-zwei-sendungsbewusste-a-8188c365-f218-4f54-a19f-7e767f664c21#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T02:19:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T01:52:28+00:00"
+    },
+    {
+      "titel": "Griechenland: Spott über Yanis Varoufakis nach Schließung von Parteikonto",
+      "link": "https://www.spiegel.de/ausland/griechenland-spott-ueber-yanis-varoufakis-nach-schliessung-von-parteikonto-a-3f3c1ff3-4eef-45aa-bffc-64598bb24266#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T01:44:00+00:00"
+    },
+    {
       "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T22:08:00+00:00"
+      "veroeffentlicht": "2026-11-05T01:31:11+00:00"
     },
     {
-      "titel": "Reaktionen auf den Tod von Hubert Aiwanger: „Wir sind alle zutiefst geschockt“",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-freie-waehler-bayern-reaktionen-li.3574570",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T22:03:27+00:00"
+      "titel": "Midterms: So erklären Donald Trump und JD Vance die Republikaner-Schlappe",
+      "link": "https://www.spiegel.de/ausland/midterms-so-erklaeren-donald-trump-und-jd-vance-die-republikaner-schlappe-a-3e8133a3-3402-412d-b1cd-67762eca3bb0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T00:53:00+00:00"
+    },
+    {
+      "titel": "Nasa-Satellit »Swift« auf Erde gestürzt",
+      "link": "https://www.spiegel.de/wissenschaft/nasa-satellit-swift-stuerzt-auf-erde-a-abb6dbc9-cbd6-4797-9a77-1f68c460a052#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T00:20:00+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T00:10:07+00:00"
     },
     {
       "titel": "Politik: Hubert Aiwanger tot in Berliner Hotel aufgefunden",
       "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tot-bayern-freie-waehler-hotel-berlin-li.3574547",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T21:55:00+00:00"
+      "veroeffentlicht": "2026-11-04T23:48:19+00:00"
     },
     {
-      "titel": "Donald Trump und sein Ballsaal: Präsident schwärmt trotz Wahldebakel",
-      "link": "https://www.spiegel.de/ausland/donald-trump-und-sein-ballsaal-praesident-schwaermt-trotz-wahldebakel-a-be61c4f1-8389-4a17-84c0-4eb235990a49#ref=rss",
+      "titel": "Israel: Präsident Isaac Herzog sucht Regierungschef, arabische Partei unterstützt Eisenkot",
+      "link": "https://www.spiegel.de/ausland/israel-praesident-isaac-herzog-sucht-regierungschef-arabische-partei-unterstuetzt-eisenkot-a-cc883d26-59a9-42fa-9b75-103eae0ecf6e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T21:37:00+00:00"
+      "veroeffentlicht": "2026-11-04T23:42:00+00:00"
     },
     {
       "titel": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T21:15:29+00:00"
+      "veroeffentlicht": "2026-11-04T23:35:58+00:00"
+    },
+    {
+      "titel": "Reaktionen auf den Tod von Hubert Aiwanger: „Wir sind alle zutiefst geschockt“",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-freie-waehler-bayern-reaktionen-li.3574570",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T23:20:00+00:00"
+    },
+    {
+      "titel": "Zum Tod von Hubert Aiwanger: Bayerns Freier Wähler",
+      "link": "https://www.spiegel.de/politik/zum-tod-von-hubert-aiwanger-bayerns-freier-waehler-a-e050e7ee-5073-413f-a9d2-5b9cd2d2975c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T23:12:00+00:00"
+    },
+    {
+      "titel": "Champions League: Konstantinos Karetsas schießt Borussia Dortmund zum Sieg über Real Betis",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-konstantinos-karetsas-schiesst-borussia-dortmund-zum-sieg-ueber-real-betis-a-e49f1f75-009a-4a41-af3a-15bf393a55f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T23:02:00+00:00"
+    },
+    {
+      "titel": "Tod von Hubert Aiwanger: »Bayern verliert einen leidenschaftlichen Politiker«",
+      "link": "https://www.spiegel.de/politik/tod-von-hubert-aiwanger-bayern-verliert-einen-leidenschaftlichen-politiker-a-a21b26a6-13d4-41d3-9aba-cbd753622b60#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T22:53:00+00:00"
+    },
+    {
+      "titel": "Champions League: Como überrollt Lens 9:1, Manchester City siegt bei RB Leipzig",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-como-ueberrollt-lens-9-1-manchester-city-siegt-bei-rb-leipzig-a-0f2d1f25-88ab-4204-b5d8-7a7259cd0f44#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-04T22:46:00+00:00"
+    },
+    {
+      "titel": "Champions League: Dortmund gewinnt dank Karetsas, Como schießt neun Tore",
+      "link": "https://www.sueddeutsche.de/sport/dortmund-betis-sevilla-como-lens-neun-tore-champions-league-li.3574578",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T22:45:38+00:00"
+    },
+    {
+      "titel": "Zum Tod von Hubert Aiwanger: Ein Politiker, wie es ihn nur einmal geben konnte",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-freie-waehler-tot-bayern-wirtschaftsminister-nachruf-li.3574551",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T22:31:07+00:00"
+    },
+    {
+      "titel": "RB Leipzig in der Champions League: Haaland und Manchester City haben das bessere Ende für sich",
+      "link": "https://www.sueddeutsche.de/sport/rb-leipzig-manchester-city-champions-league-niederlage-li.3574560",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-04T22:08:07+00:00"
     },
     {
       "titel": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
@@ -43,28 +121,10 @@
       "veroeffentlicht": "2026-11-04T21:15:24+00:00"
     },
     {
-      "titel": "Hubert Aiwanger ist tot",
-      "link": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-a-304e437f-1ace-42a6-847d-bfb92a889119#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T20:38:00+00:00"
-    },
-    {
-      "titel": "Donald Trump nach den Midterms: Der Präsident wirkt müde, die Haare zauselig",
-      "link": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T20:36:00+00:00"
-    },
-    {
       "titel": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-04T20:24:21+00:00"
-    },
-    {
-      "titel": "»Love Island V.I.P.«: Reality-Star Yasin Mohamed wegen Vergewaltigung verurteilt",
-      "link": "https://www.spiegel.de/panorama/justiz/reality-star-yasin-mohamed-wegen-vergewaltigung-verurteilt-a-7647407d-dba3-43ce-a836-919cf3c108a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T20:16:00+00:00"
     },
     {
       "titel": "US-Midterms: Wähler wenden sich von Trump ab",
@@ -73,40 +133,10 @@
       "veroeffentlicht": "2026-11-04T19:56:00+00:00"
     },
     {
-      "titel": "Tödlicher Fußball-Unfall von Jesús de Miguel Alameda: Wie ist die Rechtslage bei Fouls in Deutschland?",
-      "link": "https://www.spiegel.de/panorama/justiz/toedlicher-fussball-unfall-von-jesus-de-miguel-alameda-wie-ist-die-rechtslage-bei-fouls-in-deutschland-a-329b0b7c-1649-40d1-be2f-9db308860bdc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T19:50:00+00:00"
-    },
-    {
       "titel": "Bundesregierung: Merz beharrt auf Reformen",
       "link": "https://www.sueddeutsche.de/politik/friedrich-merz-spd-wirtschaftsforum-lars-klingbeil-bundesregierung-berlin-li.3574231",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-04T19:36:23+00:00"
-    },
-    {
-      "titel": "Deutschland erhöht humanitäre Hilfe für Jemen",
-      "link": "https://www.spiegel.de/politik/deutschland-erhoeht-humanitaere-hilfe-fuer-jemen-a-1e12e0ba-7dff-4afe-b4e7-1c9eb6e65672#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T19:35:00+00:00"
-    },
-    {
-      "titel": "Midterms: »Donald Trump kann jetzt gefährlich werden« – SPIEGEL-Spitzengespräch",
-      "link": "https://www.spiegel.de/politik/deutschland/midterms-donald-trump-kann-jetzt-gefaehrlich-werden-spiegel-spitzengespraech-a-174a2caa-ea45-4e64-b0d3-2e5f7bdaa3bc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T19:32:00+00:00"
-    },
-    {
-      "titel": "Dirigent Herbert Blomstedt ist tot",
-      "link": "https://www.spiegel.de/panorama/dirigent-herbert-blomstedt-ist-tot-a-3d6f9ec9-717f-4d4a-b6dc-67ad84a83d1a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T19:30:00+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV. hat Audienz bei Bob Dylan",
-      "link": "https://www.spiegel.de/panorama/papst-leo-xiv-hat-audienz-bei-bob-dylan-a-d24a2bd4-8eb7-4250-88bf-457b41d857f5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-04T19:15:00+00:00"
     },
     {
       "titel": "Midterms 2026: Trumps erster öffentlicher Auftritt nach Midterms-Niederlage: Lob für seinen Ballsaal",
@@ -133,40 +163,10 @@
       "veroeffentlicht": "2026-11-04T17:31:22+00:00"
     },
     {
-      "titel": "Midterms in den USA: Ist in Berlin jetzt Optimismus erlaubt?",
-      "link": "https://www.sueddeutsche.de/politik/usa-midterms-2026-auswirkungen-deutschland-merz-bundesregierung-li.3574082",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T17:21:00+00:00"
-    },
-    {
       "titel": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
       "link": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-04T16:50:16+00:00"
-    },
-    {
-      "titel": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
-      "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T16:49:39+00:00"
-    },
-    {
-      "titel": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-04T16:37:10+00:00"
-    },
-    {
-      "titel": "Kolumne „Schon schön“: Taschengeld für den Champion",
-      "link": "https://www.sueddeutsche.de/leben/formel-1-kimi-antonelli-weltmeister-motorsport-li.3564159",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T15:58:25+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Demokraten gewinnen sogar in Texas – der Anfang von Trumps Ende?",
-      "link": "https://www.sueddeutsche.de/politik/podcast-auf-den-punkt-usa-midterms-texas-trump-li.3574153",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-04T15:35:43+00:00"
     }
   ]
 }
