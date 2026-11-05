@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-05T09:51:29+00:00",
+  "aktualisiert": "2026-11-05T18:02:18+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Wirtschaft in Deutschland: Deutsche Firmen bei US-Investoren so beliebt wie seit fast 20 Jahren nicht mehr",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-deutsche-firmen-bei-us-investoren-so-beliebt-wie-seit-fast-20-jahren-nicht-mehr-a-1479c9f8-52b1-4d4b-8da4-7c18fa2c4aff#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T09:49:00+00:00"
-    },
-    {
-      "titel": "Midterms in den USA: \"MAGA-Bewegung wird nicht über Nacht verschwinden\"",
-      "link": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html",
+      "titel": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
+      "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T09:48:09+00:00"
+      "veroeffentlicht": "2026-11-05T17:56:47+00:00"
     },
     {
-      "titel": "Podcast zu US-Midterms: »Donald Trump kann jetzt gefährlich werden« – SPIEGEL-Spitzengespräch",
-      "link": "https://www.spiegel.de/politik/deutschland/podcast-zu-us-midterms-donald-trump-kann-jetzt-gefaehrlich-werden-spiegel-spitzengespraech-a-268e1756-4a5a-4a9a-b2e2-d6173d71f629#ref=rss",
+      "titel": "Justiz: Ex-Milliardär Benko wegen Betrugs verurteilt",
+      "link": "https://www.sueddeutsche.de/wirtschaft/urteil-benko-prozess-innsbruck-betrug-investoren-li.3574688",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-05T17:51:20+00:00"
+    },
+    {
+      "titel": "NSDAP-Kartei: So forschen Sie nach der Recherche im SPIEGEL-Archiv weiter",
+      "link": "https://www.spiegel.de/backstage/nsdap-kartei-so-forschen-sie-nach-der-recherche-im-spiegel-archiv-weiter-a-a02eadf7-730b-4dbe-990c-2fdc81daf45f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T09:47:00+00:00"
+      "veroeffentlicht": "2026-11-05T17:45:00+00:00"
+    },
+    {
+      "titel": "Alan Jones ist tot: Nachruf auf den Formel-1-Weltmeister",
+      "link": "https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T17:44:00+00:00"
+    },
+    {
+      "titel": "Midterms-Siege der Demokraten: Furcht vor KI-Regulierung lässt US-Tech-Aktien einbrechen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T17:34:00+00:00"
+    },
+    {
+      "titel": "»White Tiger«: Wie Russland mutmaßlich Teenager für Anschläge rekrutiert",
+      "link": "https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert-a-7e347e28-aa4b-4fbc-b0f2-b6301c6751a6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T17:31:00+00:00"
+    },
+    {
+      "titel": "Texas: Wie Gina Hinojosa die Republikaner-Hochburg umkrempeln will",
+      "link": "https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T17:30:00+00:00"
+    },
+    {
+      "titel": "Israel: Gadi Eisenkot bekommt die meisten Empfehlungen aus dem israelischen Parlament",
+      "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament-a-97df6d8d-3c51-48c7-977c-27ade28709a2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T17:23:00+00:00"
     },
     {
       "titel": "Marktbericht: DAX springt auf Rekordhoch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T09:20:01+00:00"
+      "veroeffentlicht": "2026-11-05T17:16:27+00:00"
     },
     {
-      "titel": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T09:14:15+00:00"
-    },
-    {
-      "titel": "Midterms: Was die Demokraten aus Texas lernen können",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-texas-demokraten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T09:12:33+00:00"
-    },
-    {
-      "titel": "Reaktionen auf den Tod von Hubert Aiwanger: „Wir sind alle zutiefst geschockt“",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tod-reaktionen-politik-li.3574570",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T09:11:00+00:00"
-    },
-    {
-      "titel": "»Sanxingdui: Future Past«: KI-Film floppt in China",
-      "link": "https://www.spiegel.de/netzwelt/web/sanxingdui-future-past-ki-film-floppt-in-china-a-ea8011c7-dc6b-4bbe-970b-9520904f9bd0#ref=rss",
+      "titel": "René Benko zu Zusatzstrafe von zwei Jahren verurteilt",
+      "link": "https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T09:06:00+00:00"
+      "veroeffentlicht": "2026-11-05T17:16:00+00:00"
     },
     {
-      "titel": "Dax springt auf Rekordhoch",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-auf-rekordhoch-a-c3ac80a4-d033-4cc7-9e19-d76b8f9874be#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T09:06:00+00:00"
-    },
-    {
-      "titel": "Bundespräsidentin: Jetzt bringt ausgerechnet Friedrich Merz eine Frau ins höchste Amt Deutschlands",
-      "link": "https://www.spiegel.de/politik/deutschland/bundespraesidentin-jetzt-bringt-ausgerechnet-friedrich-merz-eine-frau-ins-hoechste-amt-deutschlands-a-dce612a9-1ede-470a-8f1b-1d2e71056185#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T09:01:00+00:00"
-    },
-    {
-      "titel": "Nach dem Tod von Hubert Aiwanger: FW-Parteitag verschoben - Gotthardt übernimmt zunächst als Wirtschaftsminister",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tod-freie-waehler-parteitag-tobias-gotthardt-li.3574723",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T08:51:24+00:00"
-    },
-    {
-      "titel": "Hubert Aiwanger ist tot: Freie Wähler wollen Bundesparteitag auf 2027 verschieben",
-      "link": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-freie-waehler-wollen-bundesparteitag-auf-2027-verschieben-a-621a228c-3b20-41f5-9381-1fc86587ae64#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T08:51:00+00:00"
-    },
-    {
-      "titel": "FC Bayern München: Harry Kane und die besten Stürmer der Vereinsgeschichte im Ranking",
-      "link": "https://www.spiegel.de/sport/fc-bayern-muenchen-harry-kane-und-die-besten-stuermer-der-vereinsgeschichte-im-ranking-a-f6b4c753-bcf3-4bcb-bdc5-a91be5c8aa60#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T08:51:00+00:00"
-    },
-    {
-      "titel": "Uni Kassel: Polizei räumt besetzten Hörsaal - Proteste Studierender",
-      "link": "https://www.spiegel.de/panorama/bildung/uni-kassel-polizei-raeumt-besetzten-hoersaal-proteste-studierender-a-9374963f-a682-4f64-9edd-8df450980667#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T08:36:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: So übersteht Europa die letzten Jahre seiner Präsidentschaft",
-      "link": "https://www.spiegel.de/ausland/donald-trump-so-uebersteht-europa-die-letzten-jahre-seiner-praesidentschaft-a-43259f67-303c-4639-95b1-074a82fec1e2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T08:30:00+00:00"
-    },
-    {
-      "titel": "Rettungsmission gescheitert - NASA-Satellit stürzt auf Erde",
-      "link": "https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html",
+      "titel": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T08:15:29+00:00"
+      "veroeffentlicht": "2026-11-05T17:15:48+00:00"
     },
     {
-      "titel": "Hubert Aiwanger - das Gesicht der Freien Wähler",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html",
+      "titel": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
+      "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T08:03:33+00:00"
+      "veroeffentlicht": "2026-11-05T17:03:34+00:00"
     },
     {
-      "titel": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html",
+      "titel": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T07:55:41+00:00"
+      "veroeffentlicht": "2026-11-05T17:01:09+00:00"
     },
     {
-      "titel": "Politik: Hubert Aiwanger tot in Berliner Hotel gefunden - Todesursache offen",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tot-todesursache-bayern-freie-waehler-hotel-berlin-li.3574547",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T07:40:00+00:00"
-    },
-    {
-      "titel": "USA und Israel nach den Wahlen: Beziehungsstatus kompliziert",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-wahlen-100.html",
+      "titel": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T07:28:49+00:00"
+      "veroeffentlicht": "2026-11-05T16:58:22+00:00"
     },
     {
-      "titel": "Midterms 2026: Trump verteidigt Iran-Krieg trotz Wahlniederlage",
-      "link": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-oeffentlicher-auftritt-ballsaal-vance-iran-krieg-li.3573278",
+      "titel": "Janosch ist tot: So nehmen Autorinnen und Zeichner Abschied",
+      "link": "https://www.spiegel.de/kultur/janosch-ist-tot-so-nehmen-autorinnen-und-zeichner-abschied-a-68effe13-a445-4cfc-b3c5-e9724f955c9a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T16:52:00+00:00"
+    },
+    {
+      "titel": "Haftbefehl: Rapper veröffentlicht Foto mit Verband auf der Nase",
+      "link": "https://www.spiegel.de/kultur/musik/haftbefehl-rapper-veroeffentlicht-foto-mit-verband-auf-der-nase-a-8c895667-35cd-49e6-a8c2-050b1e96584f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T16:52:00+00:00"
+    },
+    {
+      "titel": "Proteste in Frankreich: „Macron, du bist erledigt – die Jugend ist auf der Straße“",
+      "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-generalstreik-paris-gewerkschaften-li.3574706",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T06:30:43+00:00"
+      "veroeffentlicht": "2026-11-05T16:26:07+00:00"
     },
     {
-      "titel": "US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html",
+      "titel": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
+      "link": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T05:57:08+00:00"
+      "veroeffentlicht": "2026-11-05T15:42:30+00:00"
     },
     {
-      "titel": "Kaja Kallas im Interview: „Trump respektiert Stärke – wer schwach ist, bekommt diesen Respekt nicht“",
-      "link": "https://www.sueddeutsche.de/politik/eu-aussenbeauftragte-kaja-kallas-donald-trump-interview-ukraine-krieg-russland-li.3572738",
+      "titel": "Commerzbank und Unicredit: Einmal noch „business as usual“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-quartalszahlen-bettina-orlopp-unicredit-uebernahme-li.3573086",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T04:54:48+00:00"
+      "veroeffentlicht": "2026-11-05T15:34:50+00:00"
     },
     {
-      "titel": "US-Zwischenwahlen: Die Macht der Latinos",
-      "link": "https://www.sueddeutsche.de/politik/midterms-2026-latinos-waehlergruppe-einfluss-ergebnis-kalifornien-texas-li.3574425",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T03:54:52+00:00"
+      "titel": "Wie der Führerschein günstiger werden soll",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T15:33:46+00:00"
     },
     {
-      "titel": "Midterms: Der blaue Tsunami ist weiblich",
-      "link": "https://www.sueddeutsche.de/politik/midterms-2026-demokratinnen-kongress-gouverneurinnen-siegerinnen-li.3574312",
+      "titel": "Luftfahrt: 18 Bombendrohungen an einem Tag",
+      "link": "https://www.sueddeutsche.de/wirtschaft/luftverkehr-bombendrohungen-li.3575041",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T03:45:01+00:00"
+      "veroeffentlicht": "2026-11-05T15:27:34+00:00"
     },
     {
-      "titel": "Midterms: J. D. Vance bringt sich als Trump-Nachfolger in Position",
-      "link": "https://www.sueddeutsche.de/politik/midterms-2026-j-d-vance-donald-trump-usa-republikaner-nachfolge-wahl-2028-li.3574544",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T01:14:11+00:00"
+      "titel": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T15:25:23+00:00"
     },
     {
-      "titel": "Zukunft der Demokraten: Gerangel um den Lorbeer",
-      "link": "https://www.sueddeutsche.de/politik/midterms-2026-us-demokraten-mchtkampf-el-sayed-ocasio-cortez-jeffries-li.3574422",
+      "titel": "Nach dem Tod von Hubert Aiwanger: Obduktion: Keine Anzeichen für Fremdverschulden",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-todesursache-pressekonferenz-markus-soeder-statement-li.3574751",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T01:11:59+00:00"
+      "veroeffentlicht": "2026-11-05T15:07:00+00:00"
+    },
+    {
+      "titel": "DFB-Kader: Der junge Mohya und der alte Füllkrug",
+      "link": "https://www.sueddeutsche.de/sport/klopp-kader-nominierung-fuellkrug-mohya-li.3574730",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-05T15:06:54+00:00"
+    },
+    {
+      "titel": "Sozialstaat: Die Regierung muss überlegen, das Arbeitslosengeld bei Älteren zu kürzen",
+      "link": "https://www.sueddeutsche.de/meinung/alexander-schweitzer-arbeitslosenversicherung-bundesagentur-fuer-arbeit-arbeitslosengeld-kommentar-li.3574771",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-05T14:45:40+00:00"
+    },
+    {
+      "titel": "Midterms: Das Wahlergebnis zeigt, wie jung, weiblich und divers die USA wirklich sind",
+      "link": "https://www.sueddeutsche.de/meinung/usa-midterms-repraesentation-diversitaet-li.3574432",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-05T14:42:48+00:00"
+    },
+    {
+      "titel": "Harry Kane beim FC Bayern: Vertrag d’Or",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-neuer-vertrag-gehalt-millionen-li.3574732",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-05T14:25:48+00:00"
     }
   ]
 }
