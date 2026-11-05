@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-05T05:06:44+00:00",
+  "aktualisiert": "2026-11-05T13:20:35+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Nach den Protesten sollen jetzt Streiks folgen",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
+      "titel": "Bombendrohungen Flugzeug",
+      "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Ntv Nachrichten",
-      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
+      "titel": "Paraguay",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html",
+      "titel": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     }
   ]
 }
