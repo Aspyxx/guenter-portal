@@ -1,11 +1,101 @@
 {
-  "aktualisiert": "2026-11-05T18:02:18+00:00",
+  "aktualisiert": "2026-11-05T23:39:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Frankreich: 448 Festnahmen bei landesweiten Protesten",
+      "link": "https://www.spiegel.de/politik/frankreich-448-festnahmen-bei-landesweiten-protesten-a-92701070-d4b8-45b2-9926-831a7fc1b88f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T22:01:00+00:00"
+    },
+    {
+      "titel": "Midterms-Siege der Demokraten: Furcht vor KI-Regulierung lässt US-Tech-Aktien einbrechen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T21:55:00+00:00"
+    },
+    {
+      "titel": "Harmeet Dhillon: Trump-Vertraute tritt zurück",
+      "link": "https://www.spiegel.de/ausland/harmeet-dhillon-trump-vertraute-tritt-zurueck-a-d298ef2f-486f-4b31-805a-9ada70521a0b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T21:28:00+00:00"
+    },
+    {
+      "titel": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+      "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T21:18:10+00:00"
+    },
+    {
+      "titel": "Midterms 2026: Kalifornischer Gouverneur Newsom wandelt 548 Todesurteile in Haftstrafen um",
+      "link": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-newsom-todesstrafe-alaska-li.3573278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-05T21:03:34+00:00"
+    },
+    {
+      "titel": "Kalifornien: Gouverneur Gavin Newsom wandelt alle 548 Todesurteile im Staat in Haftstrafen um",
+      "link": "https://www.spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T20:58:00+00:00"
+    },
+    {
+      "titel": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
+      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T20:57:00+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Die trügerische Freude über Trumps Machtverlust",
+      "link": "https://www.spiegel.de/politik/midterms-in-den-usa-die-truegerische-freude-ueber-trumps-machtverlust-a-a699ab52-1203-4447-967e-f44d6941354a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T19:57:00+00:00"
+    },
+    {
+      "titel": "Bakterielle Belastung: Pinienkern- und Rindfleischsalami-Produkte werden zurückgerufen",
+      "link": "https://www.spiegel.de/wirtschaft/bakterielle-belastung-pinienkern-und-rindfleischsalami-produkte-werden-zurueckgerufen-a-19f1653d-9206-49a5-af76-da26d85f3bca#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T19:42:00+00:00"
+    },
+    {
+      "titel": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T19:34:20+00:00"
+    },
+    {
+      "titel": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T19:11:03+00:00"
+    },
+    {
+      "titel": "Bundestagsbeschluss: Schlachthöfe werden künftig mit Kameras überwacht",
+      "link": "https://www.spiegel.de/politik/bundestagsbeschluss-schlachthoefe-werden-kuenftig-mit-kameras-ueberwacht-a-10d81644-e866-44db-bf3f-b5337bad0739#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T19:06:00+00:00"
+    },
+    {
+      "titel": "Friedrich Merz entgleitet die Suche nach einer Bundespräsidentin",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-entgleitet-die-suche-nach-einer-bundespraesidentin-a-58e704c3-441c-4be4-bf99-08777fe8789d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T18:56:00+00:00"
+    },
+    {
+      "titel": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T18:26:37+00:00"
+    },
+    {
+      "titel": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T18:02:22+00:00"
+    },
     {
       "titel": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
       "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
@@ -19,52 +109,10 @@
       "veroeffentlicht": "2026-11-05T17:51:20+00:00"
     },
     {
-      "titel": "NSDAP-Kartei: So forschen Sie nach der Recherche im SPIEGEL-Archiv weiter",
-      "link": "https://www.spiegel.de/backstage/nsdap-kartei-so-forschen-sie-nach-der-recherche-im-spiegel-archiv-weiter-a-a02eadf7-730b-4dbe-990c-2fdc81daf45f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T17:45:00+00:00"
-    },
-    {
-      "titel": "Alan Jones ist tot: Nachruf auf den Formel-1-Weltmeister",
-      "link": "https://www.spiegel.de/sport/formel1/alan-jones-ist-tot-nachruf-auf-den-formel-1-weltmeister-a-1ff8fa25-d424-44f1-ad2b-a65dde83c3cd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T17:44:00+00:00"
-    },
-    {
-      "titel": "Midterms-Siege der Demokraten: Furcht vor KI-Regulierung lässt US-Tech-Aktien einbrechen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T17:34:00+00:00"
-    },
-    {
-      "titel": "»White Tiger«: Wie Russland mutmaßlich Teenager für Anschläge rekrutiert",
-      "link": "https://www.spiegel.de/netzwelt/web/white-tiger-wie-russland-mutmasslich-teenager-fuer-anschlaege-rekrutiert-a-7e347e28-aa4b-4fbc-b0f2-b6301c6751a6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T17:31:00+00:00"
-    },
-    {
-      "titel": "Texas: Wie Gina Hinojosa die Republikaner-Hochburg umkrempeln will",
-      "link": "https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T17:30:00+00:00"
-    },
-    {
-      "titel": "Israel: Gadi Eisenkot bekommt die meisten Empfehlungen aus dem israelischen Parlament",
-      "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament-a-97df6d8d-3c51-48c7-977c-27ade28709a2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T17:23:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX springt auf Rekordhoch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-05T17:16:27+00:00"
-    },
-    {
-      "titel": "René Benko zu Zusatzstrafe von zwei Jahren verurteilt",
-      "link": "https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T17:16:00+00:00"
     },
     {
       "titel": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
@@ -79,40 +127,10 @@
       "veroeffentlicht": "2026-11-05T17:03:34+00:00"
     },
     {
-      "titel": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T17:01:09+00:00"
-    },
-    {
-      "titel": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T16:58:22+00:00"
-    },
-    {
-      "titel": "Janosch ist tot: So nehmen Autorinnen und Zeichner Abschied",
-      "link": "https://www.spiegel.de/kultur/janosch-ist-tot-so-nehmen-autorinnen-und-zeichner-abschied-a-68effe13-a445-4cfc-b3c5-e9724f955c9a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T16:52:00+00:00"
-    },
-    {
-      "titel": "Haftbefehl: Rapper veröffentlicht Foto mit Verband auf der Nase",
-      "link": "https://www.spiegel.de/kultur/musik/haftbefehl-rapper-veroeffentlicht-foto-mit-verband-auf-der-nase-a-8c895667-35cd-49e6-a8c2-050b1e96584f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T16:52:00+00:00"
-    },
-    {
       "titel": "Proteste in Frankreich: „Macron, du bist erledigt – die Jugend ist auf der Straße“",
       "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-generalstreik-paris-gewerkschaften-li.3574706",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-05T16:26:07+00:00"
-    },
-    {
-      "titel": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
-      "link": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T15:42:30+00:00"
     },
     {
       "titel": "Commerzbank und Unicredit: Einmal noch „business as usual“",
@@ -121,22 +139,10 @@
       "veroeffentlicht": "2026-11-05T15:34:50+00:00"
     },
     {
-      "titel": "Wie der Führerschein günstiger werden soll",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T15:33:46+00:00"
-    },
-    {
       "titel": "Luftfahrt: 18 Bombendrohungen an einem Tag",
       "link": "https://www.sueddeutsche.de/wirtschaft/luftverkehr-bombendrohungen-li.3575041",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-05T15:27:34+00:00"
-    },
-    {
-      "titel": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T15:25:23+00:00"
     },
     {
       "titel": "Nach dem Tod von Hubert Aiwanger: Obduktion: Keine Anzeichen für Fremdverschulden",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/meinung/usa-midterms-repraesentation-diversitaet-li.3574432",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-05T14:42:48+00:00"
-    },
-    {
-      "titel": "Harry Kane beim FC Bayern: Vertrag d’Or",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-neuer-vertrag-gehalt-millionen-li.3574732",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T14:25:48+00:00"
     }
   ]
 }
