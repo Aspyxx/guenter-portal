@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-06T11:33:03+00:00",
+  "aktualisiert": "2026-11-06T18:30:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Bundestag beschließt härtere Strafen für Einsatz von K.o.-Tropfen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/strafen-ko-tropfen-bundestag-100.html",
+      "titel": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T18:24:00+00:00"
+    },
+    {
+      "titel": "Tesla Cybertruck: Das war das Auto der Trump-Ära",
+      "link": "https://www.spiegel.de/mobilitaet/auto/tesla-cybertruck-das-war-das-auto-der-trump-aera-a-43ec5786-e494-415f-b6ae-de772a2313f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T17:58:00+00:00"
+    },
+    {
+      "titel": "Die gestohlenen Kinder von Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T11:28:21+00:00"
+      "veroeffentlicht": "2026-11-06T17:48:38+00:00"
     },
     {
-      "titel": "Mars: Raumsonde entdeckt Chlorwasserstoff nahe uraltem Vulkan",
-      "link": "https://www.spiegel.de/wissenschaft/weltall/mars-raumsonde-entdeckt-chlorwasserstoff-nahe-uraltem-vulkan-a-7c5d1a8e-5851-40d2-85ab-21c652653d87#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T11:26:00+00:00"
-    },
-    {
-      "titel": "Welche Folgen die US-Zwischenwahlen für die deutsche Wirtschaft haben",
-      "link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
+      "titel": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T11:17:25+00:00"
+      "veroeffentlicht": "2026-11-06T17:46:51+00:00"
     },
     {
-      "titel": "Luftfahrt: Teuer fliegen, bequem sitzen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/singapore-airlines-recaro-li.3575249",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T11:09:32+00:00"
-    },
-    {
-      "titel": "Krefeld: Lkw-Unfall mit Salpetersäure – »akute Gefahr« ist vorüber",
-      "link": "https://www.spiegel.de/panorama/krefeld-lkw-unfall-mit-salpetersaeure-akute-gefahr-ist-vorueber-a-29ca9008-125a-4282-857b-6162db7281ff#ref=rss",
+      "titel": "Demokrat Adam Hamilton: Ein Pastor aus Kansas zieht in den US-Senat",
+      "link": "https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T11:08:00+00:00"
+      "veroeffentlicht": "2026-11-06T17:32:00+00:00"
     },
     {
-      "titel": "Warum Ethan Hawke (ein wenig) eifersüchtig auf seinen Schwiegersohn ist",
-      "link": "https://www.spiegel.de/kultur/warum-ethan-hawke-ein-wenig-eifersuechtig-auf-seinen-schwiegersohn-ist-a-37ef6597-2f60-4a6d-a0d8-288656447abc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T11:06:00+00:00"
-    },
-    {
-      "titel": "Frankreich: Zwei Tote bei Busunfall - Schüler an Bord",
-      "link": "https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-busunfall-schueler-an-bord-a-0ec29c32-28e4-4f6c-aff0-c7050c70d491#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T10:58:00+00:00"
-    },
-    {
-      "titel": "Angela Merkel: Kleine Geste im Bode-Museum wird zum viralen Video",
-      "link": "https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T10:50:00+00:00"
-    },
-    {
-      "titel": "Leute: Meine Tochter, ihr „Clown“-Ehemann und ich",
-      "link": "https://www.sueddeutsche.de/panorama/ethan-hawke-schwiegersohn-clown-tonight-show-jimmy-fallon-promis-li.3575275",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T10:43:20+00:00"
-    },
-    {
-      "titel": "Industrieproduktion wächst überraschend - Autobranche legt zu",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T10:42:54+00:00"
-    },
-    {
-      "titel": "Oktober war der weltweit wärmste seit Beginn der Aufzeichnungen",
-      "link": "https://www.spiegel.de/wissenschaft/oktober-war-der-weltweit-waermste-seit-beginn-der-aufzeichnungen-a-62b5e4f0-3b24-486c-92ba-6050a48e5101#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T10:29:00+00:00"
-    },
-    {
-      "titel": "Dolly Parton: Manager lässt Klage gegen Neffen der Sängerin fallen",
-      "link": "https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen-a-135acc63-dd54-4677-96eb-de04df0b5e02#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T10:27:00+00:00"
-    },
-    {
-      "titel": "Urteil in Potsdam: Lebenslange Haft für Mord an dementem Schwiegervater",
-      "link": "https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater-a-53bfccc2-c904-4c47-8457-a039bbe39bbd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T10:16:00+00:00"
-    },
-    {
-      "titel": "Börse: Beben an der Wall Street – ist das jetzt der KI-Crash?",
-      "link": "https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash-a-0317ec61-e5b3-4fcc-8613-ec7f576866ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T10:07:00+00:00"
-    },
-    {
-      "titel": "Parlamentswahlen: Eine Frau, die neue Ideen für Neuseeland hat",
-      "link": "https://www.sueddeutsche.de/politik/parlamentswahl-neuseeland-2026-qiulae-wong-lebenshaltungskosten-li.3574715",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T09:40:43+00:00"
-    },
-    {
-      "titel": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T09:30:52+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Bundestag beschließt härtere Strafen für Gewalttaten mit K.-o.-Tropfen",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-k-o-tropfen-bundestag-gesetz-li.3568524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T09:30:00+00:00"
-    },
-    {
-      "titel": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T09:29:54+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX fällt im Sog der Nasdaq",
+      "titel": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T09:29:32+00:00"
+      "veroeffentlicht": "2026-11-06T17:30:36+00:00"
     },
     {
-      "titel": "Chipaktien an den internationalen Börsen im freien Fall",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html",
+      "titel": "EZB: Welche Chancen Deutschland bei der Nachfolge von Christine Lagarde hat",
+      "link": "https://www.spiegel.de/wirtschaft/ezb-welche-chancen-deutschland-bei-der-nachfolge-von-christine-lagarde-hat-a-ddb505b8-589a-42ba-b36a-41a19ce63a68#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T17:27:00+00:00"
+    },
+    {
+      "titel": "»Die Olchis«-Schöpfer Erhard Dietl dichtet zum Abschied von Janosch",
+      "link": "https://www.spiegel.de/kultur/literatur/die-olchis-schoepfer-erhard-dietl-dichtet-zum-abschied-von-janosch-a-e093ab2b-e1be-43a8-bcbe-af4d503ffb7d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T17:21:00+00:00"
+    },
+    {
+      "titel": "»Hamlet« im Berliner Ensemble: Ersan Mondtag verlegt den Klassiker ins heutige Deutschland",
+      "link": "https://www.spiegel.de/kultur/hamlet-im-berliner-ensemble-ersan-mondtag-verlegt-den-klassiker-ins-heutige-deutschland-a-15b72ed6-029f-4bfd-b83a-d1d6323bbb8a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T17:20:00+00:00"
+    },
+    {
+      "titel": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T09:21:42+00:00"
+      "veroeffentlicht": "2026-11-06T17:17:22+00:00"
     },
     {
-      "titel": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
+      "titel": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T09:13:00+00:00"
+      "veroeffentlicht": "2026-11-06T17:08:10+00:00"
     },
     {
-      "titel": "Newsblog zu KI: Rechenzentren in Deutschland verbrauchen 13 Milliarden Liter Wasser",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-rechenzentren-wasser-greenpeace-trockenheit-li.3566658",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T08:40:51+00:00"
+      "titel": "NRW-Heimatministerium: Zeuge über Machtmissbrauch - »Das halten Sie als Mensch kaum aus«",
+      "link": "https://www.spiegel.de/politik/deutschland/nrw-heimatministerium-zeuge-ueber-machtmissbrauch-das-halten-sie-als-mensch-kaum-aus-a-227487fb-3f0a-44e6-aa98-efc1a31953c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T17:08:00+00:00"
     },
     {
-      "titel": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
+      "titel": "Bundestag berät über umstrittene Autobahn-Reform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T08:25:15+00:00"
+      "veroeffentlicht": "2026-11-06T17:04:16+00:00"
     },
     {
-      "titel": "Roboter: Sitz! Platz! Neustart!",
-      "link": "https://www.sueddeutsche.de/leben/roboterhunde-ki-kuenstliche-intelligenz-san-francisco-roboter-li.3573538",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T08:22:57+00:00"
+      "titel": "Berlinale-Skandal: Claudia Roths Eingeständnis zum Vorwurf des Antisemitismus",
+      "link": "https://www.spiegel.de/kultur/berlinale-skandal-claudia-roths-eingestaendnis-zum-vorwurf-des-antisemitismus-a-02b85a0a-d611-4ca8-be87-0e3d49759a97#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T17:04:00+00:00"
     },
     {
-      "titel": "Ladies & Gentlemen: Die neue Seniorenklasse",
-      "link": "https://www.sueddeutsche.de/leben/vera-wang-giancarlo-esposito-new-york-mode-alter-li.3574222",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T08:01:26+00:00"
+      "titel": "Berlin: Warum die SPD-Spitze auf ein Scheitern von Rot-Grün-Rot hofft",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-warum-die-spd-spitze-auf-ein-scheitern-von-rot-gruen-rot-hofft-a-fc81f2f3-78ae-4d2f-9dbc-9c3eb9253b55#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T17:03:00+00:00"
     },
     {
-      "titel": "Cybersicherheit: Die Vorfälle in den Supermärkten zeigen: Jetzt wird’s wirklich ernst",
-      "link": "https://www.sueddeutsche.de/wirtschaft/cybersicherheit-kuenstliche-intelligenz-it-sicherheit-cyberangriff-kommentar-li.3573746",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T07:15:52+00:00"
+      "titel": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T16:19:52+00:00"
     },
     {
-      "titel": "Sozialstaat: Die Regierung muss überlegen, das Arbeitslosengeld bei Älteren zu kürzen",
-      "link": "https://www.sueddeutsche.de/meinung/alexander-schweitzer-bundesagentur-fuer-arbeit-arbeitslosengeld-aeltere-kommentar-li.3574771",
+      "titel": "Kanarische Inseln melden vermehrte Flüchtlingsankünfte",
+      "link": "https://www.tagesschau.de/ausland/afrika/kanaren-fluechtlinge-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T15:48:14+00:00"
+    },
+    {
+      "titel": "Tanz und KI: Copycat statt Copyright",
+      "link": "https://www.sueddeutsche.de/kultur/musikvideo-storm-rapper-yung-lean-youtube-choreografie-kopiert-ki-copyright-li.3570699",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T07:14:37+00:00"
+      "veroeffentlicht": "2026-11-06T15:13:10+00:00"
+    },
+    {
+      "titel": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T15:01:09+00:00"
+    },
+    {
+      "titel": "Harry Kane beim FC Bayern: Ein verrückter Vertrag? Stimmt, aber einer mit Plan dahinter",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-vertrag-millionen-kommentar-li.3575325",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T14:54:53+00:00"
+    },
+    {
+      "titel": "Fifa-Wahl: Mindestens ein Joker gegen Infantino",
+      "link": "https://www.sueddeutsche.de/sport/fifa-infantino-wahl-praesident-kandidatur-tashima-li.3575397",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T13:56:58+00:00"
+    },
+    {
+      "titel": "Deutsche Bahn: Vorbild Österreich: Ein Sondervermögen fürs Schienennetz",
+      "link": "https://www.sueddeutsche.de/wirtschaft/schienenfonds-deutsche-bahn-spd-steffen-bilger-infrastruktur-li.3575338",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T13:53:58+00:00"
+    },
+    {
+      "titel": "Steinmeier-Nachfolge: Ilse Aigner soll Bundespräsidentin werden",
+      "link": "https://www.sueddeutsche.de/politik/bundespraesidentin-kandidatin-ilse-aigner-friedrich-merz-nominierung-bekanntgabe-li.3575265",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T13:48:27+00:00"
+    },
+    {
+      "titel": "Hörbücher: „Voldemorts Kindheitstraumata zu analysieren, wäre komisch“",
+      "link": "https://www.sueddeutsche.de/medien/daniel-bruehl-harry-potter-lord-voldemort-j-k-rowling-matthew-macfadyen-li.3570283",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T13:46:27+00:00"
+    },
+    {
+      "titel": "Theater: Mehr Koks als Verstand",
+      "link": "https://www.sueddeutsche.de/kultur/berliner-ensemble-hamlet-ersan-mondtag-li.3574343",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T13:40:56+00:00"
+    },
+    {
+      "titel": "Computerspiele: Zocken, während andere arbeiten",
+      "link": "https://www.sueddeutsche.de/wirtschaft/bildungsurlaub-gta-vi-erwachsenenbildung-gamification-li.3574792",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T13:37:35+00:00"
+    },
+    {
+      "titel": "Israel nach der Wahl: Netanjahu macht den Trump",
+      "link": "https://www.sueddeutsche.de/politik/israel-wahl-netanjahu-opposition-wahlbetrug-li.3575007",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T13:37:23+00:00"
     }
   ]
 }
