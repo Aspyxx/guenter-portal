@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-06T18:30:13+00:00",
+  "aktualisiert": "2026-11-06T23:31:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,118 @@
   },
   "meldungen": [
     {
+      "titel": "Demonstranten besetzen Baustelle von Microsoft-Rechenzentrum in Amsterdam",
+      "link": "https://www.spiegel.de/ausland/demonstranten-besetzen-baustelle-von-microsoft-rechenzentrum-in-amsterdam-a-487855b6-ecae-4204-9f30-4921beed0d65#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T23:23:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-ulrich-siegmund-berlin-vanessa-emde-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T21:57:30+00:00"
+    },
+    {
+      "titel": "Fußball-Bundesliga: HSV stoppt Borussia Mönchengladbach mit 3:1",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-stoppt-borussia-moenchengladbach-mit-3-1-a-2434da6e-f3d8-4f51-a72b-d9a90866f325#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T21:54:00+00:00"
+    },
+    {
+      "titel": "Reaktionen: „Ilse Aigner schätzen wir“",
+      "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T21:43:24+00:00"
+    },
+    {
+      "titel": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T20:54:46+00:00"
+    },
+    {
+      "titel": "Ukraine: Wolodymyr Selenskyj macht Vitali Klitschko für Stromausfälle in Kyjiw verantwortlich",
+      "link": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-macht-vitali-klitschko-fuer-stromausfaelle-in-kyjiw-verantwortlich-a-2e10ce20-7817-46f2-89f1-34bb45cb346f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T20:50:00+00:00"
+    },
+    {
+      "titel": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T20:36:48+00:00"
+    },
+    {
+      "titel": "Ilse Aigner und Friedrich Merz: Eine gute Kandidatin. Nur eben nicht seine",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-und-friedrich-merz-eine-gute-kandidatin-nur-eben-nicht-seine-a-04e4b9a9-5ab1-4c0d-b8f4-fde61750a853#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T20:28:00+00:00"
+    },
+    {
+      "titel": "Ilse Aigner: CSU-Politikerin soll erste Präsidentin der Bundesrepublik werden",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-soll-erste-praesidentin-der-bundesrepublik-werden-a-9b1044f7-38e6-4d2b-98b3-ff3684d399f9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T20:26:00+00:00"
+    },
+    {
+      "titel": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T20:20:30+00:00"
+    },
+    {
+      "titel": "USA: Donald Trump ersetzt Stabschefin Susie Wiles – Stephen Miller soll nachfolgen",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-ersetzt-stabschefin-susie-wiles-stephen-miller-soll-nachfolgen-a-2c11d3f6-4f4d-43d3-923a-c17f6695c082#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T20:18:00+00:00"
+    },
+    {
+      "titel": "USA: Bürgermeister von Houston schränkt Zusammenarbeit mit ICE an",
+      "link": "https://www.spiegel.de/ausland/usa-buergermeister-von-houston-schraenkt-zusammenarbeit-mit-ice-an-a-905e8f8f-0170-477d-8076-6ce5900f3cb6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T19:53:00+00:00"
+    },
+    {
+      "titel": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+      "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T19:39:20+00:00"
+    },
+    {
+      "titel": "Hakeem Jeffries (Demokraten): Der Gegenspieler von Donald Trump im neuen Kongress",
+      "link": "https://www.spiegel.de/ausland/hakeem-jeffries-demokraten-der-gegenspieler-von-donald-trump-im-neuen-kongress-a-c47cce79-ecc5-44cc-9904-0b6eb8179eb0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T19:37:00+00:00"
+    },
+    {
+      "titel": "Midterms 2026: Trump tauscht seine Stabschefin aus",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-oval-office-denkmal-li.3573278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T19:26:35+00:00"
+    },
+    {
+      "titel": "Erneut Hackerangriff auf Münchener Universität - TUM betroffen",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T19:23:12+00:00"
+    },
+    {
+      "titel": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T18:53:38+00:00"
+    },
+    {
+      "titel": "Abgeordnetenhaus: Berliner Linke fordert Mandatsverzicht von Emde",
+      "link": "https://www.sueddeutsche.de/politik/vanessa-emde-linke-berlin-li.3575552",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T18:33:25+00:00"
+    },
+    {
       "titel": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
       "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-11-06T18:24:00+00:00"
-    },
-    {
-      "titel": "Tesla Cybertruck: Das war das Auto der Trump-Ära",
-      "link": "https://www.spiegel.de/mobilitaet/auto/tesla-cybertruck-das-war-das-auto-der-trump-aera-a-43ec5786-e494-415f-b6ae-de772a2313f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T17:58:00+00:00"
     },
     {
       "titel": "Die gestohlenen Kinder von Oleschky",
@@ -31,94 +133,22 @@
       "veroeffentlicht": "2026-11-06T17:46:51+00:00"
     },
     {
-      "titel": "Demokrat Adam Hamilton: Ein Pastor aus Kansas zieht in den US-Senat",
-      "link": "https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T17:32:00+00:00"
-    },
-    {
       "titel": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-06T17:30:36+00:00"
     },
     {
-      "titel": "EZB: Welche Chancen Deutschland bei der Nachfolge von Christine Lagarde hat",
-      "link": "https://www.spiegel.de/wirtschaft/ezb-welche-chancen-deutschland-bei-der-nachfolge-von-christine-lagarde-hat-a-ddb505b8-589a-42ba-b36a-41a19ce63a68#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T17:27:00+00:00"
-    },
-    {
-      "titel": "»Die Olchis«-Schöpfer Erhard Dietl dichtet zum Abschied von Janosch",
-      "link": "https://www.spiegel.de/kultur/literatur/die-olchis-schoepfer-erhard-dietl-dichtet-zum-abschied-von-janosch-a-e093ab2b-e1be-43a8-bcbe-af4d503ffb7d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T17:21:00+00:00"
-    },
-    {
-      "titel": "»Hamlet« im Berliner Ensemble: Ersan Mondtag verlegt den Klassiker ins heutige Deutschland",
-      "link": "https://www.spiegel.de/kultur/hamlet-im-berliner-ensemble-ersan-mondtag-verlegt-den-klassiker-ins-heutige-deutschland-a-15b72ed6-029f-4bfd-b83a-d1d6323bbb8a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T17:20:00+00:00"
-    },
-    {
-      "titel": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T17:17:22+00:00"
-    },
-    {
-      "titel": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
-      "link": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T17:08:10+00:00"
-    },
-    {
-      "titel": "NRW-Heimatministerium: Zeuge über Machtmissbrauch - »Das halten Sie als Mensch kaum aus«",
-      "link": "https://www.spiegel.de/politik/deutschland/nrw-heimatministerium-zeuge-ueber-machtmissbrauch-das-halten-sie-als-mensch-kaum-aus-a-227487fb-3f0a-44e6-aa98-efc1a31953c2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T17:08:00+00:00"
-    },
-    {
-      "titel": "Bundestag berät über umstrittene Autobahn-Reform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T17:04:16+00:00"
-    },
-    {
-      "titel": "Berlinale-Skandal: Claudia Roths Eingeständnis zum Vorwurf des Antisemitismus",
-      "link": "https://www.spiegel.de/kultur/berlinale-skandal-claudia-roths-eingestaendnis-zum-vorwurf-des-antisemitismus-a-02b85a0a-d611-4ca8-be87-0e3d49759a97#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T17:04:00+00:00"
-    },
-    {
-      "titel": "Berlin: Warum die SPD-Spitze auf ein Scheitern von Rot-Grün-Rot hofft",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-warum-die-spd-spitze-auf-ein-scheitern-von-rot-gruen-rot-hofft-a-fc81f2f3-78ae-4d2f-9dbc-9c3eb9253b55#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T17:03:00+00:00"
-    },
-    {
-      "titel": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T16:19:52+00:00"
-    },
-    {
-      "titel": "Kanarische Inseln melden vermehrte Flüchtlingsankünfte",
-      "link": "https://www.tagesschau.de/ausland/afrika/kanaren-fluechtlinge-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T15:48:14+00:00"
+      "titel": "Künstliche Intelligenz: Weiß er etwas, das wir nicht wissen?",
+      "link": "https://www.sueddeutsche.de/kultur/risiken-gefahr-anthropic-openai-bewusstsein-forschung-deep-learning-li.3574525",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T16:05:38+00:00"
     },
     {
       "titel": "Tanz und KI: Copycat statt Copyright",
       "link": "https://www.sueddeutsche.de/kultur/musikvideo-storm-rapper-yung-lean-youtube-choreografie-kopiert-ki-copyright-li.3570699",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-06T15:13:10+00:00"
-    },
-    {
-      "titel": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T15:01:09+00:00"
     },
     {
       "titel": "Harry Kane beim FC Bayern: Ein verrückter Vertrag? Stimmt, aber einer mit Plan dahinter",
@@ -137,36 +167,6 @@
       "link": "https://www.sueddeutsche.de/wirtschaft/schienenfonds-deutsche-bahn-spd-steffen-bilger-infrastruktur-li.3575338",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-06T13:53:58+00:00"
-    },
-    {
-      "titel": "Steinmeier-Nachfolge: Ilse Aigner soll Bundespräsidentin werden",
-      "link": "https://www.sueddeutsche.de/politik/bundespraesidentin-kandidatin-ilse-aigner-friedrich-merz-nominierung-bekanntgabe-li.3575265",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T13:48:27+00:00"
-    },
-    {
-      "titel": "Hörbücher: „Voldemorts Kindheitstraumata zu analysieren, wäre komisch“",
-      "link": "https://www.sueddeutsche.de/medien/daniel-bruehl-harry-potter-lord-voldemort-j-k-rowling-matthew-macfadyen-li.3570283",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T13:46:27+00:00"
-    },
-    {
-      "titel": "Theater: Mehr Koks als Verstand",
-      "link": "https://www.sueddeutsche.de/kultur/berliner-ensemble-hamlet-ersan-mondtag-li.3574343",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T13:40:56+00:00"
-    },
-    {
-      "titel": "Computerspiele: Zocken, während andere arbeiten",
-      "link": "https://www.sueddeutsche.de/wirtschaft/bildungsurlaub-gta-vi-erwachsenenbildung-gamification-li.3574792",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T13:37:35+00:00"
-    },
-    {
-      "titel": "Israel nach der Wahl: Netanjahu macht den Trump",
-      "link": "https://www.sueddeutsche.de/politik/israel-wahl-netanjahu-opposition-wahlbetrug-li.3575007",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T13:37:23+00:00"
     }
   ]
 }
