@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-06T16:02:01+00:00",
+  "aktualisiert": "2026-11-06T21:39:12+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Letizia Von Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Warum anonyme Spurensicherung so wichtig ist",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ko-tropfen-sexualisierte-gewalt-nachweis-100.html",
+      "titel": "Bundestag berät über umstrittene Autobahn-Reform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 3,
-      "titel": "Zweifel am KI-Geschäft belasten die Branche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
+      "rang": 2,
+      "titel": "\"Sie hat viel politische Erfahrung\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
