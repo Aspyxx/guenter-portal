@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-06T01:12:10+00:00",
+  "aktualisiert": "2026-11-06T08:02:01+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+      "titel": "Richtungsstreit bei US-Republikanern: Was kommt nach der Trump-Ära?",
+      "link": "https://www.tagesschau.de/ausland/amerika/amerika-midterms-republikaner-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
-      "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
+      "titel": "Aus Wahleuphorie wird Wahlkater",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Paraguays Präsident tritt nach Bankenpleite zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+      "titel": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🏛️"
     }
   ]
 }
