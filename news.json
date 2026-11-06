@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-06T03:40:35+00:00",
+  "aktualisiert": "2026-11-06T11:33:03+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Großbritannien will Gehaltsangaben in Stellenanzeigen vorschreiben",
-      "link": "https://www.spiegel.de/karriere/grossbritannien-will-gehaltsangaben-in-stellenanzeigen-vorschreiben-a-f3430f3e-df34-4747-bf6e-c68e968b94fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T02:02:00+00:00"
-    },
-    {
-      "titel": "Audi will geplantes US-Werk in Georgia offenbar noch vergrößern",
-      "link": "https://www.spiegel.de/wirtschaft/audi-will-geplantes-us-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T01:02:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: Trump erklärt sein vergoldetes Oval Office zum Nationaldenkmal",
-      "link": "https://www.spiegel.de/ausland/donald-trump-trump-erklaert-sein-vergoldetes-oval-office-zum-nationaldenkmal-a-ed02fc73-d56a-4773-9142-68e9bb41780e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T01:00:00+00:00"
-    },
-    {
-      "titel": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+      "titel": "Bundestag beschließt härtere Strafen für Einsatz von K.o.-Tropfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/strafen-ko-tropfen-bundestag-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T00:55:35+00:00"
+      "veroeffentlicht": "2026-11-06T11:28:21+00:00"
     },
     {
-      "titel": "Iran-Krieg: US-Regierung hält trotz Kriegs an Abschiebeplänen nach Iran fest",
-      "link": "https://www.spiegel.de/ausland/iran-krieg-us-regierung-haelt-trotz-kriegs-an-abschiebeplaenen-nach-iran-fest-a-d50b6e18-ff59-4c84-8610-9cd90a8da9b6#ref=rss",
+      "titel": "Mars: Raumsonde entdeckt Chlorwasserstoff nahe uraltem Vulkan",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/mars-raumsonde-entdeckt-chlorwasserstoff-nahe-uraltem-vulkan-a-7c5d1a8e-5851-40d2-85ab-21c652653d87#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T23:45:00+00:00"
+      "veroeffentlicht": "2026-11-06T11:26:00+00:00"
     },
     {
-      "titel": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
-      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+      "titel": "Welche Folgen die US-Zwischenwahlen für die deutsche Wirtschaft haben",
+      "link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T23:44:38+00:00"
+      "veroeffentlicht": "2026-11-06T11:17:25+00:00"
     },
     {
-      "titel": "Frankreich: 448 Festnahmen bei landesweiten Protesten",
-      "link": "https://www.spiegel.de/politik/frankreich-448-festnahmen-bei-landesweiten-protesten-a-92701070-d4b8-45b2-9926-831a7fc1b88f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T22:01:00+00:00"
-    },
-    {
-      "titel": "Midterms-Siege der Demokraten: Furcht vor KI-Regulierung lässt US-Tech-Aktien einbrechen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T21:55:00+00:00"
-    },
-    {
-      "titel": "Harmeet Dhillon: Trump-Vertraute tritt zurück",
-      "link": "https://www.spiegel.de/ausland/harmeet-dhillon-trump-vertraute-tritt-zurueck-a-d298ef2f-486f-4b31-805a-9ada70521a0b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T21:28:00+00:00"
-    },
-    {
-      "titel": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
-      "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T21:18:10+00:00"
-    },
-    {
-      "titel": "Midterms 2026: Kalifornischer Gouverneur Newsom wandelt 548 Todesurteile in Haftstrafen um",
-      "link": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-newsom-todesstrafe-alaska-li.3573278",
+      "titel": "Luftfahrt: Teuer fliegen, bequem sitzen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/singapore-airlines-recaro-li.3575249",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T21:03:34+00:00"
+      "veroeffentlicht": "2026-11-06T11:09:32+00:00"
     },
     {
-      "titel": "Kalifornien: Gouverneur Gavin Newsom wandelt alle 548 Todesurteile im Staat in Haftstrafen um",
-      "link": "https://www.spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c#ref=rss",
+      "titel": "Krefeld: Lkw-Unfall mit Salpetersäure – »akute Gefahr« ist vorüber",
+      "link": "https://www.spiegel.de/panorama/krefeld-lkw-unfall-mit-salpetersaeure-akute-gefahr-ist-vorueber-a-29ca9008-125a-4282-857b-6162db7281ff#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T20:58:00+00:00"
+      "veroeffentlicht": "2026-11-06T11:08:00+00:00"
     },
     {
-      "titel": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
-      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss",
+      "titel": "Warum Ethan Hawke (ein wenig) eifersüchtig auf seinen Schwiegersohn ist",
+      "link": "https://www.spiegel.de/kultur/warum-ethan-hawke-ein-wenig-eifersuechtig-auf-seinen-schwiegersohn-ist-a-37ef6597-2f60-4a6d-a0d8-288656447abc#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T20:57:00+00:00"
+      "veroeffentlicht": "2026-11-06T11:06:00+00:00"
     },
     {
-      "titel": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T19:34:20+00:00"
+      "titel": "Frankreich: Zwei Tote bei Busunfall - Schüler an Bord",
+      "link": "https://www.spiegel.de/panorama/frankreich-zwei-tote-bei-busunfall-schueler-an-bord-a-0ec29c32-28e4-4f6c-aff0-c7050c70d491#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T10:58:00+00:00"
     },
     {
-      "titel": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T19:11:03+00:00"
+      "titel": "Angela Merkel: Kleine Geste im Bode-Museum wird zum viralen Video",
+      "link": "https://www.spiegel.de/panorama/leute/angela-merkel-kleine-geste-im-bode-museum-wird-zum-viralen-video-a-98a98eab-8706-44d6-b2e4-d7629bffc9c8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T10:50:00+00:00"
     },
     {
-      "titel": "Paraguays Präsident tritt nach Bankenpleite zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T18:26:37+00:00"
-    },
-    {
-      "titel": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T18:02:22+00:00"
-    },
-    {
-      "titel": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T17:56:47+00:00"
-    },
-    {
-      "titel": "Justiz: Ex-Milliardär Benko wegen Betrugs verurteilt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/urteil-benko-prozess-innsbruck-betrug-investoren-li.3574688",
+      "titel": "Leute: Meine Tochter, ihr „Clown“-Ehemann und ich",
+      "link": "https://www.sueddeutsche.de/panorama/ethan-hawke-schwiegersohn-clown-tonight-show-jimmy-fallon-promis-li.3575275",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T17:51:20+00:00"
+      "veroeffentlicht": "2026-11-06T10:43:20+00:00"
     },
     {
-      "titel": "Marktbericht: DAX springt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+      "titel": "Industrieproduktion wächst überraschend - Autobranche legt zu",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T17:16:27+00:00"
+      "veroeffentlicht": "2026-11-06T10:42:54+00:00"
     },
     {
-      "titel": "Proteste in Frankreich: „Macron, du bist erledigt – die Jugend ist auf der Straße“",
-      "link": "https://www.sueddeutsche.de/politik/proteste-frankreich-generalstreik-paris-gewerkschaften-li.3574706",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T16:26:07+00:00"
+      "titel": "Oktober war der weltweit wärmste seit Beginn der Aufzeichnungen",
+      "link": "https://www.spiegel.de/wissenschaft/oktober-war-der-weltweit-waermste-seit-beginn-der-aufzeichnungen-a-62b5e4f0-3b24-486c-92ba-6050a48e5101#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T10:29:00+00:00"
     },
     {
-      "titel": "Commerzbank und Unicredit: Einmal noch „business as usual“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-quartalszahlen-bettina-orlopp-unicredit-uebernahme-li.3573086",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T15:34:50+00:00"
+      "titel": "Dolly Parton: Manager lässt Klage gegen Neffen der Sängerin fallen",
+      "link": "https://www.spiegel.de/kultur/musik/dolly-parton-manager-laesst-klage-gegen-neffen-der-saengerin-fallen-a-135acc63-dd54-4677-96eb-de04df0b5e02#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T10:27:00+00:00"
     },
     {
-      "titel": "Luftfahrt: 18 Bombendrohungen an einem Tag",
-      "link": "https://www.sueddeutsche.de/wirtschaft/luftverkehr-bombendrohungen-li.3575041",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T15:27:34+00:00"
+      "titel": "Urteil in Potsdam: Lebenslange Haft für Mord an dementem Schwiegervater",
+      "link": "https://www.spiegel.de/panorama/justiz/urteil-in-potsdam-lebenslange-haft-fuer-mord-an-dementem-schwiegervater-a-53bfccc2-c904-4c47-8457-a039bbe39bbd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T10:16:00+00:00"
     },
     {
-      "titel": "Nach dem Tod von Hubert Aiwanger: Obduktion: Keine Anzeichen für Fremdverschulden",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-todesursache-pressekonferenz-markus-soeder-statement-li.3574751",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T15:07:00+00:00"
+      "titel": "Börse: Beben an der Wall Street – ist das jetzt der KI-Crash?",
+      "link": "https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash-a-0317ec61-e5b3-4fcc-8613-ec7f576866ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T10:07:00+00:00"
     },
     {
-      "titel": "DFB-Kader: Der junge Mohya und der alte Füllkrug",
-      "link": "https://www.sueddeutsche.de/sport/klopp-kader-nominierung-fuellkrug-mohya-li.3574730",
+      "titel": "Parlamentswahlen: Eine Frau, die neue Ideen für Neuseeland hat",
+      "link": "https://www.sueddeutsche.de/politik/parlamentswahl-neuseeland-2026-qiulae-wong-lebenshaltungskosten-li.3574715",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T15:06:54+00:00"
+      "veroeffentlicht": "2026-11-06T09:40:43+00:00"
+    },
+    {
+      "titel": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T09:30:52+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Bundestag beschließt härtere Strafen für Gewalttaten mit K.-o.-Tropfen",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-k-o-tropfen-bundestag-gesetz-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T09:30:00+00:00"
+    },
+    {
+      "titel": "Paraguay: Die Bankenkrise wird zur Staatskrise",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T09:29:54+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX fällt im Sog der Nasdaq",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T09:29:32+00:00"
+    },
+    {
+      "titel": "Chipaktien an den internationalen Börsen im freien Fall",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T09:21:42+00:00"
+    },
+    {
+      "titel": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T09:13:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Rechenzentren in Deutschland verbrauchen 13 Milliarden Liter Wasser",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-rechenzentren-wasser-greenpeace-trockenheit-li.3566658",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T08:40:51+00:00"
+    },
+    {
+      "titel": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T08:25:15+00:00"
+    },
+    {
+      "titel": "Roboter: Sitz! Platz! Neustart!",
+      "link": "https://www.sueddeutsche.de/leben/roboterhunde-ki-kuenstliche-intelligenz-san-francisco-roboter-li.3573538",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T08:22:57+00:00"
+    },
+    {
+      "titel": "Ladies & Gentlemen: Die neue Seniorenklasse",
+      "link": "https://www.sueddeutsche.de/leben/vera-wang-giancarlo-esposito-new-york-mode-alter-li.3574222",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T08:01:26+00:00"
+    },
+    {
+      "titel": "Cybersicherheit: Die Vorfälle in den Supermärkten zeigen: Jetzt wird’s wirklich ernst",
+      "link": "https://www.sueddeutsche.de/wirtschaft/cybersicherheit-kuenstliche-intelligenz-it-sicherheit-cyberangriff-kommentar-li.3573746",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-06T07:15:52+00:00"
     },
     {
       "titel": "Sozialstaat: Die Regierung muss überlegen, das Arbeitslosengeld bei Älteren zu kürzen",
-      "link": "https://www.sueddeutsche.de/meinung/alexander-schweitzer-arbeitslosenversicherung-bundesagentur-fuer-arbeit-arbeitslosengeld-kommentar-li.3574771",
+      "link": "https://www.sueddeutsche.de/meinung/alexander-schweitzer-bundesagentur-fuer-arbeit-arbeitslosengeld-aeltere-kommentar-li.3574771",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T14:45:40+00:00"
-    },
-    {
-      "titel": "Midterms: Das Wahlergebnis zeigt, wie jung, weiblich und divers die USA wirklich sind",
-      "link": "https://www.sueddeutsche.de/meinung/usa-midterms-repraesentation-diversitaet-li.3574432",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-05T14:42:48+00:00"
+      "veroeffentlicht": "2026-11-06T07:14:37+00:00"
     }
   ]
 }
