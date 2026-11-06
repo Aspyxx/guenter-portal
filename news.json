@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-11-05T23:39:29+00:00",
+  "aktualisiert": "2026-11-06T03:40:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Großbritannien will Gehaltsangaben in Stellenanzeigen vorschreiben",
+      "link": "https://www.spiegel.de/karriere/grossbritannien-will-gehaltsangaben-in-stellenanzeigen-vorschreiben-a-f3430f3e-df34-4747-bf6e-c68e968b94fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T02:02:00+00:00"
+    },
+    {
+      "titel": "Audi will geplantes US-Werk in Georgia offenbar noch vergrößern",
+      "link": "https://www.spiegel.de/wirtschaft/audi-will-geplantes-us-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T01:02:00+00:00"
+    },
+    {
+      "titel": "Donald Trump: Trump erklärt sein vergoldetes Oval Office zum Nationaldenkmal",
+      "link": "https://www.spiegel.de/ausland/donald-trump-trump-erklaert-sein-vergoldetes-oval-office-zum-nationaldenkmal-a-ed02fc73-d56a-4773-9142-68e9bb41780e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-06T01:00:00+00:00"
+    },
+    {
+      "titel": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-06T00:55:35+00:00"
+    },
+    {
+      "titel": "Iran-Krieg: US-Regierung hält trotz Kriegs an Abschiebeplänen nach Iran fest",
+      "link": "https://www.spiegel.de/ausland/iran-krieg-us-regierung-haelt-trotz-kriegs-an-abschiebeplaenen-nach-iran-fest-a-d50b6e18-ff59-4c84-8610-9cd90a8da9b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-05T23:45:00+00:00"
+    },
+    {
+      "titel": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-05T23:44:38+00:00"
+    },
     {
       "titel": "Frankreich: 448 Festnahmen bei landesweiten Protesten",
       "link": "https://www.spiegel.de/politik/frankreich-448-festnahmen-bei-landesweiten-protesten-a-92701070-d4b8-45b2-9926-831a7fc1b88f#ref=rss",
@@ -49,18 +85,6 @@
       "veroeffentlicht": "2026-11-05T20:57:00+00:00"
     },
     {
-      "titel": "Midterms in den USA: Die trügerische Freude über Trumps Machtverlust",
-      "link": "https://www.spiegel.de/politik/midterms-in-den-usa-die-truegerische-freude-ueber-trumps-machtverlust-a-a699ab52-1203-4447-967e-f44d6941354a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T19:57:00+00:00"
-    },
-    {
-      "titel": "Bakterielle Belastung: Pinienkern- und Rindfleischsalami-Produkte werden zurückgerufen",
-      "link": "https://www.spiegel.de/wirtschaft/bakterielle-belastung-pinienkern-und-rindfleischsalami-produkte-werden-zurueckgerufen-a-19f1653d-9206-49a5-af76-da26d85f3bca#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T19:42:00+00:00"
-    },
-    {
       "titel": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
       "quelle": "Tagesschau",
@@ -71,18 +95,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-05T19:11:03+00:00"
-    },
-    {
-      "titel": "Bundestagsbeschluss: Schlachthöfe werden künftig mit Kameras überwacht",
-      "link": "https://www.spiegel.de/politik/bundestagsbeschluss-schlachthoefe-werden-kuenftig-mit-kameras-ueberwacht-a-10d81644-e866-44db-bf3f-b5337bad0739#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T19:06:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz entgleitet die Suche nach einer Bundespräsidentin",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-entgleitet-die-suche-nach-einer-bundespraesidentin-a-58e704c3-441c-4be4-bf99-08777fe8789d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-05T18:56:00+00:00"
     },
     {
       "titel": "Paraguays Präsident tritt nach Bankenpleite zurück",
@@ -113,18 +125,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-05T17:16:27+00:00"
-    },
-    {
-      "titel": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T17:15:48+00:00"
-    },
-    {
-      "titel": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
-      "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-05T17:03:34+00:00"
     },
     {
       "titel": "Proteste in Frankreich: „Macron, du bist erledigt – die Jugend ist auf der Straße“",
