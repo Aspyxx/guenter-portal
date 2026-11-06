@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-05T20:43:51+00:00",
+  "aktualisiert": "2026-11-06T01:12:10+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
+      "rang": 2,
       "titel": "Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
       "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Paraguays Präsident tritt nach Bankenpleite zurück",
       "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
