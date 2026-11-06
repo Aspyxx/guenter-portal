@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-06T08:02:01+00:00",
+  "aktualisiert": "2026-11-06T16:02:01+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Richtungsstreit bei US-Republikanern: Was kommt nach der Trump-Ära?",
-      "link": "https://www.tagesschau.de/ausland/amerika/amerika-midterms-republikaner-100.html",
+      "titel": "Letizia Von Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Aus Wahleuphorie wird Wahlkater",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+      "titel": "Warum anonyme Spurensicherung so wichtig ist",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ko-tropfen-sexualisierte-gewalt-nachweis-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html",
+      "titel": "Zweifel am KI-Geschäft belasten die Branche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "📈"
     }
   ]
 }
