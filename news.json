@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-07T10:25:59+00:00",
+  "aktualisiert": "2026-11-07T16:38:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Kanada: Matthias Roß verkauft seine von Haribo verloste Privatinsel",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/kanada-matthias-ross-verkauft-seine-von-haribo-verloste-privatinsel-a-f07a24ab-82ae-493a-814f-0dc36b8698cb#ref=rss",
+      "titel": "Verletzt im Studium: Wenn der Lebensplan zu scheitern droht",
+      "link": "https://www.spiegel.de/start/verletzt-im-studium-wenn-der-lebensplan-zu-scheitern-droht-a-35a4a17c-62bb-456d-a4f1-2d1adf6f3dab#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T09:47:00+00:00"
+      "veroeffentlicht": "2026-11-07T16:26:00+00:00"
+    },
+    {
+      "titel": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T15:55:41+00:00"
+    },
+    {
+      "titel": "USA: Festnahme am Weißen Haus – Verdächtiger wollte offenbar Donald Trump töten",
+      "link": "https://www.spiegel.de/panorama/justiz/usa-festnahme-am-weissen-haus-verdaechtiger-wollte-offenbar-donald-trump-toeten-a-459dc802-69c7-4f1d-9675-cc26c7d10ff1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T15:52:00+00:00"
+    },
+    {
+      "titel": "Südtirol zwischen Italien und Österreich: Rechtsruck in den Alpen – Podcast",
+      "link": "https://www.spiegel.de/ausland/suedtirol-zwischen-italien-und-oesterreich-rechtsruck-in-den-alpen-podcast-a-3e94f918-2b36-441c-a640-4b33d83b9280#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T15:39:00+00:00"
+    },
+    {
+      "titel": "Krakau: Tote und Verletzte nach Schüssen in Polen",
+      "link": "https://www.spiegel.de/ausland/krakau-tote-und-verletzte-nach-schuessen-in-polen-a-706b54e1-b14f-4068-bf4d-be1aae44cf29#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T15:31:00+00:00"
+    },
+    {
+      "titel": "Nvidia: Medienbericht wirft Huang Affäre mit mutmaßlicher chinesischer Spionin vor",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-medienbericht-wirft-huang-affaere-mit-mutmasslicher-chinesischer-spionin-vor-a-8b6c5163-b475-4478-a335-3aeaeccdca48#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T15:02:00+00:00"
+    },
+    {
+      "titel": "Fernlicht, Abblendlicht, Lichtassistenten: Blenden und geblendet werden",
+      "link": "https://www.spiegel.de/mobilitaet/auto/fernlicht-abblendlicht-lichtassistenten-blenden-und-geblendet-werden-a-2c178be6-9fff-464a-a809-27d23cc0b464#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T14:59:00+00:00"
+    },
+    {
+      "titel": "Wofür Trumps neuer Stabschef Miller steht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T14:57:49+00:00"
+    },
+    {
+      "titel": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T14:45:52+00:00"
+    },
+    {
+      "titel": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T14:41:43+00:00"
+    },
+    {
+      "titel": "BSW-Spitze kritisiert Nominierung von Constantin Schreiber für die Bundesversammlung",
+      "link": "https://www.spiegel.de/politik/bsw-spitze-kritisiert-nominierung-von-constantin-schreiber-fuer-die-bundesversammlung-a-3e0ec6e6-ccfd-47dd-bf21-1877ca10ae19#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T14:38:00+00:00"
+    },
+    {
+      "titel": "Hamburger SV: Ein Hamburger Bündnis mit Fußballgott und Gegner",
+      "link": "https://www.sueddeutsche.de/sport/hamburger-sv-gladbach-tore-muheim-nandja-groenbaek-li.3575751",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T14:37:23+00:00"
+    },
+    {
+      "titel": "Hamburg: Polizei nimmt offenbar Hells-Angels-Rocker fest",
+      "link": "https://www.spiegel.de/panorama/justiz/hamburg-polizei-nimmt-offenbar-hells-angels-rocker-fest-a-f01b1bc4-b971-487a-a170-edd29d6ec777#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T13:52:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Pistorius zuversichtlich, dass es keine Wehrpflicht braucht",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-pistorius-wehrpflicht-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T13:41:07+00:00"
+    },
+    {
+      "titel": "Schwarzmilzferner geschrumpft: Forscher beerdigen letzten Gletscher in den Allgäuer Alpen",
+      "link": "https://www.spiegel.de/wissenschaft/schwarzmilzferner-geschrumpft-forscher-beerdigen-letzten-gletscher-in-den-allgaeuer-alpen-a-9ac75bb8-9b4a-40c9-a785-fc2c54185215#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T13:37:00+00:00"
+    },
+    {
+      "titel": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T13:25:25+00:00"
+    },
+    {
+      "titel": "Schwere Schäden nach Raketenangriffen auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T12:13:38+00:00"
+    },
+    {
+      "titel": "Freie Wähler: Nur eine kann das Aiwanger-Gefühl in die Zukunft retten",
+      "link": "https://www.sueddeutsche.de/bayern/freie-waehler-aiwanger-nachfolge-tanja-schweiger-li.3575297",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T11:50:55+00:00"
+    },
+    {
+      "titel": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+      "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T11:30:37+00:00"
+    },
+    {
+      "titel": "Bandenchef bittet UN um Vermittlung in Haiti",
+      "link": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T10:51:13+00:00"
     },
     {
       "titel": "Welche Fakes rund um die Midterms kursieren",
@@ -19,106 +133,10 @@
       "veroeffentlicht": "2026-11-07T09:46:47+00:00"
     },
     {
-      "titel": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T09:44:35+00:00"
-    },
-    {
-      "titel": "Eishockey-WM in Deutschland: Bundesregierung hält Austragung mit Teilnahme Russlands für \"unmöglich\"",
-      "link": "https://www.spiegel.de/sport/eishockey/eishockey-wm-in-deutschland-bundesregierung-haelt-austragung-mit-teilnahme-russlands-fuer-unmoeglich-a-77ae7f94-d8ca-4230-a5d0-bf88126ef2d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T09:39:00+00:00"
-    },
-    {
-      "titel": "Gianni Infantino: Auch die Karibik stellt sich jetzt hinter Fifa-Boss",
-      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-auch-die-karibik-stellt-sich-jetzt-hinter-fifa-boss-a-17905877-18b7-4c90-941f-5a1b1a90e47b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T09:34:00+00:00"
-    },
-    {
-      "titel": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T09:28:52+00:00"
-    },
-    {
-      "titel": "Donald Trump und die Wirtschaft: Wo die Demokraten seinen Kurs korrigieren könnten",
-      "link": "https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-wo-die-demokraten-seinen-kurs-korrigieren-koennten-a-ad25686b-5dca-498e-9239-e1e7a131cf4a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T09:19:00+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Kyjiw kämpft nach massiven russischen Angriffen mit Stromproblemen",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-kaempft-nach-massiven-russischen-angriffen-mit-stromproblemen-a-8d4aacfb-3500-4239-9b25-90fd97e43459#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T09:09:00+00:00"
-    },
-    {
-      "titel": "Deutschland: Nachrichtendienste schalten sich offenbar bei Cyberangriffen auf Supermärkte ein",
-      "link": "https://www.spiegel.de/netzwelt/deutschland-nachrichtendienste-schalten-sich-offenbar-bei-cyberangriffen-auf-supermaerkte-ein-a-1f86ee1a-be83-497a-bc91-91da57d27fb7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T09:05:00+00:00"
-    },
-    {
-      "titel": "Ernährung im Familienalltag: Was tun, wenn das Kind nur Nudeln und Süßes essen will? – Podcast",
-      "link": "https://www.spiegel.de/psychologie/ernaehrung-im-familienalltag-was-tun-wenn-das-kind-nur-nudeln-und-suesses-essen-will-podcast-a-eab7b4c8-a9c9-441e-b0c4-bf06e94e18e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T08:18:00+00:00"
-    },
-    {
-      "titel": "Was passiert bei einer Bombendrohung im Flugzeug?",
-      "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T08:10:26+00:00"
-    },
-    {
-      "titel": "Paraguay: Santiago Peña als Präsident abgesetzt – Vize übernimmt",
-      "link": "https://www.spiegel.de/ausland/paraguay-santiago-pena-als-praesident-abgesetzt-vize-uebernimmt-a-f188f388-ac17-4d7f-a95c-4e9ff08eba18#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T08:06:00+00:00"
-    },
-    {
-      "titel": "Neuköllner Linker Ahmed Abed vertrat mehrfach Terrorsympathisanten Ibrahim vor Gericht",
-      "link": "https://www.spiegel.de/politik/neukoellner-linker-ahmed-abed-vertrat-mehrfach-terrorsymphatisanten-ibrahim-vor-gericht-a-ab87687b-d693-4cd9-a610-8933708c25b2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T07:51:00+00:00"
-    },
-    {
-      "titel": "Schwere Schäden nach Raketenangriffen auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T07:40:23+00:00"
-    },
-    {
-      "titel": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T07:02:40+00:00"
-    },
-    {
-      "titel": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T06:01:55+00:00"
-    },
-    {
       "titel": "USA: Trump holt den Hardliner an seine Seite",
       "link": "https://www.sueddeutsche.de/politik/midterms-niederlage-republikaner-einwanderung-ice-susie-wiles-demokraten-li.3575293",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-07T05:24:29+00:00"
-    },
-    {
-      "titel": "AfD-Leak: Die interne Sorge vor finanziellen Folgen",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T05:00:12+00:00"
-    },
-    {
-      "titel": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T04:19:10+00:00"
     },
     {
       "titel": "Midterms 2026: US-Regierung gibt im Streit mit Kalifornien auf",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/vanessa-emde-linke-berlin-li.3575552",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-06T18:33:25+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Weiß er etwas, das wir nicht wissen?",
-      "link": "https://www.sueddeutsche.de/kultur/risiken-gefahr-anthropic-openai-bewusstsein-forschung-deep-learning-li.3574525",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T16:05:38+00:00"
-    },
-    {
-      "titel": "Tanz und KI: Copycat statt Copyright",
-      "link": "https://www.sueddeutsche.de/kultur/musikvideo-storm-rapper-yung-lean-youtube-choreografie-kopiert-ki-copyright-li.3570699",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T15:13:10+00:00"
-    },
-    {
-      "titel": "Mercedes in der Formel 1: 1000 Worte des Dankes",
-      "link": "https://www.sueddeutsche.de/sport/formel-1-antonelli-wolff-mercedes-kultur-li.3575266",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T14:56:33+00:00"
     }
   ]
 }
