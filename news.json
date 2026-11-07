@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-07T20:31:02+00:00",
+  "aktualisiert": "2026-11-07T23:59:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,70 @@
   },
   "meldungen": [
     {
-      "titel": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+      "titel": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T23:00:48+00:00"
+    },
+    {
+      "titel": "Jensen Huang: Nvidia-Chef soll Beziehung mit chinesischer Spionin gehabt haben",
+      "link": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-affaere-china-spionin-li.3576581",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T22:15:39+00:00"
+    },
+    {
+      "titel": "US-Präsident bietet UFC-Chef Dana White Job an – der lehnt offenbar ab",
+      "link": "https://www.spiegel.de/ausland/trump-bietet-ufc-chef-dana-white-job-als-pressesprecher-an-a-3fcc68a9-735c-4f0e-ace7-82130710182a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T22:02:00+00:00"
+    },
+    {
+      "titel": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
       "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T20:25:04+00:00"
+      "veroeffentlicht": "2026-11-07T21:51:26+00:00"
+    },
+    {
+      "titel": "Hertha BSC in der 2. Bundesliga: Sie singen weiter das Hundert-Punkte-Lied",
+      "link": "https://www.sueddeutsche.de/sport/2-liga-hertha-wolfsburg-olympiastadion-reese-li.3576816",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T21:51:25+00:00"
+    },
+    {
+      "titel": "Donald Trump weist Justizministerium an, unliebsame Demokraten zu untersuchen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-weist-justizministerium-an-unliebsame-demokraten-zu-untersuchen-a-c5f98176-36ff-41ad-88a9-511276a4b746#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T21:41:00+00:00"
+    },
+    {
+      "titel": "2. Bundesliga: Hertha BSC siegt gegen VfL Wolfsburg, Pfiffe für Rückkehrer Fabian Reese",
+      "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-hertha-bsc-siegt-gegen-vfl-wolfsburg-pfiffe-fuer-rueckkehrer-fabian-reese-a-6bba77d5-2806-46af-83ed-1abdca962fbd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T21:32:00+00:00"
+    },
+    {
+      "titel": "Krakau: Drei weitere Leichen bei Todesschütze zu Hause gefunden",
+      "link": "https://www.spiegel.de/ausland/krakau-drei-weitere-leichen-bei-todesschuetze-zu-hause-gefunden-a-34ab0630-bb52-4f80-967f-800cd473d6f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T21:15:00+00:00"
+    },
+    {
+      "titel": "Krakau: Augenzeugen berichten vom Angriff mit Toten und Verletzten",
+      "link": "https://www.spiegel.de/ausland/krakau-augenzeugen-berichten-vom-angriff-mit-toten-und-verletzten-a-defd7859-86b2-4932-8e8d-4a75ad5cbda5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T20:49:00+00:00"
+    },
+    {
+      "titel": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+      "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T20:33:23+00:00"
     },
     {
       "titel": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
       "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T20:23:13+00:00"
+      "veroeffentlicht": "2026-11-07T20:31:48+00:00"
     },
     {
       "titel": "Newsblog zu Nahost: Eisenkot in Israel mit Regierungsbildung beauftragt",
@@ -55,46 +109,10 @@
       "veroeffentlicht": "2026-11-07T19:43:00+00:00"
     },
     {
-      "titel": "US-Präsident bietet UFC-Chef Dana White Job als Pressesprecher an",
-      "link": "https://www.spiegel.de/ausland/trump-bietet-ufc-chef-dana-white-job-als-pressesprecher-an-a-3fcc68a9-735c-4f0e-ace7-82130710182a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T19:40:00+00:00"
-    },
-    {
-      "titel": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T19:38:37+00:00"
-    },
-    {
-      "titel": "Bundesliga: Maximilian Mittelstädt schießt VfB Stuttgart zum Sieg gegen Werder Bremen",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-maximilian-mittelstaedt-schiesst-vfb-stuttgart-zum-sieg-gegen-werder-bremen-a-4952b90c-32c4-4147-802f-b7dca6682ad9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T19:23:00+00:00"
-    },
-    {
       "titel": "Weniger Teilnehmer bei neuen Demos in Frankreich",
       "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-07T18:57:56+00:00"
-    },
-    {
-      "titel": "Keira Knightley hasst Sprachnachrichten: »Jemand monologisiert auf dich ein«",
-      "link": "https://www.spiegel.de/panorama/leute/keira-knightley-hasst-sprachnachrichten-jemand-monologisiert-auf-dich-ein-a-904231c6-cfb1-4563-9bb5-826011d33fef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T18:23:00+00:00"
-    },
-    {
-      "titel": "Russell Brand: Schauspieler soll mindestens zehn weitere Frauen angegriffen haben",
-      "link": "https://www.spiegel.de/panorama/justiz/russell-brand-schauspieler-soll-mindestens-zehn-weitere-frauen-angegriffen-haben-a-ac8fd471-9d0c-4fbd-91e2-75c0e1cdb06a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T18:01:00+00:00"
-    },
-    {
-      "titel": "Seenotrettung: Das ist meine Nachbarin Wibke. Warum verlässt sie ihre Wohlstandsbubble, um Menschen im Mittelmeer zu retten?",
-      "link": "https://www.spiegel.de/panorama/seenotrettung-das-ist-meine-nachbarin-wibke-warum-verlaesst-sie-ihre-wohlstandsbubble-um-menschen-im-mittelmeer-zu-retten-a-3e472337-d152-496a-8672-0a5fb4122196#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T17:38:00+00:00"
     },
     {
       "titel": "FC Bayern gewinnt 2:1 in Mainz: Ein Sieg im Angstauswärtsspiel und die nächste Neuer-Verletzung",
@@ -139,12 +157,6 @@
       "veroeffentlicht": "2026-11-07T13:41:07+00:00"
     },
     {
-      "titel": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T13:25:25+00:00"
-    },
-    {
       "titel": "Freie Wähler: Nur eine kann das Aiwanger-Gefühl in die Zukunft retten",
       "link": "https://www.sueddeutsche.de/bayern/freie-waehler-aiwanger-nachfolge-tanja-schweiger-li.3575297",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/midterms-niederlage-republikaner-einwanderung-ice-susie-wiles-demokraten-li.3575293",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-07T05:24:29+00:00"
-    },
-    {
-      "titel": "USA: US-Regierung gibt im Streit mit Kalifornien auf",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-oval-office-denkmal-kalifornien-klage-li.3573278",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-07T04:07:56+00:00"
-    },
-    {
-      "titel": "Newsblog zu den Landtagswahlen: Siegmund schließt mehrere Wahlgänge nicht mehr aus",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-ulrich-siegmund-berlin-vanessa-emde-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T21:57:30+00:00"
     }
   ]
 }
