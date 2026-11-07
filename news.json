@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-07T03:14:05+00:00",
+  "aktualisiert": "2026-11-07T10:25:59+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Pflegeversicherung braucht im November Extra-Geldspritze",
-      "link": "https://www.spiegel.de/politik/pflegeversicherung-braucht-im-november-extra-geldspritze-a-ce3800ef-f854-4e76-b4c2-16792074d5f7#ref=rss",
+      "titel": "Kanada: Matthias Roß verkauft seine von Haribo verloste Privatinsel",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/kanada-matthias-ross-verkauft-seine-von-haribo-verloste-privatinsel-a-f07a24ab-82ae-493a-814f-0dc36b8698cb#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T03:08:00+00:00"
+      "veroeffentlicht": "2026-11-07T09:47:00+00:00"
     },
     {
-      "titel": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
+      "titel": "Welche Fakes rund um die Midterms kursieren",
+      "link": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T02:54:24+00:00"
+      "veroeffentlicht": "2026-11-07T09:46:47+00:00"
     },
     {
-      "titel": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html",
+      "titel": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T02:08:29+00:00"
+      "veroeffentlicht": "2026-11-07T09:44:35+00:00"
     },
     {
-      "titel": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T01:50:19+00:00"
-    },
-    {
-      "titel": "Größter Masernausbruch in den USA seit 35 Jahren – Säugling verstorben",
-      "link": "https://www.spiegel.de/gesundheit/groesster-masernausbruch-in-den-usa-seit-35-jahren-saeugling-verstorben-a-a4348ed3-0d1b-4e64-b3cf-ff2fab4fee82#ref=rss",
+      "titel": "Eishockey-WM in Deutschland: Bundesregierung hält Austragung mit Teilnahme Russlands für \"unmöglich\"",
+      "link": "https://www.spiegel.de/sport/eishockey/eishockey-wm-in-deutschland-bundesregierung-haelt-austragung-mit-teilnahme-russlands-fuer-unmoeglich-a-77ae7f94-d8ca-4230-a5d0-bf88126ef2d1#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T00:11:00+00:00"
+      "veroeffentlicht": "2026-11-07T09:39:00+00:00"
     },
     {
-      "titel": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T00:06:18+00:00"
-    },
-    {
-      "titel": "Demonstranten besetzen Baustelle von Microsoft-Rechenzentrum in Amsterdam",
-      "link": "https://www.spiegel.de/ausland/demonstranten-besetzen-baustelle-von-microsoft-rechenzentrum-in-amsterdam-a-487855b6-ecae-4204-9f30-4921beed0d65#ref=rss",
+      "titel": "Gianni Infantino: Auch die Karibik stellt sich jetzt hinter Fifa-Boss",
+      "link": "https://www.spiegel.de/sport/fussball/gianni-infantino-auch-die-karibik-stellt-sich-jetzt-hinter-fifa-boss-a-17905877-18b7-4c90-941f-5a1b1a90e47b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T23:23:00+00:00"
+      "veroeffentlicht": "2026-11-07T09:34:00+00:00"
+    },
+    {
+      "titel": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T09:28:52+00:00"
+    },
+    {
+      "titel": "Donald Trump und die Wirtschaft: Wo die Demokraten seinen Kurs korrigieren könnten",
+      "link": "https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-wo-die-demokraten-seinen-kurs-korrigieren-koennten-a-ad25686b-5dca-498e-9239-e1e7a131cf4a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T09:19:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Kyjiw kämpft nach massiven russischen Angriffen mit Stromproblemen",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-kaempft-nach-massiven-russischen-angriffen-mit-stromproblemen-a-8d4aacfb-3500-4239-9b25-90fd97e43459#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T09:09:00+00:00"
+    },
+    {
+      "titel": "Deutschland: Nachrichtendienste schalten sich offenbar bei Cyberangriffen auf Supermärkte ein",
+      "link": "https://www.spiegel.de/netzwelt/deutschland-nachrichtendienste-schalten-sich-offenbar-bei-cyberangriffen-auf-supermaerkte-ein-a-1f86ee1a-be83-497a-bc91-91da57d27fb7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T09:05:00+00:00"
+    },
+    {
+      "titel": "Ernährung im Familienalltag: Was tun, wenn das Kind nur Nudeln und Süßes essen will? – Podcast",
+      "link": "https://www.spiegel.de/psychologie/ernaehrung-im-familienalltag-was-tun-wenn-das-kind-nur-nudeln-und-suesses-essen-will-podcast-a-eab7b4c8-a9c9-441e-b0c4-bf06e94e18e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T08:18:00+00:00"
+    },
+    {
+      "titel": "Was passiert bei einer Bombendrohung im Flugzeug?",
+      "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T08:10:26+00:00"
+    },
+    {
+      "titel": "Paraguay: Santiago Peña als Präsident abgesetzt – Vize übernimmt",
+      "link": "https://www.spiegel.de/ausland/paraguay-santiago-pena-als-praesident-abgesetzt-vize-uebernimmt-a-f188f388-ac17-4d7f-a95c-4e9ff08eba18#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T08:06:00+00:00"
+    },
+    {
+      "titel": "Neuköllner Linker Ahmed Abed vertrat mehrfach Terrorsympathisanten Ibrahim vor Gericht",
+      "link": "https://www.spiegel.de/politik/neukoellner-linker-ahmed-abed-vertrat-mehrfach-terrorsymphatisanten-ibrahim-vor-gericht-a-ab87687b-d693-4cd9-a610-8933708c25b2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T07:51:00+00:00"
+    },
+    {
+      "titel": "Schwere Schäden nach Raketenangriffen auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T07:40:23+00:00"
+    },
+    {
+      "titel": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T07:02:40+00:00"
+    },
+    {
+      "titel": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T06:01:55+00:00"
+    },
+    {
+      "titel": "USA: Trump holt den Hardliner an seine Seite",
+      "link": "https://www.sueddeutsche.de/politik/midterms-niederlage-republikaner-einwanderung-ice-susie-wiles-demokraten-li.3575293",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T05:24:29+00:00"
+    },
+    {
+      "titel": "AfD-Leak: Die interne Sorge vor finanziellen Folgen",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T05:00:12+00:00"
+    },
+    {
+      "titel": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T04:19:10+00:00"
+    },
+    {
+      "titel": "Midterms 2026: US-Regierung gibt im Streit mit Kalifornien auf",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-oval-office-denkmal-kalifornien-klage-li.3573278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T04:07:56+00:00"
     },
     {
       "titel": "Newsblog zu den Landtagswahlen: Siegmund schließt mehrere Wahlgänge nicht mehr aus",
@@ -55,82 +133,16 @@
       "veroeffentlicht": "2026-11-06T21:57:30+00:00"
     },
     {
-      "titel": "Fußball-Bundesliga: HSV stoppt Borussia Mönchengladbach mit 3:1",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-stoppt-borussia-moenchengladbach-mit-3-1-a-2434da6e-f3d8-4f51-a72b-d9a90866f325#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T21:54:00+00:00"
-    },
-    {
       "titel": "Reaktionen: „Ilse Aigner schätzen wir“",
       "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-06T21:43:24+00:00"
     },
     {
-      "titel": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T20:54:46+00:00"
-    },
-    {
-      "titel": "Ukraine: Wolodymyr Selenskyj macht Vitali Klitschko für Stromausfälle in Kyjiw verantwortlich",
-      "link": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-macht-vitali-klitschko-fuer-stromausfaelle-in-kyjiw-verantwortlich-a-2e10ce20-7817-46f2-89f1-34bb45cb346f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T20:50:00+00:00"
-    },
-    {
-      "titel": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T20:36:48+00:00"
-    },
-    {
-      "titel": "Ilse Aigner und Friedrich Merz: Eine gute Kandidatin. Nur eben nicht seine",
-      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-und-friedrich-merz-eine-gute-kandidatin-nur-eben-nicht-seine-a-04e4b9a9-5ab1-4c0d-b8f4-fde61750a853#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T20:28:00+00:00"
-    },
-    {
-      "titel": "Ilse Aigner: CSU-Politikerin soll erste Präsidentin der Bundesrepublik werden",
-      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-soll-erste-praesidentin-der-bundesrepublik-werden-a-9b1044f7-38e6-4d2b-98b3-ff3684d399f9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T20:26:00+00:00"
-    },
-    {
-      "titel": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T20:20:30+00:00"
-    },
-    {
-      "titel": "USA: Donald Trump ersetzt Stabschefin Susie Wiles – Stephen Miller soll nachfolgen",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-ersetzt-stabschefin-susie-wiles-stephen-miller-soll-nachfolgen-a-2c11d3f6-4f4d-43d3-923a-c17f6695c082#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T20:18:00+00:00"
-    },
-    {
-      "titel": "USA: Bürgermeister von Houston schränkt Zusammenarbeit mit ICE an",
-      "link": "https://www.spiegel.de/ausland/usa-buergermeister-von-houston-schraenkt-zusammenarbeit-mit-ice-an-a-905e8f8f-0170-477d-8076-6ce5900f3cb6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T19:53:00+00:00"
-    },
-    {
-      "titel": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
-      "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T19:39:20+00:00"
-    },
-    {
-      "titel": "Midterms 2026: Trump tauscht seine Stabschefin aus",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-oval-office-denkmal-li.3573278",
+      "titel": "Ilse Aigner: Eine, die verbindet – und die sich wehren kann",
+      "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-bayern-landtagspraesidentin-csu-li.3574561",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T19:26:35+00:00"
-    },
-    {
-      "titel": "Erneut Hackerangriff auf Münchener Universität - TUM betroffen",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T19:23:12+00:00"
+      "veroeffentlicht": "2026-11-06T20:39:14+00:00"
     },
     {
       "titel": "Abgeordnetenhaus: Berliner Linke fordert Mandatsverzicht von Emde",
@@ -151,22 +163,10 @@
       "veroeffentlicht": "2026-11-06T15:13:10+00:00"
     },
     {
-      "titel": "Harry Kane beim FC Bayern: Ein verrückter Vertrag? Stimmt, aber einer mit Plan dahinter",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-vertrag-millionen-kommentar-li.3575325",
+      "titel": "Mercedes in der Formel 1: 1000 Worte des Dankes",
+      "link": "https://www.sueddeutsche.de/sport/formel-1-antonelli-wolff-mercedes-kultur-li.3575266",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T14:54:53+00:00"
-    },
-    {
-      "titel": "Fifa-Wahl: Mindestens ein Joker gegen Infantino",
-      "link": "https://www.sueddeutsche.de/sport/fifa-infantino-wahl-praesident-kandidatur-tashima-li.3575397",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T13:56:58+00:00"
-    },
-    {
-      "titel": "Deutsche Bahn: Vorbild Österreich: Ein Sondervermögen fürs Schienennetz",
-      "link": "https://www.sueddeutsche.de/wirtschaft/schienenfonds-deutsche-bahn-spd-steffen-bilger-infrastruktur-li.3575338",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T13:53:58+00:00"
+      "veroeffentlicht": "2026-11-06T14:56:33+00:00"
     }
   ]
 }
