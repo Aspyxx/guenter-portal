@@ -1,11 +1,47 @@
 {
-  "aktualisiert": "2026-11-06T23:31:40+00:00",
+  "aktualisiert": "2026-11-07T03:14:05+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Pflegeversicherung braucht im November Extra-Geldspritze",
+      "link": "https://www.spiegel.de/politik/pflegeversicherung-braucht-im-november-extra-geldspritze-a-ce3800ef-f854-4e76-b4c2-16792074d5f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T03:08:00+00:00"
+    },
+    {
+      "titel": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T02:54:24+00:00"
+    },
+    {
+      "titel": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T02:08:29+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T01:50:19+00:00"
+    },
+    {
+      "titel": "Größter Masernausbruch in den USA seit 35 Jahren – Säugling verstorben",
+      "link": "https://www.spiegel.de/gesundheit/groesster-masernausbruch-in-den-usa-seit-35-jahren-saeugling-verstorben-a-a4348ed3-0d1b-4e64-b3cf-ff2fab4fee82#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T00:11:00+00:00"
+    },
+    {
+      "titel": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T00:06:18+00:00"
+    },
     {
       "titel": "Demonstranten besetzen Baustelle von Microsoft-Rechenzentrum in Amsterdam",
       "link": "https://www.spiegel.de/ausland/demonstranten-besetzen-baustelle-von-microsoft-rechenzentrum-in-amsterdam-a-487855b6-ecae-4204-9f30-4921beed0d65#ref=rss",
@@ -85,12 +121,6 @@
       "veroeffentlicht": "2026-11-06T19:39:20+00:00"
     },
     {
-      "titel": "Hakeem Jeffries (Demokraten): Der Gegenspieler von Donald Trump im neuen Kongress",
-      "link": "https://www.spiegel.de/ausland/hakeem-jeffries-demokraten-der-gegenspieler-von-donald-trump-im-neuen-kongress-a-c47cce79-ecc5-44cc-9904-0b6eb8179eb0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T19:37:00+00:00"
-    },
-    {
       "titel": "Midterms 2026: Trump tauscht seine Stabschefin aus",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-oval-office-denkmal-li.3573278",
       "quelle": "Süddeutsche",
@@ -103,40 +133,10 @@
       "veroeffentlicht": "2026-11-06T19:23:12+00:00"
     },
     {
-      "titel": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T18:53:38+00:00"
-    },
-    {
       "titel": "Abgeordnetenhaus: Berliner Linke fordert Mandatsverzicht von Emde",
       "link": "https://www.sueddeutsche.de/politik/vanessa-emde-linke-berlin-li.3575552",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-06T18:33:25+00:00"
-    },
-    {
-      "titel": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-06T18:24:00+00:00"
-    },
-    {
-      "titel": "Die gestohlenen Kinder von Oleschky",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T17:48:38+00:00"
-    },
-    {
-      "titel": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T17:46:51+00:00"
-    },
-    {
-      "titel": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-06T17:30:36+00:00"
     },
     {
       "titel": "Künstliche Intelligenz: Weiß er etwas, das wir nicht wissen?",
