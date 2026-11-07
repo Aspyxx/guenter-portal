@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-07T16:38:09+00:00",
+  "aktualisiert": "2026-11-07T20:31:02+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,106 @@
   },
   "meldungen": [
     {
-      "titel": "Verletzt im Studium: Wenn der Lebensplan zu scheitern droht",
-      "link": "https://www.spiegel.de/start/verletzt-im-studium-wenn-der-lebensplan-zu-scheitern-droht-a-35a4a17c-62bb-456d-a4f1-2d1adf6f3dab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T16:26:00+00:00"
-    },
-    {
       "titel": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
       "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T15:55:41+00:00"
+      "veroeffentlicht": "2026-11-07T20:25:04+00:00"
     },
     {
-      "titel": "USA: Festnahme am Weißen Haus – Verdächtiger wollte offenbar Donald Trump töten",
-      "link": "https://www.spiegel.de/panorama/justiz/usa-festnahme-am-weissen-haus-verdaechtiger-wollte-offenbar-donald-trump-toeten-a-459dc802-69c7-4f1d-9675-cc26c7d10ff1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T15:52:00+00:00"
+      "titel": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+      "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T20:23:13+00:00"
     },
     {
-      "titel": "Südtirol zwischen Italien und Österreich: Rechtsruck in den Alpen – Podcast",
-      "link": "https://www.spiegel.de/ausland/suedtirol-zwischen-italien-und-oesterreich-rechtsruck-in-den-alpen-podcast-a-3e94f918-2b36-441c-a640-4b33d83b9280#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T15:39:00+00:00"
+      "titel": "Newsblog zu Nahost: Eisenkot in Israel mit Regierungsbildung beauftragt",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-eisenkot-regierungsbildung-li.3571386",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T20:18:32+00:00"
     },
     {
-      "titel": "Krakau: Tote und Verletzte nach Schüssen in Polen",
-      "link": "https://www.spiegel.de/ausland/krakau-tote-und-verletzte-nach-schuessen-in-polen-a-706b54e1-b14f-4068-bf4d-be1aae44cf29#ref=rss",
+      "titel": "Israel: Netanyahu-Rivale Gadi Eisenkot mit Regierungsbildung beauftragt",
+      "link": "https://www.spiegel.de/ausland/israel-netanjahu-rivale-gadi-einsenkot-mit-regierungsbildung-beauftragt-a-309f7855-3a51-4503-a6e8-2ead13f9dfe8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T15:31:00+00:00"
+      "veroeffentlicht": "2026-11-07T20:04:00+00:00"
     },
     {
-      "titel": "Nvidia: Medienbericht wirft Huang Affäre mit mutmaßlicher chinesischer Spionin vor",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-medienbericht-wirft-huang-affaere-mit-mutmasslicher-chinesischer-spionin-vor-a-8b6c5163-b475-4478-a335-3aeaeccdca48#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T15:02:00+00:00"
+      "titel": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T19:56:52+00:00"
     },
     {
-      "titel": "Fernlicht, Abblendlicht, Lichtassistenten: Blenden und geblendet werden",
-      "link": "https://www.spiegel.de/mobilitaet/auto/fernlicht-abblendlicht-lichtassistenten-blenden-und-geblendet-werden-a-2c178be6-9fff-464a-a809-27d23cc0b464#ref=rss",
+      "titel": "Krakau: Schütze laut Innenminister von rechtsextremer Ideologie fasziniert",
+      "link": "https://www.spiegel.de/ausland/krakau-schuetze-laut-innenminister-von-rechtsextremer-ideologie-fasziniert-a-00e163d3-dab8-47ea-bf22-f010d1e18463#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T14:59:00+00:00"
+      "veroeffentlicht": "2026-11-07T19:52:00+00:00"
+    },
+    {
+      "titel": "»Minotaurus« von Andrej Swagjintsew: Bilder aus den Tiefen der russischen Seele",
+      "link": "https://www.spiegel.de/kultur/kino/minotaurus-von-andrej-swagjintsew-bilder-aus-den-tiefen-der-russischen-seele-a-3e967759-cbd1-4a0b-bf94-9913ba7d2282#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T19:48:00+00:00"
+    },
+    {
+      "titel": "Online-Betrug: Jeder Neunte betroffen – ein Fall zeigt die neue Dimension",
+      "link": "https://www.spiegel.de/wirtschaft/service/online-betrug-jeder-neunte-betroffen-ein-fall-zeigt-die-neue-dimension-a-43ec84c1-0400-4864-9027-4d18cfb7f594#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T19:43:00+00:00"
+    },
+    {
+      "titel": "US-Präsident bietet UFC-Chef Dana White Job als Pressesprecher an",
+      "link": "https://www.spiegel.de/ausland/trump-bietet-ufc-chef-dana-white-job-als-pressesprecher-an-a-3fcc68a9-735c-4f0e-ace7-82130710182a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T19:40:00+00:00"
+    },
+    {
+      "titel": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T19:38:37+00:00"
+    },
+    {
+      "titel": "Bundesliga: Maximilian Mittelstädt schießt VfB Stuttgart zum Sieg gegen Werder Bremen",
+      "link": "https://www.spiegel.de/sport/fussball/bundesliga-maximilian-mittelstaedt-schiesst-vfb-stuttgart-zum-sieg-gegen-werder-bremen-a-4952b90c-32c4-4147-802f-b7dca6682ad9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T19:23:00+00:00"
+    },
+    {
+      "titel": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-07T18:57:56+00:00"
+    },
+    {
+      "titel": "Keira Knightley hasst Sprachnachrichten: »Jemand monologisiert auf dich ein«",
+      "link": "https://www.spiegel.de/panorama/leute/keira-knightley-hasst-sprachnachrichten-jemand-monologisiert-auf-dich-ein-a-904231c6-cfb1-4563-9bb5-826011d33fef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T18:23:00+00:00"
+    },
+    {
+      "titel": "Russell Brand: Schauspieler soll mindestens zehn weitere Frauen angegriffen haben",
+      "link": "https://www.spiegel.de/panorama/justiz/russell-brand-schauspieler-soll-mindestens-zehn-weitere-frauen-angegriffen-haben-a-ac8fd471-9d0c-4fbd-91e2-75c0e1cdb06a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T18:01:00+00:00"
+    },
+    {
+      "titel": "Seenotrettung: Das ist meine Nachbarin Wibke. Warum verlässt sie ihre Wohlstandsbubble, um Menschen im Mittelmeer zu retten?",
+      "link": "https://www.spiegel.de/panorama/seenotrettung-das-ist-meine-nachbarin-wibke-warum-verlaesst-sie-ihre-wohlstandsbubble-um-menschen-im-mittelmeer-zu-retten-a-3e472337-d152-496a-8672-0a5fb4122196#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-07T17:38:00+00:00"
+    },
+    {
+      "titel": "FC Bayern gewinnt 2:1 in Mainz: Ein Sieg im Angstauswärtsspiel und die nächste Neuer-Verletzung",
+      "link": "https://www.sueddeutsche.de/sport/bayern-mainz-bundesliga-neuer-verletzung-li.3576329",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T17:00:33+00:00"
+    },
+    {
+      "titel": "Bundesliga: Lauter Nationalspieler treffen, aber Füllkrug ausnahmsweise nicht",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-spieltag-ergebnisse-bayern-dortmund-li.3576376",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-07T16:53:10+00:00"
     },
     {
       "titel": "Wofür Trumps neuer Stabschef Miller steht",
@@ -67,22 +127,10 @@
       "veroeffentlicht": "2026-11-07T14:41:43+00:00"
     },
     {
-      "titel": "BSW-Spitze kritisiert Nominierung von Constantin Schreiber für die Bundesversammlung",
-      "link": "https://www.spiegel.de/politik/bsw-spitze-kritisiert-nominierung-von-constantin-schreiber-fuer-die-bundesversammlung-a-3e0ec6e6-ccfd-47dd-bf21-1877ca10ae19#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T14:38:00+00:00"
-    },
-    {
       "titel": "Hamburger SV: Ein Hamburger Bündnis mit Fußballgott und Gegner",
       "link": "https://www.sueddeutsche.de/sport/hamburger-sv-gladbach-tore-muheim-nandja-groenbaek-li.3575751",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-07T14:37:23+00:00"
-    },
-    {
-      "titel": "Hamburg: Polizei nimmt offenbar Hells-Angels-Rocker fest",
-      "link": "https://www.spiegel.de/panorama/justiz/hamburg-polizei-nimmt-offenbar-hells-angels-rocker-fest-a-f01b1bc4-b971-487a-a170-edd29d6ec777#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T13:52:00+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Pistorius zuversichtlich, dass es keine Wehrpflicht braucht",
@@ -91,22 +139,10 @@
       "veroeffentlicht": "2026-11-07T13:41:07+00:00"
     },
     {
-      "titel": "Schwarzmilzferner geschrumpft: Forscher beerdigen letzten Gletscher in den Allgäuer Alpen",
-      "link": "https://www.spiegel.de/wissenschaft/schwarzmilzferner-geschrumpft-forscher-beerdigen-letzten-gletscher-in-den-allgaeuer-alpen-a-9ac75bb8-9b4a-40c9-a785-fc2c54185215#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-07T13:37:00+00:00"
-    },
-    {
       "titel": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
       "link": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-07T13:25:25+00:00"
-    },
-    {
-      "titel": "Schwere Schäden nach Raketenangriffen auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T12:13:38+00:00"
     },
     {
       "titel": "Freie Wähler: Nur eine kann das Aiwanger-Gefühl in die Zukunft retten",
@@ -115,31 +151,13 @@
       "veroeffentlicht": "2026-11-07T11:50:55+00:00"
     },
     {
-      "titel": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
-      "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T11:30:37+00:00"
-    },
-    {
-      "titel": "Bandenchef bittet UN um Vermittlung in Haiti",
-      "link": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T10:51:13+00:00"
-    },
-    {
-      "titel": "Welche Fakes rund um die Midterms kursieren",
-      "link": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-07T09:46:47+00:00"
-    },
-    {
       "titel": "USA: Trump holt den Hardliner an seine Seite",
       "link": "https://www.sueddeutsche.de/politik/midterms-niederlage-republikaner-einwanderung-ice-susie-wiles-demokraten-li.3575293",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-07T05:24:29+00:00"
     },
     {
-      "titel": "Midterms 2026: US-Regierung gibt im Streit mit Kalifornien auf",
+      "titel": "USA: US-Regierung gibt im Streit mit Kalifornien auf",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-oval-office-denkmal-kalifornien-klage-li.3573278",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-07T04:07:56+00:00"
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-ulrich-siegmund-berlin-vanessa-emde-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-06T21:57:30+00:00"
-    },
-    {
-      "titel": "Reaktionen: „Ilse Aigner schätzen wir“",
-      "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T21:43:24+00:00"
-    },
-    {
-      "titel": "Ilse Aigner: Eine, die verbindet – und die sich wehren kann",
-      "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-bayern-landtagspraesidentin-csu-li.3574561",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T20:39:14+00:00"
-    },
-    {
-      "titel": "Abgeordnetenhaus: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.sueddeutsche.de/politik/vanessa-emde-linke-berlin-li.3575552",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-06T18:33:25+00:00"
     }
   ]
 }
