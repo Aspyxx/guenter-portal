@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-08T13:28:29+00:00",
+  "aktualisiert": "2026-11-08T18:30:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,94 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "FC Bayern München: Manuel Neuer fällt nach Sehnenteilriss aus",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-nach-sehnenteilriss-aus-a-63090bc6-de16-4f17-a73b-52040c4a66e3#ref=rss",
+      "titel": "Ilse Aigner: Im CDU-Präsidium dürfte Kanzler Friedrich Merz ihre Nominierung als Bundespräsidentin verkünden",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-im-cdu-praesidium-duerfte-kanzler-friedrich-merz-ihre-nominierung-als-bundespraesidentin-verkuenden-a-16d83dfb-440a-4514-a5d5-c14d660df44d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T13:13:00+00:00"
+      "veroeffentlicht": "2026-11-08T18:21:00+00:00"
     },
     {
-      "titel": "Newsblog zur Bundespolitik: Sondervermögen: Kaum Geld für Schulen und Kitas abgerufen",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-sondervermoegen-schulen-kitas-li.3568524",
+      "titel": "Donald Trump bietet UFC-Chef Dana White Job als Sprecher an: Alles nur eine Verwechslung?",
+      "link": "https://www.spiegel.de/netzwelt/web/donald-trump-bietet-ufc-chef-dana-white-job-als-sprecher-an-alles-nur-eine-verwechslung-a-2f71c575-00ad-44d0-872e-10b58830d0dd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T18:17:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu Nahost: Eisenkot: Israel „an extrem gefährlichem Punkt“",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-eisenkot-regierungsbildung-notstand-li.3571386",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T12:57:00+00:00"
+      "veroeffentlicht": "2026-11-08T17:55:39+00:00"
     },
     {
-      "titel": "Beziehung: Wie Sie nach Enttäuschungen wieder lieben lernen",
-      "link": "https://www.spiegel.de/partnerschaft/beziehung-wie-sie-nach-enttaeuschungen-wieder-lieben-lernen-a-24512e0a-4daa-4e20-b6e7-7d35f3d53bc6#ref=rss",
+      "titel": "Ostrowiec Świętokrzyski: Anwohner berichten über den Todesschützen von Krakau",
+      "link": "https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau-a-ccb2bd06-6ffa-463b-a972-99a9bb64861e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T12:51:00+00:00"
+      "veroeffentlicht": "2026-11-08T17:31:00+00:00"
     },
     {
-      "titel": "Thomas Markle Jr. – Philippinen: Polizei entschuldigt sich bei Halbbruder von Herzogin Meghan",
-      "link": "https://www.spiegel.de/panorama/leute/thomas-markle-jr-philippinen-polizei-entschuldigt-sich-bei-halbbruder-von-herzogin-meghan-a-c77a6e5f-fba5-4ac1-8055-9d885c909ec0#ref=rss",
+      "titel": "Florian Wirtz beim FC Liverpool: Erstes Ligator der Saison gegen Crystal Palace",
+      "link": "https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T12:48:00+00:00"
+      "veroeffentlicht": "2026-11-08T17:12:00+00:00"
     },
     {
-      "titel": "Manuel Neuer: Und wieder trifft die Bayern eine Verletzung",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-neuer-hoeness-musiala-verletzung-li.3576901",
+      "titel": "Brandenburg: Leiche der vermissten Lisa gefunden – Verdächtiger festgenommen",
+      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T17:04:00+00:00"
+    },
+    {
+      "titel": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+      "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T17:02:14+00:00"
+    },
+    {
+      "titel": "Krakau: Polizisten stellen Attentäter und werden als Helden gefeiert",
+      "link": "https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T16:45:00+00:00"
+    },
+    {
+      "titel": "USA: Kampfsport-Chef als White-House-Sprecher? Trump trifft Dana White",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-white-house-sprecher-dana-white-li.3573278",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T12:34:31+00:00"
+      "veroeffentlicht": "2026-11-08T16:40:00+00:00"
     },
     {
-      "titel": "FC Bayern München: Uli Hoeneß glaubt an Rückkehr von Vincent Kompany bis Ende November",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-glaubt-an-rueckkehr-von-vincent-kompany-bis-ende-november-a-84e9211e-36d1-4277-a792-a2c769f98f0f#ref=rss",
+      "titel": "Fußball-Bundesliga: 1. FC Köln unterliegt Bayer Leverkusen, El-Mala-Brüder kombinieren sich zum Anschlusstor",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor-a-4933ff7e-5d31-4596-9ae8-7aaa11bc55c3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T12:29:00+00:00"
+      "veroeffentlicht": "2026-11-08T16:35:00+00:00"
     },
     {
-      "titel": "Fürth und Kempten: Ermittler suchen in Cold-Case-Fall zweier Mädchen nach weiteren möglichen Opfern",
-      "link": "https://www.spiegel.de/panorama/justiz/fuerth-und-kempten-ermittler-suchen-in-cold-case-fall-zweier-maedchen-nach-weiteren-moeglichen-opfern-a-98fa9381-c82a-486a-9f61-df1cf4bc5b4d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T12:25:00+00:00"
+      "titel": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T16:33:42+00:00"
     },
     {
-      "titel": "Felix Nmecha: BVB-Fans kritisieren Jubelgeste und Nähe zu evangelikalen Netzwerken",
-      "link": "https://www.spiegel.de/sport/fussball/felix-nmecha-bvb-fans-kritisieren-jubelgeste-und-naehe-zu-evangelikalen-netzwerken-a-04f5a7c5-7c33-44f6-95eb-d6c97cb93abe#ref=rss",
+      "titel": "Hape Kerkeling oder Ilse Aigner? Komiker zeigt sich als fairer Verlierer",
+      "link": "https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T12:23:00+00:00"
+      "veroeffentlicht": "2026-11-08T16:19:00+00:00"
     },
     {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T12:10:00+00:00"
+      "titel": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T16:07:41+00:00"
     },
     {
-      "titel": "Polen: Amoklauf in Krakau - der Terror hat Polen eingeholt",
-      "link": "https://www.spiegel.de/ausland/polen-amoklauf-in-krakau-der-terror-hat-polen-eingeholt-a-87c8d521-23d7-4e9a-b2f0-ddc0bb90046c#ref=rss",
+      "titel": "Evolution der Haustierhaltung: »Die Jungaffen versuchten, auf Schweinen zu reiten«",
+      "link": "https://www.spiegel.de/wissenschaft/evolution-der-haustierhaltung-die-jungaffen-versuchten-auf-schweinen-zu-reiten-a-3d4d56d6-b93e-427c-ba6a-07f8890af918#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T12:07:00+00:00"
+      "veroeffentlicht": "2026-11-08T16:06:00+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Palästinensische Fahne vor Reichstag gehisst – Klöckner fordert mehr Schutz",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-bundestag-fahne-palaestina-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T16:04:00+00:00"
+    },
+    {
+      "titel": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T15:28:00+00:00"
+    },
+    {
+      "titel": "Marbacher Schillerrede 2026: Sind nur die Gedanken frei oder der ganze Mensch?",
+      "link": "https://www.sueddeutsche.de/kultur/helga-schubert-schillerrede-marbach-friedrich-schiller-friedliche-revolution-klassik-li.3574980",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T15:01:15+00:00"
+    },
+    {
+      "titel": "Berliner Philharmoniker: Machtkampf auf offener Bühne",
+      "link": "https://www.sueddeutsche.de/kultur/ivan-fischer-konzerte-absagen-mahler-orchester-li.3576950",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T14:59:31+00:00"
+    },
+    {
+      "titel": "Russland: Putins Wette: Er hält am längsten durch",
+      "link": "https://www.sueddeutsche.de/meinung/wladimir-putin-russland-ukraine-europa-donald-trump-li.3571786",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T14:53:05+00:00"
+    },
+    {
+      "titel": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T14:50:57+00:00"
+    },
+    {
+      "titel": "Mann hisst Palästinenser-Flagge vor Berliner Reichstagsgebäude",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/reichstag-palaestina-flagge-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T14:05:08+00:00"
+    },
+    {
+      "titel": "Anschlag in Krakau: Der Tag, an dem Polen seine Sicherheit verlor",
+      "link": "https://www.sueddeutsche.de/panorama/polen-krakau-anschlag-li.3576940",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T13:57:22+00:00"
+    },
+    {
+      "titel": "Hakeem Jeffries: Der Gegenspieler von Trump und dessen Hardliner-Stabschef",
+      "link": "https://www.sueddeutsche.de/politik/usa-hakeem-jeffries-speaker-repraesentantenhaus-donald-trump-stephen-miller-li.3575716",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T13:56:11+00:00"
+    },
+    {
+      "titel": "Antisemitismus-Debatte: Der Fall Vanessa Emde ist jetzt eine Chance für die Berliner Linke",
+      "link": "https://www.sueddeutsche.de/meinung/vanessa-emde-die-linke-berlin-ausschluss-antisemitismus-kommentar-li.3576920",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T13:22:32+00:00"
     },
     {
       "titel": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-08T12:05:57+00:00"
-    },
-    {
-      "titel": "Leute: „Jemand monologisiert auf dich ein“",
-      "link": "https://www.sueddeutsche.de/panorama/keira-knightley-andrea-kiewel-simone-ballack-klaus-meine-rob-sand-li.3575276",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T12:02:16+00:00"
-    },
-    {
-      "titel": "Europa: Wie junge Menschen für eine bessere Zukunft kämpfen – nur gute Nachrichten",
-      "link": "https://www.spiegel.de/ausland/europa-wie-junge-menschen-fuer-eine-bessere-zukunft-kaempfen-nur-gute-nachrichten-a-b3cb5034-b82e-4e2d-84d2-c29f7fc5818b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T11:56:00+00:00"
-    },
-    {
-      "titel": "Nottingham-Trainer Glasner: Der Fischplatten-Schwur hält",
-      "link": "https://www.sueddeutsche.de/sport/premier-league-nottingham-glasner-manchester-city-li.3576914",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T11:51:16+00:00"
-    },
-    {
-      "titel": "Tabellenführer Hertha BSC: Wolfsburg fühlt sich verpfiffen",
-      "link": "https://www.sueddeutsche.de/sport/hertha-wolfsburg-reese-elfmeter-zweite-liga-li.3576910",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T11:49:50+00:00"
     },
     {
       "titel": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
@@ -107,66 +167,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-08T11:04:42+00:00"
-    },
-    {
-      "titel": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T10:32:46+00:00"
-    },
-    {
-      "titel": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T10:26:04+00:00"
-    },
-    {
-      "titel": "Trump will Kampfsportunternehmer White als Pressesprecher",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T09:59:49+00:00"
-    },
-    {
-      "titel": "Familienmitglieder des Schützen ebenfalls getötet",
-      "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T09:58:10+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV. setzt Südamerika-Reise fort",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T08:27:56+00:00"
-    },
-    {
-      "titel": "Gescheitertes Tesla-Projekt: Musks Fantasien",
-      "link": "https://www.sueddeutsche.de/wirtschaft/tesla-cybertruck-li.3575597",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T08:23:21+00:00"
-    },
-    {
-      "titel": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
-      "link": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T07:39:28+00:00"
-    },
-    {
-      "titel": "„Wie wir Extremisten den Stecker ziehen“: Lachen gegen radikale Rechte",
-      "link": "https://www.sueddeutsche.de/politik/wolfgang-holzhauser-hey-wolfi-rechtsextremismus-social-media-afd-buch-li.3572063",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T06:56:32+00:00"
-    },
-    {
-      "titel": "Kritik am Staat Israel: Vom moralischen Niedergang des Zionismus",
-      "link": "https://www.sueddeutsche.de/politik/omer-bartov-israel-zionismus-nahostkonflikt-israel-was-lief-falsch-li.3543611",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T06:55:25+00:00"
-    },
-    {
-      "titel": "Jensen Huang: Nvidia-Chef soll Beziehung mit chinesischer Spionin gehabt haben",
-      "link": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-affaere-china-spionin-li.3576581",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-07T22:15:39+00:00"
     }
   ]
 }
