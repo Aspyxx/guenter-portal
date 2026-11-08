@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-08T18:30:55+00:00",
+  "aktualisiert": "2026-11-08T22:30:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,94 @@
   },
   "meldungen": [
     {
-      "titel": "Ilse Aigner: Im CDU-Präsidium dürfte Kanzler Friedrich Merz ihre Nominierung als Bundespräsidentin verkünden",
+      "titel": "Niedersachsen: Ministerin entsetzt über »Gewaltfantasien« von CDU-Chef Sebastian Lechner",
+      "link": "https://www.spiegel.de/politik/deutschland/niedersachsen-ministerin-entsetzt-ueber-gewaltfantasien-von-cdu-chef-sebastian-lechner-a-daf3441b-4def-4edf-97e6-1fa235ebaad0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T22:03:00+00:00"
+    },
+    {
+      "titel": "Kim Kardashian: Kunden schimpfen über 148-Dollar-Adventskalender",
+      "link": "https://www.spiegel.de/panorama/leute/kim-kardashian-kunden-schimpfen-ueber-148-dollar-adventskalender-a-98ab4ec2-b4e8-4540-a804-2758fe0415a7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T21:52:00+00:00"
+    },
+    {
+      "titel": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
+      "link": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T20:50:00+00:00"
+    },
+    {
+      "titel": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T20:38:04+00:00"
+    },
+    {
+      "titel": "Österreich: 61-jähriger Deutscher stirbt bei Wingsuit-Unfall",
+      "link": "https://www.spiegel.de/panorama/oesterreich-61-jaehriger-deutscher-stirbt-bei-wingsuit-unfall-a-0fb09787-3103-40ba-a5e3-2af875499a51#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T20:28:00+00:00"
+    },
+    {
+      "titel": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T20:15:13+00:00"
+    },
+    {
+      "titel": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T20:05:22+00:00"
+    },
+    {
+      "titel": "Formel 1: Lando Norris siegt in São Paulo, Mercedes jubelt über Team-WM",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-lando-norris-siegt-in-sao-paulo-mercedes-jubelt-ueber-team-wm-a-8515aa9f-3837-4ac7-b019-b121968f9cb7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T20:00:00+00:00"
+    },
+    {
+      "titel": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T19:43:02+00:00"
+    },
+    {
+      "titel": "Steinmeier-Nachfolge: Merz schlägt Aigner als Bundespräsidentin vor",
+      "link": "https://www.sueddeutsche.de/politik/bundespraesidentin-ilse-aigner-friedrich-merz-cdu-csu-praesidium-li.3576988",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T19:21:11+00:00"
+    },
+    {
+      "titel": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
+      "link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T18:53:14+00:00"
+    },
+    {
+      "titel": "Gazastreifen: Zelte versinken im Wasser – Vertriebene ohne Schutz",
+      "link": "https://www.spiegel.de/ausland/gazastreifen-zelte-versinken-im-wasser-vertriebene-ohne-schutz-a-ba82bba1-4889-4798-b986-f87037618676#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T18:52:00+00:00"
+    },
+    {
+      "titel": "Warum Pilze für das Leben auf der Erde unverzichtbar sind",
+      "link": "https://www.spiegel.de/deinspiegel/warum-pilze-fuer-das-leben-auf-der-erde-unverzichtbar-sind-a-1b36f12a-545c-4dc7-9f91-574b144b161f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T18:47:00+00:00"
+    },
+    {
+      "titel": "Kirche: Pfarrer Christian Schäfer kellnert im Kasseler Café",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/kirche-pfarrer-christian-schaefer-kellnert-im-kasseler-cafe-a-a152104c-9944-4415-815a-d74dd85bd1f1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-08T18:28:00+00:00"
+    },
+    {
+      "titel": "Ilse Aigner: Im CDU-Präsidium dürfte Friedrich Merz ihre Nominierung als Bundespräsidentin verkünden",
       "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-im-cdu-praesidium-duerfte-kanzler-friedrich-merz-ihre-nominierung-als-bundespraesidentin-verkuenden-a-16d83dfb-440a-4514-a5d5-c14d660df44d#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-11-08T18:21:00+00:00"
-    },
-    {
-      "titel": "Donald Trump bietet UFC-Chef Dana White Job als Sprecher an: Alles nur eine Verwechslung?",
-      "link": "https://www.spiegel.de/netzwelt/web/donald-trump-bietet-ufc-chef-dana-white-job-als-sprecher-an-alles-nur-eine-verwechslung-a-2f71c575-00ad-44d0-872e-10b58830d0dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T18:17:00+00:00"
     },
     {
       "titel": "Newsblog zu Nahost: Eisenkot: Israel „an extrem gefährlichem Punkt“",
@@ -25,34 +103,10 @@
       "veroeffentlicht": "2026-11-08T17:55:39+00:00"
     },
     {
-      "titel": "Ostrowiec Świętokrzyski: Anwohner berichten über den Todesschützen von Krakau",
-      "link": "https://www.spiegel.de/ausland/ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau-a-ccb2bd06-6ffa-463b-a972-99a9bb64861e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T17:31:00+00:00"
-    },
-    {
-      "titel": "Florian Wirtz beim FC Liverpool: Erstes Ligator der Saison gegen Crystal Palace",
-      "link": "https://www.spiegel.de/sport/fussball/florian-wirtz-beim-fc-liverpool-erstes-ligator-der-saison-gegen-crystal-palace-a-55e6b2ec-cc77-4155-ad85-f28434872260#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T17:12:00+00:00"
-    },
-    {
-      "titel": "Brandenburg: Leiche der vermissten Lisa gefunden – Verdächtiger festgenommen",
-      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T17:04:00+00:00"
-    },
-    {
       "titel": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
       "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-08T17:02:14+00:00"
-    },
-    {
-      "titel": "Krakau: Polizisten stellen Attentäter und werden als Helden gefeiert",
-      "link": "https://www.spiegel.de/ausland/krakau-polizisten-stellen-attentaeter-und-werden-als-helden-gefeiert-a-29b793cf-5296-4c5d-8d05-7253e6f63652#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T16:45:00+00:00"
     },
     {
       "titel": "USA: Kampfsport-Chef als White-House-Sprecher? Trump trifft Dana White",
@@ -61,34 +115,16 @@
       "veroeffentlicht": "2026-11-08T16:40:00+00:00"
     },
     {
-      "titel": "Fußball-Bundesliga: 1. FC Köln unterliegt Bayer Leverkusen, El-Mala-Brüder kombinieren sich zum Anschlusstor",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor-a-4933ff7e-5d31-4596-9ae8-7aaa11bc55c3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T16:35:00+00:00"
-    },
-    {
       "titel": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-08T16:33:42+00:00"
     },
     {
-      "titel": "Hape Kerkeling oder Ilse Aigner? Komiker zeigt sich als fairer Verlierer",
-      "link": "https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-hape-kerkeling-reagiert-auf-ilse-aigner-a-8a04e4d3-5307-4431-91b6-ad8c1ebb6e9e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T16:19:00+00:00"
-    },
-    {
       "titel": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
       "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-08T16:07:41+00:00"
-    },
-    {
-      "titel": "Evolution der Haustierhaltung: »Die Jungaffen versuchten, auf Schweinen zu reiten«",
-      "link": "https://www.spiegel.de/wissenschaft/evolution-der-haustierhaltung-die-jungaffen-versuchten-auf-schweinen-zu-reiten-a-3d4d56d6-b93e-427c-ba6a-07f8890af918#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T16:06:00+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Palästinensische Fahne vor Reichstag gehisst – Klöckner fordert mehr Schutz",
@@ -121,52 +157,16 @@
       "veroeffentlicht": "2026-11-08T14:53:05+00:00"
     },
     {
-      "titel": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T14:50:57+00:00"
-    },
-    {
-      "titel": "Mann hisst Palästinenser-Flagge vor Berliner Reichstagsgebäude",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/reichstag-palaestina-flagge-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T14:05:08+00:00"
+      "titel": "Theater: Liebe ist schöner als der Krieg",
+      "link": "https://www.sueddeutsche.de/kultur/schauspielhaus-hamburg-weil-der-frieden-zucker-ist-georges-perec-anita-vulesica-li.3576945",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-08T14:09:57+00:00"
     },
     {
       "titel": "Anschlag in Krakau: Der Tag, an dem Polen seine Sicherheit verlor",
       "link": "https://www.sueddeutsche.de/panorama/polen-krakau-anschlag-li.3576940",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-08T13:57:22+00:00"
-    },
-    {
-      "titel": "Hakeem Jeffries: Der Gegenspieler von Trump und dessen Hardliner-Stabschef",
-      "link": "https://www.sueddeutsche.de/politik/usa-hakeem-jeffries-speaker-repraesentantenhaus-donald-trump-stephen-miller-li.3575716",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T13:56:11+00:00"
-    },
-    {
-      "titel": "Antisemitismus-Debatte: Der Fall Vanessa Emde ist jetzt eine Chance für die Berliner Linke",
-      "link": "https://www.sueddeutsche.de/meinung/vanessa-emde-die-linke-berlin-ausschluss-antisemitismus-kommentar-li.3576920",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T13:22:32+00:00"
-    },
-    {
-      "titel": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T12:05:57+00:00"
-    },
-    {
-      "titel": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
-      "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T11:19:37+00:00"
-    },
-    {
-      "titel": "US-Militär attackiert Handelsschiff im Golf von Oman",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T11:04:42+00:00"
     }
   ]
 }
