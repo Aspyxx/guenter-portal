@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-09T09:50:46+00:00",
+  "aktualisiert": "2026-11-09T20:45:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "CDU: Was ist los mit Boris Rhein?",
-      "link": "https://www.sueddeutsche.de/politik/boris-rhein-hessen-brandmauer-afd-berlin-li.3564047",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-09T09:35:16+00:00"
+      "titel": "100 Jahre John Coltrane: Wie Joe Lovano und Melissa Aldana in der Elbphilharmonie dem Übervater des Jazz huldigen",
+      "link": "https://www.spiegel.de/kultur/musik/100-jahre-john-coltrane-wie-joe-lovano-und-melissa-aldana-in-der-elbphilharmonie-dem-uebervater-des-jazz-huldigen-a-35670ced-3820-4501-b799-ad61059e0bff#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T20:42:00+00:00"
     },
     {
-      "titel": "SZ Wirtschaftsgipfel: Der erste Gast ist der „Rentenrebell“ der CDU",
+      "titel": "Newsblog zur Bundespolitik: Grünen-Spitze stützt Roth in Antisemitismus-Debatte",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-claudia-roth-gruene-antisemitismus-berlinale-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T20:22:25+00:00"
+    },
+    {
+      "titel": "Miniatur Wunderland: Südamerika-Abschnitt mit Amazonas, Atacama und Anden eröffnet",
+      "link": "https://www.spiegel.de/reise/staedte/miniatur-wunderland-suedamerika-abschnitt-mit-amazonas-atacama-und-anden-eroeffnet-a-fe9aaec8-73a4-4afb-a5ec-e3e6d2ebed4e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T20:20:00+00:00"
+    },
+    {
+      "titel": "Ukraine: Toter bei Drohnenangriff auf AKW Saporischschja",
+      "link": "https://www.spiegel.de/ausland/ukraine-toter-bei-drohnenangriff-auf-akw-saporischschja-a-caee7885-fe31-4813-a2a3-8c99311887a2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T20:18:00+00:00"
+    },
+    {
+      "titel": "Pete Hegseth: Republikanischer Abgeordneter Thomas Massie stößt Amtsenthebungsverfahren an",
+      "link": "https://www.spiegel.de/ausland/pete-hegseth-republikanischer-abgeordneter-thomas-massie-stoesst-amtsenthebungsverfahren-an-a-c60d0cb0-f5c7-470d-9c3d-6d68fb73d3e9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T20:15:00+00:00"
+    },
+    {
+      "titel": "Marco Rubio: Nach Trumps Wahlniederlage bleibt sein Außenminister vage",
+      "link": "https://www.spiegel.de/politik/deutschland/marco-rubio-nach-trumps-wahlniederlage-bleibt-sein-aussenminister-vage-a-ec3ef6e5-4d2a-4b0d-a054-e164ca0975b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T20:13:00+00:00"
+    },
+    {
+      "titel": "Midterms 2026: Scott Colom punktet mit Wahlwerbung zu teurem Fleisch",
+      "link": "https://www.spiegel.de/ausland/midterms-2026-scott-colom-punktet-mit-wahlwerbung-zu-teurem-fleisch-a-ea243320-ab49-4244-9f74-6936b43170cf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T19:57:00+00:00"
+    },
+    {
+      "titel": "Midterms: Donald Trump zweifelt Ergebnis der Kongresswahlen an",
+      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-zweifelt-ergebnis-der-kongresswahlen-an-a-a0d13855-57bc-4dde-8603-8665263fee25#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T19:57:00+00:00"
+    },
+    {
+      "titel": "Ilse Aigner lehnt Vorstellung bei AfD-Fraktion im Bundestag ab",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-lehnt-vorstellung-bei-afd-fraktion-im-bundestag-ab-a-b3348100-992e-4c5b-8e85-6f6223d43650#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T19:53:00+00:00"
+    },
+    {
+      "titel": "Polen: Wer war der Mörder von Krakau?",
+      "link": "https://www.spiegel.de/ausland/polen-wer-war-der-moerder-von-krakau-a-59103b51-78fe-4304-9fa3-4a73839ef06d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T19:48:00+00:00"
+    },
+    {
+      "titel": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T19:34:13+00:00"
+    },
+    {
+      "titel": "USA: Republikaner bringt Amtsenthebungsverfahren gegen Hegseth auf den Weg",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-ergebnis-zweifel-li.3573278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T19:26:58+00:00"
+    },
+    {
+      "titel": "Synagogen-Festakt in München: Ein Jubiläum in schwierigen Zeiten",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T19:14:42+00:00"
+    },
+    {
+      "titel": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
+      "link": "https://www.tagesschau.de/ausland/cop-136.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T18:19:45+00:00"
+    },
+    {
+      "titel": "KI-Unternehmen Mistral: Französische Rezepte gegen den Kontrollverlust",
+      "link": "https://www.sueddeutsche.de/wirtschaft/mistral-kuenstliche-intelligenz-europa-open-source-ki-modelle-li.3577724",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T18:07:43+00:00"
+    },
+    {
+      "titel": "Sabotage: Frankreich sieht Iran hinter Cyberangriff auf Supermarkt-Kühlanlagen",
+      "link": "https://www.sueddeutsche.de/politik/cyberangriff-iran-frankreich-sabotage-revolutionsgarde-kuehlregal-supermarkt-li.3577893",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T17:58:13+00:00"
+    },
+    {
+      "titel": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+      "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T17:51:23+00:00"
+    },
+    {
+      "titel": "Start-up-Wettbewerb: Das sind die Sieger des SZ Gipfelstürmer Award",
+      "link": "https://www.sueddeutsche.de/wirtschaft/sz-gipfelstuermer-awards-li.3565001",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T17:50:48+00:00"
+    },
+    {
+      "titel": "20 Jahre Ohel-Jakob-Synagoge: „Sie haben dieser Stadt ihre Seele zurückgegeben“",
+      "link": "https://www.sueddeutsche.de/muenchen/ohel-jakob-synagoge-muenchen-charlotte-knobloch-antisemitismus-sankt-jakobs-platz-li.3569989",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T17:46:00+00:00"
+    },
+    {
+      "titel": "SZ Wirtschaftsgipfel: Lindner: „Mit 19 hatte ich die erste Million Umsatz“",
       "link": "https://www.sueddeutsche.de/wirtschaft/sz-wirtschaftsgipfel-2026-liveblog-li.3575578",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-09T09:33:44+00:00"
+      "veroeffentlicht": "2026-11-09T17:35:26+00:00"
     },
     {
-      "titel": "La Liga: FC Barcelona siegt gegen Atlético Madrid und verteidigt Tabellenführung",
-      "link": "https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung-a-bbdc6984-d1bd-48dd-8ee2-f2ddadda0703#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T09:30:00+00:00"
-    },
-    {
-      "titel": "Weltwirtschaft: Rekordschulden und hohe Zinsen – die nächste Krise droht",
-      "link": "https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T09:27:00+00:00"
-    },
-    {
-      "titel": "Umbenennung in SpVgg Fürth: Fürth heißt jetzt nicht mehr „Greuther“",
-      "link": "https://www.sueddeutsche.de/sport/spvgg-fuerth-umbenennung-hack-greuther-li.3577209",
+      "titel": "Bundespräsident: AfD und Linke wollen eigene Bewerber für Steinmeier-Nachfolge stellen",
+      "link": "https://www.sueddeutsche.de/politik/bundespraesidentin-afd-linke-kandidaten-ilse-aigner-li.3577825",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-09T09:26:01+00:00"
+      "veroeffentlicht": "2026-11-09T17:20:22+00:00"
     },
     {
-      "titel": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
+      "titel": "Wadephul zweifelt an Russlands Verhandlungswillen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T17:19:07+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX erholt sich kräftig",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T09:25:58+00:00"
+      "veroeffentlicht": "2026-11-09T17:18:50+00:00"
     },
     {
-      "titel": "Fußball: Tribüne bricht bei Spiel von Bodø-Glimt gegen Tromsø IL ein – Fan verletzt",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt-a-383c5db2-3130-481b-b1f1-cb2d88dd4c0b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T09:25:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Kreise: SPD-Spitze unterstützt Aigners Kandidatur als Bundespräsidentin",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-ilse-aigner-bundespraesidentin-spd-li.3568524",
+      "titel": "BSW-Gründerin: „Mit deutscher Technologie wird Moskau inzwischen wieder angegriffen“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/bsw-wagenknecht-russland-sachsen-anhalt-li.3569939",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-09T09:22:36+00:00"
+      "veroeffentlicht": "2026-11-09T16:38:00+00:00"
     },
     {
-      "titel": "»Der Herr der Ringe«-Schauspieler Andy Serkis träumt bis heute noch von Gollum",
-      "link": "https://www.spiegel.de/kultur/kino/der-herr-der-ringe-schauspieler-andy-serkis-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T09:21:00+00:00"
-    },
-    {
-      "titel": "Haushalt: Union will Plastiksteuer kippen – SPD fordert neue Finanzquellen",
-      "link": "https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T09:16:00+00:00"
-    },
-    {
-      "titel": "Schneider fordert Alternative zur Plastiksteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
+      "titel": "Russland: Letzte unabhängige Zeitung Nowaja Gaseta stellt Arbeit ein",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T09:03:50+00:00"
+      "veroeffentlicht": "2026-11-09T16:35:08+00:00"
     },
     {
-      "titel": "G7-Außenminister sprechen über Ukraine und Iran",
-      "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+      "titel": "Frankreichs Linksradikale: \"Weniger polarisieren? Werde ich nicht tun\"",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-lfi-wahlkampf-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T09:01:15+00:00"
+      "veroeffentlicht": "2026-11-09T16:25:48+00:00"
     },
     {
-      "titel": "Weltklimakonferenz: Warum es nicht ums Klima, sondern um Wohlstand geht – Meinung",
-      "link": "https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung-a-76af1123-df98-4d35-b137-3a1f7f3ad608#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T08:56:00+00:00"
-    },
-    {
-      "titel": "Joe Biden gibt Update über Krebserkrankung",
-      "link": "https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung-a-56de8a89-d526-423b-9eab-4273ce7e5c1d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T08:53:00+00:00"
-    },
-    {
-      "titel": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html",
+      "titel": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T08:52:19+00:00"
-    },
-    {
-      "titel": "Dortmund: Dönerladen-Eröffnung eskaliert",
-      "link": "https://www.spiegel.de/panorama/justiz/dortmund-doenerladen-eroeffnung-eskaliert-a-8147becb-9e09-4625-95f6-94f3ea660aaa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T08:43:00+00:00"
-    },
-    {
-      "titel": "Wie steht es um den Klimaschutz im Gastgeberland Türkei?",
-      "link": "https://www.tagesschau.de/ausland/europa/cop-gastgeber-turkei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T08:05:32+00:00"
-    },
-    {
-      "titel": "FC Schalke 04 verliert gegen TSG 1899 Hoffenheim – Sorge um Robin Gosens und Loris Karius",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T08:00:00+00:00"
-    },
-    {
-      "titel": "Opferbeauftragte Zupke warnt vor Verdrehung der DDR-Geschichte",
-      "link": "https://www.tagesschau.de/inland/november-gedenken-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T07:19:35+00:00"
-    },
-    {
-      "titel": "Todesschütze von Krakau ist tot",
-      "link": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T07:06:15+00:00"
-    },
-    {
-      "titel": "Gewaltverbrechen in Polen: Polizei: Todesschütze von Krakau ist tot",
-      "link": "https://www.sueddeutsche.de/politik/krakau-anschlag-taeter-tot-li.3577335",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-09T06:11:48+00:00"
-    },
-    {
-      "titel": "Klimagipfel in Antalya: Eine Premiere und viel Konfliktpotenzial",
-      "link": "https://www.tagesschau.de/ausland/asien/klimagipfel-204.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T06:02:50+00:00"
-    },
-    {
-      "titel": "TV-Kritik: Wie viel Schaden kann eine wütende lahme Ente anrichten?",
-      "link": "https://www.sueddeutsche.de/medien/caren-miosga-ard-tv-kritik-sigmar-gabriel-li.3575576",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-09T05:08:49+00:00"
-    },
-    {
-      "titel": "USA: Trump: Sprecher-Angebot an Kampfsport-Boss „nur ein Scherz“",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-white-house-sprecher-dana-white-li.3573278",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-09T04:28:25+00:00"
-    },
-    {
-      "titel": "ARD-Umfrage: Was die Deutschen an der Demokratie kritisieren",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T04:01:12+00:00"
-    },
-    {
-      "titel": "Steinmeier-Nachfolge: Merz schlägt Aigner als Bundespräsidentin vor",
-      "link": "https://www.sueddeutsche.de/politik/bundespraesidentin-ilse-aigner-friedrich-merz-cdu-csu-praesidium-li.3576988",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T19:21:11+00:00"
-    },
-    {
-      "titel": "Newsblog zu Nahost: Eisenkot: Israel „an extrem gefährlichem Punkt“",
-      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-eisenkot-regierungsbildung-notstand-li.3571386",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T17:55:39+00:00"
+      "veroeffentlicht": "2026-11-09T16:25:22+00:00"
     }
   ]
 }
