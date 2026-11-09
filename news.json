@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-11-08T22:30:22+00:00",
+  "aktualisiert": "2026-11-09T02:00:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kalifornische Küste: Pianist stürzt von Kreuzfahrtschiff und überlebt Stunden im Meer",
+      "link": "https://www.spiegel.de/panorama/kalifornische-kueste-pianist-stuerzt-von-kreuzfahrtschiff-und-ueberlebt-stunden-im-meer-a-865a58c7-5738-4cd2-84e9-fe4f02ad5ec3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T01:56:00+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T00:43:39+00:00"
+    },
+    {
+      "titel": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
+      "link": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T00:32:33+00:00"
+    },
+    {
+      "titel": "Donald Trump: UFC-Chef Dana White als Pressesprecher? »War alles nur Spaß«",
+      "link": "https://www.spiegel.de/ausland/donald-trump-ufc-chef-dana-white-als-pressesprecher-war-alles-nur-spass-a-cd80c40a-389c-4843-9e29-32d7df86fc41#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T00:06:00+00:00"
+    },
+    {
+      "titel": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-08T23:11:37+00:00"
+    },
     {
       "titel": "Niedersachsen: Ministerin entsetzt über »Gewaltfantasien« von CDU-Chef Sebastian Lechner",
       "link": "https://www.spiegel.de/politik/deutschland/niedersachsen-ministerin-entsetzt-ueber-gewaltfantasien-von-cdu-chef-sebastian-lechner-a-daf3441b-4def-4edf-97e6-1fa235ebaad0#ref=rss",
@@ -85,18 +115,6 @@
       "veroeffentlicht": "2026-11-08T18:47:00+00:00"
     },
     {
-      "titel": "Kirche: Pfarrer Christian Schäfer kellnert im Kasseler Café",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/kirche-pfarrer-christian-schaefer-kellnert-im-kasseler-cafe-a-a152104c-9944-4415-815a-d74dd85bd1f1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T18:28:00+00:00"
-    },
-    {
-      "titel": "Ilse Aigner: Im CDU-Präsidium dürfte Friedrich Merz ihre Nominierung als Bundespräsidentin verkünden",
-      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-im-cdu-praesidium-duerfte-kanzler-friedrich-merz-ihre-nominierung-als-bundespraesidentin-verkuenden-a-16d83dfb-440a-4514-a5d5-c14d660df44d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T18:21:00+00:00"
-    },
-    {
       "titel": "Newsblog zu Nahost: Eisenkot: Israel „an extrem gefährlichem Punkt“",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-eisenkot-regierungsbildung-notstand-li.3571386",
       "quelle": "Süddeutsche",
@@ -115,28 +133,10 @@
       "veroeffentlicht": "2026-11-08T16:40:00+00:00"
     },
     {
-      "titel": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T16:33:42+00:00"
-    },
-    {
-      "titel": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T16:07:41+00:00"
-    },
-    {
       "titel": "Newsblog zur Bundespolitik: Palästinensische Fahne vor Reichstag gehisst – Klöckner fordert mehr Schutz",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-bundestag-fahne-palaestina-li.3568524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-08T16:04:00+00:00"
-    },
-    {
-      "titel": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T15:28:00+00:00"
     },
     {
       "titel": "Marbacher Schillerrede 2026: Sind nur die Gedanken frei oder der ganze Mensch?",
