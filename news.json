@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-09T02:00:08+00:00",
+  "aktualisiert": "2026-11-09T09:50:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,88 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Kalifornische Küste: Pianist stürzt von Kreuzfahrtschiff und überlebt Stunden im Meer",
-      "link": "https://www.spiegel.de/panorama/kalifornische-kueste-pianist-stuerzt-von-kreuzfahrtschiff-und-ueberlebt-stunden-im-meer-a-865a58c7-5738-4cd2-84e9-fe4f02ad5ec3#ref=rss",
+      "titel": "CDU: Was ist los mit Boris Rhein?",
+      "link": "https://www.sueddeutsche.de/politik/boris-rhein-hessen-brandmauer-afd-berlin-li.3564047",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T09:35:16+00:00"
+    },
+    {
+      "titel": "SZ Wirtschaftsgipfel: Der erste Gast ist der „Rentenrebell“ der CDU",
+      "link": "https://www.sueddeutsche.de/wirtschaft/sz-wirtschaftsgipfel-2026-liveblog-li.3575578",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T09:33:44+00:00"
+    },
+    {
+      "titel": "La Liga: FC Barcelona siegt gegen Atlético Madrid und verteidigt Tabellenführung",
+      "link": "https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-siegt-gegen-atletico-madrid-und-verteidigt-tabellenfuehrung-a-bbdc6984-d1bd-48dd-8ee2-f2ddadda0703#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T01:56:00+00:00"
+      "veroeffentlicht": "2026-11-09T09:30:00+00:00"
     },
     {
-      "titel": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T00:43:39+00:00"
-    },
-    {
-      "titel": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
-      "link": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T00:32:33+00:00"
-    },
-    {
-      "titel": "Donald Trump: UFC-Chef Dana White als Pressesprecher? »War alles nur Spaß«",
-      "link": "https://www.spiegel.de/ausland/donald-trump-ufc-chef-dana-white-als-pressesprecher-war-alles-nur-spass-a-cd80c40a-389c-4843-9e29-32d7df86fc41#ref=rss",
+      "titel": "Weltwirtschaft: Rekordschulden und hohe Zinsen – die nächste Krise droht",
+      "link": "https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T00:06:00+00:00"
+      "veroeffentlicht": "2026-11-09T09:27:00+00:00"
     },
     {
-      "titel": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
-      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+      "titel": "Umbenennung in SpVgg Fürth: Fürth heißt jetzt nicht mehr „Greuther“",
+      "link": "https://www.sueddeutsche.de/sport/spvgg-fuerth-umbenennung-hack-greuther-li.3577209",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T09:26:01+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T23:11:37+00:00"
+      "veroeffentlicht": "2026-11-09T09:25:58+00:00"
     },
     {
-      "titel": "Niedersachsen: Ministerin entsetzt über »Gewaltfantasien« von CDU-Chef Sebastian Lechner",
-      "link": "https://www.spiegel.de/politik/deutschland/niedersachsen-ministerin-entsetzt-ueber-gewaltfantasien-von-cdu-chef-sebastian-lechner-a-daf3441b-4def-4edf-97e6-1fa235ebaad0#ref=rss",
+      "titel": "Fußball: Tribüne bricht bei Spiel von Bodø-Glimt gegen Tromsø IL ein – Fan verletzt",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-tribuene-bricht-bei-spiel-von-bodo-glimt-gegen-tromso-il-ein-fan-verletzt-a-383c5db2-3130-481b-b1f1-cb2d88dd4c0b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T22:03:00+00:00"
+      "veroeffentlicht": "2026-11-09T09:25:00+00:00"
     },
     {
-      "titel": "Kim Kardashian: Kunden schimpfen über 148-Dollar-Adventskalender",
-      "link": "https://www.spiegel.de/panorama/leute/kim-kardashian-kunden-schimpfen-ueber-148-dollar-adventskalender-a-98ab4ec2-b4e8-4540-a804-2758fe0415a7#ref=rss",
+      "titel": "Newsblog zur Bundespolitik: Kreise: SPD-Spitze unterstützt Aigners Kandidatur als Bundespräsidentin",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-ilse-aigner-bundespraesidentin-spd-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T09:22:36+00:00"
+    },
+    {
+      "titel": "»Der Herr der Ringe«-Schauspieler Andy Serkis träumt bis heute noch von Gollum",
+      "link": "https://www.spiegel.de/kultur/kino/der-herr-der-ringe-schauspieler-andy-serkis-traeumt-bis-heute-noch-von-gollum-a-2399773d-de44-43d3-8b80-23029851e146#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T21:52:00+00:00"
+      "veroeffentlicht": "2026-11-09T09:21:00+00:00"
     },
     {
-      "titel": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
-      "link": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss",
+      "titel": "Haushalt: Union will Plastiksteuer kippen – SPD fordert neue Finanzquellen",
+      "link": "https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T20:50:00+00:00"
+      "veroeffentlicht": "2026-11-09T09:16:00+00:00"
     },
     {
-      "titel": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+      "titel": "Schneider fordert Alternative zur Plastiksteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T20:38:04+00:00"
+      "veroeffentlicht": "2026-11-09T09:03:50+00:00"
     },
     {
-      "titel": "Österreich: 61-jähriger Deutscher stirbt bei Wingsuit-Unfall",
-      "link": "https://www.spiegel.de/panorama/oesterreich-61-jaehriger-deutscher-stirbt-bei-wingsuit-unfall-a-0fb09787-3103-40ba-a5e3-2af875499a51#ref=rss",
+      "titel": "G7-Außenminister sprechen über Ukraine und Iran",
+      "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T09:01:15+00:00"
+    },
+    {
+      "titel": "Weltklimakonferenz: Warum es nicht ums Klima, sondern um Wohlstand geht – Meinung",
+      "link": "https://www.spiegel.de/wissenschaft/weltklimakonferenz-warum-es-nicht-ums-klima-sondern-um-wohlstand-geht-meinung-a-76af1123-df98-4d35-b137-3a1f7f3ad608#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T20:28:00+00:00"
+      "veroeffentlicht": "2026-11-09T08:56:00+00:00"
     },
     {
-      "titel": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T20:15:13+00:00"
-    },
-    {
-      "titel": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T20:05:22+00:00"
-    },
-    {
-      "titel": "Formel 1: Lando Norris siegt in São Paulo, Mercedes jubelt über Team-WM",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-lando-norris-siegt-in-sao-paulo-mercedes-jubelt-ueber-team-wm-a-8515aa9f-3837-4ac7-b019-b121968f9cb7#ref=rss",
+      "titel": "Joe Biden gibt Update über Krebserkrankung",
+      "link": "https://www.spiegel.de/ausland/joe-biden-gibt-update-ueber-krebserkrankung-a-56de8a89-d526-423b-9eab-4273ce7e5c1d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T20:00:00+00:00"
+      "veroeffentlicht": "2026-11-09T08:53:00+00:00"
     },
     {
-      "titel": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
+      "titel": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T19:43:02+00:00"
+      "veroeffentlicht": "2026-11-09T08:52:19+00:00"
+    },
+    {
+      "titel": "Dortmund: Dönerladen-Eröffnung eskaliert",
+      "link": "https://www.spiegel.de/panorama/justiz/dortmund-doenerladen-eroeffnung-eskaliert-a-8147becb-9e09-4625-95f6-94f3ea660aaa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T08:43:00+00:00"
+    },
+    {
+      "titel": "Wie steht es um den Klimaschutz im Gastgeberland Türkei?",
+      "link": "https://www.tagesschau.de/ausland/europa/cop-gastgeber-turkei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T08:05:32+00:00"
+    },
+    {
+      "titel": "FC Schalke 04 verliert gegen TSG 1899 Hoffenheim – Sorge um Robin Gosens und Loris Karius",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-verliert-in-hoffenheim-und-bangt-um-robin-gosens-und-loris-karius-a-a707ea81-d1b1-4ada-a17e-de7eb2bdf3eb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T08:00:00+00:00"
+    },
+    {
+      "titel": "Opferbeauftragte Zupke warnt vor Verdrehung der DDR-Geschichte",
+      "link": "https://www.tagesschau.de/inland/november-gedenken-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T07:19:35+00:00"
+    },
+    {
+      "titel": "Todesschütze von Krakau ist tot",
+      "link": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T07:06:15+00:00"
+    },
+    {
+      "titel": "Gewaltverbrechen in Polen: Polizei: Todesschütze von Krakau ist tot",
+      "link": "https://www.sueddeutsche.de/politik/krakau-anschlag-taeter-tot-li.3577335",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T06:11:48+00:00"
+    },
+    {
+      "titel": "Klimagipfel in Antalya: Eine Premiere und viel Konfliktpotenzial",
+      "link": "https://www.tagesschau.de/ausland/asien/klimagipfel-204.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T06:02:50+00:00"
+    },
+    {
+      "titel": "TV-Kritik: Wie viel Schaden kann eine wütende lahme Ente anrichten?",
+      "link": "https://www.sueddeutsche.de/medien/caren-miosga-ard-tv-kritik-sigmar-gabriel-li.3575576",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T05:08:49+00:00"
+    },
+    {
+      "titel": "USA: Trump: Sprecher-Angebot an Kampfsport-Boss „nur ein Scherz“",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-white-house-sprecher-dana-white-li.3573278",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-09T04:28:25+00:00"
+    },
+    {
+      "titel": "ARD-Umfrage: Was die Deutschen an der Demokratie kritisieren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T04:01:12+00:00"
     },
     {
       "titel": "Steinmeier-Nachfolge: Merz schlägt Aigner als Bundespräsidentin vor",
@@ -97,76 +163,10 @@
       "veroeffentlicht": "2026-11-08T19:21:11+00:00"
     },
     {
-      "titel": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
-      "link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T18:53:14+00:00"
-    },
-    {
-      "titel": "Gazastreifen: Zelte versinken im Wasser – Vertriebene ohne Schutz",
-      "link": "https://www.spiegel.de/ausland/gazastreifen-zelte-versinken-im-wasser-vertriebene-ohne-schutz-a-ba82bba1-4889-4798-b986-f87037618676#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T18:52:00+00:00"
-    },
-    {
-      "titel": "Warum Pilze für das Leben auf der Erde unverzichtbar sind",
-      "link": "https://www.spiegel.de/deinspiegel/warum-pilze-fuer-das-leben-auf-der-erde-unverzichtbar-sind-a-1b36f12a-545c-4dc7-9f91-574b144b161f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-08T18:47:00+00:00"
-    },
-    {
       "titel": "Newsblog zu Nahost: Eisenkot: Israel „an extrem gefährlichem Punkt“",
       "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-eisenkot-regierungsbildung-notstand-li.3571386",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-08T17:55:39+00:00"
-    },
-    {
-      "titel": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
-      "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-08T17:02:14+00:00"
-    },
-    {
-      "titel": "USA: Kampfsport-Chef als White-House-Sprecher? Trump trifft Dana White",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-white-house-sprecher-dana-white-li.3573278",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T16:40:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Palästinensische Fahne vor Reichstag gehisst – Klöckner fordert mehr Schutz",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-bundestag-fahne-palaestina-li.3568524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T16:04:00+00:00"
-    },
-    {
-      "titel": "Marbacher Schillerrede 2026: Sind nur die Gedanken frei oder der ganze Mensch?",
-      "link": "https://www.sueddeutsche.de/kultur/helga-schubert-schillerrede-marbach-friedrich-schiller-friedliche-revolution-klassik-li.3574980",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T15:01:15+00:00"
-    },
-    {
-      "titel": "Berliner Philharmoniker: Machtkampf auf offener Bühne",
-      "link": "https://www.sueddeutsche.de/kultur/ivan-fischer-konzerte-absagen-mahler-orchester-li.3576950",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T14:59:31+00:00"
-    },
-    {
-      "titel": "Russland: Putins Wette: Er hält am längsten durch",
-      "link": "https://www.sueddeutsche.de/meinung/wladimir-putin-russland-ukraine-europa-donald-trump-li.3571786",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T14:53:05+00:00"
-    },
-    {
-      "titel": "Theater: Liebe ist schöner als der Krieg",
-      "link": "https://www.sueddeutsche.de/kultur/schauspielhaus-hamburg-weil-der-frieden-zucker-ist-georges-perec-anita-vulesica-li.3576945",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T14:09:57+00:00"
-    },
-    {
-      "titel": "Anschlag in Krakau: Der Tag, an dem Polen seine Sicherheit verlor",
-      "link": "https://www.sueddeutsche.de/panorama/polen-krakau-anschlag-li.3576940",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-08T13:57:22+00:00"
     }
   ]
 }
