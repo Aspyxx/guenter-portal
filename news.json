@@ -1,11 +1,83 @@
 {
-  "aktualisiert": "2026-11-09T20:45:54+00:00",
+  "aktualisiert": "2026-11-10T03:35:14+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Booker-Prize 2026: M. John Harrison gewinnt mit »The End of Everything«",
+      "link": "https://www.spiegel.de/kultur/literatur/booker-prize-2026-m-john-harrison-gewinnt-mit-the-end-of-everything-a-567ec0d9-94d9-41dd-b0f9-0d59bf068b6b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T02:37:00+00:00"
+    },
+    {
+      "titel": "Weltweite CO₂-Emission aus fossilen Brennstoffen sinken leicht",
+      "link": "https://www.spiegel.de/wissenschaft/weltweite-co-emission-aus-fossilen-brennstoffen-sinken-leicht-a-ce036f65-e59e-4fb8-9343-d6bbe9383fd1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T02:22:00+00:00"
+    },
+    {
+      "titel": "Nvidia: FBI ermittelt im Fall Jensen Huang und mutmaßlicher China-Spionin",
+      "link": "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T01:28:00+00:00"
+    },
+    {
+      "titel": "Hubert Aiwanger ist tot: Lebensgefährtin Tanja Schweiger spricht über seinen Tod",
+      "link": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-lebensgefaehrtin-tanja-schweiger-spricht-ueber-seinen-tod-a-3621a5c9-07b2-4cb3-8727-ca70f293605f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T01:19:00+00:00"
+    },
+    {
+      "titel": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-10T01:13:48+00:00"
+    },
+    {
+      "titel": "Kriminalität in Berlin: Großrazzia wegen Schusswaffen in Berlin – Durchsuchung auch bei »Hells Angels«",
+      "link": "https://www.spiegel.de/panorama/kriminalitaet-in-berlin-grossrazzia-wegen-schusswaffen-in-berlin-durchsuchung-auch-bei-hells-angels-a-1de682ec-606f-4393-afba-f357f2d6e8ab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T01:02:00+00:00"
+    },
+    {
+      "titel": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/bundesregierung-meldet-milliardenschwere-mehrausgaben-fuer-den-haushalt-2027-a-b3c6d481-3700-4ddb-886c-2d0adeb6e46b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T00:32:00+00:00"
+    },
+    {
+      "titel": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T23:40:08+00:00"
+    },
+    {
+      "titel": "Papst Leo XIV. in Argentinien: Zweieinhalb Millionen bei Messe in Buenos Aires",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/papst-leo-xiv-in-argentinien-zweieinhalb-millionen-bei-messe-in-buenos-aires-a-0dbe9b67-b743-45ab-81f8-e58b7633ce20#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T22:28:00+00:00"
+    },
+    {
+      "titel": "Merz verteidigt Ablauf der Nominierung von Aigner",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T21:27:31+00:00"
+    },
+    {
+      "titel": "Nawrocki und Tusk gedenken gemeinsam der Opfer von Krakau",
+      "link": "https://www.spiegel.de/ausland/nawrocki-und-tusk-gedenken-gemeinsam-der-opfer-von-krakau-a-86468814-23c1-47fc-8d9a-3995695fe1f2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-09T21:06:00+00:00"
+    },
+    {
+      "titel": "Republikaner Massie will Hegseth des Amtes entheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-09T20:48:39+00:00"
+    },
     {
       "titel": "100 Jahre John Coltrane: Wie Joe Lovano und Melissa Aldana in der Elbphilharmonie dem Übervater des Jazz huldigen",
       "link": "https://www.spiegel.de/kultur/musik/100-jahre-john-coltrane-wie-joe-lovano-und-melissa-aldana-in-der-elbphilharmonie-dem-uebervater-des-jazz-huldigen-a-35670ced-3820-4501-b799-ad61059e0bff#ref=rss",
@@ -17,54 +89,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-claudia-roth-gruene-antisemitismus-berlinale-li.3568524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-09T20:22:25+00:00"
-    },
-    {
-      "titel": "Miniatur Wunderland: Südamerika-Abschnitt mit Amazonas, Atacama und Anden eröffnet",
-      "link": "https://www.spiegel.de/reise/staedte/miniatur-wunderland-suedamerika-abschnitt-mit-amazonas-atacama-und-anden-eroeffnet-a-fe9aaec8-73a4-4afb-a5ec-e3e6d2ebed4e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T20:20:00+00:00"
-    },
-    {
-      "titel": "Ukraine: Toter bei Drohnenangriff auf AKW Saporischschja",
-      "link": "https://www.spiegel.de/ausland/ukraine-toter-bei-drohnenangriff-auf-akw-saporischschja-a-caee7885-fe31-4813-a2a3-8c99311887a2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T20:18:00+00:00"
-    },
-    {
-      "titel": "Pete Hegseth: Republikanischer Abgeordneter Thomas Massie stößt Amtsenthebungsverfahren an",
-      "link": "https://www.spiegel.de/ausland/pete-hegseth-republikanischer-abgeordneter-thomas-massie-stoesst-amtsenthebungsverfahren-an-a-c60d0cb0-f5c7-470d-9c3d-6d68fb73d3e9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T20:15:00+00:00"
-    },
-    {
-      "titel": "Marco Rubio: Nach Trumps Wahlniederlage bleibt sein Außenminister vage",
-      "link": "https://www.spiegel.de/politik/deutschland/marco-rubio-nach-trumps-wahlniederlage-bleibt-sein-aussenminister-vage-a-ec3ef6e5-4d2a-4b0d-a054-e164ca0975b1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T20:13:00+00:00"
-    },
-    {
-      "titel": "Midterms 2026: Scott Colom punktet mit Wahlwerbung zu teurem Fleisch",
-      "link": "https://www.spiegel.de/ausland/midterms-2026-scott-colom-punktet-mit-wahlwerbung-zu-teurem-fleisch-a-ea243320-ab49-4244-9f74-6936b43170cf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T19:57:00+00:00"
-    },
-    {
-      "titel": "Midterms: Donald Trump zweifelt Ergebnis der Kongresswahlen an",
-      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-zweifelt-ergebnis-der-kongresswahlen-an-a-a0d13855-57bc-4dde-8603-8665263fee25#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T19:57:00+00:00"
-    },
-    {
-      "titel": "Ilse Aigner lehnt Vorstellung bei AfD-Fraktion im Bundestag ab",
-      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-lehnt-vorstellung-bei-afd-fraktion-im-bundestag-ab-a-b3348100-992e-4c5b-8e85-6f6223d43650#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T19:53:00+00:00"
-    },
-    {
-      "titel": "Polen: Wer war der Mörder von Krakau?",
-      "link": "https://www.spiegel.de/ausland/polen-wer-war-der-moerder-von-krakau-a-59103b51-78fe-4304-9fa3-4a73839ef06d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-09T19:48:00+00:00"
     },
     {
       "titel": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
@@ -139,34 +163,10 @@
       "veroeffentlicht": "2026-11-09T17:19:07+00:00"
     },
     {
-      "titel": "Marktbericht: DAX erholt sich kräftig",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T17:18:50+00:00"
-    },
-    {
       "titel": "BSW-Gründerin: „Mit deutscher Technologie wird Moskau inzwischen wieder angegriffen“",
       "link": "https://www.sueddeutsche.de/wirtschaft/bsw-wagenknecht-russland-sachsen-anhalt-li.3569939",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-09T16:38:00+00:00"
-    },
-    {
-      "titel": "Russland: Letzte unabhängige Zeitung Nowaja Gaseta stellt Arbeit ein",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T16:35:08+00:00"
-    },
-    {
-      "titel": "Frankreichs Linksradikale: \"Weniger polarisieren? Werde ich nicht tun\"",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-lfi-wahlkampf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T16:25:48+00:00"
-    },
-    {
-      "titel": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-09T16:25:22+00:00"
     }
   ]
 }
