@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-10T11:26:21+00:00",
+  "aktualisiert": "2026-11-10T18:44:09+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
+      "titel": "\"Beide Seiten stehen unter enormem Zugzwang\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Kursverluste nach KI-Crash fast aufgeholt",
+      "titel": "Der DAX wird zurückgepfiffen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
       "quelle": "Tagesschau",
       "icon": "📈"
+    },
+    {
+      "rang": 3,
+      "titel": "Wadephul warnt Iran vor hybriden Angriffen",
+      "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
