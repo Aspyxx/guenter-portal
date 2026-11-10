@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-10T11:48:32+00:00",
+  "aktualisiert": "2026-11-10T19:45:41+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Mordprozess: Lebenslange Haftstrafe für Angeklagte im Fall Fabian",
-      "link": "https://www.sueddeutsche.de/panorama/fabian-urteil-mordprozess-li.3578094",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T11:39:55+00:00"
-    },
-    {
-      "titel": "Fall Fabian: Gina H. zu lebenslanger Haft verurteilt",
-      "link": "https://www.spiegel.de/panorama/justiz/fall-fabian-gina-h-zu-lebenslanger-haft-verurteilt-a-04259c80-a4fe-4a3d-8a0d-5df5831fd894#ref=rss",
+      "titel": "Uni Tübingen: Hacker erbeuten Daten von Beschäftigten",
+      "link": "https://www.spiegel.de/netzwelt/uni-tuebingen-hacker-erbeuten-daten-von-beschaeftigten-a-92260a50-5657-4fdd-939c-2bbbee61f129#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T11:37:00+00:00"
+      "veroeffentlicht": "2026-11-10T19:04:00+00:00"
     },
     {
-      "titel": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
+      "titel": "Rostocker Prozess gegen Gina H. im Mordfall Fabian: Nach dem Urteil applaudieren die Zuschauer im Saal",
+      "link": "https://www.spiegel.de/panorama/justiz/rostocker-prozess-gegen-gina-h-im-mordfall-fabian-nach-dem-urteil-applaudieren-die-zuschauer-im-saal-a-8f1802b1-0b2f-4073-aa83-49b639e90ac0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T18:59:00+00:00"
+    },
+    {
+      "titel": "Todesstrafe in den USA: Geringste Zustimmung seit 55 Jahren",
+      "link": "https://www.spiegel.de/ausland/todesstrafe-in-den-usa-geringste-zustimmung-seit-55-jahren-a-ea99e4b0-f6e5-4879-a85c-5d10005d75d4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T18:55:00+00:00"
+    },
+    {
+      "titel": "Maschinenbau-Gipfel: Katherina Reiche kritisiert eigene Regierung",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/maschinenbau-gipfel-katherina-reiche-kritisiert-eigene-regierung-a-207e0fe5-9058-450f-b83c-f102fcbc7236#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T18:39:00+00:00"
+    },
+    {
+      "titel": "Türkei: Mitarbeiterin der Böll-Stiftung wegen Spionageverdachts festgenommen",
+      "link": "https://www.spiegel.de/ausland/tuerkei-mitarbeiterin-der-boell-stiftung-wegen-spionageverdacht-festgenommen-a-bfbe2bd7-0af4-4809-8b19-6d117ea4584d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T18:30:00+00:00"
+    },
+    {
+      "titel": "Zahl der Apotheken in Deutschland geht weiter zurück",
+      "link": "https://www.spiegel.de/wirtschaft/service/zahl-der-apotheken-in-deutschland-geht-weiter-zurueck-a-f4f926f6-609d-491a-bd56-3eeb945eedc0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T18:27:00+00:00"
+    },
+    {
+      "titel": "AfD in Sachsen-Anhalt: Lässt sich Ministerpräsident Ulrich Siegmund noch verhindern?",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-laesst-sich-ministerpraesident-ulrich-siegmund-noch-verhindern-a-2b76ca5c-9acb-42af-97bc-9a752329c8fe#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T18:12:00+00:00"
+    },
+    {
+      "titel": "Hartmut Engler: Pur-Sänger spricht über überstandenen Herzinfarkt",
+      "link": "https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T18:02:00+00:00"
+    },
+    {
+      "titel": "Debatte: Horrorclowns, Influencer, Thinktankler? Bullshit!",
+      "link": "https://www.sueddeutsche.de/kultur/marko-martin-berlin-freedom-conference-freiheit-rede-li.3574895",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-10T17:32:36+00:00"
+    },
+    {
+      "titel": "Wahl der Bundespräsidentin: „Ich möchte Bürgerin unter Bürgern sein“",
+      "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-bundespraesidentenwahl-csu-demokratische-mitte-li.3578079",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-10T17:30:49+00:00"
+    },
+    {
+      "titel": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T11:35:39+00:00"
+      "veroeffentlicht": "2026-11-10T17:27:27+00:00"
     },
     {
-      "titel": "Bulgarien: Mindestens elf Menschen sterben bei Auffahrunfällen",
-      "link": "https://www.spiegel.de/panorama/bulgarien-mindestens-elf-menschen-sterben-bei-auffahrunfaellen-a-671e793f-b95c-46e7-bc23-2f7b0b77ab2e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T11:24:00+00:00"
-    },
-    {
-      "titel": "Bundeshaushalt 2027: Union will Gegenfinanzierung für Stromsteuersenkung gefunden haben",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2027-union-gegenfinanzierung-fuer-die-stromsteuersenkung-gefunden-haben-a-84521b50-da4c-471c-b043-a833f3d85180#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T11:20:00+00:00"
-    },
-    {
-      "titel": "Bayern: Straubinger Gastronom Stephan Weckmann rückt für Hubert Aiwanger in den Landtag nach",
-      "link": "https://www.spiegel.de/politik/bayern-straubinger-gastronom-stephan-weckmann-rueckt-fuer-hubert-aiwanger-in-den-landtag-nach-a-3a1a3cd9-0d21-4e83-8d8b-aa9aab11d74b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T11:05:00+00:00"
-    },
-    {
-      "titel": "Technikerin, Ministerin, Landtagspräsidentin: Stationen aus dem Leben von Ilse Aigner",
-      "link": "https://www.sueddeutsche.de/bayern/ilse-aigner-bundespraesidentenwahl-biografie-csu-bundespraesidentin-li.3577580",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T11:00:00+00:00"
-    },
-    {
-      "titel": "Haushaltsplan: Merz macht höhere EU-Beiträge von Ukraine-Hilfe abhängig",
-      "link": "https://www.sueddeutsche.de/politik/eu-ukraine-finanzierung-haushalt-merz-li.3578062",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T10:54:45+00:00"
-    },
-    {
-      "titel": "USA: Frau soll seit 2024 in einer Wohnung festgehalten worden sein",
-      "link": "https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein-a-1f482347-44dd-4d03-ad75-2cba5f262caf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T10:54:00+00:00"
-    },
-    {
-      "titel": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
-      "link": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html",
+      "titel": "Marktbericht: Der DAX wird zurückgepfiffen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T10:48:43+00:00"
+      "veroeffentlicht": "2026-11-10T17:21:50+00:00"
     },
     {
-      "titel": "Vincent Kompany: FC Bayern-Trainer nach Hirnhautreizung offenbar zurück",
-      "link": "https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss",
+      "titel": "Ukraine – Friedensgespräche in Abu Dhabi: Bisher glaubt nur Donald Trump an den großen Deal zwischen Russland, Ukraine und Europa",
+      "link": "https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T10:47:00+00:00"
+      "veroeffentlicht": "2026-11-10T17:15:00+00:00"
     },
     {
-      "titel": "BMW lässt wegen fehlender Teile Schichten ausfallen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T10:45:00+00:00"
-    },
-    {
-      "titel": "KI: Andrea Nahles rechnet mit Verlust von 800.000 Jobs",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/ki-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T10:41:00+00:00"
-    },
-    {
-      "titel": "Unfall-Prävention im Gebirge: Wie verhält man sich in den Bergen richtig?",
-      "link": "https://www.sueddeutsche.de/bayern/bayern-wandern-unfaelle-berge-ratgeber-hilfe-lux.NteMFPMjbaETXPpCwztXB3",
+      "titel": "Newsblog zur Bundespolitik: Kabarettistin Gruber: Aigner kann „Spaltung unserer Gesellschaft“ überwinden",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-monika-gruber-aigner-bundespraesidentin-li.3568524",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T10:39:00+00:00"
+      "veroeffentlicht": "2026-11-10T17:02:29+00:00"
     },
     {
-      "titel": "Frankreich droht Iran nach Cyberangriffen mit weiteren Sanktionen",
-      "link": "https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T10:38:00+00:00"
+      "titel": "Wadephul warnt Iran vor hybriden Angriffen",
+      "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-10T16:51:08+00:00"
     },
     {
-      "titel": "Leute: Eignet sich Ilse Aigner als Tattoo?",
-      "link": "https://www.sueddeutsche.de/panorama/ilse-aigner-tattoo-joerg-thadeusz-meghan-erling-haaland-promis-li.3578076",
+      "titel": "Newsblog zu den Landtagswahlen: Berliner Linken-Fraktion will Emde ausschließen",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-ausschluss-li.3540501",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T10:36:53+00:00"
-    },
-    {
-      "titel": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T10:36:17+00:00"
-    },
-    {
-      "titel": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T10:35:49+00:00"
-    },
-    {
-      "titel": "Raumfahrt: „Wir haben die Technologie, wir müssen sie nur bauen\"",
-      "link": "https://www.sueddeutsche.de/wirtschaft/isar-aerospace-raumfahrt-start-up-muenchen-raketen-li.3569385",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T09:56:00+00:00"
-    },
-    {
-      "titel": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
-      "link": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T09:42:31+00:00"
+      "veroeffentlicht": "2026-11-10T16:47:22+00:00"
     },
     {
       "titel": "SZ Wirtschaftsgipfel: „Präsident Trump ist einer der besten Verteidigungsminister in Europa“",
       "link": "https://www.sueddeutsche.de/wirtschaft/sz-wirtschaftsgipfel-2026-liveblog-li.3575578",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T09:09:42+00:00"
+      "veroeffentlicht": "2026-11-10T16:16:47+00:00"
     },
     {
-      "titel": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
+      "titel": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T09:06:52+00:00"
+      "veroeffentlicht": "2026-11-10T15:51:55+00:00"
     },
     {
-      "titel": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
+      "titel": "Maschinenbauer \"fassungslos\" über Bundesregierung",
+      "link": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T09:05:59+00:00"
+      "veroeffentlicht": "2026-11-10T15:43:59+00:00"
     },
     {
-      "titel": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
+      "titel": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T08:53:53+00:00"
+      "veroeffentlicht": "2026-11-10T15:37:43+00:00"
     },
     {
-      "titel": "Newsblog zu KI: Nahles: „800 000 Jobs werden aufgrund von KI wegfallen“",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-jobs-andrea-nahles-agentur-fuer-arbeit-li.3566658",
+      "titel": "Urteil im „Fabian-Prozess“: „Sie wollten, dass Fabian stirbt, der Junge war für Sie nur ein Objekt“",
+      "link": "https://www.sueddeutsche.de/panorama/fabian-prozess-urteil-gina-h-guestrow-mord-urteil-li.3575410",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T08:32:41+00:00"
+      "veroeffentlicht": "2026-11-10T15:21:56+00:00"
     },
     {
-      "titel": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
-      "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T08:18:50+00:00"
-    },
-    {
-      "titel": "Christlicher Fußballprofi: Felix Nmecha und „die Toleranz gegenüber Intoleranz“",
-      "link": "https://www.sueddeutsche.de/sport/nmecha-jubel-glaube-ballers-in-god-li.3577388",
+      "titel": "Geänderte Zulassungskriterien fürs Oktoberfest: Neues Bier auf der Wiesn: Schon 2027 könnte es so weit sein",
+      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2027-giesinger-braeu-muenchen-zulassungskriterien-li.3574824",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T07:49:43+00:00"
+      "veroeffentlicht": "2026-11-10T15:02:30+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Anthropic plant Billionenbewertung beim Börsengang",
+      "link": "https://www.sueddeutsche.de/wirtschaft/anthropic-ipo-boersengang-billion-ki-li.3578418",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-10T14:56:57+00:00"
+    },
+    {
+      "titel": "Christlicher Fußballer: Wenn Nmecha seine Worte ernst meint, sollte er sich einer Diskussion mit BVB-Fans stellen",
+      "link": "https://www.sueddeutsche.de/sport/bvb-nmecha-krone-torjubel-kommentar-li.3578157",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-10T14:56:08+00:00"
+    },
+    {
+      "titel": "Zwei Tote bei russischen Luftangriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-10T14:42:40+00:00"
+    },
+    {
+      "titel": "Proteste vor Haus bei Kiew: Keine Belege für ein ukrainisches Foltergefängnis",
+      "link": "https://www.tagesschau.de/faktenfinder/ukraine-angebliches-foltergefaengnis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-10T14:22:54+00:00"
+    },
+    {
+      "titel": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-10T14:18:25+00:00"
     }
   ]
 }
