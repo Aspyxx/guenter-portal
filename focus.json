@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-10T03:01:29+00:00",
+  "aktualisiert": "2026-11-10T11:26:21+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Fc Bayern München Musiala",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
+      "titel": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Gedämpfte Erwartungen der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+      "titel": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
+      "titel": "Kursverluste nach KI-Crash fast aufgeholt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "📈"
     }
   ]
 }
