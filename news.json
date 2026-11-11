@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-10T19:45:41+00:00",
+  "aktualisiert": "2026-11-11T00:40:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,52 +7,82 @@
   },
   "meldungen": [
     {
-      "titel": "Uni Tübingen: Hacker erbeuten Daten von Beschäftigten",
-      "link": "https://www.spiegel.de/netzwelt/uni-tuebingen-hacker-erbeuten-daten-von-beschaeftigten-a-92260a50-5657-4fdd-939c-2bbbee61f129#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T19:04:00+00:00"
+      "titel": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-11T00:19:26+00:00"
     },
     {
-      "titel": "Rostocker Prozess gegen Gina H. im Mordfall Fabian: Nach dem Urteil applaudieren die Zuschauer im Saal",
-      "link": "https://www.spiegel.de/panorama/justiz/rostocker-prozess-gegen-gina-h-im-mordfall-fabian-nach-dem-urteil-applaudieren-die-zuschauer-im-saal-a-8f1802b1-0b2f-4073-aa83-49b639e90ac0#ref=rss",
+      "titel": "RAF Fairford: USA klagen mutmaßliche Iranhelfer nach versuchtem Angriff an",
+      "link": "https://www.spiegel.de/ausland/raf-fairford-usa-klagen-mutmassliche-iranhelfer-nach-versuchtem-angriff-an-a-2a93f0bf-c2b0-45c9-913d-868396760e29#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T18:59:00+00:00"
+      "veroeffentlicht": "2026-11-10T23:58:00+00:00"
     },
     {
-      "titel": "Todesstrafe in den USA: Geringste Zustimmung seit 55 Jahren",
-      "link": "https://www.spiegel.de/ausland/todesstrafe-in-den-usa-geringste-zustimmung-seit-55-jahren-a-ea99e4b0-f6e5-4879-a85c-5d10005d75d4#ref=rss",
+      "titel": "Pete Hegseth: Republikaner lehnen Amtsenthebungsantrag im Repräsentantenhaus ab",
+      "link": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T18:55:00+00:00"
+      "veroeffentlicht": "2026-11-10T23:53:00+00:00"
     },
     {
-      "titel": "Maschinenbau-Gipfel: Katherina Reiche kritisiert eigene Regierung",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/maschinenbau-gipfel-katherina-reiche-kritisiert-eigene-regierung-a-207e0fe5-9058-450f-b83c-f102fcbc7236#ref=rss",
+      "titel": "Israel - erste Knesset-Sitzung: Naftali Bennett attackiert Premier Benjamin Netanyahu",
+      "link": "https://www.spiegel.de/ausland/israel-erste-knesset-sitzung-naftali-bennett-attackiert-premier-benjamin-netanyahu-a-da1ec0a6-c3b4-4e9a-9903-ef42d2a5bd54#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T18:39:00+00:00"
+      "veroeffentlicht": "2026-11-10T22:20:00+00:00"
     },
     {
-      "titel": "Türkei: Mitarbeiterin der Böll-Stiftung wegen Spionageverdachts festgenommen",
-      "link": "https://www.spiegel.de/ausland/tuerkei-mitarbeiterin-der-boell-stiftung-wegen-spionageverdacht-festgenommen-a-bfbe2bd7-0af4-4809-8b19-6d117ea4584d#ref=rss",
+      "titel": "Thomas Markle nach Entfernen von Fußfessel erneut festgenommen",
+      "link": "https://www.spiegel.de/panorama/thomas-markle-nach-entfernen-von-fussfessel-erneut-festgenommen-a-2073c681-7932-49dc-9307-d7c866cf2dab#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T18:30:00+00:00"
+      "veroeffentlicht": "2026-11-10T21:34:00+00:00"
     },
     {
-      "titel": "Zahl der Apotheken in Deutschland geht weiter zurück",
-      "link": "https://www.spiegel.de/wirtschaft/service/zahl-der-apotheken-in-deutschland-geht-weiter-zurueck-a-f4f926f6-609d-491a-bd56-3eeb945eedc0#ref=rss",
+      "titel": "Robert Habeck: \"Die Trump-Regierung hat die Ukraine verraten\"",
+      "link": "https://www.spiegel.de/politik/robert-habeck-die-trump-regierung-hat-die-ukraine-verraten-a-e0168f77-3ea3-42ef-b818-14d90194dd72#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T18:27:00+00:00"
+      "veroeffentlicht": "2026-11-10T21:30:00+00:00"
     },
     {
-      "titel": "AfD in Sachsen-Anhalt: Lässt sich Ministerpräsident Ulrich Siegmund noch verhindern?",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-laesst-sich-ministerpraesident-ulrich-siegmund-noch-verhindern-a-2b76ca5c-9acb-42af-97bc-9a752329c8fe#ref=rss",
+      "titel": "Hochrangiger US-Soldat in Großbritannien wegen Spionageverdachts für Russland festgenommen",
+      "link": "https://www.spiegel.de/ausland/hochrangiger-us-soldat-in-grossbritannien-wegen-spionageverdachts-fuer-russland-festgenommen-a-718b2cfe-1422-4d95-a4d3-4dcee5beb2a3#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T18:12:00+00:00"
+      "veroeffentlicht": "2026-11-10T21:17:00+00:00"
     },
     {
-      "titel": "Hartmut Engler: Pur-Sänger spricht über überstandenen Herzinfarkt",
-      "link": "https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss",
+      "titel": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-10T21:08:29+00:00"
+    },
+    {
+      "titel": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-10T21:04:36+00:00"
+    },
+    {
+      "titel": "Golf-Kooperationsrat: Mehr militärische Zusammenarbeit wegen Irankrieg",
+      "link": "https://www.spiegel.de/ausland/golf-kooperationsrat-mehr-militaerische-zusammenarbeit-wegen-irankrieg-a-dae912cd-3ad2-42ea-97d8-c7f6f017e7a5#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T18:02:00+00:00"
+      "veroeffentlicht": "2026-11-10T20:57:00+00:00"
+    },
+    {
+      "titel": "USA: Republikaner Jim Jordan wird Minderheitsführer im Repräsentantenhaus",
+      "link": "https://www.spiegel.de/ausland/usa-republikaner-jim-jordan-wird-minderheitsfuehrer-im-repraesentantenhaus-a-a9c024db-837a-42ac-9beb-f7c0d0fba244#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T20:45:00+00:00"
+    },
+    {
+      "titel": "Boris Becker im Straßenverkehr: Warum er das Steuer ungern aus der Hand gibt",
+      "link": "https://www.spiegel.de/sport/tennis/boris-becker-im-strassenverkehr-warum-er-das-steuer-ungern-aus-der-hand-gibt-a-f3adf867-eaf8-4fdf-8807-2572f26e3c98#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-10T20:26:00+00:00"
+    },
+    {
+      "titel": "Niclas Füllkrug: Zu alt fürs Nationalteam? Da erinnert Füllkrug an Miroslav Klose",
+      "link": "https://www.sueddeutsche.de/sport/dfb-fuellkrug-klopp-nationalmannschaft-li.3578459",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-10T17:56:03+00:00"
     },
     {
       "titel": "Debatte: Horrorclowns, Influencer, Thinktankler? Bullshit!",
@@ -77,12 +107,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-10T17:21:50+00:00"
-    },
-    {
-      "titel": "Ukraine – Friedensgespräche in Abu Dhabi: Bisher glaubt nur Donald Trump an den großen Deal zwischen Russland, Ukraine und Europa",
-      "link": "https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T17:15:00+00:00"
     },
     {
       "titel": "Newsblog zur Bundespolitik: Kabarettistin Gruber: Aigner kann „Spaltung unserer Gesellschaft“ überwinden",
@@ -133,40 +157,16 @@
       "veroeffentlicht": "2026-11-10T15:21:56+00:00"
     },
     {
+      "titel": "Organisierte Kriminalität: Online-Betrüger erbeuten in München 30 Millionen Euro mit erfundenen Traumrenditen",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-anlagebetrug-rendite-organisierte-kriminalitaet-polizei-online-betrug-li.3577781",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-10T15:11:08+00:00"
+    },
+    {
       "titel": "Geänderte Zulassungskriterien fürs Oktoberfest: Neues Bier auf der Wiesn: Schon 2027 könnte es so weit sein",
       "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2027-giesinger-braeu-muenchen-zulassungskriterien-li.3574824",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-10T15:02:30+00:00"
-    },
-    {
-      "titel": "Künstliche Intelligenz: Anthropic plant Billionenbewertung beim Börsengang",
-      "link": "https://www.sueddeutsche.de/wirtschaft/anthropic-ipo-boersengang-billion-ki-li.3578418",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T14:56:57+00:00"
-    },
-    {
-      "titel": "Christlicher Fußballer: Wenn Nmecha seine Worte ernst meint, sollte er sich einer Diskussion mit BVB-Fans stellen",
-      "link": "https://www.sueddeutsche.de/sport/bvb-nmecha-krone-torjubel-kommentar-li.3578157",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T14:56:08+00:00"
-    },
-    {
-      "titel": "Zwei Tote bei russischen Luftangriffen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T14:42:40+00:00"
-    },
-    {
-      "titel": "Proteste vor Haus bei Kiew: Keine Belege für ein ukrainisches Foltergefängnis",
-      "link": "https://www.tagesschau.de/faktenfinder/ukraine-angebliches-foltergefaengnis-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T14:22:54+00:00"
-    },
-    {
-      "titel": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T14:18:25+00:00"
     }
   ]
 }
