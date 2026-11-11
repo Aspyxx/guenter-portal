@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-11T00:40:20+00:00",
+  "aktualisiert": "2026-11-11T07:11:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,76 +7,136 @@
   },
   "meldungen": [
     {
-      "titel": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+      "titel": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/krankenstand-aeltere-beschaeftigte-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T00:19:26+00:00"
+      "veroeffentlicht": "2026-11-11T06:51:52+00:00"
     },
     {
-      "titel": "RAF Fairford: USA klagen mutmaßliche Iranhelfer nach versuchtem Angriff an",
-      "link": "https://www.spiegel.de/ausland/raf-fairford-usa-klagen-mutmassliche-iranhelfer-nach-versuchtem-angriff-an-a-2a93f0bf-c2b0-45c9-913d-868396760e29#ref=rss",
+      "titel": "Deutschland weltweit auf Platz zwei bei Handel mit Klimagütern",
+      "link": "https://www.spiegel.de/wirtschaft/deutschland-weltweit-auf-platz-zwei-bei-handel-mit-klimaguetern-a-a38dbd6c-a2ef-49bc-aafc-9f79ec7bf40e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T23:58:00+00:00"
+      "veroeffentlicht": "2026-11-11T06:46:00+00:00"
     },
     {
-      "titel": "Pete Hegseth: Republikaner lehnen Amtsenthebungsantrag im Repräsentantenhaus ab",
-      "link": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T23:53:00+00:00"
-    },
-    {
-      "titel": "Israel - erste Knesset-Sitzung: Naftali Bennett attackiert Premier Benjamin Netanyahu",
-      "link": "https://www.spiegel.de/ausland/israel-erste-knesset-sitzung-naftali-bennett-attackiert-premier-benjamin-netanyahu-a-da1ec0a6-c3b4-4e9a-9903-ef42d2a5bd54#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T22:20:00+00:00"
-    },
-    {
-      "titel": "Thomas Markle nach Entfernen von Fußfessel erneut festgenommen",
-      "link": "https://www.spiegel.de/panorama/thomas-markle-nach-entfernen-von-fussfessel-erneut-festgenommen-a-2073c681-7932-49dc-9307-d7c866cf2dab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T21:34:00+00:00"
-    },
-    {
-      "titel": "Robert Habeck: \"Die Trump-Regierung hat die Ukraine verraten\"",
-      "link": "https://www.spiegel.de/politik/robert-habeck-die-trump-regierung-hat-die-ukraine-verraten-a-e0168f77-3ea3-42ef-b818-14d90194dd72#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T21:30:00+00:00"
-    },
-    {
-      "titel": "Hochrangiger US-Soldat in Großbritannien wegen Spionageverdachts für Russland festgenommen",
-      "link": "https://www.spiegel.de/ausland/hochrangiger-us-soldat-in-grossbritannien-wegen-spionageverdachts-fuer-russland-festgenommen-a-718b2cfe-1422-4d95-a4d3-4dcee5beb2a3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T21:17:00+00:00"
-    },
-    {
-      "titel": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
-      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+      "titel": "Marktbericht: DAX-Rekord bleibt in Sichtweite",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T21:08:29+00:00"
+      "veroeffentlicht": "2026-11-11T06:38:55+00:00"
     },
     {
-      "titel": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+      "titel": "Newsblog zu Nahost: USA klagt drei mutmaßliche Iran-Helfer wegen Anschlägen an",
+      "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-anklage-terroranschlaege-li.3571386",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-11T06:38:39+00:00"
+    },
+    {
+      "titel": "Genf: Christie's versteigert den Diamanten »Bulgari Pink«",
+      "link": "https://www.spiegel.de/panorama/genf-christies-versteigert-den-diamanten-bulgari-pink-a-33f02638-fb10-4776-ae1e-9324ff385918#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-11T06:28:00+00:00"
+    },
+    {
+      "titel": "Arbeitsmarkt: Zahl arbeitsloser Akademiker erreicht neuen Höchststand",
+      "link": "https://www.spiegel.de/karriere/arbeitsmarkt-zahl-arbeitsloser-akademiker-erreicht-neuen-hoechststand-a-4f9b3f55-f7d7-45c5-bc71-1bffd362d903#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-11T06:11:00+00:00"
+    },
+    {
+      "titel": "Stubb und der Anruf bei Putin: „Wir müssen mit Russland reden“",
+      "link": "https://www.sueddeutsche.de/politik/finnland-stubb-mit-russland-reden-li.3577543",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-11T06:00:49+00:00"
+    },
+    {
+      "titel": "Nvidia-Aktie fällt auf tiefsten Stand seit März",
+      "link": "https://www.spiegel.de/wirtschaft/nvidia-aktie-faellt-auf-tiefsten-stand-seit-maerz-a-27332fd1-f19b-4a4f-a0d3-5f1012e4bf5d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-11T05:57:00+00:00"
+    },
+    {
+      "titel": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+      "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T21:04:36+00:00"
+      "veroeffentlicht": "2026-11-11T05:56:45+00:00"
     },
     {
-      "titel": "Golf-Kooperationsrat: Mehr militärische Zusammenarbeit wegen Irankrieg",
-      "link": "https://www.spiegel.de/ausland/golf-kooperationsrat-mehr-militaerische-zusammenarbeit-wegen-irankrieg-a-dae912cd-3ad2-42ea-97d8-c7f6f017e7a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T20:57:00+00:00"
+      "titel": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-11T05:54:38+00:00"
     },
     {
-      "titel": "USA: Republikaner Jim Jordan wird Minderheitsführer im Repräsentantenhaus",
-      "link": "https://www.spiegel.de/ausland/usa-republikaner-jim-jordan-wird-minderheitsfuehrer-im-repraesentantenhaus-a-a9c024db-837a-42ac-9beb-f7c0d0fba244#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T20:45:00+00:00"
+      "titel": "Krieg in der Ukraine: Ukraine: Gespräche mit Russland und USA werden fortgesetzt",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verhandlungen-kiew-moskau-usa-abu-dhabi-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-11T05:50:07+00:00"
     },
     {
-      "titel": "Boris Becker im Straßenverkehr: Warum er das Steuer ungern aus der Hand gibt",
-      "link": "https://www.spiegel.de/sport/tennis/boris-becker-im-strassenverkehr-warum-er-das-steuer-ungern-aus-der-hand-gibt-a-f3adf867-eaf8-4fdf-8807-2572f26e3c98#ref=rss",
+      "titel": "USA: Finanzminister Scott Bessent zieht wegen mutmaßlicher Bedrohung durch Iran offenbar auf US-Militärstützpunkt",
+      "link": "https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-10T20:26:00+00:00"
+      "veroeffentlicht": "2026-11-11T05:45:00+00:00"
+    },
+    {
+      "titel": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+      "link": "https://www.tagesschau.de/ausland/europa/digital-fairness-act-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-11T05:28:10+00:00"
+    },
+    {
+      "titel": "11KM-Podcast: Millionen tote Rehe und Hirsche für den Klimawald?",
+      "link": "https://www.tagesschau.de/podcast-11km-klimaschutz-rehe-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-11T05:25:57+00:00"
+    },
+    {
+      "titel": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-11T05:16:33+00:00"
+    },
+    {
+      "titel": "Mobbende Chefs: Sie werden angeschrien? So wehren Sie sich",
+      "link": "https://www.spiegel.de/start/mobbende-chefs-sie-werden-angeschrien-so-wehren-sie-sich-a-49ee6ca3-f764-403f-90f1-8902ed10dd5c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-11T05:12:00+00:00"
+    },
+    {
+      "titel": "Mercedes-AMG GT Viertürer im Test: Das passiert, wenn Verbrenner-Freaks ein Elektroauto bauen",
+      "link": "https://www.spiegel.de/mobilitaet/auto/mercedes-amg-gt-viertuerer-im-test-das-passiert-wenn-verbrenner-freaks-ein-elektroauto-bauen-a-3a5fab2b-3228-4f96-b26f-5d6c6a70dc29#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-11T05:10:00+00:00"
+    },
+    {
+      "titel": "USA nach den Midterms: Wie es für Pete Hegseth und Stephen Miller weitergeht",
+      "link": "https://www.spiegel.de/ausland/usa-nach-den-midterms-wie-es-fuer-pete-hegseth-und-stephen-miller-weitergeht-a-d36ddcf0-0d6a-4e05-90ca-1583c109e502#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-11T05:03:00+00:00"
+    },
+    {
+      "titel": "Krawalle in Deutschland: Wer Politiker meinen, wenn sie von »Chaoten« sprechen",
+      "link": "https://www.spiegel.de/kultur/krawalle-in-deutschland-wer-politiker-meinen-wenn-sie-von-chaoten-sprechen-a-2fd2977b-0b8a-4864-a3da-9be25e4e7b73#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-11T04:50:00+00:00"
+    },
+    {
+      "titel": "TV-Kritik: Die Prophezeiungen des Orakels Habeck",
+      "link": "https://www.sueddeutsche.de/medien/ard-robert-habeck-maischberger-tv-kritik-li.3578506",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-11T02:44:31+00:00"
+    },
+    {
+      "titel": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-11T01:20:58+00:00"
+    },
+    {
+      "titel": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-11T01:17:49+00:00"
     },
     {
       "titel": "Niclas Füllkrug: Zu alt fürs Nationalteam? Da erinnert Füllkrug an Miroslav Klose",
@@ -97,76 +157,16 @@
       "veroeffentlicht": "2026-11-10T17:30:49+00:00"
     },
     {
-      "titel": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T17:27:27+00:00"
-    },
-    {
-      "titel": "Marktbericht: Der DAX wird zurückgepfiffen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T17:21:50+00:00"
-    },
-    {
       "titel": "Newsblog zur Bundespolitik: Kabarettistin Gruber: Aigner kann „Spaltung unserer Gesellschaft“ überwinden",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-monika-gruber-aigner-bundespraesidentin-li.3568524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-10T17:02:29+00:00"
     },
     {
-      "titel": "Wadephul warnt Iran vor hybriden Angriffen",
-      "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T16:51:08+00:00"
-    },
-    {
       "titel": "Newsblog zu den Landtagswahlen: Berliner Linken-Fraktion will Emde ausschließen",
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-ausschluss-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-10T16:47:22+00:00"
-    },
-    {
-      "titel": "SZ Wirtschaftsgipfel: „Präsident Trump ist einer der besten Verteidigungsminister in Europa“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/sz-wirtschaftsgipfel-2026-liveblog-li.3575578",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T16:16:47+00:00"
-    },
-    {
-      "titel": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T15:51:55+00:00"
-    },
-    {
-      "titel": "Maschinenbauer \"fassungslos\" über Bundesregierung",
-      "link": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T15:43:59+00:00"
-    },
-    {
-      "titel": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-10T15:37:43+00:00"
-    },
-    {
-      "titel": "Urteil im „Fabian-Prozess“: „Sie wollten, dass Fabian stirbt, der Junge war für Sie nur ein Objekt“",
-      "link": "https://www.sueddeutsche.de/panorama/fabian-prozess-urteil-gina-h-guestrow-mord-urteil-li.3575410",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T15:21:56+00:00"
-    },
-    {
-      "titel": "Organisierte Kriminalität: Online-Betrüger erbeuten in München 30 Millionen Euro mit erfundenen Traumrenditen",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-anlagebetrug-rendite-organisierte-kriminalitaet-polizei-online-betrug-li.3577781",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T15:11:08+00:00"
-    },
-    {
-      "titel": "Geänderte Zulassungskriterien fürs Oktoberfest: Neues Bier auf der Wiesn: Schon 2027 könnte es so weit sein",
-      "link": "https://www.sueddeutsche.de/muenchen/oktoberfest-2027-giesinger-braeu-muenchen-zulassungskriterien-li.3574824",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-10T15:02:30+00:00"
     }
   ]
 }
