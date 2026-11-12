@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-12T16:57:20+00:00",
+  "aktualisiert": "2026-11-12T22:30:35+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
+      "rang": 2,
       "titel": "Europa will mit an den Tisch",
       "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Putin beharrt auf Gebietsansprüchen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
-    },
-    {
-      "rang": 3,
-      "titel": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
     }
   ]
 }
