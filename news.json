@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-11T22:17:58+00:00",
+  "aktualisiert": "2026-11-12T03:23:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,22 +7,70 @@
   },
   "meldungen": [
     {
-      "titel": "»Titanic«-Schwesterschiff: »SS United States« vor Florida zum Riff versenkt",
-      "link": "https://www.spiegel.de/panorama/titanic-schwesterschiff-ss-united-states-vor-florida-zum-riff-versenkt-a-f3ab75f8-7e01-42dc-8045-ab4347541368#ref=rss",
+      "titel": "USA: US-Soldat rügt Verteidigungsminister Hegseth auf Ehrenfriedhof",
+      "link": "https://www.spiegel.de/ausland/us-soldat-ruegt-gruppe-um-verteidigungsminister-hegseth-in-voller-lautstaerke-a-308d4589-97a3-402a-b0c3-6ea575133714#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T22:00:00+00:00"
+      "veroeffentlicht": "2026-11-12T02:45:00+00:00"
     },
     {
-      "titel": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+      "titel": "Offene Wunden: Der Papst und die Missbrauchsskandale",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T21:30:05+00:00"
+      "veroeffentlicht": "2026-11-12T02:33:13+00:00"
+    },
+    {
+      "titel": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+      "link": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T02:08:44+00:00"
+    },
+    {
+      "titel": "Haushalt: Koalition spart sich die Stromsteuer – und soziale Kürzungen",
+      "link": "https://www.sueddeutsche.de/politik/stromsteuer-zuckersteuer-plastiksteuer-spd-cdu-finanzen-reichensteuer-wohngeld-li.3579119",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-12T00:53:56+00:00"
+    },
+    {
+      "titel": "Israel: Gadi Eisenkot warnt Benjamin Netanyahu vor Alleingängen gegen Iran",
+      "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-warnt-benjamin-netanyahu-vor-alleingaengen-gegen-iran-a-e6f48d28-6f33-4543-a133-a7f6874ccff5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T00:40:00+00:00"
+    },
+    {
+      "titel": "Nvidia: Jensen Huang soll weitere Affäre gehabt haben – Ablösung droht",
+      "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-soll-weitere-affaere-gehabt-haben-abloesung-droht-a-6b2af3d6-fa09-4f81-bc22-f915c93985f7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T00:06:00+00:00"
+    },
+    {
+      "titel": "USA: Demokrat gewinnt Senatssitz in Mississippi",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedys-klage-triumphbogen-mississippi-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-11T23:51:12+00:00"
     },
     {
       "titel": "Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen",
       "link": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T21:24:00+00:00"
+      "veroeffentlicht": "2026-11-11T23:36:00+00:00"
+    },
+    {
+      "titel": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-11T23:12:02+00:00"
+    },
+    {
+      "titel": "Steuern: Existenzminimum wird angehoben",
+      "link": "https://www.sueddeutsche.de/politik/existenzminimum-kalte-progression-lars-klingbeil-li.3579126",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-11T22:43:20+00:00"
+    },
+    {
+      "titel": "»Titanic«-Schwesterschiff: »SS United States« vor Florida zum Riff versenkt",
+      "link": "https://www.spiegel.de/panorama/titanic-schwesterschiff-ss-united-states-vor-florida-zum-riff-versenkt-a-f3ab75f8-7e01-42dc-8045-ab4347541368#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-11T22:00:00+00:00"
     },
     {
       "titel": "Israel: Benjamin Netanyahu will US-Militärhilfe schrittweise auslaufen lassen",
@@ -91,40 +139,10 @@
       "veroeffentlicht": "2026-11-11T18:46:53+00:00"
     },
     {
-      "titel": "Hamburg und Eningen: Mutmaßlicher Schütze stand wegen Betrugs vor Gericht",
-      "link": "https://www.spiegel.de/panorama/justiz/hamburg-und-eningen-mutmasslicher-schuetze-stand-wegen-betrugs-vor-gericht-a-311d361d-080f-4772-b40f-064210045788#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T18:38:00+00:00"
-    },
-    {
-      "titel": "Russland - Ukraine: USA wollen Europäer an den Verhandlungstisch bringen",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-usa-wollen-europaeer-an-den-verhandlungstisch-bringen-a-2783d7a9-75f1-4d41-9797-2718e209e9d4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T18:22:00+00:00"
-    },
-    {
-      "titel": "Ukraine gewinnt im Krieg Gelände zurück: So gelang »Operation Vivaldi«",
-      "link": "https://www.spiegel.de/ausland/ukraine-gewinnt-im-krieg-gelaende-zurueck-so-gelang-operation-vivaldi-a-643a381b-1895-41c8-a71e-666723cc1b1b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T18:14:00+00:00"
-    },
-    {
       "titel": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
       "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-11T18:01:47+00:00"
-    },
-    {
-      "titel": "Russland und Ukraine vereinbaren Gefangenenaustausch",
-      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T17:30:18+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX pirscht sich ans Rekordhoch heran",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T17:13:36+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Ausmaß sexualisierter Gewalt bei Bundeswehr größer als gedacht",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/kultur/pete-hegseth-usa-adorno-horckheimer-frankfurter-schule-habermas-li.3578746",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-11T15:30:02+00:00"
-    },
-    {
-      "titel": "Sparkurs im Rathaus: Stadt München streicht 1650 Stellen bis 2030",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-stellenabbau-sparkurs-rathaus-stadtrat-li.3578511",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-11T14:58:25+00:00"
-    },
-    {
-      "titel": "Koalitionen: Rot-Grün-Rot passt - aber nur in der Provinz",
-      "link": "https://www.sueddeutsche.de/meinung/rot-gruen-rot-koalition-spd-gruene-linke-kommentar-li.3566440",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-11T14:51:08+00:00"
-    },
-    {
-      "titel": "Fossile Ressourcen: Rekordgewinn mit Energie von gestern",
-      "link": "https://www.sueddeutsche.de/wirtschaft/siemens-energy-gasturbinen-rekordgewinn-energiewende-erdgas-li.3573093",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-11T14:27:54+00:00"
     }
   ]
 }
