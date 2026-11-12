@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-11T18:46:25+00:00",
+  "aktualisiert": "2026-11-12T01:05:34+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+      "titel": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "DAX pirscht sich ans Rekordhoch heran",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 3,
       "titel": "Die Bundeswehr hat ein strukturelles Problem",
       "link": "https://www.tagesschau.de/kommentar/bundeswehr-sexuelle-uebergriffe-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
+    },
+    {
+      "rang": 3,
+      "titel": "DAX pirscht sich ans Rekordhoch heran",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
     }
   ]
 }
