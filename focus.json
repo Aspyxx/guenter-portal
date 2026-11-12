@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-12T08:28:04+00:00",
+  "aktualisiert": "2026-11-12T16:57:20+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "DAX könnte mit Rekordhoch starten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 2,
-      "titel": "Zehntausende protestieren gegen Wohnungskrise",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-proteste-wohnungsnot-100.html",
+      "titel": "Europa will mit an den Tisch",
+      "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Putin beharrt auf Gebietsansprüchen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
       "rang": 3,
-      "titel": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+      "titel": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
