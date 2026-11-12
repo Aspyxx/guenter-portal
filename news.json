@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-12T03:23:39+00:00",
+  "aktualisiert": "2026-11-12T11:53:04+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,118 +7,148 @@
   },
   "meldungen": [
     {
-      "titel": "USA: US-Soldat rügt Verteidigungsminister Hegseth auf Ehrenfriedhof",
-      "link": "https://www.spiegel.de/ausland/us-soldat-ruegt-gruppe-um-verteidigungsminister-hegseth-in-voller-lautstaerke-a-308d4589-97a3-402a-b0c3-6ea575133714#ref=rss",
+      "titel": "Fußball: Manchester United trennt sich von Michael Carrick – Gerücht um Pep Guardiola als US-Coach",
+      "link": "https://www.spiegel.de/sport/fussball-manchester-united-trennt-sich-von-michael-carrick-geruecht-um-pep-guardiola-als-us-coach-a-b7a38535-2f60-4898-86c5-77d20266d936#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T02:45:00+00:00"
+      "veroeffentlicht": "2026-11-12T11:44:00+00:00"
     },
     {
-      "titel": "Offene Wunden: Der Papst und die Missbrauchsskandale",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
+      "titel": "Neues Kita-Gesetz: Wer bessere Chancen für Kinder fordert, muss dafür auch Geld klarmachen",
+      "link": "https://www.spiegel.de/politik/deutschland/neues-kita-gesetz-wer-bessere-chancen-fuer-kinder-fordert-muss-dafuer-auch-geld-klarmachen-a-cd84cca9-c738-48bf-82a2-448e08075968#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T11:42:00+00:00"
+    },
+    {
+      "titel": "Herzgesundheit: Neues Medikament enttäuscht Forscher in Studie",
+      "link": "https://www.spiegel.de/wissenschaft/medizin/herzgesundheit-neues-medikament-enttaeuscht-forscher-in-studie-a-627559a8-9445-4202-81ba-0a4967ef846d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T11:40:00+00:00"
+    },
+    {
+      "titel": "Bärbel Bas bedankt sich für Anteilnahme in Zuschriften nach ihrem Rücktritt",
+      "link": "https://www.spiegel.de/politik/baerbel-bas-bedankt-sich-fuer-anteilnahme-in-zuschriften-nach-ihrem-ruecktritt-a-3dfccf4c-ab99-48d8-afd8-988de7605744#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T11:37:00+00:00"
+    },
+    {
+      "titel": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T02:33:13+00:00"
+      "veroeffentlicht": "2026-11-12T11:35:03+00:00"
     },
     {
-      "titel": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
-      "link": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+      "titel": "Warum immer mehr Menschen in die Schuldenfalle rutschen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T02:08:44+00:00"
+      "veroeffentlicht": "2026-11-12T11:31:51+00:00"
     },
     {
-      "titel": "Haushalt: Koalition spart sich die Stromsteuer – und soziale Kürzungen",
-      "link": "https://www.sueddeutsche.de/politik/stromsteuer-zuckersteuer-plastiksteuer-spd-cdu-finanzen-reichensteuer-wohngeld-li.3579119",
+      "titel": "Bundesbank warnt vor wachsenden Risiken für Deutschlands Banken",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-warnt-vor-wachsenden-risiken-fuer-deutschlands-banken-a-b53aea9b-ff04-4b9f-a3e5-59f07fd19cdc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T11:26:00+00:00"
+    },
+    {
+      "titel": "Jugendlicher überlebt sechs Tage im australischen Outback",
+      "link": "https://www.tagesschau.de/ausland/australien-teenager-wildnis-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T11:23:50+00:00"
+    },
+    {
+      "titel": "Warum Minister beim Haushalt lieber pünktlich sind",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T11:08:50+00:00"
+    },
+    {
+      "titel": "Fußball: »Ballers in God« teilten Jürgen-Klopp-Video dem DFB zufolge ohne Zustimmung",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-ballers-in-god-teilten-juergen-klopp-video-dem-dfb-zufolge-ohne-zustimmung-a-4807256e-ced6-44a9-80ab-9b03b6a19b67#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T11:00:00+00:00"
+    },
+    {
+      "titel": "Türkisch klingender Nachname erschwert offenbar die Suche nach Kitaplatz",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/tuerkisch-klingender-nachname-erschwert-offenbar-die-suche-nach-kitaplatz-a-578c2dd5-0e46-4183-a37c-426eb3969547#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T10:57:00+00:00"
+    },
+    {
+      "titel": "Kita-Startchancengesetz: Mehr Förderung mit weniger Geld?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kita-startchancengesetz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T10:45:20+00:00"
+    },
+    {
+      "titel": "Australien: Finnische Botschaft geht mit Post über Öffnungszeiten viral",
+      "link": "https://www.spiegel.de/netzwelt/web/australien-finnische-botschaft-geht-mit-post-ueber-oeffnungszeiten-viral-a-c7f4de30-5088-4391-8a6d-fb3daeb891ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T10:42:00+00:00"
+    },
+    {
+      "titel": "Rostock: Verteidigung von Gina H. legt im Fall Fabian Revision ein",
+      "link": "https://www.spiegel.de/panorama/justiz/rostock-verteidigung-von-gina-h-legt-im-fall-fabian-revision-ein-a-dff1330f-242c-4cce-b0f6-65e0934a8711#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T10:23:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Selenskij: Störungen bei Satellitendienst Starshield an gesamter Front",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-stoerungen-starshield-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-12T09:58:47+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX knackt 27.000 Punkte-Marke",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T09:55:48+00:00"
+    },
+    {
+      "titel": "IG Metall beschließt erstmals seit acht Jahren ganztägige Streiks",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T09:48:25+00:00"
+    },
+    {
+      "titel": "Kompromisse beim Haushalt: Zufriedene SPD, Grummeln in der Union",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T09:43:29+00:00"
+    },
+    {
+      "titel": "Nvidia-Chef Huang verliert wegen Affären wohl seinen Job",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T09:38:52+00:00"
+    },
+    {
+      "titel": "Industrie: „Jetzt legen wir die Betriebe rund um die Uhr still“",
+      "link": "https://www.sueddeutsche.de/wirtschaft/ig-metall-tarifverhandlungen-metall-und-elektroindustrie-streiks-lohnerhoehung-li.3575612",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-12T09:12:22+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Middelberg: In Haushaltsdebatte der Union hat es „ordentlich geknallt“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-haushalt-debatte-cdu-csu-middelberg-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-12T09:00:43+00:00"
+    },
+    {
+      "titel": "Haushalt: Koalition spart sich die Stromsteuer-Senkung – und soziale Kürzungen",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-haushalt-plaene-zuckersteuer-stromsteuer-plastiksteuer-li.3579119",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-12T00:53:56+00:00"
     },
     {
-      "titel": "Israel: Gadi Eisenkot warnt Benjamin Netanyahu vor Alleingängen gegen Iran",
-      "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-warnt-benjamin-netanyahu-vor-alleingaengen-gegen-iran-a-e6f48d28-6f33-4543-a133-a7f6874ccff5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T00:40:00+00:00"
-    },
-    {
-      "titel": "Nvidia: Jensen Huang soll weitere Affäre gehabt haben – Ablösung droht",
-      "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-soll-weitere-affaere-gehabt-haben-abloesung-droht-a-6b2af3d6-fa09-4f81-bc22-f915c93985f7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T00:06:00+00:00"
-    },
-    {
       "titel": "USA: Demokrat gewinnt Senatssitz in Mississippi",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedys-klage-triumphbogen-mississippi-li.3578585",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-demokrat-scott-colom-mississippi-senat-li.3578585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-11T23:51:12+00:00"
     },
     {
-      "titel": "Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen",
-      "link": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T23:36:00+00:00"
-    },
-    {
-      "titel": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T23:12:02+00:00"
-    },
-    {
       "titel": "Steuern: Existenzminimum wird angehoben",
-      "link": "https://www.sueddeutsche.de/politik/existenzminimum-kalte-progression-lars-klingbeil-li.3579126",
+      "link": "https://www.sueddeutsche.de/politik/steuern-deutschland-existenzminimum-kalte-progression-lars-klingbeil-li.3579126",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-11T22:43:20+00:00"
-    },
-    {
-      "titel": "»Titanic«-Schwesterschiff: »SS United States« vor Florida zum Riff versenkt",
-      "link": "https://www.spiegel.de/panorama/titanic-schwesterschiff-ss-united-states-vor-florida-zum-riff-versenkt-a-f3ab75f8-7e01-42dc-8045-ab4347541368#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T22:00:00+00:00"
-    },
-    {
-      "titel": "Israel: Benjamin Netanyahu will US-Militärhilfe schrittweise auslaufen lassen",
-      "link": "https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-us-militaerhilfe-schrittweise-auslaufen-lassen-a-27598afe-8d8f-44ce-b523-04223f4c6366#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T21:00:00+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Koalition nimmt geplante Kürzungen im Sozialbereich zurück und verschiebt geplante Steuern",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-sozialbereich-reformen-koalition-steuern-einigung-li.3568524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-11T20:32:58+00:00"
-    },
-    {
-      "titel": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T20:29:48+00:00"
-    },
-    {
-      "titel": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
-      "link": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T19:26:10+00:00"
-    },
-    {
-      "titel": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
-      "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T19:13:07+00:00"
-    },
-    {
-      "titel": "»Die Linke der Hort des Antisemitismus? Das ist doch absurd«– Güner Balci und Janine Wissler im Spitzengespräch",
-      "link": "https://www.spiegel.de/politik/deutschland/die-linke-der-hort-des-antisemitismus-das-ist-doch-absurd-guener-balci-und-janine-wissler-im-spitzengespraech-a-d725b371-5965-40e9-8450-5617999e8dad#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T19:03:00+00:00"
-    },
-    {
-      "titel": "Großensee, Schleswig-Holstein: Tote und Schwerverletzte nach Hundeattacke – Tier war Behörden bekannt",
-      "link": "https://www.spiegel.de/panorama/justiz/grossensee-schleswig-holstein-tote-und-schwerverletze-nach-hundeattacke-tier-war-behoerden-bekannt-a-8f75d6d3-244f-42ff-a239-c836e37da55d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T19:00:00+00:00"
-    },
-    {
-      "titel": "\"Sicherheitsordnung\": Warum übernehmen die USA Russlands Forderung?",
-      "link": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T18:56:21+00:00"
     },
     {
       "titel": "Unabhängigkeitsmarsch in Polen: Wie der Präsident das Land am höchsten staatlichen Feiertag spaltet",
@@ -127,46 +157,16 @@
       "veroeffentlicht": "2026-11-11T18:51:23+00:00"
     },
     {
-      "titel": "Ellwangen: Eltern missbrauchten Tochter – lange Haftstrafen für Ehepaar",
-      "link": "https://www.spiegel.de/panorama/justiz/ellwangen-eltern-missbrauchten-tochter-lange-haftstrafen-fuer-ehepaar-a-d38cd33e-a494-4eea-862b-948e12ea3ae2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-11T18:51:00+00:00"
-    },
-    {
-      "titel": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T18:46:53+00:00"
-    },
-    {
-      "titel": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-11T18:01:47+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Ausmaß sexualisierter Gewalt bei Bundeswehr größer als gedacht",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-bundeswehr-sexualisierte-gewalt-dunkelfeldstudie-li.3578712",
+      "titel": "Frauen in der Politik: Würde man so über einen Mann sprechen?",
+      "link": "https://www.sueddeutsche.de/leben/frauen-politik-ilse-aigner-stereotype-sexismus-li.3578198",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-11T16:01:46+00:00"
+      "veroeffentlicht": "2026-11-11T16:57:06+00:00"
     },
     {
-      "titel": "Medizin: Der BMI hat ausgedient",
-      "link": "https://www.sueddeutsche.de/gesundheit/adipositas-bmi-uebergewicht-taillenumfang-fettleibigkeit-li.3578740",
+      "titel": "Berlin: SZ Wirtschaftsgipfel 2026 – der Liveblog zum Nachlesen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/klingbeil-putin-schwarze-null-sz-wirtschaftsgipfel-li.3575578",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-11T16:00:00+00:00"
-    },
-    {
-      "titel": "Soziale Medien: Im Kino gewesen, eingeloggt",
-      "link": "https://www.sueddeutsche.de/medien/new-york-times-letterboxd-kauf-soziale-medien-film-li.3575556",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-11T15:36:21+00:00"
-    },
-    {
-      "titel": "USA: Wenn das Adorno wüsste",
-      "link": "https://www.sueddeutsche.de/kultur/pete-hegseth-usa-adorno-horckheimer-frankfurter-schule-habermas-li.3578746",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-11T15:30:02+00:00"
+      "veroeffentlicht": "2026-11-11T16:09:00+00:00"
     }
   ]
 }
