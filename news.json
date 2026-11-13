@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-12T19:56:38+00:00",
+  "aktualisiert": "2026-11-13T01:06:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,106 @@
   },
   "meldungen": [
     {
-      "titel": "Uno-Klimagipfel in der Türkei: Elektrifizierung als Schlüssel zum Klimaschutz",
-      "link": "https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-elektrifizierung-als-schluessel-zum-klimaschutz-a-e1471386-d2ab-489f-8a42-563fa7a67075#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T19:51:00+00:00"
+      "titel": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T00:40:22+00:00"
     },
     {
-      "titel": "»Königreich Deutschland«: Prozess gegen Fantasiekönig Peter Fitzek beginnt - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/justiz/koenigreich-deutschland-prozess-gegen-fantasiekoenig-peter-fitzek-beginnt-spiegel-tv-a-dcda6945-936d-4afe-bb1a-8cf923c2e361#ref=rss",
+      "titel": "Krieg gegen Ukraine: Europäer formulieren Bedingungen für Sicherheitsgespräche",
+      "link": "https://www.spiegel.de/ausland/krieg-gegen-ukraine-europaeer-formulieren-bedingungen-fuer-sicherheitsgespraeche-a-04895725-09d3-489a-9c25-368ec95b9467#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T19:50:00+00:00"
+      "veroeffentlicht": "2026-11-13T00:21:00+00:00"
     },
     {
-      "titel": "Gaza: Mehrere Tote nach israelischem Angriff auf Nasser-Krankenhaus",
-      "link": "https://www.spiegel.de/ausland/gaza-mehrere-tote-nach-israelischem-angriff-auf-nasser-krankenhaus-a-38b81b5b-b4ea-4d0b-978c-b50bf1a43084#ref=rss",
+      "titel": "Microsoft: Großstörung sperrt weltweit Zehntausende Nutzer aus",
+      "link": "https://www.spiegel.de/netzwelt/microsoft-grossstoerung-sperrt-weltweit-zehntausende-nutzer-aus-a-bb279081-217e-4bd7-b01f-c66ec6671f7c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T19:49:00+00:00"
+      "veroeffentlicht": "2026-11-13T00:21:00+00:00"
     },
     {
-      "titel": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T19:02:00+00:00"
+      "titel": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T23:08:03+00:00"
     },
     {
-      "titel": "Donald Trump weist JD Vance zurecht – Vize soll sich nicht um Iran kümmern",
-      "link": "https://www.spiegel.de/ausland/donald-trump-weist-jd-vance-zurecht-vize-soll-sich-nicht-um-iran-kuemmern-a-1b62d01a-55fd-4a6d-85c3-44b4558eed82#ref=rss",
+      "titel": "Duran Duran: Drummer Roger Taylor hört wegen Tinnitus auf",
+      "link": "https://www.spiegel.de/panorama/duran-duran-drummer-roger-taylor-hoert-wegen-tinnitus-auf-a-9e25d38f-fb35-4672-96e4-50a715f26e0f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T18:57:00+00:00"
+      "veroeffentlicht": "2026-11-12T22:50:00+00:00"
+    },
+    {
+      "titel": "Spionage-Affäre: Nvidia-Aktien büßen nach Jensen Huangs Rücktritt an Wert ein",
+      "link": "https://www.spiegel.de/wirtschaft/spionage-affaere-nvidia-aktien-buessen-nach-jensen-huangs-ruecktritt-an-wert-ein-a-a7155d5a-d0f2-43d4-b287-1f89bcb863ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T22:39:00+00:00"
+    },
+    {
+      "titel": "Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an",
+      "link": "https://www.spiegel.de/ausland/ukrainekrieg-witkoff-kuendigt-beteiligung-europas-an-verhandlungen-an-a-aa8619e7-7ea6-4b1d-bf03-3bf4cf42e0a1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T21:46:00+00:00"
+    },
+    {
+      "titel": "Chip-Konzern: Nvidia-Chef Huang tritt zurück",
+      "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-aktie-absturz-nachfolgerin-li.3579215",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-12T21:10:46+00:00"
+    },
+    {
+      "titel": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+      "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-12T21:09:07+00:00"
+    },
+    {
+      "titel": "Rechtsstreit um Investorendeal: Niederlage für Fifa vor US-Gericht",
+      "link": "https://www.sueddeutsche.de/sport/fifa-uefa-infantino-li.3579745",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-12T21:07:17+00:00"
+    },
+    {
+      "titel": "Werke von Sexualstraftäter ausgestellt – Wiener Aktionismus Museum schließt",
+      "link": "https://www.spiegel.de/kultur/werke-von-sexualstraftaeter-ausgestellt-wiener-aktionismus-museum-schliesst-a-5348639d-9deb-47bb-bfc1-96298f8d7a7e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T21:04:00+00:00"
+    },
+    {
+      "titel": "Jürgen Klopp zu Felix Nmecha: „Deswegen wird er so nicht mehr jubeln“",
+      "link": "https://www.sueddeutsche.de/sport/klopp-nmecha-gespraech-serbien-deutschland-li.3579648",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-12T20:59:03+00:00"
+    },
+    {
+      "titel": "Israel verbietet Jean-Luc Mélenchon wegen antiisraelischer Haltung Einreise",
+      "link": "https://www.spiegel.de/ausland/israel-verbietet-jean-luc-melenchon-wegen-antiisraelischer-haltung-einreise-a-61502964-7e0f-412a-9b40-b41a9754bf01#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T20:54:00+00:00"
+    },
+    {
+      "titel": "Bundeswehr startet Onlineshop – und verkauft Badeenten mit Sturmgewehr",
+      "link": "https://www.spiegel.de/wirtschaft/bundeswehr-startet-onlineshop-und-verkauft-badeenten-mit-sturmgewehr-a-3435b089-f352-422c-b8eb-dbaa414a0211#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T20:41:00+00:00"
+    },
+    {
+      "titel": "Massiver Cyberangriff auf deutschen Drohnenhersteller Quantum Systems",
+      "link": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-12T20:05:00+00:00"
+    },
+    {
+      "titel": "Chip-Konzern: Colette Kress: Was über die neue Nvidia-Chefin bekannt ist",
+      "link": "https://www.sueddeutsche.de/wirtschaft/colette-kress-nvidia-jensen-huang-portraet-chip-konzern-donald-trump-li.3579740",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-12T20:03:08+00:00"
     },
     {
       "titel": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
       "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-12T18:54:49+00:00"
-    },
-    {
-      "titel": "USA: Hegseth zeichnet Soldaten aus, der ihn anbrüllte",
-      "link": "https://www.spiegel.de/ausland/usa-hegseth-zeichnet-soldaten-aus-der-ihn-anbruellte-a-b0079820-bb3e-4068-921a-035f59f0f56a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T18:47:00+00:00"
     },
     {
       "titel": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
@@ -61,28 +121,10 @@
       "veroeffentlicht": "2026-11-12T18:44:20+00:00"
     },
     {
-      "titel": "David Walliams: Deutscher Verlag stoppt Auslieferung der Kinderbücher",
-      "link": "https://www.spiegel.de/kultur/david-walliams-deutscher-verlag-stoppt-auslieferung-der-kinderbuecher-a-07999036-e7fe-4f23-8477-1e2b89b54510#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T18:37:00+00:00"
-    },
-    {
-      "titel": "Australien: Vermisster Jugendlicher nach sechs Tagen im Outback lebend gefunden",
-      "link": "https://www.spiegel.de/ausland/australien-vermisster-jugendlicher-nach-sechs-tagen-im-outback-lebend-gefunden-a-89620def-7815-4e93-9cca-a200c32805eb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T18:26:00+00:00"
-    },
-    {
       "titel": "Autoindustrie: Mercedes stoppt alle Investitionen in Deutschland und droht mit Werkschließungen",
       "link": "https://www.sueddeutsche.de/wirtschaft/mercedes-investitionsstopp-werkschliessungen-ig-metall-betriebsrat-li.3579730",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-12T18:20:47+00:00"
-    },
-    {
-      "titel": "Mercedes-Benz: Konzern stoppt Investitionen in deutsche Werke und prüft Schließungen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-konzern-stoppt-investitionen-in-deutsche-werke-und-prueft-schliessungen-a-e7f79c73-ef81-4715-a6ad-a7033a1fac75#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T18:09:00+00:00"
     },
     {
       "titel": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
@@ -101,24 +143,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-12T17:20:04+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T16:29:23+00:00"
-    },
-    {
-      "titel": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T16:21:41+00:00"
-    },
-    {
-      "titel": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T16:17:54+00:00"
     },
     {
       "titel": "Atmosphärenphysik: Polarwirbel jetzt schon zusammengebrochen: Was ist da los?",
@@ -143,30 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-kitas-startchancengesetz-sprachtests-personal-bundestag-li.3568524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-12T14:53:09+00:00"
-    },
-    {
-      "titel": "Chip-Konzern: Nvidia-Chef Huang tritt zurück",
-      "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-aktie-absturz-nachfolgerin-li.3579215",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T14:47:25+00:00"
-    },
-    {
-      "titel": "Debatte: Wenn wieder beiläufig vom „Schuldkult“ gesprochen wird",
-      "link": "https://www.sueddeutsche.de/kultur/deborah-hartmann-antisemitismus-schuldkult-claudia-roth-li.3579091",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T14:38:28+00:00"
-    },
-    {
-      "titel": "Nach Spionageaffäre: Nvidia-Chef Huang tritt zurück",
-      "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-ruecktritt-spionage-li.3579274",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T14:13:26+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: Kushner und Witkoff werben bei Putin für Europäer",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-putin-kushner-witkoff-russland-krieg-li.3579527",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T13:53:37+00:00"
     }
   ]
 }
