@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-12T22:30:35+00:00",
+  "aktualisiert": "2026-11-13T02:59:09+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 2,
-      "titel": "Europa will mit an den Tisch",
-      "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
+      "titel": "Mercedes Benz Investitionen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 3,
-      "titel": "Putin beharrt auf Gebietsansprüchen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
+      "rang": 2,
+      "titel": "Huang-Affäre könnte zu Trump-Skandal werden",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "📈"
+    },
+    {
+      "rang": 3,
+      "titel": "Momentum für Friedensverhandlungen?",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
     }
   ]
 }
