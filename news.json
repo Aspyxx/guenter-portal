@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-13T16:27:43+00:00",
+  "aktualisiert": "2026-11-13T22:12:24+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "News des Tages: Störung bei Microsoft, Issa Rammo im EU-Parlament, Katherina Reiche plant Notfall-Gesetz für Gasmangel",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T16:15:00+00:00"
+      "titel": "3:1 gegen Serbien: Dominanz im Dauerregen",
+      "link": "https://www.sueddeutsche.de/sport/dfb-team-serbien-nations-league-klopp-gruda-li.3578389",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T22:03:56+00:00"
     },
     {
-      "titel": "Thélyson Orélien: Rowohlt nimmt wegen KI-Vorwürfen Abstand",
-      "link": "https://www.spiegel.de/kultur/literatur/thelyson-orelien-rowohlt-nimmt-wegen-ki-vorwuerfen-abstand-a-116d41f2-1f7d-4b06-ac86-8595e70e6294#ref=rss",
+      "titel": "Jesús de Miguel: Zwölf Spiele Sperre für Torwart Owono nach Todesfall in Spanien",
+      "link": "https://www.spiegel.de/sport/fussball/jesus-de-miguel-zwoelf-spiele-sperre-fuer-torwart-owono-nach-todesfall-in-spanien-a-31308e21-c436-44f9-acad-29bd49f60c3a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T16:14:00+00:00"
+      "veroeffentlicht": "2026-11-13T21:59:00+00:00"
     },
     {
-      "titel": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
+      "titel": "Nations League: Gruda ist der Gewinner der Partie, Deutschland überzeugt wie lange nicht",
+      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-serbien-im-liveticker-a-326c5e73-0078-4453-a674-74f4b8a81771#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T21:58:00+00:00"
+    },
+    {
+      "titel": "USA: Gesamter Flugverkehr in den USA gestoppt",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T21:52:50+00:00"
+    },
+    {
+      "titel": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+      "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T16:13:23+00:00"
+      "veroeffentlicht": "2026-11-13T21:37:39+00:00"
     },
     {
-      "titel": "Joyn löscht »Little-Britain«-Folgen nach Vorwürfen sexuellen Missbrauchs gegen David Walliams",
-      "link": "https://www.spiegel.de/kultur/joyn-loescht-little-britain-folgen-nach-vorwuerfen-sexuellen-missbrauchs-gegen-david-walliams-a-1de1b0d1-ccf6-46f0-94f3-8b0d7aa2d717#ref=rss",
+      "titel": "USA: Luftfahrtaufsicht verhängt landesweiten Flugstopp",
+      "link": "https://www.spiegel.de/panorama/usa-luftfahrtaufsicht-verhaengt-landesweiten-flugstopp-a-b9af612f-04c1-4e44-ab9e-476361bfae5c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T16:13:00+00:00"
+      "veroeffentlicht": "2026-11-13T21:36:00+00:00"
     },
     {
-      "titel": "USA: Demokraten inach den Midterms – »Trump hat uns diese Chance gegeben«",
-      "link": "https://www.spiegel.de/ausland/usa-demokraten-inach-den-midterms-trump-hat-uns-diese-chance-gegeben-a-3c2ac8e1-a183-4dad-88db-53682a6ecbbd#ref=rss",
+      "titel": "New Orleans: Tanker kollidiert mit Raddampfer",
+      "link": "https://www.spiegel.de/panorama/new-orleans-tanker-kollidiert-mit-raddampfer-a-7844e9e3-d317-4187-89dd-ab7505518264#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T16:12:00+00:00"
+      "veroeffentlicht": "2026-11-13T20:40:00+00:00"
+    },
+    {
+      "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T20:22:33+00:00"
+    },
+    {
+      "titel": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T20:21:45+00:00"
+    },
+    {
+      "titel": "Lori Huang: Sie hielt Jensen Huang den Rücken frei. Wird sie jetzt Milliardärin?",
+      "link": "https://www.sueddeutsche.de/panorama/lori-huang-jensen-huang-nvidia-scheidung-tech-industrie-wirtschafsspionage-spionin-china-li.3579383",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T20:05:52+00:00"
+    },
+    {
+      "titel": "Norwegen, Schweden und Estland sperren russische Sportler aus",
+      "link": "https://www.spiegel.de/sport/norwegen-schweden-und-estland-sperren-russische-sportler-aus-a-cbad5051-c510-4df1-a4d9-88b099d8a5a2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T19:53:00+00:00"
+    },
+    {
+      "titel": "Sylvie Meis über »Die Friesenjunkies«: »Alle Genitalien waren abgeklebt und auch beim Masturbieren bewegt sich nur meine Schulter«",
+      "link": "https://www.spiegel.de/kultur/sylvie-meis-ueber-die-friesenjunkies-alle-genitalien-waren-abgeklebt-und-auch-beim-masturbieren-bewegt-sich-nur-meine-schulter-a-91f7a1e9-6dff-4b19-93b4-c63728e52596#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T19:16:00+00:00"
+    },
+    {
+      "titel": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+      "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T19:06:39+00:00"
+    },
+    {
+      "titel": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T18:44:23+00:00"
+    },
+    {
+      "titel": "Theater: Ein Mann mit Leidenschaft und Grundsätzen",
+      "link": "https://www.sueddeutsche.de/kultur/nachruf-peter-iden-kritiker-theater-frankfurt-li.3580273",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T18:33:41+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T18:03:09+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Europäer einigen sich auf Verhandlungsteam für Gespräche mit Russland",
+      "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T18:02:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX schwächelt nach Allzeithoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T17:57:57+00:00"
+    },
+    {
+      "titel": "Aachen: Mann auf offener Straße erschossen – Polizei fahndet nach Tatverdächtigen",
+      "link": "https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen-a-c1053e61-94a3-4ae2-b754-ce053334a6cb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T17:53:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Experte schätzt 500.000 bis 600.000 Kriegstote auf russischer Seite",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T17:51:00+00:00"
+    },
+    {
+      "titel": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T17:15:20+00:00"
+    },
+    {
+      "titel": "Journalismus: Das Taylor-Swift-Interview (Bunte’s Version)",
+      "link": "https://www.sueddeutsche.de/medien/taylor-swift-burda-bunte-interview-li.3579873",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T16:58:01+00:00"
+    },
+    {
+      "titel": "Kfz-Versicherung: Aufschlag für Chinesen",
+      "link": "https://www.sueddeutsche.de/auto/kfz-versicherung-chinesische-e-autos-elektroauto-kfz-versicherung-versicherungspraemien-li.3579922",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T16:43:40+00:00"
+    },
+    {
+      "titel": "Musikstars pilgern nach 95 Jahren in die Abbey Road in London",
+      "link": "https://www.tagesschau.de/kultur/legendaere-abbey-road-tonstudios-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T16:41:43+00:00"
+    },
+    {
+      "titel": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T16:37:14+00:00"
+    },
+    {
+      "titel": "Medienrecht: Dürfen die das?",
+      "link": "https://www.sueddeutsche.de/medien/christian-lindner-titanic-satire-pressefreiheit-persoenlichkeitsrecht-li.3578704",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T16:25:33+00:00"
     },
     {
       "titel": "Bundeswehr: Bedingt badebereit",
       "link": "https://www.sueddeutsche.de/kultur/bundeswehr-shop-badeente-ausverkauft-li.3579887",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-13T16:11:14+00:00"
-    },
-    {
-      "titel": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T16:02:19+00:00"
-    },
-    {
-      "titel": "Elterngeld: Kabinett einigt sich auf Reform – was Familien künftig erwartet",
-      "link": "https://www.spiegel.de/politik/elterngeld-kabinett-einigt-sich-auf-reform-was-familien-kuenftig-erwartet-a-5076c0a5-d0b9-4a41-87fd-2c2f5621c2d6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T15:43:00+00:00"
-    },
-    {
-      "titel": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T15:40:27+00:00"
-    },
-    {
-      "titel": "Kommentar zum Haushalt: Die Koalition geht auf dem Zahnfleisch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-koalition-geht-auf-zahnfleisch-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T15:40:10+00:00"
-    },
-    {
-      "titel": "EU-Gipfel: Wie Friedrich Merz einige der anderen Europäer nervt",
-      "link": "https://www.spiegel.de/politik/eu-gipfel-wie-friedrich-merz-einige-der-anderen-europaeer-nervt-a-135cf542-8cb0-4edf-97be-655285a01239#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T15:36:00+00:00"
-    },
-    {
-      "titel": "Thomas Berthold: AfD will wohl Fußballweltmeister bei Bundespräsidentinnen-Wahl aufstellen",
-      "link": "https://www.spiegel.de/politik/deutschland/thomas-berthold-afd-will-wohl-fussballweltmeister-bei-bundespraesidentinnen-wahl-aufstellen-a-87d7aa66-c8f6-40d7-80eb-dd5af14f5dd7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T15:35:00+00:00"
-    },
-    {
-      "titel": "Naturschutz: Warum Wissenschaftler auf die Schönheit der Insekten setzen",
-      "link": "https://www.spiegel.de/wissenschaft/natur/naturschutz-warum-wissenschaftler-auf-die-schoenheit-der-insekten-setzen-a-4df67f44-63b5-4184-bce1-1d85f5515075#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T15:29:00+00:00"
-    },
-    {
-      "titel": "Brandstiftung: Auto von Nius-Chefredakteur Reichelt angezündet",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/reichelt-auto-angezuendet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T15:28:26+00:00"
-    },
-    {
-      "titel": "Weltklimakonferenz in der Türkei: Gavin Newsom attackiert Donald Trump in Antalya",
-      "link": "https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-gavin-newsom-attackiert-donald-trump-in-antalya-a-099feb31-d9a7-4f15-9371-f8d1ea77065a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T15:28:00+00:00"
-    },
-    {
-      "titel": "Microsoft 365: „Und die halbe Weltverwaltung stand zwölf Stunden still“",
-      "link": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-heute-weltweit-outlook-probleme-teams-li.3579791",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T14:53:39+00:00"
-    },
-    {
-      "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T14:43:02+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Bericht: Ex-Fußballer Berthold wird AfD-Bundespräsidentenkandidat",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-afd-ex-fussballer-berthold-bundespraesident-kandidat-li.3568524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T14:40:16+00:00"
-    },
-    {
-      "titel": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
-      "link": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T14:35:55+00:00"
-    },
-    {
-      "titel": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
-      "link": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T14:35:01+00:00"
-    },
-    {
-      "titel": "Microsoft: So etwas passiert, wenn sich die ganze Welt einem Konzern ausliefert",
-      "link": "https://www.sueddeutsche.de/meinung/microsoft-stoerung-outlook-teams-monopol-kommentar-li.3580142",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T14:10:10+00:00"
-    },
-    {
-      "titel": "EU-Gipfel in Dublin: Merz führt einen riskanten Kampf gegen die Trittbrettfahrer",
-      "link": "https://www.sueddeutsche.de/politik/eu-gipfel-dublin-friedrich-merz-ukraine-hilfe-eu-haushalt-li.3579437",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T13:33:26+00:00"
-    },
-    {
-      "titel": "Etat 2027: Was auf die Bürger mit dem 560-Milliarden-Haushalt zukommt",
-      "link": "https://www.sueddeutsche.de/politik/bundeshaushalt-2027-stromsteuer-kitas-wohngeld-elterngeld-li.3579506",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T13:30:43+00:00"
-    },
-    {
-      "titel": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T13:22:58+00:00"
-    },
-    {
-      "titel": "Kritik auch aus der Union an ausbleibender Stromsteuer-Senkung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T13:20:56+00:00"
-    },
-    {
-      "titel": "Premiere am 19. November: Wenn das GTA-Virus zuschlägt",
-      "link": "https://www.sueddeutsche.de/panorama/gta-6-19-november-playstation-urlaub-krank-arbeit-li.3579895",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T13:17:58+00:00"
-    },
-    {
-      "titel": "Bundeshaushalt 2027: Union will Stromsteuer doch noch senken",
-      "link": "https://www.sueddeutsche.de/politik/bundeshaushalt-stromsteuer-union-neuverschuldung-2027-li.3579513",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T13:16:50+00:00"
     }
   ]
 }
