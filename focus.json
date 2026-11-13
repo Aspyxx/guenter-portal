@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-13T02:59:09+00:00",
+  "aktualisiert": "2026-11-13T10:31:01+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Mercedes Benz Investitionen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
-      "titel": "Huang-Affäre könnte zu Trump-Skandal werden",
-      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+      "titel": "DAX schwächelt nach vier Gewinntagen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
+      "rang": 2,
+      "titel": "Werden die Milliarden für die Stromsteuer noch gefunden?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🌍"
+    },
+    {
       "rang": 3,
-      "titel": "Momentum für Friedensverhandlungen?",
-      "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
+      "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
