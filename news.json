@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-13T01:06:24+00:00",
+  "aktualisiert": "2026-11-13T08:01:16+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,142 @@
   },
   "meldungen": [
     {
+      "titel": "Johannes B. Kerner würde gerne den Papst interviewen",
+      "link": "https://www.spiegel.de/panorama/leute/johannas-b-kerner-wuerde-gerne-den-papst-interviewen-a-bc04700b-a9ff-4e15-881f-6e8de8003b95#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T07:42:00+00:00"
+    },
+    {
+      "titel": "Sylvio-Cator-Stadion in Haiti: Polizei befreit Fußballstadion von bewaffneten Gangs",
+      "link": "https://www.spiegel.de/ausland/sylvio-cator-stadion-in-haiti-polizei-befreit-fussballstadion-von-bewaffneten-gangs-a-2133ec81-140a-45da-9ff4-ae1ffeac5db0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T07:38:00+00:00"
+    },
+    {
+      "titel": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T07:27:43+00:00"
+    },
+    {
+      "titel": "Donald Trump: Ein historischer, öffentlicher Golfplatz, Trumps radikale Umbaupläne und ein Streit, der in Morddrohungen mündet",
+      "link": "https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet-a-5b2c54fc-f653-4ace-8c3c-8358807d8553#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T07:27:00+00:00"
+    },
+    {
+      "titel": "Elektroautos: Vollkasko für Autos aus China kostet fast das Doppelte",
+      "link": "https://www.spiegel.de/wirtschaft/elektroautos-vollkasko-fuer-autos-aus-china-kostet-fast-das-doppelte-a-cb5d4a3b-0af5-4b7f-bf29-93fe2838dfdb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T07:20:00+00:00"
+    },
+    {
+      "titel": "DFB: Felix Nmecha will nach Gespräch mit Jürgen Klopp Kronen-Jubel unterlassen",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen-a-26d49d81-174a-402c-a6e2-014f5199efee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T07:09:00+00:00"
+    },
+    {
+      "titel": "Dacia Spring im Test: Mit dem Zweiten fährt man besser",
+      "link": "https://www.spiegel.de/mobilitaet/auto/dacia-spring-im-test-mit-dem-zweiten-faehrt-man-besser-a-ca7bfc5a-a994-402b-bdd9-87d662b74785#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T07:05:00+00:00"
+    },
+    {
+      "titel": "Haushalt 2027: Entwurf beschlossen – Thema Stromsteuer bleibt umstritten",
+      "link": "https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten-a-96a85a7e-defa-41cc-b8d2-fa71c501fc9d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T06:45:00+00:00"
+    },
+    {
+      "titel": "Barbara Schöneberger muss Führerschein abgeben",
+      "link": "https://www.spiegel.de/panorama/leute/barbara-schoeneberger-muss-fuehrerschein-abgeben-a-aad190ae-2320-41f7-baed-c141219d6c95#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T06:41:00+00:00"
+    },
+    {
+      "titel": "Microsoft bekommt weltweite Störung von Onlinediensten nicht in den Griff",
+      "link": "https://www.spiegel.de/netzwelt/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-13T06:38:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Atempause nach dem DAX-Rekord",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T06:35:10+00:00"
+    },
+    {
+      "titel": "Werden die Milliarden für die Stromsteuer noch gefunden?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T06:26:18+00:00"
+    },
+    {
+      "titel": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
+      "link": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T06:26:14+00:00"
+    },
+    {
+      "titel": "USA: US‑Ministerium: Fast eine halbe Million Abschiebungen in einem Jahr",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-abschiebungen-ice-migration-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T06:12:09+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Haushalt für 2027 steht vorläufig – Bund darf so viel Geld ausgeben wie noch nie",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-haushalt-2027-bundestag-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T06:11:46+00:00"
+    },
+    {
+      "titel": "Ex-Nvidia-Chef Jensen Huang: Vom Popstar zum liebestollen Deppen – in sieben Tagen",
+      "link": "https://www.sueddeutsche.de/wirtschaft/huang-nvidia-affaere-ruecktritt-zukunft-chips-china-li.3577851",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T05:56:01+00:00"
+    },
+    {
+      "titel": "Microsoft 365: Outlook weltweit seit Stunden gestört - Microsoft bemüht sich um Lösung",
+      "link": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-weltweit-outlook-teams-li.3579791",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T05:40:07+00:00"
+    },
+    {
+      "titel": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T04:23:02+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: USA: Putin will Europa an den Verhandlungstisch lassen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T03:02:11+00:00"
+    },
+    {
+      "titel": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-13T02:36:47+00:00"
+    },
+    {
+      "titel": "„Maybrit Illner“ zu Ukraine-Verhandlungen: „Putin weiß, dass er nichts zu befürchten hat“",
+      "link": "https://www.sueddeutsche.de/medien/talkrunde-zdf-aussenminister-putin-verhandlungen-li.3579379",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-13T02:29:37+00:00"
+    },
+    {
       "titel": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
       "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T00:40:22+00:00"
+      "veroeffentlicht": "2026-11-13T02:19:34+00:00"
     },
     {
-      "titel": "Krieg gegen Ukraine: Europäer formulieren Bedingungen für Sicherheitsgespräche",
-      "link": "https://www.spiegel.de/ausland/krieg-gegen-ukraine-europaeer-formulieren-bedingungen-fuer-sicherheitsgespraeche-a-04895725-09d3-489a-9c25-368ec95b9467#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T00:21:00+00:00"
-    },
-    {
-      "titel": "Microsoft: Großstörung sperrt weltweit Zehntausende Nutzer aus",
-      "link": "https://www.spiegel.de/netzwelt/microsoft-grossstoerung-sperrt-weltweit-zehntausende-nutzer-aus-a-bb279081-217e-4bd7-b01f-c66ec6671f7c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T00:21:00+00:00"
-    },
-    {
-      "titel": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+      "titel": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T23:08:03+00:00"
-    },
-    {
-      "titel": "Duran Duran: Drummer Roger Taylor hört wegen Tinnitus auf",
-      "link": "https://www.spiegel.de/panorama/duran-duran-drummer-roger-taylor-hoert-wegen-tinnitus-auf-a-9e25d38f-fb35-4672-96e4-50a715f26e0f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T22:50:00+00:00"
-    },
-    {
-      "titel": "Spionage-Affäre: Nvidia-Aktien büßen nach Jensen Huangs Rücktritt an Wert ein",
-      "link": "https://www.spiegel.de/wirtschaft/spionage-affaere-nvidia-aktien-buessen-nach-jensen-huangs-ruecktritt-an-wert-ein-a-a7155d5a-d0f2-43d4-b287-1f89bcb863ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T22:39:00+00:00"
-    },
-    {
-      "titel": "Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an",
-      "link": "https://www.spiegel.de/ausland/ukrainekrieg-witkoff-kuendigt-beteiligung-europas-an-verhandlungen-an-a-aa8619e7-7ea6-4b1d-bf03-3bf4cf42e0a1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T21:46:00+00:00"
+      "veroeffentlicht": "2026-11-13T01:22:12+00:00"
     },
     {
       "titel": "Chip-Konzern: Nvidia-Chef Huang tritt zurück",
@@ -67,106 +163,10 @@
       "veroeffentlicht": "2026-11-12T21:07:17+00:00"
     },
     {
-      "titel": "Werke von Sexualstraftäter ausgestellt – Wiener Aktionismus Museum schließt",
-      "link": "https://www.spiegel.de/kultur/werke-von-sexualstraftaeter-ausgestellt-wiener-aktionismus-museum-schliesst-a-5348639d-9deb-47bb-bfc1-96298f8d7a7e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T21:04:00+00:00"
-    },
-    {
       "titel": "Jürgen Klopp zu Felix Nmecha: „Deswegen wird er so nicht mehr jubeln“",
       "link": "https://www.sueddeutsche.de/sport/klopp-nmecha-gespraech-serbien-deutschland-li.3579648",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-12T20:59:03+00:00"
-    },
-    {
-      "titel": "Israel verbietet Jean-Luc Mélenchon wegen antiisraelischer Haltung Einreise",
-      "link": "https://www.spiegel.de/ausland/israel-verbietet-jean-luc-melenchon-wegen-antiisraelischer-haltung-einreise-a-61502964-7e0f-412a-9b40-b41a9754bf01#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T20:54:00+00:00"
-    },
-    {
-      "titel": "Bundeswehr startet Onlineshop – und verkauft Badeenten mit Sturmgewehr",
-      "link": "https://www.spiegel.de/wirtschaft/bundeswehr-startet-onlineshop-und-verkauft-badeenten-mit-sturmgewehr-a-3435b089-f352-422c-b8eb-dbaa414a0211#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T20:41:00+00:00"
-    },
-    {
-      "titel": "Massiver Cyberangriff auf deutschen Drohnenhersteller Quantum Systems",
-      "link": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-12T20:05:00+00:00"
-    },
-    {
-      "titel": "Chip-Konzern: Colette Kress: Was über die neue Nvidia-Chefin bekannt ist",
-      "link": "https://www.sueddeutsche.de/wirtschaft/colette-kress-nvidia-jensen-huang-portraet-chip-konzern-donald-trump-li.3579740",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T20:03:08+00:00"
-    },
-    {
-      "titel": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T18:54:49+00:00"
-    },
-    {
-      "titel": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T18:44:38+00:00"
-    },
-    {
-      "titel": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
-      "link": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T18:44:20+00:00"
-    },
-    {
-      "titel": "Autoindustrie: Mercedes stoppt alle Investitionen in Deutschland und droht mit Werkschließungen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/mercedes-investitionsstopp-werkschliessungen-ig-metall-betriebsrat-li.3579730",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T18:20:47+00:00"
-    },
-    {
-      "titel": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T17:41:58+00:00"
-    },
-    {
-      "titel": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T17:31:15+00:00"
-    },
-    {
-      "titel": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-12T17:20:04+00:00"
-    },
-    {
-      "titel": "Atmosphärenphysik: Polarwirbel jetzt schon zusammengebrochen: Was ist da los?",
-      "link": "https://www.sueddeutsche.de/wissen/polarwirbel-nordpol-stratosphaere-kaelteeinbruch-atmosphaerenphysik-winter-li.3578700",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T15:46:01+00:00"
-    },
-    {
-      "titel": "Russland und die Eishockey-WM: Bundesregierung knickt in der Visa-Frage ein",
-      "link": "https://www.sueddeutsche.de/sport/eishockey-wm-russland-kanada-visa-boykott-li.3579408",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T15:24:58+00:00"
-    },
-    {
-      "titel": "Altern: Ohne Kollagen-Abo bist du verloren",
-      "link": "https://www.sueddeutsche.de/kultur/altern-film-serien-frauen-pro-aging-li.3553208",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T15:10:32+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Bundestag beschließt Kita-Startchancengesetz mit Sprachtests",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-kitas-startchancengesetz-sprachtests-personal-bundestag-li.3568524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-12T14:53:09+00:00"
     }
   ]
 }
