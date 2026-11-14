@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-14T09:27:15+00:00",
+  "aktualisiert": "2026-11-14T16:07:46+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Tesla verkauft Robotaxis für 29.990 Dollar, plus 299 Dollar Gebühr pro Monat. Doch nicht an alle Kunden. Aber es fährt (nur nicht überall)",
-      "link": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss",
+      "titel": "Ungarn: Bei Korruptionsermittlungen gegen Ex-Minister 17,7 Millionen Euro sichergestellt",
+      "link": "https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T08:41:00+00:00"
+      "veroeffentlicht": "2026-11-14T16:01:00+00:00"
     },
     {
-      "titel": "Alexander K.: »Maschsee-Mörder« wird ein Fall für den Bundesgerichtshof",
-      "link": "https://www.spiegel.de/panorama/justiz/alexander-k-maschsee-moerder-wird-ein-fall-fuer-den-bundesgerichtshof-a-100118a8-1dc3-4c92-b378-85c5d7b6d841#ref=rss",
+      "titel": "König Charles und Elton John brillieren als Radio-DJs",
+      "link": "https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T08:35:00+00:00"
+      "veroeffentlicht": "2026-11-14T15:51:00+00:00"
+    },
+    {
+      "titel": "Pläne für höhere Abzüge bei vorgezogener Rente",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T15:37:32+00:00"
+    },
+    {
+      "titel": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T15:22:57+00:00"
+    },
+    {
+      "titel": "Staatsakt für Hubert Aiwanger: „Ich danke euch, dass ihr uns diesen Menschen gegeben habt“",
+      "link": "https://www.sueddeutsche.de/bayern/bayern-aiwanger-trauerfeier-liebfrauendom-staatsakt-soeder-aigner-li.3580451",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T15:15:00+00:00"
+    },
+    {
+      "titel": "Drachenfliegen: Zehntklässler lernen an Schule in Eschershausen Hängegleiten",
+      "link": "https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T15:05:00+00:00"
+    },
+    {
+      "titel": "Schleswig-Holstein: Daniel Günther erneut CDU-Spitzenkandidat bei Landtagswahl 2027",
+      "link": "https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T15:03:00+00:00"
+    },
+    {
+      "titel": "Lange Nacht des Impfens in Dresden: »Vielleicht sagt man jetzt Nein, weil man sich überhaupt entscheiden darf«",
+      "link": "https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf-a-f02dc236-c24b-4ccf-b3f3-dfb011a6e704#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T14:45:00+00:00"
+    },
+    {
+      "titel": "Republikaner nach den Midterms: Das Donald-Trump-Dilemma",
+      "link": "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T14:21:00+00:00"
+    },
+    {
+      "titel": "Ski alpin: Emma Aicher feiert ersten Slalom-Weltcupsieg in Levi",
+      "link": "https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T14:11:00+00:00"
+    },
+    {
+      "titel": "Klingbeil verteidigt Doppelrolle als SPD-Chef und Finanzminister",
+      "link": "https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T14:03:00+00:00"
+    },
+    {
+      "titel": "Spatzen in Berlin: Was hinter dem drastischen Rückgang der Singvögel steckt",
+      "link": "https://www.spiegel.de/wissenschaft/natur/spatzen-in-berlin-was-hinter-dem-drastischen-rueckgang-der-singvoegel-steckt-a-a0eaec38-b58a-4dc1-8bd8-852d493ee6ab#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T13:54:00+00:00"
+    },
+    {
+      "titel": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+      "link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T13:48:00+00:00"
+    },
+    {
+      "titel": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+      "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T13:22:33+00:00"
+    },
+    {
+      "titel": "Deutschlands Gegner Niederlande: Oranje zelebriert Xavi-Ball im Cruyff-Stadion",
+      "link": "https://www.sueddeutsche.de/sport/niederlande-griechenland-nations-league-li.3580519",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T12:46:14+00:00"
+    },
+    {
+      "titel": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T12:42:12+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Selenskij: USA bringen Nato-Mitgliedschaft im Gegenzug für Donbass ins Spiel",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-nato-donbass-rueckzug-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T12:39:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu den Landtagswahlen: Mecklenburg-Vorpommern: Weg für erste rot-rot-grüne Koalition frei",
+      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-koalitionsvertrag-gruene-spd-linke-li.3540501",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T12:21:23+00:00"
+    },
+    {
+      "titel": "Requiem in der Frauenkirche: Abschied von Hubert Aiwanger",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-trauerfeier-requiem-trauerstaatsakt-muenchen-frauenkirche-bilder-li.3580437",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T11:26:00+00:00"
+    },
+    {
+      "titel": "Papst in Lateinamerika: „Padre Roberto“ ist zurück in Peru",
+      "link": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T10:57:54+00:00"
+    },
+    {
+      "titel": "Newsblog zur Bundespolitik: Bericht: Teile der SPD wollen erneute Kandidatur Klingbeils als Parteichef verhindern",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-klingbeil-parteitag-antraege-parteivorsitz-li.3568524",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T10:26:12+00:00"
+    },
+    {
+      "titel": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T10:17:44+00:00"
+    },
+    {
+      "titel": "USA: „Wunder“ auf dem Mississippi: Kreuzfahrtschiff kentert, alle überleben",
+      "link": "https://www.sueddeutsche.de/panorama/schiffsunglueck-zusammenstoss-tanker-kentern-kreuzfahrt-mississippi-usa-li.3580353",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T10:13:13+00:00"
+    },
+    {
+      "titel": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T10:07:05+00:00"
+    },
+    {
+      "titel": "3:1 der DFB-Elf in Belgrad: Skurriles Tiki-Taka im Schlamm",
+      "link": "https://www.sueddeutsche.de/sport/deutschland-serbien-nations-league-li.3580419",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T10:06:59+00:00"
     },
     {
       "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T08:24:29+00:00"
-    },
-    {
-      "titel": "Südtirol und Österreich: Wie rechte Kräfte die Identität der Provinz bedrohen",
-      "link": "https://www.spiegel.de/ausland/suedtirol-und-oesterreich-wie-rechte-kraefte-die-identitaet-der-provinz-bedrohen-a-5e3d0557-1ef7-4e1d-911d-23db3de38b3c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T08:24:00+00:00"
+      "veroeffentlicht": "2026-11-14T09:55:34+00:00"
     },
     {
       "titel": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
       "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-14T08:15:06+00:00"
-    },
-    {
-      "titel": "Ben Berndt und sein Podcast »ungeskriptet«: »Ob das alles stimmt, steht auf einem anderen Blatt«",
-      "link": "https://www.spiegel.de/politik/deutschland/ben-berndt-und-sein-podcast-ungescriptet-ob-das-alles-stimmt-steht-auf-einem-anderen-blatt-a-be50afde-179c-4244-ac1b-b6378053361c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T07:59:00+00:00"
-    },
-    {
-      "titel": "Outlook, Teams, Copilot: Microsoft meldet Ende von Megastörung seiner Dienste",
-      "link": "https://www.spiegel.de/netzwelt/outlook-teams-copilot-microsoft-meldet-ende-von-megastoerung-seiner-dienste-a-c728f9c1-8668-4a14-9743-d724b9772bbd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T07:56:00+00:00"
-    },
-    {
-      "titel": "Iran meldet drei brennende Öltanker in der Straße von Hormus",
-      "link": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T07:49:00+00:00"
-    },
-    {
-      "titel": "Warum in Polen schneller gebaut wird als in Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T07:24:30+00:00"
-    },
-    {
-      "titel": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T07:21:14+00:00"
-    },
-    {
-      "titel": "Kassenärzte schlagen Selbstzahler-Termine für Kassenpatienten vor",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T07:17:00+00:00"
-    },
-    {
-      "titel": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T07:15:22+00:00"
-    },
-    {
-      "titel": "Linke: Luigi Pantisano verteidigt langwieriges Verfahren zu Vanessa Emde",
-      "link": "https://www.spiegel.de/politik/debatte-ueber-fraktionsausschluss-linke-chef-pantisano-verteidigt-langwieriges-verfahren-zu-vanessa-emde-a-88fa41b6-acd7-4d25-ad08-88f9db6e9d90#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T06:46:00+00:00"
-    },
-    {
-      "titel": "KI-Fanfiction auf TikTok: Wer ist Emely Schweinsteiger?",
-      "link": "https://www.spiegel.de/netzwelt/ki-fanfiction-auf-tiktok-wer-ist-emely-schweinsteiger-a-39fc406d-1482-4ef0-b45b-1bbfbb2b2b24#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T06:30:00+00:00"
-    },
-    {
-      "titel": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
-      "link": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T04:41:37+00:00"
-    },
-    {
-      "titel": "Keine Priorität für Klimaschutz in der Koalition",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T04:40:44+00:00"
-    },
-    {
-      "titel": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
-      "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T03:18:01+00:00"
-    },
-    {
-      "titel": "FAA hebt Startverbot an US-Flughäfen wieder auf",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T02:36:59+00:00"
-    },
-    {
-      "titel": "USA: US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-14T02:09:25+00:00"
-    },
-    {
-      "titel": "DFB-Team in der Einzelkritik: Serbien hält Gruda beim Torschuss den Regenschirm",
-      "link": "https://www.sueddeutsche.de/sport/deutschland-serbien-einzelkritik-li.3580324",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T22:26:59+00:00"
-    },
-    {
-      "titel": "3:1 gegen Serbien: Dominanz im Dauerregen",
-      "link": "https://www.sueddeutsche.de/sport/dfb-team-serbien-nations-league-klopp-gruda-li.3578389",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T22:03:56+00:00"
-    },
-    {
-      "titel": "Lori Huang: Sie hielt Jensen Huang den Rücken frei. Wird sie jetzt Milliardärin?",
-      "link": "https://www.sueddeutsche.de/panorama/lori-huang-jensen-huang-nvidia-scheidung-tech-industrie-wirtschafsspionage-spionin-china-li.3579383",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T20:05:52+00:00"
-    },
-    {
-      "titel": "Theater: Ein Mann mit Leidenschaft und Grundsätzen",
-      "link": "https://www.sueddeutsche.de/kultur/nachruf-peter-iden-kritiker-theater-frankfurt-li.3580273",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T18:33:41+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T18:03:09+00:00"
-    },
-    {
-      "titel": "Journalismus: Das Taylor-Swift-Interview (Bunte’s Version)",
-      "link": "https://www.sueddeutsche.de/medien/taylor-swift-burda-bunte-interview-li.3579873",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T16:58:01+00:00"
-    },
-    {
-      "titel": "Kfz-Versicherung: Aufschlag für Chinesen",
-      "link": "https://www.sueddeutsche.de/auto/kfz-versicherung-chinesische-e-autos-elektroauto-kfz-versicherung-versicherungspraemien-li.3579922",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T16:43:40+00:00"
-    },
-    {
-      "titel": "Medienrecht: Dürfen die das?",
-      "link": "https://www.sueddeutsche.de/medien/christian-lindner-titanic-satire-pressefreiheit-persoenlichkeitsrecht-li.3578704",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-13T16:25:33+00:00"
     }
   ]
 }
