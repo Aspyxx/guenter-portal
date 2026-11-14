@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-14T02:28:44+00:00",
+  "aktualisiert": "2026-11-14T09:27:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,118 @@
   },
   "meldungen": [
     {
+      "titel": "Tesla verkauft Robotaxis für 29.990 Dollar, plus 299 Dollar Gebühr pro Monat. Doch nicht an alle Kunden. Aber es fährt (nur nicht überall)",
+      "link": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T08:41:00+00:00"
+    },
+    {
+      "titel": "Alexander K.: »Maschsee-Mörder« wird ein Fall für den Bundesgerichtshof",
+      "link": "https://www.spiegel.de/panorama/justiz/alexander-k-maschsee-moerder-wird-ein-fall-fuer-den-bundesgerichtshof-a-100118a8-1dc3-4c92-b378-85c5d7b6d841#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T08:35:00+00:00"
+    },
+    {
+      "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T08:24:29+00:00"
+    },
+    {
+      "titel": "Südtirol und Österreich: Wie rechte Kräfte die Identität der Provinz bedrohen",
+      "link": "https://www.spiegel.de/ausland/suedtirol-und-oesterreich-wie-rechte-kraefte-die-identitaet-der-provinz-bedrohen-a-5e3d0557-1ef7-4e1d-911d-23db3de38b3c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T08:24:00+00:00"
+    },
+    {
+      "titel": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+      "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T08:15:06+00:00"
+    },
+    {
+      "titel": "Ben Berndt und sein Podcast »ungeskriptet«: »Ob das alles stimmt, steht auf einem anderen Blatt«",
+      "link": "https://www.spiegel.de/politik/deutschland/ben-berndt-und-sein-podcast-ungescriptet-ob-das-alles-stimmt-steht-auf-einem-anderen-blatt-a-be50afde-179c-4244-ac1b-b6378053361c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T07:59:00+00:00"
+    },
+    {
+      "titel": "Outlook, Teams, Copilot: Microsoft meldet Ende von Megastörung seiner Dienste",
+      "link": "https://www.spiegel.de/netzwelt/outlook-teams-copilot-microsoft-meldet-ende-von-megastoerung-seiner-dienste-a-c728f9c1-8668-4a14-9743-d724b9772bbd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T07:56:00+00:00"
+    },
+    {
+      "titel": "Iran meldet drei brennende Öltanker in der Straße von Hormus",
+      "link": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T07:49:00+00:00"
+    },
+    {
+      "titel": "Warum in Polen schneller gebaut wird als in Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T07:24:30+00:00"
+    },
+    {
+      "titel": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T07:21:14+00:00"
+    },
+    {
+      "titel": "Kassenärzte schlagen Selbstzahler-Termine für Kassenpatienten vor",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T07:17:00+00:00"
+    },
+    {
+      "titel": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T07:15:22+00:00"
+    },
+    {
+      "titel": "Linke: Luigi Pantisano verteidigt langwieriges Verfahren zu Vanessa Emde",
+      "link": "https://www.spiegel.de/politik/debatte-ueber-fraktionsausschluss-linke-chef-pantisano-verteidigt-langwieriges-verfahren-zu-vanessa-emde-a-88fa41b6-acd7-4d25-ad08-88f9db6e9d90#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T06:46:00+00:00"
+    },
+    {
+      "titel": "KI-Fanfiction auf TikTok: Wer ist Emely Schweinsteiger?",
+      "link": "https://www.spiegel.de/netzwelt/ki-fanfiction-auf-tiktok-wer-ist-emely-schweinsteiger-a-39fc406d-1482-4ef0-b45b-1bbfbb2b2b24#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T06:30:00+00:00"
+    },
+    {
+      "titel": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+      "link": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T04:41:37+00:00"
+    },
+    {
+      "titel": "Keine Priorität für Klimaschutz in der Koalition",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T04:40:44+00:00"
+    },
+    {
+      "titel": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+      "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T03:18:01+00:00"
+    },
+    {
+      "titel": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T02:36:59+00:00"
+    },
+    {
       "titel": "USA: US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-14T02:09:25+00:00"
-    },
-    {
-      "titel": "Starts an US-Flughäfen wieder erlaubt",
-      "link": "https://www.spiegel.de/panorama/starts-an-us-flughaefen-wieder-erlaubt-a-13c2241a-9b4b-450e-acad-ccf1eaf7720f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T02:06:00+00:00"
-    },
-    {
-      "titel": "Selenskyj beklagt erneute Drosselung bei Internet aus dem All",
-      "link": "https://www.spiegel.de/ausland/selenskyj-beklagt-erneute-drosselung-bei-internet-aus-dem-all-a-32328b45-11bd-44b1-986e-61a04db87662#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T01:23:00+00:00"
-    },
-    {
-      "titel": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-      "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T00:51:37+00:00"
-    },
-    {
-      "titel": "Donald Trump trifft Wladimir Putin und Xi Jinping kommende Woche in China",
-      "link": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-und-xi-jinping-kommende-woche-in-china-a-8c11f808-645a-48b5-b7a1-fb85768c7994#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T00:42:00+00:00"
-    },
-    {
-      "titel": "Nations League: Deutschland gewinnt in Serbien – Brajan Gruda trifft bei Debüt",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gewinnt-in-serbien-brajan-gruda-trifft-bei-debuet-a-f3e8c5e0-da5a-4d31-8711-8fc4b4dce49a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T22:51:00+00:00"
-    },
-    {
-      "titel": "Papst Leo XIV.: Eine halbe Million Menschen feiert den Papstbesuch an seiner alten Wirkungsstätte in Peru",
-      "link": "https://www.spiegel.de/ausland/papst-leo-xiv-eine-halbe-million-menschen-feiert-den-papstbesuch-an-seiner-alten-wirkungsstaette-in-peru-a-f9842331-d086-4295-a426-897b90139110#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T22:34:00+00:00"
     },
     {
       "titel": "DFB-Team in der Einzelkritik: Serbien hält Gruda beim Torschuss den Regenschirm",
@@ -55,64 +127,16 @@
       "veroeffentlicht": "2026-11-13T22:26:59+00:00"
     },
     {
-      "titel": "DFB-Einzelkritik gegen Serbien: Brajan Gruda beeindruckt beim Debüt, Florian Wirtz erfüllt die Führungsrolle",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-einzelkritik-gegen-serbien-brajan-gruda-beeindruckt-beim-debuet-florian-wirtz-erfuellt-die-fuehrungsrolle-a-a1e3c16d-628a-40ea-944c-95022f809248#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T22:17:00+00:00"
-    },
-    {
-      "titel": "Nations League: Drei Erkenntnisse zu Deutschlands Sieg in Serbien",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-serbien-im-liveticker-a-326c5e73-0078-4453-a674-74f4b8a81771#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T22:09:00+00:00"
-    },
-    {
       "titel": "3:1 gegen Serbien: Dominanz im Dauerregen",
       "link": "https://www.sueddeutsche.de/sport/dfb-team-serbien-nations-league-klopp-gruda-li.3578389",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-13T22:03:56+00:00"
     },
     {
-      "titel": "Jesús de Miguel: Zwölf Spiele Sperre für Torwart Owono nach Todesfall in Spanien",
-      "link": "https://www.spiegel.de/sport/fussball/jesus-de-miguel-zwoelf-spiele-sperre-fuer-torwart-owono-nach-todesfall-in-spanien-a-31308e21-c436-44f9-acad-29bd49f60c3a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T21:59:00+00:00"
-    },
-    {
-      "titel": "USA: Luftfahrtaufsicht verhängt landesweiten Flugstopp",
-      "link": "https://www.spiegel.de/panorama/usa-luftfahrtaufsicht-verhaengt-landesweiten-flugstopp-a-b9af612f-04c1-4e44-ab9e-476361bfae5c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-13T21:36:00+00:00"
-    },
-    {
-      "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T20:22:33+00:00"
-    },
-    {
-      "titel": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T20:21:45+00:00"
-    },
-    {
       "titel": "Lori Huang: Sie hielt Jensen Huang den Rücken frei. Wird sie jetzt Milliardärin?",
       "link": "https://www.sueddeutsche.de/panorama/lori-huang-jensen-huang-nvidia-scheidung-tech-industrie-wirtschafsspionage-spionin-china-li.3579383",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-13T20:05:52+00:00"
-    },
-    {
-      "titel": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
-      "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T19:06:39+00:00"
-    },
-    {
-      "titel": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T18:44:23+00:00"
     },
     {
       "titel": "Theater: Ein Mann mit Leidenschaft und Grundsätzen",
@@ -127,18 +151,6 @@
       "veroeffentlicht": "2026-11-13T18:03:09+00:00"
     },
     {
-      "titel": "Marktbericht: DAX schwächelt nach Allzeithoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T17:57:57+00:00"
-    },
-    {
-      "titel": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T17:15:20+00:00"
-    },
-    {
       "titel": "Journalismus: Das Taylor-Swift-Interview (Bunte’s Version)",
       "link": "https://www.sueddeutsche.de/medien/taylor-swift-burda-bunte-interview-li.3579873",
       "quelle": "Süddeutsche",
@@ -149,18 +161,6 @@
       "link": "https://www.sueddeutsche.de/auto/kfz-versicherung-chinesische-e-autos-elektroauto-kfz-versicherung-versicherungspraemien-li.3579922",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-13T16:43:40+00:00"
-    },
-    {
-      "titel": "Musikstars pilgern nach 95 Jahren in die Abbey Road in London",
-      "link": "https://www.tagesschau.de/kultur/legendaere-abbey-road-tonstudios-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T16:41:43+00:00"
-    },
-    {
-      "titel": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-13T16:37:14+00:00"
     },
     {
       "titel": "Medienrecht: Dürfen die das?",
