@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-13T23:43:40+00:00",
+  "aktualisiert": "2026-11-14T03:43:08+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
-      "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+      "titel": "Putin Ukraine",
+      "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     },
     {
       "rang": 2,
-      "titel": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+      "titel": "Microsoft sieht \"deutliche Verbesserung\" der Lage",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Microsoft sieht \"deutliche Verbesserung\" der Lage",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+      "titel": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
