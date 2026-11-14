@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-14T16:07:46+00:00",
+  "aktualisiert": "2026-11-14T20:44:08+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,28 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "Ungarn: Bei Korruptionsermittlungen gegen Ex-Minister 17,7 Millionen Euro sichergestellt",
-      "link": "https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T16:01:00+00:00"
-    },
-    {
-      "titel": "König Charles und Elton John brillieren als Radio-DJs",
-      "link": "https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T15:51:00+00:00"
-    },
-    {
-      "titel": "Pläne für höhere Abzüge bei vorgezogener Rente",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+      "titel": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
+      "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T15:37:32+00:00"
+      "veroeffentlicht": "2026-11-14T19:45:01+00:00"
+    },
+    {
+      "titel": "Masern: USA verlieren offenbar Status als masernfreies Land",
+      "link": "https://www.spiegel.de/ausland/masern-usa-verlieren-offenbar-status-als-masernfreies-land-a-c2e5f007-0fbc-4e62-aa55-4abb1388fbd9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T19:44:00+00:00"
+    },
+    {
+      "titel": "Bundesliga der Frauen: Bayern München dominiert den VfL Wolfsburg beim 4:1 im Topspiel",
+      "link": "https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-bayern-muenchen-dominiert-den-vfl-wolfsburg-beim-4-1-im-topspiel-a-e8f7d76f-0899-47b5-9e0d-7e7fd06c38ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T19:35:00+00:00"
+    },
+    {
+      "titel": "ME/CFS bei Kindern: Wie schwer die Krankheit das Leben verändert",
+      "link": "https://www.spiegel.de/wissenschaft/me-cfs-bei-kindern-wie-schwer-die-krankheit-das-leben-veraendert-a-064a199f-3c3c-4e45-b79d-56d489914130#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T19:30:00+00:00"
+    },
+    {
+      "titel": "Azubis aus Vietnam in Deutschland: Acht Menschen in einem Raum, Lohn oft verweigert - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/azubis-aus-vietnam-in-deutschland-acht-menschen-in-einem-raum-lohn-oft-verweigert-spiegel-tv-a-e8fb4408-0039-42ea-97a3-95a25c93d354#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T19:29:00+00:00"
+    },
+    {
+      "titel": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
+      "link": "https://www.tagesschau.de/kultur/esc-asia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T19:24:24+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Hubertus Heil kandidiert für SPD-Vorsitz",
+      "link": "https://www.sueddeutsche.de/politik/spd-hubertus-heil-li.3580581",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T19:22:20+00:00"
+    },
+    {
+      "titel": "Phantasialand in Brühl: Wegen Microsoft-Ausfall Chlorpanne zu spät entdeckt – 15 Verletzte",
+      "link": "https://www.spiegel.de/panorama/phantasialand-in-bruehl-wegen-microsoft-ausfall-chlorpanne-zu-spaet-entdeckt-15-verletzte-a-6e70b4ec-9e3e-4c52-aae5-28beaa2fef62#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T19:17:00+00:00"
+    },
+    {
+      "titel": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T19:09:28+00:00"
     },
     {
       "titel": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T15:22:57+00:00"
+      "veroeffentlicht": "2026-11-14T18:49:48+00:00"
+    },
+    {
+      "titel": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
+      "link": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T18:47:48+00:00"
+    },
+    {
+      "titel": "SPD: Hubertus Heil will für Parteivorsitz kandidieren",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T18:28:00+00:00"
+    },
+    {
+      "titel": "Eurovision Song Contest Asia: Philippinische Sängerin Carmelle gewinnt erste Ausgabe",
+      "link": "https://www.spiegel.de/kultur/musik/eurovision-song-contest-asia-philippinische-saengerin-carmelle-gewinnt-erste-ausgabe-a-f12ec3fd-897e-46a9-9e48-258f18cd889b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T18:15:00+00:00"
+    },
+    {
+      "titel": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T18:12:45+00:00"
+    },
+    {
+      "titel": "Arbeiten mit KI: Diese Menschen verdienen Geld mit Prompts, seitenlangen Prompts",
+      "link": "https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T17:52:00+00:00"
+    },
+    {
+      "titel": "Eurowings-Interna: Was in der Luft gesagt werden darf – und was nicht",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/eurowings-interna-was-in-der-luft-gesagt-werden-darf-und-was-nicht-a-952d23fb-e5d6-4be6-bb4b-3443a07d188f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T17:25:00+00:00"
+    },
+    {
+      "titel": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T17:21:30+00:00"
+    },
+    {
+      "titel": "Zu viel Chlor im Pool: 15 Gäste im Phantasialand verletzt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T17:01:00+00:00"
+    },
+    {
+      "titel": "US-Midterms: 37-jähriger Demokrat gewinnt Gouverneurswahl in Alaska",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-alaska-kreiss-tomkins-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T16:31:48+00:00"
+    },
+    {
+      "titel": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T16:31:06+00:00"
     },
     {
       "titel": "Staatsakt für Hubert Aiwanger: „Ich danke euch, dass ihr uns diesen Menschen gegeben habt“",
@@ -37,70 +133,10 @@
       "veroeffentlicht": "2026-11-14T15:15:00+00:00"
     },
     {
-      "titel": "Drachenfliegen: Zehntklässler lernen an Schule in Eschershausen Hängegleiten",
-      "link": "https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T15:05:00+00:00"
-    },
-    {
-      "titel": "Schleswig-Holstein: Daniel Günther erneut CDU-Spitzenkandidat bei Landtagswahl 2027",
-      "link": "https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T15:03:00+00:00"
-    },
-    {
-      "titel": "Lange Nacht des Impfens in Dresden: »Vielleicht sagt man jetzt Nein, weil man sich überhaupt entscheiden darf«",
-      "link": "https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf-a-f02dc236-c24b-4ccf-b3f3-dfb011a6e704#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T14:45:00+00:00"
-    },
-    {
-      "titel": "Republikaner nach den Midterms: Das Donald-Trump-Dilemma",
-      "link": "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T14:21:00+00:00"
-    },
-    {
-      "titel": "Ski alpin: Emma Aicher feiert ersten Slalom-Weltcupsieg in Levi",
-      "link": "https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T14:11:00+00:00"
-    },
-    {
-      "titel": "Klingbeil verteidigt Doppelrolle als SPD-Chef und Finanzminister",
-      "link": "https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T14:03:00+00:00"
-    },
-    {
-      "titel": "Spatzen in Berlin: Was hinter dem drastischen Rückgang der Singvögel steckt",
-      "link": "https://www.spiegel.de/wissenschaft/natur/spatzen-in-berlin-was-hinter-dem-drastischen-rueckgang-der-singvoegel-steckt-a-a0eaec38-b58a-4dc1-8bd8-852d493ee6ab#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T13:54:00+00:00"
-    },
-    {
-      "titel": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
-      "link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T13:48:00+00:00"
-    },
-    {
-      "titel": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
-      "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T13:22:33+00:00"
-    },
-    {
       "titel": "Deutschlands Gegner Niederlande: Oranje zelebriert Xavi-Ball im Cruyff-Stadion",
       "link": "https://www.sueddeutsche.de/sport/niederlande-griechenland-nations-league-li.3580519",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-14T12:46:14+00:00"
-    },
-    {
-      "titel": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T12:42:12+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Selenskij: USA bringen Nato-Mitgliedschaft im Gegenzug für Donbass ins Spiel",
@@ -131,42 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-klingbeil-parteitag-antraege-parteivorsitz-li.3568524",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-14T10:26:12+00:00"
-    },
-    {
-      "titel": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T10:17:44+00:00"
-    },
-    {
-      "titel": "USA: „Wunder“ auf dem Mississippi: Kreuzfahrtschiff kentert, alle überleben",
-      "link": "https://www.sueddeutsche.de/panorama/schiffsunglueck-zusammenstoss-tanker-kentern-kreuzfahrt-mississippi-usa-li.3580353",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-14T10:13:13+00:00"
-    },
-    {
-      "titel": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T10:07:05+00:00"
-    },
-    {
-      "titel": "3:1 der DFB-Elf in Belgrad: Skurriles Tiki-Taka im Schlamm",
-      "link": "https://www.sueddeutsche.de/sport/deutschland-serbien-nations-league-li.3580419",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-14T10:06:59+00:00"
-    },
-    {
-      "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T09:55:34+00:00"
-    },
-    {
-      "titel": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
-      "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T08:15:06+00:00"
     }
   ]
 }
