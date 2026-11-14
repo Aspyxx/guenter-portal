@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-14T03:43:08+00:00",
+  "aktualisiert": "2026-11-14T11:00:11+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Putin Ukraine",
-      "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
-      "quelle": "Tagesschau",
-      "icon": "📈"
-    },
-    {
-      "rang": 2,
-      "titel": "Microsoft sieht \"deutliche Verbesserung\" der Lage",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+      "titel": "Systeme nach Störung komplett wiederhergestellt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Warum in Polen schneller gebaut wird als in Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
       "rang": 3,
-      "titel": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+      "titel": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssyst",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
