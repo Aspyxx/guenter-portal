@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-15T00:23:47+00:00",
+  "aktualisiert": "2026-11-15T07:13:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,100 @@
   },
   "meldungen": [
     {
-      "titel": "Hamas-Kommandeur im Gazastreifen getötet",
-      "link": "https://www.spiegel.de/ausland/hamas-kommandeur-im-gazastreifen-getoetet-a-ed56078f-d554-4c35-b70c-2aaecb18ed90#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T00:14:00+00:00"
+      "titel": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-15T06:46:37+00:00"
     },
     {
-      "titel": "Kabel- und Routertausch soll Flugchaos verursacht haben – Tausende weitere Flüge gestrichen",
-      "link": "https://www.spiegel.de/panorama/kabel-und-routertausch-soll-flugchaos-verursacht-haben-tausende-weitere-fluege-gestrichen-a-202245c3-145d-42b7-9107-8664ea1ac15e#ref=rss",
+      "titel": "Lesen: Warum Jugendliche Bücher meiden und ihr Denken leidet",
+      "link": "https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T23:40:00+00:00"
+      "veroeffentlicht": "2026-11-15T06:46:00+00:00"
+    },
+    {
+      "titel": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag?",
+      "link": "https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T06:45:00+00:00"
+    },
+    {
+      "titel": "Vergewaltigungen: Warum Männer öfter vergewaltigen als sie glauben",
+      "link": "https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T06:45:00+00:00"
+    },
+    {
+      "titel": "News: Hunderttausende Gefallene im Angriffskrieg gegen die Ukraine",
+      "link": "https://www.spiegel.de/politik/deutschland/news-hunderttausende-gefallene-im-angriffskrieg-gegen-die-ukraine-a-1c97ff6a-6d6e-443d-994b-b3ad716bb9b6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T06:35:00+00:00"
+    },
+    {
+      "titel": "Papst in Lateinamerika: „Padre Roberto“ ist zurück in Peru",
+      "link": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-15T06:24:00+00:00"
+    },
+    {
+      "titel": "»GTA 6«: So prägt das Spiel die Debatte um Games, Gewalt und kulturellen Wandel",
+      "link": "https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T06:15:00+00:00"
+    },
+    {
+      "titel": "Rätsel der Woche: Die Zwei-Kilo-Mehl-Challenge",
+      "link": "https://www.spiegel.de/karriere/raetsel-der-woche-die-zwei-kilo-mehl-challenge-a-50c2c5a0-b7b0-4db3-b68f-23fd38e9341e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T06:11:00+00:00"
+    },
+    {
+      "titel": "USA: Toxische Bekanntschaft",
+      "link": "https://www.sueddeutsche.de/politik/nvidia-tech-chips-megaspeed-lutnick-trump-spionage-china-li.3580148",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-15T05:57:47+00:00"
+    },
+    {
+      "titel": "SPIEGEL Buchpreis 2026: Wie man unter Tausenden Romanen die fünf besten des Jahres findet",
+      "link": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-2026-wie-man-unter-tausenden-romanen-die-fuenf-besten-des-jahres-findet-a-ed8b308f-38aa-4509-bdc1-05a81c28ed3f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T05:56:00+00:00"
+    },
+    {
+      "titel": "US-Demokraten: Sie sind gegen Donald Trump. Aber wofür sind sie?",
+      "link": "https://www.spiegel.de/ausland/us-demokraten-sie-sind-gegen-donald-trump-aber-wofuer-sind-sie-a-24424f02-5082-4714-9834-dd0affc0fcf0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T05:55:00+00:00"
+    },
+    {
+      "titel": "Grüne und Patientenschützer warnen vor Bezahlschranke für Arzttermine",
+      "link": "https://www.spiegel.de/wirtschaft/gruene-und-patientenschuetzer-warnen-vor-bezahlschranke-fuer-arzttermine-a-c1c3b771-a1ec-41f4-9818-034799ca96e5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T04:53:00+00:00"
+    },
+    {
+      "titel": "Journalisten in Ägypten: Verbote, Drohungen und Gefängnisstrafen",
+      "link": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-aegypten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-15T04:11:48+00:00"
+    },
+    {
+      "titel": "Illegale Drogen in Vapes - \"Baller-Liquids\" gefährden Jugendliche",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/vapes-baller-liquids-drogen-jugendliche-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-15T04:11:26+00:00"
+    },
+    {
+      "titel": "Europamagazin: Ein Aufschwung, den die Spanier nicht spüren",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wahlkampf-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-15T04:11:16+00:00"
+    },
+    {
+      "titel": "Frankreich: Zehntausende bei Demos, rund 200 Festnahmen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-15T04:10:12+00:00"
     },
     {
       "titel": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
@@ -25,46 +109,10 @@
       "veroeffentlicht": "2026-11-14T23:12:16+00:00"
     },
     {
-      "titel": "SpaceX fängt Starship-Rakete erstmals am Startturm wieder auf",
-      "link": "https://www.spiegel.de/ausland/spacex-faengt-starship-rakete-am-startturm-erstmals-wieder-auf-a-8995a28f-b04d-4a0f-a6bd-1b2298f5b450#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T21:47:00+00:00"
-    },
-    {
-      "titel": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T21:31:18+00:00"
-    },
-    {
       "titel": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
       "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-14T19:45:01+00:00"
-    },
-    {
-      "titel": "Masern: USA verlieren offenbar Status als masernfreies Land",
-      "link": "https://www.spiegel.de/ausland/masern-usa-verlieren-offenbar-status-als-masernfreies-land-a-c2e5f007-0fbc-4e62-aa55-4abb1388fbd9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T19:44:00+00:00"
-    },
-    {
-      "titel": "Bundesliga der Frauen: Bayern München dominiert den VfL Wolfsburg beim 4:1 im Topspiel",
-      "link": "https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-bayern-muenchen-dominiert-den-vfl-wolfsburg-beim-4-1-im-topspiel-a-e8f7d76f-0899-47b5-9e0d-7e7fd06c38ea#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T19:35:00+00:00"
-    },
-    {
-      "titel": "ME/CFS bei Kindern: Wie schwer die Krankheit das Leben verändert",
-      "link": "https://www.spiegel.de/wissenschaft/me-cfs-bei-kindern-wie-schwer-die-krankheit-das-leben-veraendert-a-064a199f-3c3c-4e45-b79d-56d489914130#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T19:30:00+00:00"
-    },
-    {
-      "titel": "Azubis aus Vietnam in Deutschland: Acht Menschen in einem Raum, Lohn oft verweigert - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/azubis-aus-vietnam-in-deutschland-acht-menschen-in-einem-raum-lohn-oft-verweigert-spiegel-tv-a-e8fb4408-0039-42ea-97a3-95a25c93d354#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T19:29:00+00:00"
     },
     {
       "titel": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
@@ -79,46 +127,16 @@
       "veroeffentlicht": "2026-11-14T19:22:20+00:00"
     },
     {
-      "titel": "Phantasialand in Brühl: Wegen Microsoft-Ausfall Chlorpanne zu spät entdeckt – 15 Verletzte",
-      "link": "https://www.spiegel.de/panorama/phantasialand-in-bruehl-wegen-microsoft-ausfall-chlorpanne-zu-spaet-entdeckt-15-verletzte-a-6e70b4ec-9e3e-4c52-aae5-28beaa2fef62#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T19:17:00+00:00"
-    },
-    {
       "titel": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-14T19:09:28+00:00"
     },
     {
-      "titel": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T18:49:48+00:00"
-    },
-    {
-      "titel": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
-      "link": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T18:47:48+00:00"
-    },
-    {
-      "titel": "SPD: Hubertus Heil will für Parteivorsitz kandidieren",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T18:28:00+00:00"
-    },
-    {
-      "titel": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T18:12:45+00:00"
-    },
-    {
-      "titel": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T17:21:30+00:00"
+      "titel": "Solarpark-Boom in Bayern: Zerstört die Energiewende die Landschaft?",
+      "link": "https://www.sueddeutsche.de/bayern/solarparks-bayern-energiewende-landschaftsschutz-photovoltaik-li.3564688",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-14T17:22:32+00:00"
     },
     {
       "titel": "US-Midterms: 37-jähriger Demokrat gewinnt Gouverneurswahl in Alaska",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-koalitionsvertrag-gruene-spd-linke-li.3540501",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-14T12:21:23+00:00"
-    },
-    {
-      "titel": "Requiem in der Frauenkirche: Abschied von Hubert Aiwanger",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-trauerfeier-requiem-trauerstaatsakt-muenchen-frauenkirche-bilder-li.3580437",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-14T11:26:00+00:00"
-    },
-    {
-      "titel": "Papst in Lateinamerika: „Padre Roberto“ ist zurück in Peru",
-      "link": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-14T10:57:54+00:00"
-    },
-    {
-      "titel": "Newsblog zur Bundespolitik: Bericht: Teile der SPD wollen erneute Kandidatur Klingbeils als Parteichef verhindern",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-klingbeil-parteitag-antraege-parteivorsitz-li.3568524",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-14T10:26:12+00:00"
     }
   ]
 }
