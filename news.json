@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-11-14T20:44:08+00:00",
+  "aktualisiert": "2026-11-15T00:23:47+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Hamas-Kommandeur im Gazastreifen getötet",
+      "link": "https://www.spiegel.de/ausland/hamas-kommandeur-im-gazastreifen-getoetet-a-ed56078f-d554-4c35-b70c-2aaecb18ed90#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T00:14:00+00:00"
+    },
+    {
+      "titel": "Kabel- und Routertausch soll Flugchaos verursacht haben – Tausende weitere Flüge gestrichen",
+      "link": "https://www.spiegel.de/panorama/kabel-und-routertausch-soll-flugchaos-verursacht-haben-tausende-weitere-fluege-gestrichen-a-202245c3-145d-42b7-9107-8664ea1ac15e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T23:40:00+00:00"
+    },
+    {
+      "titel": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T23:12:16+00:00"
+    },
+    {
+      "titel": "SpaceX fängt Starship-Rakete erstmals am Startturm wieder auf",
+      "link": "https://www.spiegel.de/ausland/spacex-faengt-starship-rakete-am-startturm-erstmals-wieder-auf-a-8995a28f-b04d-4a0f-a6bd-1b2298f5b450#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-14T21:47:00+00:00"
+    },
+    {
+      "titel": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-14T21:31:18+00:00"
+    },
     {
       "titel": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
       "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
@@ -79,28 +109,10 @@
       "veroeffentlicht": "2026-11-14T18:28:00+00:00"
     },
     {
-      "titel": "Eurovision Song Contest Asia: Philippinische Sängerin Carmelle gewinnt erste Ausgabe",
-      "link": "https://www.spiegel.de/kultur/musik/eurovision-song-contest-asia-philippinische-saengerin-carmelle-gewinnt-erste-ausgabe-a-f12ec3fd-897e-46a9-9e48-258f18cd889b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T18:15:00+00:00"
-    },
-    {
       "titel": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
       "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-14T18:12:45+00:00"
-    },
-    {
-      "titel": "Arbeiten mit KI: Diese Menschen verdienen Geld mit Prompts, seitenlangen Prompts",
-      "link": "https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T17:52:00+00:00"
-    },
-    {
-      "titel": "Eurowings-Interna: Was in der Luft gesagt werden darf – und was nicht",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/eurowings-interna-was-in-der-luft-gesagt-werden-darf-und-was-nicht-a-952d23fb-e5d6-4be6-bb4b-3443a07d188f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-14T17:25:00+00:00"
     },
     {
       "titel": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
@@ -109,22 +121,10 @@
       "veroeffentlicht": "2026-11-14T17:21:30+00:00"
     },
     {
-      "titel": "Zu viel Chlor im Pool: 15 Gäste im Phantasialand verletzt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T17:01:00+00:00"
-    },
-    {
       "titel": "US-Midterms: 37-jähriger Demokrat gewinnt Gouverneurswahl in Alaska",
       "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-alaska-kreiss-tomkins-li.3578585",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-14T16:31:48+00:00"
-    },
-    {
-      "titel": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-14T16:31:06+00:00"
     },
     {
       "titel": "Staatsakt für Hubert Aiwanger: „Ich danke euch, dass ihr uns diesen Menschen gegeben habt“",
