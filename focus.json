@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-15T20:26:14+00:00",
+  "aktualisiert": "2026-11-16T00:04:59+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Russland Brand",
+      "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔥"
+    },
+    {
+      "rang": 2,
       "titel": "Netanjahu wirbt bei Eisenkot um Einheitsregierung",
       "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
-      "rang": 2,
+      "rang": 3,
       "titel": "Hunderte Flüchtlinge auf Kanaren angekommen",
       "link": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 3,
-      "titel": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
