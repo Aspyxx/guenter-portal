@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-16T07:19:35+00:00",
+  "aktualisiert": "2026-11-16T17:28:37+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T07:11:37+00:00"
-    },
-    {
-      "titel": "Bundeshaushalt: Rechnungshof-Präsident Ansgar Heveling sieht bei Subventionen viel Sparpotenzial",
-      "link": "https://www.spiegel.de/wirtschaft/bundeshaushalt-rechnungshof-praesident-ansgar-heveling-sieht-bei-subventionen-viel-sparpotenzial-a-288a2b18-a2fb-4f3b-a484-e638d21040ee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T07:06:00+00:00"
-    },
-    {
-      "titel": "Baden-Baden: Drei Tote bei Auto-Absturz von Brücke",
-      "link": "https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T06:57:00+00:00"
-    },
-    {
-      "titel": "Thailand: Elf Tote bei Brand auf Urlaubsinsel Phuket",
-      "link": "https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T06:50:00+00:00"
-    },
-    {
-      "titel": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T06:48:12+00:00"
-    },
-    {
-      "titel": "Englands Nationaltrainer: Tuchel schwärmt nach Sieg in Spanien",
-      "link": "https://www.sueddeutsche.de/sport/england-spanien-tuchel-kane-li.3581014",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-16T06:46:22+00:00"
-    },
-    {
-      "titel": "Bundespolitik: Heil: Würde als SPD-Chef Klingbeil in Bundesregierung belassen",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-heil-spd-vorsitz-klingbeil-li.3580621",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-16T06:32:22+00:00"
-    },
-    {
-      "titel": "Bitcoin kostete zeitweise nur noch rund 62.500 Dollar",
-      "link": "https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar-a-ce2126df-8f14-49c2-bfda-cb46bfcb1b67#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T06:29:00+00:00"
-    },
-    {
-      "titel": "Vermögen und Einkommen: Wie reich Sie wirklich sind? Finden wir es heraus",
-      "link": "https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus-a-762ac689-da1b-4816-89f0-436c71cd2389#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T06:23:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: Setzt der DAX die Rekordjagd fort?",
+      "titel": "Marktbericht: DAX bleibt nahe Rekordhoch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T06:18:40+00:00"
+      "veroeffentlicht": "2026-11-16T17:21:14+00:00"
     },
     {
-      "titel": "Vulcan-Rakete: Absturz kostet Amazon 40 Satelliten für Internetdienst Leo",
-      "link": "https://www.spiegel.de/wirtschaft/vulcan-rakete-absturz-kostet-amazon-40-satelliten-fuer-internetdienst-leo-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss",
+      "titel": "Ozan Ata Canani ist tot",
+      "link": "https://www.spiegel.de/kultur/musik/ozan-ata-canani-ist-tot-a-1618c5d6-5fdf-4a47-9b7c-8a600f739b62#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T06:16:00+00:00"
+      "veroeffentlicht": "2026-11-16T17:21:00+00:00"
     },
     {
-      "titel": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
-      "link": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
+      "titel": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T06:14:09+00:00"
+      "veroeffentlicht": "2026-11-16T17:07:43+00:00"
     },
     {
-      "titel": "Asylpolitik: SPD-Bundestagsabgeordnete stellen sich gegen Abschiebezentrum in Ruanda",
-      "link": "https://www.spiegel.de/politik/asylpolitik-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum-in-ruanda-a-cb4753a9-7434-48c2-9e29-177bb1ee139e#ref=rss",
+      "titel": "Manuela Schwesig: Was der SPD droht, wenn sie nicht für den Parteivorsitz antritt",
+      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-was-der-spd-droht-wenn-sie-nicht-fuer-den-parteivorsitz-antritt-a-74da2199-752f-4b1e-9c87-327b0e773fe8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T06:01:00+00:00"
+      "veroeffentlicht": "2026-11-16T17:03:00+00:00"
     },
     {
-      "titel": "Jemen: Regierungstruppen wollen Aden vor Huthi schützen",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T05:56:28+00:00"
-    },
-    {
-      "titel": "11KM-Podcast: Tierwohl in Schlachtbetrieben - warum versagen Kontrollen?",
-      "link": "https://www.tagesschau.de/wirtschaft/podcast-11km-schlachthoefe-tierwohl-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T05:42:43+00:00"
-    },
-    {
-      "titel": "Flucht vor der KI: Agenturchefin verliert Aufträge an KI und wird Möbelschreinerin",
-      "link": "https://www.spiegel.de/psychologie/flucht-vor-der-ki-agenturchefin-verliert-auftraege-an-ki-und-wird-moebelschreinerin-a-76170f68-69bc-4b5d-ab63-5ac9bd3e9b36#ref=rss",
+      "titel": "News des Tages: Schwesig zögert, Dobrindt plant Ruanda-Abkommen, DFB-Team im Umbruch",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-schwesig-zoegert-dobrindt-plant-ruanda-abkommen-dfb-team-im-umbruch-a-5dd9ac8a-06e6-4cb0-8777-2172ec7f3c0f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T05:42:00+00:00"
+      "veroeffentlicht": "2026-11-16T17:02:00+00:00"
     },
     {
-      "titel": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
-      "link": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T05:36:50+00:00"
-    },
-    {
-      "titel": "Booking.com: Warum sollen sich Kunden auf dem Reiseportal plötzlich verifizieren?",
-      "link": "https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren-a-a457fe27-e27f-42eb-8fe2-4a51b2489867#ref=rss",
+      "titel": "Greenpeace: Aktivisten könnten versehentlich Bau eines Offshore-Windparks behindert haben",
+      "link": "https://www.spiegel.de/wissenschaft/greenpeace-aktivisten-koennten-versehentlich-bau-eines-offshore-windparks-behindert-haben-a-bf64c246-5b5c-4acf-abed-7584fe1d8150#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T05:18:00+00:00"
+      "veroeffentlicht": "2026-11-16T17:00:00+00:00"
     },
     {
-      "titel": "BND-Affäre: Wie die Geheimnisse aus der Geheimdienstzentrale verschwanden",
-      "link": "https://www.sueddeutsche.de/politik/bnd-manfred-d-august-hanning-dokumentendiebstahl-geheimdienst-li.3580228",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-16T05:08:27+00:00"
-    },
-    {
-      "titel": "Pläne der Bundesregierung: Juristen zweifeln an Gesetz gegen Vergesellschaftung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html",
+      "titel": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T05:03:11+00:00"
+      "veroeffentlicht": "2026-11-16T16:46:59+00:00"
     },
     {
-      "titel": "Spionage-Ermittlungen: Wie gelangten die Geheimpapiere aus dem BND?",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-108.html",
+      "titel": "Fifa-Präsidentschaftswahl: Uefa nominiert Philippe Diallo als Herausforderer für Gianni Infantino",
+      "link": "https://www.spiegel.de/sport/fussball/fifa-praesidentschaftswahl-uefa-nominiert-philippe-diallo-als-herausforderer-fuer-gianni-infantino-a-5d50e5bb-a0d5-4ed0-b50b-d95bbb3bb5bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T16:42:00+00:00"
+    },
+    {
+      "titel": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/wohin-steuert-die-stahlindustrie-gipfeltreffen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T05:01:34+00:00"
+      "veroeffentlicht": "2026-11-16T16:36:35+00:00"
     },
     {
-      "titel": "Bundestrainer Jürgen Klopp: Gut gelaunt ins erste kleine Endspiel",
-      "link": "https://www.sueddeutsche.de/sport/klopp-bundestrainer-niederlande-nations-league-li.3580854",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T20:54:27+00:00"
+      "titel": "Robert Pattinson spielt James Bond: Diese Schauspieler sind seine Vorgänger",
+      "link": "https://www.spiegel.de/kultur/kino/robert-pattinson-spielt-james-bond-diese-schauspieler-sind-seine-vorgaenger-a-ff38583e-5d3f-4fd9-bcce-f0fb8489180e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T16:35:00+00:00"
     },
     {
-      "titel": "Getötete Lisa T.: Ein Dorf wird angegriffen",
-      "link": "https://www.sueddeutsche.de/panorama/lisa-t-altglietzen-brandenburg-entfuehrung-trauergottesdienst-li.3579868",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T19:41:17+00:00"
+      "titel": "Robert Pattinson wird neuer James Bond - Nachfolge von Daniel Craig",
+      "link": "https://www.tagesschau.de/kultur/james-bond-robert-pattinson-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T16:33:42+00:00"
     },
     {
-      "titel": "NFL in München: Football-Fans übernehmen Münchens Wirtshäuser und die Fußball-Arena",
-      "link": "https://www.sueddeutsche.de/muenchen/nfl-muenchen-american-football-detroit-lions-new-england-patriots-li.3578833",
+      "titel": "Robert Pattinson als James Bond: Man darf sich jetzt erst mal freuen",
+      "link": "https://www.sueddeutsche.de/kultur/james-bond-robert-pattinson-casting-einordnung-li.3581549",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T18:01:00+00:00"
+      "veroeffentlicht": "2026-11-16T16:26:45+00:00"
     },
     {
-      "titel": "Nachruf: Ozan Ata Canani: Alle wollen glücklich sein",
-      "link": "https://www.sueddeutsche.de/kultur/ozan-ata-canani-gestorben-musiker-deutschland-tuerkei-li.3580871",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T17:24:07+00:00"
+      "titel": "Stockach – Konstanz: Mutmaßlicher Betrüger bricht bei Hausbesichtigung durch Decke",
+      "link": "https://www.spiegel.de/panorama/justiz/stockach-konstanz-mutmasslicher-betrueger-bricht-bei-hausbesichtigung-durch-decke-a-4cf5e068-23c9-4fea-9e9a-d2d2ba290062#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T16:26:00+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-estland-russland-grenzuebergaenge-li.3571967",
+      "titel": "Krieg in der Ukraine: Kreml: Keine Zustimmung für Teilnahme Europas an Ukraine-Gesprächen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kreml-europa-verhandlungen-li.3571967",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T16:10:06+00:00"
+      "veroeffentlicht": "2026-11-16T16:17:43+00:00"
     },
     {
-      "titel": "Solarpark-Boom in Bayern: Zerstört die Energiewende die Landschaft?",
-      "link": "https://www.sueddeutsche.de/bayern/solarparks-bayern-energiewende-landschaftsschutz-photovoltaik-li.3564688",
+      "titel": "Abschiebezentrum in Afrika: Was Deutschland in Ruanda plant",
+      "link": "https://www.sueddeutsche.de/politik/ruanda-abschiebezentrum-deutschland-asylpolitik-rueckkehrzentrum-li.3581059",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T15:38:04+00:00"
+      "veroeffentlicht": "2026-11-16T16:14:15+00:00"
+    },
+    {
+      "titel": "Donald Trump: Können die Demokraten nach den US-Midterms die Zölle wirklich stoppen?",
+      "link": "https://www.spiegel.de/wirtschaft/service/donald-trump-koennen-die-demokraten-nach-den-us-midterms-die-zoelle-wirklich-stoppen-a-93d3e5c2-9594-424c-bf96-cb2f925e009b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T16:14:00+00:00"
+    },
+    {
+      "titel": "EU sanktioniert russische Propagandisten, Hacker, Unternehmer",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-propaganda-banken-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T16:06:44+00:00"
+    },
+    {
+      "titel": "Weltklimakonferenz: Australien legt Entwurf für Abschlusserklärung vor",
+      "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T16:05:30+00:00"
+    },
+    {
+      "titel": "Fischer-Erben wollen Van-Gogh-Auktion bei Sotheby’s stoppen",
+      "link": "https://www.spiegel.de/kultur/fischer-erben-wollen-van-gogh-auktion-bei-sothebys-stoppen-a-1669ba84-8247-40b4-9056-f9428c5b44cc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T16:05:00+00:00"
+    },
+    {
+      "titel": "Radio: „Wir wollen euren Preis nicht“",
+      "link": "https://www.sueddeutsche.de/medien/kitschkrieg-1-live-krone-deutschsprachige-musik-radio-li.3581320",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T15:59:23+00:00"
+    },
+    {
+      "titel": "FC Bayern: Muskelfaserriss bei Davies – Kompany zurück im Training",
+      "link": "https://www.sueddeutsche.de/sport/davies-verletzung-kompany-rueckkehr-li.3581551",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T15:47:53+00:00"
+    },
+    {
+      "titel": "Geheimmission „Volia“: Sind französische Soldaten in der Ukraine aktiv?",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-frankreich-geheimmission-li.3581484",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T15:47:03+00:00"
+    },
+    {
+      "titel": "Podcast: „Auf den Punkt“: „Return Hub“ in Ruanda: Abschiebungen in eine Diktatur",
+      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ruanda-abschiebungen-dobrindt-li.3581568",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T15:44:46+00:00"
+    },
+    {
+      "titel": "Zum Tod von Michael Well: Künstlerisch gepfeffert, aber immer mit Herz",
+      "link": "https://www.sueddeutsche.de/muenchen/michael-well-biermoesl-blosn-musiker-bayern-tod-nachruf-li.3581380",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T15:34:07+00:00"
+    },
+    {
+      "titel": "Film: Null Null Nix",
+      "link": "https://www.sueddeutsche.de/kultur/robert-pattinson-bond-kandidaten-geschichte-li.3568699",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T15:29:42+00:00"
+    },
+    {
+      "titel": "Die EU will europäischen Stahl konkurrenzfähig machen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T14:53:07+00:00"
+    },
+    {
+      "titel": "Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis",
+      "link": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T14:52:36+00:00"
     }
   ]
 }
