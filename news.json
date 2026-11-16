@@ -1,11 +1,41 @@
 {
-  "aktualisiert": "2026-11-15T20:24:25+00:00",
+  "aktualisiert": "2026-11-16T00:23:54+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Ukraine: Prinz Harry besucht verwundete Kriegsveteranen in Lwiw",
+      "link": "https://www.spiegel.de/ausland/ukraine-prinz-harry-besucht-verwundete-kriegsveteranen-in-lwiw-a-15322c28-cc8d-4755-8b89-2a0f3a01ec00#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T00:18:00+00:00"
+    },
+    {
+      "titel": "New Orleans: Steuerungsausfall verursachte Kollision von Tanker und Schaufelradschiff",
+      "link": "https://www.spiegel.de/panorama/new-orleans-steuerungsausfall-verursachte-kollision-von-tanker-und-schaufelradschiff-a-a72e688a-6d69-4b02-8702-afe63815d4ea#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-15T22:21:00+00:00"
+    },
+    {
+      "titel": "Bundestrainer Jürgen Klopp: Gut gelaunt ins erste kleine Endspiel",
+      "link": "https://www.sueddeutsche.de/sport/klopp-bundestrainer-niederlande-nations-league-li.3580854",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-15T20:54:27+00:00"
+    },
+    {
+      "titel": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-15T20:44:43+00:00"
+    },
+    {
+      "titel": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-15T20:23:26+00:00"
+    },
     {
       "titel": "Mario Basler: Ex-Fußballnationalspieler rettet Unfallopfer aus Auto",
       "link": "https://www.spiegel.de/panorama/mario-basler-ex-fussballnationalspieler-rettet-unfallopfer-aus-auto-a-3017888d-c03c-45bb-be69-c718b1d070cd#ref=rss",
@@ -61,18 +91,6 @@
       "veroeffentlicht": "2026-11-15T18:35:00+00:00"
     },
     {
-      "titel": "Spanien vor der Wahl: Verliert Linken-Posterboy Pedro Sánchez sein Land an die Rechten?",
-      "link": "https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T18:29:00+00:00"
-    },
-    {
-      "titel": "Amon-Ra St. Brown beim NFL-Spiel in München: Deutschland hat ein neues Football-Idol",
-      "link": "https://www.spiegel.de/sport/american-football/amon-ra-st-brown-beim-nfl-spiel-in-muenchen-deutschland-hat-ein-neues-football-idol-a-64c79fa3-60be-4541-8bc3-1394a65c485e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T18:15:00+00:00"
-    },
-    {
       "titel": "NFL in München: Football-Fans übernehmen Münchens Wirtshäuser und die Fußball-Arena",
       "link": "https://www.sueddeutsche.de/muenchen/nfl-muenchen-american-football-detroit-lions-new-england-patriots-li.3578833",
       "quelle": "Süddeutsche",
@@ -95,12 +113,6 @@
       "link": "https://www.sueddeutsche.de/kultur/ozan-ata-canani-gestorben-musiker-deutschland-tuerkei-li.3580871",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-15T17:24:07+00:00"
-    },
-    {
-      "titel": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T16:52:46+00:00"
     },
     {
       "titel": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
@@ -139,12 +151,6 @@
       "veroeffentlicht": "2026-11-15T15:24:11+00:00"
     },
     {
-      "titel": "Banden in Schweden rekrutieren zunehmend junge Frauen",
-      "link": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T14:59:47+00:00"
-    },
-    {
       "titel": "Ski alpin: Emma Aicher ist jetzt Rentier-Patentante",
       "link": "https://www.sueddeutsche.de/sport/ski-alpin-emma-aicher-levi-rentier-sieg-slalom-li.3580690",
       "quelle": "Süddeutsche",
@@ -161,12 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/trump-putin-xi-jinping-gipfel-shenzhen-li.3580616",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-15T13:19:18+00:00"
-    },
-    {
-      "titel": "Nationalmannschaft: Den Sechser, den Klopp sucht, gibt es vielleicht gar nicht in Deutschland",
-      "link": "https://www.sueddeutsche.de/sport/dfb-mittelfeld-klopp-kimmich-pavlovic-kommentar-li.3580700",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T13:03:01+00:00"
     }
   ]
 }
