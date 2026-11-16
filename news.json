@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-16T00:23:54+00:00",
+  "aktualisiert": "2026-11-16T07:19:35+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,130 @@
   },
   "meldungen": [
     {
-      "titel": "Ukraine: Prinz Harry besucht verwundete Kriegsveteranen in Lwiw",
-      "link": "https://www.spiegel.de/ausland/ukraine-prinz-harry-besucht-verwundete-kriegsveteranen-in-lwiw-a-15322c28-cc8d-4755-8b89-2a0f3a01ec00#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T00:18:00+00:00"
+      "titel": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T07:11:37+00:00"
     },
     {
-      "titel": "New Orleans: Steuerungsausfall verursachte Kollision von Tanker und Schaufelradschiff",
-      "link": "https://www.spiegel.de/panorama/new-orleans-steuerungsausfall-verursachte-kollision-von-tanker-und-schaufelradschiff-a-a72e688a-6d69-4b02-8702-afe63815d4ea#ref=rss",
+      "titel": "Bundeshaushalt: Rechnungshof-Präsident Ansgar Heveling sieht bei Subventionen viel Sparpotenzial",
+      "link": "https://www.spiegel.de/wirtschaft/bundeshaushalt-rechnungshof-praesident-ansgar-heveling-sieht-bei-subventionen-viel-sparpotenzial-a-288a2b18-a2fb-4f3b-a484-e638d21040ee#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T22:21:00+00:00"
+      "veroeffentlicht": "2026-11-16T07:06:00+00:00"
+    },
+    {
+      "titel": "Baden-Baden: Drei Tote bei Auto-Absturz von Brücke",
+      "link": "https://www.spiegel.de/panorama/baden-baden-drei-tote-bei-auto-absturz-von-bruecke-a-b21bd772-1c26-486e-8025-2ec3a1a7d2d8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T06:57:00+00:00"
+    },
+    {
+      "titel": "Thailand: Elf Tote bei Brand auf Urlaubsinsel Phuket",
+      "link": "https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T06:50:00+00:00"
+    },
+    {
+      "titel": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T06:48:12+00:00"
+    },
+    {
+      "titel": "Englands Nationaltrainer: Tuchel schwärmt nach Sieg in Spanien",
+      "link": "https://www.sueddeutsche.de/sport/england-spanien-tuchel-kane-li.3581014",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T06:46:22+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Heil: Würde als SPD-Chef Klingbeil in Bundesregierung belassen",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-heil-spd-vorsitz-klingbeil-li.3580621",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T06:32:22+00:00"
+    },
+    {
+      "titel": "Bitcoin kostete zeitweise nur noch rund 62.500 Dollar",
+      "link": "https://www.spiegel.de/wirtschaft/bitcoin-kostete-zeitweise-nur-noch-rund-62-500-dollar-a-ce2126df-8f14-49c2-bfda-cb46bfcb1b67#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T06:29:00+00:00"
+    },
+    {
+      "titel": "Vermögen und Einkommen: Wie reich Sie wirklich sind? Finden wir es heraus",
+      "link": "https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus-a-762ac689-da1b-4816-89f0-436c71cd2389#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T06:23:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Setzt der DAX die Rekordjagd fort?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T06:18:40+00:00"
+    },
+    {
+      "titel": "Vulcan-Rakete: Absturz kostet Amazon 40 Satelliten für Internetdienst Leo",
+      "link": "https://www.spiegel.de/wirtschaft/vulcan-rakete-absturz-kostet-amazon-40-satelliten-fuer-internetdienst-leo-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T06:16:00+00:00"
+    },
+    {
+      "titel": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
+      "link": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T06:14:09+00:00"
+    },
+    {
+      "titel": "Asylpolitik: SPD-Bundestagsabgeordnete stellen sich gegen Abschiebezentrum in Ruanda",
+      "link": "https://www.spiegel.de/politik/asylpolitik-spd-bundestagsabgeordnete-stellen-sich-gegen-abschiebezentrum-in-ruanda-a-cb4753a9-7434-48c2-9e29-177bb1ee139e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T06:01:00+00:00"
+    },
+    {
+      "titel": "Jemen: Regierungstruppen wollen Aden vor Huthi schützen",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T05:56:28+00:00"
+    },
+    {
+      "titel": "11KM-Podcast: Tierwohl in Schlachtbetrieben - warum versagen Kontrollen?",
+      "link": "https://www.tagesschau.de/wirtschaft/podcast-11km-schlachthoefe-tierwohl-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T05:42:43+00:00"
+    },
+    {
+      "titel": "Flucht vor der KI: Agenturchefin verliert Aufträge an KI und wird Möbelschreinerin",
+      "link": "https://www.spiegel.de/psychologie/flucht-vor-der-ki-agenturchefin-verliert-auftraege-an-ki-und-wird-moebelschreinerin-a-76170f68-69bc-4b5d-ab63-5ac9bd3e9b36#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T05:42:00+00:00"
+    },
+    {
+      "titel": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
+      "link": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T05:36:50+00:00"
+    },
+    {
+      "titel": "Booking.com: Warum sollen sich Kunden auf dem Reiseportal plötzlich verifizieren?",
+      "link": "https://www.spiegel.de/netzwelt/web/booking-com-warum-sollen-sich-kunden-auf-dem-reiseportal-ploetzlich-verifizieren-a-a457fe27-e27f-42eb-8fe2-4a51b2489867#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T05:18:00+00:00"
+    },
+    {
+      "titel": "BND-Affäre: Wie die Geheimnisse aus der Geheimdienstzentrale verschwanden",
+      "link": "https://www.sueddeutsche.de/politik/bnd-manfred-d-august-hanning-dokumentendiebstahl-geheimdienst-li.3580228",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T05:08:27+00:00"
+    },
+    {
+      "titel": "Pläne der Bundesregierung: Juristen zweifeln an Gesetz gegen Vergesellschaftung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T05:03:11+00:00"
+    },
+    {
+      "titel": "Spionage-Ermittlungen: Wie gelangten die Geheimpapiere aus dem BND?",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T05:01:34+00:00"
     },
     {
       "titel": "Bundestrainer Jürgen Klopp: Gut gelaunt ins erste kleine Endspiel",
@@ -25,70 +139,10 @@
       "veroeffentlicht": "2026-11-15T20:54:27+00:00"
     },
     {
-      "titel": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T20:44:43+00:00"
-    },
-    {
-      "titel": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T20:23:26+00:00"
-    },
-    {
-      "titel": "Mario Basler: Ex-Fußballnationalspieler rettet Unfallopfer aus Auto",
-      "link": "https://www.spiegel.de/panorama/mario-basler-ex-fussballnationalspieler-rettet-unfallopfer-aus-auto-a-3017888d-c03c-45bb-be69-c718b1d070cd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T20:06:00+00:00"
-    },
-    {
       "titel": "Getötete Lisa T.: Ein Dorf wird angegriffen",
       "link": "https://www.sueddeutsche.de/panorama/lisa-t-altglietzen-brandenburg-entfuehrung-trauergottesdienst-li.3579868",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-15T19:41:17+00:00"
-    },
-    {
-      "titel": "Lesen: Warum Jugendliche Bücher meiden und ihr Denken leidet",
-      "link": "https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T19:41:00+00:00"
-    },
-    {
-      "titel": "The Oak Ridge Boys: Country-Sänger Richard Sterban mit 83 Jahren gestorben",
-      "link": "https://www.spiegel.de/kultur/musik/the-oak-ridge-boys-country-saenger-richard-sterban-mit-83-jahren-gestorben-a-ccfc054d-9690-4feb-a3d1-8810f46dfef4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T19:40:00+00:00"
-    },
-    {
-      "titel": "Tschechien: Massenproteste gegen Rundfunkreform",
-      "link": "https://www.spiegel.de/ausland/tschechien-massenproteste-gegen-rundfunkreform-a-a936f58f-3277-403f-b795-591524b7a9de#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T19:35:00+00:00"
-    },
-    {
-      "titel": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T18:44:55+00:00"
-    },
-    {
-      "titel": "Deutschland: Wie ich zwischen Kirche und Sozialismus aufwuchs - Kolumne",
-      "link": "https://www.spiegel.de/panorama/deutschland-wie-ich-zwischen-kirche-und-sozialismus-aufwuchs-kolumne-a-32b3cc63-0224-40cf-9309-5f6795b2f398#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T18:41:00+00:00"
-    },
-    {
-      "titel": "The Goodforces: Diese Agentur will Rot-Rot-Grün an die Macht bringen",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/the-goodforces-diese-agentur-will-rot-rot-gruen-an-die-macht-bringen-a-a48eab23-fe3c-4493-9b10-fd8af9137538#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T18:40:00+00:00"
-    },
-    {
-      "titel": "Fifa: Jürgen Klopp wünscht sich Abgang von Gianni Infantino",
-      "link": "https://www.spiegel.de/sport/fussball/fifa-juergen-klopp-wuenscht-sich-abgang-von-gianni-infantino-a-77935530-8138-4add-9099-6a7a3aa53000#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-15T18:35:00+00:00"
     },
     {
       "titel": "NFL in München: Football-Fans übernehmen Münchens Wirtshäuser und die Fußball-Arena",
@@ -97,28 +151,10 @@
       "veroeffentlicht": "2026-11-15T18:01:00+00:00"
     },
     {
-      "titel": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T17:54:56+00:00"
-    },
-    {
-      "titel": "Hunderte Flüchtlinge auf Kanaren angekommen",
-      "link": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T17:31:41+00:00"
-    },
-    {
       "titel": "Nachruf: Ozan Ata Canani: Alle wollen glücklich sein",
       "link": "https://www.sueddeutsche.de/kultur/ozan-ata-canani-gestorben-musiker-deutschland-tuerkei-li.3580871",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-15T17:24:07+00:00"
-    },
-    {
-      "titel": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T16:16:20+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
@@ -127,46 +163,10 @@
       "veroeffentlicht": "2026-11-15T16:10:06+00:00"
     },
     {
-      "titel": "Massenprotest gegen Rundfunkreform in Tschechien",
-      "link": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T15:40:55+00:00"
-    },
-    {
       "titel": "Solarpark-Boom in Bayern: Zerstört die Energiewende die Landschaft?",
       "link": "https://www.sueddeutsche.de/bayern/solarparks-bayern-energiewende-landschaftsschutz-photovoltaik-li.3564688",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-15T15:38:04+00:00"
-    },
-    {
-      "titel": "Mobile Notaufnahme im Saarland: Nicht mehr in die Klinik",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/mobile-notaufnahme-saarland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T15:37:17+00:00"
-    },
-    {
-      "titel": "Bundesweites Gedenken zum Volkstrauertag - auch im Bundestag",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-15T15:24:11+00:00"
-    },
-    {
-      "titel": "Ski alpin: Emma Aicher ist jetzt Rentier-Patentante",
-      "link": "https://www.sueddeutsche.de/sport/ski-alpin-emma-aicher-levi-rentier-sieg-slalom-li.3580690",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T13:46:16+00:00"
-    },
-    {
-      "titel": "Schwarz-Rot: Merz und Klingbeil unter Druck, Koalition in der Krise",
-      "link": "https://www.sueddeutsche.de/politik/schwarz-rot-friedrich-merz-lars-klingbeil-spd-machtkampf-hubertus-heil-li.3580696",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T13:42:19+00:00"
-    },
-    {
-      "titel": "Historischer Gipfel: Warum sich Trump mit Putin und Xi trifft – und was die Welt befürchtet",
-      "link": "https://www.sueddeutsche.de/politik/trump-putin-xi-jinping-gipfel-shenzhen-li.3580616",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-15T13:19:18+00:00"
     }
   ]
 }
