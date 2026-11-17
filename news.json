@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-16T17:28:37+00:00",
+  "aktualisiert": "2026-11-17T01:05:23+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,94 @@
   },
   "meldungen": [
     {
+      "titel": "United Airlines: Großflächiger Systemausfall beeinträchtigt Hunderte Starts",
+      "link": "https://www.spiegel.de/wirtschaft/united-airlines-grossflaechiger-systemausfall-beeintraechtigt-hunderte-starts-a-68f49855-80e5-4785-9509-f02175a25548#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T23:23:00+00:00"
+    },
+    {
+      "titel": "Nations League: Deutschland gewinnt gegen die Niederlande, Wirtz und Gruda genial",
+      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gewinnt-gegen-die-niederlande-wirtz-und-gruda-genial-a-b299998e-392d-468c-8297-d4a4447eb702#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T22:59:00+00:00"
+    },
+    {
+      "titel": "Deutschland vs Niederlande: »Abgeschlachtet« – niederländische Pressestimmen",
+      "link": "https://www.spiegel.de/sport/fussball/deutschland-vs-niederlande-abgeschlachtet-niederlaendische-pressestimmen-a-b3ff7f33-0c8c-421a-8c93-6a140995d7f0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T22:59:00+00:00"
+    },
+    {
+      "titel": "Deutschland gegen die Niederlande: Die DFB-Elf in der Einzelkritik",
+      "link": "https://www.spiegel.de/sport/fussball/deutschland-gegen-die-niederlande-die-dfb-elf-in-der-einzelkritik-a-e60e8cb9-61a3-4c25-9a03-d8272bc1374c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T22:15:00+00:00"
+    },
+    {
+      "titel": "5:0 gegen die Niederlande: Renaissance der Nationalelf",
+      "link": "https://www.sueddeutsche.de/sport/deutschland-niederlande-klopp-niederlande-li.3581646",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T22:02:21+00:00"
+    },
+    {
+      "titel": "Deutschland in der Einzelkritik: Derry Scherhants Wat’n-Ditte-Moment",
+      "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-niederlande-einzelkritik-li.3581644",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T21:50:50+00:00"
+    },
+    {
+      "titel": "Robert Pattinson als James Bond: So reagiert das Netz auf den neuen 007",
+      "link": "https://www.spiegel.de/kultur/kino/robert-pattinson-als-james-bond-so-reagiert-das-netz-auf-den-neuen-007-a-f4bf23d7-a11e-404d-a7f7-e4d0672a0fdf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T21:17:00+00:00"
+    },
+    {
+      "titel": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T20:48:40+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Zahl der Toten nach Luftangriff bei Saporischschja steigt auf 72",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-zahl-der-toten-nach-luftangriff-bei-saporischschja-steigt-auf-72-a-704dd230-ca93-47b5-a667-eedff30bc9a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T20:46:00+00:00"
+    },
+    {
+      "titel": "Neandertaler: Geerbte Gene senken Risiko für Schizophrenie beim modernen Menschen",
+      "link": "https://www.spiegel.de/wissenschaft/mensch/neandertaler-geerbte-gene-senken-risiko-fuer-schizophrenie-beim-modernen-menschen-a-dff28587-2eb9-4c1f-9299-58955abc105b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T20:24:00+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Hackingangriffen",
+      "link": "https://www.spiegel.de/ausland/kuenstliche-intelligenz-kalifornien-verklagt-openai-wegen-hackingangriffen-a-eb18b1dc-9d01-43c5-9e5f-4ab60320c872#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T20:21:00+00:00"
+    },
+    {
+      "titel": "Nations League: Das sind die Erkenntnisse aus Deutschlands 5:0-Sieg gegen die Niederlande",
+      "link": "https://www.spiegel.de/sport/fussball/deutschland-gegen-niederlande-im-liveticker-gewinnt-juergen-klopp-sein-erstes-finale-als-bundestrainer-a-034f2191-1055-43ac-8956-b1bc6674c39c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-16T20:09:00+00:00"
+    },
+    {
+      "titel": "Abschiebezentrum geplant: Was steckt hinter den Ruanda-Plänen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-16T18:59:11+00:00"
+    },
+    {
+      "titel": "Chipkonzern: Jensen Huang spricht über Rückkehr an Nvidia-Spitze",
+      "link": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-affaere-rueckkehr-chef-li.3580971",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-16T18:35:08+00:00"
+    },
+    {
       "titel": "Marktbericht: DAX bleibt nahe Rekordhoch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-16T17:21:14+00:00"
-    },
-    {
-      "titel": "Ozan Ata Canani ist tot",
-      "link": "https://www.spiegel.de/kultur/musik/ozan-ata-canani-ist-tot-a-1618c5d6-5fdf-4a47-9b7c-8a600f739b62#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T17:21:00+00:00"
     },
     {
       "titel": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
@@ -25,46 +103,10 @@
       "veroeffentlicht": "2026-11-16T17:07:43+00:00"
     },
     {
-      "titel": "Manuela Schwesig: Was der SPD droht, wenn sie nicht für den Parteivorsitz antritt",
-      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-was-der-spd-droht-wenn-sie-nicht-fuer-den-parteivorsitz-antritt-a-74da2199-752f-4b1e-9c87-327b0e773fe8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T17:03:00+00:00"
-    },
-    {
-      "titel": "News des Tages: Schwesig zögert, Dobrindt plant Ruanda-Abkommen, DFB-Team im Umbruch",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-schwesig-zoegert-dobrindt-plant-ruanda-abkommen-dfb-team-im-umbruch-a-5dd9ac8a-06e6-4cb0-8777-2172ec7f3c0f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T17:02:00+00:00"
-    },
-    {
-      "titel": "Greenpeace: Aktivisten könnten versehentlich Bau eines Offshore-Windparks behindert haben",
-      "link": "https://www.spiegel.de/wissenschaft/greenpeace-aktivisten-koennten-versehentlich-bau-eines-offshore-windparks-behindert-haben-a-bf64c246-5b5c-4acf-abed-7584fe1d8150#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "titel": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T16:46:59+00:00"
-    },
-    {
-      "titel": "Fifa-Präsidentschaftswahl: Uefa nominiert Philippe Diallo als Herausforderer für Gianni Infantino",
-      "link": "https://www.spiegel.de/sport/fussball/fifa-praesidentschaftswahl-uefa-nominiert-philippe-diallo-als-herausforderer-fuer-gianni-infantino-a-5d50e5bb-a0d5-4ed0-b50b-d95bbb3bb5bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T16:42:00+00:00"
-    },
-    {
       "titel": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/wohin-steuert-die-stahlindustrie-gipfeltreffen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-16T16:36:35+00:00"
-    },
-    {
-      "titel": "Robert Pattinson spielt James Bond: Diese Schauspieler sind seine Vorgänger",
-      "link": "https://www.spiegel.de/kultur/kino/robert-pattinson-spielt-james-bond-diese-schauspieler-sind-seine-vorgaenger-a-ff38583e-5d3f-4fd9-bcce-f0fb8489180e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T16:35:00+00:00"
     },
     {
       "titel": "Robert Pattinson wird neuer James Bond - Nachfolge von Daniel Craig",
@@ -79,12 +121,6 @@
       "veroeffentlicht": "2026-11-16T16:26:45+00:00"
     },
     {
-      "titel": "Stockach – Konstanz: Mutmaßlicher Betrüger bricht bei Hausbesichtigung durch Decke",
-      "link": "https://www.spiegel.de/panorama/justiz/stockach-konstanz-mutmasslicher-betrueger-bricht-bei-hausbesichtigung-durch-decke-a-4cf5e068-23c9-4fea-9e9a-d2d2ba290062#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T16:26:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Kreml: Keine Zustimmung für Teilnahme Europas an Ukraine-Gesprächen",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kreml-europa-verhandlungen-li.3571967",
       "quelle": "Süddeutsche",
@@ -97,12 +133,6 @@
       "veroeffentlicht": "2026-11-16T16:14:15+00:00"
     },
     {
-      "titel": "Donald Trump: Können die Demokraten nach den US-Midterms die Zölle wirklich stoppen?",
-      "link": "https://www.spiegel.de/wirtschaft/service/donald-trump-koennen-die-demokraten-nach-den-us-midterms-die-zoelle-wirklich-stoppen-a-93d3e5c2-9594-424c-bf96-cb2f925e009b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T16:14:00+00:00"
-    },
-    {
       "titel": "EU sanktioniert russische Propagandisten, Hacker, Unternehmer",
       "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-propaganda-banken-100.html",
       "quelle": "Tagesschau",
@@ -113,12 +143,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-16T16:05:30+00:00"
-    },
-    {
-      "titel": "Fischer-Erben wollen Van-Gogh-Auktion bei Sotheby’s stoppen",
-      "link": "https://www.spiegel.de/kultur/fischer-erben-wollen-van-gogh-auktion-bei-sothebys-stoppen-a-1669ba84-8247-40b4-9056-f9428c5b44cc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-16T16:05:00+00:00"
     },
     {
       "titel": "Radio: „Wir wollen euren Preis nicht“",
@@ -139,34 +163,10 @@
       "veroeffentlicht": "2026-11-16T15:47:03+00:00"
     },
     {
-      "titel": "Podcast: „Auf den Punkt“: „Return Hub“ in Ruanda: Abschiebungen in eine Diktatur",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ruanda-abschiebungen-dobrindt-li.3581568",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-16T15:44:46+00:00"
-    },
-    {
-      "titel": "Zum Tod von Michael Well: Künstlerisch gepfeffert, aber immer mit Herz",
-      "link": "https://www.sueddeutsche.de/muenchen/michael-well-biermoesl-blosn-musiker-bayern-tod-nachruf-li.3581380",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-16T15:34:07+00:00"
-    },
-    {
-      "titel": "Film: Null Null Nix",
-      "link": "https://www.sueddeutsche.de/kultur/robert-pattinson-bond-kandidaten-geschichte-li.3568699",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-16T15:29:42+00:00"
-    },
-    {
       "titel": "Die EU will europäischen Stahl konkurrenzfähig machen",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-16T14:53:07+00:00"
-    },
-    {
-      "titel": "Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis",
-      "link": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-16T14:52:36+00:00"
     }
   ]
 }
