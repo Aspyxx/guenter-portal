@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-17T08:36:15+00:00",
+  "aktualisiert": "2026-11-17T17:56:19+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Zwei wichtige Brücken in Kiew getroffen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html",
+      "titel": "Deutsche Telekom",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "KI-Kursrutsch dürfte auch den DAX belasten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
+      "titel": "Žalgiris – Fc Bayern",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gluecksatlas-166.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Schwarz-Rot sucht nach Milliarden für Entlastungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html",
+      "titel": "Deutschland kauft neue Flugabwehrraketen für Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/deutschland-ukraine-hilfe-flugabwehr-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     }
   ]
 }
