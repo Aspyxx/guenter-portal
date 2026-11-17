@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-17T00:31:46+00:00",
+  "aktualisiert": "2026-11-17T08:36:15+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "James Trafford",
-      "link": "https://www.tagesschau.de/kultur/james-bond-robert-pattinson-100.html",
+      "titel": "Zwei wichtige Brücken in Kiew getroffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     },
     {
       "rang": 2,
-      "titel": "Was steckt hinter den Ruanda-Plänen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",
+      "titel": "KI-Kursrutsch dürfte auch den DAX belasten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Australien legt Entwurf für Abschlusserklärung vor",
-      "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
+      "titel": "Schwarz-Rot sucht nach Milliarden für Entlastungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
