@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-18T16:44:58+00:00",
+  "aktualisiert": "2026-11-18T23:10:47+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Kommentar zur Stromsteuer-Einigung: Fahren auf Sicht - aber wer sitzt eigentlich a",
-      "link": "https://www.tagesschau.de/kommentar/koalitionsausschuss-merz-stromsteuersenkung-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
-      "rang": 2,
       "titel": "Bundestagswahl",
-      "link": "https://www.tagesschau.de/ausland/asien/cop31-krieg-emissionen-100.html",
+      "link": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
       "quelle": "Tagesschau",
       "icon": "🗳️"
     },
     {
+      "rang": 2,
+      "titel": "Unwetter in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
+      "quelle": "Tagesschau",
+      "icon": "⛈️"
+    },
+    {
       "rang": 3,
-      "titel": "Deutsche-Bank-Papiere weiter unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
+      "titel": "Kommentar zur Stromsteuer-Einigung: Fahren auf Sicht - aber wer sitzt eigentlich a",
+      "link": "https://www.tagesschau.de/kommentar/koalitionsausschuss-merz-stromsteuersenkung-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
