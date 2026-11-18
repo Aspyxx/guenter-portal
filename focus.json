@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-18T00:12:45+00:00",
+  "aktualisiert": "2026-11-18T07:44:22+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Sat 2 Sender",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
+      "titel": "Vorstand",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
-      "link": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
+      "titel": "Zwölf Milliarden Euro ohne Geldwäsche-Aufsicht",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dws-118.html",
       "quelle": "Tagesschau",
       "icon": "🌍"
     },
     {
       "rang": 3,
-      "titel": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
+      "titel": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
+      "link": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     }
   ]
 }
