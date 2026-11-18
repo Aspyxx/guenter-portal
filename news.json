@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-17T18:39:02+00:00",
+  "aktualisiert": "2026-11-18T01:19:19+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,106 @@
   },
   "meldungen": [
     {
-      "titel": "Unicef: Bundesregierung will Svenja Schulze als Chefin vorschlagen",
-      "link": "https://www.spiegel.de/politik/deutschland/bundesregierung-will-svenja-schulze-als-unicef-chefin-a-e3c254e2-b095-4a71-94bd-df8aad89d560#ref=rss",
+      "titel": "Amazonasregenwald in Brasilien: Isoliert lebende Awá-Indigene tauchen in Dorf auf",
+      "link": "https://www.spiegel.de/wissenschaft/amazonasregenwald-in-brasilien-isoliert-lebende-awa-indigene-tauchen-in-dorf-auf-a-e70fbe07-91e0-4299-ad41-65592122178e#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T18:06:00+00:00"
+      "veroeffentlicht": "2026-11-18T01:12:00+00:00"
+    },
+    {
+      "titel": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-18T00:59:30+00:00"
+    },
+    {
+      "titel": "Donald Trump: Technikprobleme in Serie – Kritik in eigenen Reihen wächst",
+      "link": "https://www.spiegel.de/ausland/donald-trump-technikprobleme-in-serie-kritik-in-eigenen-reihen-waechst-a-ac69b24a-5440-4007-a586-c375f20b6b68#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-18T00:32:00+00:00"
+    },
+    {
+      "titel": "Wayne Rooney über psychischen Tiefpunkt: Düstere Jahre bei Manchester United",
+      "link": "https://www.spiegel.de/panorama/leute/wayne-rooney-ueber-psychischen-tiefpunkt-duestere-jahre-bei-manchester-united-a-d78ab554-962d-47fc-bc65-d4de2542784b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-17T23:56:00+00:00"
+    },
+    {
+      "titel": "Nvidia will Jensen Huang nicht als Chef zurückholen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-will-jensen-huang-nicht-als-chef-zurueckholen-a-f28605ac-ea1f-421b-afd9-4649bc8b91e6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-17T22:43:00+00:00"
+    },
+    {
+      "titel": "Zerstörte Krim-Brücke: Die Ukraine versetzt Putin einen schweren Schlag",
+      "link": "https://www.sueddeutsche.de/politik/kertsch-bruecke-ukraine-krim-russland-li.3581771",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-17T22:11:00+00:00"
+    },
+    {
+      "titel": "Vertrauter von Eisenkot: Israels Opposition übernimmt Parlamentsvorsitz",
+      "link": "https://www.spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-17T22:03:00+00:00"
+    },
+    {
+      "titel": "USA: Nvidia verdoppelt Umsatz und Gewinn",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-quartalszahlen-huang-rueckkehr-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-17T21:49:00+00:00"
+    },
+    {
+      "titel": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-wie-sich-der-deutsche-bank-chef-an-die-spitze-kaempfte-a-89df9ba3-c6d1-4ebf-b75d-b353e5066448#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-17T21:24:00+00:00"
+    },
+    {
+      "titel": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-17T21:20:52+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-pistorius-us-kritik-dumm-krim-terrorismus-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-17T20:50:00+00:00"
+    },
+    {
+      "titel": "»NSA Net«: Internes Netzwerk von US-Geheimdienst NSA gestört",
+      "link": "https://www.spiegel.de/ausland/nsa-net-internes-netzwerk-von-us-geheimdienst-nsa-gestoert-a-b392dbb8-8224-430f-a1e7-0e7ccd7a3101#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-17T20:10:00+00:00"
+    },
+    {
+      "titel": "Sozialproteste in Frankreich reißen nicht ab",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-17T20:02:01+00:00"
+    },
+    {
+      "titel": "Anthropic-Börsengang: »KI-Firmen arbeiten wie Goldminen«, sagt Analyst Benedict Evans",
+      "link": "https://www.spiegel.de/netzwelt/anthropic-boersengang-ki-firmen-arbeiten-wie-goldminen-sagt-analyst-benedict-evans-a-c13cc772-5972-4613-bfb4-35289408e6fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-17T19:49:00+00:00"
+    },
+    {
+      "titel": "Siedlungspolitik: Großbritannien verhängt Sanktionen gegen israelische Baufirmen",
+      "link": "https://www.spiegel.de/ausland/siedlungspolitik-grossbritannien-verhaengt-sanktionen-gegen-israelische-baufirmen-a-6c7e3aa3-91f4-469f-a99b-bb170eca3369#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-17T19:46:00+00:00"
+    },
+    {
+      "titel": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
+      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-17T18:59:39+00:00"
+    },
+    {
+      "titel": "USA gelten nicht mehr als masernfrei",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-17T18:37:07+00:00"
     },
     {
       "titel": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
@@ -19,28 +115,10 @@
       "veroeffentlicht": "2026-11-17T18:03:42+00:00"
     },
     {
-      "titel": "Augsburg: 15-Jährige verletzt Mädchen mit Messer",
-      "link": "https://www.spiegel.de/panorama/justiz/augsburg-15-jaehrige-verletzt-maedchen-mit-messer-a-dc6a3696-122f-409b-a497-821477763134#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T17:37:00+00:00"
-    },
-    {
       "titel": "\"Zum ersten Mal nach 14 Jahren echte Vertreter des Volkes\"",
       "link": "https://www.tagesschau.de/ausland/europa/serbien-parlament-studentische-liste-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-17T17:35:34+00:00"
-    },
-    {
-      "titel": "Infantino-Herausforderer Philippe Diallo: Ein Held ist, wer antritt, obwohl er chancenlos ist",
-      "link": "https://www.spiegel.de/sport/infantino-herausforderer-philippe-diallo-ein-held-ist-wer-antritt-obwohl-er-chancenlos-ist-a-fc5dbc7c-c064-4dbd-b550-bde189acf0e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T17:30:00+00:00"
-    },
-    {
-      "titel": "Alexander Zverev: Ex-Freundin Brenda Patea hat Klage gegen Tennisstar eingereicht",
-      "link": "https://www.spiegel.de/sport/alexander-zverev-ex-freundin-brenda-patea-hat-klage-gegen-tennisstar-eingereicht-a-7d6f41e1-0c5e-47cd-b20c-199c7672fbe3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T17:28:00+00:00"
     },
     {
       "titel": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
@@ -49,82 +127,16 @@
       "veroeffentlicht": "2026-11-17T17:26:00+00:00"
     },
     {
-      "titel": "USA: Huang zeigt sich bereit zu Rückkehr an Nvidia-Spitze",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-china-befragung-us-kongress-rueckkehr-nvidia-li.3578585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T17:10:25+00:00"
-    },
-    {
-      "titel": "News des Tages: Deutsche Bank, Angriff auf die Krimbrücke, Glücksatlas",
-      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bank-angriff-auf-die-krimbruecke-gluecksatlas-a-54b6649a-6b11-44b8-bf5d-637e3ff64120#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T17:10:00+00:00"
-    },
-    {
-      "titel": "BSW und Bundestagswahl: Karlsruhe entscheidet über Neuauszählung",
-      "link": "https://www.spiegel.de/politik/deutschland/bsw-und-bundestagswahl-karlsruhe-entscheidet-ueber-neuauszaehlung-a-852c3f4f-1f36-40ff-bd91-b88e3486b93a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T17:07:00+00:00"
-    },
-    {
-      "titel": "Jeffrey Epstein: Interne Unterlagen belasten Deutsche Bank mit weiteren Zahlungen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-interne-unterlagen-belasten-deutsche-bank-mit-weiteren-zahlungen-a-7055c4a4-a3ac-41f8-a1f7-e6312c13abb3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T16:54:00+00:00"
-    },
-    {
       "titel": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-17T16:52:59+00:00"
     },
     {
-      "titel": "Linken-Vorstand beantragt Ausschluss der Abgeordneten Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T16:52:47+00:00"
-    },
-    {
-      "titel": "Nvidia: Ex-CEO Jensen Huang ist bereit, zu Chiphersteller zurückzukehren",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-ex-ceo-jensen-huang-ist-bereit-zu-chiphersteller-zurueckzukehren-a-bc20dd25-f830-42e0-a404-de9743ecaf95#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T16:52:00+00:00"
-    },
-    {
-      "titel": "USA prüfen mögliche Anschlagspläne Irans auf Washington",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T16:36:43+00:00"
-    },
-    {
-      "titel": "Baden-Württemberg: Boris Palmer gibt Posten als Bürokratieberater auf",
-      "link": "https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-boris-palmer-gibt-posten-als-buerokratieberater-auf-a-fe212fa5-7438-4e63-90e1-f19d579c5a42#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T16:28:00+00:00"
-    },
-    {
-      "titel": "Rede auf Klimagipfel: Schneider für mehr Tempo bei Erneuerbaren Energien",
-      "link": "https://www.tagesschau.de/ausland/europa/klimakonferent-schneider-rede-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T16:24:25+00:00"
-    },
-    {
       "titel": "Podcast „Und nun zum Sport“: 5:0 gegen die Niederlande: Wie Deutschland über den Klopp zum Pep fand",
       "link": "https://www.sueddeutsche.de/sport/podcast-und-nun-zum-sport-deutschland-niederlande-li.3581023",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-17T16:07:33+00:00"
-    },
-    {
-      "titel": "Überteuerte Linsen - Haben Augenärzte Hunderte Millionen zu viel kassiert?",
-      "link": "https://www.tagesschau.de/investigativ/ndr/augenaerzte-grauer-star-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T16:01:15+00:00"
-    },
-    {
-      "titel": "Zarte Hoffnung nach der Brandkatastrophe im Hürtgenwald",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/klimawandel-huertgenwald-zukunft-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T15:53:57+00:00"
     },
     {
       "titel": "Podcast: „Auf den Punkt“: Neuer James Bond: Ist Robert Pattinson der richtige?",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/muenchen/muenchen-mietpreisbremse-urteil-brandl-60-000-euro-rueckerstattung-li.3581847",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-17T14:29:44+00:00"
-    },
-    {
-      "titel": "Bundesregierung: Der SPD droht eine chaotische Chefsuche",
-      "link": "https://www.sueddeutsche.de/politik/spd-vorsitz-manuela-schwesig-lars-klingbeil-hubertus-heil-franziska-giffey-li.3581799",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T13:57:45+00:00"
-    },
-    {
-      "titel": "Tesla: Wie Grünheide Teil der ultimativen Musk-Wette wird",
-      "link": "https://www.sueddeutsche.de/wirtschaft/tesla-gruenheide-elon-musk-robotaxi-li.3581840",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T13:54:43+00:00"
     }
   ]
 }
