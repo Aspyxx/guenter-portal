@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-18T01:19:19+00:00",
+  "aktualisiert": "2026-11-18T09:11:48+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Amazonasregenwald in Brasilien: Isoliert lebende Awá-Indigene tauchen in Dorf auf",
-      "link": "https://www.spiegel.de/wissenschaft/amazonasregenwald-in-brasilien-isoliert-lebende-awa-indigene-tauchen-in-dorf-auf-a-e70fbe07-91e0-4299-ad41-65592122178e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T01:12:00+00:00"
-    },
-    {
-      "titel": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
+      "titel": "Baugenehmigungen von Wohnungen brechen nach starkem Anstieg ein",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungsbau-september-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T00:59:30+00:00"
+      "veroeffentlicht": "2026-11-18T09:01:00+00:00"
     },
     {
-      "titel": "Donald Trump: Technikprobleme in Serie – Kritik in eigenen Reihen wächst",
-      "link": "https://www.spiegel.de/ausland/donald-trump-technikprobleme-in-serie-kritik-in-eigenen-reihen-waechst-a-ac69b24a-5440-4007-a586-c375f20b6b68#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T00:32:00+00:00"
+      "titel": "Stromsteuersenkung und Spritpreisdeckel - zeitlich begrenzt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-18T08:55:03+00:00"
     },
     {
-      "titel": "Wayne Rooney über psychischen Tiefpunkt: Düstere Jahre bei Manchester United",
-      "link": "https://www.spiegel.de/panorama/leute/wayne-rooney-ueber-psychischen-tiefpunkt-duestere-jahre-bei-manchester-united-a-d78ab554-962d-47fc-bc65-d4de2542784b#ref=rss",
+      "titel": "Günstig kochen: 15-Minuten-Eiersalat mit weißen Bohnen auf Toast",
+      "link": "https://www.spiegel.de/effilee/guenstig-kochen-15-minuten-eiersalat-mit-weissen-bohnen-auf-toast-a-a2a8fa0f-f92d-481e-8e4a-400034fd3878#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T23:56:00+00:00"
+      "veroeffentlicht": "2026-11-18T08:54:00+00:00"
     },
     {
-      "titel": "Nvidia will Jensen Huang nicht als Chef zurückholen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-will-jensen-huang-nicht-als-chef-zurueckholen-a-f28605ac-ea1f-421b-afd9-4649bc8b91e6#ref=rss",
+      "titel": "Bundestagswahl 2025: Bundesverfassungsgericht lehnt BSW-Wahlbeschwerde ab",
+      "link": "https://www.sueddeutsche.de/politik/bundesverfassungsgericht-bsw-wahlpruefungsbeschwerde-abgelehnt-bundestagswahl-2025-li.3582317",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-18T08:39:13+00:00"
+    },
+    {
+      "titel": "Linken-Vorstand beantragt Ausschluss der Abgeordneten Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-18T08:38:42+00:00"
+    },
+    {
+      "titel": "Tiger Woods: Comeback mit 50 Jahren beim eigenen Turnier auf den Bahamas",
+      "link": "https://www.spiegel.de/sport/golf/tiger-woods-comeback-mit-50-jahren-beim-eigenen-turnier-auf-den-bahamas-a-42029a3b-dfea-499f-8254-e78a6d12f55a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T22:43:00+00:00"
+      "veroeffentlicht": "2026-11-18T08:38:00+00:00"
+    },
+    {
+      "titel": "Bundesverfassungsgericht zur BSW-Beschwerde: Die Stimmen zur Bundestagswahl müssen nicht neu ausgezählt werden",
+      "link": "https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden-a-714504aa-841f-4258-a2d5-cb852a8f20f6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-18T08:34:00+00:00"
+    },
+    {
+      "titel": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-18T08:26:33+00:00"
+    },
+    {
+      "titel": "Arzt-Bekenntnis: Wie wir Patienten für gesund erklären, obwohl sie krank sind",
+      "link": "https://www.spiegel.de/gesundheit/diagnose/arzt-bekenntnis-wie-wir-patienten-fuer-gesund-erklaeren-obwohl-sie-krank-sind-a-f8987942-9423-4e80-9e6c-323afb26ac85#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-18T08:21:00+00:00"
+    },
+    {
+      "titel": "Sport im Teenageralter: Wie Eltern und Trainer Mädchen beim Dranbleiben helfen",
+      "link": "https://www.spiegel.de/sport/sport-in-der-pubertaet-wie-eltern-und-trainer-maedchen-beim-dranbleiben-helfen-a-5f8e619f-900c-4c47-bd87-26ad65e83a95#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-18T08:15:00+00:00"
+    },
+    {
+      "titel": "Russische Eiskunstläufer können nicht an Wettkampf in Finnland teilnehmen",
+      "link": "https://www.spiegel.de/sport/olympia/russische-eiskunstlaeufer-koennen-nicht-an-wettkampf-in-finnland-teilnehmen-a-40429a9e-3775-44b8-a473-4227981aa83b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-18T08:01:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Koalition einigt sich auf Senkung der Stromsteuer und Spritpreisdeckel",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-koalitionsausschuss-stromsteuer-spritpreisdeckel-li.3580621",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-18T07:53:04+00:00"
+    },
+    {
+      "titel": "Sotheby's: Einigung mit Fischer-Erben, Van-Gogh-Gemälde kann versteigert werden",
+      "link": "https://www.spiegel.de/kultur/sothebys-einigung-mit-fischer-erben-van-gogh-gemaelde-kann-versteigert-werden-a-cd8cd4c9-6a68-4c42-8513-5bf42198abc7#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-18T07:53:00+00:00"
+    },
+    {
+      "titel": "Start-ups in Deutschland sammeln 2026 wohl fast doppelt so viel Wagniskapital ein wie im Vorjahr",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-18T07:49:00+00:00"
+    },
+    {
+      "titel": "Matt Damon verbietet zu Hause Handys beim Filmschauen",
+      "link": "https://www.spiegel.de/panorama/leute/matt-damon-verbietet-zu-hause-handys-beim-filmschauen-a-80c28c7c-6401-4f34-8acf-fe3029b66158#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-18T07:46:00+00:00"
+    },
+    {
+      "titel": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-18T06:56:21+00:00"
+    },
+    {
+      "titel": "Bundesregierung: Nach langem Streit: Stromsteuer für alle sinkt – vorerst nur für 2027",
+      "link": "https://www.sueddeutsche.de/politik/bundeshaushalt-stromsteuer-koalitionsausschuss-ergebnis-2027-li.3581995",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-18T06:39:16+00:00"
     },
     {
       "titel": "Zerstörte Krim-Brücke: Die Ukraine versetzt Putin einen schweren Schlag",
       "link": "https://www.sueddeutsche.de/politik/kertsch-bruecke-ukraine-krim-russland-li.3581771",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T22:11:00+00:00"
+      "veroeffentlicht": "2026-11-18T06:25:00+00:00"
     },
     {
-      "titel": "Vertrauter von Eisenkot: Israels Opposition übernimmt Parlamentsvorsitz",
-      "link": "https://www.spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T22:03:00+00:00"
-    },
-    {
-      "titel": "USA: Nvidia verdoppelt Umsatz und Gewinn",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-quartalszahlen-huang-rueckkehr-li.3578585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T21:49:00+00:00"
-    },
-    {
-      "titel": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-wie-sich-der-deutsche-bank-chef-an-die-spitze-kaempfte-a-89df9ba3-c6d1-4ebf-b75d-b353e5066448#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T21:24:00+00:00"
-    },
-    {
-      "titel": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
-      "link": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
+      "titel": "Mögliche Stromsteuersenkung: Verhandlung beendet - Verkündung am Morgen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-beendet-verhandlungen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T21:20:52+00:00"
+      "veroeffentlicht": "2026-11-18T06:20:31+00:00"
+    },
+    {
+      "titel": "Wenig Bewegung beim DAX erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-18T06:17:40+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Nvidia: Keine Pläne für Huangs Rückkehr als CEO",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-rueckkehr-li.3566658",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-18T05:29:05+00:00"
+    },
+    {
+      "titel": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
+      "link": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-18T05:17:26+00:00"
+    },
+    {
+      "titel": "Welche Fortschritte beim Klimaschutz erreicht wurden",
+      "link": "https://www.tagesschau.de/wissen/klima/erneuerbare-energien-fortschritte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-18T05:16:11+00:00"
+    },
+    {
+      "titel": "Deutsche-Bank-Tochter DWS: Zwölf Milliarden Euro im Schatten",
+      "link": "https://www.sueddeutsche.de/wirtschaft/dws-deutsche-bank-sanktionen-betriebsrenten-geldwaesche-sanktionen-li.3540387",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-18T05:01:00+00:00"
+    },
+    {
+      "titel": "USA: Demokratin Peltola gewinnt Senatssitz in Alaska",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-demokraten-peltola-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-18T03:52:29+00:00"
+    },
+    {
+      "titel": "Trumps Asienreise: Vor dem China-Gipfel dominieren Spannungen und Sorgen rund um KI",
+      "link": "https://www.sueddeutsche.de/politik/trump-reise-china-gipfel-putin-xi-ki-pannen-usa-li.3582083",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-18T03:06:13+00:00"
     },
     {
       "titel": "Krieg in der Ukraine: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-pistorius-us-kritik-dumm-krim-terrorismus-li.3571967",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-17T20:50:00+00:00"
-    },
-    {
-      "titel": "»NSA Net«: Internes Netzwerk von US-Geheimdienst NSA gestört",
-      "link": "https://www.spiegel.de/ausland/nsa-net-internes-netzwerk-von-us-geheimdienst-nsa-gestoert-a-b392dbb8-8224-430f-a1e7-0e7ccd7a3101#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T20:10:00+00:00"
-    },
-    {
-      "titel": "Sozialproteste in Frankreich reißen nicht ab",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T20:02:01+00:00"
-    },
-    {
-      "titel": "Anthropic-Börsengang: »KI-Firmen arbeiten wie Goldminen«, sagt Analyst Benedict Evans",
-      "link": "https://www.spiegel.de/netzwelt/anthropic-boersengang-ki-firmen-arbeiten-wie-goldminen-sagt-analyst-benedict-evans-a-c13cc772-5972-4613-bfb4-35289408e6fd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T19:49:00+00:00"
-    },
-    {
-      "titel": "Siedlungspolitik: Großbritannien verhängt Sanktionen gegen israelische Baufirmen",
-      "link": "https://www.spiegel.de/ausland/siedlungspolitik-grossbritannien-verhaengt-sanktionen-gegen-israelische-baufirmen-a-6c7e3aa3-91f4-469f-a99b-bb170eca3369#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-17T19:46:00+00:00"
-    },
-    {
-      "titel": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
-      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T18:59:39+00:00"
-    },
-    {
-      "titel": "USA gelten nicht mehr als masernfrei",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T18:37:07+00:00"
-    },
-    {
-      "titel": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T18:03:42+00:00"
-    },
-    {
-      "titel": "\"Zum ersten Mal nach 14 Jahren echte Vertreter des Volkes\"",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-parlament-studentische-liste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T17:35:34+00:00"
-    },
-    {
-      "titel": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T17:26:00+00:00"
-    },
-    {
-      "titel": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-17T16:52:59+00:00"
-    },
-    {
-      "titel": "Podcast „Und nun zum Sport“: 5:0 gegen die Niederlande: Wie Deutschland über den Klopp zum Pep fand",
-      "link": "https://www.sueddeutsche.de/sport/podcast-und-nun-zum-sport-deutschland-niederlande-li.3581023",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T16:07:33+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Neuer James Bond: Ist Robert Pattinson der richtige?",
-      "link": "https://www.sueddeutsche.de/kultur/podcast-nachrichten-auf-den-punkt-james-bond-pattinson-film-li.3581823",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T15:53:43+00:00"
-    },
-    {
-      "titel": "Autobahnsperrung: Chaostage mit Ansage im Münchner Osten",
-      "link": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/a99-sperrung-muenchen-haar-brueckenabriss-li.3581309",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T15:05:21+00:00"
-    },
-    {
-      "titel": "Markus Brunnermeier: Diesen deutschen Ökonomen will Lars Klingbeil in die EZB schicken",
-      "link": "https://www.sueddeutsche.de/meinung/markus-brunnermeier-ezb-chefvolkswirt-princeton-philip-lane-profil-li.3581808",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T14:58:09+00:00"
-    },
-    {
-      "titel": "Bundestrainer: Deutschland spielt schon wie eine Jürgen-Klopp-Mannschaft",
-      "link": "https://www.sueddeutsche.de/sport/nationalmannschaft-klopp-bilanz-erfolg-niederlande-li.3581773",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T14:57:16+00:00"
-    },
-    {
-      "titel": "Urteil zur Mietpreisbremse: Miete zu hoch: Münchnerin bekommt fast 60 000 Euro zurück",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-mietpreisbremse-urteil-brandl-60-000-euro-rueckerstattung-li.3581847",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-17T14:29:44+00:00"
     }
   ]
 }
