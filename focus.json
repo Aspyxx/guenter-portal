@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-17T17:56:19+00:00",
+  "aktualisiert": "2026-11-18T00:12:45+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Deutsche Telekom",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
+      "titel": "Sat 2 Sender",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Žalgiris – Fc Bayern",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gluecksatlas-166.html",
+      "titel": "Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "🌍"
     },
     {
       "rang": 3,
-      "titel": "Deutschland kauft neue Flugabwehrraketen für Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/deutschland-ukraine-hilfe-flugabwehr-100.html",
+      "titel": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
       "quelle": "Tagesschau",
-      "icon": "🌍"
+      "icon": "🏛️"
     }
   ]
 }
