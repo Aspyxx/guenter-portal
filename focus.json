@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-19T04:16:34+00:00",
+  "aktualisiert": "2026-11-19T13:36:10+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Unwetter in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-treffen-berlin-100.html",
-      "quelle": "Tagesschau",
-      "icon": "⛈️"
-    },
-    {
-      "rang": 2,
-      "titel": "Kommentar zur Stromsteuer-Einigung: Fahren auf Sicht - aber wer sitzt eigentlich a",
-      "link": "https://www.tagesschau.de/kommentar/koalitionsausschuss-merz-stromsteuersenkung-100.html",
+      "titel": "Grönland",
+      "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Deutsche Telekom steigt bei KI-Start-up Mistral ein",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
       "rang": 3,
-      "titel": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+      "titel": "Heizen wird wegen steigender Energiepreise immer teurer",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
