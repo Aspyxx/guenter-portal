@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-19T00:24:53+00:00",
+  "aktualisiert": "2026-11-19T07:58:09+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,118 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T00:16:00+00:00"
-    },
-    {
-      "titel": "»GTA 6« im Newsblog: »GTA 6« startet in Deutschland - diese Tipps sollten Sie im Spiel beachten",
-      "link": "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T23:45:00+00:00"
-    },
-    {
-      "titel": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
-      "link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
+      "titel": "190,4 Millionen Dollar: Teuerstes van-Gogh-Gemälde verkauft",
+      "link": "https://www.tagesschau.de/kultur/van-gogh-bluehende-kastanienbaeume-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T23:33:32+00:00"
+      "veroeffentlicht": "2026-11-19T07:48:33+00:00"
     },
     {
-      "titel": "GTA 6: Erste Eindrücke von der neuen Version von Grand Theft Auto",
-      "link": "https://www.spiegel.de/netzwelt/gta-6-erste-eindruecke-von-der-neuen-version-von-grand-theft-auto-a-7f156a50-18dd-4f36-be77-4a0623b8c5c1#ref=rss",
+      "titel": "Anthropic: Das sind die sieben Gründer hinter dem Billionen-Börsengang",
+      "link": "https://www.spiegel.de/netzwelt/anthropic-das-sind-die-sieben-gruender-hinter-dem-billionen-boersengang-a-64347554-c3af-4bb3-a41e-3a1de0352b53#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T22:51:00+00:00"
+      "veroeffentlicht": "2026-11-19T07:39:00+00:00"
     },
     {
-      "titel": "Frauke Brosius-Gersdorf im SPIEGEL-Talk: »Herr Spahn und ich sind aus den gleichen Gründen gescheitert«",
-      "link": "https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-im-spiegel-talk-herr-spahn-und-ich-sind-aus-den-gleichen-gruenden-gescheitert-a-421fd180-53be-4018-822e-af20b3567893#ref=rss",
+      "titel": "IG Metall startet Ganztages-Streiks",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-startet-ganztages-streiks-a-b4346d94-7de0-4764-ad94-2a4eb5f9342f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T22:50:00+00:00"
+      "veroeffentlicht": "2026-11-19T07:38:00+00:00"
     },
     {
-      "titel": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+      "titel": "Liveblog zum APEC-Gipfel: ++ Trump und Xi loben sich gegenseitig ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T21:04:52+00:00"
+      "veroeffentlicht": "2026-11-19T07:37:06+00:00"
     },
     {
-      "titel": "Zoo Cincinnati: Mütze verschluckt – Flusspferd Fiona kann nicht operiert werden",
-      "link": "https://www.spiegel.de/panorama/zoo-cincinnati-muetze-verschluckt-flusspferd-fiona-kann-nicht-operiert-werden-a-66027134-5e11-4831-b469-916a24bedd7b#ref=rss",
+      "titel": "Marathon: Weltmeisterin Peres Jepchirchir wegen Epo für drei Jahre gesperrt",
+      "link": "https://www.spiegel.de/sport/leichtathletik/marathon-weltmeisterin-peres-jepchirchir-wegen-epo-fuer-drei-jahre-gesperrt-a-50572467-b6ac-4ae6-b156-1848f89e6342#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T20:47:00+00:00"
+      "veroeffentlicht": "2026-11-19T07:25:00+00:00"
     },
     {
-      "titel": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
-      "link": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T19:44:46+00:00"
-    },
-    {
-      "titel": "Wie Hakeem Jeffries den Feldzug gegen Trump führen will",
-      "link": "https://www.spiegel.de/ausland/wie-hakeem-jeffries-den-feldzug-gegen-trump-fuehren-will-a-0c3496c9-eef3-4540-9409-c9b5ece80b06#ref=rss",
+      "titel": "»GTA 6« im Newsblog: »Nie mehr Daten bewegt« – GTA 6 wird zur Belastungsprobe fürs Internet",
+      "link": "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-nie-mehr-daten-bewegt-gta-6-wird-zur-belastungsprobe-fuers-internet-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T19:44:00+00:00"
+      "veroeffentlicht": "2026-11-19T07:03:00+00:00"
     },
     {
-      "titel": "Petersdom im Vatikan: Wie die Christen ihre größte Kirche bauten",
-      "link": "https://www.spiegel.de/geschichte/petersdom-im-vatikan-wie-die-christen-ihre-groesste-kirche-bauten-a-5fd06695-bd62-42e1-8c08-b0f2b7558ab5#ref=rss",
+      "titel": "Apec-Gipfel in Shenzhen, China: Donald Trump im Gästehaus von Xi Jingping angekommen",
+      "link": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T19:39:00+00:00"
+      "veroeffentlicht": "2026-11-19T06:54:00+00:00"
     },
     {
-      "titel": "FC Bayern München: Vincent Kompany kehrt gegen FC Köln an die Seitenlinie zurück",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-kehrt-gegen-fc-koeln-an-die-seitenlinie-zurueck-a-665ce2cb-d4d3-4209-a182-79a2bb850911#ref=rss",
+      "titel": "Bundesregierung: Michael Kretschmer rügt Koalition für Umgang mit Stromsteuer-Streit",
+      "link": "https://www.spiegel.de/politik/deutschland/bundesregierung-michael-kretschmer-ruegt-koalition-fuer-umgang-mit-stromsteuer-streit-a-3dc6a8c7-65fa-4056-92a1-8c4571bba0b2#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T19:38:00+00:00"
+      "veroeffentlicht": "2026-11-19T06:48:00+00:00"
     },
     {
-      "titel": "Klimapolitik: So sabotieren Saudi-Arabien und Indien den Weltklimarat",
-      "link": "https://www.spiegel.de/geschichte/klimapolitik-so-sabotieren-saudi-arabien-und-indien-den-weltklimarat-a-a52879e7-acba-46dd-bdb9-a0f18d7aca77#ref=rss",
+      "titel": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-19T06:44:41+00:00"
+    },
+    {
+      "titel": "Studie von »Save the Children«: Fast jedes vierte Kind weltweit lebt in einem Konfliktgebiet",
+      "link": "https://www.spiegel.de/ausland/studie-von-save-the-children-fast-jedes-vierte-kind-weltweit-lebt-in-einem-konfliktgebiet-a-77660933-3505-49bf-af7a-b882e79e327d#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-18T19:28:00+00:00"
+      "veroeffentlicht": "2026-11-19T06:44:00+00:00"
     },
     {
-      "titel": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
-      "link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
+      "titel": "Marktbericht: Anleger vor Anthropic-Börsengang optimistisch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T18:11:40+00:00"
+      "veroeffentlicht": "2026-11-19T06:33:47+00:00"
     },
     {
-      "titel": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T18:02:26+00:00"
+      "titel": "Deutsche Telekom steigt bei Europas KI-Hoffnung Mistral ein",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-steigt-bei-europas-ki-hoffnung-mistral-ein-a-d3e7a956-a3eb-4eec-8f7e-0366020961bc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-19T06:30:00+00:00"
     },
     {
-      "titel": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T17:55:38+00:00"
+      "titel": "Deutsche-Bank-Leak: Grüne verlangen Einberufung des Nationalen Sicherheitsrats",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-leak-gruene-verlangen-einberufung-des-nationalen-sicherheitsrats-a-2f07df9d-87d1-440d-9f24-1e90751c2883#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-19T06:24:00+00:00"
     },
     {
-      "titel": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T17:45:45+00:00"
+      "titel": "USA: Trump trifft Putin in China und erklärt: „Wunderbare Dinge“ könnten entstehen",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-putin-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-19T05:57:29+00:00"
     },
     {
-      "titel": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
+      "titel": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
+      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T17:17:56+00:00"
+      "veroeffentlicht": "2026-11-19T04:28:24+00:00"
+    },
+    {
+      "titel": "Börsengang von Anthropic: Ist er noch einer von den Guten?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/ki-open-ai-anthropic-boersengang-trump-finanzen-li.3573537",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-19T04:25:47+00:00"
+    },
+    {
+      "titel": "\"Koalition der Willigen\": Ukrainer fordern Einheit und Entschlossenheit",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-19T04:19:46+00:00"
+    },
+    {
+      "titel": "Ukraine-Gipfel in Berlin: Mit Diplomatie und Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-treffen-berlin-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-19T04:05:32+00:00"
+    },
+    {
+      "titel": "Kehrtwende nach den US-Zwischenwahlen: „Ich bin kein Maga“: Elon Musk stellt sich plötzlich als moderat dar",
+      "link": "https://www.sueddeutsche.de/politik/musk-maga-kehrtwende-republikaner-demokraten-li.3582802",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-19T03:26:53+00:00"
+    },
+    {
+      "titel": "Künstliche Intelligenz: Anthropic geht an die Börse – was Anleger wissen sollten",
+      "link": "https://www.sueddeutsche.de/wirtschaft/anthropic-boersengang-ki-geldanlage-2026-li.3573534",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-19T03:04:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Kein Zugverkehr auf Krim-Brücke nach erneutem Angriff",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-pistorius-us-kritik-dumm-krim-terrorismus-krim-bruecke-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-19T02:16:57+00:00"
+    },
+    {
+      "titel": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-19T02:10:36+00:00"
+    },
+    {
+      "titel": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-19T01:06:22+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Anthropic legt Ausgabepreis für Aktien auf 83 Dollar fest",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-china-anthropic-li.3566658",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-19T00:57:31+00:00"
     },
     {
       "titel": "Streaming: Gut gepudert beim Wiener Kongress",
       "link": "https://www.sueddeutsche.de/medien/serie-vienna-game-disney-wiener-kongress-li.3570401",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-18T17:14:19+00:00"
-    },
-    {
-      "titel": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-18T17:09:00+00:00"
     },
     {
       "titel": "Estland: Eine EU-Stadt wird zur Sackgasse",
@@ -131,42 +167,6 @@
       "link": "https://www.sueddeutsche.de/wissen/pfas-ewigkeitschemikalien-eu-rechnungshof-grenzwerte-lebensmittel-li.3578656",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-18T16:29:36+00:00"
-    },
-    {
-      "titel": "Logistikbranche: Paketdienst GLS will sich mit DPD zusammenschließen",
-      "link": "https://www.sueddeutsche.de/wirtschaft/gls-dpd-fusion-paketdienste-logistikbranche-li.3582700",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-18T16:23:40+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Stromsteuer wird gesenkt – aber um welchen Preis?",
-      "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-streomsteuer-merz-koalition-li.3582378",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-18T15:38:17+00:00"
-    },
-    {
-      "titel": "Ladies & Gentlemen: Als hätten sie eine Filiale von Takko Fashion überfallen",
-      "link": "https://www.sueddeutsche.de/stil/gta-6-mode-videospiele-streetwear-stilkritik-li.3582095",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-18T15:29:16+00:00"
-    },
-    {
-      "titel": "USA: Trump wird Putin bei Gipfel wohl zum Zweiergespräch treffen",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-putin-li.3578585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-18T15:15:00+00:00"
-    },
-    {
-      "titel": "Dem Geheimnis auf der Spur: Warum galt die Katze als teuflisches Tier?",
-      "link": "https://www.sueddeutsche.de/reise/mittelalter-hexen-ketzer-katzen-wort-ursprung-li.3578334",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-18T15:04:29+00:00"
-    },
-    {
-      "titel": "Deutsche Nationalmannschaft: Jürgen Klopp ist der erste ausländische Trainer der DFB-Elf",
-      "link": "https://www.sueddeutsche.de/sport/klopp-nationalelf-kommentar-bundestrainer-li.3582397",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-18T14:49:04+00:00"
     }
   ]
 }
