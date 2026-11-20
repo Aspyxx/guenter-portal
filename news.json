@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-19T23:52:24+00:00",
+  "aktualisiert": "2026-11-20T07:19:39+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,130 @@
   },
   "meldungen": [
     {
-      "titel": "Zoo von Cincinnati: Flusspferd Fiona stirbt wegen verschluckter Strickmütze",
-      "link": "https://www.spiegel.de/panorama/zoo-von-cincinnati-flusspferd-fiona-stirbt-wegen-verschluckter-strickmuetze-a-463d0185-8c32-405c-a16d-c8e952b090bb#ref=rss",
+      "titel": "SPD: Franziska Giffey kritisiert den progressiven Kurs ihrer eigenen Partei",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-franziska-giffey-kritisiert-den-progressiven-kurs-ihrer-eigenen-partei-a-fff8cf2f-d453-4cba-98d6-4c9b97650de8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T22:43:00+00:00"
+      "veroeffentlicht": "2026-11-20T07:15:00+00:00"
     },
     {
-      "titel": "Donald Trump warnt Elon Musk vor Absprung bei MAGA",
-      "link": "https://www.spiegel.de/ausland/donald-trump-warnt-elon-musk-vor-absprung-bei-maga-a-86e0a6f3-18e4-477d-8bd8-e7396533f0c5#ref=rss",
+      "titel": "Lotto: Paar aus Wittenberg holt Lottogewinn von einer Viertelmillion erst nach zweieinhalb Jahren ab",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/lotto-paar-aus-wittenberg-holt-lottogewinn-von-einer-viertelmillion-erst-nach-zweieinhalb-jahren-ab-a-523bb771-94fd-4f24-8372-d07579766bc8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T21:32:00+00:00"
+      "veroeffentlicht": "2026-11-20T06:59:00+00:00"
+    },
+    {
+      "titel": "Reizdarmsyndrom: Was helfen kann",
+      "link": "https://www.spiegel.de/gesundheit/reizdarmsyndrom-was-helfen-kann-a-25f41573-e161-4f16-b501-613698a77812#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T06:54:00+00:00"
+    },
+    {
+      "titel": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
+      "link": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T06:51:30+00:00"
+    },
+    {
+      "titel": "Masern in Deutschland: Karl Lauterbach warnt vor Impflücke",
+      "link": "https://www.spiegel.de/politik/deutschland/masern-in-deutschland-karl-lauterbach-warnt-vor-impfluecke-a-a6c307f8-5993-4965-810f-64b59e63265f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T06:50:00+00:00"
+    },
+    {
+      "titel": "WG-Mieten steigen stark: Kann sich die Gen Z Wohnen noch leisten?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wg-zimmer-gen-z-proteste-wohnungskrise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T06:48:37+00:00"
+    },
+    {
+      "titel": "Jugendliche wollen wieder deutschlandweit protestieren",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T06:42:49+00:00"
+    },
+    {
+      "titel": "Marktbericht: DAX dürfte trotz Anthropic-Hype weiter fallen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T06:30:24+00:00"
+    },
+    {
+      "titel": "Black Friday lässt die Deutschen kalt",
+      "link": "https://www.spiegel.de/wirtschaft/black-friday-laesst-die-deutschen-kalt-a-5da73fc6-7a8c-401c-9199-0343e4c9c726#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T06:28:00+00:00"
+    },
+    {
+      "titel": "Wetter: Regen, Regen, Regen und vielleicht ein bisschen Schnee",
+      "link": "https://www.spiegel.de/panorama/wetter-regen-regen-regen-und-vielleicht-ein-bisschen-schnee-a-98408f2b-f57f-481e-897f-574d3636e1e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T06:19:00+00:00"
+    },
+    {
+      "titel": "Saudi-Arabien: Huthi-Angriff beschädigt höchsten Wolkenkratzer in Riad",
+      "link": "https://www.spiegel.de/ausland/saudi-arabien-huthi-angriff-beschaedigt-hoechsten-wolkenkratzer-in-riad-a-7e74aa9f-79f3-4d27-b131-2b661434dbfc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T06:14:00+00:00"
+    },
+    {
+      "titel": "Erbschaftsteuer: CDU und SPD fordern schärfere Regeln für Steuerschlupflöcher",
+      "link": "https://www.spiegel.de/politik/deutschland/erbschaftsteuer-cdu-und-spd-fordern-schaerfere-regeln-fuer-steuerschlupfloecher-a-61bda154-e21b-4e27-b33b-d9d8433ea4d6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T05:57:00+00:00"
+    },
+    {
+      "titel": "Lufthansa will an deutschen Drehkreuzen rund 1000 Stellen abbauen",
+      "link": "https://www.spiegel.de/wirtschaft/lufthansa-will-an-deutschen-drehkreuzen-rund-1000-stellen-abbauen-a-7be97521-a2ad-4a67-bc82-3c7453488916#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T05:56:00+00:00"
+    },
+    {
+      "titel": "USA: Trump warnt Musk vor Maga-Absprung",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-musk-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T05:51:21+00:00"
+    },
+    {
+      "titel": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
+      "link": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T05:48:01+00:00"
+    },
+    {
+      "titel": "Verteidigungsminister: Warum Boris Pistorius gerade jetzt Auschwitz besucht",
+      "link": "https://www.sueddeutsche.de/politik/boris-pistorius-auschwitz-afd-verbotsverfahren-verteidigungsminister-spd-li.3583141",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T05:32:46+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Schäden an Botschaften: EU bestellt russischen Vertreter ein",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-macron-nato-beitritt-berlin-koalition-der-willigen-botschaften-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T04:54:44+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Prien zu Jugendprotesten: „Wir dürfen das nicht kleinreden“",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-koalitionsausschuss-stromsteuer-spritpreisdeckel-gen-z-regelt-li.3580621",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T04:01:16+00:00"
+    },
+    {
+      "titel": "Pistorius will Militärpakt mit Polen ausbauen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T03:53:04+00:00"
+    },
+    {
+      "titel": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
+      "link": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T01:56:36+00:00"
+    },
+    {
+      "titel": "Gipfelnachbereitung bei „Maybrit Illner“: „Putin hätte doch nie geglaubt, dass die EU das fünf Jahre durchhalten würde“",
+      "link": "https://www.sueddeutsche.de/medien/talkrunde-zdf-krieg-sicherheitspolitik-experte-gipfel-merz-li.3583323",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T01:08:33+00:00"
     },
     {
       "titel": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
@@ -25,40 +139,10 @@
       "veroeffentlicht": "2026-11-19T21:02:03+00:00"
     },
     {
-      "titel": "Verkehrsminister Steffen Bilger verschweigt Zielwerte für die Netzsanierung",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/verkehrsminister-steffen-bilger-verschweigt-zielwerte-fuer-die-netzsanierung-a-bddca2c9-4c2c-4f3d-acc7-d55e10060516#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T20:56:00+00:00"
-    },
-    {
-      "titel": "Tokio Hotel: Pyro-Streit mit Stadt Leipzig geht in zweite Runde",
-      "link": "https://www.spiegel.de/panorama/leute/tokio-hotel-pyro-streit-mit-stadt-leipzig-geht-in-zweite-runde-a-2103acfe-3fa4-4ace-8ce8-df4cc7276816#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T20:48:00+00:00"
-    },
-    {
-      "titel": "Donald Trump: Und dann platzt der Anruf des US-Präsidenten in den Berliner Ukraine-Gipfel",
-      "link": "https://www.spiegel.de/politik/deutschland/donald-trump-und-dann-platzt-der-anruf-des-us-praesidenten-in-den-berliner-ukraine-gipfel-a-e17f1422-851e-42e5-95b7-fbbd0c8db3b8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T20:33:00+00:00"
-    },
-    {
-      "titel": "Irankrieg kostete die USA laut Pentagon bereits mehr als 48 Milliarden US-Dollar",
-      "link": "https://www.spiegel.de/ausland/irankrieg-kostete-die-usa-laut-pentagon-bereits-mehr-als-48-milliarden-us-dollar-a-5f7d996b-c5f0-4f3e-8d5f-14ddbfee7cf0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T20:28:00+00:00"
-    },
-    {
       "titel": "Koalition der Willigen: Die Europäer sind sich einig – dann ruft Trump aus der „Air Force One“ an",
       "link": "https://www.sueddeutsche.de/politik/ukraine-konferenz-berlin-friedrich-merz-donald-trump-jared-kushner-li.3582903",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-19T20:20:44+00:00"
-    },
-    {
-      "titel": "»GTA 6«: Sechs Erkenntnisse aus 24 Stunden6«",
-      "link": "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-bundeskanzler-merz-in-vice-city-so-springt-die-politik-auf-den-gta-6-hype-auf-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T20:13:00+00:00"
     },
     {
       "titel": "Strafbefehl gegen Tesla-Werksleiter",
@@ -67,46 +151,10 @@
       "veroeffentlicht": "2026-11-19T20:07:12+00:00"
     },
     {
-      "titel": "Kyjiw: Botschaftsgebäude bei russischen Angriffen beschädigt",
-      "link": "https://www.spiegel.de/ausland/kyjiw-botschaftsgebaeude-bei-russischen-angriffen-beschaedigt-a-df67b44c-8817-4748-9b7f-f7477d1dc696#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T20:02:00+00:00"
-    },
-    {
-      "titel": "Großbritannien: Führt Andy Burnham sein Land zurück in die EU?",
-      "link": "https://www.spiegel.de/ausland/grossbritannien-fuehrt-andy-burnham-sein-land-zurueck-in-die-eu-a-d7a5e0ec-b446-4bb1-bb87-6accdbaed99b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-19T19:49:00+00:00"
-    },
-    {
-      "titel": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-19T19:22:45+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Macron: Nato-Beitritt der Ukraine muss wieder auf den Tisch",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-macron-nato-beitritt-ukraine-starke-armee-berlin-koalition-der-willigen-li.3571967",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-19T18:45:37+00:00"
-    },
-    {
       "titel": "UN-Gericht: Ein Urteil, das Geschichte schreibt: Es war Völkermord an den Rohingya",
       "link": "https://www.sueddeutsche.de/politik/myanmar-internationaler-gerichtshof-den-haag-urteil-rohingya-voelkermord-li.3581811",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-19T18:32:32+00:00"
-    },
-    {
-      "titel": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
-      "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-19T18:30:48+00:00"
-    },
-    {
-      "titel": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-19T17:33:52+00:00"
     },
     {
       "titel": "Newsblog zu den Landtagswahlen: Siegmund kandidiert schon am 8. Dezember als Ministerpräsident",
@@ -115,58 +163,10 @@
       "veroeffentlicht": "2026-11-19T17:27:21+00:00"
     },
     {
-      "titel": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-19T16:54:27+00:00"
-    },
-    {
-      "titel": "Volkswagen will Nullrunden für zwei Jahre",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-19T16:11:57+00:00"
-    },
-    {
       "titel": "Podcast: „Auf den Punkt“: Xi-Putin-Trump-Gipfel: Großes Händeschütteln, nichts dahinter?",
       "link": "https://www.sueddeutsche.de/politik/dreiergipfel-xi-jinping-wladimir-putin-donald-trump-apec-li.3582936",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-19T16:09:02+00:00"
-    },
-    {
-      "titel": "Chemieindustrie: Warum BASF das Werben um Evonik stoppt",
-      "link": "https://www.sueddeutsche.de/wirtschaft/basf-evonik-aktienkurs-wuest-uebernahme-li.3583215",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-19T16:06:12+00:00"
-    },
-    {
-      "titel": "BASF bläst Evonik-Übernahme ab",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-19T15:55:43+00:00"
-    },
-    {
-      "titel": "Streaming: Remmo hier, Remmo da",
-      "link": "https://www.sueddeutsche.de/medien/clan-kriminalitaet-issa-remmo-goldmuenze-raub-bodemuseum-streaming-hbo-li.3581328",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-19T15:54:38+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: Rekord-Börsengang für KI-Entwickler Anthropic: 107,3 Milliarden Dollar",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-china-anthropic-li.3566658",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-19T15:34:45+00:00"
-    },
-    {
-      "titel": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-      "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-19T15:32:13+00:00"
-    },
-    {
-      "titel": "FC Bayern München: Vincent Kompany und das komplizierte Comeback von Jamal Musiala",
-      "link": "https://www.sueddeutsche.de/sport/kompany-rueckkehr-koeln-fc-bayern-li.3582990",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-19T14:30:06+00:00"
     }
   ]
 }
