@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-20T16:23:18+00:00",
+  "aktualisiert": "2026-11-20T22:49:45+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,106 +7,154 @@
   },
   "meldungen": [
     {
+      "titel": "Rummenigge über Musiala: „... dann sind diese Summen natürlich – mit Verlaub – nicht mehr darstellbar“",
+      "link": "https://www.sueddeutsche.de/sport/rummenigge-musiala-vertrag-bayern-li.3583898",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T22:35:49+00:00"
+    },
+    {
+      "titel": "1:1 gegen 1. FC Köln: Kane fehlt den Bayern monatelang",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-koeln-kompany-kane-olise-li.3583872",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T22:21:16+00:00"
+    },
+    {
+      "titel": "Jamal Musiala: Karl-Heinz Rummenigge bringt möglichen Gehaltsverzicht ins Spiel",
+      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-karl-heinz-rummenigge-bringt-moeglichen-gehaltsverzicht-ins-spiel-a-6cf975af-a2d9-408c-8a05-91e8e54421a0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T22:19:00+00:00"
+    },
+    {
+      "titel": "GTA 6 spielt am ersten Verkaufstag knapp 3,8 Milliarden Dollar ein",
+      "link": "https://www.spiegel.de/netzwelt/games/gta-6-spielt-am-ersten-verkaufstag-knapp-3-8-milliarden-dollar-ein-a-53c77687-45dc-47fb-a1d8-0aab58107f86#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T22:12:00+00:00"
+    },
+    {
+      "titel": "Brasilien: Ex-Präsident Jair Bolsonaro wegen Bauchschmerzen im Krankenhaus",
+      "link": "https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-wegen-bauchschmerzen-im-krankenhaus-a-8b18eae1-a059-4ce0-8438-d2827e18dade#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T22:02:00+00:00"
+    },
+    {
+      "titel": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
+      "link": "https://www.sueddeutsche.de/politik/gen-z-proteste-schueler-studierende-frankfurt-berlin-ausschreitungen-gewerkschaften-li.3582673",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T21:43:00+00:00"
+    },
+    {
+      "titel": "FC Bayern München: Verletzungssorgen nach Köln-Spiel – Kane und Olise angeschlagen",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungssorgen-nach-koeln-spiel-kane-und-olise-angeschlagen-a-f44477ac-00ee-44ab-a005-c26d0e6965ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T21:33:00+00:00"
+    },
+    {
+      "titel": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T21:28:00+00:00"
+    },
+    {
+      "titel": "Newsblog zu KI: Anthropic-Aktien rutschen fast auf den Ausgabekurs ab",
+      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-china-anthropic-verlust-li.3566658",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T21:23:29+00:00"
+    },
+    {
+      "titel": "Alaska: Trächtiger Finnwal von Kreuzfahrtschiff getötet",
+      "link": "https://www.spiegel.de/panorama/alaska-traechtiger-finnwal-von-kreuzfahrtschiff-getoetet-a-fde22b7d-97ec-4ae7-b222-70e32d0ca246#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T20:57:00+00:00"
+    },
+    {
+      "titel": "Tom Brady steigt offenbar beim FC Chelsea ein",
+      "link": "https://www.spiegel.de/sport/fussball/tom-brady-ex-football-star-steigt-offenbar-beim-fc-chelsea-ein-a-3ffeb2f1-3990-420f-b94d-4119c73c5699#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T20:53:00+00:00"
+    },
+    {
+      "titel": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T20:34:00+00:00"
+    },
+    {
+      "titel": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
+      "link": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T20:25:44+00:00"
+    },
+    {
+      "titel": "Deutsche Bank: Als Hacker aus China in das Geldhaus eindrangen",
+      "link": "https://www.spiegel.de/netzwelt/deutsche-bank-als-hacker-aus-china-in-das-geldhaus-eindrangen-a-72eae30d-1680-44c0-9807-ee586596fab3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T19:57:00+00:00"
+    },
+    {
+      "titel": "Melania Trump bei Amazon Prime: Neue Serie über ihr hartes Leben als First Lady",
+      "link": "https://www.spiegel.de/kultur/melania-trump-bei-amazon-prime-neue-serie-ueber-ihr-hartes-leben-als-first-lady-a-07129638-2780-4cf7-8972-7bd225db4643#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-20T19:18:00+00:00"
+    },
+    {
+      "titel": "Jugendliche erneut zu Tausenden auf den Straßen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T18:54:49+00:00"
+    },
+    {
+      "titel": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T18:25:36+00:00"
+    },
+    {
+      "titel": "USA: Trump droht US-Firmen wegen Rechenzentren im Ausland",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-rechenzentren-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T18:23:00+00:00"
+    },
+    {
+      "titel": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+      "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T17:44:07+00:00"
+    },
+    {
+      "titel": "Europaweite Aktionen: Proteste von „Gen Z regelt“: Hunderte Menschen demonstrieren in München",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-gen-z-regelt-demo-protest-koenigsplatz-li.3581103",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T17:24:27+00:00"
+    },
+    {
+      "titel": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T17:17:33+00:00"
+    },
+    {
+      "titel": "Gipfel in Antalya: Giftige Stimmung zwischen armen und reichen Ländern",
+      "link": "https://www.sueddeutsche.de/politik/klimakonferenz-cop31-antalya-fossile-energien-klimahilfen-li.3583491",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T17:14:00+00:00"
+    },
+    {
+      "titel": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T16:30:28+00:00"
+    },
+    {
+      "titel": "Pistorius in Polen: Eine Reise im Zeichen der Erinnerungsarbeit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-20T16:22:44+00:00"
+    },
+    {
       "titel": "Merz: Unterstützung der Ukraine bringt uns Dividende",
       "link": "https://www.tagesschau.de/wirtschaft/deutsch-ukrainisches-wirtschaftsforum-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-20T16:22:30+00:00"
-    },
-    {
-      "titel": "Polen wirft Russland gezielte Provokation vor",
-      "link": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T16:22:28+00:00"
-    },
-    {
-      "titel": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T16:20:16+00:00"
-    },
-    {
-      "titel": "Manuela Schwesig wird an der Galle operiert",
-      "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-wird-an-der-galle-operiert-a-9b402c57-fbbd-426f-8fda-ea2a869fdc60#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T16:20:00+00:00"
-    },
-    {
-      "titel": "Schleswig-Holstein: Zweijährige bei Fenstersturz lebensgefährlich verletzt",
-      "link": "https://www.spiegel.de/panorama/schleswig-holstein-zweijaehrige-bei-fenstersturz-lebensgefaehrlich-verletzt-a-21bf9f2d-67de-44dd-96b2-cdca4b4c2734#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T16:17:00+00:00"
-    },
-    {
-      "titel": "Verhandlungen dauern an - Weltklimakonferenz geht in die Verlängerung",
-      "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T16:15:00+00:00"
-    },
-    {
-      "titel": "Uno-Klimakonferenz in Antalya: Streit über fossile Energien – Klimagipfel geht in die Verlängerung",
-      "link": "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-streit-ueber-fossile-energien-klimagipfel-geht-in-die-verlaengerung-a-acb69199-ffa2-4b15-ad2b-62145c0613c8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T16:15:00+00:00"
-    },
-    {
-      "titel": "Deutsche Bank: Islamisten gesucht. Buddhisten und Dönerhersteller gefunden",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-islamisten-gesucht-buddhisten-und-doenerhersteller-gefunden-a-ca7c78d3-5ee1-4a47-acfb-21ba6832b6e7#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T16:01:00+00:00"
-    },
-    {
-      "titel": "Einer von Europols \"Most Wanted\" in Istanbul gefasst",
-      "link": "https://www.tagesschau.de/investigativ/ndr/festnahme-tuerkei-napoleon-kriminalitaet-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T16:00:47+00:00"
-    },
-    {
-      "titel": "Jennifer Lawcrene: »Ich habe Implantate. Sie sind neu«, sagt Jennifer Lawrence",
-      "link": "https://www.spiegel.de/panorama/leute/jennifer-lawcrene-ich-habe-implantate-sie-sind-neu-sagt-jennifer-lawrence-a-1836de0c-e0a8-4230-82b3-2966c07e7b34#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T15:53:00+00:00"
-    },
-    {
-      "titel": "Katar: Friedrich Merz begrüßt Milliarden-Investitionen in Deutschland",
-      "link": "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T15:52:00+00:00"
-    },
-    {
-      "titel": "Deutsch-ukrainisches Wirtschaftsforum: Für Friedrich Merz geht es in der Ukraine auch ums Geschäft",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/deutsch-ukrainisches-wirtschaftsforum-fuer-friedrich-merz-geht-es-in-der-ukraine-auch-ums-geschaeft-a-2848de43-1eaa-4c1a-9657-61708a4cd52c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T15:50:00+00:00"
-    },
-    {
-      "titel": "Prien verteidigt Kürzungen bei \"Demokratie leben!\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-demokratiefoerderung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T15:49:38+00:00"
-    },
-    {
-      "titel": "Nürnberg: Dealer sollen Mädchen mit Drogen gefügig gemacht und dann vergewaltigt haben",
-      "link": "https://www.spiegel.de/panorama/justiz/nuernberg-dealer-sollen-maedchen-mit-drogen-gefuegig-gemacht-und-dann-vergewaltigt-haben-a-cc645195-6d9b-4f2e-9b33-db765d6b28d4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T15:43:00+00:00"
-    },
-    {
-      "titel": "Boris Pistorius entschuldigt sich bei US-Verteidigungsstaatssekretär Elbridge Colby für Wortwahl",
-      "link": "https://www.spiegel.de/ausland/boris-pistorius-entschuldigt-sich-bei-us-verteidigungsstaatssekretaer-elbridge-colby-fuer-wortwahl-a-4c3632a7-2bb0-436f-a4c1-1384a9733a56#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T15:39:00+00:00"
-    },
-    {
-      "titel": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T15:03:38+00:00"
-    },
-    {
-      "titel": "Kritik an Ausnahmen bei Erbschaftsteuer nach Recherchen über Döpfner-Schenkung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T14:58:12+00:00"
     },
     {
       "titel": "Regenstauf: Ermittlungen nach Rattenfund in Norma-Zentrallager",
@@ -115,58 +163,10 @@
       "veroeffentlicht": "2026-11-20T14:55:00+00:00"
     },
     {
-      "titel": "Jugendliche erneut zu Tausenden auf den Straßen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T14:47:44+00:00"
-    },
-    {
-      "titel": "Grünen-Politikerin: Annalena Baerbock wird Beraterin",
-      "link": "https://www.sueddeutsche.de/politik/annalena-baerbock-fgs-global-gruene-beraterin-aussenministerin-li.3583725",
+      "titel": "Grüne Bürgermeisterin: Was Münchens mächtigste Politikerin in der Stadt verändern will",
+      "link": "https://www.sueddeutsche.de/muenchen/muenchen-mona-fuchs-buergermeisterin-kultur-interview-li.3575569",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T14:37:08+00:00"
-    },
-    {
-      "titel": "Digitalisierung: Wie die neue digitale Brieftasche den Alltag erleichtern soll",
-      "link": "https://www.sueddeutsche.de/politik/einfuehrung-digitale-brieftasche-app-wildberger-li.3583474",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T14:31:07+00:00"
-    },
-    {
-      "titel": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
-      "link": "https://www.sueddeutsche.de/politik/gen-z-proteste-schueler-studierende-frankfurt-berlin-ausschreitungen-gewerkschaften-li.3582673",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T14:04:56+00:00"
-    },
-    {
-      "titel": "Schwarz-rote Koalition: Erstaunlich, wie schlecht selbst in der CDU über Merz geredet wird",
-      "link": "https://www.sueddeutsche.de/politik/bundesregierung-merz-cdu-koalition-fehler-li.3583146",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T14:00:29+00:00"
-    },
-    {
-      "titel": "Präsidentschaftswahl in Frankreich: Der Nächste, der Le Pen stoppen will",
-      "link": "https://www.sueddeutsche.de/politik/praesidentschaftswahl-frankreich-2027-dominique-de-villepin-marine-le-pen-li.3583485",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T13:41:26+00:00"
-    },
-    {
-      "titel": "Gerichtsmedizin: Warum Obduktionen manchmal länger dauern",
-      "link": "https://www.sueddeutsche.de/panorama/hubert-aiwanger-obduktion-todesursache-rechtsmedizin-persoenlichkeitsrecht-li.3583182",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T13:13:21+00:00"
-    },
-    {
-      "titel": "Zweifel an Epo-Analytik: Beweise gegen Mario Vuskovic? Reichen wir nach …",
-      "link": "https://www.sueddeutsche.de/sport/vuskovic-hsv-epo-doping-zweifel-test-sar-page-studie-li.3583171",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T12:37:10+00:00"
-    },
-    {
-      "titel": "Russland: Die Ballade von Sergej und Andrej",
-      "link": "https://www.sueddeutsche.de/kultur/russland-sergej-grey-wiese-sergej-all-right-homosexualitaet-li.3579926",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T12:05:32+00:00"
+      "veroeffentlicht": "2026-11-20T14:42:41+00:00"
     }
   ]
 }
