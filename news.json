@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-20T22:49:45+00:00",
+  "aktualisiert": "2026-11-21T03:59:17+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,58 @@
   },
   "meldungen": [
     {
-      "titel": "Rummenigge über Musiala: „... dann sind diese Summen natürlich – mit Verlaub – nicht mehr darstellbar“",
-      "link": "https://www.sueddeutsche.de/sport/rummenigge-musiala-vertrag-bayern-li.3583898",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T22:35:49+00:00"
+      "titel": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
+      "link": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T03:50:50+00:00"
+    },
+    {
+      "titel": "Peru: Erdbeben der Stärke 6,7 – Erdrutsche und Steinschläge im Zentrum",
+      "link": "https://www.spiegel.de/ausland/peru-erdbeben-der-staerke-6-7-erdrutsche-und-steinschlaege-im-zentrum-a-5a6f565a-d414-45ea-a6eb-bff84bc57829#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T03:08:00+00:00"
+    },
+    {
+      "titel": "Tokio Hotel: Städtetags-Präsident kritisiert Band nach Pyro-Streit scharf",
+      "link": "https://www.spiegel.de/panorama/tokio-hotel-staedtetags-praesident-kritisiert-band-nach-pyro-streit-scharf-a-c3c4308b-45ae-4e40-9b8b-3cce8b85452c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T02:40:00+00:00"
+    },
+    {
+      "titel": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T02:39:59+00:00"
+    },
+    {
+      "titel": "Jugendliche erneut zu Tausenden auf den Straßen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T02:38:36+00:00"
+    },
+    {
+      "titel": "Kalifornien: Schuldspruch im Prozess um Palisades-Feuer in Los Angeles",
+      "link": "https://www.spiegel.de/ausland/kalifornien-schuldspruch-im-prozess-um-palisades-feuer-in-los-angeles-a-a13a85a1-96cd-440c-a850-5927af4d6897#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T01:26:00+00:00"
+    },
+    {
+      "titel": "Verbrenner-Aus: Verkehrsminister Steffen Bilger fordert Bekenntnis zu Deutschland",
+      "link": "https://www.spiegel.de/wirtschaft/verbrenner-aus-verkehrsminister-steffen-bilger-fordert-bekenntnis-zu-deutschland-a-8059c9a8-fb59-4254-91cd-d70b666eb42b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T00:30:00+00:00"
     },
     {
       "titel": "1:1 gegen 1. FC Köln: Kane fehlt den Bayern monatelang",
       "link": "https://www.sueddeutsche.de/sport/fc-bayern-koeln-kompany-kane-olise-li.3583872",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T22:21:16+00:00"
+      "veroeffentlicht": "2026-11-20T23:30:30+00:00"
+    },
+    {
+      "titel": "Rummenigge über Musiala: „... dann sind diese Summen natürlich – mit Verlaub – nicht mehr darstellbar“",
+      "link": "https://www.sueddeutsche.de/sport/rummenigge-musiala-vertrag-bayern-li.3583898",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-20T22:35:49+00:00"
     },
     {
       "titel": "Jamal Musiala: Karl-Heinz Rummenigge bringt möglichen Gehaltsverzicht ins Spiel",
@@ -67,40 +109,10 @@
       "veroeffentlicht": "2026-11-20T20:57:00+00:00"
     },
     {
-      "titel": "Tom Brady steigt offenbar beim FC Chelsea ein",
-      "link": "https://www.spiegel.de/sport/fussball/tom-brady-ex-football-star-steigt-offenbar-beim-fc-chelsea-ein-a-3ffeb2f1-3990-420f-b94d-4119c73c5699#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T20:53:00+00:00"
-    },
-    {
-      "titel": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T20:34:00+00:00"
-    },
-    {
       "titel": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
       "link": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-20T20:25:44+00:00"
-    },
-    {
-      "titel": "Deutsche Bank: Als Hacker aus China in das Geldhaus eindrangen",
-      "link": "https://www.spiegel.de/netzwelt/deutsche-bank-als-hacker-aus-china-in-das-geldhaus-eindrangen-a-72eae30d-1680-44c0-9807-ee586596fab3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T19:57:00+00:00"
-    },
-    {
-      "titel": "Melania Trump bei Amazon Prime: Neue Serie über ihr hartes Leben als First Lady",
-      "link": "https://www.spiegel.de/kultur/melania-trump-bei-amazon-prime-neue-serie-ueber-ihr-hartes-leben-als-first-lady-a-07129638-2780-4cf7-8972-7bd225db4643#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T19:18:00+00:00"
-    },
-    {
-      "titel": "Jugendliche erneut zu Tausenden auf den Straßen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T18:54:49+00:00"
     },
     {
       "titel": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
@@ -143,18 +155,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-20T16:30:28+00:00"
-    },
-    {
-      "titel": "Pistorius in Polen: Eine Reise im Zeichen der Erinnerungsarbeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T16:22:44+00:00"
-    },
-    {
-      "titel": "Merz: Unterstützung der Ukraine bringt uns Dividende",
-      "link": "https://www.tagesschau.de/wirtschaft/deutsch-ukrainisches-wirtschaftsforum-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T16:22:30+00:00"
     },
     {
       "titel": "Regenstauf: Ermittlungen nach Rattenfund in Norma-Zentrallager",
