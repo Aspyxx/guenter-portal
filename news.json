@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-21T03:59:17+00:00",
+  "aktualisiert": "2026-11-21T12:41:47+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,46 +7,154 @@
   },
   "meldungen": [
     {
-      "titel": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
-      "link": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
+      "titel": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T03:50:50+00:00"
+      "veroeffentlicht": "2026-11-21T12:36:54+00:00"
     },
     {
-      "titel": "Peru: Erdbeben der Stärke 6,7 – Erdrutsche und Steinschläge im Zentrum",
-      "link": "https://www.spiegel.de/ausland/peru-erdbeben-der-staerke-6-7-erdrutsche-und-steinschlaege-im-zentrum-a-5a6f565a-d414-45ea-a6eb-bff84bc57829#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T03:08:00+00:00"
-    },
-    {
-      "titel": "Tokio Hotel: Städtetags-Präsident kritisiert Band nach Pyro-Streit scharf",
-      "link": "https://www.spiegel.de/panorama/tokio-hotel-staedtetags-praesident-kritisiert-band-nach-pyro-streit-scharf-a-c3c4308b-45ae-4e40-9b8b-3cce8b85452c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T02:40:00+00:00"
-    },
-    {
-      "titel": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
+      "titel": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T02:39:59+00:00"
+      "veroeffentlicht": "2026-11-21T12:13:27+00:00"
     },
     {
-      "titel": "Jugendliche erneut zu Tausenden auf den Straßen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+      "titel": "Verletzung von Harry Kane: Bayerns schwarzer Freitag",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-kane-verletzung-musiala-rummenigge-kritik-li.3583903",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T12:04:30+00:00"
+    },
+    {
+      "titel": "Mick Jagger: Rolling Stones-Frontmann Mick Jagger wundert sich über Vorbehalte gegen Migration",
+      "link": "https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T11:40:00+00:00"
+    },
+    {
+      "titel": "Wolodymyr Selenskyj: Russisches Prestigeprojekt Krimbrücke habe keine Zukunft",
+      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T11:37:00+00:00"
+    },
+    {
+      "titel": "Beisetzung von Hubert Aiwanger: Großer Abschied in einem kleinen Dorf",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-trauerfeier-niederbayern-bilder-li.3583295",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T11:36:54+00:00"
+    },
+    {
+      "titel": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
+      "link": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T02:38:36+00:00"
+      "veroeffentlicht": "2026-11-21T11:19:36+00:00"
     },
     {
-      "titel": "Kalifornien: Schuldspruch im Prozess um Palisades-Feuer in Los Angeles",
-      "link": "https://www.spiegel.de/ausland/kalifornien-schuldspruch-im-prozess-um-palisades-feuer-in-los-angeles-a-a13a85a1-96cd-440c-a850-5927af4d6897#ref=rss",
+      "titel": "NBA: Franz Wagner gewinnt erstes Duell gegen Bruder Moritz Wagner",
+      "link": "https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner-a-74bd147a-2e83-4378-b74d-c0698dd54090#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T01:26:00+00:00"
+      "veroeffentlicht": "2026-11-21T11:13:00+00:00"
     },
     {
-      "titel": "Verbrenner-Aus: Verkehrsminister Steffen Bilger fordert Bekenntnis zu Deutschland",
-      "link": "https://www.spiegel.de/wirtschaft/verbrenner-aus-verkehrsminister-steffen-bilger-fordert-bekenntnis-zu-deutschland-a-8059c9a8-fb59-4254-91cd-d70b666eb42b#ref=rss",
+      "titel": "Tucker Carlson: Er hypnotisiert Millionen, er wirkt entfesselt. Niemand bremst ihn",
+      "link": "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T00:30:00+00:00"
+      "veroeffentlicht": "2026-11-21T11:04:00+00:00"
+    },
+    {
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T11:00:00+00:00"
+    },
+    {
+      "titel": "Strom und Gas: Verivox rechnet mit steigenden Kosten",
+      "link": "https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten-a-d6900d1e-e5cd-4399-a6ac-ca93f756be7b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T10:50:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Selenskij: Krim-Brücke wird nicht stehen bleiben",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krim-bruecke-angriffe-selenskij-russland-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T10:30:00+00:00"
+    },
+    {
+      "titel": "Manuel Neuer: Torwart absolviert Reha in Brasilien mit Bayern-Erlaubnis",
+      "link": "https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T10:24:00+00:00"
+    },
+    {
+      "titel": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T10:20:52+00:00"
+    },
+    {
+      "titel": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T10:16:17+00:00"
+    },
+    {
+      "titel": "Beisetzung in seiner Heimat: Trauerfeier für Hubert Aiwanger in Inkofen",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-beisetzung-polizei-li.3581938",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T10:10:51+00:00"
+    },
+    {
+      "titel": "Erdbeben erschüttert Perus Andenregion",
+      "link": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T09:51:28+00:00"
+    },
+    {
+      "titel": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T09:39:17+00:00"
+    },
+    {
+      "titel": "Achtsamkeit: Ich will meditieren, kriege es aber nicht hin. Was tun?",
+      "link": "https://www.spiegel.de/gesundheit/achtsamkeit-ich-will-meditieren-kriege-es-aber-nicht-hin-was-tun-a-0bd4f40b-a27e-481f-8c4a-88a34271fa0c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T09:36:00+00:00"
+    },
+    {
+      "titel": "JHV des FC Bayern: Hainer erhält Applaus und verkündet 500 000 Mitglieder",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-jhv-jahreshauptversammlung-liveticker-li.3583987",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T09:23:08+00:00"
+    },
+    {
+      "titel": "USA: Katze verzögert Flugzeugstart in Boston",
+      "link": "https://www.spiegel.de/panorama/usa-katze-verzoegert-flugzeugstart-in-boston-a-b5bac02e-17de-4f5e-9df1-ffa8c2acb76f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T09:19:00+00:00"
+    },
+    {
+      "titel": "Südafrikas vermeidbare Wasserkrise",
+      "link": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T08:27:21+00:00"
+    },
+    {
+      "titel": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T08:26:38+00:00"
+    },
+    {
+      "titel": "Podcast: „Auf den Punkt“: Können wir die Klimakatastrophe noch verhindern, Harald Lesch?",
+      "link": "https://www.sueddeutsche.de/wissen/podcast-nachrichten-auf-den-punkt-cop31-klimawandel-harald-lesch-li.3581025",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T06:00:00+00:00"
+    },
+    {
+      "titel": "COP31 in Antalya: Klimagipfel verlängert – Ringen um einen Konsens",
+      "link": "https://www.sueddeutsche.de/politik/cop31-antalya-klimakonferenz-li.3583943",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T04:20:31+00:00"
     },
     {
       "titel": "1:1 gegen 1. FC Köln: Kane fehlt den Bayern monatelang",
@@ -59,114 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/rummenigge-musiala-vertrag-bayern-li.3583898",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-20T22:35:49+00:00"
-    },
-    {
-      "titel": "Jamal Musiala: Karl-Heinz Rummenigge bringt möglichen Gehaltsverzicht ins Spiel",
-      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-karl-heinz-rummenigge-bringt-moeglichen-gehaltsverzicht-ins-spiel-a-6cf975af-a2d9-408c-8a05-91e8e54421a0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T22:19:00+00:00"
-    },
-    {
-      "titel": "GTA 6 spielt am ersten Verkaufstag knapp 3,8 Milliarden Dollar ein",
-      "link": "https://www.spiegel.de/netzwelt/games/gta-6-spielt-am-ersten-verkaufstag-knapp-3-8-milliarden-dollar-ein-a-53c77687-45dc-47fb-a1d8-0aab58107f86#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T22:12:00+00:00"
-    },
-    {
-      "titel": "Brasilien: Ex-Präsident Jair Bolsonaro wegen Bauchschmerzen im Krankenhaus",
-      "link": "https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-wegen-bauchschmerzen-im-krankenhaus-a-8b18eae1-a059-4ce0-8438-d2827e18dade#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T22:02:00+00:00"
-    },
-    {
-      "titel": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
-      "link": "https://www.sueddeutsche.de/politik/gen-z-proteste-schueler-studierende-frankfurt-berlin-ausschreitungen-gewerkschaften-li.3582673",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T21:43:00+00:00"
-    },
-    {
-      "titel": "FC Bayern München: Verletzungssorgen nach Köln-Spiel – Kane und Olise angeschlagen",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungssorgen-nach-koeln-spiel-kane-und-olise-angeschlagen-a-f44477ac-00ee-44ab-a005-c26d0e6965ef#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T21:33:00+00:00"
-    },
-    {
-      "titel": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T21:28:00+00:00"
-    },
-    {
-      "titel": "Newsblog zu KI: Anthropic-Aktien rutschen fast auf den Ausgabekurs ab",
-      "link": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-china-anthropic-verlust-li.3566658",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T21:23:29+00:00"
-    },
-    {
-      "titel": "Alaska: Trächtiger Finnwal von Kreuzfahrtschiff getötet",
-      "link": "https://www.spiegel.de/panorama/alaska-traechtiger-finnwal-von-kreuzfahrtschiff-getoetet-a-fde22b7d-97ec-4ae7-b222-70e32d0ca246#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-20T20:57:00+00:00"
-    },
-    {
-      "titel": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
-      "link": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T20:25:44+00:00"
-    },
-    {
-      "titel": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T18:25:36+00:00"
-    },
-    {
-      "titel": "USA: Trump droht US-Firmen wegen Rechenzentren im Ausland",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-rechenzentren-li.3578585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T18:23:00+00:00"
-    },
-    {
-      "titel": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
-      "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T17:44:07+00:00"
-    },
-    {
-      "titel": "Europaweite Aktionen: Proteste von „Gen Z regelt“: Hunderte Menschen demonstrieren in München",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-gen-z-regelt-demo-protest-koenigsplatz-li.3581103",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T17:24:27+00:00"
-    },
-    {
-      "titel": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T17:17:33+00:00"
-    },
-    {
-      "titel": "Gipfel in Antalya: Giftige Stimmung zwischen armen und reichen Ländern",
-      "link": "https://www.sueddeutsche.de/politik/klimakonferenz-cop31-antalya-fossile-energien-klimahilfen-li.3583491",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T17:14:00+00:00"
-    },
-    {
-      "titel": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-20T16:30:28+00:00"
-    },
-    {
-      "titel": "Regenstauf: Ermittlungen nach Rattenfund in Norma-Zentrallager",
-      "link": "https://www.sueddeutsche.de/bayern/regenstauf-norma-zentrallager-ratten-staatsanwaltschaft-li.3583557",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T14:55:00+00:00"
-    },
-    {
-      "titel": "Grüne Bürgermeisterin: Was Münchens mächtigste Politikerin in der Stadt verändern will",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-mona-fuchs-buergermeisterin-kultur-interview-li.3575569",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T14:42:41+00:00"
     }
   ]
 }
