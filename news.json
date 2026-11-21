@@ -1,11 +1,155 @@
 {
-  "aktualisiert": "2026-11-21T12:41:47+00:00",
+  "aktualisiert": "2026-11-21T19:49:20+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
+      "link": "https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T19:27:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnen-frachter-finnland-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T19:20:00+00:00"
+    },
+    {
+      "titel": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T19:10:03+00:00"
+    },
+    {
+      "titel": "Afghanistan: Wie brutal die Taliban die medizinische Versorgung von Frauen unterbinden",
+      "link": "https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T19:02:00+00:00"
+    },
+    {
+      "titel": "Paolo Bulgari ist tot",
+      "link": "https://www.spiegel.de/panorama/leute/paolo-bulgari-ist-tot-a-ab7092f4-e320-4cd2-8262-9f86d8399442#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T19:00:00+00:00"
+    },
+    {
+      "titel": "Thore Schölermann über den Wechsel vom Moderator zum McDonald's-Unternehmer",
+      "link": "https://www.spiegel.de/wirtschaft/thore-schoelermann-ueber-den-wechsel-vom-moderator-zum-mcdonalds-unternehmer-a-db3f070f-19e6-4d63-97b9-02ac76a21c37#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T18:29:00+00:00"
+    },
+    {
+      "titel": "EU und Indonesien unterzeichnen weitreichenden Handelspakt",
+      "link": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T18:25:00+00:00"
+    },
+    {
+      "titel": "VW, Mercedes, BMW: Wie Chinas E-Autos von der Absatzkrise in Deutschland profitieren – SPIEGEL TV",
+      "link": "https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T17:46:00+00:00"
+    },
+    {
+      "titel": "Tatjana Kim: Chefin von russischem Onlinehändler Wildberries tritt zurück",
+      "link": "https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T17:33:00+00:00"
+    },
+    {
+      "titel": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+      "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T17:32:19+00:00"
+    },
+    {
+      "titel": "Borussia Dortmund: Nmecha trifft – und zeigt einen anderen Jubel",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-bvb-gladbach-nmecha-jubel-krone-tabellenfuehrer-li.3584099",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T17:05:36+00:00"
+    },
+    {
+      "titel": "Kaufland ruft Speisekartoffeln von Parmentine zurück",
+      "link": "https://www.spiegel.de/wirtschaft/kaufland-ruft-speisekartoffeln-von-parmentine-zurueck-a-1dcaa54e-82ac-456d-a997-7b4b5824b793#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T17:00:00+00:00"
+    },
+    {
+      "titel": "Friedrich Christian »Mick« Flick: Spross einer Industriellendynastie ist tot",
+      "link": "https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T17:00:00+00:00"
+    },
+    {
+      "titel": "Europa: EU-Ratspräsident Costa will Tech-Konzerne zur Kasse bitten",
+      "link": "https://www.sueddeutsche.de/politik/eu-antonio-costa-eu-haushalt-friedrich-merz-steuer-digitalkonzerne-li.3582105",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T16:51:50+00:00"
+    },
+    {
+      "titel": "Bundesliga: Zwei verschossene Elfmeter in drei Minuten",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-spiele-ergebnisse-leipzig-leverkusen-tore-li.3584089",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T16:43:59+00:00"
+    },
+    {
+      "titel": "JHV des FC Bayern: Nach fünf Stunden äußert ein Neurologe Kritik an Rummenigges Umgang mit Musiala",
+      "link": "https://www.sueddeutsche.de/sport/musiala-bayern-rummenigge-vertrag-gehalt-li.3584016",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T16:22:37+00:00"
+    },
+    {
+      "titel": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+      "link": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T15:55:59+00:00"
+    },
+    {
+      "titel": "Beisetzung von Hubert Aiwanger: Großer Abschied in einem kleinen Dorf",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-trauerfeier-niederbayern-bilder-li.3583295",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T15:40:00+00:00"
+    },
+    {
+      "titel": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
+      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T15:36:57+00:00"
+    },
+    {
+      "titel": "Nach Rücktritt von Verena Bentele: Doris Rauscher ist neue Vorsitzende des VdK Bayern",
+      "link": "https://www.sueddeutsche.de/bayern/vdk-bayern-doris-rauscher-verena-bentele-sozialverband-nuernberg-li.3584102",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T15:14:10+00:00"
+    },
+    {
+      "titel": "Beisetzung von Hubert Aiwanger: „Du warst ein Unikat, einer, den man nicht ersetzen kann“",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-niederbayern-freie-waehler-li.3583841",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T14:49:40+00:00"
+    },
+    {
+      "titel": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
+      "link": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T14:07:14+00:00"
+    },
+    {
+      "titel": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
+      "link": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T13:49:56+00:00"
+    },
+    {
+      "titel": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T12:48:02+00:00"
+    },
     {
       "titel": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
@@ -19,154 +163,10 @@
       "veroeffentlicht": "2026-11-21T12:13:27+00:00"
     },
     {
-      "titel": "Verletzung von Harry Kane: Bayerns schwarzer Freitag",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-kane-verletzung-musiala-rummenigge-kritik-li.3583903",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T12:04:30+00:00"
-    },
-    {
-      "titel": "Mick Jagger: Rolling Stones-Frontmann Mick Jagger wundert sich über Vorbehalte gegen Migration",
-      "link": "https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T11:40:00+00:00"
-    },
-    {
-      "titel": "Wolodymyr Selenskyj: Russisches Prestigeprojekt Krimbrücke habe keine Zukunft",
-      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T11:37:00+00:00"
-    },
-    {
-      "titel": "Beisetzung von Hubert Aiwanger: Großer Abschied in einem kleinen Dorf",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-trauerfeier-niederbayern-bilder-li.3583295",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T11:36:54+00:00"
-    },
-    {
       "titel": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
       "link": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-21T11:19:36+00:00"
-    },
-    {
-      "titel": "NBA: Franz Wagner gewinnt erstes Duell gegen Bruder Moritz Wagner",
-      "link": "https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner-a-74bd147a-2e83-4378-b74d-c0698dd54090#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T11:13:00+00:00"
-    },
-    {
-      "titel": "Tucker Carlson: Er hypnotisiert Millionen, er wirkt entfesselt. Niemand bremst ihn",
-      "link": "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T11:04:00+00:00"
-    },
-    {
-      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T11:00:00+00:00"
-    },
-    {
-      "titel": "Strom und Gas: Verivox rechnet mit steigenden Kosten",
-      "link": "https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten-a-d6900d1e-e5cd-4399-a6ac-ca93f756be7b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T10:50:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Selenskij: Krim-Brücke wird nicht stehen bleiben",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krim-bruecke-angriffe-selenskij-russland-li.3571967",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T10:30:00+00:00"
-    },
-    {
-      "titel": "Manuel Neuer: Torwart absolviert Reha in Brasilien mit Bayern-Erlaubnis",
-      "link": "https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T10:24:00+00:00"
-    },
-    {
-      "titel": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T10:20:52+00:00"
-    },
-    {
-      "titel": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T10:16:17+00:00"
-    },
-    {
-      "titel": "Beisetzung in seiner Heimat: Trauerfeier für Hubert Aiwanger in Inkofen",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-beisetzung-polizei-li.3581938",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T10:10:51+00:00"
-    },
-    {
-      "titel": "Erdbeben erschüttert Perus Andenregion",
-      "link": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T09:51:28+00:00"
-    },
-    {
-      "titel": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T09:39:17+00:00"
-    },
-    {
-      "titel": "Achtsamkeit: Ich will meditieren, kriege es aber nicht hin. Was tun?",
-      "link": "https://www.spiegel.de/gesundheit/achtsamkeit-ich-will-meditieren-kriege-es-aber-nicht-hin-was-tun-a-0bd4f40b-a27e-481f-8c4a-88a34271fa0c#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T09:36:00+00:00"
-    },
-    {
-      "titel": "JHV des FC Bayern: Hainer erhält Applaus und verkündet 500 000 Mitglieder",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-jhv-jahreshauptversammlung-liveticker-li.3583987",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T09:23:08+00:00"
-    },
-    {
-      "titel": "USA: Katze verzögert Flugzeugstart in Boston",
-      "link": "https://www.spiegel.de/panorama/usa-katze-verzoegert-flugzeugstart-in-boston-a-b5bac02e-17de-4f5e-9df1-ffa8c2acb76f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T09:19:00+00:00"
-    },
-    {
-      "titel": "Südafrikas vermeidbare Wasserkrise",
-      "link": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T08:27:21+00:00"
-    },
-    {
-      "titel": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T08:26:38+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Können wir die Klimakatastrophe noch verhindern, Harald Lesch?",
-      "link": "https://www.sueddeutsche.de/wissen/podcast-nachrichten-auf-den-punkt-cop31-klimawandel-harald-lesch-li.3581025",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T06:00:00+00:00"
-    },
-    {
-      "titel": "COP31 in Antalya: Klimagipfel verlängert – Ringen um einen Konsens",
-      "link": "https://www.sueddeutsche.de/politik/cop31-antalya-klimakonferenz-li.3583943",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T04:20:31+00:00"
-    },
-    {
-      "titel": "1:1 gegen 1. FC Köln: Kane fehlt den Bayern monatelang",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-koeln-kompany-kane-olise-li.3583872",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T23:30:30+00:00"
-    },
-    {
-      "titel": "Rummenigge über Musiala: „... dann sind diese Summen natürlich – mit Verlaub – nicht mehr darstellbar“",
-      "link": "https://www.sueddeutsche.de/sport/rummenigge-musiala-vertrag-bayern-li.3583898",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-20T22:35:49+00:00"
     }
   ]
 }
