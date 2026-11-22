@@ -1,11 +1,59 @@
 {
-  "aktualisiert": "2026-11-21T19:49:20+00:00",
+  "aktualisiert": "2026-11-22T00:21:22+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Wahl in Israel: Gadi Eisenkot trifft Benjamin Netanyahus Partei zu Koalitionsgesprächen",
+      "link": "https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T22:22:00+00:00"
+    },
+    {
+      "titel": "Frankreich: Deutlich weniger Teilnehmer am sechsten Protestsamstag",
+      "link": "https://www.spiegel.de/ausland/frankreich-deutlich-weniger-teilnehmer-am-sechsten-protestsamstag-a-4e6b94d5-2440-450f-a18e-6fba793ebcf8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T21:22:00+00:00"
+    },
+    {
+      "titel": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T20:17:57+00:00"
+    },
+    {
+      "titel": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
+      "link": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T20:13:00+00:00"
+    },
+    {
+      "titel": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
+      "link": "https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T20:10:00+00:00"
+    },
+    {
+      "titel": "Beisetzung von Hubert Aiwanger: „Du warst ein Unikat, einer, den man nicht ersetzen kann“",
+      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-niederbayern-freie-waehler-li.3583841",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-21T20:00:00+00:00"
+    },
+    {
+      "titel": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-21T19:54:06+00:00"
+    },
+    {
+      "titel": "Polen: Abgestürztes Flugobjekt war russische Rakete",
+      "link": "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-21T19:50:00+00:00"
+    },
     {
       "titel": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
       "link": "https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss",
@@ -31,7 +79,7 @@
       "veroeffentlicht": "2026-11-21T19:02:00+00:00"
     },
     {
-      "titel": "Paolo Bulgari ist tot",
+      "titel": "Paolo Bulgari ist tot: »Der größte Juwelier unserer Zeit« stirbt mit 89 Jahren",
       "link": "https://www.spiegel.de/panorama/leute/paolo-bulgari-ist-tot-a-ab7092f4-e320-4cd2-8262-9f86d8399442#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-11-21T19:00:00+00:00"
@@ -41,24 +89,6 @@
       "link": "https://www.spiegel.de/wirtschaft/thore-schoelermann-ueber-den-wechsel-vom-moderator-zum-mcdonalds-unternehmer-a-db3f070f-19e6-4d63-97b9-02ac76a21c37#ref=rss",
       "quelle": "SPIEGEL",
       "veroeffentlicht": "2026-11-21T18:29:00+00:00"
-    },
-    {
-      "titel": "EU und Indonesien unterzeichnen weitreichenden Handelspakt",
-      "link": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T18:25:00+00:00"
-    },
-    {
-      "titel": "VW, Mercedes, BMW: Wie Chinas E-Autos von der Absatzkrise in Deutschland profitieren – SPIEGEL TV",
-      "link": "https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T17:46:00+00:00"
-    },
-    {
-      "titel": "Tatjana Kim: Chefin von russischem Onlinehändler Wildberries tritt zurück",
-      "link": "https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T17:33:00+00:00"
     },
     {
       "titel": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
@@ -71,18 +101,6 @@
       "link": "https://www.sueddeutsche.de/sport/bundesliga-bvb-gladbach-nmecha-jubel-krone-tabellenfuehrer-li.3584099",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-21T17:05:36+00:00"
-    },
-    {
-      "titel": "Kaufland ruft Speisekartoffeln von Parmentine zurück",
-      "link": "https://www.spiegel.de/wirtschaft/kaufland-ruft-speisekartoffeln-von-parmentine-zurueck-a-1dcaa54e-82ac-456d-a997-7b4b5824b793#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T17:00:00+00:00"
-    },
-    {
-      "titel": "Friedrich Christian »Mick« Flick: Spross einer Industriellendynastie ist tot",
-      "link": "https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T17:00:00+00:00"
     },
     {
       "titel": "Europa: EU-Ratspräsident Costa will Tech-Konzerne zur Kasse bitten",
@@ -127,12 +145,6 @@
       "veroeffentlicht": "2026-11-21T15:14:10+00:00"
     },
     {
-      "titel": "Beisetzung von Hubert Aiwanger: „Du warst ein Unikat, einer, den man nicht ersetzen kann“",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-niederbayern-freie-waehler-li.3583841",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T14:49:40+00:00"
-    },
-    {
       "titel": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
       "link": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
       "quelle": "Tagesschau",
@@ -155,18 +167,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-21T12:36:54+00:00"
-    },
-    {
-      "titel": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T12:13:27+00:00"
-    },
-    {
-      "titel": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
-      "link": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T11:19:36+00:00"
     }
   ]
 }
