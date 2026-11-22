@@ -1,11 +1,131 @@
 {
-  "aktualisiert": "2026-11-22T15:41:55+00:00",
+  "aktualisiert": "2026-11-22T21:18:26+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Libyen: Explosion auf russischem Schiff – ukrainischer Angriff vermutet",
+      "link": "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T20:41:00+00:00"
+    },
+    {
+      "titel": "Bundespolitik: Wüst weist Söders Forderung zur kalten Progression zurück",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-wuest-soeder-kalte-progression-li.3580621",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T20:10:00+00:00"
+    },
+    {
+      "titel": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
+      "link": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T19:58:18+00:00"
+    },
+    {
+      "titel": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T19:53:03+00:00"
+    },
+    {
+      "titel": "ATP Finals: Alexander Zverev verpasst Krönung seines Traumjahres gegen Carlos Alcaraz",
+      "link": "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T19:48:00+00:00"
+    },
+    {
+      "titel": "Premier League: Pochettino soll United retten, erlebt 0:4-Debakel in Liverpool",
+      "link": "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T19:25:00+00:00"
+    },
+    {
+      "titel": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T19:24:22+00:00"
+    },
+    {
+      "titel": "FC Arsenal: Lisa Baum bricht im Spiel mit Atemnot zusammen",
+      "link": "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T19:16:00+00:00"
+    },
+    {
+      "titel": "»Im Verhör«: Korrupte Justiz (3): Wie man sich einen Staatsanwalt kauft - SPIEGEL TV",
+      "link": "https://www.spiegel.de/panorama/justiz/im-verhoer-korrupte-justiz-3-wie-man-sich-einen-staatsanwalt-kauft-spiegel-tv-a-508e2f16-03cb-4944-87cb-67ccba1d98e8#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T19:14:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: »Der Ukraine steht der härteste Kriegswinter bevor« – Militärexperte Franz-Stefan Gady",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T19:13:00+00:00"
+    },
+    {
+      "titel": "Umgang mit Trauer: Wenn der Friedhof zum Ort für Freundinnen und Feiern wird",
+      "link": "https://www.spiegel.de/psychologie/umgang-mit-trauer-wenn-der-friedhof-zum-ort-fuer-freundinnen-und-feiern-wird-a-c029ae9a-d194-4f77-91c4-281b5bbfb8f3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T19:13:00+00:00"
+    },
+    {
+      "titel": "Billy Joel versteigert Motorradsammlung für zwei Millionen Dollar",
+      "link": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T19:10:00+00:00"
+    },
+    {
+      "titel": "Delta Airline: Erneut US-Fluggesellschaft von technischer Störung betroffen",
+      "link": "https://www.spiegel.de/panorama/delta-airline-erneut-us-fluggesellschaft-von-technischer-stoerung-betroffen-a-9317e67b-5293-47bd-a5db-f38ea3944283#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T19:00:00+00:00"
+    },
+    {
+      "titel": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
+      "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T18:43:06+00:00"
+    },
+    {
+      "titel": "Bundesliga: Bremen überrollt den HSV, Augsburg feiert Gregoritsch",
+      "link": "https://www.sueddeutsche.de/sport/werder-bremen-hsv-nordderby-bundesliga-li.3584474",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T18:41:18+00:00"
+    },
+    {
+      "titel": "Women’s Super League: Nationalspielerin Lisa Baum bricht auf dem Platz zusammen",
+      "link": "https://www.sueddeutsche.de/sport/lisa-baum-frauenfussball-zusammenbruch-li.3584471",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T18:10:25+00:00"
+    },
+    {
+      "titel": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T17:36:50+00:00"
+    },
+    {
+      "titel": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T16:19:14+00:00"
+    },
+    {
+      "titel": "Kommentar zur COP31: Großes Versagen - vielleicht auch ein Anfang",
+      "link": "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T16:08:20+00:00"
+    },
+    {
+      "titel": "Podcast: „Auf den Punkt“: Klimakonferenz gescheitert: Einmalig in der Klima-Diplomatie der vergangenen 20 Jahre",
+      "link": "https://www.sueddeutsche.de/politik/cop-31-un-klimakonferenz-antalya-2026-klimaschutz-scheitern-analyse-li.3584251",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T15:57:43+00:00"
+    },
     {
       "titel": "Gebrauchte Elektroautos: Alternative oder Schrott?",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
@@ -19,70 +139,22 @@
       "veroeffentlicht": "2026-11-22T15:21:42+00:00"
     },
     {
-      "titel": "Bürokratie in Deutschland: Warum viele Regeln unverzichtbar bleiben - Meinung",
-      "link": "https://www.spiegel.de/politik/deutschland/buerokratie-in-deutschland-warum-viele-regeln-unverzichtbar-bleiben-meinung-a-629821a3-ef85-4bed-8d72-1fabc074250d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T15:05:00+00:00"
-    },
-    {
       "titel": "Debatte um Gehaltsverzicht: Musialas jüngste Absence erklärt Rummenigges kalte Botschaft – rechtfertigt sie aber nicht",
       "link": "https://www.sueddeutsche.de/sport/bayern-musiala-rummenigge-hoeness-kommentar-li.3584241",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-22T15:02:59+00:00"
     },
     {
-      "titel": "COP31 in Antalya: Weltklimakonferenz endet ohne klaren Ausstiegsbeschluss",
-      "link": "https://www.spiegel.de/wissenschaft/cop31-in-antalya-weltklimakonferenz-endet-ohne-klaren-ausstiegsbeschluss-a-112c0d3f-75a5-4709-b1ec-7533f999d386#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T15:01:00+00:00"
+      "titel": "COP31: Klimagipfel endet ohne entscheidenden Beschluss",
+      "link": "https://www.sueddeutsche.de/politik/cop31-klimagipfel-antalya-fossile-energie-eu-li.3583984",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T14:55:53+00:00"
     },
     {
-      "titel": "Prinzessin Kate teilt ihre Krebs-Erfahrungen im Fernsehen",
-      "link": "https://www.spiegel.de/kultur/tv/prinzessin-kate-teilt-ihre-krebs-erfahrungen-im-fernsehen-a-9741e0b6-28bf-4188-923f-87e5d0887e2d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T15:00:00+00:00"
-    },
-    {
-      "titel": "Landkreis Vechta: Ein Hund soll seinen Bruder getötet haben, trotzdem will er ihn unbedingt zurück",
-      "link": "https://www.spiegel.de/panorama/justiz/landkreis-vechta-ein-hund-soll-seinen-bruder-getoetet-haben-trotzdem-will-er-ihn-unbedingt-zurueck-a-a1ac8e77-d3d5-4f17-a627-9ee9cd1eb966#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T14:59:00+00:00"
-    },
-    {
-      "titel": "Doku »Operation Cobalt« über Kunstraub in Frankfurt am Main: Die Rückkehr der geraubten Bilder",
-      "link": "https://www.spiegel.de/kultur/tv/doku-operation-cobalt-ueber-frankfurter-kunstraub-die-rueckkehr-der-geraubten-bilder-a-56fcd51b-e901-4ed2-b2a2-48480c5dc3f5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T14:53:00+00:00"
-    },
-    {
-      "titel": "Beruf Gerüstbauer: Viel Bewegung, schwere Lasten und Arbeit in der Höhe",
-      "link": "https://www.spiegel.de/deinspiegel/beruf-geruestbauer-viel-bewegung-schwere-lasten-und-arbeit-in-der-hoehe-a-bd3e630f-6de1-48f0-90f2-58fbdf9417d1#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T14:53:00+00:00"
-    },
-    {
-      "titel": "COP30: Einfluss der Öl- und Gasstaaten – Klimakonferenz ohne Ergebnis",
-      "link": "https://www.spiegel.de/ausland/hatten-die-oel-und-gasstaaten-zu-viel-einfluss-reaktionen-auf-das-ende-der-klimakonferenz-a-4afabf6c-9c20-4f3b-96cb-cc95ee1035e4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T14:48:00+00:00"
-    },
-    {
-      "titel": "Argentinien: Boca-Juniors-Kapitän Leandro Paredes bricht nach Pokalsieg vor Kamera zusammen",
-      "link": "https://www.spiegel.de/sport/fussball/argentinien-boca-juniors-kapitaen-leandro-paredes-bricht-nach-pokalsieg-vor-kamera-zusammen-a-256ccf42-1d67-4bef-a4c0-3bf6bca21dae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T14:45:00+00:00"
-    },
-    {
-      "titel": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T14:21:45+00:00"
-    },
-    {
-      "titel": "Formel 1 in Las Vegas: »Verstappen gewinnt das Rennen des Jahres« – Pressestimmen",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-verstappen-gewinnt-das-rennen-des-jahres-pressestimmen-a-91d46e06-efa3-4fa6-886c-8216bb752109#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T13:53:00+00:00"
+      "titel": "AfD in Nordrhein-Westfalen: Wie viel Remigration darf’s denn sein?",
+      "link": "https://www.sueddeutsche.de/politik/afd-nordrhein-westfalen-martin-vincentz-remigration-parteitag-landtagswahl-li.3581449",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T14:23:38+00:00"
     },
     {
       "titel": "COP31 in Antalya: Klimakonferenz scheitert an zentralem Abschlusstext",
@@ -91,82 +163,10 @@
       "veroeffentlicht": "2026-11-22T13:26:42+00:00"
     },
     {
-      "titel": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T12:00:00+00:00"
-    },
-    {
-      "titel": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T11:41:16+00:00"
-    },
-    {
-      "titel": "Reaktion auf Finanznot: Wenn Bürger die Stadtkasse aufbessern müssen",
-      "link": "https://www.sueddeutsche.de/politik/kommunen-finanzkrise-gebuehren-steigen-loesungsvorschlaege-expertenrat-stand-der-verhandlungen-li.3582299",
+      "titel": "Landesversammlung der Jungen Union: Söder drückt bei der Parteijugend die richtigen Knöpfe",
+      "link": "https://www.sueddeutsche.de/bayern/junge-union-landesversammlung-markus-soeder-berchtesgaden-li.3582493",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T11:38:10+00:00"
-    },
-    {
-      "titel": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
-      "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T11:19:54+00:00"
-    },
-    {
-      "titel": "Frankreich: Der Élysée-Palast als Showroom",
-      "link": "https://www.sueddeutsche.de/wirtschaft/choose-france-emmanuel-macron-elysee-palast-frankreich-investitionen-li.3584231",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T11:19:07+00:00"
-    },
-    {
-      "titel": "Leute: Endlich darf Merz mal den Takt vorgeben",
-      "link": "https://www.sueddeutsche.de/panorama/bundeskanzler-friedrich-merz-klanghoelzer-li.3584244",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T11:07:45+00:00"
-    },
-    {
-      "titel": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T10:25:29+00:00"
-    },
-    {
-      "titel": "Machtwechsel in Serbien: Er ist der Mann der Stunde und bringt Disziplin ins neue Parlament Serbiens",
-      "link": "https://www.sueddeutsche.de/meinung/serbien-aleksandar-cupic-parlament-studentenliste-aleksandar-vucic-kommentar-li.3583561",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T10:18:58+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Explosion auf russischem Schiff in Libyen - Drohnenangriff vermutet",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T09:58:08+00:00"
-    },
-    {
-      "titel": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T09:51:56+00:00"
-    },
-    {
-      "titel": "Israel: Warum die Stadt Bat Yam Iran verklagt",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T09:48:00+00:00"
-    },
-    {
-      "titel": "Demokratie: Für Elon Musk und seine Tech-Kumpel waren Politiker immer nur nützliche Idioten",
-      "link": "https://www.sueddeutsche.de/meinung/elon-musk-maga-donald-trump-demokratie-kommentar-li.3583545",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T09:24:46+00:00"
-    },
-    {
-      "titel": "Sorgen der Gen Z: Der Tatendrang der Jugend",
-      "link": "https://www.sueddeutsche.de/politik/gen-z-quentin-gaertner-jugend-politik-proteste-li.3578974",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T09:06:51+00:00"
+      "veroeffentlicht": "2026-11-22T13:13:05+00:00"
     }
   ]
 }
