@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-22T07:29:33+00:00",
+  "aktualisiert": "2026-11-22T15:41:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Australien: Social-Media-Verbot mit Lücken und Mängeln",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
+      "titel": "Gebrauchte Elektroautos: Alternative oder Schrott?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T07:26:24+00:00"
+      "veroeffentlicht": "2026-11-22T15:36:15+00:00"
     },
     {
-      "titel": "Antisemitismusbeauftragte Katharina von Schnurbein warnt vor AfD-Regierung",
-      "link": "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T07:13:00+00:00"
-    },
-    {
-      "titel": "CDU: Annegret Kramp-Karrenbauer fordert Fokus auf Alltagsängste statt Rechtskurs",
-      "link": "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T06:52:00+00:00"
-    },
-    {
-      "titel": "Wirtschaft in Deutschland: Aufschwung und mehr Geld für Start-ups – nur gute Nachrichten",
-      "link": "https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T06:42:00+00:00"
-    },
-    {
-      "titel": "Protest gegen Aufrüstung: Der schwierige Kampf der Kriegsgegner",
-      "link": "https://www.spiegel.de/politik/deutschland/protest-gegen-aufruestung-der-schwierige-kampf-der-kriegsgegner-a-fa580f9b-43db-465a-8817-79de0219b0ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T06:28:00+00:00"
-    },
-    {
-      "titel": "Teenager und Ihre Handys: Ihr Kind hängt nur noch am Handy? 6 Tipps, ohne Verbote",
-      "link": "https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T06:27:00+00:00"
-    },
-    {
-      "titel": "Telemedizin: Hamburgerin lässt sich in Apotheke per Videosprechstunde behandeln",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T06:15:00+00:00"
-    },
-    {
-      "titel": "Krebserkrankung des Vaters: »Papa hat Haarausfall«",
-      "link": "https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall-a-fde44e1c-3ec8-4602-be9e-379b003829dd#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T06:13:00+00:00"
-    },
-    {
-      "titel": "Vier Räuber und viele Vorhängeschlösser – Rätsel der Woche",
-      "link": "https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T06:12:00+00:00"
-    },
-    {
-      "titel": "Formel 1: Max Verstappen gewinnt spektakuläres Rennen in Las Vegas",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T06:04:00+00:00"
-    },
-    {
-      "titel": "USA: Gouverneur verurteilt ICE-Festnahmen am Flughafen: „Vollkommen außer Kontrolle“",
-      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ice-flughafen-seattle-festnahmen-gouverneur-bob-ferguson-li.3578585",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T06:01:40+00:00"
-    },
-    {
-      "titel": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+      "titel": "Brand in indonesischer Süßwarenfabrik - viele Tote befürchtet",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T05:47:26+00:00"
+      "veroeffentlicht": "2026-11-22T15:21:42+00:00"
     },
     {
-      "titel": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
-      "link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+      "titel": "Bürokratie in Deutschland: Warum viele Regeln unverzichtbar bleiben - Meinung",
+      "link": "https://www.spiegel.de/politik/deutschland/buerokratie-in-deutschland-warum-viele-regeln-unverzichtbar-bleiben-meinung-a-629821a3-ef85-4bed-8d72-1fabc074250d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T15:05:00+00:00"
+    },
+    {
+      "titel": "Debatte um Gehaltsverzicht: Musialas jüngste Absence erklärt Rummenigges kalte Botschaft – rechtfertigt sie aber nicht",
+      "link": "https://www.sueddeutsche.de/sport/bayern-musiala-rummenigge-hoeness-kommentar-li.3584241",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T15:02:59+00:00"
+    },
+    {
+      "titel": "COP31 in Antalya: Weltklimakonferenz endet ohne klaren Ausstiegsbeschluss",
+      "link": "https://www.spiegel.de/wissenschaft/cop31-in-antalya-weltklimakonferenz-endet-ohne-klaren-ausstiegsbeschluss-a-112c0d3f-75a5-4709-b1ec-7533f999d386#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T15:01:00+00:00"
+    },
+    {
+      "titel": "Prinzessin Kate teilt ihre Krebs-Erfahrungen im Fernsehen",
+      "link": "https://www.spiegel.de/kultur/tv/prinzessin-kate-teilt-ihre-krebs-erfahrungen-im-fernsehen-a-9741e0b6-28bf-4188-923f-87e5d0887e2d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T15:00:00+00:00"
+    },
+    {
+      "titel": "Landkreis Vechta: Ein Hund soll seinen Bruder getötet haben, trotzdem will er ihn unbedingt zurück",
+      "link": "https://www.spiegel.de/panorama/justiz/landkreis-vechta-ein-hund-soll-seinen-bruder-getoetet-haben-trotzdem-will-er-ihn-unbedingt-zurueck-a-a1ac8e77-d3d5-4f17-a627-9ee9cd1eb966#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T14:59:00+00:00"
+    },
+    {
+      "titel": "Doku »Operation Cobalt« über Kunstraub in Frankfurt am Main: Die Rückkehr der geraubten Bilder",
+      "link": "https://www.spiegel.de/kultur/tv/doku-operation-cobalt-ueber-frankfurter-kunstraub-die-rueckkehr-der-geraubten-bilder-a-56fcd51b-e901-4ed2-b2a2-48480c5dc3f5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T14:53:00+00:00"
+    },
+    {
+      "titel": "Beruf Gerüstbauer: Viel Bewegung, schwere Lasten und Arbeit in der Höhe",
+      "link": "https://www.spiegel.de/deinspiegel/beruf-geruestbauer-viel-bewegung-schwere-lasten-und-arbeit-in-der-hoehe-a-bd3e630f-6de1-48f0-90f2-58fbdf9417d1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T14:53:00+00:00"
+    },
+    {
+      "titel": "COP30: Einfluss der Öl- und Gasstaaten – Klimakonferenz ohne Ergebnis",
+      "link": "https://www.spiegel.de/ausland/hatten-die-oel-und-gasstaaten-zu-viel-einfluss-reaktionen-auf-das-ende-der-klimakonferenz-a-4afabf6c-9c20-4f3b-96cb-cc95ee1035e4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T14:48:00+00:00"
+    },
+    {
+      "titel": "Argentinien: Boca-Juniors-Kapitän Leandro Paredes bricht nach Pokalsieg vor Kamera zusammen",
+      "link": "https://www.spiegel.de/sport/fussball/argentinien-boca-juniors-kapitaen-leandro-paredes-bricht-nach-pokalsieg-vor-kamera-zusammen-a-256ccf42-1d67-4bef-a4c0-3bf6bca21dae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T14:45:00+00:00"
+    },
+    {
+      "titel": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T05:21:04+00:00"
+      "veroeffentlicht": "2026-11-22T14:21:45+00:00"
     },
     {
-      "titel": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+      "titel": "Formel 1 in Las Vegas: »Verstappen gewinnt das Rennen des Jahres« – Pressestimmen",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-verstappen-gewinnt-das-rennen-des-jahres-pressestimmen-a-91d46e06-efa3-4fa6-886c-8216bb752109#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T13:53:00+00:00"
+    },
+    {
+      "titel": "COP31 in Antalya: Klimakonferenz scheitert an zentralem Abschlusstext",
+      "link": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-einigung-gescheitert-li.3584161",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T13:26:42+00:00"
+    },
+    {
+      "titel": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T03:50:01+00:00"
+      "veroeffentlicht": "2026-11-22T12:00:00+00:00"
     },
     {
-      "titel": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "titel": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T20:17:57+00:00"
+      "veroeffentlicht": "2026-11-22T11:41:16+00:00"
     },
     {
-      "titel": "Beisetzung von Hubert Aiwanger: „Du warst ein Unikat, einer, den man nicht ersetzen kann“",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-niederbayern-freie-waehler-li.3583841",
+      "titel": "Reaktion auf Finanznot: Wenn Bürger die Stadtkasse aufbessern müssen",
+      "link": "https://www.sueddeutsche.de/politik/kommunen-finanzkrise-gebuehren-steigen-loesungsvorschlaege-expertenrat-stand-der-verhandlungen-li.3582299",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T20:00:00+00:00"
+      "veroeffentlicht": "2026-11-22T11:38:10+00:00"
     },
     {
-      "titel": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
+      "titel": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+      "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T19:54:06+00:00"
+      "veroeffentlicht": "2026-11-22T11:19:54+00:00"
     },
     {
-      "titel": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnen-frachter-finnland-li.3571967",
+      "titel": "Frankreich: Der Élysée-Palast als Showroom",
+      "link": "https://www.sueddeutsche.de/wirtschaft/choose-france-emmanuel-macron-elysee-palast-frankreich-investitionen-li.3584231",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T19:20:00+00:00"
+      "veroeffentlicht": "2026-11-22T11:19:07+00:00"
     },
     {
-      "titel": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+      "titel": "Leute: Endlich darf Merz mal den Takt vorgeben",
+      "link": "https://www.sueddeutsche.de/panorama/bundeskanzler-friedrich-merz-klanghoelzer-li.3584244",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T11:07:45+00:00"
+    },
+    {
+      "titel": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T19:10:03+00:00"
+      "veroeffentlicht": "2026-11-22T10:25:29+00:00"
     },
     {
-      "titel": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-      "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+      "titel": "Machtwechsel in Serbien: Er ist der Mann der Stunde und bringt Disziplin ins neue Parlament Serbiens",
+      "link": "https://www.sueddeutsche.de/meinung/serbien-aleksandar-cupic-parlament-studentenliste-aleksandar-vucic-kommentar-li.3583561",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T10:18:58+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Explosion auf russischem Schiff in Libyen - Drohnenangriff vermutet",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T09:58:08+00:00"
+    },
+    {
+      "titel": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T17:32:19+00:00"
+      "veroeffentlicht": "2026-11-22T09:51:56+00:00"
     },
     {
-      "titel": "Borussia Dortmund: Nmecha trifft – und zeigt einen anderen Jubel",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-bvb-gladbach-nmecha-jubel-krone-tabellenfuehrer-li.3584099",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T17:05:36+00:00"
-    },
-    {
-      "titel": "Europa: EU-Ratspräsident Costa will Tech-Konzerne zur Kasse bitten",
-      "link": "https://www.sueddeutsche.de/politik/eu-antonio-costa-eu-haushalt-friedrich-merz-steuer-digitalkonzerne-li.3582105",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T16:51:50+00:00"
-    },
-    {
-      "titel": "Bundesliga: Zwei verschossene Elfmeter in drei Minuten",
-      "link": "https://www.sueddeutsche.de/sport/bundesliga-spiele-ergebnisse-leipzig-leverkusen-tore-li.3584089",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T16:43:59+00:00"
-    },
-    {
-      "titel": "JHV des FC Bayern: Nach fünf Stunden äußert ein Neurologe Kritik an Rummenigges Umgang mit Musiala",
-      "link": "https://www.sueddeutsche.de/sport/musiala-bayern-rummenigge-vertrag-gehalt-li.3584016",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T16:22:37+00:00"
-    },
-    {
-      "titel": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
-      "link": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+      "titel": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T15:55:59+00:00"
+      "veroeffentlicht": "2026-11-22T09:48:00+00:00"
     },
     {
-      "titel": "Bilder der Beisetzung von Hubert Aiwanger: Großer Abschied in einem kleinen Dorf",
-      "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-trauerfeier-niederbayern-bilder-li.3583295",
+      "titel": "Demokratie: Für Elon Musk und seine Tech-Kumpel waren Politiker immer nur nützliche Idioten",
+      "link": "https://www.sueddeutsche.de/meinung/elon-musk-maga-donald-trump-demokratie-kommentar-li.3583545",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T15:40:00+00:00"
+      "veroeffentlicht": "2026-11-22T09:24:46+00:00"
     },
     {
-      "titel": "Nach Rücktritt von Verena Bentele: Doris Rauscher ist neue Vorsitzende des VdK Bayern",
-      "link": "https://www.sueddeutsche.de/bayern/vdk-bayern-doris-rauscher-verena-bentele-sozialverband-nuernberg-li.3584102",
+      "titel": "Sorgen der Gen Z: Der Tatendrang der Jugend",
+      "link": "https://www.sueddeutsche.de/politik/gen-z-quentin-gaertner-jugend-politik-proteste-li.3578974",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T15:14:10+00:00"
+      "veroeffentlicht": "2026-11-22T09:06:51+00:00"
     }
   ]
 }
