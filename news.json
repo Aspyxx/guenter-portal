@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-22T00:21:22+00:00",
+  "aktualisiert": "2026-11-22T07:29:33+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,34 +7,94 @@
   },
   "meldungen": [
     {
-      "titel": "Wahl in Israel: Gadi Eisenkot trifft Benjamin Netanyahus Partei zu Koalitionsgesprächen",
-      "link": "https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T22:22:00+00:00"
+      "titel": "Australien: Social-Media-Verbot mit Lücken und Mängeln",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T07:26:24+00:00"
     },
     {
-      "titel": "Frankreich: Deutlich weniger Teilnehmer am sechsten Protestsamstag",
-      "link": "https://www.spiegel.de/ausland/frankreich-deutlich-weniger-teilnehmer-am-sechsten-protestsamstag-a-4e6b94d5-2440-450f-a18e-6fba793ebcf8#ref=rss",
+      "titel": "Antisemitismusbeauftragte Katharina von Schnurbein warnt vor AfD-Regierung",
+      "link": "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T21:22:00+00:00"
+      "veroeffentlicht": "2026-11-22T07:13:00+00:00"
+    },
+    {
+      "titel": "CDU: Annegret Kramp-Karrenbauer fordert Fokus auf Alltagsängste statt Rechtskurs",
+      "link": "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T06:52:00+00:00"
+    },
+    {
+      "titel": "Wirtschaft in Deutschland: Aufschwung und mehr Geld für Start-ups – nur gute Nachrichten",
+      "link": "https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T06:42:00+00:00"
+    },
+    {
+      "titel": "Protest gegen Aufrüstung: Der schwierige Kampf der Kriegsgegner",
+      "link": "https://www.spiegel.de/politik/deutschland/protest-gegen-aufruestung-der-schwierige-kampf-der-kriegsgegner-a-fa580f9b-43db-465a-8817-79de0219b0ae#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T06:28:00+00:00"
+    },
+    {
+      "titel": "Teenager und Ihre Handys: Ihr Kind hängt nur noch am Handy? 6 Tipps, ohne Verbote",
+      "link": "https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T06:27:00+00:00"
+    },
+    {
+      "titel": "Telemedizin: Hamburgerin lässt sich in Apotheke per Videosprechstunde behandeln",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T06:15:00+00:00"
+    },
+    {
+      "titel": "Krebserkrankung des Vaters: »Papa hat Haarausfall«",
+      "link": "https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall-a-fde44e1c-3ec8-4602-be9e-379b003829dd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T06:13:00+00:00"
+    },
+    {
+      "titel": "Vier Räuber und viele Vorhängeschlösser – Rätsel der Woche",
+      "link": "https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T06:12:00+00:00"
+    },
+    {
+      "titel": "Formel 1: Max Verstappen gewinnt spektakuläres Rennen in Las Vegas",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T06:04:00+00:00"
+    },
+    {
+      "titel": "USA: Gouverneur verurteilt ICE-Festnahmen am Flughafen: „Vollkommen außer Kontrolle“",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ice-flughafen-seattle-festnahmen-gouverneur-bob-ferguson-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T06:01:40+00:00"
+    },
+    {
+      "titel": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T05:47:26+00:00"
+    },
+    {
+      "titel": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
+      "link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T05:21:04+00:00"
+    },
+    {
+      "titel": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-22T03:50:01+00:00"
     },
     {
       "titel": "EU und Indonesien unterzeichnen Freihandelsabkommen",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-21T20:17:57+00:00"
-    },
-    {
-      "titel": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
-      "link": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T20:13:00+00:00"
-    },
-    {
-      "titel": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
-      "link": "https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T20:10:00+00:00"
     },
     {
       "titel": "Beisetzung von Hubert Aiwanger: „Du warst ein Unikat, einer, den man nicht ersetzen kann“",
@@ -49,18 +109,6 @@
       "veroeffentlicht": "2026-11-21T19:54:06+00:00"
     },
     {
-      "titel": "Polen: Abgestürztes Flugobjekt war russische Rakete",
-      "link": "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T19:50:00+00:00"
-    },
-    {
-      "titel": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
-      "link": "https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T19:27:00+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnen-frachter-finnland-li.3571967",
       "quelle": "Süddeutsche",
@@ -71,24 +119,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-21T19:10:03+00:00"
-    },
-    {
-      "titel": "Afghanistan: Wie brutal die Taliban die medizinische Versorgung von Frauen unterbinden",
-      "link": "https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T19:02:00+00:00"
-    },
-    {
-      "titel": "Paolo Bulgari ist tot: »Der größte Juwelier unserer Zeit« stirbt mit 89 Jahren",
-      "link": "https://www.spiegel.de/panorama/leute/paolo-bulgari-ist-tot-a-ab7092f4-e320-4cd2-8262-9f86d8399442#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T19:00:00+00:00"
-    },
-    {
-      "titel": "Thore Schölermann über den Wechsel vom Moderator zum McDonald's-Unternehmer",
-      "link": "https://www.spiegel.de/wirtschaft/thore-schoelermann-ueber-den-wechsel-vom-moderator-zum-mcdonalds-unternehmer-a-db3f070f-19e6-4d63-97b9-02ac76a21c37#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-21T18:29:00+00:00"
     },
     {
       "titel": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
@@ -127,46 +157,16 @@
       "veroeffentlicht": "2026-11-21T15:55:59+00:00"
     },
     {
-      "titel": "Beisetzung von Hubert Aiwanger: Großer Abschied in einem kleinen Dorf",
+      "titel": "Bilder der Beisetzung von Hubert Aiwanger: Großer Abschied in einem kleinen Dorf",
       "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-trauerfeier-niederbayern-bilder-li.3583295",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-21T15:40:00+00:00"
-    },
-    {
-      "titel": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
-      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T15:36:57+00:00"
     },
     {
       "titel": "Nach Rücktritt von Verena Bentele: Doris Rauscher ist neue Vorsitzende des VdK Bayern",
       "link": "https://www.sueddeutsche.de/bayern/vdk-bayern-doris-rauscher-verena-bentele-sozialverband-nuernberg-li.3584102",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-21T15:14:10+00:00"
-    },
-    {
-      "titel": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
-      "link": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T14:07:14+00:00"
-    },
-    {
-      "titel": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
-      "link": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-21T13:49:56+00:00"
-    },
-    {
-      "titel": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T12:48:02+00:00"
-    },
-    {
-      "titel": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-21T12:36:54+00:00"
     }
   ]
 }
