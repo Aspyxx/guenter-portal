@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-23T01:59:13+00:00",
+  "aktualisiert": "2026-11-23T10:49:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Röttgen bei Miosga: „Putin ist fest entschlossen, die Ukraine unbewohnbar zu machen“",
-      "link": "https://www.sueddeutsche.de/medien/caren-miosga-ukraine-putin-norbert-roettgen-diplomatie-li.3583751",
+      "titel": "Wer ist schuld am Scheitern des Klimagipfels?",
+      "link": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T10:42:23+00:00"
+    },
+    {
+      "titel": "Elterngeld-Reform: Was Karin Prien beim Elterngeld richtig gemacht hat",
+      "link": "https://www.spiegel.de/politik/elterngeld-reform-was-karin-prien-beim-elterngeld-richtig-gemacht-hat-a-89241644-bf5e-4003-9fe2-1b2fcef9a88e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T10:40:00+00:00"
+    },
+    {
+      "titel": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T10:30:31+00:00"
+    },
+    {
+      "titel": "Einigung: Zeugen Jehovas bekommen Archiv einer NS-Verfolgten",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-kusserow-ns-verfolgung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T10:26:02+00:00"
+    },
+    {
+      "titel": "Lennart Karl: Bayern-Profi ohne Plan B – »Bin keine sehr, sehr schlaue Person im ganzen Leben«",
+      "link": "https://www.spiegel.de/sport/fussball/lennart-karl-bayern-profi-ohne-plan-b-bin-keine-sehr-sehr-schlaue-person-im-ganzen-leben-a-024722c9-3f79-4889-8005-6ee1259a7d56#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T10:12:00+00:00"
+    },
+    {
+      "titel": "Schach: Magnus Carlsen oder Garri Kasparow? Experten haben analysiert, wer wirklich der GOAT ist",
+      "link": "https://www.spiegel.de/sport/schach/schach-magnus-carlsen-oder-garri-kasparow-experten-haben-analysiert-wer-wirklich-der-goat-ist-a-0a885aa2-66e9-4260-a07c-249c46bdabf4#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T10:11:00+00:00"
+    },
+    {
+      "titel": "Fuji in Japan: Chinesischer Bergsteiger vermisst – 75.000 Dollar Belohnung",
+      "link": "https://www.spiegel.de/sport/fuji-in-japan-chinesischer-bergsteiger-vermisst-75-000-dollar-belohnung-a-114878b1-5a65-4fa6-863a-99ba93a9a0ee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T10:03:00+00:00"
+    },
+    {
+      "titel": "Robert De Niro macht auch mit 83 viel Sport",
+      "link": "https://www.spiegel.de/panorama/leute/robert-de-niro-macht-auch-mit-83-viel-sport-a-2c5cb70f-ba40-4658-ba64-f7fa837f4c4c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T10:02:00+00:00"
+    },
+    {
+      "titel": "K.-o.-Tropfen können künftig wohl länger im Körper nachgewiesen werden",
+      "link": "https://www.spiegel.de/wissenschaft/k-o-tropfen-koennen-kuenftig-wohl-laenger-im-koerper-nachgewiesen-werden-a-fdd95ccf-fd96-499c-909d-86ff0c9c57fd#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T10:00:00+00:00"
+    },
+    {
+      "titel": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T09:56:20+00:00"
+    },
+    {
+      "titel": "Russland: Wie ein Satellit des Start-ups Iceye aus Finnland bedrängt wurde",
+      "link": "https://www.spiegel.de/wirtschaft/russland-wie-ein-satellit-des-start-ups-iceye-aus-finnland-bedraengt-wurde-a-ff5b0831-a793-4834-b0b9-a24f353a2060#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T09:48:00+00:00"
+    },
+    {
+      "titel": "SPD: Sigmar Gabriel kritisiert »Führungsvakuum« in der Partei",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-sigmar-gabriel-kritisiert-fuehrungsvakuum-in-der-partei-a-e31c435a-b50b-4f5f-8098-67041beca7b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T09:45:00+00:00"
+    },
+    {
+      "titel": "Verbraucherschützer warnen zur Black Week vor Betrugsmaschen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/blackweek-preisfallen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T09:33:43+00:00"
+    },
+    {
+      "titel": "Marktbericht: Anleger kehren vorsichtig zurück in den Markt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T09:32:39+00:00"
+    },
+    {
+      "titel": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
+      "link": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T09:29:40+00:00"
+    },
+    {
+      "titel": "COP31: China nennt Scheitern der Klimakonferenz enttäuschend – und die Energiewende unumkehrbar",
+      "link": "https://www.spiegel.de/ausland/cop31-china-nennt-scheitern-der-klimakonferenz-enttaeuschend-und-die-energiewende-unumkehrbar-a-20e9350c-2227-4233-926b-373e3c856c95#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T09:28:00+00:00"
+    },
+    {
+      "titel": "Sachbuch: „Wir würden sofort Würgereiz bekommen“",
+      "link": "https://www.sueddeutsche.de/kultur/altes-rom-dirty-rome-michael-sommer-sachbuch-interview-li.3528279",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-23T01:08:27+00:00"
+      "veroeffentlicht": "2026-11-23T09:24:09+00:00"
     },
     {
-      "titel": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
-      "link": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
+      "titel": "Generalkonsulat in Bonn - Geflüchtete Afghanen arbeiten für die Taliban",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/taliban-konsulat-bonn-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-23T00:55:05+00:00"
+      "veroeffentlicht": "2026-11-23T09:16:50+00:00"
     },
     {
-      "titel": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
-      "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+      "titel": "NATO-Parlamentarier tagen zu Sicherheitspolitik in Berlin",
+      "link": "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-23T00:51:02+00:00"
+      "veroeffentlicht": "2026-11-23T09:14:40+00:00"
     },
     {
-      "titel": "Belgien: Streik-Tag legt Flugverkehr am Montag lahm",
-      "link": "https://www.spiegel.de/wirtschaft/service/belgien-streik-tag-legt-flugverkehr-am-montag-lahm-a-6cd7989a-03e5-4c6f-8c81-3d11ba1e05dc#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-23T00:24:00+00:00"
-    },
-    {
-      "titel": "Syrien: Fünf Kinder sterben bei Explosion einer Landmine in Idlib",
-      "link": "https://www.spiegel.de/ausland/syrien-fuenf-kinder-sterben-bei-explosion-einer-landmine-in-idlib-a-0ed9f39a-c436-4611-bae9-e6316c5c081a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-23T00:21:00+00:00"
-    },
-    {
-      "titel": "Krieg in Sudan: Uno-Gebäude bei Drohnenangriff beschädigt",
-      "link": "https://www.spiegel.de/ausland/krieg-in-sudan-uno-gebaeude-bei-drohnenangriff-beschaedigt-a-c4b398b9-f7f6-40a0-a92c-3377e276a67a#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T22:14:00+00:00"
-    },
-    {
-      "titel": "Markus Söder: Hendrik Wüst lehnt Forderung zur kalten Progression ab",
-      "link": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T21:33:00+00:00"
-    },
-    {
-      "titel": "Midterms in den USA: Demokraten erreichen im Repräsentantenhaus historisch starke Mehrheit",
-      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-demokraten-erreichen-im-repraesentantenhaus-historisch-starke-mehrheit-a-6b42898d-ee86-41e7-a545-8275e28ea40d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T21:27:00+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
+      "titel": "Krieg in der Ukraine: Selenskij: Haben russisches Kriegsschiff vor Libyen versenkt",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T21:19:41+00:00"
+      "veroeffentlicht": "2026-11-23T08:08:24+00:00"
     },
     {
-      "titel": "Finnland: »Sparta II« nach Brand in russische Gewässer geschleppt",
-      "link": "https://www.spiegel.de/ausland/finnland-sparta-ii-nach-brand-in-russische-gewaesser-geschleppt-a-3b64d5c4-f5b2-4c52-929a-d8dd06f0ddf3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T21:19:00+00:00"
-    },
-    {
-      "titel": "Libyen: Explosion auf russischem Schiff – ukrainischer Angriff vermutet",
-      "link": "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T20:41:00+00:00"
+      "titel": "Premier League: Der Wow-Moment des Florian Wirtz",
+      "link": "https://www.sueddeutsche.de/sport/premier-league-fc-liverpool-manchester-united-wirtz-pocchettino-li.3584595",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-23T07:57:35+00:00"
     },
     {
       "titel": "Bundespolitik: Wüst weist Söders Forderung zur kalten Progression zurück",
       "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-wuest-soeder-kalte-progression-li.3580621",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T20:10:00+00:00"
+      "veroeffentlicht": "2026-11-23T07:40:00+00:00"
     },
     {
-      "titel": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
-      "link": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T19:58:18+00:00"
-    },
-    {
-      "titel": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T19:53:03+00:00"
-    },
-    {
-      "titel": "ATP Finals: Alexander Zverev verpasst Krönung seines Traumjahres gegen Carlos Alcaraz",
-      "link": "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T19:48:00+00:00"
-    },
-    {
-      "titel": "Premier League: Pochettino soll United retten, erlebt 0:4-Debakel in Liverpool",
-      "link": "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T19:25:00+00:00"
-    },
-    {
-      "titel": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T19:24:22+00:00"
-    },
-    {
-      "titel": "Bundesliga: Bremen überrollt den HSV, Augsburg feiert Gregoritsch",
-      "link": "https://www.sueddeutsche.de/sport/werder-bremen-hsv-nordderby-bundesliga-li.3584474",
+      "titel": "Ehrenbürgerwürde für Englands Nationaltrainer: Neue Liebe: Krumbach lernt Thomas Tuchel kennen",
+      "link": "https://www.sueddeutsche.de/bayern/thomas-tuchel-krumbach-ehrenbuerger-beziehung-neue-liebe-li.3583481",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T18:41:18+00:00"
+      "veroeffentlicht": "2026-11-23T07:20:56+00:00"
     },
     {
-      "titel": "Women’s Super League: Nationalspielerin Lisa Baum bricht auf dem Platz zusammen",
-      "link": "https://www.sueddeutsche.de/sport/lisa-baum-frauenfussball-zusammenbruch-li.3584471",
+      "titel": "4:0 gegen den Hamburger SV: Werders rauschhaftes Nordderby",
+      "link": "https://www.sueddeutsche.de/sport/bundesliga-bremen-hsv-nordderby-njinmah-li.3584455",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T18:10:25+00:00"
+      "veroeffentlicht": "2026-11-23T07:01:30+00:00"
     },
     {
-      "titel": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T17:36:50+00:00"
-    },
-    {
-      "titel": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T16:19:14+00:00"
-    },
-    {
-      "titel": "Kommentar zur COP31: Großes Versagen - vielleicht auch ein Anfang",
-      "link": "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T16:08:20+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Klimakonferenz gescheitert: Einmalig in der Klima-Diplomatie der vergangenen 20 Jahre",
-      "link": "https://www.sueddeutsche.de/politik/cop-31-un-klimakonferenz-antalya-2026-klimaschutz-scheitern-analyse-li.3584251",
+      "titel": "Deutsche Bahn: Es droht noch mehr Chaos",
+      "link": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-chaos-fahrplan-verspaetung-it-2027-li.3584282",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T15:57:43+00:00"
+      "veroeffentlicht": "2026-11-23T06:05:45+00:00"
     },
     {
-      "titel": "Gebrauchte Elektroautos: Alternative oder Schrott?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T15:36:15+00:00"
-    },
-    {
-      "titel": "Debatte um Gehaltsverzicht: Musialas jüngste Absence erklärt Rummenigges kalte Botschaft – rechtfertigt sie aber nicht",
-      "link": "https://www.sueddeutsche.de/sport/bayern-musiala-rummenigge-hoeness-kommentar-li.3584241",
+      "titel": "Wettrüsten im Weltraum: „Die größte Gefahr von allen“",
+      "link": "https://www.sueddeutsche.de/politik/weltraum-space-satellit-russland-ukrainekrieg-spacex-ruestung-li.3582588",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T15:02:59+00:00"
+      "veroeffentlicht": "2026-11-23T05:49:56+00:00"
     },
     {
-      "titel": "COP31: Klimagipfel endet ohne entscheidenden Beschluss",
-      "link": "https://www.sueddeutsche.de/politik/cop31-klimagipfel-antalya-fossile-energie-eu-li.3583984",
+      "titel": "Sicherheitspolitik: Geheimdienste fürchten: Russland vor atomarer Aufrüstung im All",
+      "link": "https://www.sueddeutsche.de/politik/russland-atomwaffe-weltraum-nato-sputnik-s-satelliten-bundeswehr-aufruestung-li.3582627",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T14:55:53+00:00"
-    },
-    {
-      "titel": "AfD in Nordrhein-Westfalen: Wie viel Remigration darf’s denn sein?",
-      "link": "https://www.sueddeutsche.de/politik/afd-nordrhein-westfalen-martin-vincentz-remigration-parteitag-landtagswahl-li.3581449",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T14:23:38+00:00"
+      "veroeffentlicht": "2026-11-23T05:00:00+00:00"
     }
   ]
 }
