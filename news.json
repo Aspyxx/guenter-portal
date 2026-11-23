@@ -1,11 +1,71 @@
 {
-  "aktualisiert": "2026-11-22T21:18:26+00:00",
+  "aktualisiert": "2026-11-23T01:59:13+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Röttgen bei Miosga: „Putin ist fest entschlossen, die Ukraine unbewohnbar zu machen“",
+      "link": "https://www.sueddeutsche.de/medien/caren-miosga-ukraine-putin-norbert-roettgen-diplomatie-li.3583751",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-23T01:08:27+00:00"
+    },
+    {
+      "titel": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
+      "link": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T00:55:05+00:00"
+    },
+    {
+      "titel": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
+      "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-23T00:51:02+00:00"
+    },
+    {
+      "titel": "Belgien: Streik-Tag legt Flugverkehr am Montag lahm",
+      "link": "https://www.spiegel.de/wirtschaft/service/belgien-streik-tag-legt-flugverkehr-am-montag-lahm-a-6cd7989a-03e5-4c6f-8c81-3d11ba1e05dc#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T00:24:00+00:00"
+    },
+    {
+      "titel": "Syrien: Fünf Kinder sterben bei Explosion einer Landmine in Idlib",
+      "link": "https://www.spiegel.de/ausland/syrien-fuenf-kinder-sterben-bei-explosion-einer-landmine-in-idlib-a-0ed9f39a-c436-4611-bae9-e6316c5c081a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-23T00:21:00+00:00"
+    },
+    {
+      "titel": "Krieg in Sudan: Uno-Gebäude bei Drohnenangriff beschädigt",
+      "link": "https://www.spiegel.de/ausland/krieg-in-sudan-uno-gebaeude-bei-drohnenangriff-beschaedigt-a-c4b398b9-f7f6-40a0-a92c-3377e276a67a#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T22:14:00+00:00"
+    },
+    {
+      "titel": "Markus Söder: Hendrik Wüst lehnt Forderung zur kalten Progression ab",
+      "link": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T21:33:00+00:00"
+    },
+    {
+      "titel": "Midterms in den USA: Demokraten erreichen im Repräsentantenhaus historisch starke Mehrheit",
+      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-demokraten-erreichen-im-repraesentantenhaus-historisch-starke-mehrheit-a-6b42898d-ee86-41e7-a545-8275e28ea40d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T21:27:00+00:00"
+    },
+    {
+      "titel": "Krieg in der Ukraine: Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-22T21:19:41+00:00"
+    },
+    {
+      "titel": "Finnland: »Sparta II« nach Brand in russische Gewässer geschleppt",
+      "link": "https://www.spiegel.de/ausland/finnland-sparta-ii-nach-brand-in-russische-gewaesser-geschleppt-a-3b64d5c4-f5b2-4c52-929a-d8dd06f0ddf3#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-22T21:19:00+00:00"
+    },
     {
       "titel": "Libyen: Explosion auf russischem Schiff – ukrainischer Angriff vermutet",
       "link": "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
@@ -47,48 +107,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-22T19:24:22+00:00"
-    },
-    {
-      "titel": "FC Arsenal: Lisa Baum bricht im Spiel mit Atemnot zusammen",
-      "link": "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T19:16:00+00:00"
-    },
-    {
-      "titel": "»Im Verhör«: Korrupte Justiz (3): Wie man sich einen Staatsanwalt kauft - SPIEGEL TV",
-      "link": "https://www.spiegel.de/panorama/justiz/im-verhoer-korrupte-justiz-3-wie-man-sich-einen-staatsanwalt-kauft-spiegel-tv-a-508e2f16-03cb-4944-87cb-67ccba1d98e8#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T19:14:00+00:00"
-    },
-    {
-      "titel": "Ukraine-Krieg: »Der Ukraine steht der härteste Kriegswinter bevor« – Militärexperte Franz-Stefan Gady",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T19:13:00+00:00"
-    },
-    {
-      "titel": "Umgang mit Trauer: Wenn der Friedhof zum Ort für Freundinnen und Feiern wird",
-      "link": "https://www.spiegel.de/psychologie/umgang-mit-trauer-wenn-der-friedhof-zum-ort-fuer-freundinnen-und-feiern-wird-a-c029ae9a-d194-4f77-91c4-281b5bbfb8f3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T19:13:00+00:00"
-    },
-    {
-      "titel": "Billy Joel versteigert Motorradsammlung für zwei Millionen Dollar",
-      "link": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T19:10:00+00:00"
-    },
-    {
-      "titel": "Delta Airline: Erneut US-Fluggesellschaft von technischer Störung betroffen",
-      "link": "https://www.spiegel.de/panorama/delta-airline-erneut-us-fluggesellschaft-von-technischer-stoerung-betroffen-a-9317e67b-5293-47bd-a5db-f38ea3944283#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-22T19:00:00+00:00"
-    },
-    {
-      "titel": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
-      "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T18:43:06+00:00"
     },
     {
       "titel": "Bundesliga: Bremen überrollt den HSV, Augsburg feiert Gregoritsch",
@@ -133,12 +151,6 @@
       "veroeffentlicht": "2026-11-22T15:36:15+00:00"
     },
     {
-      "titel": "Brand in indonesischer Süßwarenfabrik - viele Tote befürchtet",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-22T15:21:42+00:00"
-    },
-    {
       "titel": "Debatte um Gehaltsverzicht: Musialas jüngste Absence erklärt Rummenigges kalte Botschaft – rechtfertigt sie aber nicht",
       "link": "https://www.sueddeutsche.de/sport/bayern-musiala-rummenigge-hoeness-kommentar-li.3584241",
       "quelle": "Süddeutsche",
@@ -155,18 +167,6 @@
       "link": "https://www.sueddeutsche.de/politik/afd-nordrhein-westfalen-martin-vincentz-remigration-parteitag-landtagswahl-li.3581449",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-22T14:23:38+00:00"
-    },
-    {
-      "titel": "COP31 in Antalya: Klimakonferenz scheitert an zentralem Abschlusstext",
-      "link": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-einigung-gescheitert-li.3584161",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T13:26:42+00:00"
-    },
-    {
-      "titel": "Landesversammlung der Jungen Union: Söder drückt bei der Parteijugend die richtigen Knöpfe",
-      "link": "https://www.sueddeutsche.de/bayern/junge-union-landesversammlung-markus-soeder-berchtesgaden-li.3582493",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-22T13:13:05+00:00"
     }
   ]
 }
