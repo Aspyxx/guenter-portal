@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-25T01:09:01+00:00",
+  "aktualisiert": "2026-11-25T09:56:44+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Volkswagen China",
-      "link": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html",
+      "titel": "Neuer Aufreger am Horizont",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     },
     {
       "rang": 2,
-      "titel": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "titel": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "📈"
     },
     {
       "rang": 3,
-      "titel": "Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+      "titel": "Kerzen dürften deutlich teurer werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
