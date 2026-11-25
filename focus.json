@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-25T09:56:44+00:00",
+  "aktualisiert": "2026-11-25T19:40:15+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Neuer Aufreger am Horizont",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
+      "titel": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🏛️"
     },
     {
       "rang": 2,
-      "titel": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html",
+      "titel": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-orange-day-demo-verboten-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     },
     {
       "rang": 3,
-      "titel": "Kerzen dürften deutlich teurer werden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
+      "titel": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
       "quelle": "Tagesschau",
-      "icon": "🔎"
+      "icon": "📈"
     }
   ]
 }
