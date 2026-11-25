@@ -1,11 +1,107 @@
 {
-  "aktualisiert": "2026-11-24T18:21:11+00:00",
+  "aktualisiert": "2026-11-25T02:48:15+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Thomas Markle: Vater von Herzogin Meghan in Kalifornien angeklagt",
+      "link": "https://www.spiegel.de/panorama/justiz/thomas-markle-vater-von-herzogin-meghan-in-kalifornien-angeklagt-a-a5026e52-d91c-421e-bc35-e97c379b1437#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-25T02:14:00+00:00"
+    },
+    {
+      "titel": "Ukraine-Krieg: Selenskyj weist Lukaschenkos Moskau-Vorschlag zurück",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-weist-lukaschenkos-moskau-vorschlag-zurueck-a-93d67249-3b6c-427e-8281-f5b38c909950#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-25T01:54:00+00:00"
+    },
+    {
+      "titel": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-25T01:40:52+00:00"
+    },
+    {
+      "titel": "»GTA 6«: Vice-City-Radio lässt Sylvie Vartans »Danse ta vie« auf Spotify boomen",
+      "link": "https://www.spiegel.de/panorama/leute/gta-6-vice-city-radio-laesst-sylvie-vartans-danse-ta-vie-auf-spotify-boomen-a-df773e4a-0e19-46c5-948f-2f794664763d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-25T01:38:00+00:00"
+    },
+    {
+      "titel": "Nvidia: Jensen Huang entschuldigt sich bei Belegschaft und spricht über seine Therapie",
+      "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-b5286ad4-9ebb-4aa8-b004-d1825b9f262e#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-25T01:06:00+00:00"
+    },
+    {
+      "titel": "USA: Hacker sollen offenbar CIA-Geheimdienst angegriffen haben",
+      "link": "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-25T00:33:00+00:00"
+    },
+    {
+      "titel": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-25T00:06:58+00:00"
+    },
+    {
+      "titel": "Champions League: Dortmund punktet beim FC Arsenal, Maximilian Beier trifft",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-dortmund-punktet-beim-fc-arsenal-maximilian-beier-trifft-a-e5d9487d-3b7e-4256-a911-c5e89b58c0cf#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-24T22:43:00+00:00"
+    },
+    {
+      "titel": "Warum Heino für den Kanzler eigentlich ein Grüner ist",
+      "link": "https://www.spiegel.de/panorama/warum-heino-fuer-den-kanzler-eigentlich-ein-gruener-ist-a-84f3c67c-48c5-4a4c-bec3-64df374f4215#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-24T22:21:00+00:00"
+    },
+    {
+      "titel": "Champions League: RB Leipzig besiegt RC Lens, Real Madrid bezwingt PSV Eindhoven",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-rb-leipzig-besiegt-rc-lens-real-madrid-bezwingt-psv-eindhoven-a-3c7f16ab-4fc8-4707-9228-16e41ebf9a22#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-24T22:06:00+00:00"
+    },
+    {
+      "titel": "Huawei: US-Gericht verurteilt Telekommunikationskonzern wegen Industriespionage",
+      "link": "https://www.spiegel.de/ausland/huawei-us-gericht-verurteilt-telekommunikationskonzern-wegen-industriespionage-a-df491d81-9b94-430e-a73c-575ff81e9eba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-24T22:04:00+00:00"
+    },
+    {
+      "titel": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-24T20:17:10+00:00"
+    },
+    {
+      "titel": "Verbraucherschützer haben die smarte Brille im Blick",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-24T19:06:34+00:00"
+    },
+    {
+      "titel": "Berliner Linke schließt Emde aus Fraktion aus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-24T18:47:32+00:00"
+    },
+    {
+      "titel": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
+      "link": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-24T18:39:01+00:00"
+    },
+    {
+      "titel": "Berlin: Links ist an Vanessa Emde nichts",
+      "link": "https://www.sueddeutsche.de/meinung/vanessa-emde-linke-berlin-kommentar-li.3585568",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-24T18:28:04+00:00"
+    },
     {
       "titel": "Newsblog zu den Landtagswahlen: Berliner SPD-Vorsitzende: „Gut, dass die Linke jetzt für Klarheit gesorgt hat“",
       "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-fraktion-ausschluss-spd-krach-koenig-koalition-li.3540501",
@@ -19,28 +115,10 @@
       "veroeffentlicht": "2026-11-24T17:43:00+00:00"
     },
     {
-      "titel": "Berliner Linke schließt Emde aus Fraktion aus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T17:38:11+00:00"
-    },
-    {
-      "titel": "Gewalt gegen Frauen: Diese Gesellschaft ist zu abgestumpft",
-      "link": "https://www.spiegel.de/panorama/gewalt-gegen-frauen-diese-gesellschaft-ist-zu-abgestumpft-a-9631b2b7-4c13-49d2-85b5-885fde313f92#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T17:37:00+00:00"
-    },
-    {
       "titel": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-24T17:36:29+00:00"
-    },
-    {
-      "titel": "Die Linke und Vanessa Emde: Endlich eine rote Linie! - Kommentar",
-      "link": "https://www.spiegel.de/politik/die-linke-und-vanessa-emde-endlich-eine-rote-linie-kommentar-a-fd7bc979-aebe-4f34-97d0-baf23cb7b247#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T17:36:00+00:00"
     },
     {
       "titel": "Regierungsbildung in Berlin: Ende für Emde – Linksfraktion schließt Abgeordnete aus",
@@ -55,58 +133,16 @@
       "veroeffentlicht": "2026-11-24T17:21:31+00:00"
     },
     {
-      "titel": "Nicolas Sarkozy: Frankreichs Ex-Präsident wird wegen Zeugenmanipulation angeklagt",
-      "link": "https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-wird-wegen-zeugenmanipulation-angeklagt-a-df561e45-eb2a-4aa8-a0c2-ca7b7ed09337#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T17:15:00+00:00"
-    },
-    {
-      "titel": "Manuel Neuer soll Partnerin verlassen haben: Paarberaterin Ruth Marquardt über ihr virales Video",
-      "link": "https://www.spiegel.de/partnerschaft/manuel-neuer-soll-partnerin-verlassen-haben-paarberaterin-ruth-marquardt-ueber-ihr-virales-video-a-e9912a58-40f2-4b6e-99ad-6860f367b92f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T17:11:00+00:00"
-    },
-    {
-      "titel": "Felix Nmecha: Expertin kritisiert fehlende Distanz zu »Ballers in God«",
-      "link": "https://www.spiegel.de/sport/felix-nmecha-expertin-kritisiert-fehlende-distanz-zu-ballers-in-god-a-ee54d84c-a1b8-4c63-a2ca-cfc594864174#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T16:53:00+00:00"
-    },
-    {
       "titel": "35. Todestag von Freddie Mercury: Eine unsterbliche Stimme",
       "link": "https://www.tagesschau.de/kultur/freddie-mercury-todestag-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-24T16:52:38+00:00"
     },
     {
-      "titel": "Schwerte: Acht Verletzte nach Angriff auf Grünen-Büro mit Pfefferspray",
-      "link": "https://www.spiegel.de/panorama/justiz/schwerte-acht-verletzte-nach-angriff-auf-gruenen-buero-mit-pfefferspray-a-f2dc573c-07c7-42b8-a5bb-75de5e000e7e#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T16:45:00+00:00"
-    },
-    {
-      "titel": "Anthropic-Aktie fällt unter Ausgabepreis – auch Nvidia im Minus",
-      "link": "https://www.spiegel.de/wirtschaft/anthropic-aktie-faellt-unter-ausgabepreis-auch-nvidia-im-minus-a-3844359f-63bb-476d-b8b3-8746cecfdaf9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T16:45:00+00:00"
-    },
-    {
-      "titel": "Slowakei: Parlament schafft Recht auf Briefwahl ab",
-      "link": "https://www.spiegel.de/ausland/slowakei-parlament-schafft-recht-auf-briefwahl-ab-a-2aebe440-b023-46b9-8e19-e004ccbb2768#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T16:45:00+00:00"
-    },
-    {
-      "titel": "Vanessa Emde: Berliner Linke schließt umstrittene Politikerin aus Fraktion aus",
-      "link": "https://www.spiegel.de/politik/deutschland/vanessa-emde-berliner-linke-schliesst-umstrittene-politikerin-aus-fraktion-aus-a-d376bd08-93e1-46d3-86ec-a3f81025d59f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T16:38:00+00:00"
-    },
-    {
-      "titel": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
-      "link": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T16:24:25+00:00"
+      "titel": "Dokumentarfilm: Der wahre Ort zum Fürchten",
+      "link": "https://www.sueddeutsche.de/medien/true-crime-mein-mann-mein-moerder-lena-leonhardt-friedrich-b-brian-wyant-ashley-steinberg-li.3579023",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-24T16:37:19+00:00"
     },
     {
       "titel": "Commerzbank/Unicredit: Kanzlei wittert Absprachen bei Commerzbank-Übernahme",
@@ -121,52 +157,16 @@
       "veroeffentlicht": "2026-11-24T15:49:47+00:00"
     },
     {
-      "titel": "Bilanz des Spendenrats: Deutsche spenden wieder mehr",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T15:42:18+00:00"
-    },
-    {
-      "titel": "Weniger Hybridautos aus China - EU reguliert den Import",
-      "link": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T15:26:15+00:00"
-    },
-    {
       "titel": "Wettrüsten im Weltraum: Gestörte Verbindung: Wenn plötzlich russische Soldaten durchs Kinderfernsehen laufen",
       "link": "https://www.sueddeutsche.de/politik/satelliten-russland-stoerfall-sabotage-hybrider-krieg-li.3583094",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-24T15:25:11+00:00"
     },
     {
-      "titel": "Müssen Geflüchtete bei Taliban-Diplomaten vorsprechen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-gefluechtete-taliban-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T15:18:02+00:00"
-    },
-    {
-      "titel": "Taliban lassen Abschiebeflug verschieben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T15:15:31+00:00"
-    },
-    {
       "titel": "Krieg in der Ukraine: Selenskij: USA wollen Friedensschluss mit Russland bis Januar",
       "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-frieden-russland-usa-forderungen-li.3571967",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-24T15:15:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz: Ein Kanzler muss verhandeln können",
-      "link": "https://www.sueddeutsche.de/meinung/friedrich-merz-generaldebatte-bundestag-kommentar-li.3582968",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T15:11:09+00:00"
-    },
-    {
-      "titel": "Haushalt: Deutschland entgeht knapp einer Schulden-Rüge aus Brüssel",
-      "link": "https://www.sueddeutsche.de/wirtschaft/schulden-eu-deutschland-haushalt-defizit-li.3585011",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T15:03:25+00:00"
     }
   ]
 }
