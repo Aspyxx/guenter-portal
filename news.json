@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-25T02:48:15+00:00",
+  "aktualisiert": "2026-11-25T12:59:29+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,166 +7,166 @@
   },
   "meldungen": [
     {
-      "titel": "Thomas Markle: Vater von Herzogin Meghan in Kalifornien angeklagt",
-      "link": "https://www.spiegel.de/panorama/justiz/thomas-markle-vater-von-herzogin-meghan-in-kalifornien-angeklagt-a-a5026e52-d91c-421e-bc35-e97c379b1437#ref=rss",
+      "titel": "Eishockey-WM: Weltverband ficht Cas-Urteil zu Russland-Teilnahme an",
+      "link": "https://www.spiegel.de/sport/wintersport/eishockey-wm-weltverband-ficht-cas-urteil-zu-russland-teilnahme-an-a-041fee0d-db8c-4bc4-9e23-2ada254d69c8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T02:14:00+00:00"
+      "veroeffentlicht": "2026-11-25T12:50:00+00:00"
     },
     {
-      "titel": "Ukraine-Krieg: Selenskyj weist Lukaschenkos Moskau-Vorschlag zurück",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-weist-lukaschenkos-moskau-vorschlag-zurueck-a-93d67249-3b6c-427e-8281-f5b38c909950#ref=rss",
+      "titel": "Nach Apple-Absprung: Samsung steigt bei AMS-Osram ein",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/samsung-einstieg-osram-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-25T12:45:06+00:00"
+    },
+    {
+      "titel": "Tote und Vermisste nach Überflutung in Goldmine",
+      "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-25T12:31:45+00:00"
+    },
+    {
+      "titel": "BMW: Gesamtbetriebsratschef Martin Kimmich attackiert Konzernchefs in Tarifkonflikt",
+      "link": "https://www.spiegel.de/wirtschaft/bmw-gesamtbetriebsratschef-martin-kimmich-attackiert-konzernchefs-in-tarifkonflikt-a-2241c461-f01e-4162-b33c-1dd68cb2544f#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T01:54:00+00:00"
+      "veroeffentlicht": "2026-11-25T12:29:00+00:00"
     },
     {
-      "titel": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-25T01:40:52+00:00"
-    },
-    {
-      "titel": "»GTA 6«: Vice-City-Radio lässt Sylvie Vartans »Danse ta vie« auf Spotify boomen",
-      "link": "https://www.spiegel.de/panorama/leute/gta-6-vice-city-radio-laesst-sylvie-vartans-danse-ta-vie-auf-spotify-boomen-a-df773e4a-0e19-46c5-948f-2f794664763d#ref=rss",
+      "titel": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T01:38:00+00:00"
+      "veroeffentlicht": "2026-11-25T12:27:00+00:00"
     },
     {
-      "titel": "Nvidia: Jensen Huang entschuldigt sich bei Belegschaft und spricht über seine Therapie",
-      "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-b5286ad4-9ebb-4aa8-b004-d1825b9f262e#ref=rss",
+      "titel": "Jamal Musiala: Ein Friedensgipfel, miserable Stimmung beim FC Bayern München und ein Verdacht rund um einen Autounfall",
+      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-ein-friedensgipfel-miserable-stimmung-beim-fc-bayern-muenchen-und-ein-verdacht-rund-um-einen-autounfall-a-a9866857-1d84-4da9-9e70-1a21093582a8#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T01:06:00+00:00"
+      "veroeffentlicht": "2026-11-25T12:25:00+00:00"
     },
     {
-      "titel": "USA: Hacker sollen offenbar CIA-Geheimdienst angegriffen haben",
-      "link": "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf#ref=rss",
+      "titel": "Tennis: Arthur Rinderknech droht lange Sperre nach Dopingvorwürfen",
+      "link": "https://www.spiegel.de/sport/tennis/tennis-arthur-rinderknech-droht-lange-sperre-nach-dopingvorwuerfen-a-120fdf31-b205-4439-a49f-6229ffd94824#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T00:33:00+00:00"
+      "veroeffentlicht": "2026-11-25T12:16:00+00:00"
     },
     {
-      "titel": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-25T00:06:58+00:00"
-    },
-    {
-      "titel": "Champions League: Dortmund punktet beim FC Arsenal, Maximilian Beier trifft",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-dortmund-punktet-beim-fc-arsenal-maximilian-beier-trifft-a-e5d9487d-3b7e-4256-a911-c5e89b58c0cf#ref=rss",
+      "titel": "Gewalt gegen Frauen: 16 neue Maßnahmen im Überblick",
+      "link": "https://www.spiegel.de/panorama/gewalt-gegen-frauen-16-neue-massnahmen-im-ueberblick-a-83d5310a-ba99-4077-b946-0c08862679fa#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T22:43:00+00:00"
+      "veroeffentlicht": "2026-11-25T12:14:00+00:00"
     },
     {
-      "titel": "Warum Heino für den Kanzler eigentlich ein Grüner ist",
-      "link": "https://www.spiegel.de/panorama/warum-heino-fuer-den-kanzler-eigentlich-ein-gruener-ist-a-84f3c67c-48c5-4a4c-bec3-64df374f4215#ref=rss",
+      "titel": "Demokratie leben!: Vorstand der Amadeu-Antonio-Stiftung Timo Reinfrank über die Kürzungen",
+      "link": "https://www.spiegel.de/panorama/gesellschaft/demokratie-leben-vorstand-der-amadeu-antonio-stiftung-timo-reinfrank-ueber-die-kuerzungen-a-ee1bc823-c61c-4979-97d3-ea9ef7d00c79#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T22:21:00+00:00"
+      "veroeffentlicht": "2026-11-25T12:07:00+00:00"
     },
     {
-      "titel": "Champions League: RB Leipzig besiegt RC Lens, Real Madrid bezwingt PSV Eindhoven",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-rb-leipzig-besiegt-rc-lens-real-madrid-bezwingt-psv-eindhoven-a-3c7f16ab-4fc8-4707-9228-16e41ebf9a22#ref=rss",
+      "titel": "Bad Nauheim: Gericht verurteilt Schützen nach Doppelmord zu lebenslanger Freiheitsstrafe",
+      "link": "https://www.spiegel.de/panorama/justiz/bad-nauheim-gericht-verurteilt-schuetzen-nach-doppelmord-zu-lebenslanger-freiheitsstrafe-a-f2c9a419-73a2-4802-8d4c-c4cc0ba36c03#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T22:06:00+00:00"
+      "veroeffentlicht": "2026-11-25T11:54:00+00:00"
     },
     {
-      "titel": "Huawei: US-Gericht verurteilt Telekommunikationskonzern wegen Industriespionage",
-      "link": "https://www.spiegel.de/ausland/huawei-us-gericht-verurteilt-telekommunikationskonzern-wegen-industriespionage-a-df491d81-9b94-430e-a73c-575ff81e9eba#ref=rss",
+      "titel": "Wiggensbach im Allgäu: Das Wasser kommt jetzt per Milchtransporter",
+      "link": "https://www.spiegel.de/panorama/wiggensbach-im-allgaeu-das-wasser-kommt-jetzt-per-milchtransporter-a-616c65f0-b14f-48d1-bebe-8387d9f2f284#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-24T22:04:00+00:00"
+      "veroeffentlicht": "2026-11-25T11:52:00+00:00"
     },
     {
-      "titel": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "titel": "Euro-Schwäche: Was der \"KI-Dollar\" für Firmen und Sparer bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T20:17:10+00:00"
+      "veroeffentlicht": "2026-11-25T11:47:38+00:00"
     },
     {
-      "titel": "Verbraucherschützer haben die smarte Brille im Blick",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
+      "titel": "Viele offene Fragen bei Chipkonzern Nvidia",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-offene-fragen-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T19:06:34+00:00"
+      "veroeffentlicht": "2026-11-25T11:32:09+00:00"
     },
     {
-      "titel": "Berliner Linke schließt Emde aus Fraktion aus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
+      "titel": "Umstrittener Abschiebefall: Salvadorianer Abrego García hat USA verlassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T18:47:32+00:00"
+      "veroeffentlicht": "2026-11-25T11:19:15+00:00"
     },
     {
-      "titel": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
-      "link": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
+      "titel": "Arbeitsrecht: Länger krank im Job: Was steht mir zu?",
+      "link": "https://www.sueddeutsche.de/wirtschaft/arbeitsrecht-krankheit-gehalt-kuendigung-krankengeld-verletztengeld-li.3584916",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-25T11:12:24+00:00"
+    },
+    {
+      "titel": "Medizin: Was bringen ergonomische Büromöbel wirklich?",
+      "link": "https://www.sueddeutsche.de/gesundheit/ergonomische-schreibtischmoebel-cochrane-review-nacken-und-schulterschmerzen-arbeitsplatz-gesundheit-li.3570440",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-25T11:05:48+00:00"
+    },
+    {
+      "titel": "Flixtrain-Tickets bald auch bei Deutscher Bahn buchbar",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/flixtrain-deutsche-bahn-ticketverkauf-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T18:39:01+00:00"
+      "veroeffentlicht": "2026-11-25T11:01:33+00:00"
     },
     {
-      "titel": "Berlin: Links ist an Vanessa Emde nichts",
-      "link": "https://www.sueddeutsche.de/meinung/vanessa-emde-linke-berlin-kommentar-li.3585568",
+      "titel": "Fußball: Mitteilung des FC Bayern: Musialas erste Absence-Untersuchung war nach Vertragsverlängerung",
+      "link": "https://www.sueddeutsche.de/sport/fc-bayern-musiala-absence-vertragsverlaengerung-pressemitteilung-li.3585924",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T18:28:04+00:00"
+      "veroeffentlicht": "2026-11-25T11:00:10+00:00"
     },
     {
-      "titel": "Newsblog zu den Landtagswahlen: Berliner SPD-Vorsitzende: „Gut, dass die Linke jetzt für Klarheit gesorgt hat“",
-      "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-fraktion-ausschluss-spd-krach-koenig-koalition-li.3540501",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T18:04:45+00:00"
-    },
-    {
-      "titel": "Javokhir Sindarov bei der Schach-WM: Eine Karriere in Lichtgeschwindigkeit",
-      "link": "https://www.sueddeutsche.de/sport/schach-wm-2026-sindarov-gukesh-gegner-weltmeister-li.3584456",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T17:43:00+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+      "titel": "Bundestag legt Schweigeminute für Opfer von Femiziden ein",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T17:36:29+00:00"
+      "veroeffentlicht": "2026-11-25T10:55:47+00:00"
     },
     {
-      "titel": "Regierungsbildung in Berlin: Ende für Emde – Linksfraktion schließt Abgeordnete aus",
-      "link": "https://www.sueddeutsche.de/politik/linke-berlin-koalitionsverhandlungen-vanessa-emde-elif-eralp-li.3585338",
+      "titel": "Bundestag: Die fünf wichtigsten Erkenntnisse aus der Generaldebatte",
+      "link": "https://www.sueddeutsche.de/politik/bundestag-generaldebatte-haushalt-friedrich-merz-wichtigste-erkenntnisse-li.3585872",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T17:36:00+00:00"
+      "veroeffentlicht": "2026-11-25T10:48:52+00:00"
     },
     {
-      "titel": "Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen",
-      "link": "https://www.tagesschau.de/ausland/afrika/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
+      "titel": "Kolumne„ Schon schön“: Vollrausch mit Happy End",
+      "link": "https://www.sueddeutsche.de/leben/waschbaer-virginia-hanover-tiere-vollrausch-alkohol-li.3579564",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-25T10:44:27+00:00"
+    },
+    {
+      "titel": "AfD fordert Klage gegen Haushalt - Merz nennt Etat \"vertretbar\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T17:21:31+00:00"
+      "veroeffentlicht": "2026-11-25T10:44:12+00:00"
     },
     {
-      "titel": "35. Todestag von Freddie Mercury: Eine unsterbliche Stimme",
-      "link": "https://www.tagesschau.de/kultur/freddie-mercury-todestag-100.html",
+      "titel": "Run auf kostenlose Finnland-Reise für Singles",
+      "link": "https://www.tagesschau.de/ausland/europa/single-urlaub-finnland-100.html",
       "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-24T16:52:38+00:00"
+      "veroeffentlicht": "2026-11-25T10:40:38+00:00"
     },
     {
-      "titel": "Dokumentarfilm: Der wahre Ort zum Fürchten",
-      "link": "https://www.sueddeutsche.de/medien/true-crime-mein-mann-mein-moerder-lena-leonhardt-friedrich-b-brian-wyant-ashley-steinberg-li.3579023",
+      "titel": "Leute: Auch als Mutter darf man jetzt die schönste Frau der Welt sein",
+      "link": "https://www.sueddeutsche.de/panorama/promis-schoenheit-miss-universe-puerto-rico-mutter-li.3585866",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T16:37:19+00:00"
+      "veroeffentlicht": "2026-11-25T10:39:14+00:00"
     },
     {
-      "titel": "Commerzbank/Unicredit: Kanzlei wittert Absprachen bei Commerzbank-Übernahme",
-      "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahme-jefferies-nomura-li.3585250",
+      "titel": "Bundespolitik: Als Weidel spricht, greift Merz zum Buch",
+      "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-generaldebatte-bundestag-merz-klingbeil-weidel-reichinnek-li.3580621",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T15:57:22+00:00"
+      "veroeffentlicht": "2026-11-25T10:24:37+00:00"
     },
     {
-      "titel": "Champions League: Ach so: In Lille müssen die Bayern übrigens Fußball spielen",
-      "link": "https://www.sueddeutsche.de/sport/fc-bayern-lille-kane-verletzte-musiala-li.3585218",
+      "titel": "Notizen aus meinem Leben: Wie ich ganz früh schon Elon Musk und Mathias Döpfner verstand",
+      "link": "https://www.sueddeutsche.de/kultur/ekle-heidenreich-kapitalismus-mickey-maus-dagobert-duck-li.3584618",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T15:49:47+00:00"
+      "veroeffentlicht": "2026-11-25T10:15:37+00:00"
     },
     {
-      "titel": "Wettrüsten im Weltraum: Gestörte Verbindung: Wenn plötzlich russische Soldaten durchs Kinderfernsehen laufen",
-      "link": "https://www.sueddeutsche.de/politik/satelliten-russland-stoerfall-sabotage-hybrider-krieg-li.3583094",
+      "titel": "Serie: Kann sich ein Mensch als Maschine ausgeben?",
+      "link": "https://www.sueddeutsche.de/medien/blade-runner-2099-serie-rezension-li.3562523",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T15:25:11+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Selenskij: USA wollen Friedensschluss mit Russland bis Januar",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-frieden-russland-usa-forderungen-li.3571967",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-24T15:15:00+00:00"
+      "veroeffentlicht": "2026-11-25T10:05:37+00:00"
     }
   ]
 }
