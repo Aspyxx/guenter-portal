@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-24T16:33:27+00:00",
+  "aktualisiert": "2026-11-25T01:09:01+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Deutsche spenden wieder mehr",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
-      "rang": 2,
-      "titel": "Pushbacks in Ausnahmefällen zulässig",
-      "link": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
+      "titel": "Volkswagen China",
+      "link": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
+      "rang": 2,
+      "titel": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🏛️"
+    },
+    {
       "rang": 3,
-      "titel": "Weniger Hybridautos aus China - EU reguliert den Import",
-      "link": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html",
+      "titel": "Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     }
