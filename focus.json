@@ -1,24 +1,24 @@
 {
-  "aktualisiert": "2026-11-26T02:30:26+00:00",
+  "aktualisiert": "2026-11-26T11:35:22+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
+      "titel": "Warum die Slowakei blockieren will",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
       "quelle": "Tagesschau",
-      "icon": "🏛️"
+      "icon": "🔎"
     },
     {
       "rang": 2,
-      "titel": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+      "titel": "Angriffe auf Kiew - Tote in Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
       "quelle": "Tagesschau",
       "icon": "🏛️"
     },
     {
       "rang": 3,
-      "titel": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
+      "titel": "DAX macht einen Sprung nach vorn",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
       "quelle": "Tagesschau",
       "icon": "📈"
     }
