@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-25T22:34:25+00:00",
+  "aktualisiert": "2026-11-26T04:25:55+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,10 +7,94 @@
   },
   "meldungen": [
     {
-      "titel": "New York: Sturmwarnung verschiebt Thanksgiving-Parade",
-      "link": "https://www.spiegel.de/panorama/new-york-sturmwarnung-verschiebt-thanksgiving-parade-a-db806430-86b6-4cbb-b14f-5fa4cfde3b26#ref=rss",
+      "titel": "Boris Pistorius: Ministerium ruft 14 Milliarden Euro aus Mega-Budget nicht ab",
+      "link": "https://www.spiegel.de/politik/deutschland/boris-pistorius-ministerium-ruft-14-milliarden-euro-aus-mega-budget-nicht-ab-a-e72550cb-0c72-4624-acb3-0c120f407461#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T22:27:00+00:00"
+      "veroeffentlicht": "2026-11-26T04:08:00+00:00"
+    },
+    {
+      "titel": "Brad Pitt und Angelina Jolie beenden Streit um Weingut in Frankreich",
+      "link": "https://www.spiegel.de/panorama/leute/brad-pitt-und-angelina-jolie-beenden-streit-um-weingut-in-frankreich-a-adb359c7-72a9-43e0-9a3a-fd95e8c3f861#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-26T04:06:00+00:00"
+    },
+    {
+      "titel": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-26T04:00:53+00:00"
+    },
+    {
+      "titel": "Ägypten: Tankwagen explodiert in Vorort von Kairo – 31 Tote und Verletzte",
+      "link": "https://www.spiegel.de/panorama/aegypten-tankwagen-explodiert-in-vorort-von-kairo-31-tote-und-verletzte-a-4788fca1-51d5-4ea7-924b-57f0c6003e64#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-26T03:46:00+00:00"
+    },
+    {
+      "titel": "Duran Duran: Ex-Gitarrist Andy Taylor im Alter von 65 Jahren gestorben",
+      "link": "https://www.spiegel.de/kultur/musik/duran-duran-ex-gitarrist-andy-taylor-im-alter-von-65-jahren-gestorben-a-79954b88-ecf6-45f9-8d90-6a531481f60f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-26T02:54:00+00:00"
+    },
+    {
+      "titel": "TV-Kritik: „Bei den Linken gibt es Rassisten und Antisemiten“",
+      "link": "https://www.sueddeutsche.de/medien/sandra-maischberger-ard-talkshow-tv-kritik-kubicki-pantisano-li.3586194",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-26T02:08:21+00:00"
+    },
+    {
+      "titel": "Türkei: Tausende demonstrieren gegen Gewalt an Frauen",
+      "link": "https://www.spiegel.de/ausland/tuerkei-tausende-demonstrieren-gegen-gewalt-an-frauen-a-1cbc9fe0-4f48-495c-b616-90a1b5af9d5b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-26T02:07:00+00:00"
+    },
+    {
+      "titel": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-26T01:58:55+00:00"
+    },
+    {
+      "titel": "Elon Musk: SpaceX erhält FCC-Genehmigung für KI-Rechenzentren im Weltall",
+      "link": "https://www.spiegel.de/wissenschaft/elon-musk-spacex-erhaelt-fcc-genehmigung-fuer-ki-rechenzentren-im-weltall-a-0547f262-8951-4710-a8f0-c99caba8d37f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-26T01:52:00+00:00"
+    },
+    {
+      "titel": "USA: Armee sprengt vier Tonnen Bleiazid in Ohio-Munitionsfabrik",
+      "link": "https://www.spiegel.de/ausland/usa-armee-sprengt-vier-tonnen-bleiazid-in-ohio-munitionsfabrik-a-92c629a4-f160-4c70-b3a7-4697289811ba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-26T00:30:00+00:00"
+    },
+    {
+      "titel": "Fall Jamal Musiala: Joshua Kimmich verurteilt Verhalten der Bayern-Granden",
+      "link": "https://www.spiegel.de/sport/fussball/fall-jamal-musiala-joshua-kimmich-verurteilt-verhalten-der-bayern-granden-a-fd40db87-e493-4377-bbad-97559bc54972#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-26T00:22:00+00:00"
+    },
+    {
+      "titel": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+      "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-25T23:56:55+00:00"
+    },
+    {
+      "titel": "Joshua Kimmich zum Fall Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
+      "link": "https://www.sueddeutsche.de/sport/kimmich-kritik-musiala-lille-fc-bayern-li.3586330",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-25T23:25:20+00:00"
+    },
+    {
+      "titel": "Champions League: FC Bayern München verliert nach Führung in Lille",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-verliert-nach-fuehrung-in-lille-a-705d3778-1c49-4f83-b5b8-030c9b4b06c2#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-25T23:13:00+00:00"
+    },
+    {
+      "titel": "Bayern in der Einzelkritik: Laimer versucht sich als Kane-Aushilfe",
+      "link": "https://www.sueddeutsche.de/sport/bayern-lille-einzelkritik-musiala-laimer-li.3586299",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-25T22:30:12+00:00"
     },
     {
       "titel": "Champions League in Lille: Für die Bayern kommt einfach zu viel zusammen",
@@ -19,64 +103,16 @@
       "veroeffentlicht": "2026-11-25T22:21:42+00:00"
     },
     {
-      "titel": "Champions League: Florian Wirtz trifft schon wieder, Stuttgart scheitert in Mailand",
-      "link": "https://www.spiegel.de/sport/fussball/champions-league-florian-wirtz-trifft-schon-wieder-stuttgart-scheitert-in-mailand-a-507c132a-6d1c-40e1-a50c-de57c0ecaa4b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T22:03:00+00:00"
-    },
-    {
-      "titel": "Regierungsbildung in Berlin: Franziska Giffey sieht mit Ausschluss von Vanessa Emde keine Lösung mit Linken",
-      "link": "https://www.spiegel.de/politik/deutschland/regierungsbildung-in-berlin-franziska-giffey-sieht-mit-ausschluss-von-vanessa-emde-keine-loesung-mit-linken-a-19e6423b-d6dd-4769-a1c5-e9eabe7a0350#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T21:14:00+00:00"
-    },
-    {
-      "titel": "Frida Gold: Frontfrau Alina Süggeler stellte sich bei Hirnblutung »auf Sterben ein«",
-      "link": "https://www.spiegel.de/panorama/leute/frida-gold-frontfrau-alina-sueggeler-stellte-sich-bei-hirnblutung-auf-sterben-ein-a-392f7f4f-60bf-4ea2-8bb4-201cec0b3ad3#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T21:11:00+00:00"
-    },
-    {
       "titel": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
       "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-25T21:10:04+00:00"
     },
     {
-      "titel": "Nvidia: Millionenvergleich nach Klagen wegen Kryptogeschäft",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-millionenvergleich-nach-klagen-wegen-kryptogeschaeft-a-254975c7-e4f6-4c79-acaf-8e3289adaeec#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T21:10:00+00:00"
-    },
-    {
       "titel": "Streit um \"Rente mit 63\": Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-25T20:40:23+00:00"
-    },
-    {
-      "titel": "EU-Kommission: 470-Millionen-Euro-Strafe gegen Parfümkartell",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-470-millionen-euro-strafe-gegen-parfuemkartell-a-b67298ac-ea3c-4961-8257-0d44689c4b2b#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T20:36:00+00:00"
-    },
-    {
-      "titel": "Miss Universe: Jennifer Barreto aus Puerto Rico gewinnt Wettbewerb",
-      "link": "https://www.spiegel.de/panorama/miss-universe-jennifer-barreto-aus-puerto-rico-gewinnt-wettbewerb-a-1cae5ef7-0c9b-407c-bdd4-818493c0fdac#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T20:35:00+00:00"
-    },
-    {
-      "titel": "Russland: »Putin kann keinen Krieg führen wie Stalin« Sönke Neitzel und Hanna Notte im SPIEGEL-Talk",
-      "link": "https://www.spiegel.de/politik/deutschland/russland-putin-kann-keinen-krieg-fuehren-wie-stalin-soenke-neitzel-und-hanna-notte-im-spiegel-talk-a-2bd42a0d-8b31-42fe-adea-9592b8ef2507#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T20:33:00+00:00"
-    },
-    {
-      "titel": "Schweinfurt: Schülerin über Monate missbraucht – sieben Tatverdächtige",
-      "link": "https://www.spiegel.de/panorama/justiz/schweinfurt-schuelerin-ueber-monate-missbraucht-sieben-tatverdaechtige-a-9dd6daa6-d67b-4ede-8d05-1f93d7b9a0d9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-25T19:52:00+00:00"
     },
     {
       "titel": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
@@ -109,28 +145,10 @@
       "veroeffentlicht": "2026-11-25T18:10:19+00:00"
     },
     {
-      "titel": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-      "link": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-25T17:37:52+00:00"
-    },
-    {
-      "titel": "Asteroiden-Abwehr - einfach schießen und hoffen reicht nicht",
-      "link": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-25T17:30:09+00:00"
-    },
-    {
       "titel": "Jugendliche unter Verdacht: 13-Jährige über Monate sexuell missbraucht",
       "link": "https://www.sueddeutsche.de/bayern/schweinfurt-missbrauch-jugendliche-polizei-unterfranken-li.3586286",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-25T17:26:51+00:00"
-    },
-    {
-      "titel": "Marktbericht: DAX fällt unter 25.000 Punkte-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-25T17:17:11+00:00"
     },
     {
       "titel": "Prozess um Vorteilsnahme im Amt: Champagner, Wiesn-Markerl und Spenden angenommen: Keine Pensionsansprüche mehr für Ex-Polizeichef aus Grünwald",
@@ -149,24 +167,6 @@
       "link": "https://www.sueddeutsche.de/sport/fifa-gianni-infantino-afrika-stimmen-africa-cup-li.3585959",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-25T15:06:15+00:00"
-    },
-    {
-      "titel": "„GTA 6“: Gegen Lucia verlieren alle anderen Frauen",
-      "link": "https://www.sueddeutsche.de/kultur/gta-6-gegen-lucia-verlieren-alle-frauen-li.3584886",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-25T14:43:31+00:00"
-    },
-    {
-      "titel": "Vier Wochen nach dem Brand: Kehlsteinhaus: Ruine im Schnee",
-      "link": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-brand-berchtesgaden-adolf-hitler-wiederaufbau-li.3585834",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-25T14:22:37+00:00"
-    },
-    {
-      "titel": "Iranische Sängerin Parastoo Ahmadi: „Wenn mein Blut vergossen wird, ist es der Preis für die Befreiung aus dieser Knechtschaft“",
-      "link": "https://www.sueddeutsche.de/politik/parastoo-ahmadi-iran-74-peitschenhiebe-li.3585860",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-25T14:22:07+00:00"
     }
   ]
 }
