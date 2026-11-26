@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-26T11:35:22+00:00",
+  "aktualisiert": "2026-11-26T20:36:21+00:00",
   "themen": [
     {
       "rang": 1,
-      "titel": "Warum die Slowakei blockieren will",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
+      "titel": "Ringe Der Macht Staffel 4",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
+      "quelle": "Tagesschau",
+      "icon": "📈"
+    },
+    {
+      "rang": 2,
+      "titel": "Was wird gerade diskutiert?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Angriffe auf Kiew - Tote in Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🏛️"
-    },
-    {
       "rang": 3,
-      "titel": "DAX macht einen Sprung nach vorn",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
+      "titel": "Sieben von zehn ermordeten Frauen Opfer häuslicher Gewalt",
+      "link": "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🔎"
     }
   ]
 }
