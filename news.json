@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-27T15:37:20+00:00",
+  "aktualisiert": "2026-11-27T23:44:40+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
@@ -7,16 +7,124 @@
   },
   "meldungen": [
     {
-      "titel": "René Benko: Gericht korrigiert Strafe nach oben – nun drei Jahre Haft",
-      "link": "https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T15:29:00+00:00"
+      "titel": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-27T23:35:35+00:00"
     },
     {
-      "titel": "Rügen: Tote Robben vor der Insel – Zwei Fischer verurteilt",
-      "link": "https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss",
+      "titel": "Fußball-Bundesliga: Niclas Füllkrug rettet Werder Bremen spät Punkt gegen Gladbach",
+      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss",
       "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T15:27:00+00:00"
+      "veroeffentlicht": "2026-11-27T22:46:00+00:00"
+    },
+    {
+      "titel": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
+      "link": "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-27T22:40:00+00:00"
+    },
+    {
+      "titel": "USA: Noch immer Hunderttausende nach Sturm ohne Strom",
+      "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-sturm-stromausfall-ostkueste-pennsylvania-li.3578585",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-27T22:28:30+00:00"
+    },
+    {
+      "titel": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-27T22:10:29+00:00"
+    },
+    {
+      "titel": "OpenAI: KI-Entwickler wirft Apple Diebstahl von Geschäftsgeheimnissen vor",
+      "link": "https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-27T21:44:00+00:00"
+    },
+    {
+      "titel": "Collien Fernandes: Ermittlungen auf Mallorca werden fortgesetzt",
+      "link": "https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt-a-38686b85-af44-44d0-ae38-d3d632769c75#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-27T21:06:00+00:00"
+    },
+    {
+      "titel": "Ibiza: Gekenterter Tanker mit 7000 Tonnen Diesel soll in Hafen",
+      "link": "https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-27T20:29:00+00:00"
+    },
+    {
+      "titel": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
+      "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-27T19:45:49+00:00"
+    },
+    {
+      "titel": "KI: Ex-US-Arbeitsminister Robert Reich will die Macht der Techmilliardäre brechen",
+      "link": "https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-27T19:28:00+00:00"
+    },
+    {
+      "titel": "Schröder vs. Poschardt: Wie der Moderator an dem Krawall-Autor scheitert",
+      "link": "https://www.spiegel.de/kultur/tv/schroeder-vs-poschardt-wie-der-moderator-an-dem-krawall-autor-scheitert-a-50afd16b-a7f4-4f71-a65c-6e53299b2c2d#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-27T19:03:00+00:00"
+    },
+    {
+      "titel": "Spanien: Mindestens acht Tote auf Flüchtlingsboot vor El Hierro",
+      "link": "https://www.spiegel.de/ausland/spanien-mindestens-acht-tote-auf-fluechtlingsboot-vor-el-hierro-a-cfe8e9a9-1634-409e-9390-970de196082f#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-27T19:01:00+00:00"
+    },
+    {
+      "titel": "Berlin: Zwei »Compact«-Journalisten bei YouTube-Awards angegriffen",
+      "link": "https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-27T17:33:00+00:00"
+    },
+    {
+      "titel": "Marktbericht: Schnäppchenjagd an der Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-27T17:30:38+00:00"
+    },
+    {
+      "titel": "Das plant Arbeitsminister Schweitzer für die Rente",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-27T16:30:51+00:00"
+    },
+    {
+      "titel": "Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter",
+      "link": "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-27T16:26:55+00:00"
+    },
+    {
+      "titel": "Schach-WM: „Dieser Zug wurde im Spitzenschach seit 40 Jahren nicht mehr gespielt“",
+      "link": "https://www.sueddeutsche.de/sport/schach-wm-analyse-video-kindermann-li.3587378",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-27T16:17:11+00:00"
+    },
+    {
+      "titel": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-27T16:09:18+00:00"
+    },
+    {
+      "titel": "Schifffahrt: Vor diesen Spionen kann sich niemand verstecken",
+      "link": "https://www.sueddeutsche.de/wissen/seevoegel-schiffe-artenschutz-fernerkundung-ais-li.3584671",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-27T15:54:22+00:00"
+    },
+    {
+      "titel": "Jamal Musiala und der FC Bayern: Die Geschichte einer Eskalation",
+      "link": "https://www.sueddeutsche.de/sport/musiala-rummenigge-fc-bayern-hoeness-vertrag-muskelfaserriss-li.3587105",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-27T15:35:54+00:00"
     },
     {
       "titel": "Helge Schneider sagt Tschüss - vielleicht",
@@ -25,22 +133,16 @@
       "veroeffentlicht": "2026-11-27T15:23:02+00:00"
     },
     {
-      "titel": "Rente: Arbeitsminister Alexander Schweitzer legt Gesetzentwurf zur Rentenreform vor",
-      "link": "https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T15:18:00+00:00"
+      "titel": "Nazi-Vergangenheit: Der schwere Umgang mit dem anderen Leben des Günter Leifheit",
+      "link": "https://www.sueddeutsche.de/wirtschaft/guenter-leifheit-nassau-ns-vergangenheit-waffen-ss-maezen-li.3568755",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-27T15:11:20+00:00"
     },
     {
-      "titel": "»Erika (Auf der Heide)«: Heinos neues Lied enthält Textpassage aus NS-Marschlied",
-      "link": "https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T15:12:00+00:00"
-    },
-    {
-      "titel": "Weihnachtsmärkte in Deutschland: Diese sechs sollen zu den besten Europas gehören",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren-a-783bdd55-5f30-4671-8f8a-9e98cabd4570#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T15:04:00+00:00"
+      "titel": "Jamal Musiala: Gar nicht so einfach, in einer kranken Branche gesund zu werden",
+      "link": "https://www.sueddeutsche.de/meinung/jamal-musiala-fc-bayern-muenchen-kommentar-rummenigge-profifussball-li.3586823",
+      "quelle": "Süddeutsche",
+      "veroeffentlicht": "2026-11-27T15:08:19+00:00"
     },
     {
       "titel": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
@@ -49,124 +151,22 @@
       "veroeffentlicht": "2026-11-27T15:03:21+00:00"
     },
     {
-      "titel": "Sauter: Klavierbauer stellt Insolvenzantrag",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T14:58:00+00:00"
-    },
-    {
-      "titel": "Friedrich Merz und die Koalition: Die Regierung muss endlich wieder verantwortungsvoll haushalten – Kommentar",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T14:56:00+00:00"
-    },
-    {
-      "titel": "Wetter: Minusgrade und Glätte am ersten Adventswochenende",
-      "link": "https://www.spiegel.de/panorama/wetter-minusgrade-und-glaette-am-ersten-adventswochenende-a-51f64aef-1c7a-47f6-b28e-2843340ef501#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T14:55:00+00:00"
-    },
-    {
-      "titel": "Jamal Musiala: Offensivstar des FC Bayern fällt bis Jahresende aus",
-      "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T14:49:00+00:00"
-    },
-    {
-      "titel": "Podcast: „Auf den Punkt“: Podcast: Das steht im Rentenkompromiss",
-      "link": "https://www.sueddeutsche.de/politik/podcast-auf-den-punkt-rente-li.3587087",
+      "titel": "Kunstbiennale in Venedig: Die Kunstdiplomatin",
+      "link": "https://www.sueddeutsche.de/kultur/schardscha-venedig-biennale-kuratorin-li.3587045",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T14:40:58+00:00"
+      "veroeffentlicht": "2026-11-27T14:54:47+00:00"
     },
     {
-      "titel": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T14:13:55+00:00"
-    },
-    {
-      "titel": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T14:12:31+00:00"
-    },
-    {
-      "titel": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
-      "link": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T14:10:01+00:00"
-    },
-    {
-      "titel": "Das plant Arbeitsminister Schweitzer für die Rente",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T14:00:01+00:00"
-    },
-    {
-      "titel": "Sozialpolitik: Was die Rentenpläne für die Bürger bedeuten",
-      "link": "https://www.sueddeutsche.de/politik/rente-rentenreform-bundesregierung-gesetzentwurf-ueberblick-li.3586468",
+      "titel": "Serie: Ein deutscher See will Blut sehen",
+      "link": "https://www.sueddeutsche.de/medien/rezension-kritik-ard-mediathek-deutsche-serie-li.3570406",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T14:00:00+00:00"
+      "veroeffentlicht": "2026-11-27T14:52:18+00:00"
     },
     {
-      "titel": "Sozialpolitik: Neuer Gesetzentwurf: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben",
-      "link": "https://www.sueddeutsche.de/politik/rente-rentenreform-arbeitsminister-bundesregierung-li.3586466",
+      "titel": "Comedy: Bitte lacht doch jetzt mal",
+      "link": "https://www.sueddeutsche.de/medien/florian-schroeder-journal-deluxe-zdf-comedy-ulf-poschardt-li.3586040",
       "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T14:00:00+00:00"
-    },
-    {
-      "titel": "Wer 2027 im Haushalt mehr Geld bekommt - und wer weniger",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T13:55:11+00:00"
-    },
-    {
-      "titel": "Anthropics wilde erste Börsenwoche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T13:44:03+00:00"
-    },
-    {
-      "titel": "Serbiens Studenten nominieren Professor als Staatsoberhaupt",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-praesidentschaftswahl-professor-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T13:37:34+00:00"
-    },
-    {
-      "titel": "USA: Und plötzlich bezeichnet Trump ihn als „sehr smart“",
-      "link": "https://www.sueddeutsche.de/politik/abdul-el-sayed-donald-trump-trumpcare-usa-li.3586836",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T13:14:47+00:00"
-    },
-    {
-      "titel": "Leute: „Die Neuinterpretation eines Igels“",
-      "link": "https://www.sueddeutsche.de/panorama/sandra-hueller-vogue-best-dressed-people-chanel-jacke-li.3587106",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T11:18:42+00:00"
-    },
-    {
-      "titel": "Krieg in der Ukraine: Selenskij kritisiert Trumps Freundschaftsbekundung für Putin",
-      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kritik-selenskij-trump-putin-li.3585810",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T10:07:31+00:00"
-    },
-    {
-      "titel": "Sperre von Laura Freigang: „Es bricht mir das Herz“",
-      "link": "https://www.sueddeutsche.de/sport/freigang-sperre-dfb-team-frankfurt-li.3587038",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T09:58:00+00:00"
-    },
-    {
-      "titel": "Bilder vom Wintereinbruch: Die ersten Flocken fallen vom Münchner Himmel",
-      "link": "https://www.sueddeutsche.de/muenchen/muenchen-schnee-wetter-winter-bilder-li.3586690",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T08:16:25+00:00"
-    },
-    {
-      "titel": "Kriminalität: Angriff auf Journalisten von „Compact“-Magazin",
-      "link": "https://www.sueddeutsche.de/medien/angriff-journalisten-compact-magazin-li.3587029",
-      "quelle": "Süddeutsche",
-      "veroeffentlicht": "2026-11-27T07:13:48+00:00"
+      "veroeffentlicht": "2026-11-27T14:49:13+00:00"
     }
   ]
 }
