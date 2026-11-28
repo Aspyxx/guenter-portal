@@ -1,11 +1,65 @@
 {
-  "aktualisiert": "2026-11-27T23:44:40+00:00",
+  "aktualisiert": "2026-11-28T05:00:59+00:00",
   "anzahlProQuelle": {
     "Tagesschau": 9,
     "SPIEGEL": 9,
     "Süddeutsche": 9
   },
   "meldungen": [
+    {
+      "titel": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+      "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-28T04:58:25+00:00"
+    },
+    {
+      "titel": "Washington, D.C.: Flugzeug streift Flügel anderer Maschine auf Flughafen",
+      "link": "https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen-a-79ba85e3-c793-4607-8c39-40e93375ecda#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-28T04:58:00+00:00"
+    },
+    {
+      "titel": "Wie Sie Ihrem Baby helfen, gut zu schlafen",
+      "link": "https://www.spiegel.de/familie/wie-sie-ihrem-baby-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-28T04:30:00+00:00"
+    },
+    {
+      "titel": "ADHS: Wie Sascha Lobo mit vier Kindern seinen Alltag meistert",
+      "link": "https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert-a-b72d0d53-4084-4794-81a1-f87bd377dd07#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-28T04:30:00+00:00"
+    },
+    {
+      "titel": "KNDS: 100.000 Bewerbungen beim Panzerbauer in Deutschland",
+      "link": "https://www.spiegel.de/politik/knds-100-000-bewerbungen-beim-panzerbauer-in-deutschland-a-bc7b0841-5fb8-4e89-8570-b120045f55b1#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-28T04:05:00+00:00"
+    },
+    {
+      "titel": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+      "link": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-28T03:34:41+00:00"
+    },
+    {
+      "titel": "US-Militär beschießt Frachter im Golf von Oman",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-28T03:27:38+00:00"
+    },
+    {
+      "titel": "Durchsuchung bei Le Pens früherem Bürochef",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
+      "quelle": "Tagesschau",
+      "veroeffentlicht": "2026-11-28T01:41:50+00:00"
+    },
+    {
+      "titel": "Umweltminister Schneider plädiert für Umbau des Rheins",
+      "link": "https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins-a-9bdd3f7a-fe7f-4e4c-ac53-c978f80c2fba#ref=rss",
+      "quelle": "SPIEGEL",
+      "veroeffentlicht": "2026-11-28T00:15:00+00:00"
+    },
     {
       "titel": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
@@ -49,40 +103,10 @@
       "veroeffentlicht": "2026-11-27T21:06:00+00:00"
     },
     {
-      "titel": "Ibiza: Gekenterter Tanker mit 7000 Tonnen Diesel soll in Hafen",
-      "link": "https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T20:29:00+00:00"
-    },
-    {
       "titel": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
       "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
       "quelle": "Tagesschau",
       "veroeffentlicht": "2026-11-27T19:45:49+00:00"
-    },
-    {
-      "titel": "KI: Ex-US-Arbeitsminister Robert Reich will die Macht der Techmilliardäre brechen",
-      "link": "https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T19:28:00+00:00"
-    },
-    {
-      "titel": "Schröder vs. Poschardt: Wie der Moderator an dem Krawall-Autor scheitert",
-      "link": "https://www.spiegel.de/kultur/tv/schroeder-vs-poschardt-wie-der-moderator-an-dem-krawall-autor-scheitert-a-50afd16b-a7f4-4f71-a65c-6e53299b2c2d#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T19:03:00+00:00"
-    },
-    {
-      "titel": "Spanien: Mindestens acht Tote auf Flüchtlingsboot vor El Hierro",
-      "link": "https://www.spiegel.de/ausland/spanien-mindestens-acht-tote-auf-fluechtlingsboot-vor-el-hierro-a-cfe8e9a9-1634-409e-9390-970de196082f#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T19:01:00+00:00"
-    },
-    {
-      "titel": "Berlin: Zwei »Compact«-Journalisten bei YouTube-Awards angegriffen",
-      "link": "https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss",
-      "quelle": "SPIEGEL",
-      "veroeffentlicht": "2026-11-27T17:33:00+00:00"
     },
     {
       "titel": "Marktbericht: Schnäppchenjagd an der Börse",
@@ -97,22 +121,10 @@
       "veroeffentlicht": "2026-11-27T16:30:51+00:00"
     },
     {
-      "titel": "Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter",
-      "link": "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T16:26:55+00:00"
-    },
-    {
       "titel": "Schach-WM: „Dieser Zug wurde im Spitzenschach seit 40 Jahren nicht mehr gespielt“",
       "link": "https://www.sueddeutsche.de/sport/schach-wm-analyse-video-kindermann-li.3587378",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-27T16:17:11+00:00"
-    },
-    {
-      "titel": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T16:09:18+00:00"
     },
     {
       "titel": "Schifffahrt: Vor diesen Spionen kann sich niemand verstecken",
@@ -127,12 +139,6 @@
       "veroeffentlicht": "2026-11-27T15:35:54+00:00"
     },
     {
-      "titel": "Helge Schneider sagt Tschüss - vielleicht",
-      "link": "https://www.tagesschau.de/kultur/helge-schneider-abschiedstournee-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T15:23:02+00:00"
-    },
-    {
       "titel": "Nazi-Vergangenheit: Der schwere Umgang mit dem anderen Leben des Günter Leifheit",
       "link": "https://www.sueddeutsche.de/wirtschaft/guenter-leifheit-nassau-ns-vergangenheit-waffen-ss-maezen-li.3568755",
       "quelle": "Süddeutsche",
@@ -143,12 +149,6 @@
       "link": "https://www.sueddeutsche.de/meinung/jamal-musiala-fc-bayern-muenchen-kommentar-rummenigge-profifussball-li.3586823",
       "quelle": "Süddeutsche",
       "veroeffentlicht": "2026-11-27T15:08:19+00:00"
-    },
-    {
-      "titel": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
-      "link": "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
-      "quelle": "Tagesschau",
-      "veroeffentlicht": "2026-11-27T15:03:21+00:00"
     },
     {
       "titel": "Kunstbiennale in Venedig: Die Kunstdiplomatin",
