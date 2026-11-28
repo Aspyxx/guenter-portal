@@ -1,26 +1,26 @@
 {
-  "aktualisiert": "2026-11-27T21:41:35+00:00",
+  "aktualisiert": "2026-11-28T03:35:35+00:00",
   "themen": [
     {
       "rang": 1,
+      "titel": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+      "quelle": "Tagesschau",
+      "icon": "🔎"
+    },
+    {
+      "rang": 2,
       "titel": "Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter",
       "link": "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
       "quelle": "Tagesschau",
       "icon": "🔎"
     },
     {
-      "rang": 2,
-      "titel": "Das plant Arbeitsminister Schweitzer für die Rente",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
-      "quelle": "Tagesschau",
-      "icon": "🔎"
-    },
-    {
       "rang": 3,
-      "titel": "Schnäppchenjagd an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+      "titel": "US-Militär beschießt Frachter im Golf von Oman",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
       "quelle": "Tagesschau",
-      "icon": "📈"
+      "icon": "🌍"
     }
   ]
 }
